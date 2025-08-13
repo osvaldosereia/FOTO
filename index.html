@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Prompts de Imagem Profissional</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align to top for longer content */
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            max-width: 900px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #374151;
+            margin-bottom: 15px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        .option-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+        }
+        .option-item {
+            display: flex;
+            align-items: center;
+            background-color: #f9fafb;
+            padding: 12px 15px;
+            border-radius: 8px;
+            border: 1px solid #e5e7eb;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+        }
+        .option-item:hover {
+            background-color: #eff6ff;
+            border-color: #93c5fd;
+        }
+        .option-item input[type="radio"]:checked + span {
+            font-weight: 600;
+            color: #2563eb;
+        }
+        .option-item input[type="radio"]:checked {
+            accent-color: #2563eb;
+        }
+        .option-item span {
+            margin-left: 10px;
+            color: #4b5563;
+            font-weight: 500;
+        }
+        textarea {
+            resize: vertical;
+            min-height: 120px;
+            max-height: 300px;
+        }
+        .button-primary {
+            background-color: #2563eb;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-align: center;
+            border: none;
+        }
+        .button-primary:hover {
+            background-color: #1d4ed8;
+        }
+        .button-secondary {
+            background-color: #e5e7eb;
+            color: #374151;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-align: center;
+            border: none;
+            margin-left: 10px;
+        }
+        .button-secondary:hover {
+            background-color: #d1d5db;
+        }
+        @media (max-width: 768px) {
+            .option-group {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-3xl font-bold text-gray-800 text-center mb-6">Gerador de Prompts de Imagem Profissional</h1>
+        <p class="text-gray-600 text-center mb-6">
+            Selecione as opções abaixo para criar um prompt personalizado para o ChatGPT, otimizado para gerar sua imagem profissional.
+        </p>
+
+        <form id="promptGeneratorForm" class="flex flex-col gap-8">
+            <!-- Profissão -->
+            <div>
+                <h2 class="section-title">1. Sua Profissão/Ocupação</h2>
+                <input type="text" id="occupation" placeholder="Ex: Engenheiro de Software, Médico, Designer Gráfico"
+                    class="w-full p-3 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500 shadow-sm">
+            </div>
+
+            <!-- Estilo/Tom da Imagem -->
+            <div>
+                <h2 class="section-title">2. Estilo/Tom da Imagem</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="style" value="formal e corporativo" checked>
+                        <span>Formal e Corporativo</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="style" value="profissional acessível">
+                        <span>Profissional Acessível</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="style" value="criativo e moderno">
+                        <span>Criativo e Moderno</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="style" value="sério e autoritário">
+                        <span>Sério e Autoritário</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="style" value="casual inteligente">
+                        <span>Casual Inteligente</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Cenário/Fundo -->
+            <div>
+                <h2 class="section-title">3. Cenário/Fundo</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="background" value="escritório moderno com fundo desfocado" checked>
+                        <span>Escritório Moderno (desfocado)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="escritório clássico com estantes de livros" >
+                        <span>Escritório Clássico</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="cenário urbano desfocado com luz natural">
+                        <span>Cenário Urbano (desfocado)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="natureza suavemente desfocada com tons verdes">
+                        <span>Natureza (desfocada)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="fundo neutro de estúdio (cinza claro)">
+                        <span>Fundo Neutro (Estúdio)</span>
+                    </label>
+                     <label class="option-item">
+                        <input type="radio" name="background" value="home office estilizado e organizado">
+                        <span>Home Office Estilizado</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="sala de reuniões com tela de projeção">
+                        <span>Sala de Reuniões</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="cafeteria movimentada (tomando café ou trabalhando)">
+                        <span>Cafeteria Movimentada</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="espaço de coworking vibrante">
+                        <span>Espaço de Coworking</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="biblioteca universitária ou de pesquisa">
+                        <span>Biblioteca/Pesquisa</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="laboratório de alta tecnologia">
+                        <span>Laboratório de Alta Tecnologia</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="canteiro de obras com equipamentos de segurança">
+                        <span>Canteiro de Obras</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="estúdio de arte ou design com ferramentas criativas">
+                        <span>Estúdio de Arte/Design</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="sala de aula ou auditório (apresentando)">
+                        <span>Sala de Aula/Auditório</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="consultório médico ou clínica">
+                        <span>Consultório/Clínica</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="cozinha profissional (para chefs)">
+                        <span>Cozinha Profissional</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="área de produção ou fábrica">
+                        <span>Área de Produção/Fábrica</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="ambiente de loja ou showroom">
+                        <span>Loja/Showroom</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="em um evento ou conferência, interagindo">
+                        <span>Evento/Conferência</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="background" value="no campo, em um projeto ao ar livre">
+                        <span>Projeto ao Ar Livre</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Iluminação -->
+            <div>
+                <h2 class="section-title">4. Iluminação</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="lighting" value="natural e suave" checked>
+                        <span>Natural e Suave</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="lighting" value="de estúdio profissional">
+                        <span>De Estúdio Profissional</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="lighting" value="dramática e cinematográfica">
+                        <span>Dramática/Cinemática</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="lighting" value="quente e convidativa">
+                        <span>Quente e Convidativa</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="lighting" value="fria e limpa">
+                        <span>Fria e Limpa</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Composição/Enquadramento -->
+            <div>
+                <h2 class="section-title">5. Composição/Enquadramento</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="close-up (rosto e ombros)" checked>
+                        <span>Close-up (Rosto e Ombros)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="meio-corpo (da cintura para cima)">
+                        <span>Meio-Corpo</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="corpo inteiro contextualizado">
+                        <span>Corpo Inteiro Contextualizado</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="posado e profissional">
+                        <span>Posado e Profissional</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="candidato e dinâmico">
+                        <span>Candidato e Dinâmico</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="de corpo inteiro interagindo com o ambiente">
+                        <span>Corpo Inteiro (Interagindo)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="perspectiva de visão sobre o ombro (over-the-shoulder)">
+                        <span>Over-the-Shoulder</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="ângulo baixo, dando senso de poder">
+                        <span>Ângulo Baixo (Poder)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="ângulo alto, mostrando o contexto">
+                        <span>Ângulo Alto (Contexto)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="plano holandês (dutch angle) para dinamismo">
+                        <span>Plano Holandês (Dinamismo)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="enquadramento com uso de profundidade de campo">
+                        <span>Com Profundidade de Campo</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="composition" value="plano americano (da coxa para cima)">
+                        <span>Plano Americano</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Expressão Facial/Postura -->
+            <div>
+                <h2 class="section-title">6. Expressão Facial/Postura</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="sorriso confiante e aberto" checked>
+                        <span>Sorriso Confiante e Aberto</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="expressão séria e pensativa">
+                        <span>Expressão Séria e Pensativa</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="sorriso sutil e profissional">
+                        <span>Sorriso Sutil e Profissional</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="mãos cruzadas com postura segura">
+                        <span>Mãos Cruzadas</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="mãos gesticulando e comunicativas">
+                        <span>Mãos Gesticulando</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="focado e engajado em uma tarefa">
+                        <span>Focado e Engajado</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="ouvindo atentamente com expressão de compreensão">
+                        <span>Ouvindo Atentamente</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="apresentando com confiança e entusiasmo">
+                        <span>Apresentando com Confiança</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="colaborando com um sorriso amigável">
+                        <span>Colaborando Amigavelmente</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="olhar direto e assertivo para a câmera">
+                        <span>Olhar Direto e Assertivo</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="expressão de curiosidade e aprendizado">
+                        <span>Curiosidade e Aprendizado</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="expression" value="postura de liderança (ombros abertos, cabeça erguida)">
+                        <span>Postura de Liderança</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Vestuário/Traje -->
+            <div>
+                <h2 class="section-title">7. Vestuário/Traje</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="terno ou tailleur completo" checked>
+                        <span>Terno/Tailleur Completo</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="blazer e camisa social/blusa elegante">
+                        <span>Blazer e Camisa/Blusa</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="casual elegante (ex: calça escura e camisa polo)">
+                        <span>Casual Elegante</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="uniforme ou traje específico da profissão (se aplicável)">
+                        <span>Uniforme Profissional</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="smart casual (camisa de botão, jeans escuro/calça chino)">
+                        <span>Smart Casual</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="vestuário profissional moderno (blazer desestruturado, gola rolê)">
+                        <span>Profissional Moderno</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="traje de trabalho específico da indústria (ex: jaleco, avental, capacete)">
+                        <span>Traje Específico da Indústria</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="roupa formal de noite (para eventos específicos)">
+                        <span>Formal de Noite</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="attire" value="vestuário de palestra ou apresentação (paletó, microfone de lapela)">
+                        <span>Palestra/Apresentação</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Elementos Adicionais/Adereços -->
+            <div>
+                <h2 class="section-title">8. Elementos Adicionais/Adereços (Opcional)</h2>
+                <input type="text" id="props" placeholder="Ex: um laptop moderno, óculos, caneta, ferramentas da área"
+                    class="w-full p-3 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500 shadow-sm">
+                <p class="text-sm text-gray-500 mt-2">Descreva objetos ou detalhes que complementam a imagem profissional.</p>
+            </div>
+
+            <!-- Detalhes Fotográficos -->
+            <div>
+                <h2 class="section-title">9. Detalhes Fotográficos</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="details" value="alta resolução e ultra detalhada" checked>
+                        <span>Alta Resolução e Detalhada</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="details" value="estilo de retrato corporativo premium">
+                        <span>Retrato Corporativo Premium</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="details" value="fundo com efeito bokeh suave">
+                        <span>Fundo com Bokeh Suave</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="details" value="cores vibrantes e nítidas">
+                        <span>Cores Vibrantes e Nítidas</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="details" value="tons suaves e naturais">
+                        <span>Tons Suaves e Naturais</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="details" value="preto e branco clássico">
+                        <span>Preto e Branco Clássico</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Proporção da Imagem -->
+            <div>
+                <h2 class="section-title">10. Proporção da Imagem (Aspect Ratio)</h2>
+                <div class="option-group">
+                    <label class="option-item">
+                        <input type="radio" name="aspectRatio" value="1:1" checked>
+                        <span>1:1 (Quadrado)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="aspectRatio" value="4:3">
+                        <span>4:3 (Retrato Padrão)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="aspectRatio" value="16:9">
+                        <span>16:9 (Paisagem Larga)</span>
+                    </label>
+                    <label class="option-item">
+                        <input type="radio" name="aspectRatio" value="3:4">
+                        <span>3:4 (Retrato Vertical)</span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="flex justify-center mt-6">
+                <button type="button" id="generatePrompt" class="button-primary">Gerar Prompt</button>
+            </div>
+
+            <div class="mt-8">
+                <h2 class="section-title">Seu Prompt Gerado</h2>
+                <textarea id="generatedPrompt" readonly
+                    class="w-full p-4 border border-gray-300 rounded-md bg-gray-50 text-gray-800 focus:outline-none"></textarea>
+                <div class="flex justify-end mt-4">
+                    <button type="button" id="copyPrompt" class="button-secondary">Copiar Prompt</button>
+                </div>
+                <p class="text-gray-600 text-sm mt-4">
+                    <strong>Instruções de Uso:</strong> Copie o prompt acima, cole-o no ChatGPT e anexe a foto da pessoa que você deseja estilizar.
+                </p>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const generateButton = document.getElementById('generatePrompt');
+            const copyButton = document.getElementById('copyPrompt');
+            const generatedPromptTextarea = document.getElementById('generatedPrompt');
+
+            generateButton.addEventListener('click', () => {
+                const occupation = document.getElementById('occupation').value.trim();
+                const style = document.querySelector('input[name="style"]:checked').value;
+                const background = document.querySelector('input[name="background"]:checked').value;
+                const lighting = document.querySelector('input[name="lighting"]:checked').value;
+                const composition = document.querySelector('input[name="composition"]:checked').value;
+                const expression = document.querySelector('input[name="expression"]:checked').value;
+                const attire = document.querySelector('input[name="attire"]:checked').value;
+                const props = document.getElementById('props').value.trim();
+                const details = document.querySelector('input[name="details"]:checked').value;
+                const aspectRatio = document.querySelector('input[name="aspectRatio"]:checked').value;
+
+                // Updated the new instruction at the beginning of the prompt
+                let prompt = `Use a foto de referência anexada para criar uma nova imagem mantendo 100% a fidelidade ao rosto, cabelo e proporções originais. Preserve o tom de pele, textura da pele, formato dos olhos, sobrancelhas, nariz, boca e estrutura óssea exatamente como na foto. Não alterar penteado, cor ou corte do cabelo, a menos que seja solicitado. Crie uma imagem profissional de ${occupation || 'uma pessoa'}, com um estilo ${style}, em um ${background}. A iluminação é ${lighting}. O enquadramento é ${composition}, com uma expressão ${expression} e vestindo ${attire}.`;
+
+                if (props) {
+                    prompt += ` Inclua: ${props}.`;
+                }
+
+                prompt += ` Detalhes: ${details}. Proporção: --ar ${aspectRatio}.`;
+
+                generatedPromptTextarea.value = prompt;
+            });
+
+            copyButton.addEventListener('click', () => {
+                generatedPromptTextarea.select();
+                generatedPromptTextarea.setSelectionRange(0, 99999); // For mobile devices
+
+                try {
+                    document.execCommand('copy');
+                    alertMessage('Prompt copiado para a área de transferência!', 'success');
+                } catch (err) {
+                    alertMessage('Falha ao copiar o prompt.', 'error');
+                }
+            });
+
+            // Custom alert message function
+            function alertMessage(message, type) {
+                const existingAlert = document.getElementById('customAlert');
+                if (existingAlert) {
+                    existingAlert.remove();
+                }
+
+                const alertDiv = document.createElement('div');
+                alertDiv.id = 'customAlert';
+                alertDiv.textContent = message;
+                alertDiv.style.position = 'fixed';
+                alertDiv.style.top = '20px';
+                alertDiv.style.right = '20px';
+                alertDiv.style.padding = '12px 20px';
+                alertDiv.style.borderRadius = '8px';
+                alertDiv.style.zIndex = '1000';
+                alertDiv.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
+                alertDiv.style.opacity = '0';
+                alertDiv.style.transition = 'opacity 0.3s ease-in-out';
+
+                if (type === 'success') {
+                    alertDiv.style.backgroundColor = '#d1fae5';
+                    alertDiv.style.color = '#065f46';
+                    alertDiv.style.border = '1px solid #10b981';
+                } else if (type === 'error') {
+                    alertDiv.style.backgroundColor = '#fee2e2';
+                    alertDiv.style.color = '#dc2626';
+                    alertDiv.style.border = '1px solid #ef4444';
+                }
+
+                document.body.appendChild(alertDiv);
+
+                // Fade in
+                setTimeout(() => {
+                    alertDiv.style.opacity = '1';
+                }, 10);
+
+                // Fade out and remove
+                setTimeout(() => {
+                    alertDiv.style.opacity = '0';
+                    alertDiv.addEventListener('transitionend', () => alertDiv.remove(), { once: true });
+                }, 3000);
+            }
+        });
+    </script>
+</body>
+</html>
