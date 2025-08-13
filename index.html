@@ -515,7 +515,7 @@
                 const aspectRatio = document.querySelector('input[name="aspectRatio"]:checked').value;
 
                 // Updated the new instruction at the beginning of the prompt
-                let prompt = `Use a foto de referência anexada para criar uma nova imagem mantendo 100% a fidelidade ao rosto, cabelo e proporções originais. Preserve o tom de pele, textura da pele, formato dos olhos, sobrancelhas, nariz, boca e estrutura óssea exatamente como na foto. Não alterar penteado, cor ou corte do cabelo, a menos que seja solicitado. Crie uma imagem profissional de ${occupation || 'uma pessoa'}, com um estilo ${style}, em um ${background}. A iluminação é ${lighting}. O enquadramento é ${composition}, com uma expressão ${expression} e vestindo ${attire}.`;
+                let prompt = `Faça um rastreamento ultra detalhado de toda a anatomia do rosto da foto em anexo. Replique com extrema fidelidade, como um retrato perfeito identificável. Crie uma imagem profissional de ${occupation || 'uma pessoa'}, com um estilo ${style}, em um ${background}. A iluminação é ${lighting}. O enquadramento é ${composition}, com uma expressão ${expression} e vestindo ${attire}.`;
 
                 if (props) {
                     prompt += ` Inclua: ${props}.`;
