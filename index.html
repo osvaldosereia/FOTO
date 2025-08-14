@@ -59,16 +59,18 @@
             background-color: #eff6ff;
             transform: translateY(-2px);
         }
-        .checkbox-item input[type="checkbox"] {
-            margin-top: 0.25rem; /* Align checkbox with text */
-            transform: scale(1.2); /* Slightly larger checkbox */
-            accent-color: #3b82f6; /* Blue checkbox color */
-        }
+        /* Style for the actual label content, allowing it to be clicked */
         .checkbox-item label {
             flex: 1;
             font-weight: 500;
             color: #374151;
             line-height: 1.4;
+            cursor: pointer; /* Ensure label itself is clickable */
+        }
+        .checkbox-item input[type="checkbox"] {
+            margin-top: 0.25rem; /* Align checkbox with text */
+            transform: scale(1.2); /* Slightly larger checkbox */
+            accent-color: #3b82f6; /* Blue checkbox color */
         }
         .checkbox-item input[type="checkbox"]:checked + label {
             color: #1e40af; /* Darker blue when checked */
@@ -485,7 +487,7 @@
                 'Foto Colorida': [],
                 'Desenho Colorido': [],
                 'Desenho 3D': [],
-                'Formatos Instagram': [] // New category for Instagram formats
+                'Formatos Instagram': []
             };
 
             // Collect selected checkboxes for each theme
@@ -504,7 +506,7 @@
             document.querySelectorAll('input[name="3d-drawing"]:checked').forEach(checkbox => {
                 selectedOptions['Desenho 3D'].push(checkbox.value);
             });
-            document.querySelectorAll('input[name="instagram-formats"]:checked').forEach(checkbox => { // Collect Instagram formats
+            document.querySelectorAll('input[name="instagram-formats"]:checked').forEach(checkbox => {
                 selectedOptions['Formatos Instagram'].push(checkbox.value);
             });
 
@@ -617,14 +619,10 @@ O prompt final deve ser conciso, mas descritivo, focando em termos visuais e est
             loadingSpinner.classList.add('hidden');
             generatePromptBtn.disabled = false;
         });
-
-        // Add event listeners to checkbox items to toggle checkbox on click
-        document.querySelectorAll('.checkbox-item').forEach(item => {
-            item.addEventListener('click', function() {
-                const checkbox = this.querySelector('input[type="checkbox"]');
-                checkbox.checked = !checkbox.checked;
-            });
-        });
+        
+        // NOVO: Removida a lógica de toggle duplicada para o checkbox-item.
+        // O comportamento padrão do label (associado via `for` e `id`) já lida com o clique.
+        // Isso evita o problema de duplo-toggle que fazia parecer que o clique não funcionava.
     </script>
 </body>
 </html>
