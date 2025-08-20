@@ -3,626 +3,210 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gerador de Prompt para IA</title>
-    <!-- Tailwind CSS CDN -->
+    <title>Resumos de Videoaulas - Direito Penal</title>
+    <!-- Tailwind CSS para estilização -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f3f4f6;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start; /* Align to start to allow content to flow down */
-            min-height: 100vh;
-            padding: 2rem 1rem; /* Add some padding for mobile */
-            box-sizing: border-box;
-        }
-        .container {
-            background-color: #ffffff;
-            border-radius: 1.5rem; /* More rounded corners */
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            padding: 2.5rem;
-            max-width: 800px;
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            gap: 2rem;
-        }
-        .section-title {
-            font-size: 1.5rem; /* Larger title */
-            font-weight: 700;
-            color: #1f2937;
-            margin-bottom: 1rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 2px solid #e5e7eb;
-        }
-        .checkbox-group {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
-            gap: 1rem;
-        }
-        .checkbox-item {
-            display: flex;
-            align-items: flex-start;
-            gap: 0.75rem;
-            background-color: #f9fafb;
-            padding: 1rem;
-            border-radius: 0.75rem; /* Rounded item corners */
-            border: 1px solid #e5e7eb;
-            transition: all 0.2s ease-in-out;
-            cursor: pointer;
-            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-        }
-        .checkbox-item:hover {
-            border-color: #60a5fa; /* Blue border on hover */
-            background-color: #eff6ff;
-            transform: translateY(-2px);
-        }
-        /* Style for the actual label content, allowing it to be clicked */
-        .checkbox-item label {
-            flex: 1;
-            font-weight: 500;
-            color: #374151;
-            line-height: 1.4;
-            cursor: pointer; /* Ensure label itself is clickable */
-        }
-        .checkbox-item input[type="checkbox"] {
-            margin-top: 0.25rem; /* Align checkbox with text */
-            transform: scale(1.2); /* Slightly larger checkbox */
-            accent-color: #3b82f6; /* Blue checkbox color */
-        }
-        .checkbox-item input[type="checkbox"]:checked + label {
-            color: #1e40af; /* Darker blue when checked */
-            font-weight: 600;
-        }
-        .checkbox-item span {
-            display: block;
-            font-size: 0.875rem;
-            color: #6b7280;
-            margin-top: 0.25rem;
-        }
-        textarea {
-            resize: vertical;
-            min-height: 100px;
-        }
-        .button {
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.75rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
-        }
-        .button-primary {
-            background-color: #3b82f6;
-            color: white;
-        }
-        .button-primary:hover {
-            background-color: #2563eb;
-            transform: translateY(-1px);
-        }
-        .button-secondary {
-            background-color: #e5e7eb;
-            color: #374151;
-        }
-        .button-secondary:hover {
-            background-color: #d1d5db;
-            transform: translateY(-1px);
-        }
-        .prompt-output {
-            background-color: #f9fafb;
-            border: 1px solid #d1d5db;
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            font-size: 1rem;
-            color: #374151;
-            min-height: 100px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-        }
-        .loading-spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #3b82f6;
-            border-radius: 50%;
-            width: 30px;
-            height: 30px;
-            animation: spin 1s linear infinite;
-        }
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        .hidden {
-            display: none;
-        }
-        .button-group {
-            display: flex;
-            gap: 1rem;
-            justify-content: center;
-            margin-top: 1.5rem;
-        }
-        /* Mobile adjustments */
-        @media (max-width: 768px) {
-            .container {
-                padding: 1.5rem;
-            }
-            .section-title {
-                font-size: 1.25rem;
-            }
-            .checkbox-group {
-                grid-template-columns: 1fr; /* Stack on small screens */
-            }
-            .button-group {
-                flex-direction: column;
-            }
-            .button {
-                width: 100%;
-            }
+        /* Estilo para a transição suave (efeito "acordeão") */
+        .content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Gerador de Prompt para IA</h1>
+<body class="bg-gray-100 font-sans">
 
-        <!-- Etapa 1: Campo de texto -->
-        <div class="input-section">
-            <label for="user-input" class="block text-lg font-medium text-gray-700 mb-2">Descreva o que você precisa:</label>
-            <textarea id="user-input" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="Ex: Um dragão épico voando sobre montanhas nevadas ao pôr do sol"></textarea>
-        </div>
+    <div class="container mx-auto p-4 sm:p-6 md:p-8 max-w-4xl">
+        
+        <!-- Cabeçalho -->
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-800">Resumos de Ação Penal</h1>
+            <p class="text-gray-600 mt-2">Clique em um vídeo para ver o resumo detalhado.</p>
+        </header>
 
-        <!-- Tema 1: Desenho P&B -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 1 - Desenho P&B</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-nanquim" name="pb-drawing" value="Nanquim Clássico" class="form-checkbox">
-                    <label for="pb-nanquim">Nanquim Clássico <span>Traços precisos, alta definição nas linhas e contraste forte.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-pontilhismo" name="pb-drawing" value="Pontilhismo (Stippling)" class="form-checkbox">
-                    <label for="pb-pontilhismo">Pontilhismo (Stippling) <span>Imagem formada por milhares de pontos pretos.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-xilogravura" name="pb-drawing" value="Gravura em Xilogravura" class="form-checkbox">
-                    <label for="pb-xilogravura">Gravura em Xilogravura <span>Linhas marcadas e rústicas, gravadas em madeira.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-hachura" name="pb-drawing" value="Hachura Cruzada (Crosshatching)" class="form-checkbox">
-                    <label for="pb-hachura">Hachura Cruzada (Crosshatching) <span>Sombras e volumes com linhas cruzadas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-sketch" name="pb-drawing" value="Sketch Solto" class="form-checkbox">
-                    <label for="pb-sketch">Sketch Solto <span>Traços rápidos, irregulares e aparentes.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-manga" name="pb-drawing" value="Estilo Mangá Monocromático" class="form-checkbox">
-                    <label for="pb-manga">Estilo Mangá Monocromático <span>Linhas limpas, preenchimentos sólidos e retículas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-carvao" name="pb-drawing" value="Carvão Artístico (Charcoal)" class="form-checkbox">
-                    <label for="pb-carvao">Carvão Artístico (Charcoal) <span>Sombras profundas e transições suaves, esfumaçado.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-linear" name="pb-drawing" value="Arte Linear Minimalista" class="form-checkbox">
-                    <label for="pb-linear">Arte Linear Minimalista <span>Apenas contornos pretos simples, sem sombreamento.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-vitoriana" name="pb-drawing" value="Estilo Gravura Vitoriana" class="form-checkbox">
-                    <label for="pb-vitoriana">Estilo Gravura Vitoriana <span>Altamente detalhado, com padrões e ornamentos.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="pb-mista" name="pb-drawing" value="Técnica Mista de Mancha e Linha" class="form-checkbox">
-                    <label for="pb-mista">Técnica Mista de Mancha e Linha <span>Combinação de pinceladas de tinta com linhas finas.</span></label>
+        <!-- Container dos Botões e Resumos -->
+        <div class="space-y-4">
+
+            <!-- Vídeo 1 -->
+            <div class="bg-white rounded-lg shadow-md">
+                <button onclick="toggleContent('content1')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
+                    <span>1. Ação Penal (Processo Penal) | DESCOMPLICADO</span>
+                    <svg id="arrow1" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div id="content1" class="content px-4 pb-4 text-gray-700">
+                    <div class="border-t pt-4">
+                        <h2 class="text-xl font-bold mb-2">Ação Penal (Processo Penal) | DESCOMPLICADO</h2>
+                        <p class="mb-1"><strong>Canal:</strong> Direito Desenhado</p>
+                        <p class="mb-1"><strong>Duração:</strong> 13:06</p>
+                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=YXmHNrFlOPg" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
+                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
+                        <p>Este vídeo introdutório aborda o conceito fundamental de <strong>Ação Penal</strong>, explicando-a como o direito do Estado (ou, em certos casos, do ofendido) de provocar o Poder Judiciário para que aplique a lei penal a um caso concreto. O foco principal é desmistificar os princípios que regem a Ação Penal Pública.</p>
+                        <ul class="list-disc list-inside mt-2 space-y-1">
+                            <li><strong>Princípio da Obrigatoriedade:</strong> O Ministério Público, como titular da ação penal pública, tem o dever de oferecê-la sempre que houver indícios suficientes de autoria e prova da materialidade do crime. Não há margem para discricionariedade ou análise de conveniência.</li>
+                            <li><strong>Princípio da Indisponibilidade:</strong> Uma vez iniciada a ação penal pelo Ministério Público, ele não pode desistir dela. O processo deve seguir seu curso até uma decisão final do Judiciário.</li>
+                            <li><strong>Princípio da Oficialidade:</strong> A titularidade da ação penal pública é de um órgão oficial do Estado, o Ministério Público.</li>
+                        </ul>
+                        <p class="mt-2">A aula utiliza exemplos práticos para diferenciar a Ação Penal do Inquérito Policial, posicionando a ação como o início da fase processual, enquanto o inquérito é a fase investigativa pré-processual.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Tema 2: Fotografia P&B -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 2 - Fotografia P&B</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-alto" name="pb-photo" value="Clássico de Alto Contraste" class="form-checkbox">
-                    <label for="foto-pb-alto">Clássico de Alto Contraste <span>Pretos profundos e brancos brilhantes.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-suave" name="pb-photo" value="Tonalidade Suave (Low Contrast)" class="form-checkbox">
-                    <label for="foto-pb-suave">Tonalidade Suave (Low Contrast) <span>Predomina a escala de cinzas, transições suaves.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-noir" name="pb-photo" value="Estilo Noir Cinematográfico" class="form-checkbox">
-                    <label for="foto-pb-noir">Estilo Noir Cinematográfico <span>Sombras pesadas, luz lateral dramática.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-minimalista" name="pb-photo" value="Fine Art Minimalista" class="form-checkbox">
-                    <label for="foto-pb-minimalista">Fine Art Minimalista <span>Poucos elementos, uso inteligente do espaço negativo.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-granulado" name="pb-photo" value="Granulado Analógico" class="form-checkbox">
-                    <label for="foto-pb-granulado">Granulado Analógico <span>Textura de filme antigo com grãos visíveis.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-infravermelho" name="pb-photo" value="Infravermelho Monocromático" class="form-checkbox">
-                    <label for="foto-pb-infravermelho">Infravermelho Monocromático <span>Tons de branco intenso nas áreas de vegetação.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-estudio" name="pb-photo" value="Retrato Dramático de Estúdio" class="form-checkbox">
-                    <label for="foto-pb-estudio">Retrato Dramático de Estúdio <span>Foco total no rosto, iluminação modeladora.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-sepia" name="pb-photo" value="Preto e Branco com Sépia Sutil" class="form-checkbox">
-                    <label for="foto-pb-sepia">Preto e Branco com Sépia Sutil <span>Leve coloração marrom ou dourada.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-hdr" name="pb-photo" value="Alto Dinamismo (HDR Monocromático)" class="form-checkbox">
-                    <label for="foto-pb-hdr">Alto Dinamismo (HDR Monocromático) <span>Ampla faixa de tons, detalhes preservados.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-pb-silhueta" name="pb-photo" value="Silhueta Minimalista" class="form-checkbox">
-                    <label for="foto-pb-silhueta">Silhueta Minimalista <span>Contraste máximo entre formas escuras e fundo claro.</span></label>
+            <!-- Vídeo 2 -->
+            <div class="bg-white rounded-lg shadow-md">
+                <button onclick="toggleContent('content2')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
+                    <span>2. AÇÃO PENAL | TUDO O QUE VOCÊ PRECISA SABER</span>
+                    <svg id="arrow2" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div id="content2" class="content px-4 pb-4 text-gray-700">
+                    <div class="border-t pt-4">
+                        <h2 class="text-xl font-bold mb-2">AÇÃO PENAL | TUDO O QUE VOCÊ PRECISA SABER | PROCESSO PENAL</h2>
+                        <p class="mb-1"><strong>Canal:</strong> Profa. Cristiane Dupret</p>
+                        <p class="mb-1"><strong>Duração:</strong> 15:53</p>
+                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=ftGw2uVK8HI" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
+                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
+                        <p>Este vídeo aprofunda a classificação da Ação Penal, detalhando suas espécies e subespécies. É um guia completo para entender quem pode iniciar o processo penal e sob quais condições.</p>
+                        <p class="font-semibold mt-3">1. Ação Penal Pública:</p>
+                        <ul class="list-disc list-inside ml-4 space-y-1">
+                            <li><strong>Incondicionada:</strong> É a regra no sistema brasileiro. Não depende de nenhuma condição ou manifestação de vontade da vítima. O MP age de ofício. Ex: Homicídio, Roubo.</li>
+                            <li><strong>Condicionada à Representação:</strong> O MP só pode agir se a vítima (ou seu representante legal) autorizar expressamente. A representação é uma condição de procedibilidade. Ex: Ameaça.</li>
+                             <li><strong>Condicionada à Requisição do Ministro da Justiça:</strong> Em casos específicos, como crimes contra a honra do Presidente da República, a ação depende dessa requisição.</li>
+                        </ul>
+                        <p class="font-semibold mt-3">2. Ação Penal Privada:</p>
+                        <ul class="list-disc list-inside ml-4 space-y-1">
+                            <li><strong>Exclusivamente Privada:</strong> A titularidade é do ofendido, que a exerce por meio de uma queixa-crime. Ex: Crimes contra a honra (calúnia, difamação, injúria).</li>
+                            <li><strong>Personalíssima:</strong> Só pode ser proposta pela própria vítima, não se transmitindo a herdeiros. Ex: Induzimento a erro essencial ou ocultação de impedimento para o casamento.</li>
+                            <li><strong>Privada Subsidiária da Pública:</strong> Ocorre quando o MP não oferece a denúncia no prazo legal. A vítima pode, então, iniciar a ação através de queixa-crime, mas o MP pode retomar a titularidade a qualquer momento.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Tema 3: Foto Colorida -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 3 - Foto Colorida</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-realismo" name="color-photo" value="Realismo Fotográfico" class="form-checkbox">
-                    <label for="foto-cor-realismo">Realismo Fotográfico <span>Cores fiéis ao mundo real, iluminação equilibrada.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-saturacao" name="color-photo" value="Alta Saturação (Vibrante)" class="form-checkbox">
-                    <label for="foto-cor-saturacao">Alta Saturação (Vibrante) <span>Cores fortes e intensas, energia e impacto.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-pastel" name="color-photo" value="Tonalidade Pastel" class="form-checkbox">
-                    <label for="foto-cor-pastel">Tonalidade Pastel <span>Paleta suave com cores dessaturadas, clima leve.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-golden" name="color-photo" value="Golden Hour (Hora Dourada)" class="form-checkbox">
-                    <label for="foto-cor-golden">Golden Hour (Hora Dourada) <span>Luz quente e dourada do nascer ou pôr do sol.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-cinematic" name="color-photo" value="Cinematic Color Grading" class="form-checkbox">
-                    <label for="foto-cor-cinematic">Cinematic Color Grading <span>Cores tratadas para imitar filmes, dramáticas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-vintage" name="color-photo" value="Estilo Vintage Analógico" class="form-checkbox">
-                    <label for="foto-cor-vintage">Estilo Vintage Analógico <span>Cores levemente lavadas, granulação, tons amarelados.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-neon" name="color-photo" value="Neon Cyberpunk" class="form-checkbox">
-                    <label for="foto-cor-neon">Neon Cyberpunk <span>Cores contrastantes e saturadas, clima urbano noturno.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-selective" name="color-photo" value="Desaturado com Toque de Cor (Selective Color)" class="form-checkbox">
-                    <label for="foto-cor-selective">Desaturado com Toque de Cor (Selective Color) <span>Um elemento chave mantém a cor original.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-terrosos" name="color-photo" value="Tons Terrosos (Earth Tones)" class="form-checkbox">
-                    <label for="foto-cor-terrosos">Tons Terrosos (Earth Tones) <span>Paleta de marrons, beges, verdes, laranjas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="foto-cor-highkey" name="color-photo" value="Alta Chave (High Key)" class="form-checkbox">
-                    <label for="foto-cor-highkey">Alta Chave (High Key) <span>Fundo e iluminação claros, cores leves.</span></label>
+            <!-- Vídeo 3 -->
+            <div class="bg-white rounded-lg shadow-md">
+                <button onclick="toggleContent('content3')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
+                    <span>3. Ação Penal - Processo Penal</span>
+                    <svg id="arrow3" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div id="content3" class="content px-4 pb-4 text-gray-700">
+                    <div class="border-t pt-4">
+                        <h2 class="text-xl font-bold mb-2">Ação Penal - Processo Penal</h2>
+                        <p class="mb-1"><strong>Canal:</strong> Veduca</p>
+                        <p class="mb-1"><strong>Duração:</strong> 25:39</p>
+                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=pLDL9Gn2SXQ" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
+                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
+                        <p>O vídeo foca nos requisitos essenciais para que a Ação Penal seja válida e possa ser recebida pelo juiz. São as chamadas <strong>"Condições da Ação"</strong>, sem as quais a petição inicial (denúncia ou queixa) será rejeitada.</p>
+                        <ul class="list-disc list-inside mt-2 space-y-2">
+                            <li><strong>Possibilidade Jurídica do Pedido:</strong> O fato narrado deve ser, em tese, um crime. Não se pode iniciar uma ação penal por um fato atípico (que não é previsto como crime na lei).</li>
+                            <li><strong>Interesse de Agir:</strong> Refere-se à necessidade e à utilidade do processo. A ação penal deve ser o meio necessário para se buscar a punição e o meio adequado para tal fim. Por exemplo, se a punibilidade já está extinta (pela prescrição), não há interesse de agir.</li>
+                            <li><strong>Legitimidade das Partes (Ad Causam):</strong>
+                                <ul class="list-decimal list-inside ml-6">
+                                    <li><strong>Legitimidade Ativa:</strong> Quem pode propor a ação. Na ação pública, é o Ministério Público. Na privada, é o ofendido.</li>
+                                    <li><strong>Legitimidade Passiva:</strong> Contra quem a ação é proposta, ou seja, o suposto autor do fato criminoso.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Justa Causa:</strong> É um requisito adicional, específico do processo penal. Exige um lastro probatório mínimo (indícios de autoria e prova de materialidade) para que a acusação não seja temerária ou leviana.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Tema 4: Desenho Colorido -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 4 - Desenho Colorido</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-aquarela" name="color-drawing" value="Aquarela" class="form-checkbox">
-                    <label for="desenho-cor-aquarela">Aquarela <span>Cores suaves e translúcidas, transições fluidas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-digital" name="color-drawing" value="Pintura Digital Realista" class="form-checkbox">
-                    <label for="desenho-cor-digital">Pintura Digital Realista <span>Acabamento que imita pintura a óleo ou acrílica.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-cartoon" name="color-drawing" value="Cartoon Clássico" class="form-checkbox">
-                    <label for="desenho-cor-cartoon">Cartoon Clássico <span>Cores chapadas, contornos definidos.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-disney" name="color-drawing" value="Arte em Estilo Disney/Pixar" class="form-checkbox">
-                    <label for="desenho-cor-disney">Arte em Estilo Disney/Pixar <span>Paleta vibrante, volumes bem definidos.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-popart" name="color-drawing" value="Pop Art" class="form-checkbox">
-                    <label for="desenho-cor-popart">Pop Art <span>Cores fortes, contrastes exagerados.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-manga" name="color-drawing" value="Estilo Mangá/Anime Colorido" class="form-checkbox">
-                    <label for="desenho-cor-manga">Estilo Mangá/Anime Colorido <span>Cores vibrantes ou pastel, gradientes suaves.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-impressionista" name="color-drawing" value="Pintura Impressionista" class="form-checkbox">
-                    <label for="desenho-cor-impressionista">Pintura Impressionista <span>Pinceladas visíveis, mistura de cores no olhar.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-psicodelica" name="color-drawing" value="Arte Psicodélica" class="form-checkbox">
-                        <label for="desenho-cor-psicodelica">Arte Psicodélica <span>Cores saturadas e combinações incomuns.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-marcadores" name="color-drawing" value="Técnica de Marcadores" class="form-checkbox">
-                    <label for="desenho-cor-marcadores">Técnica de Marcadores <span>Cores vivas e sólidas, sobreposição de tons.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-cor-flat" name="color-drawing" value="Flat Design Colorido" class="form-checkbox">
-                    <label for="desenho-cor-flat">Flat Design Colorido <span>Áreas grandes de cor sólida, sem sombras.</span></label>
+            <!-- Vídeo 4 -->
+            <div class="bg-white rounded-lg shadow-md">
+                <button onclick="toggleContent('content4')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
+                    <span>4. Processo Penal - Aula 05 - Ação Penal (Parte 1)</span>
+                    <svg id="arrow4" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div id="content4" class="content px-4 pb-4 text-gray-700">
+                    <div class="border-t pt-4">
+                        <h2 class="text-xl font-bold mb-2">Processo Penal - Aula 05 - Ação Penal (Parte 1)</h2>
+                        <p class="mb-1"><strong>Canal:</strong> Prova Final</p>
+                        <p class="mb-1"><strong>Duração:</strong> 23:24</p>
+                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=wAQ6W-OZRRc" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
+                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
+                        <p>Esta aula aborda os momentos que antecedem o início da Ação Penal e as peças que a inauguram. O foco está na transição da fase de investigação para a fase processual.</p>
+                        <p class="font-semibold mt-3">Fases e Peças Iniciais:</p>
+                        <ul class="list-disc list-inside space-y-2">
+                            <li><strong>Notitia Criminis:</strong> É o conhecimento, espontâneo ou provocado, por parte da autoridade policial, de um fato aparentemente criminoso. É o que dá início à investigação.</li>
+                            <li><strong>Inquérito Policial:</strong> Procedimento administrativo, presidido pelo Delegado de Polícia, que visa apurar a materialidade e os indícios de autoria. Suas peças servem de base para o titular da ação penal.</li>
+                            <li><strong>Denúncia:</strong> É a petição inicial da <strong>Ação Penal Pública</strong>, elaborada e oferecida pelo Ministério Público ao Poder Judiciário. Deve conter a exposição do fato criminoso com todas as suas circunstâncias, a qualificação do acusado, a classificação do crime e o rol de testemunhas.</li>
+                            <li><strong>Queixa-Crime:</strong> É a petição inicial da <strong>Ação Penal Privada</strong>, elaborada por um advogado em nome da vítima (querelante) e oferecida contra o suposto autor do crime (querelado). Seus requisitos são semelhantes aos da denúncia.</li>
+                        </ul>
+                        <p class="mt-2">A aula diferencia claramente o papel da Polícia Civil (investigar), do Ministério Público (acusar na ação pública) e da Vítima/Advogado (acusar na ação privada).</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Tema 5: Desenho 3D -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 5 - Desenho 3D</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-realista" name="3d-drawing" value="3D Realista Fotográfico" class="form-checkbox">
-                    <label for="desenho-3d-realista">3D Realista Fotográfico <span>Texturas e iluminação simulando o mundo real.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-pixar" name="3d-drawing" value="Pixar/Disney Style" class="form-checkbox">
-                    <label for="desenho-3d-pixar">Pixar/Disney Style <span>Modelos com formas suaves, paleta vibrante.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-lowpoly" name="3d-drawing" value="Low Poly Colorido" class="form-checkbox">
-                    <label for="desenho-3d-lowpoly">Low Poly Colorido <span>Modelagem simples, poucos polígonos, cores sólidas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-clay" name="3d-drawing" value="Clay Render Colorido" class="form-checkbox">
-                    <label for="desenho-3d-clay">Clay Render Colorido <span>Objetos com aparência de massinha ou argila.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-toyart" name="3d-drawing" value="Estilo Toy Art" class="form-checkbox">
-                    <label for="desenho-3d-toyart">Estilo Toy Art <span>Proporções exageradas, cores vivas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-surreal" name="3d-drawing" value="3D Surreal/Onírico" class="form-checkbox">
-                    <label for="desenho-3d-surreal">3D Surreal/Onírico <span>Combinações inusitadas de cores e formas.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-neon" name="3d-drawing" value="3D Neon Cyberpunk" class="form-checkbox">
-                    <label for="desenho-3d-neon">3D Neon Cyberpunk <span>Cores vibrantes, contrastes altos, clima futurista.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-retro" name="3d-drawing" value="Estilo Retro Game (Voxel Art)" class="form-checkbox">
-                    <label for="desenho-3d-retro">Estilo Retro Game (Voxel Art) <span>Modelagem em blocos cúbicos.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-hibrido" name="3d-drawing" value="3D Híbrido Pintura" class="form-checkbox">
-                    <label for="desenho-3d-hibrido">3D Híbrido Pintura <span>Render 3D com pós-produção para parecer pintura.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="desenho-3d-minimalista" name="3d-drawing" value="3D Minimalista Colorido" class="form-checkbox">
-                    <label for="desenho-3d-minimalista">3D Minimalista Colorido <span>Poucos elementos, cores sólidas, luz suave.</span></label>
+            <!-- Vídeo 5 -->
+            <div class="bg-white rounded-lg shadow-md">
+                <button onclick="toggleContent('content5')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
+                    <span>5. AÇÃO PENAL: PÚBLICA E PRIVADA. RESUMO DESENHADO</span>
+                    <svg id="arrow5" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div id="content5" class="content px-4 pb-4 text-gray-700">
+                    <div class="border-t pt-4">
+                        <h2 class="text-xl font-bold mb-2">AÇÃO PENAL: PÚBLICA E PRIVADA. RESUMO DESENHADO</h2>
+                        <p class="mb-1"><strong>Canal:</strong> Mapa do Direito</p>
+                        <p class="mb-1"><strong>Duração:</strong> 06:17</p>
+                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=Z15LAmO1o34" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
+                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
+                        <p>Este vídeo oferece uma revisão rápida e esquematizada, ideal para fixar o conteúdo. Ele contrasta diretamente as características da Ação Penal Pública e da Ação Penal Privada.</p>
+                        <p class="font-semibold mt-3">Quadro Comparativo:</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2">
+                            <div>
+                                <h4 class="font-bold">Ação Penal Pública</h4>
+                                <ul class="list-disc list-inside space-y-1">
+                                    <li><strong>Titular:</strong> Ministério Público.</li>
+                                    <li><strong>Peça Inicial:</strong> Denúncia.</li>
+                                    <li><strong>Princípio:</strong> Obrigatoriedade (regra).</li>
+                                    <li><strong>Prazo para oferecer:</strong> 5 dias (réu preso) ou 15 dias (réu solto).</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h4 class="font-bold">Ação Penal Privada</h4>
+                                <ul class="list-disc list-inside space-y-1">
+                                    <li><strong>Titular:</strong> Ofendido (Querelante).</li>
+                                    <li><strong>Peça Inicial:</strong> Queixa-Crime.</li>
+                                    <li><strong>Princípio:</strong> Oportunidade (a vítima escolhe se processa ou não).</li>
+                                    <li><strong>Prazo para oferecer:</strong> 6 meses a contar do conhecimento da autoria (prazo decadencial).</li>
+                                </ul>
+                            </div>
+                        </div>
+                         <p class="mt-4">O resumo também aborda os institutos exclusivos da Ação Privada, como a <strong>renúncia</strong> (ato de abrir mão do direito de processar, antes de iniciar a ação), o <strong>perdão do ofendido</strong> (oferecido após o início da ação e que depende da aceitação do querelado) e a <strong>perempção</strong> (perda do direito de prosseguir na ação por inércia do querelante).</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Tema 6: Formatos Instagram -->
-        <div class="theme-section">
-            <h2 class="section-title">Tema 6 - Formatos Instagram</h2>
-            <div class="checkbox-group">
-                <div class="checkbox-item">
-                    <input type="checkbox" id="insta-quadrado" name="instagram-formats" value="Formato Quadrado (1:1)" class="form-checkbox">
-                    <label for="insta-quadrado">Formato Quadrado (1:1) <span>Ideal para posts tradicionais, 1080x1080 pixels.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="insta-retrato" name="instagram-formats" value="Formato Retrato (4:5)" class="form-checkbox">
-                    <label for="insta-retrato">Formato Retrato (4:5) <span>Vertical, ocupa mais espaço no feed, 1080x1350 pixels.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="insta-paisagem" name="instagram-formats" value="Formato Paisagem (1.91:1)" class="form-checkbox">
-                    <label for="insta-paisagem">Formato Paisagem (1.91:1) <span>Horizontal, 1080x566 pixels.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="insta-stories" name="instagram-formats" value="Stories/Reels (9:16)" class="form-checkbox">
-                    <label for="insta-stories">Stories/Reels (9:16) <span>Formato vertical de tela cheia, 1080x1920 pixels.</span></label>
-                </div>
-                <div class="checkbox-item">
-                    <input type="checkbox" id="insta-carrossel" name="instagram-formats" value="Posts Carrossel (vários formatos)" class="form-checkbox">
-                    <label for="insta-carrossel">Posts Carrossel (vários formatos) <span>Pode ser 1:1, 4:5 ou 1.91:1, permitindo diversas imagens.</span></label>
-                </div>
-            </div>
-        </div>
-
-        <!-- Botões de ação -->
-        <div class="button-group">
-            <button id="generate-prompt-btn" class="button button-primary">
-                <span class="loading-spinner hidden" id="spinner"></span>
-                Gerar Prompt
-            </button>
-        </div>
-
-        <!-- Saída do Prompt -->
-        <div class="prompt-output-container">
-            <label for="generated-prompt" class="block text-lg font-medium text-gray-700 mb-2">Seu Prompt Detalhado:</label>
-            <textarea id="generated-prompt" class="prompt-output w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500" readonly placeholder="O prompt gerado aparecerá aqui."></textarea>
-            <div class="button-group mt-4">
-                <button id="copy-prompt-btn" class="button button-secondary">Copiar Prompt</button>
-                <button id="restart-btn" class="button button-secondary">Reiniciar</button>
-            </div>
         </div>
     </div>
 
     <script>
-        // Get references to elements
-        const userInput = document.getElementById('user-input');
-        const generatePromptBtn = document.getElementById('generate-prompt-btn');
-        const copyPromptBtn = document.getElementById('copy-prompt-btn');
-        const restartBtn = document.getElementById('restart-btn');
-        const generatedPromptOutput = document.getElementById('generated-prompt');
-        const loadingSpinner = document.getElementById('spinner');
+        // Função para abrir e fechar o conteúdo (efeito acordeão)
+        function toggleContent(contentId) {
+            const content = document.getElementById(contentId);
+            const arrow = document.getElementById(contentId.replace('content', 'arrow'));
 
-        // Event listener for Generate Prompt button
-        generatePromptBtn.addEventListener('click', async () => {
-            const userText = userInput.value.trim();
-            if (!userText) {
-                generatedPromptOutput.value = "Por favor, digite o que você precisa antes de gerar o prompt.";
-                return;
-            }
-
-            loadingSpinner.classList.remove('hidden');
-            generatePromptBtn.disabled = true;
-            generatedPromptOutput.value = "Gerando seu prompt... por favor, aguarde.";
-
-            const selectedOptions = {
-                'Desenho P&B': [],
-                'Fotografia P&B': [],
-                'Foto Colorida': [],
-                'Desenho Colorido': [],
-                'Desenho 3D': [],
-                'Formatos Instagram': []
-            };
-
-            // Collect selected checkboxes for each theme
-            document.querySelectorAll('input[name="pb-drawing"]:checked').forEach(checkbox => {
-                selectedOptions['Desenho P&B'].push(checkbox.value);
-            });
-            document.querySelectorAll('input[name="pb-photo"]:checked').forEach(checkbox => {
-                selectedOptions['Fotografia P&B'].push(checkbox.value);
-            });
-            document.querySelectorAll('input[name="color-photo"]:checked').forEach(checkbox => {
-                selectedOptions['Foto Colorida'].push(checkbox.value);
-            });
-            document.querySelectorAll('input[name="color-drawing"]:checked').forEach(checkbox => {
-                selectedOptions['Desenho Colorido'].push(checkbox.value);
-            });
-            document.querySelectorAll('input[name="3d-drawing"]:checked').forEach(checkbox => {
-                selectedOptions['Desenho 3D'].push(checkbox.value);
-            });
-            document.querySelectorAll('input[name="instagram-formats"]:checked').forEach(checkbox => {
-                selectedOptions['Formatos Instagram'].push(checkbox.value);
-            });
-
-            // Construct the prompt for the Gemini API
-            let promptParts = [`Requisição Principal: ${userText}`];
-            for (const theme in selectedOptions) {
-                if (selectedOptions[theme].length > 0) {
-                    promptParts.push(`${theme}: ${selectedOptions[theme].join(', ')}`);
-                }
-            }
-
-            const apiPrompt = `Crie um prompt detalhado e adaptado para geração de imagem/texto com IA (como Sora ou GPT) baseado nas seguintes informações:
-1.  **Requisição Principal:** ${userText}
-2.  **Estilos e Características:**
-    ${Object.entries(selectedOptions).filter(([_, options]) => options.length > 0).map(([theme, options]) => `- **${theme}**: ${options.join(', ')}`).join('\n')}
-
-O prompt final deve ser conciso, mas descritivo, focando em termos visuais e estilísticos que uma IA entenderia para gerar o conteúdo. Deve ser diretamente utilizável. Inclua apenas o prompt gerado.`;
-
-
-            let chatHistory = [];
-            chatHistory.push({ role: "user", parts: [{ text: apiPrompt }] });
-            const payload = { contents: chatHistory };
-            const apiKey = ""; // Canvas will automatically provide the API key
-            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
-
-            // Exponential backoff for API calls
-            const maxRetries = 5;
-            let currentRetry = 0;
-            let success = false;
-
-            while (currentRetry < maxRetries && !success) {
-                try {
-                    const response = await fetch(apiUrl, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify(payload)
-                    });
-
-                    if (response.status === 429) { // Too Many Requests
-                        const retryAfter = Math.pow(2, currentRetry) * 1000; // Exponential backoff
-                        currentRetry++;
-                        await new Promise(resolve => setTimeout(resolve, retryAfter));
-                        continue; // Retry the request
-                    }
-
-                    const result = await response.json();
-
-                    if (result.candidates && result.candidates.length > 0 &&
-                        result.candidates[0].content && result.candidates[0].content.parts &&
-                        result.candidates[0].content.parts.length > 0) {
-                        const text = result.candidates[0].content.parts[0].text;
-                        generatedPromptOutput.value = text;
-                        success = true; // Mark as success to exit loop
-                    } else {
-                        generatedPromptOutput.value = "Erro ao gerar o prompt: Resposta inesperada da API.";
-                        console.error("Unexpected API response structure:", result);
-                        success = true; // Still exit, but with an error message
-                    }
-                } catch (error) {
-                    generatedPromptOutput.value = "Erro ao conectar com a API. Tente novamente.";
-                    console.error("Error fetching from API:", error);
-                    currentRetry++;
-                    const retryAfter = Math.pow(2, currentRetry) * 1000;
-                    await new Promise(resolve => setTimeout(resolve, retryAfter));
-                    if (currentRetry >= maxRetries) {
-                        generatedPromptOutput.value = "Erro ao conectar com a API após várias tentativas. Por favor, tente novamente mais tarde.";
-                    }
-                }
-            }
-
-            loadingSpinner.classList.add('hidden');
-            generatePromptBtn.disabled = false;
-        });
-
-        // Event listener for Copy Prompt button
-        copyPromptBtn.addEventListener('click', () => {
-            const promptText = generatedPromptOutput.value;
-            if (promptText && promptText !== "Gerando seu prompt... por favor, aguarde." && promptText !== "Por favor, digite o que você precisa antes de gerar o prompt." && promptText !== "Erro ao gerar o prompt: Resposta inesperada da API." && promptText !== "Erro ao conectar com a API. Tente novamente." && promptText !== "Erro ao conectar com a API após várias tentativas. Por favor, tente novamente mais tarde.") {
-                // Use a temporary textarea to copy to clipboard
-                const tempTextArea = document.createElement('textarea');
-                tempTextArea.value = promptText;
-                document.body.appendChild(tempTextArea);
-                tempTextArea.select();
-                try {
-                    document.execCommand('copy');
-                    generatedPromptOutput.value = "Prompt copiado para a área de transferência!";
-                    setTimeout(() => {
-                        // Restore original prompt after a short delay
-                        if (generatedPromptOutput.value === "Prompt copiado para a área de transferência!") {
-                            generatedPromptOutput.value = promptText;
-                        }
-                    }, 2000);
-                } catch (err) {
-                    console.error('Falha ao copiar:', err);
-                    generatedPromptOutput.value = "Falha ao copiar o prompt. Por favor, copie manualmente.";
-                }
-                document.body.removeChild(tempTextArea);
+            if (content.style.maxHeight) {
+                // Se já está aberto, fecha
+                content.style.maxHeight = null;
+                arrow.classList.remove('rotate-180');
             } else {
-                generatedPromptOutput.value = "Não há prompt para copiar ou o prompt está vazio/em estado de erro.";
-            }
-        });
+                // Fecha todos os outros conteúdos abertos
+                const allContents = document.querySelectorAll('.content');
+                allContents.forEach(item => {
+                    item.style.maxHeight = null;
+                });
+                const allArrows = document.querySelectorAll('svg');
+                allArrows.forEach(item => {
+                    item.classList.remove('rotate-180');
+                });
 
-        // Event listener for Restart button
-        restartBtn.addEventListener('click', () => {
-            userInput.value = '';
-            generatedPromptOutput.value = '';
-            document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-                checkbox.checked = false;
-            });
-            loadingSpinner.classList.add('hidden');
-            generatePromptBtn.disabled = false;
-        });
-        
-        // NOVO: Removida a lógica de toggle duplicada para o checkbox-item.
-        // O comportamento padrão do label (associado via `for` e `id`) já lida com o clique.
-        // Isso evita o problema de duplo-toggle que fazia parecer que o clique não funcionava.
+                // Abre o conteúdo clicado
+                content.style.maxHeight = content.scrollHeight + "px";
+                arrow.classList.add('rotate-180');
+            }
+        }
     </script>
+
 </body>
 </html>
