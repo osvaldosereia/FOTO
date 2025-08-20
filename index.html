@@ -3,209 +3,219 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resumos de Videoaulas - Direito Penal</title>
-    <!-- Tailwind CSS para estilização -->
+    <title>Gerador de Prompt para Lettering Aleatório</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        /* Estilo para a transição suave (efeito "acordeão") */
-        .content {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.5s ease-out;
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Estilo para a animação de feedback do botão de copiar */
+        .copied-feedback {
+            position: absolute;
+            top: -2.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #10B981; /* green-500 */
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            opacity: 0;
+            transition: opacity 0.3s ease, top 0.3s ease;
+            white-space: nowrap;
+        }
+        .copied-feedback.show {
+            opacity: 1;
+            top: -3rem;
         }
     </style>
 </head>
-<body class="bg-gray-100 font-sans">
+<body class="bg-gray-50 text-gray-800">
 
-    <div class="container mx-auto p-4 sm:p-6 md:p-8 max-w-4xl">
+    <div class="container mx-auto px-4 py-8 md:py-12 max-w-4xl">
         
         <!-- Cabeçalho -->
         <header class="text-center mb-8">
-            <h1 class="text-3xl md:text-4xl font-bold text-gray-800">Resumos de Ação Penal</h1>
-            <p class="text-gray-600 mt-2">Clique em um vídeo para ver o resumo detalhado.</p>
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Gerador de Prompt para Lettering</h1>
+            <p class="mt-2 text-md md:text-lg text-gray-600">Transforme suas frases em 10 prompts aleatórios e criativos para geração de imagens.</p>
         </header>
 
-        <!-- Container dos Botões e Resumos -->
-        <div class="space-y-4">
-
-            <!-- Vídeo 1 -->
-            <div class="bg-white rounded-lg shadow-md">
-                <button onclick="toggleContent('content1')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
-                    <span>1. Ação Penal (Processo Penal) | DESCOMPLICADO</span>
-                    <svg id="arrow1" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                </button>
-                <div id="content1" class="content px-4 pb-4 text-gray-700">
-                    <div class="border-t pt-4">
-                        <h2 class="text-xl font-bold mb-2">Ação Penal (Processo Penal) | DESCOMPLICADO</h2>
-                        <p class="mb-1"><strong>Canal:</strong> Direito Desenhado</p>
-                        <p class="mb-1"><strong>Duração:</strong> 13:06</p>
-                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=YXmHNrFlOPg" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
-                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
-                        <p>Este vídeo introdutório aborda o conceito fundamental de <strong>Ação Penal</strong>, explicando-a como o direito do Estado (ou, em certos casos, do ofendido) de provocar o Poder Judiciário para que aplique a lei penal a um caso concreto. O foco principal é desmistificar os princípios que regem a Ação Penal Pública.</p>
-                        <ul class="list-disc list-inside mt-2 space-y-1">
-                            <li><strong>Princípio da Obrigatoriedade:</strong> O Ministério Público, como titular da ação penal pública, tem o dever de oferecê-la sempre que houver indícios suficientes de autoria e prova da materialidade do crime. Não há margem para discricionariedade ou análise de conveniência.</li>
-                            <li><strong>Princípio da Indisponibilidade:</strong> Uma vez iniciada a ação penal pelo Ministério Público, ele não pode desistir dela. O processo deve seguir seu curso até uma decisão final do Judiciário.</li>
-                            <li><strong>Princípio da Oficialidade:</strong> A titularidade da ação penal pública é de um órgão oficial do Estado, o Ministério Público.</li>
-                        </ul>
-                        <p class="mt-2">A aula utiliza exemplos práticos para diferenciar a Ação Penal do Inquérito Policial, posicionando a ação como o início da fase processual, enquanto o inquérito é a fase investigativa pré-processual.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Vídeo 2 -->
-            <div class="bg-white rounded-lg shadow-md">
-                <button onclick="toggleContent('content2')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
-                    <span>2. AÇÃO PENAL | TUDO O QUE VOCÊ PRECISA SABER</span>
-                    <svg id="arrow2" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                </button>
-                <div id="content2" class="content px-4 pb-4 text-gray-700">
-                    <div class="border-t pt-4">
-                        <h2 class="text-xl font-bold mb-2">AÇÃO PENAL | TUDO O QUE VOCÊ PRECISA SABER | PROCESSO PENAL</h2>
-                        <p class="mb-1"><strong>Canal:</strong> Profa. Cristiane Dupret</p>
-                        <p class="mb-1"><strong>Duração:</strong> 15:53</p>
-                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=ftGw2uVK8HI" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
-                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
-                        <p>Este vídeo aprofunda a classificação da Ação Penal, detalhando suas espécies e subespécies. É um guia completo para entender quem pode iniciar o processo penal e sob quais condições.</p>
-                        <p class="font-semibold mt-3">1. Ação Penal Pública:</p>
-                        <ul class="list-disc list-inside ml-4 space-y-1">
-                            <li><strong>Incondicionada:</strong> É a regra no sistema brasileiro. Não depende de nenhuma condição ou manifestação de vontade da vítima. O MP age de ofício. Ex: Homicídio, Roubo.</li>
-                            <li><strong>Condicionada à Representação:</strong> O MP só pode agir se a vítima (ou seu representante legal) autorizar expressamente. A representação é uma condição de procedibilidade. Ex: Ameaça.</li>
-                             <li><strong>Condicionada à Requisição do Ministro da Justiça:</strong> Em casos específicos, como crimes contra a honra do Presidente da República, a ação depende dessa requisição.</li>
-                        </ul>
-                        <p class="font-semibold mt-3">2. Ação Penal Privada:</p>
-                        <ul class="list-disc list-inside ml-4 space-y-1">
-                            <li><strong>Exclusivamente Privada:</strong> A titularidade é do ofendido, que a exerce por meio de uma queixa-crime. Ex: Crimes contra a honra (calúnia, difamação, injúria).</li>
-                            <li><strong>Personalíssima:</strong> Só pode ser proposta pela própria vítima, não se transmitindo a herdeiros. Ex: Induzimento a erro essencial ou ocultação de impedimento para o casamento.</li>
-                            <li><strong>Privada Subsidiária da Pública:</strong> Ocorre quando o MP não oferece a denúncia no prazo legal. A vítima pode, então, iniciar a ação através de queixa-crime, mas o MP pode retomar a titularidade a qualquer momento.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Vídeo 3 -->
-            <div class="bg-white rounded-lg shadow-md">
-                <button onclick="toggleContent('content3')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
-                    <span>3. Ação Penal - Processo Penal</span>
-                    <svg id="arrow3" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                </button>
-                <div id="content3" class="content px-4 pb-4 text-gray-700">
-                    <div class="border-t pt-4">
-                        <h2 class="text-xl font-bold mb-2">Ação Penal - Processo Penal</h2>
-                        <p class="mb-1"><strong>Canal:</strong> Veduca</p>
-                        <p class="mb-1"><strong>Duração:</strong> 25:39</p>
-                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=pLDL9Gn2SXQ" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
-                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
-                        <p>O vídeo foca nos requisitos essenciais para que a Ação Penal seja válida e possa ser recebida pelo juiz. São as chamadas <strong>"Condições da Ação"</strong>, sem as quais a petição inicial (denúncia ou queixa) será rejeitada.</p>
-                        <ul class="list-disc list-inside mt-2 space-y-2">
-                            <li><strong>Possibilidade Jurídica do Pedido:</strong> O fato narrado deve ser, em tese, um crime. Não se pode iniciar uma ação penal por um fato atípico (que não é previsto como crime na lei).</li>
-                            <li><strong>Interesse de Agir:</strong> Refere-se à necessidade e à utilidade do processo. A ação penal deve ser o meio necessário para se buscar a punição e o meio adequado para tal fim. Por exemplo, se a punibilidade já está extinta (pela prescrição), não há interesse de agir.</li>
-                            <li><strong>Legitimidade das Partes (Ad Causam):</strong>
-                                <ul class="list-decimal list-inside ml-6">
-                                    <li><strong>Legitimidade Ativa:</strong> Quem pode propor a ação. Na ação pública, é o Ministério Público. Na privada, é o ofendido.</li>
-                                    <li><strong>Legitimidade Passiva:</strong> Contra quem a ação é proposta, ou seja, o suposto autor do fato criminoso.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Justa Causa:</strong> É um requisito adicional, específico do processo penal. Exige um lastro probatório mínimo (indícios de autoria e prova de materialidade) para que a acusação não seja temerária ou leviana.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Vídeo 4 -->
-            <div class="bg-white rounded-lg shadow-md">
-                <button onclick="toggleContent('content4')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
-                    <span>4. Processo Penal - Aula 05 - Ação Penal (Parte 1)</span>
-                    <svg id="arrow4" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                </button>
-                <div id="content4" class="content px-4 pb-4 text-gray-700">
-                    <div class="border-t pt-4">
-                        <h2 class="text-xl font-bold mb-2">Processo Penal - Aula 05 - Ação Penal (Parte 1)</h2>
-                        <p class="mb-1"><strong>Canal:</strong> Prova Final</p>
-                        <p class="mb-1"><strong>Duração:</strong> 23:24</p>
-                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=wAQ6W-OZRRc" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
-                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
-                        <p>Esta aula aborda os momentos que antecedem o início da Ação Penal e as peças que a inauguram. O foco está na transição da fase de investigação para a fase processual.</p>
-                        <p class="font-semibold mt-3">Fases e Peças Iniciais:</p>
-                        <ul class="list-disc list-inside space-y-2">
-                            <li><strong>Notitia Criminis:</strong> É o conhecimento, espontâneo ou provocado, por parte da autoridade policial, de um fato aparentemente criminoso. É o que dá início à investigação.</li>
-                            <li><strong>Inquérito Policial:</strong> Procedimento administrativo, presidido pelo Delegado de Polícia, que visa apurar a materialidade e os indícios de autoria. Suas peças servem de base para o titular da ação penal.</li>
-                            <li><strong>Denúncia:</strong> É a petição inicial da <strong>Ação Penal Pública</strong>, elaborada e oferecida pelo Ministério Público ao Poder Judiciário. Deve conter a exposição do fato criminoso com todas as suas circunstâncias, a qualificação do acusado, a classificação do crime e o rol de testemunhas.</li>
-                            <li><strong>Queixa-Crime:</strong> É a petição inicial da <strong>Ação Penal Privada</strong>, elaborada por um advogado em nome da vítima (querelante) e oferecida contra o suposto autor do crime (querelado). Seus requisitos são semelhantes aos da denúncia.</li>
-                        </ul>
-                        <p class="mt-2">A aula diferencia claramente o papel da Polícia Civil (investigar), do Ministério Público (acusar na ação pública) e da Vítima/Advogado (acusar na ação privada).</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Vídeo 5 -->
-            <div class="bg-white rounded-lg shadow-md">
-                <button onclick="toggleContent('content5')" class="w-full text-left p-4 font-semibold text-lg text-gray-700 hover:bg-gray-50 rounded-lg focus:outline-none flex justify-between items-center">
-                    <span>5. AÇÃO PENAL: PÚBLICA E PRIVADA. RESUMO DESENHADO</span>
-                    <svg id="arrow5" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                </button>
-                <div id="content5" class="content px-4 pb-4 text-gray-700">
-                    <div class="border-t pt-4">
-                        <h2 class="text-xl font-bold mb-2">AÇÃO PENAL: PÚBLICA E PRIVADA. RESUMO DESENHADO</h2>
-                        <p class="mb-1"><strong>Canal:</strong> Mapa do Direito</p>
-                        <p class="mb-1"><strong>Duração:</strong> 06:17</p>
-                        <p class="mb-3"><strong>Link:</strong> <a href="https://www.youtube.com/watch?v=Z15LAmO1o34" target="_blank" class="text-blue-600 hover:underline">Assistir ao vídeo</a></p>
-                        <h3 class="font-semibold mt-4 mb-2">Resumo Didático:</h3>
-                        <p>Este vídeo oferece uma revisão rápida e esquematizada, ideal para fixar o conteúdo. Ele contrasta diretamente as características da Ação Penal Pública e da Ação Penal Privada.</p>
-                        <p class="font-semibold mt-3">Quadro Comparativo:</p>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2">
-                            <div>
-                                <h4 class="font-bold">Ação Penal Pública</h4>
-                                <ul class="list-disc list-inside space-y-1">
-                                    <li><strong>Titular:</strong> Ministério Público.</li>
-                                    <li><strong>Peça Inicial:</strong> Denúncia.</li>
-                                    <li><strong>Princípio:</strong> Obrigatoriedade (regra).</li>
-                                    <li><strong>Prazo para oferecer:</strong> 5 dias (réu preso) ou 15 dias (réu solto).</li>
-                                </ul>
-                            </div>
-                            <div>
-                                <h4 class="font-bold">Ação Penal Privada</h4>
-                                <ul class="list-disc list-inside space-y-1">
-                                    <li><strong>Titular:</strong> Ofendido (Querelante).</li>
-                                    <li><strong>Peça Inicial:</strong> Queixa-Crime.</li>
-                                    <li><strong>Princípio:</strong> Oportunidade (a vítima escolhe se processa ou não).</li>
-                                    <li><strong>Prazo para oferecer:</strong> 6 meses a contar do conhecimento da autoria (prazo decadencial).</li>
-                                </ul>
-                            </div>
-                        </div>
-                         <p class="mt-4">O resumo também aborda os institutos exclusivos da Ação Privada, como a <strong>renúncia</strong> (ato de abrir mão do direito de processar, antes de iniciar a ação), o <strong>perdão do ofendido</strong> (oferecido após o início da ação e que depende da aceitação do querelado) e a <strong>perempção</strong> (perda do direito de prosseguir na ação por inércia do querelante).</p>
-                    </div>
-                </div>
-            </div>
-
+        <!-- Área de Input -->
+        <div class="bg-white p-6 rounded-2xl shadow-lg">
+            <label for="phraseInput" class="block text-sm font-medium text-gray-700 mb-2">Sua Frase:</label>
+            <textarea id="phraseInput" rows="3" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition duration-150" placeholder="Ex: A vida é bela"></textarea>
+            <button id="generateBtn" class="mt-4 w-full bg-indigo-600 text-white font-semibold py-3 px-4 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-transform transform hover:scale-105">
+                Gerar 10 Estilos Aleatórios
+            </button>
         </div>
+
+        <!-- Divisor -->
+        <div class="my-8 border-t border-gray-200"></div>
+
+        <!-- Resultados -->
+        <div id="resultsContainer" class="space-y-4">
+             <!-- Mensagem inicial -->
+            <div id="initialMessage" class="text-center text-gray-500 py-10">
+                <svg class="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.5L15.232 5.232z" />
+                </svg>
+                <h3 class="mt-2 text-sm font-medium text-gray-900">Seus prompts aparecerão aqui</h3>
+                <p class="mt-1 text-sm text-gray-500">Digite uma frase acima e clique em gerar.</p>
+            </div>
+        </div>
+
     </div>
 
     <script>
-        // Função para abrir e fechar o conteúdo (efeito acordeão)
-        function toggleContent(contentId) {
-            const content = document.getElementById(contentId);
-            const arrow = document.getElementById(contentId.replace('content', 'arrow'));
+        document.addEventListener('DOMContentLoaded', () => {
+            const generateBtn = document.getElementById('generateBtn');
+            const phraseInput = document.getElementById('phraseInput');
+            const resultsContainer = document.getElementById('resultsContainer');
+            const initialMessage = document.getElementById('initialMessage');
 
-            if (content.style.maxHeight) {
-                // Se já está aberto, fecha
-                content.style.maxHeight = null;
-                arrow.classList.remove('rotate-180');
-            } else {
-                // Fecha todos os outros conteúdos abertos
-                const allContents = document.querySelectorAll('.content');
-                allContents.forEach(item => {
-                    item.style.maxHeight = null;
-                });
-                const allArrows = document.querySelectorAll('svg');
-                allArrows.forEach(item => {
-                    item.classList.remove('rotate-180');
-                });
+            // Adiciona sufixo de qualidade e dimensão a todos os prompts
+            const qualitySuffix = ", proporção 4:5, 1080x1350px, alta resolução, qualidade de estúdio, 8k";
 
-                // Abre o conteúdo clicado
-                content.style.maxHeight = content.scrollHeight + "px";
-                arrow.classList.add('rotate-180');
+            // Array com uma grande variedade de estilos de lettering
+            const allLetteringStyles = [
+                { title: "Neon 3D", prompt: "Tipografia em estilo neon 3D vibrante, com a frase '{phrase}' brilhando intensamente em um fundo escuro de uma cidade à noite, reflexos no chão molhado, cinematográfico, hiper-realista" },
+                { title: "Caligrafia Vintage", prompt: "Caligrafia vintage elegante, a frase '{phrase}' escrita com tinta dourada sobre um papel pergaminho antigo e texturizado, com detalhes ornamentados e uma pena ao lado, iluminação suave" },
+                { title: "Graffiti Urbano", prompt: "Arte de rua em estilo graffiti, a frase '{phrase}' pintada com spray em um muro de tijolos coloridos e desgastados, cores vibrantes, escorridos de tinta, em uma viela urbana" },
+                { title: "Ouro Sofisticado", prompt: "Lettering sofisticado em folha de ouro com relevo, a frase '{phrase}' sobre um fundo de mármore preto polido, iluminação dramática que realça o brilho do metal, estilo luxuoso" },
+                { title: "Giz na Lousa", prompt: "Tipografia de giz desenhada à mão, a frase '{phrase}' escrita em uma lousa de restaurante com ornamentos florais e setas decorativas, estilo rústico e acolhedor" },
+                { title: "Minimalista Moderno", prompt: "Estilo minimalista e moderno, fonte sans-serif limpa e elegante, a frase '{phrase}' centralizada em um fundo de cor pastel suave, muito espaço em branco, design clean" },
+                { title: "Aquarela Artística", prompt: "Lettering em aquarela com pinceladas fluidas e artísticas, a frase '{phrase}' com um gradiente de cores suaves (azul, rosa, lilás), respingos de tinta, em papel de alta gramatura" },
+                { title: "Gótico Ornamentado", prompt: "Escrita gótica ornamentada e detalhada, com a frase '{phrase}' em preto sobre um fundo que remete a um vitral de catedral, com detalhes complexos em cada letra" },
+                { title: "Retrô Anos 80", prompt: "Estilo retrô dos anos 80, a frase '{phrase}' em uma fonte cromada com brilho de neon rosa e azul, sobre uma grade de perspectiva synthwave com um pôr do sol digital ao fundo" },
+                { title: "Tipografia Floral", prompt: "Tipografia floral, onde cada letra da frase '{phrase}' é formada por um arranjo delicado e realista de flores e folhas diversas, sobre um fundo de madeira clara, fotografia macro" },
+                { title: "Fogo e Chamas", prompt: "Letras feitas de fogo e chamas realistas, a frase '{phrase}' queimando intensamente contra um fundo preto, com faíscas e fumaça, dramático e poderoso" },
+                { title: "Gelo Congelado", prompt: "A frase '{phrase}' esculpida em gelo translúcido e rachado, com pingentes e geada, em um ambiente ártico, iluminação fria e azulada" },
+                { title: "Doce e Confeitaria", prompt: "Letras formadas por doces, glacê e confeitos coloridos, a frase '{phrase}' sobre uma mesa de confeitaria, estilo delicioso e divertido" },
+                { title: "Madeira Rústica", prompt: "A frase '{phrase}' entalhada em um pedaço de madeira rústica, com textura de casca de árvore e grãos visíveis, em uma cabana na floresta" },
+                { title: "Tecnologia Sci-Fi", prompt: "Tipografia holográfica de ficção científica, a frase '{phrase}' flutuando no ar com um brilho azulado e linhas de varredura, interior de uma nave espacial" },
+                { title: "Balões Metálicos", prompt: "Letras formadas por balões metálicos inflados, a frase '{phrase}' flutuando em uma festa, reflexos de luz, cores vibrantes" },
+                { title: "Fumaça Colorida", prompt: "A frase '{phrase}' formada por rastros de fumaça colorida e etérea, em um fundo escuro, movimento fluido e abstrato" },
+                { title: "Mosaico de Vidro", prompt: "Letras compostas por pequenos pedaços de mosaico de vidro colorido, a frase '{phrase}' com um estilo artesanal e brilhante, como um vitral" },
+                { title: "Lã e Tricô", prompt: "Tipografia feita de lã tricotada, a frase '{phrase}' com textura aconchegante e macia, em um fundo de malha, estilo hygge" },
+                { title: "Jardim Secreto", prompt: "Letras cobertas de musgo, pequenas flores e vinhas, a frase '{phrase}' em uma parede de pedra antiga em um jardim secreto, luz do sol filtrada" },
+                { title: "Estilo Steampunk", prompt: "Letras feitas de engrenagens, canos de cobre e medidores de latão, a frase '{phrase}' em um fundo de metal industrial, estilo steampunk vitoriano" },
+                { title: "Psicodélico Anos 70", prompt: "Tipografia psicodélica dos anos 70, com a frase '{phrase}' em letras arredondadas e onduladas, cores vibrantes e padrões hipnóticos" },
+                { title: "Tinta na Água", prompt: "A frase '{phrase}' se formando a partir de gotas de tinta se dissolvendo na água, criando padrões abstratos e coloridos, fotografia em alta velocidade" },
+                { title: "Origami de Papel", prompt: "Letras feitas de papel dobrado em estilo origami, a frase '{phrase}' em um fundo de cor sólida, sombras suaves, design geométrico" },
+                { title: "Pixel Art 8-bit", prompt: "A frase '{phrase}' em estilo pixel art de 8 bits, como em um videogame antigo, cores limitadas e vibrantes, fundo de cenário de jogo retrô" },
+                { title: "Constelação Estrelada", prompt: "Letras formadas por estrelas brilhantes conectadas, a frase '{phrase}' como uma constelação no céu noturno, com nebulosas e galáxias ao fundo" },
+                { title: "Desenho de Arame", prompt: "A frase '{phrase}' esculpida em arame dobrado, criando um efeito 3D minimalista, sobre uma parede branca com sombras nítidas" },
+                { title: "Tatuagem Old School", prompt: "Lettering no estilo de tatuagem 'old school', com a frase '{phrase}' em contornos pretos grossos, cores primárias e banners" },
+                { title: "Rochas e Pedras", prompt: "Letras formadas por pedras empilhadas ou esculpidas, a frase '{phrase}' em um ambiente natural como uma praia ou deserto, textura áspera" },
+                { title: "Luz e Sombra (Light Painting)", prompt: "A frase '{phrase}' desenhada no ar com rastros de luz (light painting), em uma paisagem noturna, longa exposição" },
+                { title: "Tipografia de Fita", prompt: "Lettering que parece ser feito de uma fita de cetim dobrada e torcida, a frase '{phrase}' com um efeito 3D e brilho sutil" },
+                { title: "Animação Clássica (Cartoon)", prompt: "A frase '{phrase}' no estilo de um título de desenho animado clássico, com letras saltitantes, coloridas e contornos grossos" },
+                { title: "Manchas de Tinta (Rorschach)", prompt: "Tipografia abstrata formada por manchas de tinta simétricas, a frase '{phrase}' emergindo de um padrão semelhante a um teste de Rorschach" },
+                { title: "Circuito Eletrônico", prompt: "Letras formadas por trilhas de uma placa de circuito impresso (PCB), a frase '{phrase}' com componentes eletrônicos, luzes de LED, fundo tecnológico" },
+                { title: "Corte em Papel (Kirigami)", prompt: "A frase '{phrase}' cortada e dobrada em uma única folha de papel, criando um design 3D intrincado com luz e sombra" },
+                { title: "Chocolate Derretido", prompt: "Lettering feito com chocolate derretido, a frase '{phrase}' sobre uma superfície de mármore branco, com respingos e textura cremosa" },
+                { title: "Tipografia de Jornal Recortado", prompt: "A frase '{phrase}' montada com letras de diferentes fontes e tamanhos recortadas de jornais e revistas, estilo 'carta de resgate'" },
+                { title: "Escrita na Areia", prompt: "A frase '{phrase}' escrita na areia de uma praia, com ondas suaves se aproximando, luz do pôr do sol" },
+                { title: "Estilo Art Déco", prompt: "Tipografia elegante e geométrica no estilo Art Déco, a frase '{phrase}' com linhas retas, curvas ornamentadas e detalhes em dourado e preto" },
+                { title: "Folhagem Tropical", prompt: "Letras formadas por folhas de palmeiras, samambaias e outras plantas tropicais, a frase '{phrase}' em um fundo de selva densa" }
+            ].map(style => ({ ...style, prompt: style.prompt + qualitySuffix })); // Adiciona o sufixo a todos os prompts
+
+            /**
+             * Embaralha um array de forma aleatória (Algoritmo Fisher-Yates).
+             * @param {Array} array O array a ser embaralhado.
+             * @returns {Array} O array embaralhado.
+             */
+            function shuffleArray(array) {
+                let currentIndex = array.length, randomIndex;
+                while (currentIndex !== 0) {
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex--;
+                    [array[currentIndex], array[randomIndex]] = [
+                        array[randomIndex], array[currentIndex]];
+                }
+                return array;
             }
-        }
+
+            // Evento de clique no botão de gerar
+            generateBtn.addEventListener('click', () => {
+                const userPhrase = phraseInput.value.trim();
+                
+                if (userPhrase === '') {
+                    resultsContainer.innerHTML = '<p class="text-center text-red-500 font-medium">Por favor, insira uma frase para começar.</p>';
+                    return;
+                }
+
+                resultsContainer.innerHTML = '';
+                if(initialMessage) initialMessage.style.display = 'none';
+
+                const randomStyles = shuffleArray([...allLetteringStyles]).slice(0, 10);
+
+                randomStyles.forEach(style => {
+                    const promptText = style.prompt.replace('{phrase}', userPhrase);
+                    
+                    const card = document.createElement('div');
+                    card.className = 'bg-white p-4 rounded-xl shadow-md border border-gray-200 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4';
+                    
+                    card.innerHTML = `
+                        <div class="flex-1">
+                            <h3 class="font-bold text-indigo-700">${style.title}</h3>
+                            <p class="text-gray-600 mt-1 text-sm">${promptText}</p>
+                        </div>
+                        <div class="w-full sm:w-auto">
+                            <button class="copy-btn relative w-full sm:w-auto bg-gray-100 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-all duration-200">
+                                Copiar
+                            </button>
+                        </div>
+                    `;
+                    
+                    resultsContainer.appendChild(card);
+                    const copyBtn = card.querySelector('.copy-btn');
+                    copyBtn.addEventListener('click', () => copyToClipboard(promptText, copyBtn));
+                });
+            });
+
+            function copyToClipboard(text, button) {
+                const tempTextArea = document.createElement('textarea');
+                tempTextArea.value = text;
+                document.body.appendChild(tempTextArea);
+                tempTextArea.select();
+                try {
+                    document.execCommand('copy');
+                    showCopiedFeedback(button);
+                } catch (err) {
+                    console.error('Falha ao copiar texto: ', err);
+                }
+                document.body.removeChild(tempTextArea);
+            }
+
+            function showCopiedFeedback(button) {
+                const existingFeedback = button.querySelector('.copied-feedback');
+                if (existingFeedback) {
+                    existingFeedback.remove();
+                }
+
+                const feedback = document.createElement('div');
+                feedback.textContent = 'Copiado!';
+                feedback.className = 'copied-feedback';
+                button.appendChild(feedback);
+
+                setTimeout(() => {
+                    feedback.classList.add('show');
+                }, 10);
+
+                setTimeout(() => {
+                    feedback.classList.remove('show');
+                    setTimeout(() => {
+                        if (feedback.parentElement) {
+                            feedback.parentElement.removeChild(feedback);
+                        }
+                    }, 300);
+                }, 2000);
+            }
+        });
     </script>
 
 </body>
