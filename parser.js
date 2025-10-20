@@ -1,53 +1,60 @@
-// parser.js (versão corrigida e aprimorada)
+// parser.js — versão estável funcional
 
-// Extrai texto do PDF
 async function extractTextFromPDF(file) {
   const arrayBuffer = await file.arrayBuffer();
   const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
   let text = '';
+
   for (let i = 1; i <= pdf.numPages; i++) {
     const page = await pdf.getPage(i);
     const content = await page.getTextContent();
-    text += content.items.map(item => item.str).join(' ') + '\n';
+    const pageText = content.items.map(item => item.str).join(' ');
+    text += pageText + '\n';
   }
   return text;
 }
 
-// Processa o texto e gera o modelo fiel
 function processText(raw) {
-  // Limpeza básica
-  raw = raw.replace(/\s{2,}/g, ' ').replace(/www\.qconcursos\.com.*$/gs, '').trim();
+  // Normaliza o texto
+  raw = raw.replace(/\s{2,}/g, ' ').replace(/\n+/g, '\n').trim();
 
-  // Divide por identificadores de questão
-  const blocos = raw.split(/\bQ\d{4,}\b/).slice(1);
+  // Divide em blocos por marcador de questão (ex: Q12345)
+  const blocos = raw.split(/\bQ\d{3,}\b/).slice(1);
+  if (!blocos.length) return 'Nenhuma questão encontrada.';
+
   let saida = [];
 
   blocos.slice(0, 20).forEach((bloco, i) => {
     const ano = (bloco.match(/Ano:\s*(\d{4})/) || [, '----'])[1];
-    const banca = (bloco.match(/Banca:\s*([^|]+?)(?=Órgão|$)/) || [, '---'])[1].trim();
-    const orgao = (bloco.match(/Órgão:\s*([^A]+?)(?=A\s|B\s|C\s|D\s|E\s|$)/) || [, '---'])[1].trim();
+    const banca = (bloco.match(/Banca:\s*([^\n]+)/) || [, '---'])[1].trim();
+    const orgao = (bloco.match(/Órgão:\s*([^\n]+)/) || [, '---'])[1].trim();
 
-    // Enunciado até antes das alternativas
-    const enunciado = (bloco.split(/\sA\s| A\s/)[0] || '').trim();
+    // Enunciado (antes da primeira alternativa)
+    const enunciado = bloco.split(/\bA\s/)[0].trim();
 
-    // Alternativas (A-E ou Certo/Errado)
-    const alternativas = [...bloco.matchAll(/([A-E])\s+([^\n]+?)(?=[A-E]\s|$)/g)]
-      .map(a => `** ${a[1]}) ${a[2].trim()}`)
-      .join('\n')
-      || [...bloco.matchAll(/(Certo|Errado)/gi)]
-        .map((a, j) => `** ${j === 0 ? 'A' : 'B'}) ${a[0]}`)
+    // Alternativas
+    let alternativas = '';
+    const opcoes = [...bloco.matchAll(/\b([A-E])\s+([^A-E]+?)(?=\b[A-E]\s|$)/g)];
+    if (opcoes.length > 0) {
+      alternativas = opcoes
+        .map(a => `** ${a[1]}) ${a[2].trim()}`)
         .join('\n');
+    } else {
+      // Caso de Certo/Errado
+      const vf = [...bloco.matchAll(/(Certo|Errado)/gi)];
+      alternativas = vf.map((a, j) => `** ${j === 0 ? 'A' : 'B'}) ${a[0]}`).join('\n');
+    }
 
-    // Gabarito (no fim do arquivo original)
-    const gabaritoMatch = raw.match(new RegExp(`\\b${i + 1}\\s*[:\\-]?\\s*([A-E])\\b`, 'i'));
-    const gabarito = gabaritoMatch ? gabaritoMatch[1].toUpperCase() : '?';
+    // Gabarito (pego da linha “Gabarito:” ou da parte final)
+    const gabarito = (bloco.match(/Gabarito:\s*([A-E])/i) || raw.match(new RegExp(`\\b${i + 1}\\s*[:\\-]?\\s*([A-E])\\b`, 'i')) || [, '?'])[1];
 
-    // Palavras-chave (2 mais relevantes, não genéricas)
+    // Palavras-chave (duas palavras relevantes)
     const palavras = [...new Set(enunciado.match(/\b[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-zçéíóúãõâêô]+\b/g) || [])]
       .filter(p => !['Direito', 'Penal', 'Lei', 'Código', 'Crime'].includes(p));
     const chaves = palavras.slice(0, 2).join(', ') || 'Tema';
 
-    const blocoFormatado = 
+    // Modelo final
+    saida.push(
 `-----
 ***** Ano: ${ano} | Banca: ${banca} | Órgão: ${orgao}
 
@@ -57,13 +64,11 @@ ${alternativas}
 
 *** Gabarito: ${gabarito}
 
-**** ${chaves}
-`;
-
-    saida.push(blocoFormatado);
+**** ${chaves}`
+    );
   });
 
-  return saida.join('\n');
+  return saida.join('\n\n');
 }
 
 // UI
