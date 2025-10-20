@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Conversor PDF → TXT (Formatação Qconcursos)</title>
-<link rel="stylesheet" href="style.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.7.76/pdf.min.js"></script>
-<script>
-  if (!window.pdfjsLib) { alert("Falha ao carregar pdf.js"); }
-  else {
-    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.7.76/pdf.worker.min.js";
-  }
-</script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conversor PDF → TXT (Formatação Qconcursos)</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <main>
@@ -19,19 +12,21 @@
     <p class="muted">Modelo: ***** Ano | Banca | Órgão · opções · *** Gabarito · **** Palavras-chave</p>
 
     <label class="dropzone" for="fileInput">
-      <input type="file" id="fileInput" accept="application/pdf" multiple>
+      <input type="file" id="fileInput" accept="application/pdf" multiple />
       <span>Solte PDFs aqui ou clique para selecionar</span>
     </label>
 
     <div class="row">
       <button id="convertBtn">Converter</button>
-      <label class="chk"><input type="checkbox" id="stripDiacritics"> Remover acentos</label>
-      <label class="chk"><input type="checkbox" id="onePerFile" checked> Um .txt por PDF</label>
+      <label class="chk"><input type="checkbox" id="stripDiacritics" /> Remover acentos</label>
+      <label class="chk"><input type="checkbox" id="onePerFile" checked /> Um .txt por PDF</label>
     </div>
 
     <a id="downloadLink" style="display:none">Baixar TXT</a>
     <pre id="log"></pre>
   </main>
+
+  <!-- pdf.js será carregado dinamicamente pelo parser.js -->
   <script src="parser.js"></script>
 </body>
 </html>
