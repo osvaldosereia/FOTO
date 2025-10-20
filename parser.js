@@ -1,96 +1,194 @@
-// parser.js — versão estável funcional
+// parser.js — versão robusta com parsing específico do Qconcursos
 
+// Util: normalização e utilidades
+const norm = (s) => s.replace(/\u00A0/g, ' ').replace(/[ \t]{2,}/g, ' ').replace(/\r/g, '').trim();
+const stripAccents = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+
+// 1) Extração de texto mantendo quebras de linha decentes
 async function extractTextFromPDF(file) {
-  const arrayBuffer = await file.arrayBuffer();
-  const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
-  let text = '';
-
+  const ab = await file.arrayBuffer();
+  const pdf = await pdfjsLib.getDocument({ data: ab }).promise;
+  let out = [];
   for (let i = 1; i <= pdf.numPages; i++) {
     const page = await pdf.getPage(i);
     const content = await page.getTextContent();
-    const pageText = content.items.map(item => item.str).join(' ');
-    text += pageText + '\n';
+    let line = '';
+    for (const item of content.items) {
+      line += item.str;
+      if (item.hasEOL) {
+        out.push(line);
+        line = '';
+      } else {
+        line += ' ';
+      }
+    }
+    if (line.trim()) out.push(line);
+    out.push('\n');
   }
-  return text;
+  return out.join('\n');
 }
 
-function processText(raw) {
-  // Normaliza o texto
-  raw = raw.replace(/\s{2,}/g, ' ').replace(/\n+/g, '\n').trim();
+// 2) Captura do bloco "Respostas ... 221:D 222: E ..."
+function parseAnswerKey(fullText) {
+  const m = fullText.match(/Respostas[\s\S]*?((?:\d{2,4}\s*:\s*[A-E]\s*)+)/i);
+  if (!m) return null;
+  const pairs = [...m[1].matchAll(/(\d{2,4})\s*:\s*([A-E])/g)].map(x => ({ n: parseInt(x[1],10), g: x[2].toUpperCase() }));
+  if (!pairs.length) return null;
+  pairs.sort((a,b)=>a.n-b.n);
+  return pairs.map(p=>p.g);
+}
 
-  // Divide em blocos por marcador de questão (ex: Q12345)
-  const blocos = raw.split(/\bQ\d{3,}\b/).slice(1);
-  if (!blocos.length) return 'Nenhuma questão encontrada.';
+// 3) Quebra por blocos de questões a partir de "Ano: .... Banca: .... Órgão: ..."
+function splitQuestionBlocks(fullText) {
+  const regex = /(Ano:\s*\d{4}\s*Banca:\s*[^\n]+?\s*Órgão:\s*[^\n]+)([\s\S]*?)(?=^\s*Ano:\s*\d{4}\s*Banca:|\Z)/gmi;
+  let blocks = [];
+  let m;
+  while ((m = regex.exec(fullText)) !== null) {
+    const header = norm(m[1]);
+    const body = norm(m[2]);
+    blocks.push({ header, body });
+  }
+  return blocks;
+}
 
-  let saida = [];
+// 4) Extrai header
+function parseHeader(h) {
+  const ano = (h.match(/Ano:\s*(\d{4})/i) || [,'----'])[1];
+  const banca = (h.match(/Banca:\s*([^\|]+?)(?:Órgão:|$)/i) || [,'---'])[1].replace(/Banca:\s*/i,'').trim();
+  const orgao = (h.match(/Órgão:\s*(.+)$/i) || [,'---'])[1].trim();
+  return { ano, banca, orgao };
+}
 
-  blocos.slice(0, 20).forEach((bloco, i) => {
-    const ano = (bloco.match(/Ano:\s*(\d{4})/) || [, '----'])[1];
-    const banca = (bloco.match(/Banca:\s*([^\n]+)/) || [, '---'])[1].trim();
-    const orgao = (bloco.match(/Órgão:\s*([^\n]+)/) || [, '---'])[1].trim();
+// 5) Enunciado, alternativas e tema
+function parseBody(body) {
+  const temaMatch = body.match(/Q\d+\s*>\s*([^\n]+)/i);
+  const tema = temaMatch ? temaMatch[1].trim() : '';
 
-    // Enunciado (antes da primeira alternativa)
-    const enunciado = bloco.split(/\bA\s/)[0].trim();
-
-    // Alternativas
-    let alternativas = '';
-    const opcoes = [...bloco.matchAll(/\b([A-E])\s+([^A-E]+?)(?=\b[A-E]\s|$)/g)];
-    if (opcoes.length > 0) {
-      alternativas = opcoes
-        .map(a => `** ${a[1]}) ${a[2].trim()}`)
-        .join('\n');
-    } else {
-      // Caso de Certo/Errado
-      const vf = [...bloco.matchAll(/(Certo|Errado)/gi)];
-      alternativas = vf.map((a, j) => `** ${j === 0 ? 'A' : 'B'}) ${a[0]}`).join('\n');
+  const altMatches = [...body.matchAll(/^[ \t]*([A-E])\s+([^\n]+(?:\n(?![A-E]\s).+)*)/gmi)];
+  let alternativas = [];
+  if (altMatches.length >= 2) {
+    alternativas = altMatches.map(m => ({ k: m[1].toUpperCase(), t: norm(m[2]) }));
+  } else {
+    const hasCerto = /(^|\s)Certo(\s|$)/i.test(body);
+    const hasErrado = /(^|\s)Errado(\s|$)/i.test(body);
+    if (hasCerto || hasErrado) {
+      alternativas = [{k:'A', t:'Certo'}, {k:'B', t:'Errado'}];
     }
+  }
 
-    // Gabarito (pego da linha “Gabarito:” ou da parte final)
-    const gabarito = (bloco.match(/Gabarito:\s*([A-E])/i) || raw.match(new RegExp(`\\b${i + 1}\\s*[:\\-]?\\s*([A-E])\\b`, 'i')) || [, '?'])[1];
+  let enunciado = body;
+  if (altMatches.length) {
+    enunciado = body.slice(0, altMatches[0].index).trim();
+  } else {
+    const iC = body.search(/Certo|Errado/i);
+    if (iC > 0) enunciado = body.slice(0, iC).trim();
+  }
 
-    // Palavras-chave (duas palavras relevantes)
-    const palavras = [...new Set(enunciado.match(/\b[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-zçéíóúãõâêô]+\b/g) || [])]
-      .filter(p => !['Direito', 'Penal', 'Lei', 'Código', 'Crime'].includes(p));
-    const chaves = palavras.slice(0, 2).join(', ') || 'Tema';
+  return { enunciado: norm(enunciado), alternativas, tema };
+}
 
-    // Modelo final
-    saida.push(
-`-----
+// 6) Monta saída no formato solicitado
+function formatQuestion(idx, header, body, gabaritoLetra, removeAcento) {
+  const { ano, banca, orgao } = parseHeader(header);
+  const { enunciado, alternativas, tema } = parseBody(body);
+
+  const altStr = alternativas.length
+    ? alternativas.map(a => `** ${a.k}) ${a.t}`).join('\n')
+    : '** A) Certo\n\n** B) Errado';
+
+  const temaFmt = tema ? tema.replace(/\s*,\s*/g, ', ') : 'Tema';
+
+  let out = `-----
 ***** Ano: ${ano} | Banca: ${banca} | Órgão: ${orgao}
 
 * ${enunciado}
 
-${alternativas}
+${altStr}
 
-*** Gabarito: ${gabarito}
+*** Gabarito: ${gabaritoLetra || '?'}
 
-**** ${chaves}`
-    );
-  });
-
-  return saida.join('\n\n');
+**** ${temaFmt}
+`;
+  out = removeAcento ? stripAccents(out) : out;
+  return out.trim();
 }
 
-// UI
+// 7) Pipeline principal para um PDF → TXT
+async function convertPdfToTxt(file, removeAcento=false) {
+  const raw = await extractTextFromPDF(file);
+  const answers = parseAnswerKey(raw) || [];
+  const blocks = splitQuestionBlocks(raw);
+
+  if (!blocks.length) return 'Nenhuma questão encontrada.';
+
+  const parts = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const g = answers[i] || '?';
+    parts.push(formatQuestion(i, blocks[i].header, blocks[i].body, g, removeAcento));
+  }
+  return parts.join('\n\n');
+}
+
+// 8) UI
 const input = document.getElementById('fileInput');
 const convertBtn = document.getElementById('convertBtn');
 const log = document.getElementById('log');
 const downloadLink = document.getElementById('downloadLink');
+const stripDiacritics = document.getElementById('stripDiacritics');
+const onePerFile = document.getElementById('onePerFile');
+
+// suporte a arrastar-e-soltar
+const dropzone = document.querySelector('.dropzone');
+if (dropzone) {
+  dropzone.addEventListener('dragover', e => { e.preventDefault(); dropzone.style.background = '#f8fbff'; });
+  dropzone.addEventListener('dragleave', e => { dropzone.style.background = ''; });
+  dropzone.addEventListener('drop', e => {
+    e.preventDefault();
+    dropzone.style.background = '';
+    input.files = e.dataTransfer.files;
+  });
+}
 
 convertBtn.addEventListener('click', async () => {
-  const file = input.files[0];
-  if (!file) return alert('Selecione um PDF primeiro.');
+  const files = [...(input.files || [])];
+  if (!files.length) { alert('Selecione um PDF.'); return; }
   log.textContent = 'Extraindo texto...';
 
-  const rawText = await extractTextFromPDF(file);
-  log.textContent = 'Processando questões...';
-  const txt = processText(rawText);
+  const removeAcento = !!stripDiacritics?.checked;
+  const perFile = !!onePerFile?.checked;
 
-  const blob = new Blob([txt], { type: 'text/plain' });
+  if (perFile && files.length > 1) {
+    for (const f of files) {
+      log.textContent = `Processando: ${f.name}`;
+      const txt = await convertPdfToTxt(f, removeAcento);
+      const blob = new Blob([txt], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = f.name.replace(/\.pdf$/i, '.txt');
+      a.textContent = `Baixar: ${a.download}`;
+      a.style.display = 'block';
+      document.body.appendChild(a);
+    }
+    log.textContent = 'Concluído.';
+    downloadLink.style.display = 'none';
+    return;
+  }
+
+  const outputs = [];
+  for (const f of files) {
+    log.textContent = `Processando: ${f.name}`;
+    const txt = await convertPdfToTxt(f, removeAcento);
+    outputs.push(txt);
+  }
+  const merged = outputs.join('\n\n');
+  const blob = new Blob([merged], { type: 'text/plain' });
   const url = URL.createObjectURL(blob);
   downloadLink.href = url;
-  downloadLink.download = file.name.replace('.pdf', '.txt');
+  downloadLink.download = files.length === 1
+    ? files[0].name.replace(/\.pdf$/i, '.txt')
+    : 'questoes.txt';
   downloadLink.style.display = 'block';
   downloadLink.textContent = 'Baixar TXT';
-  log.textContent = 'Conversão concluída.';
+  log.textContent = 'Concluído.';
 });
