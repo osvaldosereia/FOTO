@@ -1,7 +1,10 @@
-/* parser.js — extrator completo + loader robusto do pdf.js (v2.16.105)
-   - Carrega pdf.js dinamicamente (jsDelivr → cdnjs → unpkg)
-   - Seta worker automaticamente na mesma CDN
-   - Parsing conforme especificação anterior
+/* parser.js — extrator robusto com limpeza de ruídos e gabarito multi-bloco
+   Correções:
+   - Carrega pdf.js 2.16.105 dinamicamente e configura worker automaticamente.
+   - Remove ruídos: URLs, “Prova: …”, linhas “NNN Qdddddd > …”, resumos, trilhas de cargo.
+   - Alternativas A–E linha-a-linha: aceita “A” sozinho na linha e junta os parágrafos até a próxima alternativa.
+   - Enunciado = corpo até a primeira alternativa ou até “Certo/Errado”.
+   - Gabarito: varre TODO o trecho a partir de “Respostas” e coleta todos os pares, mesmo se houver quebras.
 */
 
 /* ========= Loader do pdf.js ========= */
@@ -30,7 +33,7 @@ async function ensurePdfJS() {
             pdfjsLib.GlobalWorkerOptions.workerSrc = workerUrl;
             return true;
           }
-        } catch (_) { /* tenta próximo CDN */ }
+        } catch (_) {}
       }
       throw new Error("Falha ao carregar pdf.js");
     })();
@@ -38,14 +41,11 @@ async function ensurePdfJS() {
   return __pdfReady;
 }
 
-/* ========= Utilitários de texto ========= */
+/* ========= Utilitários ========= */
 const norm = (s) =>
   s.replace(/\u00A0/g, " ").replace(/\r/g, "").replace(/[ \t]{2,}/g, " ").trim();
-
 const stripAccents = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-
 const fixSpacingBeforePunct = (s) => s.replace(/\s+([,.;:!?])/g, "$1");
-
 const fixHyphenation = (s) => s.replace(/(\w)-\n(\w)/g, "$1$2");
 
 function stripNoise(raw) {
@@ -53,7 +53,9 @@ function stripNoise(raw) {
   const out = [];
   let skippingResumo = false;
   for (let i = 0; i < lines.length; i++) {
-    const L = lines[i];
+    let L = lines[i];
+
+    // Bloco "Resumo relacionado" → até dupla linha em branco
     if (/^\s*Resumo\s+relacionado/i.test(L)) { skippingResumo = true; continue; }
     if (skippingResumo) {
       if (/^\s*$/.test(L) && i + 1 < lines.length && /^\s*$/.test(lines[i + 1])) {
@@ -61,8 +63,19 @@ function stripNoise(raw) {
       }
       continue;
     }
-    if (/^\s*Prova:\s*/i.test(L)) continue;
+
+    // URLs puras
     if (/^\s*https?:\/\/\S+\s*$/i.test(L)) continue;
+
+    // Linhas "NNN Qdddddd > ..."
+    if (/^\s*\d{1,4}\s+Q\d+\s*>\s*/i.test(L)) continue;
+
+    // Linhas auxiliares de "Prova:" e cargo isolado
+    if (/^\s*Provas?:\s*/i.test(L)) continue;
+    if (/^\s*Prova:\s*/i.test(L)) continue;
+    if (/^\s*-\s*[A-Za-zÀ-ú\s]+$/.test(L)) continue;       // "- Advogado", etc.
+    if (/^\s*[A-Z]{2}\s*-\s*/.test(L)) continue;           // "RS - Auxiliar ..."
+
     out.push(L);
   }
   return out.join("\n");
@@ -73,9 +86,10 @@ async function extractTextFromPDF(file) {
   await ensurePdfJS();
   const ab = await file.arrayBuffer();
   const pdf = await pdfjsLib.getDocument({ data: ab }).promise;
-  let out = [];
-  for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-    const page = await pdf.getPage(pageNum);
+  const out = [];
+
+  for (let p = 1; p <= pdf.numPages; p++) {
+    const page = await pdf.getPage(p);
     const content = await page.getTextContent();
     let line = "";
     for (const item of content.items) {
@@ -86,6 +100,7 @@ async function extractTextFromPDF(file) {
     if (line.trim()) out.push(line);
     out.push("\n");
   }
+
   let txt = out.join("\n");
   txt = fixHyphenation(txt);
   txt = stripNoise(txt);
@@ -94,10 +109,13 @@ async function extractTextFromPDF(file) {
 
 /* ========= Gabarito ========= */
 function parseAnswerKey(fullText) {
-  const m = fullText.match(/(Respostas|Gabarito)[\s\S]*?((?:\d{1,4}\s*[:\-]\s*[A-E]\s*)+)/i);
-  if (!m) return null;
-  const pairs = [...m[2].matchAll(/(\d{1,4})\s*[:\-]\s*([A-E])/gi)]
-    .map(mm => ({ n: parseInt(mm[1], 10), g: mm[2].toUpperCase() }));
+  const start = fullText.search(/Respostas/i);
+  if (start < 0) return null;
+  const tail = fullText.slice(start);
+
+  const pairs = [...tail.matchAll(/(\d{1,4})\s*[:\-]\s*([A-E])/gi)]
+    .map(m => ({ n: parseInt(m[1], 10), g: m[2].toUpperCase() }));
+
   if (!pairs.length) return null;
   pairs.sort((a,b)=>a.n-b.n);
   return pairs.map(p=>p.g);
@@ -124,6 +142,41 @@ function parseHeader(h) {
   return { ano, banca, orgao };
 }
 
+/* ========= Alternativas A–E por linhas ========= */
+function parseAlternativesByLines(lines, startIndex) {
+  const alts = [];
+  let i = startIndex;
+
+  const isAltHead = (s) => {
+    const m = s.match(/^[ \t]*([A-E])\s*[\)\.-]?\s*(.*)$/i);
+    if (!m) return null;
+    return { k: m[1].toUpperCase(), rest: m[2].trim() };
+  };
+
+  while (i < lines.length) {
+    const head = isAltHead(lines[i]);
+    if (!head) break;
+
+    let buf = [];
+    if (head.rest) buf.push(head.rest);
+    i++;
+
+    while (i < lines.length) {
+      const nextHead = isAltHead(lines[i]);
+      if (nextHead) break;
+      // Para e não absorve se atingiu um marcador evidente de nova questão
+      if (/^\s*Ano:\s*\d{4}\s*Banca:/i.test(lines[i])) break;
+      buf.push(lines[i]);
+      i++;
+    }
+
+    const text = fixSpacingBeforePunct(norm(buf.join("\n")));
+    alts.push({ k: head.k, t: text });
+  }
+
+  return { alts, nextIndex: i };
+}
+
 /* ========= Corpo ========= */
 function parseBody(rawBody) {
   let body = rawBody.replace(/\r/g, "").replace(/[ \t]+$/gm, "").replace(/\n{3,}/g, "\n\n");
@@ -131,30 +184,31 @@ function parseBody(rawBody) {
   const temaMatch = body.match(/\bQ\d+\s*>\s*([^\n]+)/i);
   const tema = temaMatch ? norm(temaMatch[1]) : "";
 
-  const altMatches = [...body.matchAll(/^[ \t]*([A-E])\s*[\)\.-]?\s+([^\n]+(?:\n(?![ \t]*[A-E]\s*[\)\.-]?\s+).+)*)/gmi)];
-  let alternativas = [];
-  if (altMatches.length >= 2) {
-    alternativas = altMatches.map(m => ({ k: m[1].toUpperCase(), t: fixSpacingBeforePunct(norm(m[2])) }));
-  } else {
-    const hasC = /(^|\s)Certo(\s|$)/i.test(body);
-    const hasE = /(^|\s)Errado(\s|$)/i.test(body);
-    if (hasC || hasE) alternativas = [{k:"A",t:"Certo"}, {k:"B",t:"Errado"}];
+  const lines = body.split("\n");
+
+  // encontra primeira alternativa
+  let firstAltIdx = -1;
+  for (let i = 0; i < lines.length; i++) {
+    if (/^[ \t]*[A-E](\s*[\)\.-]?\s*.*)?$/i.test(lines[i])) { firstAltIdx = i; break; }
   }
 
-  let enunciado = body;
-  if (altMatches.length) enunciado = body.slice(0, altMatches[0].index).trim();
-  else {
+  let enunciado, alternativas = [];
+  if (firstAltIdx >= 0) {
+    enunciado = fixSpacingBeforePunct(norm(lines.slice(0, firstAltIdx).join("\n")));
+    const { alts } = parseAlternativesByLines(lines, firstAltIdx);
+    // dedup e ordena
+    const map = new Map();
+    for (const a of alts) if (!map.has(a.k)) map.set(a.k, a);
+    alternativas = [...map.values()].sort((x,y)=>x.k.localeCompare(y.k));
+  } else {
+    // Certo/Errado
     const iC = body.search(/\bCerto\b/i);
     const iE = body.search(/\bErrado\b/i);
     const idx = [iC,iE].filter(x=>x>=0).sort((a,b)=>a-b)[0];
-    if (idx > 0) enunciado = body.slice(0, idx).trim();
-  }
-  enunciado = fixSpacingBeforePunct(norm(enunciado));
-
-  if (alternativas.length) {
-    const map = new Map();
-    for (const a of alternativas) if (!map.has(a.k)) map.set(a.k, a);
-    alternativas = [...map.values()].sort((x,y)=>x.k.localeCompare(y.k));
+    enunciado = fixSpacingBeforePunct(norm(idx>0 ? body.slice(0, idx) : body));
+    if (/(^|\s)Certo(\s|$)/i.test(body) || /(^|\s)Errado(\s|$)/i.test(body)) {
+      alternativas = [{k:"A",t:"Certo"},{k:"B",t:"Errado"}];
+    }
   }
 
   return { enunciado, alternativas, tema };
@@ -268,7 +322,7 @@ if (convertBtn) {
   });
 }
 
-/* ========= Exports para teste ========= */
+/* ========= Export para testes ========= */
 window.__parser = {
   ensurePdfJS,
   extractTextFromPDF,
