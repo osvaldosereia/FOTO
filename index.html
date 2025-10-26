@@ -4,10 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simulador de Provas de Concurso</title>
-    <!-- Carrega o Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Carrega a fonte Inter (estilo Apple) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- Carrega o Tailwind CSS --><script src="https://cdn.tailwindcss.com"></script>
+    <!-- Carrega a fonte Inter (estilo Apple) --><link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
@@ -45,38 +43,42 @@
             -webkit-appearance: none;
             margin: 0;
         }
+
+        /* Estilo para a transição dos sub-botões */
+        .sub-buttons-container {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+        .sub-buttons-container.expanded {
+            max-height: 300px; /* Ajuste conforme a altura máxima dos seus botões */
+            transition: max-height 0.3s ease-in;
+        }
     </style>
 </head>
 <body class="bg-gray-100">
 
     <div class="max-w-4xl mx-auto p-4 md:p-8">
         
-        <!-- Cabeçalho -->
-        <header class="text-center mb-6">
+        <!-- Cabeçalho --><header class="text-center mb-6">
             <h1 class="text-3xl font-bold text-gray-800">Simulador de Provas</h1>
         </header>
 
-        <!-- Controles de Seleção -->
-        <section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
+        <!-- Controles de Seleção --><section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
             <div class="flex flex-col sm:flex-row gap-4 items-center">
-                <!-- Dropdown Disciplina -->
-                <div class="w-full sm:w-1/3">
+                <!-- Dropdown Disciplina --><div class="w-full sm:w-1/3">
                     <label for="selectDisciplina" class="block text-sm font-medium text-gray-700 mb-1">Disciplina</label>
                     <select id="selectDisciplina" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
-                        <!-- Opções carregadas via JS -->
-                    </select>
+                        <!-- Opções carregadas via JS --></select>
                 </div>
                 
-                <!-- Dropdown Tema -->
-                <div class="w-full sm:w-1/3">
+                <!-- Dropdown Tema --><div class="w-full sm:w-1/3">
                     <label for="selectTema" class="block text-sm font-medium text-gray-700 mb-1">Tema</label>
                     <select id="selectTema" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
-                        <!-- Opções carregadas via JS -->
-                    </select>
+                        <!-- Opções carregadas via JS --></select>
                 </div>
 
-                <!-- Botão Carregar/Trocar -->
-                <div class="w-full sm:w-1/3 sm:mt-6">
+                <!-- Botão Carregar/Trocar --><div class="w-full sm:w-1/3 sm:mt-6">
                     <button id="btnCarregarProva" class="w-full px-6 py-3 font-semibold text-white rounded-md transition-all duration-300 bg-blue-600 hover:bg-blue-700 shadow-sm">
                         Carregar Prova
                     </button>
@@ -84,52 +86,21 @@
             </div>
         </section>
 
-        <!-- Área da Prova -->
-        <main id="areaProva">
-            <!-- Status (Carregando, Erro, etc.) -->
-            <div id="divStatus" class="text-center text-gray-600 p-10 text-lg">
+        <!-- Área da Prova --><main id="areaProva">
+            <!-- Status (Carregando, Erro, etc.) --><div id="divStatus" class="text-center text-gray-600 p-10 text-lg">
                 Selecione a disciplina e o tema para começar.
             </div>
 
-            <!-- Container das Questões -->
-            <div id="divQuestoes" class="space-y-6">
-                <!-- As questões serão inseridas aqui via JS -->
-            </div>
+            <!-- Container das Questões --><div id="divQuestoes" class="space-y-6">
+                <!-- As questões serão inseridas aqui via JS --></div>
         </main>
 
     </div>
 
+    <!-- Carrega o "banco de dados" de disciplinas e temas PRIMEIRO --><script src="config.js"></script>
+
     <script type="module">
-        // --- 1. Definição do "Banco de Dados" de Disciplinas e Temas ---
-        
-        // Esta estrutura define quais pastas o sistema irá procurar.
-        // A chave (ex: "direito-penal") é o nome da pasta.
-        // O valor (ex: "Direito Penal") é o nome exibido.
-        const dbDisciplinas = {
-            "direito-penal": {
-                nome: "Direito Penal",
-                temas: {
-                    "calunia": "Calúnia",
-                    "difamacao": "Difamação",
-                    "homicidio": "Homicídio"
-                }
-            },
-            "direito-civil": {
-                nome: "Direito Civil",
-                temas: {
-                    "contratos": "Contratos",
-                    "obrigacoes": "Obrigações",
-                    "posse": "Posse e Propriedade"
-                }
-            },
-            "portugues": {
-                nome: "Português",
-                temas: {
-                    "concordancia": "Concordância",
-                    "crase": "Crase"
-                }
-            }
-        };
+        // O objeto 'dbDisciplinas' é carregado do arquivo 'config.js'
 
         // --- 2. Referências aos Elementos do DOM ---
         
@@ -345,25 +316,68 @@
             gabaritoDisplay.textContent = `Gabarito: ${questao.gabarito}`;
             card.appendChild(gabaritoDisplay);
 
-            // 5. Botões da IA (Links Google)
-            const aiButtonsContainer = document.createElement('div');
-            aiButtonsContainer.className = 'mt-5 pt-4 border-t border-gray-100 flex flex-wrap gap-2';
-            
+            // 5. Botão principal e sub-botões de IA
+            const mainAiButtonContainer = document.createElement('div');
+            // Mobile: centralizado e largo; Desktop: alinhado à esquerda
+            mainAiButtonContainer.className = 'mt-5 pt-4 border-t border-gray-100 flex flex-col items-center sm:items-start';
+
+            const mainAiButton = document.createElement('button');
+            mainAiButton.className = 'w-full sm:w-auto px-6 py-2 bg-blue-500 text-white rounded-md font-semibold hover:bg-blue-600 transition-colors duration-200 flex items-center justify-center gap-2';
+            mainAiButton.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+                                        <path fill-rule="evenodd" d="M9.293 2.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1-1.414 1.414L11 5.414V14a1 1 0 1 1-2 0V5.414L6.707 7.707a1 1 0 0 1-1.414-1.414l4-4Z" clip-rule="evenodd" />
+                                        <path fill-rule="evenodd" d="M.5 13.5A.5.5 0 0 1 1 13h18a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5ZM13 16.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5Z" clip-rule="evenodd" />
+                                        </svg>
+                                        Estudar com IA`;
+            mainAiButtonContainer.appendChild(mainAiButton);
+
+            const subButtonsContainer = document.createElement('div');
+            subButtonsContainer.className = 'sub-buttons-container flex flex-col sm:flex-row flex-wrap gap-2 mt-2 w-full sm:w-auto';
+            mainAiButtonContainer.appendChild(subButtonsContainer);
+
+            mainAiButton.addEventListener('click', () => {
+                subButtonsContainer.classList.toggle('expanded');
+                // Altera o ícone do botão principal para indicar expansão/colapso
+                const icon = mainAiButton.querySelector('svg');
+                if (subButtonsContainer.classList.contains('expanded')) {
+                    icon.classList.remove('rotate-0');
+                    icon.classList.add('rotate-180'); // Rotaciona para baixo
+                } else {
+                    icon.classList.remove('rotate-180');
+                    icon.classList.add('rotate-0'); // Volta para cima
+                }
+            });
+
             const promptsAI = [
-                { texto: "Explicar", tipo: "explicar" },
-                { texto: "Analisar Incorretas", tipo: "analisar_incorretas" },
-                { texto: "Resumir Conceito", tipo: "resumir" },
-                { texto: "Caso Prático", tipo: "exemplo" }
+                { 
+                    texto: "Comentário Jurídico", 
+                    tipo: "comentario", 
+                    prompt: "Atue como um professor de direito. Comente o gabarito e fundamente sua explicação com embasamento jurídico detalhado, citando artigos de leis se possível. Explique por que a alternativa correta está certa e as outras estão erradas. Utilize uma linguagem formal e didática."
+                },
+                { 
+                    texto: "Glossário Jurídico", 
+                    tipo: "glossario", 
+                    prompt: "Extraia os principais termos jurídicos ou conceitos complexos presentes no enunciado e nas alternativas. Para cada termo, forneça uma definição clara e concisa em formato de glossário."
+                },
+                { 
+                    texto: "Dicas para Prova", 
+                    tipo: "dicas", 
+                    prompt: "Com base no tema desta questão, forneça 3 a 5 dicas práticas e estratégias de estudo para que um estudante possa se preparar melhor para provas de concurso, focando em como memorizar ou entender esse tipo de conteúdo. Fale sobre técnicas de memorização, mapas mentais, flashcards, etc."
+                },
+                { 
+                    texto: "Vídeos do YouTube", 
+                    tipo: "videos", 
+                    prompt: "Sugira até 5 vídeos aulas do YouTube que abordem o tema desta questão. Forneça os títulos dos vídeos e os links diretos para cada um. Priorize vídeos de canais renomados e com boa didática." 
+                }
             ];
 
-            promptsAI.forEach(prompt => {
+            promptsAI.forEach(promptInfo => {
                 const btn = document.createElement('button');
-                btn.className = 'px-3 py-1 text-xs bg-gray-200 text-gray-700 rounded-full hover:bg-gray-300 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-400';
-                btn.textContent = prompt.texto;
-                btn.onclick = () => abrirGoogleIA(questao, prompt.tipo);
-                aiButtonsContainer.appendChild(btn);
+                btn.className = 'px-4 py-2 text-sm bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-400 w-full sm:w-auto';
+                btn.textContent = promptInfo.texto;
+                btn.onclick = () => abrirGoogleIA(questao, promptInfo.prompt);
+                subButtonsContainer.appendChild(btn);
             });
-            card.appendChild(aiButtonsContainer);
+            card.appendChild(mainAiButtonContainer);
 
             return card;
         }
@@ -410,41 +424,21 @@
         /**
          * Abre uma nova aba do Google (modo IA) com um prompt personalizado.
          * @param {object} questao - O objeto da questão.
-         * @param {string} tipoPrompt - O tipo de prompt (ex: "explicar").
+         * @param {string} promptPredefinido - O prompt específico a ser enviado.
          */
-        function abrirGoogleIA(questao, tipoPrompt) {
+        function abrirGoogleIA(questao, promptPredefinido) {
             // 1. Monta o contexto da questão
-            let contexto = `Analise a seguinte questão de concurso:\n\nEnunciado: ${questao.enunciado}\n\nAlternativas:\n`;
+            let contexto = `Considere a seguinte questão de concurso:\n\nEnunciado: ${questao.enunciado}\n\nAlternativas:\n`;
             (questao.alternativas || []).forEach(alt => {
                 contexto += `${alt.letra}) ${alt.texto}\n`;
             });
-            contexto += `\nGabarito Correto: ${questao.gabarito}\n\n`;
+            contexto += `\nGabarito: ${questao.gabarito}\n\n`; // Incluir gabarito para IA ter contexto completo.
 
-            // 2. Define o prompt base
-            let promptBase = "";
-            switch (tipoPrompt) {
-                case "explicar":
-                    promptBase = "Explique detalhadamente por que o gabarito está correto, analisando o enunciado e a alternativa correta.";
-                    break;
-                case "analisar_incorretas":
-                    promptBase = "Analise cada uma das alternativas INCORRETAS e explique o erro em cada uma delas.";
-                    break;
-                case "resumir":
-                    promptBase = "Resuma o conceito jurídico ou o tema principal abordado nesta questão em 3 frases.";
-                    break;
-                case "exemplo":
-                    promptBase = "Crie um caso prático ou um exemplo diferente que ilustre o mesmo conceito desta questão.";
-                    break;
-                default:
-                    promptBase = "Analise a questão e forneça um estudo completo sobre ela.";
-            }
-            
-            // 3. Monta e codifica o prompt final
-            const promptCompleto = `${promptBase}\n\n${contexto}`;
+            // 2. Monta e codifica o prompt final
+            const promptCompleto = `${promptPredefinido}\n\n${contexto}`;
             const urlQuery = encodeURIComponent(promptCompleto);
             
-            // 4. Abre o Google
-            // Usar /search?q= é o método mais universal. O Google decidirá se mostra a IA.
+            // 3. Abre o Google Search (com o objetivo de ativar o modo IA)
             const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
             
             window.open(googleUrl, '_blank');
