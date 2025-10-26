@@ -1,51 +1,251 @@
 [
   {
-    "id": "dp_cal_q1",
-    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TJ-SP",
-    "enunciado": "De acordo com o Código Penal, a conduta de 'imputar falsamente a alguém fato definido como crime' configura o delito de:",
+    "id": "dp_conc_q1",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO | Prova: Analista da Defensoria Pública - Jurídica",
+    "enunciado": "Em termos de interpretação da lei penal, quando se encontram na legislação expressões como “qualquer outro meio”, “qualquer outra vantagem”, “outro recurso” ou “qualquer outro meio fraudulento”, por exemplo, tais preceitos serão supridos por",
     "alternativas": [
-      { "letra": "A", "texto": "Difamação" },
-      { "letra": "B", "texto": "Injúria" },
-      { "letra": "C", "texto": "Calúnia" },
-      { "letra": "D", "texto": "Falsa identidade" },
-      { "letra": "E", "texto": "Denunciação caluniosa" }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "dp_cal_q2",
-    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-SP",
-    "enunciado": "Mévio, sabendo ser falsa a informação, espalha para três amigos que Tício subtraiu um relógio na loja X. O fato (subtração) é definido como crime. Mévio praticou:",
-    "alternativas": [
-      { "letra": "A", "texto": "Fato atípico, pois não houve registro policial." },
-      { "letra": "B", "texto": "Injúria, pois ofendeu a honra subjetiva de Tício." },
-      { "letra": "C", "texto": "Difamação, pois ofendeu a reputação de Tício." },
-      { "letra": "D", "texto": "Calúnia, pois imputou falsamente fato definido como crime." }
+      { "letra": "A", "texto": "analogia." },
+      { "letra": "B", "texto": "interpretação progressiva." },
+      { "letra": "C", "texto": "interpretação autêntica." },
+      { "letra": "D", "texto": "interpretação analógica." },
+      { "letra": "E", "texto": "interpretação declarativa." }
     ],
     "gabarito": "D"
   },
   {
-    "id": "dp_cal_q3",
-    "metadata": "Ano: 2024 | Banca: CESPE/CEBRASPE | Órgão: PRF",
-    "enunciado": "Acerca dos crimes contra a honra, assinale a alternativa correta.",
+    "id": "dp_conc_q2",
+    "metadata": "Ano: 2021 | Banca: IBADE | Órgão: ISE-AC | Prova: Agente Socioeducativo",
+    "enunciado": "Considerando os sujeitos da infração penal, pode-se dizer que a pessoa que realiza direta ou indiretamente a conduta criminosa, seja isoladamente, seja em concurso, é sujeito:",
     "alternativas": [
-      { "letra": "A", "texto": "A calúnia contra os mortos é punível." },
-      { "letra": "B", "texto": "Não se admite exceção da verdade no crime de calúnia." },
-      { "letra": "C", "texto": "A injúria consiste em imputar fato ofensivo à reputação." },
-      { "letra": "D", "texto": "A difamação exige que o fato imputado seja falso." }
+      { "letra": "A", "texto": "Menor de idade." },
+      { "letra": "B", "texto": "Ativo." },
+      { "letra": "C", "texto": "Passivo." },
+      { "letra": "D", "texto": "Amicus curiae." },
+      { "letra": "E", "texto": "Terceiro interessado." }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "dp_conc_q3",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: SERIS-AL | Prova: Agente Penitenciário",
+    "enunciado": "Com relação ao direito penal, julgue o item a seguir. Suponha que uma pessoa de dezessete anos de idade, faixa preta em arte marcial, cometa um ato previsto como crime. Nessa situação, essa pessoa será considerada penalmente inimputável, conforme previsão expressa na Constituição Federal de 1988 e no Código Penal.",
+    "alternativas": [
+      { "letra": "A", "texto": "Certo" },
+      { "letra": "B", "texto": "Errado" }
     ],
     "gabarito": "A"
   },
   {
-    "id": "dp_cal_q4",
-    "metadata": "Ano: 2021 | Banca: FGV | Órgão: OAB",
-    "enunciado": "Para a configuração do crime de calúnia, é necessário que a imputação falsa de fato criminoso seja feita:",
+    "id": "dp_conc_q4",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RJ | Provas: Perito Criminal",
+    "enunciado": "O tipo penal é a ferramenta fundamental para limitar o poder punitivo do Estado e determinar a liberdade de conduta dos cidadãos. Compõem o conceito de sujeitos da conduta típica:",
     "alternativas": [
-      { "letra": "A", "texto": "Apenas na presença da vítima." },
-      { "letra": "B", "texto": "Perante autoridade policial, obrigatoriamente." },
-      { "letra": "C", "texto": "Na presença de várias pessoas, configurando publicidade." },
-      { "letra": "D", "texto": "Perante terceiro, não sendo necessário que seja perante várias pessoas." }
+      { "letra": "A", "texto": "autor, réu e juiz;" },
+      { "letra": "B", "texto": "juiz, promotor, defensor e réu;" },
+      { "letra": "C", "texto": "sujeito ativo, sujeito passivo e o Estado;" },
+      { "letra": "D", "texto": "juiz, promotor e réu;" },
+      { "letra": "E", "texto": "agente, vítima e testemunha." }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "dp_conc_q5",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: DEPEN | Prova: Agente Federal de Execução Penal",
+    "enunciado": "A respeito da aplicação da lei penal, julgue o item a seguir. O direito penal brasileiro proíbe a interpretação analógica, ainda que ela seja favorável ao réu.",
+    "alternativas": [
+      { "letra": "A", "texto": "Certo" },
+      { "letra": "B", "texto": "Errado" }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "dp_conc_q6",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: PC-PA | Prova: Delegado de Polícia Civil",
+    "enunciado": "De acordo com o autor alemão Jakobs, o direito penal do inimigo pode ser caracterizado por quais elementos?",
+    "alternativas": [
+      { "letra": "A", "texto": "Punição retrospectiva; desproporcionalidade das penas; e relativização ou supressão de garantias processuais." },
+      { "letra": "B", "texto": "Punição retrospectiva; proporcionalidade das penas; e relativização ou supressão de garantias processuais." },
+      { "letra": "C", "texto": "Punição prospectiva; desproporcionalidade das penas; e relativização ou supressão de garantias processuais." },
+      { "letra": "D", "texto": "Punição contemporânea; desproporcionalidade das penas; e relativização ou supressão de garantias processuais." },
+      { "letra": "E", "texto": "Punição prospectiva; proporcionalidade das penas; e relativização ou supressão de garantias processuais." }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "dp_conc_q7",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: PC-PA | Prova: Delegado de Polícia Civil",
+    "enunciado": "No tocante ao Direito Penal, assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "É vedada a edição de medidas provisórias sobre matéria relativa a Direito Penal (art. 62, §1º, I, alínea *b*, CF). Nada obstante, o STF firmou jurisprudência no sentido de que as medidas provisórias podem ser utilizadas na esfera penal, desde que benéficas ao agente." },
+      { "letra": "B", "texto": "O fundamento político do princípio da reserva legal revela a aceitação pelo povo, representado pelo Congresso Nacional, da opção legislativa no âmbito criminal." },
+      { "letra": "C", "texto": "Com a evolução da sociedade e a modificação dos seus valores, determinados comportamentos, inicialmente típicos, podem deixar de interessar ao Direito Penal. Nesse caso, pode-se afirmar que ocorreu a chamada desmaterialização (liquefação) de bens jurídicos no Direito Penal." },
+      { "letra": "D", "texto": "O princípio da fragmentariedade se projeta no plano concreto, isto é, em sua atuação prática, o Direito Penal somente se legitima quando os demais meios disponíveis já tiverem sido empregados, sem sucesso, para proteção do bem jurídico." },
+      { "letra": "E", "texto": "A primeira manifestação do princípio da personalidade da pena no Brasil ocorreu já no período republicano, com o advento do Código Penal de 1890." }
     ],
     "gabarito": "D"
+  },
+  {
+    "id": "dp_conc_q8",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO | Prova: Promotor de Justiça - Reaplicação",
+    "enunciado": "Sobre o bem jurídico-penal, assinale a alternativa que não está de acordo com o magistério doutrinário de Eugenio Raúl Zaffaroni e José Henrique Pierangeli (*Manual de Direito Penal Brasileiro - parte geral, ed. RT*):",
+    "alternativas": [
+      { "letra": "A", "texto": "Quando o legislador encontra-se diante de um ente e tem interesse em tutelá-lo, é porque o valora. Sua valoração do ente traduz-se em uma norma, que eleva o ente á categoria de bem jurídico. Quando quer dar uma tutela penal a esse bem jurídico, com base na norma elabora um tipo penal e o bem jurídico passa a ser penalmente tutelado." },
+      { "letra": "B", "texto": "Não se concebe a existência de uma conduta típica que não afete um bem jurídico, posto que os tipos não passam de particulares manifestações de tutela jurídica desses bens. Embora seja certo que o delito é algo mais - ou muito mais - que a lesão a um bem jurídico, esta lesão é indispensável para configurar a tipicidade." },
+      { "letra": "C", "texto": "Bem jurídico penalmente tutelado é a relação de indisponibilidade de um indivíduo com um objeto, protegida pelo Estado, que revela seu interesse mediante a tipificação penal de condutas que o afetam." },
+      { "letra": "D", "texto": "O bem jurídico cumpre duas funções, que são duas razões fundamentais pelas quais não podemos dele prescindir: uma função garantidora e outra função teleológico-sistemática. Ambas funções são necessárias para que o direito penal se mantenha dentro dos limites da racionalidade dos atos de governo, impostos pelo princípio republicano." }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "dp_conc_q9",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO | Prova: Promotor de Justiça Substituto - Anulada",
+    "enunciado": "Analise as proposições seguintes e assinale a alternativa correta: I - Jesús-María Silva Sánchez fala em Direito Penal de “duas velocidades”. Segundo o referido autor, há um a primeira velocidade, representada pelo Direito Penal “da prisão” , na qual haver-se-iam de manter rigidamente os princípios político-criminais clássicos, as regras de imputação e os princípios processuais. A segunda velocidade, por sua vez, estaria relacionada aos casos em que, por não se tratar de prisão, mas de penas de privação de direitos ou pecuniárias, aqueles princípios e regras poderiam experimentar um a flexibilização proporcional a menor intensidade da sanção. II - Na medida em que o Direito Penal nazista era entendido como um instrumento de luta contra os infiéis à com unidade do povo e que a violação de um dever era o conteúdo material do crime, era lógico que o centro de gravidade para o exercício do poder punitivo tinha de passar a ser a “vontade contrária ao Direito” , e não mais o “ resultado proibido” . Nesse contexto foi concebido o “Direito Penal da vontade” , construção teórica marcante do Direito Penal nazista, sendo Roland Freisler um de seus principais expoentes. Essa concepção baseada na vontade permitiu a expansão do poder punitivo a níveis que um a dogmática atrelada a resultados de dano a bens jurídicos não admitia, já que ensejou uma profusa criminalização dos perigos abstratos. Além do mais, tal concepção também defendia que a tentativa tivesse a mesma pena do crime consumado. III - Para Günther Jakobs a função do Direito Penal é tutelar a vigência da norma. Quando o infrator comete um crime ele rompe com as expectativas normativas. A pena, assim, tem como função restabelecer a vigência da norma e demonstrar para a sociedade que ela pode seguir confiando no sistema normativo (estabilização das expectativas normativas). IV - Winfried Hassemer, da chamada “Escola Penal de Frankfurt”, observa que o Direito Penal Moderno, procurando minimizar a insegurança oriunda de uma sociedade de riscos, tem se tornado um instrumento em busca do controle dos grandes problemas da sociedade atual, como a proteção ao meio ambiente, da saúde pública, da ordem econômica, dentre outros. Assim, com o intuito de frear essa tendência de expansão do Direito Penal e com o objetivo de permitir a atuação do Direito Penal em relação aos tipos penais tradicionais, consubstanciados pelo núcleo básico de bens jurídicos individuais, propõe um “Direito de Intervenção” , situado entre o Direito Penal e o Direito Administrativo, que teria por finalidade controlar e inibir os riscos oriundos das novas tecnologias e do desenvolvimento econômico contemporâneo, por meio da proibição de condutas perigosas e da proteção de bens jurídicos coletivos. Esse “Direito de Intervenção”, segundo Hassemer, poderia contar com garantias e formalidades mais flexíveis e menos exigentes, mas também seria provido com sanções menos intensas contra o indivíduo.",
+    "alternativas": [
+      { "letra": "A", "texto": "São corretos os itens I, II, III e IV." },
+      { "letra": "B", "texto": "São corretos os itens I, III e IV." },
+      { "letra": "C", "texto": "São corretos os itens II e III." },
+      { "letra": "D", "texto": "É correto apenas o item I." }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "dp_conc_q10",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT | Prova: Titular de Serviços de Notas e de Registros - Remoção",
+    "enunciado": "A respeito de características do direito penal, assinale a opção correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Segundo o direito penal, é possível incriminar a simples conduta humana que exponha a perigo bens jurídicos, ainda que não exista vítima determinada e direta." },
+      { "letra": "B", "texto": "O direito penal tem os princípios como fontes de integração da lei penal, que devem ser utilizados em caso de omissão legislativa, mas cuja aplicação é vedada para desfavorecer o réu." },
+      { "letra": "C", "texto": "De acordo com o direito penal, a aplicação de nova lei, no caso de esta estabelecer nova causa de diminuição de pena e nova causa de aumento para um tipo penal incriminador existente, deve ser afastada a fato ocorrido antes de sua vigência, ainda que em benefício do réu." },
+      { "letra": "D", "texto": "Segundo o direito penal, a fato praticado durante a vigência de lei excepcional, quando findo o período de sua duração ou quando cessarem as circunstâncias que a determinaram, não mais se aplica a lei excepcional." },
+      { "letra": "E", "texto": "O direito penal estabelece, com fundamento na teoria da atividade, que deve ser analisado todo o desdobramento da ação criminosa para se estabelecer o local do delito." }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "dp_conc_q11",
+    "metadata": "Ano: 2018 | Banca: UEG | Órgão: PC-GO | Prova: Delegado de Polícia",
+    "enunciado": "“Ciência ou a arte de selecionar os bens (ou direitos), que devem ser tutelados jurídica e penalmente, e escolher os caminhos para efetivar tal tutela, o que iniludivelmente implica a crítica dos valores e caminhos já eleitos.” (ZAFFARONI, E. R.; PIERANGELI, J. H. Manual de Direito Penal Brasileiro . 12. ed. São Paulo: Editora Revista dos Tribunais, 2018. p. 128) A descrição apresentada acima se refere a um conceito de",
+    "alternativas": [
+      { "letra": "A", "texto": "criminologia." },
+      { "letra": "B", "texto": "teoria do delito." },
+      { "letra": "C", "texto": "política criminal." },
+      { "letra": "D", "texto": "abolicionismo penal." },
+      { "letra": "E", "texto": "direito penal do inimigo." }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "dp_conc_q12",
+    "metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES | Prova: Agente Sócio-Orientador",
+    "enunciado": "A respeito das disposições constitucionais aplicáveis ao direito penal, é **incorreto** afirmar:",
+    "alternativas": [
+      { "letra": "A", "texto": "a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei." },
+      { "letra": "B", "texto": "a lei penal não retroagirá, salvo para beneficiar o réu." },
+      { "letra": "C", "texto": "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal." },
+      { "letra": "D", "texto": "a criação de crimes e penas por meio de medida provisória não ofende o princípio da legalidade." },
+      { "letra": "E", "texto": "nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido." }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "dp_conc_q13",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EMAP | Prova: Analista Portuário - Área Jurídica",
+    "enunciado": "A respeito da aplicação da lei penal, julgue o item a seguir. A analogia constitui meio para suprir lacuna do direito positivado, mas, em direito penal, só é possível a aplicação analógica da lei penal *in bonam partem*, em atenção ao princípio da reserva legal, expresso no artigo primeiro do Código Penal.",
+    "alternativas": [
+      { "letra": "A", "texto": "Certo" },
+      { "letra": "B", "texto": "Errado" }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "dp_conc_q14",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA | Prova: Promotor de Justiça Substituto - Anulada",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "As circunstâncias legais são descritas pela lei penal de maneira prévia, ou na parte geral, ou na parte especial do Código, ou em leis extravagantes." },
+      { "letra": "B", "texto": "Os crimes unissubsistentes ante o fracionamento da execução admitem a modalidade tentada." },
+      { "letra": "C", "texto": "Tocante ao erro inescusável pode-se afirmar que nele incide qualquer homem prudente e de discernimento e, na modalidade inescusável direta o sujeito conhece o mandamento proibitivo." },
+      { "letra": "D", "texto": "A despenalização informal pode resultar de ato administrativo, enquanto a despenalização formal pode decorrer da substituição da pena criminal por uma sanção de outra ordem jurídica." },
+      { "letra": "E", "texto": "As alternativas “a” e “d” estão corretas." }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "dp_conc_q15",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA | Prova: Promotor de Justiça Substituto - Anulada",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "Traduzem elementos constitutivos essenciais da tentativa, o princípio da execução típica, o dolo e a não consumação involuntária." },
+      { "letra": "B", "texto": "Exige-se que a adequação típica se materialize através de indagações de ordem cultural ou de pesquisas pertinentes ao conhecimento hauridos na experiência cotidiana." },
+      { "letra": "C", "texto": "Todo direito penal de periculosidade é direito penal de autor, enquanto o direito penal de culpabilidade pode ser de autor ou de ato." },
+      { "letra": "D", "texto": "O objeto material do crime não se inclui nos elementos do fato típico, porque representa o conteúdo de valor que faz com que o Estado preveja como criminosa a ação descrita no preceito penal." },
+      { "letra": "E", "texto": "Todas as alternativas estão corretas." }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "dp_conc_q16",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA | Prova: Promotor de Justiça Substituto - Anulada",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "A reação defensiva na legítima defesa não exige que o fato seja previsto como crime, mas deve ser no mínimo um ato ilícito em sentido amplo." },
+      { "letra": "B", "texto": "A ilicitude penal projeta-se para o todo do direito e, assim, não se restringe ao campo do direito penal." },
+      { "letra": "C", "texto": "Os conceitos de ilicitude e injusto não se distinguem uma vez que ambos não dispensam contrariedade ao ordenamento jurídico." },
+      { "letra": "D", "texto": "As alternativas “a”, “b” e “c” estão corretas." },
+      { "letra": "E", "texto": "Apenas as alternativas “a” e “b” estão corretas." }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "dp_conc_q17",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA | Prova: Delegado de Polícia Civil",
+    "enunciado": "No direito penal, a analogia",
+    "alternativas": [
+      { "letra": "A", "texto": "é uma forma de autointegração da norma penal para suprir as lacunas porventura existentes." },
+      { "letra": "B", "texto": "é uma fonte formal imediata do direito penal." },
+      { "letra": "C", "texto": "utiliza, na modalidade jurídica, preceitos legais existentes para solucionar hipóteses não previstas em lei." },
+      { "letra": "D", "texto": "corresponde a uma interpretação extensiva da norma penal." },
+      { "letra": "E", "texto": "é uma fonte formal mediata, tal como o costume e os princípios gerais do direito." }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "dp_conc_q18",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA | Prova: Delegado de Polícia Civil",
+    "enunciado": "Acerca do direito penal e do poder punitivo, assinale a opção correta.",
+    "alternativas": [
+      { "letra": "A", "texto": "O garantismo penal impede a intervenção punitiva do Estado, o qual deverá exercer função exclusivamente preventiva e garantidora das liberdades individuais." },
+      { "letra": "B", "texto": "O direito penal do autor poderá servir de fundamento para a redução da pena quando existirem circunstâncias pessoais favoráveis ao acusado." },
+      { "letra": "C", "texto": "O direito penal do ato tem como característica a ampliação da tipicidade do crime para atingir também os atos preparatórios e os de tentativa." },
+      { "letra": "D", "texto": "No direito penal do inimigo, a sanção penal é aplicada com extremo rigor e objetiva punir o inimigo de modo exemplar por atos cometidos, sem, contudo, relativizar ou suprimir garantias processuais." },
+      { "letra": "E", "texto": "A criminalização secundária tem como características a igualdade e a abstração, uma vez que a lei penal é genérica e a todos dirigida." }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "dp_conc_q19",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: DPE-SC | Prova: Analista Técnico",
+    "enunciado": "De acordo com o Professor Cezar Roberto Bitencourt, “O Direito Penal regula as relações dos indivíduos em sociedade e as relações destes com a mesma sociedade. (...) a persecução criminal somente pode ser legitimamente desempenhada de acordo com as normas preestabelecidas, legisladas de acordo com as regras de um sistema democrático. Por esse motivo, os bens protegidos pelo Direito Penal não interessam apenas ao indivíduo, mas à coletividade como um todo”. Tendo por base o pensamento do referido autor, analise as seguintes assertivas: I. Uma das principais características do Direito Penal moderno é seu caráter fragmentário, no sentido de que representa a *ultima ratio* do sistema para a proteção daqueles bens e interesses de maior importância para o indivíduo e a sociedade à qual pertence. II. Segundo leciona Paulo César Busato, o Direito Penal atua como o instrumento mais contundente de que dispõe o Estado para levar a cabo o controle social. Sua intervenção, portanto, constitui uma violência, por si só, razão pela qual o seu emprego deve dar-se somente e na exata medida da urgente necessidade de preservação da sociedade. III. Pode-se afirmar, no tocante aos objetivos e às missões do Direito Penal, que a opinião majoritária considera que a missão do Direito Penal é a de proteger bens jurídicos de possíveis lesões ou perigos, sendo que tais bens devem ser aqueles que permitem assegurar as condições de existência da sociedade, a fim de garantir os aspectos principais e indispensáveis da vida em comunidade. IV. Foi Welzel quem tentou atribuir uma dupla missão ao Direito Penal, pois, sem negar a missão de proteção de bens jurídicos, acrescentou-lhe a missão de proteção dos valores elementares da consciência, de caráter ético-social. O que não é admitido pela maioria da doutrina, já que o Direito Penal não deve se ocupar de exercer um controle moral sobre as pessoas. Quais estão corretas?",
+    "alternativas": [
+      { "letra": "A", "texto": "Apenas I e II." },
+      { "letra": "B", "texto": "Apenas I e IV." },
+      { "letra": "C", "texto": "Apenas III e IV." },
+      { "letra": "D", "texto": "Apenas II, III e IV." },
+      { "letra": "E", "texto": "I, II, III e IV." }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "dp_conc_q20",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS | Prova: Escrivão de Polícia Judiciária",
+    "enunciado": "No que se refere aos princípios aplicáveis ao Direito Penal, assinale a alternativa correspondente ao Princípio da Lesividade.",
+    "alternativas": [
+      { "letra": "A", "texto": "Esse princípio é a expressão da intervenção mínima, pois reduz a capacidade de criminalização do Estado." },
+      { "letra": "B", "texto": "Esse princípio é a expressão de que só pode ser castigado aquele comportamento que lesione direitos de qualquer pessoa, até mesmo do próprio agente." },
+      { "letra": "C", "texto": "Esse princípio é a expressão de proteção do indivíduo quanto à dignidade da pessoa humana, pois determina a criminalização - mandados de criminalização - de bens jurídicos relevantes." },
+      { "letra": "D", "texto": "Esse princípio é a expressão da taxatividade, pois delimita o bem jurídico que pode ou não ser passível de tutela penal." },
+      { "letra": "E", "texto": "Esse princípio é a expressão da exterioridade e alteridade (bilateralidade), significa que a tutela penal não tem relevância para reprimir a os meramente internos à psique do agente." }
+    ],
+    "gabarito": "E"
   }
 ]
