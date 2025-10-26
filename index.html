@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador de Provas de Concurso</title>
+    <title>MeuJus - Simulador de Provas</title>
     <!-- Carrega o Tailwind CSS --><script src="https://cdn.tailwindcss.com"></script>
     <!-- Carrega a fonte Inter (estilo Apple) --><link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -61,7 +61,8 @@
     <div class="max-w-4xl mx-auto p-4 md:p-8">
         
         <!-- Cabeçalho --><header class="text-center mb-6">
-            <h1 class="text-3xl font-bold text-gray-800">Simulador de Provas</h1>
+            <h1 class="text-4xl font-bold text-gray-900">MeuJus</h1>
+            <p class="text-lg text-gray-600">Simulador de Provas</p>
         </header>
 
         <!-- Controles de Seleção --><section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
@@ -158,7 +159,7 @@
             const temas = dbDisciplinas[disciplinaKey]?.temas || {};
             
             selectTema.innerHTML = ''; // Limpa opções anteriores
-            for (const [chave, valor] of Object.entries(temas)) {
+            for (const [chave, valor] of Object.entries(dbDisciplinas)) {
                 const option = new Option(valor, chave);
                 selectTema.add(option);
             }
@@ -180,7 +181,7 @@
         }
         
         /**
-         * Reseta a prova inteira (limpa questões) e volta ao estado inicial.
+         * Reseta o prova inteira (limpa questões) e volta ao estado inicial.
          * Chamado quando o usuário clica em "Trocar Prova".
          */
         function resetarProvaCompleta() {
