@@ -159,7 +159,9 @@
             const temas = dbDisciplinas[disciplinaKey]?.temas || {};
             
             selectTema.innerHTML = ''; // Limpa opções anteriores
-            for (const [chave, valor] of Object.entries(dbDisciplinas)) {
+            // ***** CORREÇÃO APLICADA AQUI *****
+            // Iterar sobre 'temas', não 'dbDisciplinas'
+            for (const [chave, valor] of Object.entries(temas)) {
                 const option = new Option(valor, chave);
                 selectTema.add(option);
             }
@@ -440,7 +442,7 @@
             const urlQuery = encodeURIComponent(promptCompleto);
             
             // 3. Abre o Google Search (com o objetivo de ativar o modo IA)
-            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
+            const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
             
             window.open(googleUrl, '_blank');
         }
