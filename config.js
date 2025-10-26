@@ -7,9 +7,7 @@ const dbDisciplinas = {
     "direito-penal": {
         nome: "Direito Penal",
         temas: {
-            "calunia": "Calúnia",
-            "difamacao": "Difamação",
-            "homicidio": "Homicídio"
+            "conceitos": "Conceitos e Características"
         }
     },
     "direito-civil": {
