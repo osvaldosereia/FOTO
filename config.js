@@ -16,6 +16,7 @@ const dbDisciplinas = {
              "norma-penal": { nome: "Norma Penal", provas: 6 },
             "poder-punitivo-estatal": { nome: "Poder Punitivo Estatal", provas: 10 },
             "conflito-aparente": { nome: "Conflito Aparente de Normas", provas: 3 },
+            "lei-penal-no-espaco": { nome: "Lei Penal no Espaço", provas: 10 },
             "lei-penal-no-tempo": { nome: "Lei Penal no Tempo", provas: 10 }
             
         }
