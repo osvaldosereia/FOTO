@@ -13,6 +13,7 @@ const dbDisciplinas = {
         temas: {
             // Formato: "chave-pasta": { nome: "Nome Exibido", provas: (número de arquivos json) }
             "conceitos": { nome: "Conceitos e Características", provas: 4 },
+             "norma-penal": { nome: "Norma Penal", provas: 6 },
             "poder-punitivo-estatal": { nome: "Poder Punitivo Estatal", provas: 10 }
             
         }
