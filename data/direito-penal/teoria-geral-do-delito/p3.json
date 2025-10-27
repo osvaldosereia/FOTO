@@ -1,0 +1,389 @@
+[
+{
+"id": "59374012",
+"metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: TRF - 2ª REGIÃO",
+"enunciado_principal": "Acerca da teoria do crime, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.",
+"itens_assertiva": [
+"Através dos ensinamentos da doutrina moderna, a tipicidade penal engloba a tipicidade formal e a tipicidade material, passando a permitir, por exemplo, o reconhecimento da insignificância como hipótese de atipicidade material.",
+"Quando, para configurar o delito, houver necessidade de uma norma de extensão, pode-se afirmar que se está diante de uma tipicidade mediata ou indireta.",
+"A teoria da tipicidade conglobante tem como consequência a transferência do estrito cumprimento de um dever legal e do exercício regular do direito da tipicidade para a ilicitude.",
+"A conduta de tentar matar alguém somente é punível graças ao disposto no Art. 14, II, do Código Penal. Assim, pode-se afirmar que a figura da tentativa é considerada uma norma de extensão temporal."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "V – V – F – F." },
+{ "letra": "B", "texto": "F – V – F – F." },
+{ "letra": "C", "texto": "V – V – F – V." },
+{ "letra": "D", "texto": "F – V – V – F." },
+{ "letra": "E", "texto": "V – F – V – V." }
+],
+"gabarito": "A"
+},
+{
+"id": "18529603",
+"metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Qconcursos",
+"enunciado_principal": "A Polícia Militar é acionada para averiguar possível contravenção de perturbação ao sossego alheio (art. 42 da Lei das Contravenções Penais). Ao chegar no local, a guarnição militar atestou a materialidade da infração penal e, ao averiguar a autoria, chegou-se ao nome de Mevinho, jovem de 18 anos. Ocorre que, o vovô Mévio, com 75 anos, foi até a Delegacia de Polícia assumir a autoria da infração penal, sabedor que o real perturbador do sossego alheio era seu neto, Mevinho.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Nesses termos, o vovô Mévio praticou:",
+"alternativas": [
+{ "letra": "A", "texto": "Auto-acusação falsa (art. 341 do Código Penal)" },
+{ "letra": "B", "texto": "Denunciação Caluniosa (art. 339 do Código Penal)" },
+{ "letra": "C", "texto": "Comunicação falsa de crime ou de contravenção (art. 340 do Código Penal)" },
+{ "letra": "D", "texto": "Conduta atípica" },
+{ "letra": "E", "texto": "Falso testemunho (art. 342 do Código Penal)" }
+],
+"gabarito": "A"
+},
+{
+"id": "73910485",
+"metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: AL-RS",
+"enunciado_principal": "No que diz respeito à teoria do crime, em relação à causalidade, o Código Penal brasileiro adotou a teoria da:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Imputação objetiva." },
+{ "letra": "B", "texto": "Relevância jurídica." },
+{ "letra": "C", "texto": "Causalidade adequada." },
+{ "letra": "D", "texto": "Condição conforme as leis." },
+{ "letra": "E", "texto": "Equivalência dos antecedentes causais." }
+],
+"gabarito": "E"
+},
+{
+"id": "26081944",
+"metadata": "Ano: 2024 | Banca: NUCEPE | Órgão: SEJUS-PI",
+"enunciado_principal": "Quanto aos elementos do crime, especialmente ao fato típico, de acordo com o Código Penal Brasileiro e suas disposições, analise a questão e marque a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Pedro, Bombeiro Militar, vê Antônio, seu desafeto, se afogando no rio. Populares pedem que ele o salve, porém, Pedro, propositalmente não o faz, com o intuito de matá-lo. Antônio efetivamente vem a falecer. Neste caso, Pedro cometeu que crime?",
+"alternativas": [
+{ "letra": "A", "texto": "Homicídio culposo." },
+{ "letra": "B", "texto": "Homicídio doloso, por omissão própria." },
+{ "letra": "C", "texto": "Não houve crime." },
+{ "letra": "D", "texto": "Homicídio doloso, na modalidade comissiva por omissão." },
+{ "letra": "E", "texto": "Homicídio doloso, por dolo eventual." }
+],
+"gabarito": "D"
+},
+{
+"id": "94527180",
+"metadata": "Ano: 2023 | Banca: OBJETIVA | Órgão: Prefeitura de Vale Real - RS",
+"enunciado_principal": "Os trabalhadores urbanos e rurais possuem diversos direitos previstos constitucionalmente. Nos termos da Constituição Federal, é garantida a proteção do salário na forma da lei, constituindo crime sua retenção:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Dolosa." },
+{ "letra": "B", "texto": "Culposa." },
+{ "letra": "C", "texto": "Preterdolosa." },
+{ "letra": "D", "texto": "Em qualquer caso." }
+],
+"gabarito": "A"
+},
+{
+"id": "68250391",
+"metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TRF - 3ª REGIÃO",
+"enunciado_principal": "As regras gerais do Código Penal, nos termos de seu art. 12,",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "aplicam-se, apenas, aos fatos incriminados no Código Penal ou leis especiais que assim expressamente prevejam." },
+{ "letra": "B", "texto": "aplicam-se aos fatos incriminados por lei especial, se esta não dispuser de modo diverso." },
+{ "letra": "C", "texto": "não se aplicam a fatos incriminados por lei especial se a vigência do Código for posterior à da Lei." },
+{ "letra": "D", "texto": "não se aplicam a fatos incriminados por lei especial se a vigência do Código for anterior à da Lei." },
+{ "letra": "E", "texto": "tem primazia sobre as regras de lei especial, quando esta dispuser de modo diverso." }
+],
+"gabarito": "B"
+},
+{
+"id": "41908273",
+"metadata": "Ano: 2023 | Banca: SELECON | Órgão: Câmara de Várzea Grande - MT",
+"enunciado_principal": "Gerard atua na área de Segurança Pública e é responsável por selecionar treinamentos para funcionários de várias empresas. Após discutir o conteúdo básico para um curso inaugural de Direito Penal, conclui que é essencial estabelecer o conceito de crime, entendido, correntemente, como uma ação típica, ilícita e culpável.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Essa concepção é denominada:",
+"alternativas": [
+{ "letra": "A", "texto": "formal" },
+{ "letra": "B", "texto": "simples" },
+{ "letra": "C", "texto": "material" },
+{ "letra": "D", "texto": "analítica" }
+],
+"gabarito": "D"
+},
+{
+"id": "30581692",
+"metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+"enunciado_principal": "Conforme Cláudio Brandão (2019): A culpabilidade é o único elemento que versa sobre a pessoa humana... Sobre esse elemento do crime, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"Para a teoria finalista, a culpabilidade é um juízo normativo que reprova o autor de um fato típico e antijurídico, quando se verificam concomitantemente a potencial consciência de antijuridicidade, a imputabilidade e a exigibilidade de outra conduta.",
+"Cometer o fato sob coação moral irresistível ou em estrita obediência à ordem de superior hierárquico não manifestamente ilegal são hipóteses previstas no Código Penal de excludente de culpabilidade por inexigibilidade de conduta conforme o direito.",
+"A exclusão da culpabilidade por inexigibilidade de comportamento conforme o direito é admitida por significativa parcela da doutrina e jurisprudência, mesmo em hipóteses não previstas na legislação.",
+"A culpabilidade pela vulnerabilidade, proposta por Zaffaroni, expressa a busca pela limitação da violência punitiva a partir da constatação de que o âmbito de autodeterminação dos agentes é diferente em razão das reais desigualdades."
+],
+"enunciado_pergunta": "Estão corretas as afirmativas",
+"alternativas": [
+{ "letra": "A", "texto": "I, II, III e IV." },
+{ "letra": "B", "texto": "I e III, apenas." },
+{ "letra": "C", "texto": "I e II, apenas." },
+{ "letra": "D", "texto": "III e IV, apenas." },
+{ "letra": "E", "texto": "II e IV, apenas." }
+],
+"gabarito": "A"
+},
+{
+"id": "72493061",
+"metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+"enunciado_principal": "Sobre a teoria do crime, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"O Código Penal brasileiro trouxe o conceito de crime, mas deixou para a doutrina a tarefa de regular o nexo de causalidade, sendo atualmente mais aceita a teoria da causalidade adequada.",
+"A norma penal não se confunde com o tipo penal, mas é uma decorrência lógica que é extraída do tipo. A antinormatividade é a contradição da conduta com a norma proibitiva e a antijuridicidade é a contrariedade dessa conduta com o ordenamento jurídico, no qual se complementam normas proibitivas com permissivas.",
+"Na esteira de Roxin, a teoria da imputação objetiva cria um elo normativo que serve de limitação ao poder punitivo do Estado, na medida em que a imputação ao tipo objetivo pressupõe a realização de um perigo criado pelo autor e não coberto por um risco permitido.",
+"O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se necessariamente previsto em lei.",
+"A teoria do domínio do fato resolve problemas de delimitação probatória na medida que, pela escala hierárquica, torna-se possível presumir a ciência de determinados agentes sobre o delito praticado por subalternos."
+],
+"enunciado_pergunta": "Estão corretas as afirmativas",
+"alternativas": [
+{ "letra": "A", "texto": "I, II e III, apenas." },
+{ "letra": "B", "texto": "I e V, apenas" },
+{ "letra": "C", "texto": "II, III e IV, apenas." },
+{ "letra": "D", "texto": "III e IV, apenas." },
+{ "letra": "E", "texto": "I, IV e V, apenas." }
+],
+"gabarito": "C"
+},
+{
+"id": "85106429",
+"metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+"enunciado_principal": "O direito positivo não esgota a ciência penal. Dessa maneira, considerando a principiologia do Direito Penal, assinale a alternativa incorreta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A Convenção Americana de Direitos Humanos e o Pacto Internacional sobre Direitos Civis e Políticos têm, em seu bojo, o princípio do ne bis in idem como princípio processual, porém, esse é um princípio de índole substancial também aplicável à matéria penal." },
+{ "letra": "B", "texto": "A subsidiariedade do Direito Penal deriva de sua consideração como “remédio sancionar extremo”, que deve ser ministrado apenas quando outro se revele ineficiente, quando fracassam as demais barreiras protetoras de bem jurídico." },
+{ "letra": "C", "texto": "A doutrina trabalhou e a jurisprudência acolheu diversos casos de possíveis incidências do princípio da adequação social, como a perfuração de orelhas de crianças para colocar brincos e a venda de bebida alcoólica a menores de idade em localidades afastadas dos grandes centros." },
+{ "letra": "D", "texto": "A jurisprudência admite a aplicação do princípio da insignificância nos crimes patrimoniais em que não há emprego de violência ou grave ameaça, mas há resistência para o reconhecimento para o crime de roubo." },
+{ "letra": "E", "texto": "Há precedentes nos tribunais superiores reconhecendo a aplicação do princípio da insignificância mesmo que a vida pregressa do indivíduo denote reincidência criminal." }
+],
+"gabarito": "C"
+},
+{
+"id": "46738205",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+"enunciado_principal": "Em um determinado período, durante a evolução da Teoria do Crime, a culpabilidade era integrada por quatro elementos, quais sejam: dolo, culpa, exigibilidade de conduta diversa e imputabilidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Nesse cenário, o sistema da teoria do delito e a concepção da culpabilidade ventilados são, respectivamente:",
+"alternativas": [
+{ "letra": "A", "texto": "sistema neoclássico e concepção psicológico-normativa da culpabilidade;" },
+{ "letra": "B", "texto": "sistema clássico e concepção psicológico-normativa da culpabilidade;" },
+{ "letra": "C", "texto": "sistema finalista e concepção normativa pura da culpabilidade;" },
+{ "letra": "D", "texto": "sistema neoclássico e concepção normativa pura da culpabilidade;" },
+{ "letra": "E", "texto": "sistema clássico e concepção psicológica da culpabilidade." }
+],
+"gabarito": "A"
+},
+{
+"id": "10925374",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+"enunciado_principal": "A incriminação de condutas se propõe a tutelar direitos fundamentais, debruçando-se a doutrina, o legislador e a Jurisprudência sobre a identificação dos bens jurídicos passiveis de tutela penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Acerca da teoria dos bens jurídicos, considerando a doutrina e a Jurisprudência sobre o tema, é correto afirmar que:",
+"alternativas": [
+{ "letra": "A", "texto": "a teoria do harm principle é adotada nos países do civil law é tem pouca aceitação nos países que adotam a common law;" },
+{ "letra": "B", "texto": "para o funcionalismo radical, o único bem jurídico protegido pelo direito penal é a vigência da norma;" },
+{ "letra": "C", "texto": "deve ser considerado inconstitucional qualquer tipo penal que proteja bens coletivos, uma vez que somente são válidos bens jurídicos individuais;" },
+{ "letra": "D", "texto": "não pode existir tipo penal que tenha por objetivo proteger bens jurídicos que não tenham expressa previsão na Constituição da República de 1988;" },
+{ "letra": "E", "texto": "o funcionalismo moderado justifica a proteção jurídico-penal de bens morais." }
+],
+"gabarito": "B"
+},
+{
+"id": "60491728",
+"metadata": "Ano: 2023 | Banca: FCC | Órgão: MPE-PB",
+"enunciado_principal": "A parte geral do Código Penal estabelece:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O agente que, voluntariamente, desiste de prosseguir na execução do crime ou impede que o resultado se produza só responde pelos atos já praticados." },
+{ "letra": "B", "texto": "Entende-se em legítima defesa quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se." },
+{ "letra": "C", "texto": "O ajuste, a determinação ou a instigação e o auxílio sempre serão puníveis, ainda que o crime sequer tenha sido tentado." },
+{ "letra": "D", "texto": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até a conclusão do inquérito penal, por ato voluntário do agente, a pena será reduzida de um terço até a metade." },
+{ "letra": "E", "texto": "Não há crime quando o agente pratica o fato em estado de embriaguez, voluntária ou culposa, pelo álcool ou substância de efeitos análogos." }
+],
+"gabarito": "A"
+},
+{
+"id": "33814650",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-AM",
+"enunciado_principal": "Considerando os modelos de conceituação de ação, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "De acordo com o modelo estratégico de ação, esta é um ato de fala, traduzido na forma de um discurso, com pretensão de validade." },
+{ "letra": "B", "texto": "De acordo com o modelo causal de ação, esta consiste no movimento corpóreo que produz modificação no mundo exterior, o que permite diferenciar crimes comissivos e omissivos, bem como crimes materiais, formais e de mera conduta." },
+{ "letra": "C", "texto": "De acordo com o modelo finalista de ação, esta consiste na conduta dirigida a um fim ou objetivo, o que permite segmentar a conduta em objetiva e subjetiva, contudo seu elemento essencial não é o objetivo do sujeito, mas a dirigibilidade dos meios causais usados a fim de atingir o objetivo." },
+{ "letra": "D", "texto": "De acordo com o modelo social de ação, cujo principal formulador é o alemão Günther Jakobs, a ação é uma conduta socialmente irrelevante, ou seja, incapaz de ser objeto de um juízo de valor ou intervir no círculo jurídico de outrem, o que permite excluir de seu conceito fatos ou fenômenos que independam da vontade do sujeito." },
+{ "letra": "E", "texto": "De acordo com o modelo funcional de ação, o elemento central da ação é a base material da conduta, o que permite a análise do crime como lesão a bem jurídico." }
+],
+"gabarito": "C"
+},
+{
+"id": "91627405",
+"metadata": "Ano: 2023 | Banca: IADES | Órgão: GDF-SEEC",
+"enunciado_principal": "Um homem que adquiriu legalmente uma pistola e que tem porte de arma deferido pela Polícia Federal pretendia matar uma pessoa. Aguardava seu alvo em local que julgou propício para os disparos, quando decidiu escolher outra oportunidade, em razão da grande quantidade de pessoas que ali circulavam na ocasião.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Essa conduta configura",
+"alternativas": [
+{ "letra": "A", "texto": "arrependimento posterior." },
+{ "letra": "B", "texto": "crime tentado." },
+{ "letra": "C", "texto": "desistência voluntária." },
+{ "letra": "D", "texto": "arrependimento eficaz." },
+{ "letra": "E", "texto": "ato preparatório impunível." }
+],
+"gabarito": "E"
+},
+{
+"id": "50284719",
+"metadata": "Ano: 2022 | Banca: IDECAN | Órgão: TJ-PI",
+"enunciado_principal": "Suponha que uma lei penal temporária tenha atribuído a delito já existente na legislação uma causa de aumento que se faria incidir caso o crime em questão fosse praticado no período que referida lei temporária estivesse em vigor. Nesse sentido, suponha também que Caio tenha infringido a lei nos termos descritos, ou seja, tenha praticado o delito na hipótese prevista pela lei temporária. Suponha, igualmente, que, na data do julgamento de Caio, por conta da prática da conduta penalmente descrita em análise, referida lei penal temporária não esteja mais em vigor.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Nessa situação, é correto afirmar que",
+"alternativas": [
+{ "letra": "A", "texto": "Caio deverá responder com a incidência da causa de aumento prevista na lei penal temporária, mesmo referida lei não estando mais em vigor." },
+{ "letra": "B", "texto": "como a lei penal temporária não está mais em vigor, não incide a causa de aumento nela prevista à conduta de Caio." },
+{ "letra": "C", "texto": "como ocorreu a abolitio criminis em relação à causa de aumento prevista na lei penal temporária, esta não se aplica a Caio." },
+{ "letra": "D", "texto": "o juiz poderá ou não aplicar a causa de aumento prevista na lei penal temporária, a depender se, na situação concreta, for mais benéfico a Caio." },
+{ "letra": "E", "texto": "Caio deverá responder sempre com a pena mais grave possivel, não importa se a lei penal é temporária ou não, como medida de justiça." }
+],
+"gabarito": "C"
+},
+{
+"id": "77150384",
+"metadata": "Ano: 2022 | Banca: IDECAN | Órgão: TJ-PI",
+"enunciado_principal": "O roubo simples, a extorsão simples e a omissão de socorro são classificados, respectivamente, como crime",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "material, formal, formal." },
+{ "letra": "B", "texto": "material, material, formal." },
+{ "letra": "C", "texto": "material, formal, de mera conduta." },
+{ "letra": "D", "texto": "formal, material, de mera conduta." },
+{ "letra": "E", "texto": "material, de mera conduta, de mera conduta." }
+],
+"gabarito": "D"
+},
+{
+"id": "44926107",
+"metadata": "Ano: 2022 | Banca: IVIN | Órgão: Prefeitura de Estreito - MA",
+"enunciado_principal": "Em uma manifestação política pelas ruas de determinado Município, um jovem encapuzado lançou pedras contra a fachada de vidro da Secretaria de Educação Municipal, destruindo dez painéis de vidro e causando vultoso prejuízo aos cofres públicos. De acordo com as disposições do Código Penal aplicáveis ao caso, o jovem, ao ser julgado, estará sujeito à pena:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "De detenção, de seis meses a três anos, além de multa, por ter cometido crime de dano qualificado contra patrimônio do Município." },
+{ "letra": "B", "texto": "De detenção, de um a seis meses, ou multa." },
+{ "letra": "C", "texto": "De prisão simples, de um a dois anos, e multa." },
+{ "letra": "D", "texto": "De reclusão, de dois a quatro anos." },
+{ "letra": "E", "texto": "De reclusão, de um a três anos, e multa." }
+],
+"gabarito": "E"
+},
+{
+"id": "12059374",
+"metadata": "Ano: 2022 | Banca: SELECON | Órgão: Prefeitura de São Gonçalo - RJ",
+"enunciado_principal": "D.T. praticou crime de furto, tendo se apropriado indevidamente da bicicleta de Turandot. Vinte e quatro horas após o delito, D.T. devolve a bicicleta à sua proprietária. Nos termos do Código Penal, é caso de:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "desistência voluntária" },
+{ "letra": "B", "texto": "ato de vontade descriminalizador" },
+{ "letra": "C", "texto": "arrependimento posterior" },
+{ "letra": "D", "texto": "restituição eficaz" }
+],
+"gabarito": "D"
+},
+{
+"id": "38640157",
+"metadata": "Ano: 2022 | Banca: IASD | Órgão: Prefeitura de Fortuna - MA",
+"enunciado_principal": "A Lei de Introdução do Código Penal diz no “Art. 1º Considera-se crime a infração penal que a lei comina pena de reclusão ou de detenção, quer isoladamente, quer alternativa ou cumulativamente com a pena de multa; contravenção, a infração penal a que a lei comina, isoladamente, pena de prisão simples ou de multa, ou ambas, alternativa ou cumulativamente.”",
+"itens_assertiva": [],
+"enunciado_pergunta": "De acordo com as definições do art. 18 do Código Penal Brasileiro, assinale a alternativa CORRETA.",
+"alternativas": [
+{ "letra": "A", "texto": "O crime é culposo, quando o agente quis o resultado ou assumiu o risco de produzi-lo" },
+{ "letra": "B", "texto": "O crime é doloso, quando o agente quis o resultado ou assumiu o risco de produzi-lo." },
+{ "letra": "C", "texto": "O crime é doloso, quando o agente deu causa ao resultado por imprudência, negligência ou imperícia." },
+{ "letra": "D", "texto": "O crime é culposo, quando o agente deu causa ao resultado por assumir o risco do produzi-lo." },
+{ "letra": "E", "texto": "O crime é doloso, quando o agente deu causa ao resultado, assumindo o risco de produzi-lo, por imprudência, negligência ou imperícia." }
+],
+"gabarito": "A"
+},
+{
+"id": "37401926",
+"metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+"enunciado_principal": "O direito positivo não esgota a ciência penal. Dessa maneira, considerando a principiologia do Direito Penal, assinale a alternativa correta. (Baseada na Q2322678, gabarito revertido para a correta)",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A Convenção Americana de Direitos Humanos e o Pacto Internacional sobre Direitos Civis e Políticos têm, em seu bojo, o princípio do ne bis in idem como princípio processual, porém, esse é um princípio de índole substancial também aplicável à matéria penal." },
+{ "letra": "B", "texto": "A doutrina e a jurisprudência têm demonstrado ampla aceitação do princípio da adequação social para justificar a venda de bebida alcoólica a menores em localidades afastadas." },
+{ "letra": "C", "texto": "A jurisprudência tem resistência em aplicar o princípio da insignificância para crimes patrimoniais em que há emprego de grave ameaça, como o roubo." },
+{ "letra": "D", "texto": "A subsidiariedade do Direito Penal significa que ele deve ser acionado sempre que houver lesão a um bem jurídico, independentemente da eficácia de outros ramos do Direito." },
+{ "letra": "E", "texto": "Há precedentes nos tribunais superiores que negam a aplicação do princípio da insignificância se a vida pregressa do indivíduo denotar reincidência criminal, por ser um dos vetores de análise." }
+],
+"gabarito": "A"
+},
+{
+"id": "89021453",
+"metadata": "Ano: 2023 | Banca: SELECON | Órgão: Câmara de Várzea Grande - MT",
+"enunciado_principal": "Considerando o conceito analítico de crime como ação típica, ilícita e culpável, qual dos elementos abaixo está relacionado ao conceito de ilicitude ou antijuridicidade?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Exigibilidade de Conduta Diversa." },
+{ "letra": "B", "texto": "Potencial Consciência da Ilicitude." },
+{ "letra": "C", "texto": "Legítima Defesa." },
+{ "letra": "D", "texto": "O dolo ou a culpa." }
+],
+"gabarito": "C"
+},
+{
+"id": "55093418",
+"metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: TRF - 2ª REGIÃO",
+"enunciado_principal": "A tipicidade penal, na doutrina moderna, é frequentemente analisada sob a perspectiva da tipicidade formal e material. Qual é a principal decorrência dessa análise bipartida?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Permitir o reconhecimento da insignificância como hipótese de atipicidade material." },
+{ "letra": "B", "texto": "Afastar a aplicação do princípio da intervenção mínima." },
+{ "letra": "C", "texto": "Transferir o dolo e a culpa para o âmbito da culpabilidade." },
+{ "letra": "D", "texto": "Exigir que todos os crimes sejam classificados como materiais." },
+{ "letra": "E", "texto": "Aplicar a teoria da equivalência dos antecedentes causais de forma irrestrita." }
+],
+"gabarito": "A"
+},
+{
+"id": "22910746",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+"enunciado_principal": "No sistema neoclássico da Teoria do Crime, o conceito de culpabilidade era ampliado para incluir elementos subjetivos e normativos. Qual era a concepção da culpabilidade adotada neste sistema?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Psicológica." },
+{ "letra": "B", "texto": "Normativa Pura." },
+{ "letra": "C", "texto": "Psicológico-Normativa." },
+{ "letra": "D", "texto": "Funcionalista Radical." },
+{ "letra": "E", "texto": "Objetiva." }
+],
+"gabarito": "C"
+},
+{
+"id": "67138402",
+"metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: AL-RS",
+"enunciado_principal": "Embora a legislação penal reconheça diferentes teorias do crime, a respeito do nexo de causalidade (relação entre conduta e resultado), o Código Penal Brasileiro adota expressamente a teoria da:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Imputação Objetiva, conforme Roxin." },
+{ "letra": "B", "texto": "Causalidade Adequada, conforme Von Kries." },
+{ "letra": "C", "texto": "Equivalência dos Antecedentes Causais, ou Conditio Sine Qua Non." },
+{ "letra": "D", "texto": "Relevância Jurídica, aplicando o filtro de previsibilidade." },
+{ "letra": "E", "texto": "Causalidade Hipotética, para garantir a aplicação da pena." }
+],
+"gabarito": "C"
+}
+]
