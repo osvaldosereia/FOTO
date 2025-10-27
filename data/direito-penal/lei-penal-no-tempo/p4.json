@@ -1,0 +1,298 @@
+Em cumprimento à sua solicitação, apresento a reescrita das 20 questões extraídas das fontes, formatadas de acordo com o modelo fornecido, com novos IDs aleatórios de 8 dígitos e ajuste do gabarito para questões do tipo Certo/Errado (A para Certo, B para Errado).
+
+[
+{
+"id": "17498325",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Arão foi denunciado em ação penal na qual lhe foi imputada a prática de conduta típica prevista em lei temporária. Considerando que foi ultrapassado o prazo de vigência da mencionada lei, assinale a opção correta segundo o disposto no Código Penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A conduta deixa de ser punível, exceto se houve danos causados a terceiros." },
+{ "letra": "B", "texto": "A pena permanece aplicável, porém, de maneira atenuada." },
+{ "letra": "C", "texto": "A nova legislação impõe a abolição da imputabilidade." },
+{ "letra": "D", "texto": "A conduta permanece incriminada e punível." },
+{ "letra": "E", "texto": "A conduta praticada é fulminada pela prescrição." }
+],
+"gabarito": "D"
+},
+{
+"id": "92105748",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Em relação à aplicação da lei penal no tempo, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a lei penal mais branda não retroage no caso de crime permanente ou continuado." },
+{ "letra": "B", "texto": "a lei penal posterior, benéfica para o réu, não pode ser aplicada se o processo já estiver na fase de execução da condenação." },
+{ "letra": "C", "texto": "a lei penal superveniente mais rigorosa retroage apenas em caso de reincidência." },
+{ "letra": "D", "texto": "a lei penal posterior retroage desde que seja benéfica para o réu, mesmo já tendo sido prolatada a decisão condenatória transitada em julgado." },
+{ "letra": "E", "texto": "a lei penal temporária ou excepcional sempre será revogada pela legislação posterior." }
+],
+"gabarito": "D"
+},
+{
+"id": "65021379",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+"enunciado_principal": "No tocante às normas gerais do Direito Penal, analise as afirmações a seguir e assinale a opção correta:",
+"itens_assertiva": [
+"I. A pena cumprida no estrangeiro não atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas.",
+"II. Considera-se praticado o crime no momento da ação ou omissão, mesmo que outro seja o momento do resultado.",
+"III. Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, não cessando, porém, em virtude dela a execução e os efeitos penais da sentença condenatória."
+],
+"enunciado_pergunta": "Está correto o que se afirma em",
+"alternativas": [
+{ "letra": "A", "texto": "I, II e III." },
+{ "letra": "B", "texto": "II, apenas." },
+{ "letra": "C", "texto": "I e II, apenas." },
+{ "letra": "D", "texto": "II e III, apenas." },
+{ "letra": "E", "texto": "I, apenas." }
+],
+"gabarito": "B"
+},
+{
+"id": "44871903",
+"metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: AL-RS",
+"enunciado_principal": "José, com *animus necandi*, realiza disparos de arma de fogo contra Maria em 23 de maio de 2022. Ela veio a óbito dois dias depois. Tendo em vista o Código Penal brasileiro, em relação ao tempo do crime, pode-se dizer que o crime se realizou em _____ de maio de 2022, pela adoção da teoria do(a) __________________.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+"alternativas": [
+{ "letra": "A", "texto": "23 – atividade" },
+{ "letra": "B", "texto": "23 – resultado" },
+{ "letra": "C", "texto": "25 – atividade" },
+{ "letra": "D", "texto": "25 – resultado" },
+{ "letra": "E", "texto": "23 e 25 – ubiquidade" }
+],
+"gabarito": "A"
+},
+{
+"id": "88165024",
+"metadata": "Ano: 2024 | Banca: UniRV - GO | Órgão: UniRV - GO",
+"enunciado_principal": "A lei penal não possui eficácia universal e permanente. Pode ocorrer que um crime iniciado sob a vigência de uma lei penal tenha seu momento consumativo sob a vigência de outra lei penal. Quando isso ocorre, a questão é resolvida pela aplicação de dois princípios, quais sejam:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Princípio *nullum crimen, nulla poena sine praevia lege*; e princípio *tempus regit actum*." },
+{ "letra": "B", "texto": "Princípio da retroatividade da lei mais severa; e princípio da irretroatividade da lei mais benigma." },
+{ "letra": "C", "texto": "Princípio da reserva legal; e princípio da anterioridade da lei penal mais benigna." },
+{ "letra": "D", "texto": "Princípio da retroatividade da lei mais benigna; e princípio da irretroatividade da lei mais severa." }
+],
+"gabarito": "D"
+},
+{
+"id": "73591462",
+"metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Cariacica - ES",
+"enunciado_principal": "Durante o período de vigência de determinada lei penal excepcional, a qual trouxe circunstância qualificadora a delito já anteriormente previsto no Código Penal, Pedro praticou a conduta ali descrita. Na data do julgamento, já não estava mais em vigor a lei penal excepcional responsável pela qualificadora. Nessa situação, assinale a alternativa correta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Pedro deve responder pelo delito praticado com a incidência da circunstância qualificadora prevista na lei penal excepcional, mesmo tendo cessado o período de sua vigência." },
+{ "letra": "B", "texto": "Ocorreu *abolitio criminis*, razão pela qual a conduta praticada por Pedro não mais pode ser considerada delituosa e ele deve, portanto, ser absolvido." },
+{ "letra": "C", "texto": "Tendo cessado a vigência da lei penal excepcional que criou a qualificadora, Pedro deve responder tão somente pelo delito já antes previsto no Código Penal, sem a incidência da qualificadora, tendo ocorrido, portanto, *abolitio criminis* parcial." },
+{ "letra": "D", "texto": "A depender da culpabilidade do agente e das circunstâncias do caso concreto, o juiz, na aplicação da pena e com vistas à individualização, poderá escolher se a qualificadora prevista na lei penal excepcional incidirá ou não." }
+],
+"gabarito": "A"
+},
+{
+"id": "30284751",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+"enunciado_principal": "Com relação à aplicação da lei penal no tempo, assinale a opção correta, considerando o entendimento jurisprudencial do Supremo Tribunal Federal (STF).",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Aplica-se a pena mais branda quando o crime for continuado e surgir lei posterior mais gravosa que a vigente à época do início da continuidade." },
+{ "letra": "B", "texto": "Admite-se a conjugação de partes de uma lei, criando-se uma *lex tertia* a ser aplicada ao caso concreto." },
+{ "letra": "C", "texto": "Aplica-se a retroatividade da lei penal mais benéfica quando houver evolução de entendimento jurisprudencial mais benéfico." },
+{ "letra": "D", "texto": "Lei penal intermediária mais favorável ao réu, com vigência entre a data do fato criminoso e a data da respectiva sentença condenatória, não terá qualquer relevância para aplicação no direito penal brasileiro." },
+{ "letra": "E", "texto": "No caso de lei posterior que beneficie, em parte, o acusado e, em outra, o prejudique, deve o juiz da causa ou da execução aplicar, em sua integralidade, a lei que seja mais benéfica." }
+],
+"gabarito": "E"
+},
+{
+"id": "51639027",
+"metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Garanhuns - PE",
+"enunciado_principal": "Julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A retroatividade da lei penal mais benéfica é um princípio estabelecido no art. 2º do Código Penal, permitindo que uma lei posterior, que deixa de considerar um fato como crime ou que de alguma forma beneficia o réu, seja aplicada a fatos anteriores, inclusive àqueles já julgados. Esse princípio reforça o compromisso do Direito Penal com a justiça e a proporcionalidade das penas.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "29471836",
+"metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Garanhuns - PE",
+"enunciado_principal": "Julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A retroatividade da lei penal mais benéfica é um princípio que permite a aplicação de uma nova lei mais favorável ao réu a fatos ocorridos antes de sua vigência. Esse princípio está previsto no art. 2º do Código Penal e visa a garantir que avanços legislativos que discriminem condutas ou reduzam penas sejam aplicados a situações passadas, beneficiando indivíduos previamente condenados ou processados.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "95810243",
+"metadata": "Ano: 2024 | Banca: ICECE | Órgão: Prefeitura de Aratuba - CE",
+"enunciado_principal": "O princípio da retroatividade da Lei Penal mais benéfica está melhor definido na alternativa:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Impõe que a responsabilidade deve ser pessoal, subjetiva e pelo fato, afastando-se a influência de qualidades pessoais na formação da culpa." },
+{ "letra": "B", "texto": "A lei anterior ao delito é aplicável ao fato, afastando a possibilidade de aplicação de Lei Penal posterior que de qualquer forma modifique as características do tipo penal." },
+{ "letra": "C", "texto": "Possibilita afastar a ilicitude do fato e tolerar condutas socialmente aceitas, tal como a solicitação de pequenos presentes por servidores públicos." },
+{ "letra": "D", "texto": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado." }
+],
+"gabarito": "D"
+},
+{
+"id": "40173652",
+"metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-AC",
+"enunciado_principal": "No que tange à aplicação da Lei Penal, o Código Penal:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "considera como tempo do crime o instante em que se produziu o resultado, mesmo que a conduta tenha sido perpetrada em outro momento." },
+{ "letra": "B", "texto": "considera como lugar do crime o local onde ocorreu a conduta, desconsiderando-se o espaço onde se produziu ou deveria se produzir o resultado." },
+{ "letra": "C", "texto": "considera que, tanto no espaço quanto no tempo, o crime ocorreu no momento e no lugar onde se produziu ou deveria se produzir o resultado." },
+{ "letra": "D", "texto": "considera como tempo do crime o momento em que ação ou a omissão é perpetrada, ainda que o resultado venha a ocorrer em outra ocasião." }
+],
+"gabarito": "D"
+},
+{
+"id": "56391084",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+"enunciado_principal": "Sônia cometeu crime de furto em julho de 2023. Em agosto do mesmo ano, uma nova lei penal foi promulgada, aumentando a pena para esse delito. A partir da situação hipotética precedente, assinale a opção correta conforme o princípio da irretroatividade da lei penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A nova lei penal não se aplica a Sônia, pois o citado princípio impede a retroatividade da legislação penal mais gravosa." },
+{ "letra": "B", "texto": "Aplica-se a Sônia a nova lei penal, mais gravosa." },
+{ "letra": "C", "texto": "A nova lei penal pode ser aplicada retroativamente a Sônia, desde que ela não tenha sido julgada até a data de promulgação da lei." },
+{ "letra": "D", "texto": "Sônia só poderia ser submetida à pena estabelecida na nova lei se houvesse cometido crime grave." },
+{ "letra": "E", "texto": "O citado princípio só se aplica a casos já sentenciados, não influenciando processos em andamento, exceto quando a nova lei for mais benéfica ao réu." }
+],
+"gabarito": "A"
+},
+{
+"id": "82745910",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: ITAIPU BINACIONAL",
+"enunciado_principal": "Acerca da aplicação da lei penal, julgue os itens a seguir, de acordo com o previsto no Código Penal Brasileiro. Assinale a opção correta.",
+"itens_assertiva": [
+"I. O crime é considerado praticado no momento da ação ou omissão, independentemente do momento do resultado.",
+"II. A lei temporária aplica-se ao fato praticado durante sua vigência, ainda que decorrido o período de sua duração.",
+"III. A lei posterior mais benéfica ao agente é aplicável aos fatos anteriores, exceto se decididos por sentença condenatória transitada em julgado."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas o item III está certo." },
+{ "letra": "B", "texto": "Apenas os itens I e II estão certos." },
+{ "letra": "C", "texto": "Apenas os itens I e III estão certos." },
+{ "letra": "D", "texto": "Apenas os itens II e III estão certos." },
+{ "letra": "E", "texto": "Todos os itens estão certos." }
+],
+"gabarito": "B"
+},
+{
+"id": "61038572",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: CGE-RJ",
+"enunciado_principal": "Em relação à aplicação da lei penal, ao tempo e lugar do crime, julgue o item seguinte.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Suponha que, no dia 15 de dezembro de 2023, João tenha efetuado três disparos de arma de fogo contra Antônio, e que a vítima tenha falecido no dia 17 de dezembro de 2023. Nessa situação hipotética, de acordo com o Código Penal, o crime de homicídio considera-se praticado no momento da ação, ainda que o resultado morte tenha ocorrido em momento posterior.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "33940176",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-SC",
+"enunciado_principal": "Um pacote legislativo resultou na aprovação de três novas leis penais no Congresso Nacional: Lei A (revogou um crime - *abolitio criminis*), Lei B (aumentou a pena do art. 213 CP), e Lei C (diminuiu a pena do art. 155 CP). Em relação ao tema, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei A se refere à hipótese de irretroatividade da lei penal mais severa." },
+{ "letra": "B", "texto": "As leis A e C constituem hipóteses de *novatio legis in mellius*." },
+{ "letra": "C", "texto": "As leis B e C se referem à hipótese de retroatividade da lei penal mais benéfica." },
+{ "letra": "D", "texto": "A lei B se refere à hipótese de ultratividade da lei anterior mais benéfica." },
+{ "letra": "E", "texto": "A lei C se refere à hipótese de *novatio legis* incriminadora." }
+],
+"gabarito": "B"
+},
+{
+"id": "76152893",
+"metadata": "Ano: 2023 | Banca: IDECAN | Órgão: Prefeitura de Maracanaú - CE",
+"enunciado_principal": "Quanto ao tempo do crime é correto afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado." },
+{ "letra": "B", "texto": "Considera-se praticado o crime somente no momento da ação." },
+{ "letra": "C", "texto": "Considera-se praticado o crime tentado no momento da ação ou omissão culposa, ainda que outro seja o momento do resultado naturalístico." },
+{ "letra": "D", "texto": "Considera-se praticado o crime somente no momento da ação, pouco importando o momento do resultado." }
+],
+"gabarito": "A"
+},
+{
+"id": "20541738",
+"metadata": "Ano: 2023 | Banca: IVIN | Órgão: Prefeitura de Santana do Piauí - PI",
+"enunciado_principal": "Assinale a alternativa correta, de acordo com as disposições do Código Penal:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Se uma servidora pública municipal, em viagem ao exterior a serviço, comete crime contra o patrimônio do Município, ficará sujeita à lei estrangeira aplicável do país em que praticou a ação criminosa." },
+{ "letra": "B", "texto": "Os brasileiros acusados por crime contra a administração pública praticados no exterior somente ficam sujeitos à lei brasileira se residentes no Brasil." },
+{ "letra": "C", "texto": "O servidor que cometa crime contra a União no exterior, estando a serviço dela, não fica mais sujeito à lei brasileira, caso seja absolvido no estrangeiro." },
+{ "letra": "D", "texto": "Não se atenua pena imposta no Brasil por cumprimento de pena no estrangeiro, em nenhuma hipótese." },
+{ "letra": "E", "texto": "No Brasil, adota-se a teoria da atividade ou da ação, a qual entende praticado o crime no momento em que ocorreu a ação ou omissão, mesmo que outro seja o momento do resultado." }
+],
+"gabarito": "E"
+},
+{
+"id": "98376250",
+"metadata": "Ano: 2023 | Banca: MPE-PR | Órgão: MPE-PR",
+"enunciado_principal": "Sobre a teoria da lei penal, assinale a alternativa **incorreta**:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei nova, que prevê exclusão de qualificadora a determinado crime, aplica-se a fatos anteriores à sua vigência, ainda que após o respectivo trânsito em julgado da sentença penal condenatória." },
+{ "letra": "B", "texto": "Dentre as proibições que derivam da aplicação do princípio da legalidade, pode-se citar a proibição de retroatividade da lei penal, que admite exceções, e a proibição de analogia em matéria penal, que não admite exceções." },
+{ "letra": "C", "texto": "As normas excepcionais e temporárias, de acordo com sistemática adotada pelo Código Penal brasileiro, possuem ultra-atividade." },
+{ "letra": "D", "texto": "As normas penais em branco - de que é exemplo o crime previsto no art. 39 da Lei 9.605/98 (cortar árvores em floresta considerada de preservação permanente, sem permissão da autoridade competente) -, dependem de complemento por atos legislativos ou administrativos para perfectibilização de sua tipicidade." },
+{ "letra": "E", "texto": "A lei nova, que prevê elevação do prazo prescricional para extinção da punibilidade de determinado crime, não se aplica a fatos anteriores à sua vigência, em razão do princípio da irretroatividade da lei penal." }
+],
+"gabarito": "B"
+},
+{
+"id": "54190382",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TCE-MS",
+"enunciado_principal": "Em relação à aplicação da lei penal, de acordo com as disposições do Código Penal, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Leis penais gravosas aplicam-se retroativamente, quando surgirem durante o processo." },
+{ "letra": "B", "texto": "Leis penais temporárias e excepcionais são sempre aplicadas de forma retroativa, uma vez que sua própria existência se fundamenta na necessidade de regular situação que demandava atuação imediata do legislador." },
+{ "letra": "C", "texto": "Leis penais mais brandas não retroagem no caso de crimes permanentes ou continuados." },
+{ "letra": "D", "texto": "Lei penal posterior que beneficie o réu deve ser aplicada retroativamente, mesmo no caso de condenação definitiva." },
+{ "letra": "E", "texto": "Lei penal posterior que tenha natureza benéfica para o réu não pode ser aplicada retroativamente se o processo já estiver em fase de execução da pena, sob pena de violação da coisa julgada." }
+],
+"gabarito": "D"
+},
+{
+"id": "11094625",
+"metadata": "Ano: 2023 | Banca: VUNESP | Órgão: PC-SP",
+"enunciado_principal": "Indivíduo está sendo processado, ainda em fase de instrução em primeiro grau. Nesse momento, nova lei é publicada e entra em vigor, estabelecendo novas regras de progressão de regime para a execução de pena. Essas novas regras, com relação a esse indivíduo específico:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "serão aplicadas independentemente de serem mais benéficas, tendo em vista que ainda não houve trânsito em julgado." },
+{ "letra": "B", "texto": "serão aplicadas independentemente de serem mais benéficas, tendo em vista que ainda não houve sentença." },
+{ "letra": "C", "texto": "não serão aplicadas." },
+{ "letra": "D", "texto": "apenas serão aplicadas se lhe forem mais benéficas." },
+{ "letra": "E", "texto": "serão aplicadas independentemente de serem mais benéficas, tendo em vista que ainda não houve início da execução de pena." }
+],
+"gabarito": "D"
+}
+]
