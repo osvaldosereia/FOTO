@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR"> 
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -124,6 +124,11 @@
                     <label for="selectTema" class="block text-sm font-medium text-gray-700 mb-1">Tema</label>
                     <select id="selectTema" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
                         <!-- Opções carregadas via JS --></select>
+                    
+                    <!-- ***** NOVO CONTADOR DE PROVA ***** -->
+                    <div id="divContadorProva" class="hidden text-sm font-medium text-gray-600 mt-2 ml-1">
+                        <!-- Contador carregado via JS -->
+                    </div>
                 </div>
             </div>
 
@@ -227,6 +232,7 @@
         const divFiltros = document.getElementById('divFiltros');
         const divHistorico = document.getElementById('divHistorico');
         const divCronometro = document.getElementById('divCronometro');
+        const divContadorProva = document.getElementById('divContadorProva'); // Novo
         const btnFiltroTodas = document.getElementById('btnFiltroTodas');
         const btnFiltroErradas = document.getElementById('btnFiltroErradas');
         const btnFiltroSinalizadas = document.getElementById('btnFiltroSinalizadas');
@@ -258,12 +264,12 @@
             
             // --- Listeners de Eventos ---
             selectDisciplina.addEventListener('change', () => {
-                popularTemas(); 
+                popularTemas(); // Popula temas E atualiza o contador
                 resetarEstadoProva();
             });
             selectTema.addEventListener('change', () => {
                 resetarEstadoProva();
-                // A verificação do histórico agora é feita em carregarProva()
+                atualizarContadorProvaUI(); // Atualiza contador ao mudar tema
             });
             checkModoProva.addEventListener('change', resetarEstadoProva);
             
@@ -302,11 +308,11 @@
                 const option = new Option(valor.nome, chave);
                 selectDisciplina.add(option);
             }
-            popularTemas(); // Carrega os temas da primeira disciplina
+            popularTemas(); // Carrega os temas (e o contador) da primeira disciplina
         }
 
         /**
-         * Popula o dropdown de Temas.
+         * Popula o dropdown de Temas e atualiza o contador.
          */
         function popularTemas() {
             const disciplinaKey = selectDisciplina.value;
@@ -317,18 +323,17 @@
                 const option = new Option(valorObj.nome, chave);
                 selectTema.add(option);
             }
-            // Histórico não é mais carregado aqui
+            // Após popular, atualiza o contador para o tema selecionado
+            atualizarContadorProvaUI();
         }
 
         /**
          * Carrega e exibe o desempenho anterior SE for da mesma prova.
-         * Chamado DEPOIS que a prova é carregada com sucesso.
-         * @param {string} urlProvaCarregada - A URL completa da prova que acabou de carregar.
          */
         function carregarHistoricoProvaEspecifica(urlProvaCarregada) {
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
-            const storageKey = `meujus-${disciplinaKey}-${temaKey}`; // A chave ainda é por TEMA
+            const storageKey = `meujus-score-${disciplinaKey}-${temaKey}`; // Chave de score
             
             const historicoJSON = localStorage.getItem(storageKey);
             divHistorico.classList.add('hidden'); // Esconde por padrão
@@ -336,7 +341,6 @@
             if (historicoJSON) {
                 try {
                     const historicoData = JSON.parse(historicoJSON);
-                    // Compara a URL salva com a URL da prova atual
                     if (historicoData && historicoData.prova === urlProvaCarregada) {
                         divHistorico.textContent = `Último resultado nesta prova específica: ${historicoData.score}`;
                         divHistorico.classList.remove('hidden');
@@ -369,15 +373,28 @@
             
             divStatus.textContent = 'Seleção alterada. Clique em "Carregar Prova".';
             divStatus.classList.remove('hidden');
+            
+            // Não reseta o contador, apenas garante que ele está visível
+            atualizarContadorProvaUI();
         }
         
         /**
          * Busca o arquivo JSON e exibe a prova.
          */
         async function carregarProva() {
-            // Reseta tudo antes de carregar
-            resetarEstadoProva(); 
+            // Reseta a UI da prova, mas não o contador
+            pararCronometro();
+            divCronometro.classList.add('hidden');
+            divPlacar.classList.add('hidden');
+            divHistorico.classList.add('hidden'); 
+            divQuestoes.innerHTML = ''; 
+            provaCarregada = false;
+            provaFinalizada = false;
+            respostasUsuario = {};
+            urlProvaAtual = null;
+            
             divStatus.textContent = 'Carregando prova...';
+            divStatus.classList.remove('hidden');
             
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
@@ -388,9 +405,16 @@
                 return; 
             }
             
+            // ***** LÓGICA DE CARREGAMENTO SEQUENCIAL *****
             const numProvas = temaInfo.provas; 
-            const provaNum = Math.floor(Math.random() * numProvas) + 1;
-            const url = `data/${disciplinaKey}/${temaKey}/p${provaNum}.json`; // Guarda a URL gerada
+            const indiceStorageKey = `meujus-index-${disciplinaKey}-${temaKey}`;
+            const indiceAtual = parseInt(localStorage.getItem(indiceStorageKey) || '0', 10);
+            
+            // Calcula o próximo índice (ex: 0 -> 1, 1 -> 2, ..., 4 -> 1)
+            const proximoIndice = (indiceAtual % numProvas) + 1; 
+            
+            const url = `data/${disciplinaKey}/${temaKey}/p${proximoIndice}.json`;
+            // ***** FIM DA LÓGICA SEQUENCIAL *****
 
             console.log(`Tentando carregar: ${url}`);
             btnCarregarProva.disabled = true;
@@ -405,8 +429,17 @@
                 exibirProva(questoes.slice(0, 20)); // Limita a 20 questões
 
                 // Sucesso
-                urlProvaAtual = url; // Armazena a URL da prova carregada com sucesso
-                carregarHistoricoProvaEspecifica(urlProvaAtual); // Verifica e exibe histórico SE for a mesma prova
+                urlProvaAtual = url; // Armazena a URL da prova carregada
+                
+                // Salva o novo índice que acabamos de carregar
+                localStorage.setItem(indiceStorageKey, proximoIndice);
+                
+                // Atualiza a UI do contador para mostrar o PRÓXIMO
+                atualizarContadorProvaUI();
+                
+                // Verifica histórico da prova específica que acabamos de carregar
+                carregarHistoricoProvaEspecifica(urlProvaAtual); 
+                
                 divStatus.classList.add('hidden');
                 provaCarregada = true;
 
@@ -424,7 +457,9 @@
             } catch (error) {
                 console.error("Erro ao carregar prova:", error);
                 divStatus.innerHTML = `<p class="font-semibold text-red-600">Erro ao carregar a prova.</p><p class="text-sm text-gray-500 mt-2">Não foi possível encontrar o arquivo: <strong>${url}</strong></p><p class="text-sm text-gray-500 mt-1">Verifique a sua estrutura de pastas e o <b>config.js</b>.</p>`;
-                resetarEstadoProva(); // Volta ao estado inicial se falhar
+                // Não reseta o estado, para o usuário ver o contador e tentar de novo
+                divStatus.classList.remove('hidden');
+                divQuestoes.innerHTML = '';
             } finally {
                 btnCarregarProva.disabled = false;
             }
@@ -446,27 +481,50 @@
                 }
             });
         }
+        
+        /**
+         * Atualiza o texto do contador (ex: "Próxima prova: 1 / 10").
+         */
+        function atualizarContadorProvaUI() {
+            const disciplinaKey = selectDisciplina.value;
+            const temaKey = selectTema.value;
+            
+            if (!disciplinaKey || !temaKey || !dbDisciplinas[disciplinaKey] || !dbDisciplinas[disciplinaKey].temas[temaKey]) {
+                divContadorProva.classList.add('hidden');
+                return;
+            }
+
+            const temaInfo = dbDisciplinas[disciplinaKey].temas[temaKey];
+            const numProvas = temaInfo.provas;
+            const indiceStorageKey = `meujus-index-${disciplinaKey}-${temaKey}`;
+            
+            // Lê o índice da prova que foi CARREGADA por último
+            const indiceAtual = parseInt(localStorage.getItem(indiceStorageKey) || '0', 10);
+            
+            // Calcula qual será a PRÓXIMA
+            const proximoIndice = (indiceAtual % numProvas) + 1; 
+
+            divContadorProva.textContent = `Próxima prova a carregar: ${proximoIndice} / ${numProvas}`;
+            divContadorProva.classList.remove('hidden');
+        }
 
         /**
          * Cria o HTML para uma única questão.
          */
         function criarElementoQuestao(questao, numero) {
             const card = document.createElement('div');
-            card.className = 'bg-white p-6 rounded-lg shadow-md transition-all'; // Adicionado transition
+            card.className = 'bg-white p-6 rounded-lg shadow-md transition-all';
             card.dataset.id = questao.id || `q${numero}`;
-            card.dataset.gabarito = questao.gabarito; // Armazena o gabarito no card
+            card.dataset.gabarito = questao.gabarito; 
             
             // 1. Metadados e Sinalizador (Flag)
             const metadataContainer = document.createElement('div');
             metadataContainer.className = 'flex justify-between items-center mb-3';
-            
             const metadata = document.createElement('p');
             metadata.className = 'text-xs text-gray-500';
             metadata.textContent = `Questão ${numero} | ${questao.metadata || 'Sem metadados'}`;
-            
             metadataContainer.appendChild(metadata);
 
-            // Só adiciona o ícone de 'flag' se estiver no Modo Prova
             if (checkModoProva.checked) {
                 const flagIcon = document.createElement('span');
                 flagIcon.className = 'flag-icon';
@@ -478,12 +536,10 @@
                 });
                 metadataContainer.appendChild(flagIcon);
             }
-            
             card.appendChild(metadataContainer);
 
             // 2. Lógica do Enunciado (Simples vs. Complexo)
             if (questao.enunciado_principal && questao.itens_assertiva) {
-                // --- Versão Profissional (Questão Complexa) ---
                 const enunciadoPrincipal = document.createElement('p');
                 enunciadoPrincipal.className = 'text-base md:text-lg text-gray-800 mb-4 leading-relaxed';
                 enunciadoPrincipal.textContent = questao.enunciado_principal;
@@ -505,7 +561,6 @@
                     card.appendChild(perguntaFinal);
                 }
             } else {
-                // --- Versão Simples (Como estava antes) ---
                 const enunciado = document.createElement('p');
                 enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
                 enunciado.textContent = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
@@ -642,7 +697,7 @@
         function salvarDesempenho(acertos, total, percent) {
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
-            const storageKey = `meujus-${disciplinaKey}-${temaKey}`; // Chave ainda é por TEMA
+            const storageKey = `meujus-score-${disciplinaKey}-${temaKey}`; // Chave de score
             const scoreString = `${acertos}/${total} (${percent}%) - em ${formatarTempo(segundosCronometro)}`;
             
             // Salva um objeto JSON com o score E a url da prova
