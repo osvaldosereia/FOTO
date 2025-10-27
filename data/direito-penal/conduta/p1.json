@@ -1,0 +1,372 @@
+[
+{
+"id": "94510372",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+"enunciado_principal": "Lucas, com 15 anos de idade, conheceu Lívia, com 13 anos de idade, na escola onde estudavam. Com o tempo, ambos se apaixonaram e começaram a namorar. Após terem a primeira relação sexual, Lívia comunicou o fato aos seus pais, os quais, por gostarem de Lucas, convidaram-no a morar junto com Lívia, na casa da família. Lucas, ainda com 15 anos de idade, aceitou prontamente o convite e imediatamente passou a conviver com Lívia, que ainda tinha 13 anos de idade, como marido e mulher, mantendo, continuamente, relação sexual consentida por Lívia e com a ciência dos pais desta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Considerando essa situação hipotética e o conceito tripartite de crime, assinale a opção correta.",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas os pais de Lívia responderão por crime de estupro de vulnerável, na forma da omissão imprópria, por serem autores mediatos do delito." },
+{ "letra": "B", "texto": "Apenas Lucas cometeu crime de estupro de vulnerável, pois os pais de Lívia não tiveram conhecimento prévio da primeira relação sexual dos menores." },
+{ "letra": "C", "texto": "Lucas é autor do crime de estupro de vulnerável e os pais de Lívia são partícipes pela omissão própria, e cada um deles responderá na medida de sua culpabilidade." },
+{ "letra": "D", "texto": "Lucas é autor do crime de estupro de vulnerável e os pais de Lívia são partícipes pela omissão imprópria, e cada um deles responderá na medida de sua culpabilidade." },
+{ "letra": "E", "texto": "O fato é atípico, em razão do princípio da adequação social, que suprime a tipicidade material." }
+],
+"gabarito": "A"
+},
+{
+"id": "88761459",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "Dentre os delitos de posse, é possível sua divisão em grupos determinados.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a opção que corresponde à infração penal em casos em que o autor possui objetos precedentes da comissão de um delito.",
+"alternativas": [
+{ "letra": "A", "texto": "Possuir material de pornografia infantil." },
+{ "letra": "B", "texto": "Posse de arma de fogo de uso permitido." },
+{ "letra": "C", "texto": "Porte de arma de fogo de uso proibido." },
+{ "letra": "D", "texto": "Possuir programa de computador para fraude." },
+{ "letra": "E", "texto": "Possuir chaves falsas ou alteradas para prática de furto." }
+],
+"gabarito": "A"
+},
+{
+"id": "67230198",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-RJ",
+"enunciado_principal": "Durante a pandemia, Tadeu descumpriu levianamente regras determinadas pelas autoridades sanitárias, tendo frequentado festas e deixado de usar equipamentos de proteção individual em diversos momentos. Depois de apresentar sintomas de covid-19, buscou atendimento hospitalar. Ao ser avaliado pelo médico, Geraldo, verificou-se a necessidade de internação de Tadeu, com o uso de respirador artificial. Havia apenas um respirador na região, o qual foi disponibilizado a Tadeu. Nesse mesmo dia, deu entrada no hospital, também vítima de covid-19, o paciente Jeferson, que havia adotado todas as precauções necessárias para evitar a contaminação. Seu quadro clínico é idêntico ao de Tadeu e o prognóstico é o mesmo. A única solução seria retirar Tadeu do aparelho e submeter Jeferson ao tratamento, o que Geraldo se negou a fazer, oferecendo outros cuidados a Jeferson. Jeferson morreu em algumas horas, o que poderia ser evitado pelo uso do respirador.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Nessa situação hipotética, Geraldo:",
+"alternativas": [
+{ "letra": "A", "texto": "responderá pelo resultado morte, pois a ponderabilidade da vida deve levar em consideração o contexto em que ocorreu a contaminação." },
+{ "letra": "B", "texto": "não responderá pelo resultado morte, pois o dever de omissão prepondera sobre o dever de ação." },
+{ "letra": "C", "texto": "não responderá pelo resultado morte, pois agiu sem potencial consciência da ilicitude de seu comportamento." },
+{ "letra": "D", "texto": "não será punido pelo resultado morte, pois há uma hipótese de escusa absolutória determinada pela inevitabilidade do resultado em relação a um dos pacientes." },
+{ "letra": "E", "texto": "responderá pelo resultado morte, pois a pessoa salva realizou a autocolocação em risco, devendo ter sido priorizado o atendimento ao outro paciente." }
+],
+"gabarito": "E"
+},
+{
+"id": "55439017",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+"enunciado_principal": "Insatisfeito com uma disputa acirrada num jogo de futebol, Ares, que contava com 17 anos e 11 meses de vida, aguarda a saída de Príapo de um curso preparatório, sequestrando seu desafeto, mantendo-o em cárcere privado por dois meses, quando o cativeiro é descoberto pela polícia e a vítima é resgatada.",
+"itens_assertiva": [],
+"enunciado_pergunta": "De acordo com o Código Penal, Ares deverá:",
+"alternativas": [
+{ "letra": "A", "texto": "responder pelo crime, em razão da teoria do resultado;" },
+{ "letra": "B", "texto": "responder pelo crime, em razão da teoria mista;" },
+{ "letra": "C", "texto": "responder pelo crime, em razão da teoria da ação;" },
+{ "letra": "D", "texto": "não responder por crime, em razão da teoria da ubiquidade;" },
+{ "letra": "E", "texto": "não responder por crime, em razão da teoria da atividade." }
+],
+"gabarito": "A"
+},
+{
+"id": "10298374",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: IBAMA",
+"enunciado_principal": "Considerando que um cidadão penalmente imputável tenha praticado um crime sob coação irresistível de terceiro, julgue o item subsequente, à luz do entendimento doutrinário quanto ao fato típico e seus elementos, à culpabilidade e suas respectivas causas excludentes.",
+"itens_assertiva": [
+"Caso se trate de coação física absoluta, estará excluída a responsabilidade do cidadão coagido, assim como o correspondente fato típico."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "78234051",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+"enunciado_principal": "Jack, um nadador iniciante, é levado por seu técnico até a praia, para adquirir maior resistência nadando contra a correnteza. Afogando-se, grita por socorro, mas o técnico não atenta para o pedido, visto que conversava com turistas sobre a gastronomia da região. Russel, um robusto e experiente nadador que caminhava na praia, ao perceber os gritos, adentra no mar agitado, mas acaba falecendo em razão da intensidade da correnteza.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Ao técnico:",
+"alternativas": [
+{ "letra": "A", "texto": "não poderá ser imputada a morte de Russel;" },
+{ "letra": "B", "texto": "poderá ser imputada unicamente a morte de Russel;" },
+{ "letra": "C", "texto": "não poderá ser imputada a exposição de risco de Jack;" },
+{ "letra": "D", "texto": "poderá ser imputada a exposição de risco a terceiros." }
+],
+"gabarito": "C"
+},
+{
+"id": "33458921",
+"metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+"enunciado_principal": "",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa correta em relação ao Código Penal",
+"alternativas": [
+{ "letra": "A", "texto": "Considera-se praticado o crime no momento do resultado, ainda que outro seja o momento da ação ou omissão." },
+{ "letra": "B", "texto": "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento" },
+{ "letra": "C", "texto": "Diz-se o crime tentado, quando, iniciada a execução, o agente, voluntariamente, desiste de prosseguir ou impede que o resultado se produza." },
+{ "letra": "D", "texto": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, ainda que não previsto em lei" },
+{ "letra": "E", "texto": "Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo." }
+],
+"gabarito": "D"
+},
+{
+"id": "22109845",
+"metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RJ",
+"enunciado_principal": "Durante as comemorações do carnaval, na cidade do Rio de Janeiro, Asclépio se desloca ao Centro, para acompanhar famoso bloco de foliões. Mergulhado na festividade e sob o sol impiedoso, passa a ingerir diversas bebidas. Desatento às filas formadas nos mictórios químicos, é acometido por intensa vontade de urinar. Procurando rua lateral, ao pé de uma árvore, passa a urinar, oportunidade em que é abordado pela Guarda Municipal e encaminhado para a unidade de Polícia Judiciária.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Quanto à conduta desenvolvida por Asclépio, é correto afirmar que:",
+"alternativas": [
+{ "letra": "A", "texto": "é atípica;" },
+{ "letra": "B", "texto": "constitui ato obsceno;" },
+{ "letra": "C", "texto": "constitui importunação sexual;" },
+{ "letra": "D", "texto": "constitui objeto obsceno;" },
+{ "letra": "E", "texto": "constitui assédio sexual." }
+],
+"gabarito": "E"
+},
+{
+"id": "41908756",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+"enunciado_principal": "Julgue o item seguinte, a respeito dos princípios aplicáveis ao direito penal, da lei penal no tempo e no espaço e da irretroatividade da lei penal.",
+"itens_assertiva": [
+"A infração bagatelar imprópria é aquela que surge com relevância penal, mas, posteriormente, pelas circunstâncias que envolvem o fato e o autor, verifica-se que a aplicação de qualquer pena se revela desnecessária."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "99823410",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "Considerando o Título II – “Do Crime”, da Parte Geral do Código Penal, analise as afirmações abaixo indicando F, para a que for falsa, e V, para a verdadeira.",
+"itens_assertiva": [
+"( ) O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido.",
+"( ) A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe somente a quem tenha, por lei, obrigação de cuidado, proteção ou vigilância.",
+"( ) Diz-se o crime tentado, quando, iniciada a execução, não se consuma pela vontade própria do agente.",
+"( ) Considera-se em legítima defesa quem pratica o fato para salvar de perigo atual ou iminente, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se.",
+"( ) Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem."
+],
+"enunciado_pergunta": "A sequência correta de preenchimento dos parênteses, de cima para baixo, é:",
+"alternativas": [
+{ "letra": "A", "texto": "F, F, V, F e V." },
+{ "letra": "B", "texto": "V, F, V, F e V." },
+{ "letra": "C", "texto": "V, F, F, F e V." },
+{ "letra": "D", "texto": "V, F, F, V e V." },
+{ "letra": "E", "texto": "F, V, V, F e V." }
+],
+"gabarito": "A"
+},
+{
+"id": "81235670",
+"metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+"enunciado_principal": "",
+"itens_assertiva": [],
+"enunciado_pergunta": "Sobre o conceito analítico de crime, assinale a alternativa INCORRETA.",
+"alternativas": [
+{ "letra": "A", "texto": "A tipicidade ocorre quando há correspondência entre a conduta concreta examinada e a descrição legal de crime (tipo penal)." },
+{ "letra": "B", "texto": "Se uma conduta típica ocorre em estado de necessidade, legítima defesa, exercício regular de direito ou estrito cumprimento do dever legal ela é justificada, razão pela qual não é contrária ao ordenamento jurídico como um todo." },
+{ "letra": "C", "texto": "A culpabilidade se caracteriza quando o sujeito for imputável, tiver ao menos potencial consciência da ilicitude de sua conduta e puder agir em conformidade com o direito." },
+{ "letra": "D", "texto": "Uma pessoa com menos de 18 anos é inimputável e, se ela praticar uma conduta típica e não justificada, seu comportamento será considerado no máximo como ilícito de natureza cível, mas não penal." },
+{ "letra": "E", "texto": "Os comportamentos em estado de inconsciência, os movimentos reflexos e os provocados por coação física absoluta (irresistível) não constituem ação ou omissão (conduta) para o direito penal, portanto não podem constituir crime." }
+],
+"gabarito": "E"
+},
+{
+"id": "64789012",
+"metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+"enunciado_principal": "Carolina é empregada doméstica na residência de Letícia e Jorge e recebeu uma cópia da chave que dá acesso à casa de seus patrões. Todavia, o companheiro de Carolina, Ricardo, aproveitando-se do fato de que a referida chave estava à vista e sem vigilância, fez uma cópia do objeto e utilizou essa cópia para entrar na casa de Letícia e Jorge e, de lá, subtraiu bens e valores, que totalizaram um prejuízo de R$100.000,00 às vítimas.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Nessa hipótese, é correto afirmar que Carolina",
+"alternativas": [
+{ "letra": "A", "texto": "poderá responder como partícipe do furto praticado por Ricardo." },
+{ "letra": "B", "texto": "poderá responder como coautora do furto praticado por Ricardo." },
+{ "letra": "C", "texto": "pode ser classificada como autora mediata do furto." },
+{ "letra": "D", "texto": "poderá responder culposamente pelo delito de furto." },
+{ "letra": "E", "texto": "não praticou crime algum." }
+],
+"gabarito": "C"
+},
+{
+"id": "50493821",
+"metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+"enunciado_principal": "Segundo a teoria tripartite, majoritariamente adotada, o delito é composto de fato típico, ilicitude e culpabilidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "São elementos do fato típico:",
+"alternativas": [
+{ "letra": "A", "texto": "tipicidade, ilicitude, imputabilidade." },
+{ "letra": "B", "texto": "conduta dolosa ou culposa, ausência de situações justificantes, imputabilidade." },
+{ "letra": "C", "texto": "conduta dolosa ou culposa, resultado, nexo causal e tipicidade." },
+{ "letra": "D", "texto": "tipicidade, ausência de situações justificantes, culpabilidade." },
+{ "letra": "E", "texto": "tipicidade formal, tipicidade material, ausência de situações justificantes e imputabilidade." }
+],
+"gabarito": "E"
+},
+{
+"id": "40321876",
+"metadata": "Ano: 2021 | Banca: FGV | Órgão: SEFAZ-ES",
+"enunciado_principal": "José trabalha como guarda-vidas da piscina do Clube Romano. Contudo, no dia 1º de novembro de 2020, ele não chegou no horário porque sua condução atrasou. O espaço da piscina foi aberto por Antônio no horário habitual, mas José somente chegou ao clube às 10h. Ao entrar na área da piscina deparou-se com uma cena terrível: o corpo de uma criança morta, boiando na piscina.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Sobre a conduta de José, assinale a afirmativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "José não praticou nenhum crime." },
+{ "letra": "B", "texto": "José omitiu-se na prestação de socorro (Art. 135 do CP)." },
+{ "letra": "C", "texto": "José cometeu homicídio culposo (Art. 121, § 3º, do CP)." },
+{ "letra": "D", "texto": "José cometeu homicídio culposo na modalidade comissiva por omissão, pois exercia a função de garantidor (Art. 121, § 3º, c/c. o Art. 13, § 2º, ambos do CP)." },
+{ "letra": "E", "texto": "José cometeu homicídio doloso na modalidade comissiva por omissão, pois exercia a função de garantidor (Art. 121, caput, c/c. o Art. 13, § 2º, ambos do CP)." }
+],
+"gabarito": "D"
+},
+{
+"id": "77890123",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-AP",
+"enunciado_principal": "",
+"itens_assertiva": [],
+"enunciado_pergunta": "O ingresso de chip de aparelho celular em estabelecimento prisional configura",
+"alternativas": [
+{ "letra": "A", "texto": "desobediência." },
+{ "letra": "B", "texto": "favorecimento real." },
+{ "letra": "C", "texto": "introdução de aparelho de comunicação, sem autorização legal, em estabelecimento prisional." },
+{ "letra": "D", "texto": "favorecimento pessoal." },
+{ "letra": "E", "texto": "conduta atípica." }
+],
+"gabarito": "A"
+},
+{
+"id": "90123456",
+"metadata": "Ano: 2019 | Banca: FAUEL | Órgão: Prefeitura de Guarapuava - PR",
+"enunciado_principal": "O Código Penal dispõe que: “Art. 13 - O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido”.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Sobre o tema, assinale a alternativa CORRETA.",
+"alternativas": [
+{ "letra": "A", "texto": "Não se adotou no Brasil a teoria conditio sine qua non (condição sem a qual não)." },
+{ "letra": "B", "texto": "A cadeia causal tornar-se aparentemente infinita se não sofrer qualquer limitação, de modo que não se adota no Brasil a teoria da equivalência dos antecedentes causais." },
+{ "letra": "C", "texto": "A teoria da equivalência dos antecedentes causais é limitada pela proibição do regresso, de modo que não é possível retroceder além dos limites de uma vontade livre e consciente, dirigida à produção do resultado." },
+{ "letra": "D", "texto": "O supramencionado artigo faz distinção entre condição, causa e concausa." }
+],
+"gabarito": "D"
+},
+{
+"id": "31415926",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+"enunciado_principal": "Mateus, de quatorze anos de idade, filho de Leandro, policial rodoviário federal, sofria bullying na escola. Um dia, aproveitando-se de um descuido de seu pai, Mateus pegou a arma de fogo, que estava em cima da mesa, e a levou para a escola, com intuito de vingar-se de Pedro, um de seus colegas de sala. Ao chegar à aula, o adolescente ameaçou dar um tiro em Pedro, caso ele não parasse de perturbá-lo. Em seguida, efetuou um disparo fatal.",
+"itens_assertiva": [
+"A respeito dessa situação hipotética, julgue o item que se segue. Leandro responderá pelo homicídio culposo de Pedro, em razão de omissão culposa, o que viola o dever garantidor em concurso com omissão de cautela."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "59702384",
+"metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Valiprev - SP",
+"enunciado_principal": "Considere as seguintes situações a seguir:",
+"itens_assertiva": [
+"(i) Joaquim estava andando pela rua quando reparou que havia uma criança trancada no interior de um veículo chorando, procurou o responsável e, não tendo encontrado, decidiu quebrar o vidro do carro e resgatar a criança;",
+"(ii) José, vendo que a casa do seu vizinho estava pegando fogo, mesmo percebendo que o portão estava aberto, destruiu os muros de acesso para tentar apagar o fogo; e",
+"(iii) João verificou que seu vizinho estava agredindo fisicamente o seu pai idoso e omitiu-se de prestar qualquer ajuda."
+],
+"enunciado_pergunta": "Diante das situações hipotéticas, assinale a alternativa que corresponde ao(s) indivíduo(s) que praticou(aram) ato(s) ilícito(s).",
+"alternativas": [
+{ "letra": "A", "texto": "Joaquim, José e João." },
+{ "letra": "B", "texto": "Joaquim e José, apenas." },
+{ "letra": "C", "texto": "Joaquim e João, apenas." },
+{ "letra": "D", "texto": "José e João, apenas." },
+{ "letra": "E", "texto": "Apenas José." }
+],
+"gabarito": "B"
+},
+{
+"id": "70856123",
+"metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de São José dos Campos - SP",
+"enunciado_principal": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. A afirmação: “o dever de agir incumbe a quem, com seu comportamento anterior, criou o risco da ocorrência do resultado”",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "está expressamente prevista no CP." },
+{ "letra": "B", "texto": "é a expressão supralegal da teoria da “imputação objetiva”." },
+{ "letra": "C", "texto": "é a expressão supralegal da teoria da “cegueira deliberada”." },
+{ "letra": "D", "texto": "deriva de construção jurisprudencial consolidada em súmula de Tribunal Superior." },
+{ "letra": "E", "texto": "admite a aplicação da responsabilidade objetiva no Direito Penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "11094765",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "A respeito da teoria do delito e da ação, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A teoria finalista de Hans Welzel define que a ação consiste no mero movimento corporal capaz de alterar o mundo exterior, independentemente da intenção do agente." },
+{ "letra": "B", "texto": "A ação, no neokantismo, é o movimento corporal impregnado de finalidade para se atingir o propósito consciente almejado pelo agente." },
+{ "letra": "C", "texto": "A teoria causalista do delito propõe que o dolo e a culpa, por estarem situados na conduta, tornam o injusto penal a parte subjetiva do conceito de crime." },
+{ "letra": "D", "texto": "A teoria funcionalista radical, de Gunther Jackobs, assevera que a missão do direito penal é a proteção da norma e a punição do indivíduo desviante." },
+{ "letra": "E", "texto": "A ação, na teoria do funcionalismo sistêmico, de Claus Roxin, designa o exercício de uma atividade final, que direciona a conduta humana ao ato consciente e voluntário para o cometimento do crime." }
+],
+"gabarito": "C"
+},
+{
+"id": "77098412",
+"metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+"enunciado_principal": "Assinale a alternativa correta em relação ao Código Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Considera-se praticado o crime no momento do resultado, ainda que outro seja o momento da ação ou omissão." },
+{ "letra": "B", "texto": "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento" },
+{ "letra": "C", "texto": "Diz-se o crime tentado, quando, iniciada a execução, o agente, voluntariamente, desiste de prosseguir ou impede que o resultado se produza." },
+{ "letra": "D", "texto": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, ainda que não previsto em lei" },
+{ "letra": "E", "texto": "Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo." }
+],
+"gabarito": "D"
+},
+{
+"id": "23901487",
+"metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RJ",
+"enunciado_principal": "Durante as comemorações do carnaval, na cidade do Rio de Janeiro, Asclépio se desloca ao Centro, para acompanhar famoso bloco de foliões. Mergulhado na festividade e sob o sol impiedoso, passa a ingerir diversas bebidas. Desatento às filas formadas nos mictórios químicos, é acometido por intensa vontade de urinar. Procurando rua lateral, ao pé de uma árvore, passa a urinar, oportunidade em que é abordado pela Guarda Municipal e encaminhado para a unidade de Polícia Judiciária.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Quanto à conduta desenvolvida por Asclépio, é correto afirmar que:",
+"alternativas": [
+{ "letra": "A", "texto": "é atípica;" },
+{ "letra": "B", "texto": "constitui ato obsceno;" },
+{ "letra": "C", "texto": "constitui importunação sexual;" },
+{ "letra": "D", "texto": "constitui objeto obsceno;" },
+{ "letra": "E", "texto": "constitui assédio sexual." }
+],
+"gabarito": "E"
+},
+{
+"id": "18903475",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+"enunciado_principal": "Julgue o item seguinte, a respeito dos princípios aplicáveis ao direito penal, da lei penal no tempo e no espaço e da irretroatividade da lei penal.",
+"itens_assertiva": [
+"A infração bagatelar imprópria é aquela que surge com relevância penal, mas, posteriormente, pelas circunstâncias que envolvem o fato e o autor, verifica-se que a aplicação de qualquer pena se revela desnecessária."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "67401925",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "Considerando o Título II – “Do Crime”, da Parte Geral do Código Penal, analise as afirmações abaixo indicando F, para a que for falsa, e V, para a verdadeira.",
+"itens_assertiva": [
+"( ) O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido.",
+"( ) A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe somente a quem tenha, por lei, obrigação de cuidado, proteção ou vigilância.",
+"( ) Diz-se o crime tentado, quando, iniciada a execução, não se consuma pela vontade própria do agente.",
+"( ) Considera-se em legítima defesa quem pratica o fato para salvar de perigo atual ou iminente, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se.",
+"( ) Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem."
+],
+"enunciado_pergunta": "A sequência correta de preenchimento dos parênteses, de cima para baixo, é:",
+"alternativas": [
+{ "letra": "A", "texto": "F, F, V, F e V." },
+{ "letra": "B", "texto": "V, F, V, F e V." },
+{ "letra": "C", "texto": "V, F, F, F e V." },
+{ "letra": "D", "texto": "V, F, F, V e V." },
+{ "letra": "E", "texto": "F, V, V, F e V." }
+],
+"gabarito": "A"
+}
+]
