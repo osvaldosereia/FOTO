@@ -1,674 +1,460 @@
 [
-  {
-    "id": "Q198736",
-    "metadata": "Ano: 2011 | Banca: PGR | Órgão: PGR | Prova: PGR - 2011 - PGR - Procurador da República",
-    "enunciado": "NA ASSISTÊNCIA JURÍDICA RECÍPROCA EM MATÉRIA PENAL, A RESERVA DE ESPECIALIDADE",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "é prática amplamente disseminada, implicando o poder de todos os Estados de proibir o uso de informações e provas por eles fornecidas, quando entendam que o caso especifico é lesivo a seus interesses;"
-      },
-      {
-        "letra": "B",
-        "texto": "é prática adotada por muitos Estados consistente na indicação dos crimes para cuja persecução podem ser usadas as informações ou provas por eles fornecidas;"
-      },
-      {
-        "letra": "C",
-        "texto": "é prática em extinção no direito internacional,consistente em arrolar, nos acordos bilaterais, os crimes a que a assistência se restringe;"
-      },
-      {
-        "letra": "D",
-        "texto": "é prática adotada por todos os Estados, que equivale ao princípio da isenção de crimes políticos no direito extradicional."
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q190315",
-    "metadata": "Ano: 2011 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG | Prova: FUNDEP - 2011 - MPE-MG - Promotor de Justiça",
-    "enunciado": "Sobre a evolução do conceito de bem jurídico, cuja “criação não é apenas produto de uma elaboração jurídica pura, mas também de um contexto político e econômico”, é INCORRETO afirmar que",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a noção positivista de bem jurídico parte da ideia de que o bem jurídico se reduz a um elemento da própria norma, porque somente a lei expressa os objetos jurídicos ao encerrar a vontade declarada do Estado."
-      },
-      {
-        "letra": "B",
-        "texto": "a visão neokantiana exprime o bem jurídico como um valor que se identifica com a própria finalidade da norma, considerando-o como elemento de todos os pressupostos do complexo cultural de que emana o direito."
-      },
-      {
-        "letra": "C",
-        "texto": "tanto na visão positivista quanto na visão neokantiana, o bem jurídico é visto como um pressuposto formal da incriminação, trabalhando com os dados existentes na ordem jurídica, sem questioná-los."
-      },
-      {
-        "letra": "D",
-        "texto": "na visão funcionalista, o bem jurídico é visto na perspectiva dos valores ético-sociais elementares, relativos à pessoa, ao patrimônio, à família e ao Estado, negando-se o fim de estabilidade da norma como instrumental à manutenção do sistema."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q190314",
-    "metadata": "Ano: 2011 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG | Prova: FUNDEP - 2011 - MPE-MG - Promotor de Justiça",
-    "enunciado": "Sobre as possíveis leituras do garantismo, na perspectiva dos direitos fundamentais, é CORRETO afirmar que",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a concepção de um “garantismo positivo” alia-se ao princípio da proibição de proteção deficiente, trazendo como consequência a extensão da função de tutela penal aos bens jurídicos de interesse coletivo."
-      },
-      {
-        "letra": "B",
-        "texto": "o pensamento garantista se funda, em seu modelo clássico, em princípios que se opõem à tradição jurídica do iluminismo e do liberalismo."
-      },
-      {
-        "letra": "C",
-        "texto": "o garantismo, na concepção de Ferrajoli, tem como objetivo principal edificar um conceito específico para a criminologia, a partir da discussão da legitimidade da intervenção penal, não se ocupando, por isso, do estudo da qualidade, quantidade e necessidade da pena."
-      },
-      {
-        "letra": "D",
-        "texto": "a proposta do garantismo pode ser sintetizada na tentativa de arrefecer os princípios fundamentais que devem orientar o direito penal em um sistema punitivo democrático."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q172446",
-    "metadata": "Ano: 2011 | Banca: FMP Concursos | Órgão: TCE-RS | Prova: FMP Concursos - 2011 - TCE-RS - Auditor Público Externo - Ciências Jurídicas e Sociais",
-    "enunciado": "Em matéria de lei penal, observe as seguintes afirmativas:  I. É possível a edição de medida provisória relativa a direito penal, desde que em benefício do réu.  II. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais benéfica ao crime permanente, se a sua vigência é anterior à cessação da permanência.  III. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais grave ao crime continuado, se a sua vigência é anterior à cessação da continuidade.  IV. Consoante entendimento mais recente do Supremo Tribunal Federal, é possível a combinação de leis penais para beneficiar o réu.  Pode-se afirmar que:",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "todas as assertivas estão corretas."
-      },
-      {
-        "letra": "B",
-        "texto": "estão corretas somente as alternativas I e II."
-      },
-      {
-        "letra": "C",
-        "texto": "estão corretas somente as alternativas III e IV."
-      },
-      {
-        "letra": "D",
-        "texto": "estão corretas somente as alternativas II e IV."
-      },
-      {
-        "letra": "E",
-        "texto": "está correta somente a alternativa III."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q87584",
-    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRE-RN | Prova: FCC - 2011 - TRE-RN - Analista Judiciário - Área Judiciária",
-    "enunciado": "João subtraiu, mediante destreza, a carteira do bolso de Paulo, contendo R$ 1.000,00 em dinheiro. Nesse caso, o sujeito passivo do crime é",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "o Estado."
-      },
-      {
-        "letra": "B",
-        "texto": "Paulo."
-      },
-      {
-        "letra": "C",
-        "texto": "o patrimônio."
-      },
-      {
-        "letra": "D",
-        "texto": "a paz pública."
-      },
-      {
-        "letra": "E",
-        "texto": "a coletividade."
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q319513",
-    "metadata": "Ano: 2010 | Banca: CEPERJ | Órgão: SEFAZ-RJ | Prova: CEPERJ - 2010 - SEFAZ-RJ - Oficial de Fazenda",
-    "enunciado": "No Direito Penal, a necessidade de a norma ser complementada por outra de nível diverso denomina-se:",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "norma penal em branco em sentido amplo"
-      },
-      {
-        "letra": "B",
-        "texto": "norma penal em branco em sentido estrito"
-      },
-      {
-        "letra": "C",
-        "texto": "norma penal não incriminadora"
-      },
-      {
-        "letra": "D",
-        "texto": "norma penal regulamentar"
-      },
-      {
-        "letra": "E",
-        "texto": "norma penal especial"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q190691",
-    "metadata": "Ano: 2010 | Banca: FESMIP-BA | Órgão: MPE-BA | Prova: FESMIP-BA - 2010 - MPE-BA - Promotor de Justiça - Prova amarela",
-    "enunciado": "A problemática do bem jurídico, merecedor da tutela penal, é assunto de alta sensibilidade nos dias atuais, na medida em que o direito penal contemporâneo lida, frequentemente, com questões concernentes a bens jurídicos coletivos e de alta complexidade na sua consideração, inclusive para o debate na doutrina nacional, sobretudo quando busca diferenciar bens jurídicos e funções. Assim, a tendencia de espiritualização dos bens jurídicos é um dos grandes desafios do estágio atual da dogmática penal. Nesse cenário de ideias, seria correto afirmar:  I - A radicalização da tendencia da espiritualização dos bens jurídicos protegidos penalmente não envolve nenhum risco para um direito penal de um Estado Democrático, antes, pelo contrário, aumenta consideravelmente as garantias individuais.  II - A tendencia de “espiritualização” dos bens jurídicos pode ser suficientemente mitigada com a simples redução à sua característica de pessoalidade, isto é, que interesse, antes de tudo, à pessoa humana.  III - A tendencia de “espiritualização” dos bens jurídicos pode ser concretamente mitigada com a consideração conjunta da noção de pessoalidade com a de substancialidade, e não ser deduzida apenas de um dado normativo.  IV - A noção de bem jurídico, neste contexto, não pode ter como objeto de proteção da norma situação referentes à moralidade pública, aos bons costumes, ao sentimento do povo e outras semelhantes.  V - O bem jurídico, portanto, como advertia Roxin, nada tem a ver com o caráter de objeto valorado, prescindindo assim de qualquer alteração do mundo exterior ou juízo de valor de qualquer natureza.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Somente a alternativa I é verdadeira."
-      },
-      {
-        "letra": "B",
-        "texto": "As alternativas II e V são verdadeiras."
-      },
-      {
-        "letra": "C",
-        "texto": "Somente a alternativa II é verdadeira."
-      },
-      {
-        "letra": "D",
-        "texto": "As alternativas III e IV são verdadeiras."
-      },
-      {
-        "letra": "E",
-        "texto": "As alternativas II e V são verdadeiras."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q75410",
-    "metadata": "Ano: 2010 | Banca: FEPESE | Órgão: UDESC | Prova: FEPESE - 2010 - UDESC - Advogado",
-    "enunciado": "Assinale a alternativa correta.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "O princípio da humanidade das penas está consagrado na Constituição Federal."
-      },
-      {
-        "letra": "B",
-        "texto": "O princípio da aplicação da lei mais benéfica não é utilizado pelo direito penal."
-      },
-      {
-        "letra": "C",
-        "texto": "O princípio da intervenção mínima não se confunde com o principio da *ultima ratio.*"
-      },
-      {
-        "letra": "D",
-        "texto": "Por força do princípio da insignificância não são punidos os crimes de menor potencial ofensivo."
-      },
-      {
-        "letra": "E",
-        "texto": "A existência de crimes funcionais ofende o princípio da igualdade."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q61010",
-    "metadata": "Ano: 2010 | Banca: FCC | Órgão: DPE-SP | Prova: FCC - 2010 - DPE-SP - Defensor Público",
-    "enunciado": "O postulado da fragmentariedade em matéria penal relativiza",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a proporcionalidade entre o fato praticado e a consequência jurídica."
-      },
-      {
-        "letra": "B",
-        "texto": "a dignidade humana como limite material à atividade punitiva do Estado."
-      },
-      {
-        "letra": "C",
-        "texto": "o concurso entre causas de aumento e diminuição de penas."
-      },
-      {
-        "letra": "D",
-        "texto": "a função de proteção dos bens jurídicos atribuída à lei penal."
-      },
-      {
-        "letra": "E",
-        "texto": "o caráter estritamente pessoal que decorre da norma penal."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q81166",
-    "metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: PC-RN | Prova: CESPE - 2009 - PC-RN - Delegado de Polícia",
-    "enunciado": "Cabe ao legislador, na sua propícia função, proteger os mais diferentes tipos de bens jurídicos, cominando as respectivas sanções, de acordo com a importância para a sociedade. Assim, haverá o ilícito administrativo, o civil, o penal etc. Este último é o que interessa ao direito penal, justamente por proteger os bens jurídicos mais importantes (vida, liberdade, patrimônio, liberdade sexual, administração pública etc.). O direito penal",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "tem natureza fragmentária, ou seja, somente protege os bens jurídicos mais importantes, pois os demais são protegidos pelos outros ramos do direito."
-      },
-      {
-        "letra": "B",
-        "texto": "tem natureza minimalista, pois se ocupa, inclusive, dos bens jurídicos de valor irrisório."
-      },
-      {
-        "letra": "C",
-        "texto": "tem natureza burguesa, pois se volta, exclusivamente, para a proteção daqueles que gerenciam o poder produtivo e a economia estatal."
-      },
-      {
-        "letra": "D",
-        "texto": "é ramo do direito público e privado, pois protege bens que pertencem ao Estado, assim como aqueles de propriedade individualizada."
-      },
-      {
-        "letra": "E",
-        "texto": "admite a perquirição estatal por crimes não previstos estritamente em lei, assim como a retroação da *lex gravior* ."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q69517",
-    "metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: DETRAN-DF | Prova: CESPE - 2009 - DETRAN-DF - Analista - Advocacia",
-    "enunciado": "A lei penal admite interpretação analógica, recurso que permite a ampliação do conteúdo da lei penal, através da indicação de fórmula genérica pelo legislador.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Certo"
-      },
-      {
-        "letra": "B",
-        "texto": "Errado"
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q69516",
-    "metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: DETRAN-DF | Prova: CESPE - 2009 - DETRAN-DF - Analista - Advocacia",
-    "enunciado": "O Estado é a única fonte de produção do direito penal, já que compete privativamente à União legislar sobre normas gerais em matéria penal.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Certo"
-      },
-      {
-        "letra": "B",
-        "texto": "Errado"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q49291",
-    "metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: PC-PB | Provas: CESPE / CEBRASPE - 2009 - PC-PB - Agente de Investigação e Escrivão de Polícia|  CESPE - 2009 - PC-PB - Perito Oficial Criminal",
-    "enunciado": "Em relação aos sujeitos ativo e passivo da infração penal no ordenamento jurídico brasileiro, assinale a opção incorreta.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "A pessoa jurídica não pode ser sujeito ativo de infração penal."
-      },
-      {
-        "letra": "B",
-        "texto": "Sujeito ativo do crime é aquele que pratica a conduta descrita na lei."
-      },
-      {
-        "letra": "C",
-        "texto": "Sujeito passivo do crime é o titular do bem jurídico lesado ou ameaçado pela conduta criminosa."
-      },
-      {
-        "letra": "D",
-        "texto": "O conceito de sujeito ativo da infração penal abrange não só aquele que pratica a ação principal, mas também quem colabora de alguma forma para a prática do fato criminoso."
-      },
-      {
-        "letra": "E",
-        "texto": "Parte da doutrina entende que, sob o aspecto formal, o Estado é sempre sujeito passivo do crime."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q30557",
-    "metadata": "Ano: 2009 | Banca: VUNESP | Órgão: TJ-MT | Prova: VUNESP - 2009 - TJ-MT - Juiz",
-    "enunciado": "A combatida responsabilidade penal objetiva",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "não encontra exemplos concretos em nossa legislação penal."
-      },
-      {
-        "letra": "B",
-        "texto": "é doutrinariamente definida como à sujeição de alguém à imposição de pena sem que tenha agido com dolo ou culpa ou sem que tenha ficado demonstrada sua culpabilidade, com fundamento no nexo de causalidade, todavia, não encontra aplicação prática em casos concretos."
-      },
-      {
-        "letra": "C",
-        "texto": "pode ser exemplificada em nossa legislação penal na rixa qualificada e na *actio libera in causa* na embriaguez."
-      },
-      {
-        "letra": "D",
-        "texto": "tem um único exemplo em nossa legislação penal consistente na responsabilização das pessoas jurídicas por crimes ambientais."
-      },
-      {
-        "letra": "E",
-        "texto": "deve ser utilizada em *ultima ratio* , uma vez que, pode violar direitos e garantias fundamentais da pessoa humana."
-      }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q35290",
-    "metadata": "Ano: 2008 | Banca: CESPE / CEBRASPE | Órgão: STF | Provas: CESPE - 2008 - STF - Analista Judiciário - Área Judiciária|  CESPE - 2008 - STF - Analista Judiciário - Área Judiciária - Execução de Mandados",
-    "enunciado": "Julgue os itens a seguir, relativos à interpretação da lei penal.   Se o presidente do STF, em palestra proferida em seminário para magistrados de todo o Brasil, interpreta uma lei penal recém-publicada, essa interpretação é considerada interpretação judicial.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Certo"
-      },
-      {
-        "letra": "B",
-        "texto": "Errado"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q1213916",
-    "metadata": "Ano: 2007 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Rio Branco - AC",
-    "enunciado": "Julgue o item a seguir, a respeito da aplicação da lei penal.   As regras gerais estabelecidas pelo Código Penal não se aplicam aos delitos previstos na legislação especial ou extravagante.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Certo"
-      },
-      {
-        "letra": "B",
-        "texto": "Errado"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q2985881",
-    "metadata": "Ano: 2006 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR | Prova: CESPE - 2006 - TJ-RR - Técnico Judiciário - Área Agente de Proteção",
-    "enunciado": "Acerca da parte geral do Código Penal, assinale a opção correta.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "A entrada em vigor de lei nova que deixe de considerar o fato criminoso é uma das causas de extinção da punibilidade."
-      },
-      {
-        "letra": "B",
-        "texto": "Age em legítima defesa aquele que, após ter aceito um desafio para um duelo, ofende a integridade física do desafiante."
-      },
-      {
-        "letra": "C",
-        "texto": "A coação moral irresistível é causa de exclusão de antijuridicidade, pois afasta o caráter injusto do delito."
-      },
-      {
-        "letra": "D",
-        "texto": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo e impede a punição do agente por crime culposo."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q1182689",
-    "metadata": "Ano: 2004 | Banca: CESPE / CEBRASPE | Órgão: TCE-PE",
-    "enunciado": "A respeito dos princípios e fontes do direito penal, julgue o item subseqüente.   Em matéria penal, o costume *contra legem* não possui eficácia jurídica, mesmo que haja descompasso entre a lei penal e a realidade histórico-cultural.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Certo"
-      },
-      {
-        "letra": "B",
-        "texto": "Errado"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q190315_2",
-    "metadata": "Ano: 2011 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG | Prova: FUNDEP - 2011 - MPE-MG - Promotor de Justiça",
-    "enunciado": "Sobre a evolução do conceito de bem jurídico, cuja “criação não é apenas produto de uma elaboração jurídica pura, mas também de um contexto político e econômico”, é INCORRETO afirmar que",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a noção positivista de bem jurídico parte da ideia de que o bem jurídico se reduz a um elemento da própria norma, porque somente a lei expressa os objetos jurídicos ao encerrar a vontade declarada do Estado."
-      },
-      {
-        "letra": "B",
-        "texto": "a visão neokantiana exprime o bem jurídico como um valor que se identifica com a própria finalidade da norma, considerando-o como elemento de todos os pressupostos do complexo cultural de que emana o direito."
-      },
-      {
-        "letra": "C",
-        "texto": "tanto na visão positivista quanto na visão neokantiana, o bem jurídico é visto como um pressuposto formal da incriminação, trabalhando com os dados existentes na ordem jurídica, sem questioná-los."
-      },
-      {
-        "letra": "D",
-        "texto": "na visão funcionalista, o bem jurídico é visto na perspectiva dos valores ético-sociais elementares, relativos à pessoa, ao patrimônio, à família e ao Estado, negando-se o fim de estabilidade da norma como instrumental à manutenção do sistema."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q190314_2",
-    "metadata": "Ano: 2011 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG | Prova: FUNDEP - 2011 - MPE-MG - Promotor de Justiça",
-    "enunciado": "Sobre as possíveis leituras do garantismo, na perspectiva dos direitos fundamentais, é CORRETO afirmar que",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a concepção de um “garantismo positivo” alia-se ao princípio da proibição de proteção deficiente, trazendo como consequência a extensão da função de tutela penal aos bens jurídicos de interesse coletivo."
-      },
-      {
-        "letra": "B",
-        "texto": "o pensamento garantista se funda, em seu modelo clássico, em princípios que se opõem à tradição jurídica do iluminismo e do liberalismo."
-      },
-      {
-        "letra": "C",
-        "texto": "o garantismo, na concepção de Ferrajoli, tem como objetivo principal edificar um conceito específico para a criminologia, a partir da discussão da legitimidade da intervenção penal, não se ocupando, por isso, do estudo da qualidade, quantidade e necessidade da pena."
-      },
-      {
-        "letra": "D",
-        "texto": "a proposta do garantismo pode ser sintetizada na tentativa de arrefecer os princípios fundamentais que devem orientar o direito penal em um sistema punitivo democrático."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q172446_2",
-    "metadata": "Ano: 2011 | Banca: FMP Concursos | Órgão: TCE-RS | Prova: FMP Concursos - 2011 - TCE-RS - Auditor Público Externo - Ciências Jurídicas e Sociais",
-    "enunciado": "Em matéria de lei penal, observe as seguintes afirmativas:  I. É possível a edição de medida provisória relativa a direito penal, desde que em benefício do réu.  II. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais benéfica ao crime permanente, se a sua vigência é anterior à cessação da permanência.  III. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais grave ao crime continuado, se a sua vigência é anterior à cessação da continuidade.  IV. Consoante entendimento mais recente do Supremo Tribunal Federal, é possível a combinação de leis penais para beneficiar o réu.  Pode-se afirmar que:",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "todas as assertivas estão corretas."
-      },
-      {
-        "letra": "B",
-        "texto": "estão corretas somente as alternativas I e II."
-      },
-      {
-        "letra": "C",
-        "texto": "estão corretas somente as alternativas III e IV."
-      },
-      {
-        "letra": "D",
-        "texto": "estão corretas somente as alternativas II e IV."
-      },
-      {
-        "letra": "E",
-        "texto": "está correta somente a alternativa III."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q87584_2",
-    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRE-RN | Prova: FCC - 2011 - TRE-RN - Analista Judiciário - Área Judiciária",
-    "enunciado": "João subtraiu, mediante destreza, a carteira do bolso de Paulo, contendo R$ 1.000,00 em dinheiro. Nesse caso, o sujeito passivo do crime é",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "o Estado."
-      },
-      {
-        "letra": "B",
-        "texto": "Paulo."
-      },
-      {
-        "letra": "C",
-        "texto": "o patrimônio."
-      },
-      {
-        "letra": "D",
-        "texto": "a paz pública."
-      },
-      {
-        "letra": "E",
-        "texto": "a coletividade."
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q319513_2",
-    "metadata": "Ano: 2010 | Banca: CEPERJ | Órgão: SEFAZ-RJ | Prova: CEPERJ - 2010 - SEFAZ-RJ - Oficial de Fazenda",
-    "enunciado": "No Direito Penal, a necessidade de a norma ser complementada por outra de nível diverso denomina-se:",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "norma penal em branco em sentido amplo"
-      },
-      {
-        "letra": "B",
-        "texto": "norma penal em branco em sentido estrito"
-      },
-      {
-        "letra": "C",
-        "texto": "norma penal não incriminadora"
-      },
-      {
-        "letra": "D",
-        "texto": "norma penal regulamentar"
-      },
-      {
-        "letra": "E",
-        "texto": "norma penal especial"
-      }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q190691_2",
-    "metadata": "Ano: 2010 | Banca: FESMIP-BA | Órgão: MPE-BA | Prova: FESMIP-BA - 2010 - MPE-BA - Promotor de Justiça - Prova amarela",
-    "enunciado": "A problemática do bem jurídico, merecedor da tutela penal, é assunto de alta sensibilidade nos dias atuais, na medida em que o direito penal contemporâneo lida, frequentemente, com questões concernentes a bens jurídicos coletivos e de alta complexidade na sua consideração, inclusive para o debate na doutrina nacional, sobretudo quando busca diferenciar bens jurídicos e funções. Assim, a tendencia de espiritualização dos bens jurídicos é um dos grandes desafios do estágio atual da dogmática penal. Nesse cenário de ideias, seria correto afirmar:  I - A radicalização da tendencia da espiritualização dos bens jurídicos protegidos penalmente não envolve nenhum risco para um direito penal de um Estado Democrático, antes, pelo contrário, aumenta consideravelmente as garantias individuais.  II - A tendencia de “espiritualização” dos bens jurídicos pode ser suficientemente mitigada com a simples redução à sua característica de pessoalidade, isto é, que interesse, antes de tudo, à pessoa humana.  III - A tendencia de “espiritualização” dos bens jurídicos pode ser concretamente mitigada com a consideração conjunta da noção de pessoalidade com a de substancialidade, e não ser deduzida apenas de um dado normativo.  IV - A noção de bem jurídico, neste contexto, não pode ter como objeto de proteção da norma situação referentes à moralidade pública, aos bons costumes, ao sentimento do povo e outras semelhantes.  V - O bem jurídico, portanto, como advertia Roxin, nada tem a ver com o caráter de objeto valorado, prescindindo assim de qualquer alteração do mundo exterior ou juízo de valor de qualquer natureza.",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "Somente a alternativa I é verdadeira."
-      },
-      {
-        "letra": "B",
-        "texto": "As alternativas II e V são verdadeiras."
-      },
-      {
-        "letra": "C",
-        "texto": "Somente a alternativa II é verdadeira."
-      },
-      {
-        "letra": "D",
-        "texto": "As alternativas III e IV são verdadeiras."
-      },
-      {
-        "letra": "E",
-        "texto": "As alternativas II e V são verdadeiras."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q75410_2",
-    "metadata": "Ano: 2010 | Banca: FEPESE | Órgão: UDESC | Prova: FEPESE - 2010 - UDESC - Advogado",
-    "enunciado": "Assinale a alternativa **correta.**",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "O princípio da humanidade das penas está consagrado na Constituição Federal."
-      },
-      {
-        "letra": "B",
-        "texto": "O princípio da aplicação da lei mais benéfica não é utilizado pelo direito penal."
-      },
-      {
-        "letra": "C",
-        "texto": "O princípio da intervenção mínima não se confunde com o principio da *ultima ratio.*"
-      },
-      {
-        "letra": "D",
-        "texto": "Por força do princípio da insignificância não são punidos os crimes de menor potencial ofensivo."
-      },
-      {
-        "letra": "E",
-        "texto": "A existência de crimes funcionais ofende o princípio da igualdade."
-      }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q61010_2",
-    "metadata": "Ano: 2010 | Banca: FCC | Órgão: DPE-SP | Prova: FCC - 2010 - DPE-SP - Defensor Público",
-    "enunciado": "O postulado da fragmentariedade em matéria penal relativiza",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "a proporcionalidade entre o fato praticado e a consequência jurídica."
-      },
-      {
-        "letra": "B",
-        "texto": "a dignidade humana como limite material à atividade punitiva do Estado."
-      },
-      {
-        "letra": "C",
-        "texto": "o concurso entre causas de aumento e diminuição de penas."
-      },
-      {
-        "letra": "D",
-        "texto": "a função de proteção dos bens jurídicos atribuída à lei penal."
-      },
-      {
-        "letra": "E",
-        "texto": "o caráter estritamente pessoal que decorre da norma penal."
-      }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q81166_2",
-    "metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: PC-RN | Prova: CESPE - 2009 - PC-RN - Delegado de Polícia",
-    "enunciado": "Cabe ao legislador, na sua propícia função, proteger os mais diferentes tipos de bens jurídicos, cominando as respectivas sanções, de acordo com a importância para a sociedade. Assim, haverá o ilícito administrativo, o civil, o penal etc. Este último é o que interessa ao direito penal, justamente por proteger os bens jurídicos mais importantes (vida, liberdade, patrimônio, liberdade sexual, administração pública etc.). O direito penal",
-    "alternativas": [
-      {
-        "letra": "A",
-        "texto": "tem natureza fragmentária, ou seja, somente protege os bens jurídicos mais importantes, pois os demais são protegidos pelos outros ramos do direito."
-      },
-      {
-        "letra": "B",
-        "texto": "tem natureza minimalista, pois se ocupa, inclusive, dos bens jurídicos de valor irrisório."
-      },
-      {
-        "letra": "C",
-        "texto": "tem natureza burguesa, pois se volta, exclusivamente, para a proteção daqueles que gerenciam o poder produtivo e a economia estatal."
-      },
-      {
-        "letra": "D",
-        "texto": "é ramo do direito público e privado, pois protege bens que pertencem ao Estado, assim como aqueles de propriedade individualizada."
-      },
-      {
-        "letra": "E",
-        "texto": "admite a perquirição estatal por crimes não previstos estritamente em lei, assim como a retroação da *lex gravior* ."
-      }
-    ],
-    "gabarito": "A"
-  }
+{
+"id": "78153492",
+"metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+
+
+"enunciado_principal": "A respeito da contagem de prazo no Código Penal, é correto afirmar que",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "o ano penal é composto de apenas trezentos e sessenta dias." },
+{ "letra": "B", "texto": "o dia do começo inclui-se no cômputo do prazo." },
+{ "letra": "C", "texto": "os dias, os meses e os anos não são contados pelo calendário comum." },
+{ "letra": "D", "texto": "o dia do fim não se inclui no cômputo do prazo." },
+{ "letra": "E", "texto": "os sábados e domingos são desprezados no cômputo do prazo." }
+],
+"gabarito": "B"
+},
+{
+"id": "19406538",
+"metadata": "Ano: 2014 | Banca: IADES | Órgão: METRÔ-DF",
+
+
+"enunciado_principal": "Em relação ao conceito, às funções e aos caracteres do direito penal, assinale a alternativa correta.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "O direito penal é o setor ou parcela do ordenamento jurídico público, que estabelece as ações ou omissões delitivas, cominando-lhes penas, medidas de segurança ou trabalho forçado." },
+{ "letra": "B", "texto": "Do ponto de vista material, integra-se por normas jurídicas (mandatos e proibições) que criam o injusto penal e suas respectivas consequências jurídicas." },
+{ "letra": "C", "texto": "A função primordial do direito penal radica na proteção de bens jurídico – penais – bens do Direito – essenciais ao país e à comunidade." },
+{ "letra": "D", "texto": "A missão do direito penal é proteger a convivência humana, assegurando-se, por meio da coação estatal, a inquebrantabilidade da ordem jurídica." },
+{ "letra": "E", "texto": "O direito penal não se presta à tutela de bens ou interesses difusos ou coletivos." }
+],
+"gabarito": "D"
+},
+{
+"id": "36210457",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+
+
+"enunciado_principal": "Com referência a fundamentos e noções gerais aplicadas ao direito penal, julgue o próximo item.",
+
+
+"itens_assertiva": [
+"Em matéria penal, os tratados e as convenções internacionais, após serem referendados pelo Congresso Nacional, constituem fontes imediatas do direito penal e têm eficácia *erga omnes* ."
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "89502174",
+"metadata": "Ano: 2013 | Banca: COPESE - UFPI | Órgão: Prefeitura de Parnaíba - PI",
+
+
+"enunciado_principal": "Sobre o uso de algemas, é CORRETO afirmar que:",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Não há necessidade de justificativa, por escrito, do emprego de algemas por parte da autoridade ou de agentes públicos." },
+{ "letra": "B", "texto": "O uso indevido de algemas por autoridades ou agentes públicos não implica quaisquer responsabilidades para o Estado." },
+{ "letra": "C", "texto": "O uso de algemas é permitido, desde que haja fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, com justificativa por escrito." },
+{ "letra": "D", "texto": "Fica a critério da autoridade ou do agente público o uso de algemas diante das circunstâncias reais que envolvem o caso concreto." },
+{ "letra": "E", "texto": "O uso indevido de algemas não pode resultar na nulidade da prisão e em qualquer consequência processual." }
+],
+"gabarito": "C"
+},
+{
+"id": "45091238",
+"metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-SP",
+
+
+"enunciado_principal": "Sobre a relação entre o sistema penal brasileiro contemporâneo e a Constituição Federal, é correto afirmar que:",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "o princípio constitucional da humanidade das penas encontra ampla efetividade no Brasil, diante da adequação concreta das condições de aprisionamento aos tratados internacionais de direitos humanos." },
+{ "letra": "B", "texto": "o princípio constitucional da legalidade restringe-se à tipificação de condutas como crimes, não abarcando as faltas disciplinares em execução penal." },
+{ "letra": "C", "texto": "o estereótipo do criminoso não contribui para o processo de criminalização, pois violaria o princípio constitucional da não discriminação." },
+{ "letra": "D", "texto": "a seletividade do sistema penal brasileiro, por ser um problema conjuntural, poderia ser resolvida com a aplicação do princípio da igualdade nas ações policiais." },
+{ "letra": "E", "texto": "o princípio constitucional da intranscendência da pena não é capaz de impedir a estigmatização e práticas violadoras de direitos humanos de familiares de pessoas presas." }
+],
+"gabarito": "E"
+},
+{
+"id": "22867015",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: SEGESP-AL",
+
+
+"enunciado_principal": "No que se refere aos crimes contra a fé pública e contra o patrimônio e à imputabilidade, julgue os itens seguintes.",
+
+
+"itens_assertiva": [
+"Se uma lei ordinária alterar o Código Penal para estabelecer a maioridade penal aos dezesseis anos, será julgada inconstitucional, pois a Constituição Federal de 1988 dispõe expressamente que são penalmente inimputáveis os menores de dezoito anos de idade."
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "57912480",
+"metadata": "Ano: 2013 | Banca: IBFC | Órgão: PC-RJ",
+
+
+"enunciado_principal": "O princípio da reserva legal constitui-se na garantia individual de que o poder de punir do Estado em matéria penal será exercido nos limites da norma positivada, permitindo a criação de tipos penais incriminadores e a instituição de penas por intermédio de:",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Qualquer espécie normativa, desde que elaborada em observância ao regular processo administrativo ou legislativo." },
+{ "letra": "B", "texto": "Lei ordinária e medida provisória, já que esta última também possui força de lei até que seja submetida a regular processo legislativo." },
+{ "letra": "C", "texto": "Decreto legislativo, já que são funções exclusivas do Poder Legislativo a criação de direito novo, a imposição de obrigações de caráter geral e a definição de sanções jurídicas." },
+{ "letra": "D", "texto": "Decreto-lei, regularmente elaborado no exercício do poder administrativo-normativo do chefe do Poder Executivo, já que o ato de legislar encontra-se no feixe de atribuições típicas deste Poder." },
+{ "letra": "E", "texto": "Lei em sentido estrito, entendida esta como a espécie normativa aprovada em regular processo legislativo levado a efeito no âmbito do Poder Legislativo." }
+],
+"gabarito": "E"
+},
+{
+"id": "10983756",
+"metadata": "Ano: 2013 | Banca: MPDFT | Órgão: MPDFT",
+
+
+"enunciado_principal": "Assinale a alternativa que  **NÃO SE AJUSTA**  à doutrina do garantismo penal, em sua concepção clássica:",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A interpretação da lei nunca é uma atividade exclusivamente recognitiva, mas é sempre fruto de uma escolha prática a respeito de hipóteses interpretativas alternativas." },
+{ "letra": "B", "texto": "O problema do garantismo penal é elaborar técnicas no plano teórico, torná-las vinculantes no plano normativo e assegurar sua efetividade no plano prático." },
+{ "letra": "C", "texto": "Na aplicação da lei penal, o julgador, preocupado com a legitimação da atividade jurisdicional e com a adesão social a seus atos, deve orientar suas decisões em conformidade com o consenso geral da população." },
+{ "letra": "D", "texto": "O direito penal é necessário como técnica institucional de minimização da reação violenta ao desvio socialmente não tolerado e como garantia do acusado contra os arbítrios, os excessos e os erros conexos a formas não jurídicas de controle social." },
+{ "letra": "E", "texto": "As garantias penais não servem tanto para legitimar ou validar, senão mais para deslegitimar o abuso da potestade punitiva." }
+],
+"gabarito": "C"
+},
+{
+"id": "67345021",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+
+
+"enunciado_principal": "Julgue os itens seguintes, referentes à interpretação da lei penal, às causas de exclusão da culpabilidade e às causas de extinção da punibilidade.",
+
+
+"itens_assertiva": [
+"Pela analogia, meio de interpretação extensiva, busca-se alcançar o sentido exato do texto de lei obscura ou incerta, admitindo-se, em matéria penal, apenas a analogia *in bonam partem.*"
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "45903218",
+"metadata": "Ano: 2013 | Banca: MPE-SC | Órgão: MPE-SC",
+
+
+"enunciado_principal": "ANALISE O ENUNCIADO DA QUESTÃO ABAIXO E ASSINALE \"CERTO\" (C) OU \"ERRADO\" (E)",
+
+
+"itens_assertiva": [
+"Em sede de Política Criminal, o Direito Penal de segunda velocidade, identificado, por exemplo, quando da edição das Leis dos Crimes Hediondos e do Crime Organizado, compreende a utilização da pena privativa de liberdade e a permissão de uma flexibilização de garantias materiais e processuais."
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "81206574",
+"metadata": "Ano: 2013 | Banca: MPE-SC | Órgão: MPE-SC",
+
+
+"enunciado_principal": "ANALISE O ENUNCIADO DA QUESTÃO ABAIXO E ASSINALE \"CERTO\" (C) OU \"ERRADO\" (E)",
+
+
+"itens_assertiva": [
+"A interpretação, quanto aos meios empregados, divide-se em gramatical, literal ou sintática; e lógica ou teleológica. Se houver contradição entre as conclusões da interpretação literal e lógica, deverá a esta prevalecer. A interpretação teleológica se vale dos seguintes elementos: *ratio legis*; sistemático; histórico; Direito Comparado; extrapenal e extrajurídico."
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "23487095",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+
+
+"enunciado_principal": "Assinale a opção correta acerca da interpretação da lei penal",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A interpretação extensiva é admitida em direito penal para estender o sentido e o alcance da norma até que se atinja sua real acepção." },
+{ "letra": "B", "texto": "A interpretação analógica não é admitida em direito penal porque prejudica o réu." },
+{ "letra": "C", "texto": "A interpretação teleológica consiste em extrair o sentido e o alcance da norma de acordo com a posição da palavra na estrutura do texto legal." },
+{ "letra": "D", "texto": "A analogia penal permite ao juiz atuar para suprir a lacuna da lei, desde que isso favoreça o réu." },
+{ "letra": "E", "texto": "A interpretação judicial da lei penal se manifesta na edição de súmulas vinculantes editadas pelos tribunais." }
+],
+"gabarito": "A"
+},
+{
+"id": "50678913",
+"metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+
+
+"enunciado_principal": "A respeito de aspectos diversos dos crimes bem como dos princípios aplicáveis ao direito penal, assinale a opção correta de acordo com as disposições do CP e da doutrina penal.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Caracteriza situação de arrependimento eficaz o caso do agente que, durante a ação, diz para si “posso prosseguir, mas não quero” e encerra sua empreitada criminosa." },
+{ "letra": "B", "texto": "Chama-se de dolo direto de segundo grau aquele que se dirige em relação ao fim proposto e aos meios escolhidos." },
+{ "letra": "C", "texto": "Norma penal em branco homogênea, ou em sentido amplo, é aquela cujo complemento é oriundo da mesma fonte legislativa que editou a norma que necessita desse complemento." },
+{ "letra": "D", "texto": "Negligente é o agente que pratica um ato perigoso sem os cuidados que o caso requer." },
+{ "letra": "E", "texto": "No erro de tipo essencial incriminador, o erro recai sobre os pressupostos fáticos de uma causa de justificação, isto é, excludente de ilicitude, que se encontra em tipos penais permissivos." }
+],
+"gabarito": "C"
+},
+{
+"id": "93450127",
+"metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+
+
+"enunciado_principal": "Em relação à analogia, assinale a opção correta.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A analogia só ocorre na hipótese de aplicação de lei, sendo vedada a utilização de entendimento firmado em súmula de tribunal superior analogicamente a outra situação semelhante." },
+{ "letra": "B", "texto": "A analogia em direito penal, em regra, só pode ser utilizada em razão da ausência de norma regulamentadora, da presença de lacuna na lei ou da existência de lei desproporcional." },
+{ "letra": "C", "texto": "A analogia, forma de autointegração da lei, não constitui fonte mediata do direito, podendo ser utilizada em relação a normas permissivas e incriminadoras." },
+{ "letra": "D", "texto": "A jurisprudência do STJ admite, no âmbito do direito penal, a aplicação de analogia de normas de direito civil ou processual civil, ainda que resulte na condenação do réu." },
+{ "letra": "E", "texto": "O uso do instituto da analogia pressupõe, necessariamente, uma lacuna involuntária da norma em vigor." }
+],
+"gabarito": "E"
+},
+{
+"id": "11987654",
+"metadata": "Ano: 2012 | Banca: VUNESP | Órgão: TJ-MG",
+
+
+"enunciado_principal": "Leia atentamente as assertivas a seguir.",
+
+
+"itens_assertiva": [
+"I. Pode-se afirmar que, na história do Direito Penal Brasileiro, as Ordenações Filipinas foram substituídas pelo Código Criminal do Império de 1830.",
+"II. A interpretação da lei é autêntica contextual quando o julgador, dentro de um determinado contexto fático, aplica-a.",
+"III. O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelo crime tentado.",
+"IV. O erro sobre o elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei."
+],
+
+
+"enunciado_pergunta": "Está correto apenas o que se afirma em",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "I e II" },
+{ "letra": "B", "texto": "I e IV." },
+{ "letra": "C", "texto": "III e IV." },
+{ "letra": "D", "texto": "I, III e IV." }
+],
+"gabarito": "B"
+},
+{
+"id": "67018942",
+"metadata": "Ano: 2012 | Banca: PC-SP | Órgão: PC-SP",
+
+
+"enunciado_principal": "Com relação às fontes do Direito Penal, é correto dizer que as fontes formais são classificadas em",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "materiais e de cognição." },
+{ "letra": "B", "texto": "imediata e substancial" },
+{ "letra": "C", "texto": "mediata e de produção." },
+{ "letra": "D", "texto": "mediata e imediata" },
+{ "letra": "E", "texto": "exclusivamente de cognição." }
+],
+"gabarito": "D"
+},
+{
+"id": "30145672",
+"metadata": "Ano: 2012 | Banca: PC-SP | Órgão: PC-SP",
+
+
+"enunciado_principal": "Assinale a alternativa que contenha o nome de uma elogiada legislação brasileira que, apos debates acalorados, manteve a pena de morte dentre as sanções penais e que foi responsável pela criação do sistema de dias-multa.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Código Penal da República (1890)." },
+{ "letra": "B", "texto": "Código Criminal do Império (1830)." },
+{ "letra": "C", "texto": "Consolidação das Leis Penais (1932)" },
+{ "letra": "D", "texto": "Ordenações Filipinas (1603)" },
+{ "letra": "E", "texto": "Código Penal (1940). V" }
+],
+"gabarito": "B"
+},
+{
+"id": "58341760",
+"metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+
+
+"enunciado_principal": "Julgue os itens a seguir com base no direito penal.",
+
+
+"itens_assertiva": [
+"O fato de determinada conduta ser considerada crime somente se estiver como tal expressamente prevista em lei não impede, em decorrência do princípio da anterioridade, que sejam sancionadas condutas praticadas antes da vigência de norma excepcional ou temporária que as caracterize como crime."
+],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "97420513",
+"metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+
+
+"enunciado_principal": "Acerca dos princípios aplicáveis ao direito penal, assinale a opção correta.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "O princípio da adequação social, dirigido ao julgador, e não ao legislador, objetiva restringir a abrangência do tipo penal, limitando sua interpretação e dele excluindo as condutas consideradas socialmente adequadas e aceitas pela sociedade." },
+{ "letra": "B", "texto": "Dada a necessidade de observância do princípio da legalidade, a tipicidade penal resume-se ao mero exercício de adequação do fato concreto à norma abstrata." },
+{ "letra": "C", "texto": "O princípio da lesividade busca evitar a incriminação de condutas desviadas que não afetem qualquer bem jurídico, não cuidando de condutas que não excedam o âmbito do próprio autor." },
+{ "letra": "D", "texto": "A jurisprudência do STJ é firme no sentido da aplicabilidade do princípio da insignificância ao delito de moeda falsa, caso o valor das cédulas falsificadas não ultrapasse a quantia correspondente a um salário mínimo." },
+{ "letra": "E", "texto": "A aplicação do princípio da insignificância, que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado, objetiva excluir ou afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material." }
+],
+"gabarito": "E"
+},
+{
+"id": "41692853",
+"metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+
+
+"enunciado_principal": "Assinale a opção correta com referência às fontes de direito penal.",
+
+
+"itens_assertiva": [],
+
+
+"enunciado_pergunta": "",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Fontes formais mediatas do direito penal, os costumes qualificam-se como princípio consuetudinário com a mera repetição mecânica de uma regra de conduta." },
+{ "letra": "B", "texto": "A jurisprudência, entendida como a repetição de decisões em um mesmo sentido, emanadas dos tribunais, é fonte de criação do direito penal." },
+{ "letra": "C", "texto": "Quando serve de orientação ao legislador, mediante a formação de comissões prévias de estudos, a doutrina passa a ser fonte formal mediata do direito penal." },
+{ "letra": "D", "texto": "A lei, fonte material do direito penal, constitui a expressão suprema da vontade do Estado, a que outras fontes se condicionam e se subordinam." },
+{ "letra": "E", "texto": "A doutrina e a jurisprudência podem ter influência mais ou menos direta na sanção e modificação das leis, mas não são fontes do direito penal." }
+],
+"gabarito": "E"
+}
 ]
