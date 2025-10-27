@@ -37,7 +37,7 @@
              border-color: #34D399; /* Tailwind green-400 */
         }
         
-        /* Oculta os spinners de inputs numéricos (embora não estejamos usando, é bom ter) */
+        /* Oculta os spinners de inputs numéricos */
         input[type='number']::-webkit-inner-spin-button,
         input[type='number']::-webkit-outer-spin-button {
             -webkit-appearance: none;
@@ -129,9 +129,7 @@
             });
             selectTema.addEventListener('change', resetarEstadoProva);
             
-            // ***** ALTERAÇÃO APLICADA AQUI *****
             // O botão agora tem uma única função: carregar a prova.
-            // A função carregarProva() já limpa a prova anterior.
             btnCarregarProva.addEventListener('click', () => {
                 carregarProva();
             });
@@ -158,10 +156,14 @@
             const temas = dbDisciplinas[disciplinaKey]?.temas || {};
             
             selectTema.innerHTML = ''; // Limpa opções anteriores
+            
             // ***** CORREÇÃO APLICADA AQUI *****
-            // Iterar sobre 'temas', não 'dbDisciplinas'
-            for (const [chave, valor] of Object.entries(temas)) {
-                const option = new Option(valor, chave);
+            // 1. Corrigido o bug [object Object] que você viu no screenshot.
+            // 2. Lendo a nova estrutura de 'temas' do config.js
+            for (const [chave, valorObj] of Object.entries(temas)) {
+                // Agora 'valorObj' é { nome: "Calúnia", provas: 10 }
+                // Usamos 'valorObj.nome' para o texto exibido.
+                const option = new Option(valorObj.nome, chave);
                 selectTema.add(option);
             }
         }
@@ -183,10 +185,6 @@
             }
         }
         
-        // ***** ALTERAÇÃO APLICADA AQUI *****
-        // A função resetarProvaCompleta() foi removida pois não é mais necessária.
-        // A lógica de carregarProva() já limpa a tela.
-
         /**
          * Busca o arquivo JSON e exibe a prova.
          */
@@ -194,8 +192,27 @@
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
 
-            // Escolhe aleatoriamente uma prova de p1.json a p10.json
-            const provaNum = Math.floor(Math.random() * 10) + 1;
+            // ***** ALTERAÇÃO APLICADA AQUI *****
+            // Busca o número de provas diretamente do objeto 'dbDisciplinas'
+            const temaInfo = dbDisciplinas[disciplinaKey]?.temas[temaKey];
+            
+            // Validação para garantir que o config.js está correto
+            if (!temaInfo || !temaInfo.provas || temaInfo.provas === 0) {
+                console.error("Informação de tema não encontrada ou 'provas' não definido (ou é 0) em config.js", temaInfo);
+                divStatus.innerHTML = `
+                    <p class="font-semibold text-red-600">Erro de configuração.</p>
+                    <p class="text-sm text-gray-500 mt-1">O tema selecionado (<b>${temaKey}</b>) não tem um número de provas (<b>provas: ...</b>) definido no arquivo <b>config.js</b>.</p>
+                `;
+                return; // Para a execução se o config.js estiver errado
+            }
+            
+            // 1. Pega o número de provas (ex: 4)
+            const numProvas = temaInfo.provas; 
+            
+            // 2. Sorteia um número de 1 até o número máximo de provas
+            const provaNum = Math.floor(Math.random() * numProvas) + 1;
+            
+            // 3. Monta a URL (ex: p1.json, p2.json, p3.json ou p4.json)
             const url = `data/${disciplinaKey}/${temaKey}/p${provaNum}.json`;
 
             console.log(`Tentando carregar: ${url}`);
@@ -233,7 +250,7 @@
                 divStatus.innerHTML = `
                     <p class="font-semibold text-red-600">Erro ao carregar a prova.</p>
                     <p class="text-sm text-gray-500 mt-2">Não foi possível encontrar o arquivo: <strong>${url}</strong></p>
-                    <p class="text-sm text-gray-500 mt-1"><strong>Lembre-se:</strong> O preview não funciona. Você precisa hospedar os arquivos (ex: GitHub Pages) para que o simulador possa carregar os dados.</p>
+                    <p class="text-sm text-gray-500 mt-1"><strong>Lembre-se:</strong> Verifique se a pasta e o nome do ficheiro .json existem no seu GitHub e se o número de provas em <b>config.js</b> está correto.</p>
                 `;
             } finally {
                 btnCarregarProva.disabled = false;
@@ -436,7 +453,7 @@
             const urlQuery = encodeURIComponent(promptCompleto);
             
             // 3. Abre o Google Search (com o objetivo de ativar o modo IA)
-            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
+            const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
             
             window.open(googleUrl, '_blank');
         }
@@ -444,9 +461,5 @@
         // --- 5. Inicialização ---
         
         // Espera o DOM estar pronto e inicializa
-        document.addEventListener('DOMContentLoaded', init);
-
-    </script>
-</body>
-</html>
+        document.addEventListener('
 
