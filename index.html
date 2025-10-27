@@ -113,7 +113,10 @@
 
         <!-- Controles de Seleção --><section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
             <!-- Linha 1: Dropdowns -->
-            <div class="flex flex-col sm:flex-row gap-4 items-center">
+            <!-- ***** AJUSTE APLICADO AQUI ***** -->
+            <!-- Trocado sm:items-center por sm:items-start para alinhar ao topo no desktop -->
+            <div class="flex flex-col sm:flex-row gap-4 items-center sm:items-start"> 
+            <!-- ***** FIM DO AJUSTE ***** -->
                 <!-- Dropdown Disciplina --><div class="w-full sm:w-1/2">
                     <label for="selectDisciplina" class="block text-sm font-medium text-gray-700 mb-1">Disciplina</label>
                     <select id="selectDisciplina" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
@@ -125,14 +128,14 @@
                     <select id="selectTema" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
                         <!-- Opções carregadas via JS --></select>
                     
-                    <!-- ***** NOVO CONTADOR DE PROVA ***** -->
+                    <!-- Contador de Prova -->
                     <div id="divContadorProva" class="hidden text-sm font-medium text-gray-600 mt-2 ml-1">
                         <!-- Contador carregado via JS -->
                     </div>
                 </div>
             </div>
 
-            <!-- Linha 2: Histórico (LocalStorage) - Agora só aparece APÓS carregar prova específica -->
+            <!-- Linha 2: Histórico (LocalStorage) -->
             <div id="divHistorico" class="hidden mt-4 p-3 bg-blue-50 border border-blue-200 rounded-md text-sm text-blue-800">
                 <!-- Histórico carregado via JS -->
             </div>
