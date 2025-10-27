@@ -1,0 +1,286 @@
+[
+{
+"id": "89123456",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-RN",
+"enunciado_principal": "João, brasileiro nato, cometeu um crime de homicídio nos Estados Unidos da América, tendo logrado se evadir para Holanda. Nesse cenário, considerando as disposições do Código Penal, para que João responda, no Brasil, pelo crime perpetrado, será necessário que ele:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "entre no território nacional ou tenha representante legal constituído; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter João cumprido pena no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira. Registre-se que, em caso de absolvição no exterior, a jurisdição brasileira não estará vinculada, em razão da soberania do Brasil;" },
+{ "letra": "B", "texto": "entre no território nacional ou tenha representante legal constituído; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira;" },
+{ "letra": "C", "texto": "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei mais favorável:" },
+{ "letra": "D", "texto": "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; não estar extinta a punibilidade, segundo a lei mais favorável; e que, pedida a extradição, esta tenha sido negada pelas autoridades brasileiras competentes;" },
+{ "letra": "E", "texto": "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira." }
+],
+"gabarito": "E"
+},
+{
+"id": "10293847",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MT",
+"enunciado_principal": "Para fins de incidência da lei brasileira, o Código Penal regulamenta o tempo e o lugar do crime. De acordo com o referido diploma normativo, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei brasileira é aplicável aos crimes ocorridos a bordo de embarcações e aeronaves públicas estrangeiras, quando atracadas em porto ou em pouso em solo nacional." },
+{ "letra": "B", "texto": "Para fins de aplicação da lei penal no tempo e no espaço, considera-se praticado o crime no lugar e no momento da ação e do resultado." },
+{ "letra": "C", "texto": "A lei temporária é aplicada ao fato praticado durante sua vigência, embora decorrido o período de sua duração, exceto se cessadas as circunstâncias que a determinaram." },
+{ "letra": "D", "texto": "As embarcações brasileiras, de natureza pública ou privada, que estejam em alto-mar ou em mar territorial brasileiro, são consideradas extensão do território nacional." },
+{ "letra": "E", "texto": "O atentado à vida do presidente da República é o caso de extraterritorialidade condicionada da lei penal brasileira, devendo o autor do fato ingressar em território nacional." }
+],
+"gabarito": "C"
+},
+{
+"id": "76543210",
+"metadata": "Ano: 2023 | Banca: Instituto Access | Órgão: Prefeitura de Ribeirão Preto - SP",
+"enunciado_principal": "No caso da extraterritorialidade condicionada, a lei brasileira vai ser aplicada de forma subsidiária. Os casos de crimes estão previstos no inciso II do artigo 7º do Código Penal:",
+"itens_assertiva": [
+"I. que, por tratado ou convenção, o Brasil se obrigou a reprimir;",
+"II. praticados por brasileiro;",
+"III. praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e aí não sejam julgados."
+],
+"enunciado_pergunta": "Analise os itens acima e assinale",
+"alternativas": [
+{ "letra": "A", "texto": "se apenas os itens I e II estiverem corretos." },
+{ "letra": "B", "texto": "se apenas os itens I e III estiverem corretos." },
+{ "letra": "C", "texto": "se apenas os itens II e III estiverem corretos." },
+{ "letra": "D", "texto": "se nenhum item estiver correto." },
+{ "letra": "E", "texto": "se todos os itens estiverem corretos." }
+],
+"gabarito": "E"
+},
+{
+"id": "98765432",
+"metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+"enunciado_principal": "Com relação ao Código Penal brasileiro e o tempo e lugar do crime, assinale a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Considera-se praticado o crime no momento da ação ou omissão, concomitantemente ao momento do resultado." },
+{ "letra": "B", "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão no todo, independentemente do local onde ocorreu o resultado." },
+{ "letra": "C", "texto": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência." },
+{ "letra": "D", "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública no território brasileiro ou em alto-mar, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar." }
+],
+"gabarito": "C"
+},
+{
+"id": "11223344",
+"metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+"enunciado_principal": "Conforme as disposições do Código Penal pátrio (Dec. Lei n.º 2.848/1940) acerca da aplicação da lei penal, assinale a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei brasileira aplica-se também ao crime cometido por estrangeiro contra brasileiro fora do Brasil ainda que não tenha sido pedida a extradição." },
+{ "letra": "B", "texto": "A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando idênticas." },
+{ "letra": "C", "texto": "A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas consequências, pode ser homologada no Brasil para sujeitar o condenado a medida de segurança." },
+{ "letra": "D", "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras mercantes ou de propriedade privada, onde quer que se encontrem." }
+],
+"gabarito": "B"
+},
+{
+"id": "22334455",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+"enunciado_principal": "De acordo com o princípio da bagatela imprópria, julgue o item que se segue.",
+"itens_assertiva": [],
+"enunciado_pergunta": "O crime permanente é aquele cujo resultado prolonga-se no tempo, atraindo a aplicação da lei penal vigente ao término do resultado.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "33445566",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Em caso de crime que, por tratado, o Brasil se obrigue a reprimir, há extraterritorialidade incondicionada.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "44556677",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Aplica-se o princípio da extraterritorialidade aos crimes praticados em aeronaves e embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "55667788",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: CGE-SC",
+"enunciado_principal": "Luiza é servidora pública federal e presta seus serviços no Consulado Geral Brasileiro localizado em determinado país estrangeiro. Neste país, uma investigação concluiu que Luiza e outros trabalhadores, de diversos consulados, em conjunto, formaram organização criminosa que fraudava contratos de empresas locais com consulados, gerando prejuízo aos cofres públicos dos respectivos países. Por tais fatos, Luiza foi condenada a uma pena de prisão, cumpriu a sentença no respectivo País, e, posteriormente, retornou ao Brasil. Os fatos relatados constituem crime perante a lei brasileira, sujeitando os infratores às penas de reclusão. Sobre a hipótese narrada, e de acordo com o Código Penal, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Luiza não poderá ser punida no Brasil pelos fatos praticados no estrangeiro, pois a lei penal brasileira tem uma limitação territorial, sendo inaplicável aos fatos ocorridos no exterior." },
+{ "letra": "B", "texto": "Luiza não poderá ser punida no Brasil pelos mesmos fatos, desde que Luiza postule a homologação da sentença penal estrangeira no Brasil." },
+{ "letra": "C", "texto": "Luiza poderá ser punida no Brasil em razão dos mesmos fatos praticados no exterior, desconsiderando-se as penas aplicadas pelo estado estrangeiro." },
+{ "letra": "D", "texto": "Luiza poderá ser punida no Brasil em razão dos mesmos fatos praticados no exterior, computando-se, contudo, as penas cumpridas no estrangeiro." },
+{ "letra": "E", "texto": "Luiza somente poderia ser punida no Brasil caso houvesse sido absolvida no Estado Estrangeiro, em razão dos mesmos fatos." }
+],
+"gabarito": "D"
+},
+{
+"id": "66778899",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+"enunciado_principal": "Considerando os princípios do direito penal e as disposições referentes à aplicação da lei penal no tempo e no espaço, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Para efeitos penais, consideram-se como extensão do território nacional as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "77889900",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+"enunciado_principal": "A partir dessa situação hipotética e considerando o direito penal vigente, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Ainda que praticados em outro país, os crimes de genocídio ficam sujeitos à lei brasileira quando o agente for domiciliado no Brasil.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "88990011",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-PA",
+"enunciado_principal": "Está sujeito à lei brasileira o crime",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "praticado em embarcação estrangeira na zona econômica exclusiva brasileira." },
+{ "letra": "B", "texto": "praticado em embarcação privada brasileira atracada em país estrangeiro, se o agente tiver sido condenado no referido país." },
+{ "letra": "C", "texto": "contra a honra do presidente da República praticado no exterior." },
+{ "letra": "D", "texto": "praticado em embarcação privada de bandeira brasileira em mar territorial de país estrangeiro signatário do MERCOSUL." },
+{ "letra": "E", "texto": "de genocídio, quando o agente for absolvido no país estrangeiro, mesmo sendo domiciliado no Brasil." }
+],
+"gabarito": "D"
+},
+{
+"id": "99001122",
+"metadata": "Ano: 2022 | Banca: IASD | Órgão: Prefeitura de Fortuna - MA",
+"enunciado_principal": "Referente à lei penal brasileira, se tratando da territorialidade, marque a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Para os fins penais, não há como considerar alcance do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem." },
+{ "letra": "B", "texto": "Para os efeitos penais, não se consideram como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, considerando os efeitos constitucionais." },
+{ "letra": "C", "texto": "Para os efeitos penais, consideram-se como parte do território nacional apenas as embarcações e aeronaves brasileiras que estejam exclusivamente em combate, a serviço do governo brasileiro, onde quer que se encontrem." },
+{ "letra": "D", "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem." },
+{ "letra": "E", "texto": "Para os efeitos penais, levando em conta o princípio do patriotismo nacional, consideram-se como parte do território nacional apenas as embarcações e aeronaves brasileiras que estejam exclusivamente em combate, a serviço do governo brasileiro, onde quer que se encontrem." }
+],
+"gabarito": "D"
+},
+{
+"id": "12345678",
+"metadata": "Ano: 2022 | Banca: IASD | Órgão: Prefeitura de Fortuna - MA",
+"enunciado_principal": "No Brasil, a teoria do lugar do crime é a teoria da ubiquidade, que se encontra expressa no art. 6º do CP. “Art. 6º - Considera-se praticado o ________ no ________ em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o ________.”",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que, respectivamente, completa as lacunas acima de forma CORRETA.",
+"alternativas": [
+{ "letra": "A", "texto": "Delito – Local – Crime." },
+{ "letra": "B", "texto": "Crime – Lugar – Resultado." },
+{ "letra": "C", "texto": "Crime – Lugar – Crime." },
+{ "letra": "D", "texto": "Delito – Lugar – Efeito." },
+{ "letra": "E", "texto": "Dolo – Espaço – Resultado." }
+],
+"gabarito": "B"
+},
+{
+"id": "15935700",
+"metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR (PROVA ANULADA)",
+"enunciado_principal": "Considera-se praticado o crime no ______ em que ocorreu a ______, no todo ou em parte, bem como ______ se produziu ou deveria produzir-se o resultado. Considera-se praticado o crime no ______ da ação ou omissão, ainda que outro seja o ______ do resultado.",
+"itens_assertiva": [],
+"enunciado_pergunta": "As expressões que preenchem, correta e respectivamente, as lacunas são:",
+"alternativas": [
+{ "letra": "A", "texto": "país ... ação ... onde ... momento ... momento" },
+{ "letra": "B", "texto": "dia ... ação ou omissão ... no dia em que ... local ... lugar" },
+{ "letra": "C", "texto": "momento ... ação ... no momento em que ... lugar ... local" },
+{ "letra": "D", "texto": "lugar ... ação ou omissão ... onde ... momento ... momento" },
+{ "letra": "E", "texto": "instante ... conduta ... no momento em que ... local ... local" }
+],
+"gabarito": "D"
+},
+{
+"id": "21345679",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: TCE-TO",
+"enunciado_principal": "A respeito das normas e princípios que regem a aplicação da lei penal no tempo e no espaço, é correto afirmar que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "admite-se sejam as normas penais incriminadoras criadas por lei, medida provisória ou decreto legislativo;" },
+{ "letra": "B", "texto": "considera-se praticado o crime no momento de seu resultado, ainda que outro seja o momento da ação ou omissão;" },
+{ "letra": "C", "texto": "aplica-se a lei penal incriminadora mais gravosa a fatos anteriores já decididos por sentença condenatória transitada em julgado;" },
+{ "letra": "D", "texto": "aplicam-se as regras gerais do Código Penal aos crimes previstos em lei especial, se esta dispuser de maneira diversa;" },
+{ "letra": "E", "texto": "aplica-se a lei penal temporária, embora decorrido o período de sua duração, aos fatos praticados durante a sua vigência." }
+],
+"gabarito": "E"
+},
+{
+"id": "31456780",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: SECONT-ES",
+"enunciado_principal": "No tocante ao conflito das leis no tempo e sua eficácia no espaço, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Admite-se a aplicação, no território nacional, de leis de outros Estados, segundo princípios e convenções internacionais.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "41567891",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-SC",
+"enunciado_principal": "Sobre a aplicação da lei penal, de acordo com a doutrina e a jurisprudência dominantes, é correto afirmar que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "considera-se praticado o crime no lugar em que se produziu o resultado, quando se tratar de crime de mera conduta;" },
+{ "letra": "B", "texto": "admite-se, por força do princípio da legalidade em matéria penal, a criação de tipo penal por medida provisória com força de lei;" },
+{ "letra": "C", "texto": "ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, os crimes cometidos contra a honra do presidente da República;" },
+{ "letra": "D", "texto": "implica abolitio criminis o decurso do período de duração da lei temporária ou, no caso da lei excepcional, a cessação das circunstâncias que a determinaram;" },
+{ "letra": "E", "texto": "não se admite a analogia in malam partem para o estabelecimento de norma penal incriminadora." }
+],
+"gabarito": "E"
+},
+{
+"id": "51678902",
+"metadata": "Ano: 2022 | Banca: IBFC | Órgão: PC-BA",
+"enunciado_principal": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, os crimes:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "contra o patrimônio do Presidente da República" },
+{ "letra": "B", "texto": "contra o patrimônio ou a fé pública de fundação instituída pelo Poder Público" },
+{ "letra": "C", "texto": "contra a administração pública, por qualquer agente" },
+{ "letra": "D", "texto": "de genocídio, quando o agente for brasileiro ou estrangeiro" },
+{ "letra": "E", "texto": "praticados em aeronaves de propriedade privada, quando em território estrangeiro" }
+],
+"gabarito": "B"
+},
+{
+"id": "61789013",
+"metadata": "Ano: 2022 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+"enunciado_principal": "Assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Com o confisco alargado, aplicável em condenações por infrações às quais a pena cominada máxima seja superior a seis anos de reclusão, permite-se que o perdimento de bens incida sobre o valor do patrimônio ilicitamente acumulado a partir do início da prática delitiva, sem necessidade de demonstração da relação de causalidade específica entre a prática delitiva e o enriquecimento do condenado." },
+{ "letra": "B", "texto": "No que diz respeito à natureza jurídica do delito de estelionato previdenciário, a jurisprudência dos Tribunais Superiores faz as seguintes distinções: I) crime permanente, quando a fraude é praticada pelo próprio beneficiário, que passa, assim, a perceber prestação previdenciária mensalmente; II) crime instantâneo com efeitos permanentes, quando a fraude é praticada por terceiro não beneficiário, de forma a permitir a concessão de benefício previdenciário indevido a outrem; III) crime continuado, quando é praticado por terceiro que, após a morte do beneficiário, não comunica o falecimento e permanece recebendo o benefício regularmente concedido, como se ele fosse, sacando as prestações mediante uso do cartão magnético e senha do segurado falecido." },
+{ "letra": "C", "texto": "Consoante jurisprudência atual do Superior Tribunal de Justiça, evidenciado dano ao serviço postal em razão do furto de correspondências e encomendas, estará caracterizada a lesão ao serviço-fim da Empresa Brasileira de Correios e Telégrafos (ECT), a atrair a competência da Justiça Federal mesmo que o crime seja perpetrado em agência explorada por particular mediante contrato de franquia." },
+{ "letra": "D", "texto": "Consoante jurisprudência atual do Superior Tribunal de Justiça, é possível o reconhecimento do delito de evasão de divisas como crime antecedente para a caracterização da lavagem de dinheiro, pois, se o agente pratica atos visando à ocultação de numerários ilicitamente enviados ao exterior, também incide em lavagem de dinheiro." },
+{ "letra": "E", "texto": "Segundo a jurisprudência atual do Superior Tribunal de Justiça, uma vez preenchidos os pressupostos para a aplicação da extraterritorialidade da lei penal brasileira, crime de homicídio praticado por brasileiro nato contra estrangeiro no exterior, cuja extradição tenha sido negada, deve ser processado e julgado pela Justiça Estadual, já que a situação não se enquadra nas hipóteses do artigo 109 da Constituição Federal." }
+],
+"gabarito": "E"
+}
+]
