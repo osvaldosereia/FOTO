@@ -1,0 +1,300 @@
+[
+{
+"id": "45917302",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A doutrina classifica os crimes em comissivos, omissivos e omissivos por comissão, sendo exemplo desta última modalidade a conduta do indivíduo que, tendo o dever e a possibilidade de evitar o resultado, omite-se de evitá-lo.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "B"
+},
+{
+"id": "81094371",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Segundo o direito penal contemporâneo, consideram-se criminosas as condutas ontologicamente consideradas reprováveis e constatadas por um juízo de percepção natural.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "B"
+},
+{
+"id": "20385614",
+"metadata": "Ano: 2022 | Banca: FCC | Órgão: MPE-PE",
+"enunciado_principal": "O Código Penal estabelece que a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. Sobre a relevância da omissão, o dever de agir incumbe a quem",
+"itens_assertiva": [
+"I. tenha por lei obrigação de cuidado, proteção ou vigilância.",
+"II. tenha assumido a responsabilidade de impedir o resultado.",
+"III. criou, com seu comportamento anterior, o risco da ocorrência do resultado.",
+"IV. impede que o resultado se produza."
+],
+"enunciado_pergunta": "Está correto o que se afirma APENAS em",
+"alternativas": [
+{ "letra": "A", "texto": "I e II." },
+{ "letra": "B", "texto": "I, II e III." },
+{ "letra": "C", "texto": "I, II e IV." },
+{ "letra": "D", "texto": "III e IV." },
+{ "letra": "E", "texto": "II, III e IV." }
+],
+"gabarito": "B"
+},
+{
+"id": "74218590",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+"enunciado_principal": "Tendo em vista que os tipos penais recebem diversas classificações doutrinárias, assinale a opção correta a esse respeito.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Os tipos congruentes apresentam simetria entre o elemento objetivo e o subjetivo, como ocorre nos crimes preterdolosos." },
+{ "letra": "B", "texto": "Os tipos simples são aqueles cuja conduta nuclear pode ser praticada por apenas um agente, tal como previsto no homicídio." },
+{ "letra": "C", "texto": "Os tipos fundamentais estabelecem a conduta básica caracterizadora da infração penal e são previstos sempre no caput do dispositivo legal." },
+{ "letra": "D", "texto": "Os tipos abertos demandam do operador do direito conhecimento que ultrapasse o teor literal da norma para a sua completa integração, como nos casos de leis penais em branco." },
+{ "letra": "E", "texto": "Os tipos preventivos são aqueles que antecipam a tutela penal, punindo condutas que servem, em regra, como preparação para outros delitos." }
+],
+"gabarito": "D"
+},
+{
+"id": "55067823",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "Segundo o conceito analítico de crime, o instituto é composto por três elementos, quais sejam, o fato típico, a ilicitude ou antijuridicidade e a culpabilidade. O fato típico, por sua vez, é composto por conduta, resultado, nexo de causalidade e tipicidade. Analise as proposições a seguir e assinale aquela que contém somente causas de exclusão da tipicidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Coação moral irresistível, estados de inconsciência e obediência hierárquica." },
+{ "letra": "B", "texto": "Coação física irresistível, estados de inconsciência e atos reflexos." },
+{ "letra": "C", "texto": "Coação física irresistível, estrito cumprimento do dever legal e estados de inconsciência." },
+{ "letra": "D", "texto": "Coação moral irresistível, estados de inconsciência e exercício regular de direito." },
+{ "letra": "E", "texto": "Coação física irresistível, obediência hierárquica e atos reflexos." }
+],
+"gabarito": "B"
+},
+{
+"id": "91234567",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+"enunciado_principal": "Dentro da teoria geral do crime, entende-se por “crimes de empreendimento” aqueles em que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "todas as elementares do tipo penal precisam ser praticadas para que o resultado seja alcançado;" },
+{ "letra": "B", "texto": "o agente pratica os atos de execução, mas a configuração do crime depende da colaboração da própria vítima;" },
+{ "letra": "C", "texto": "há exigência de reiteração da conduta e finalidade de obtenção de lucro;" },
+{ "letra": "D", "texto": "o legislador equipara a forma tentada à forma consumada do delito, prevendo a mesma pena para ambas as modalidades;" },
+{ "letra": "E", "texto": "o crime é cometido por meio da profissão lícita do agente, como meio para realizar uma conduta criminosa." }
+],
+"gabarito": "D"
+},
+{
+"id": "11092734",
+"metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+"enunciado_principal": "Considere o seguinte caso hipotético: A.J. e B.J são irmãos gêmeos com 17 anos de idade. Em certa ocasião, após uma discussão, B.J. atacou A.J. com uma faca, com o nítido propósito de matar. Porém, antes de ser atingido pelo golpe de B.J., A.J. conseguiu se desviar e empurrou B.J., que foi ao chão. Na queda, B.J. caiu com o abdômen sobre a faca, sofrendo uma grave perfuração. Depois disso, A.J. ainda prestou socorro a B.J., o que acabou salvando a vida de B.J. A partir das noções sobre a teoria do delito aplicadas a esse caso, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A.J. não cometeu crime porque praticou uma conduta atípica." },
+{ "letra": "B", "texto": "Apesar de praticar uma conduta ilícita, A.J. não cometeu crime porque agiu sem culpabilidade por ser menor de 18 anos." },
+{ "letra": "C", "texto": "Apesar de praticar uma conduta ilícita, A.J. não cometeu crime porque agiu sem culpabilidade por estar sob coação irresistível." },
+{ "letra": "D", "texto": "Apesar de praticar uma conduta típica, A.J. não cometeu crime porque a conduta é justificada pela legítima defesa." },
+{ "letra": "E", "texto": "A.J. não cometeu crime porque a conduta é justificada pelo estado de necessidade exculpante." }
+],
+"gabarito": "D"
+},
+{
+"id": "63845192",
+"metadata": "Ano: 2021 | Banca: FGV | Órgão: SEFAZ-ES",
+"enunciado_principal": "José trabalha como guarda-vidas da piscina do Clube Romano, aberto ao público das 8h às 22h, diariamente. A piscina do clube funciona das 9h às 21h, de terça a domingo, sendo aberta por Antônio, que trabalha como zelador no mesmo clube. José é sempre o primeiro a entrar na área da piscina, tão logo ela é aberta, para assumir seu posto no alto da cadeira de guarda-vidas. Contudo, no dia 1º de novembro de 2020, ele não chegou no horário porque sua condução atrasou. O espaço da piscina foi aberto por Antônio no horário habitual, mas José somente chegou ao clube às 10h. Ao entrar na área da piscina deparou-se com uma cena terrível: o corpo de uma criança morta, boiando na piscina. Sobre a conduta de José, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "José não praticou nenhum crime." },
+{ "letra": "B", "texto": "José omitiu-se na prestação de socorro (Art. 135 do CP)." },
+{ "letra": "C", "texto": "José cometeu homicídio culposo (Art. 121, § 3º, do CP)." },
+{ "letra": "D", "texto": "José cometeu homicídio culposo na modalidade comissiva por omissão, pois exercia a função de garantidor (Art. 121, § 3º, c/c. o Art. 13, § 2º, ambos do CP)." },
+{ "letra": "E", "texto": "José cometeu homicídio doloso na modalidade comissiva por omissão, pois exercia a função de garantidor (Art. 121, caput, c/c. o Art. 13, § 2º, ambos do CP)." }
+],
+"gabarito": "D"
+},
+{
+"id": "37049285",
+"metadata": "Ano: 2021 | Banca: MPDFT | Órgão: MPDFT",
+"enunciado_principal": "Quanto às TEORIAS DO CRIME, pode-se ASSEVERAR que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O modelo Neokantista, da teoria teleológica do delito, manteve o dolo natural e a culpa strictu sensu na culpabilidade, acrescentando a esta, apenas, o elemento exigibilidade de conduta conforme o Direito." },
+{ "letra": "B", "texto": "Para o finalismo, o juízo de culpabilidade deve recair sobre o fato." },
+{ "letra": "C", "texto": "O funcionalismo sistêmico preconiza que a missão do Direito Penal é a proteção de bens jurídicos, através da prevenção geral ou especial." },
+{ "letra": "D", "texto": "Na visão do funcionalismo teleológico, a responsabilidade, como condição para a sanção, exige, além da análise dos requisitos da culpabilidade, o juízo da necessidade da pena." },
+{ "letra": "E", "texto": "Conceito central para a moderna teoria significativa da ação é o papel que cada pessoa tem, em uma vida em sociedade, restringindo-se a possibilidade de responsabilização penal ao seu conhecimento e aos seus limites." }
+],
+"gabarito": "D"
+},
+{
+"id": "14820695",
+"metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+"enunciado_principal": "No que se refere a aspectos legais relacionados aos procedimentos policiais, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "O iter criminis é composto por fases, entre as quais se inclui a fase de execução, que consiste no ato de separar os meios necessários para a consecução do plano delituoso.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "B"
+},
+{
+"id": "77254801",
+"metadata": "Ano: 2019 | Banca: Itame | Órgão: Prefeitura de Senador Canedo - GO",
+"enunciado_principal": "Marque a alternativa correta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "As contravenções penais ancoradas no Código Penal, aplicam-se tanto nas contravenções praticadas no Brasil, quanto àquelas cometidas no exterior." },
+{ "letra": "B", "texto": "O crime classificado como culposo é aquele cujo agente desejou o resultado ou assumiu o risco de produzi-lo." },
+{ "letra": "C", "texto": "Segundo o Código Penal é considerado sujeito ativo aquele que pratica a infração penal, podendo ser qualquer pessoa, independente da idade." },
+{ "letra": "D", "texto": "A infração penal se subdivide em duas espécies: crime e contravenção penal. As contravenções penais são sempre de ação penal pública incondicionada" }
+],
+"gabarito": "D"
+},
+{
+"id": "28549103",
+"metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+"enunciado_principal": "No tocante à teoria do delito, marque a alternativa incorreta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Para a teoria causal, o resultado, como parte integrante da ação causal, deve estar contido necessariamente em todos os delitos, pois o conceito causal não pode reconhecer crimes sem resultado." },
+{ "letra": "B", "texto": "A reformulação neokantista na teoria do delito tem profunda repercussão na relação tipo-antijuridicidade, e com Mezger a perda da autonomia do tipo atinge seu clímax, ao ser concebido como um momento da antijuricidade. O delito é, assim, definido como a ação tipicamente antijurídica e culpável." },
+{ "letra": "C", "texto": "Característica básica da postura finalista é tratar o delito culposo segundo a condução da atividade humana estabelecida no tipo de injusto, quer tendo por base o objeto de um juízo de valor negativo sobre essa atividade, quer o desvio do processo causal ou defeito de congruência." },
+{ "letra": "D", "texto": "A tipicidade, no conceito neoclássico de delito (neokantismo), foi profundamente afetada pelo descobrimento de elementos normativos do tipo. Os elementos subjetivos do injusto, por sua vez, somente vieram a integrar a tipicidade com o advento do finalismo." }
+],
+"gabarito": "A"
+},
+{
+"id": "59173042",
+"metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+"enunciado_principal": "Nos delitos imprudentes (ou culposos), a aferição da concreção do risco na implementação do evento típico (ou resultado) é um dos critérios da “teoria da imputação objetiva”.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "A"
+},
+{
+"id": "43689217",
+"metadata": "Ano: 2018 | Banca: IBADE | Órgão: SEJUDH - MT",
+"enunciado_principal": "Segundo o Código Penal, o erro sobre elemento constitutivo do tipo legal de crime:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "surge em casos como estado de necessidades, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito." },
+{ "letra": "B", "texto": "se dá quando o agente quis o resultado criminoso ou assumiu o risco de produzi-lo." },
+{ "letra": "C", "texto": "exclui o dolo, permite a punição por crime culposo, se previsto em lei." },
+{ "letra": "D", "texto": "ocorre quando alguém , usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem." },
+{ "letra": "E", "texto": "é evitável se o agente atua ou se omite sem a consciência da ilicitude do fato, quando lhe era possível, nas circunstâncias, ter ou atingir essa consciência." }
+],
+"gabarito": "C"
+},
+{
+"id": "61094378",
+"metadata": "Ano: 2018 | Banca: IV - UFG | Órgão: Prefeitura de Jataí - GO",
+"enunciado_principal": "Segundo Dotti (2012), na dogmática jurídico-penal, a definição dominante do conceito de crime compreende a “conduta humana [ação ou omissão] típica, ilícita e culpável”. Nessa linha teórica, a tipicidade refere-se",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "à qualidade de um comportamento desautorizado pelo direito." },
+{ "letra": "B", "texto": "ao juízo de reprovação pessoal que recai sobre o agente imputável." },
+{ "letra": "C", "texto": "à adequação objetiva e subjetiva de uma conduta a uma norma legal." },
+{ "letra": "D", "texto": "ao objeto caracterizador do bem jurídico tutelado pela norma penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "85072149",
+"metadata": "Ano: 2018 | Banca: FCC | Órgão: Câmara Legislativa do Distrito Federal",
+"enunciado_principal": "De acordo com o que estabelece o Código Penal,",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não há crime quando o agente pratica o fato no exercício regular de direito." },
+{ "letra": "B", "texto": "entende-se em legítima defesa quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar." },
+{ "letra": "C", "texto": "é possível a invocação do estado de necessidade mesmo para aquele que tinha o dever legal de enfrentar o perigo." },
+{ "letra": "D", "texto": "é plenamente possível a compensação de culpas quando ambos os agentes agiram com imprudência, negligência ou imperícia na prática do ilícito." },
+{ "letra": "E", "texto": "considera-se praticado o crime no momento do resultado, ainda que outro seja o momento da ação ou omissão." }
+],
+"gabarito": "A"
+},
+{
+"id": "33816507",
+"metadata": "Ano: 2018 | Banca: NUCEPE | Órgão: PC-PI",
+"enunciado_principal": "Com relação ao Direito Penal e as Súmulas do STJ e STF, é CORRETO afirmar, no entendimento sumulado que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Há crime, mesmo quando ocorre a preparação do flagrante pela polícia, havendo então a prova de que ocorreu a consumação." },
+{ "letra": "B", "texto": "O crime de extorsão consuma-se quando se prova a obtenção da vantagem indevida." },
+{ "letra": "C", "texto": "Há crime de latrocínio, quando o homicídio se consuma, quando há prova de que ocorreu a subtração de bens da vítima." },
+{ "letra": "D", "texto": "Não se admite continuidade delitiva nos crime contra a vida." },
+{ "letra": "E", "texto": "A sentença concessiva do perdão judicial é declaratória da extinção da punibilidade, subsistindo ainda efeito condenatório." }
+],
+"gabarito": "C"
+},
+{
+"id": "19283746",
+"metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+"enunciado_principal": "É certo afirmar:",
+"itens_assertiva": [
+"I. A finalidade do conceito analítico do crime é a análise dos seus caracteres e elementos, por isso seu foco são os elementos ou requisitos do delito, onde é entendido como conduta típica, antijurídica e culpável (conceito tripartido, teoria clássica ou tridimensional), ou apenas conduta típica e antijurídica, ou ainda, como fato típico, antijurídico e punível abstratamente.",
+"II. Trata-se de concurso formal quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido.",
+"III. Na fixação da pena de multa o juiz deve atender, principalmente, à situação social do réu.",
+"IV. A continuidade temporal e espacial não é um requisito invariável do delito continuado, mas pode ser um indício da continuidade."
+],
+"enunciado_pergunta": "Analisando as proposições, pode-se afirmar:",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as proposições I e IV estão corretas." },
+{ "letra": "B", "texto": "Somente as proposições II e III estão corretas." },
+{ "letra": "C", "texto": "Somente as proposições I e III estão corretas." },
+{ "letra": "D", "texto": "Somente as proposições II e IV estão corretas." }
+],
+"gabarito": "A"
+},
+{
+"id": "50493827",
+"metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+"enunciado_principal": "É certo afirmar:",
+"itens_assertiva": [
+"I. Mesmo nos crimes cometidos com violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços. É o que o Código Penal define como “arrependimento posterior”.",
+"II. Chama-se “teoria do delito” à parte da ciência do direito penal que se ocupa de explicar o que é o delito em geral, isto é, quais são as características que deve ter qualquer delito.",
+"III. A emoção ou a paixão excluem a imputabilidade penal.",
+"IV. Preterdoloso é o crime onde o resultado final é mais grave do que o pretendido pelo agente."
+],
+"enunciado_pergunta": "Analisando as proposições, pode-se afirmar:",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as proposições I e II estão corretas." },
+{ "letra": "B", "texto": "Somente as proposições II e IV estão corretas." },
+{ "letra": "C", "texto": "Somente as proposições I e III estão corretas." },
+{ "letra": "D", "texto": "Somente as proposições III e IV estão corretas." }
+],
+"gabarito": "B"
+},
+{
+"id": "72164503",
+"metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+"enunciado_principal": "Mévio, superior hierárquico de Tício, Oficial de Justiça, solicitou que ele alterasse o teor de determinada certidão em mandado de busca e apreensão. Apesar de ter conhecimento de que a conduta não era correta, Tício atendeu a solicitação de Mévio, já que este era seu superior hierárquico e os dois eram também amigos de infância. Descobertos os fatos, foi instaurado procedimento investigatório, razão pela qual Tício procura seu advogado para esclarecimentos. Considerando apenas as informações narradas, o advogado de Tício deverá esclarecer que sua conduta configura:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "fato típico, ilícito e culpável;" },
+{ "letra": "B", "texto": "fato típico, mas não ilícito, em razão do estrito cumprimento do dever legal;" },
+{ "letra": "C", "texto": "fato típico, mas não ilícito, em razão da obediência hierárquica;" },
+{ "letra": "D", "texto": "fato típico e ilícito, mas não culpável, em razão da obediência hierárquica;" },
+{ "letra": "E", "texto": "fato típico e ilícito, mas não culpável, em razão da coação moral irresistível." }
+],
+"gabarito": "D"
+}
+]
