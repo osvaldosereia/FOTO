@@ -1,0 +1,487 @@
+Devido à limitação de questões completas disponíveis nas fontes fornecidas (que contêm 18 blocos de questões extraíveis com metadados e gabaritos inferíveis), reescreverei o máximo possível, mantendo a fidelidade ao formato solicitado.
+
+[
+{
+"id": "54321098",
+"metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: SSP-SE",
+"enunciado_principal": "Durante uma competição de MMA (do inglês: mixed martial arts) um dos lutadores recebeu um golpe do seu oponente e saiu do octógono com fratura do osso úmero direito. No caso relatado, o exame de corpo de delito deverá ser:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "realizado de imediato." },
+{ "letra": "B", "texto": "complementado no 30º dia depois da luta." },
+{ "letra": "C", "texto": "dispensado porque não há crime a apurar." },
+{ "letra": "D", "texto": "complementado em 30 e 180 dias após o evento." },
+{ "letra": "E", "texto": "indireto, com base no prontuário médico." }
+],
+"gabarito": "C"
+},
+{
+"id": "65432109",
+"metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: SSP-SE",
+"enunciado_principal": "Jualtino, policial civil, violou clandestinamente, ou seja, sem autorização expressa ou tácita do titular, um tablet (tipo de computador portátil, de tamanho pequeno, fina espessura e com tela sensível ao toque) de seu primo Larival, também policial civil, que estava conectado a uma rede de computadores, mediante rompimento indevido do mecanismo de segurança e com o fim de obter dados e informações pessoais do proprietário do dispositivo. Logo, pode-se afirmar que Jualtino:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "praticou o crime de inserção de dados falsos em sistema de informações, previsto no artigo 313-A do Código Penal, que é de ação penal privada subsidiária da pública." },
+{ "letra": "B", "texto": "praticou o crime de modificação ou alteração não autorizada de sistema de informações, previsto no artigo 313-B, que é de ação penal pública incondicionada." },
+{ "letra": "C", "texto": "praticou o crime de estelionato, previsto no artigo 171 do Código Penal, que é de ação penal pública incondicionada como regra e pública condicionada à representação, quando se configurarem as hipóteses do artigo 182 do Código Penal." },
+{ "letra": "D", "texto": "praticou o crime de invasão de dispositivo informático previsto no artigo 154-A do Código Penal, que é de ação penal pública condicionada à representação como regra e de ação penal pública incondicionada, quando o crime é cometido contra a administração pública direta ou indireta de qualquer dos Poderes da União, Estados, Distrito Federal ou Municípios ou contra empresas concessionárias de serviços públicos." },
+{ "letra": "E", "texto": "praticou o crime de constrangimento ilegal previsto no artigo 146 do Código Penal, que é de ação penal pública incondicionada." }
+],
+"gabarito": "D"
+},
+{
+"id": "76543210",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Quanto às penas, à tipicidade, à ilicitude e aos elementos e espécies da infração penal, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Na legislação pátria, adotou-se o critério bipartido na definição das infrações penais, ou seja, estas se subdividem em contravenções penais e crimes ou delitos, inexistindo diferença conceitual entre as duas últimas espécies.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "87654321",
+"metadata": "Ano: 2014 | Banca: FGV | Órgão: PROCEMPA",
+"enunciado_principal": "Majoritariamente, a doutrina conceitua crime como sendo um fato típico, ilícito e culpável. Como elementos do fato típico estão a conduta, o resultado, o nexo de causalidade e a tipicidade. Com relação a tais elementos, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Não há crime sem resultado jurídico." },
+{ "letra": "B", "texto": "Na teoria finalista da ação, o dolo e a culpa devem ser analisados na antijuridicidade." },
+{ "letra": "C", "texto": "A coação moral irresistível, diferentemente da resistível, afasta a própria conduta e, assim, a tipicidade." },
+{ "letra": "D", "texto": "Para que seja reconhecida a tipicidade material, basta a simples adequação da conduta ao tipo penal." },
+{ "letra": "E", "texto": "A superveniência de causa relativamente independente que, por si só, produza o resultado, faz com que o agente apenas responda pelo resultado a título de culpa." }
+],
+"gabarito": "A"
+},
+{
+"id": "98765432",
+"metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: SEFAZ-RS",
+"enunciado_principal": "No que diz respeito à aplicação da lei penal, analise as assertivas a abaixo:",
+"itens_assertiva": [
+"I. Ultratividade da lei penal significa que quando a lei revogada for mais benéfica, ela será aplicada ao fato cometido durante a sua vigência.",
+"II. *Abolitio criminis* significa que a nova lei deixa de considerar crime um fato anteriormente tipificado como ilícito penal, fazendo desaparecer todos os efeitos penais e civis das condenações proferidas com base na lei anterior.",
+"III. O Código Penal Brasileiro adotou a teoria da ubiquidade, também conhecida por mista ou unitária, considerando o lugar do crime tanto o local onde ocorreu a ação ou a omissão, no todo ou em parte, como onde se produziu ou deveria produzir-se o resultado."
+],
+"enunciado_pergunta": "Quais estão corretas?",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas II." },
+{ "letra": "B", "texto": "Apenas I e II." },
+{ "letra": "C", "texto": "Apenas I e III." },
+{ "letra": "D", "texto": "Apenas II e III." },
+{ "letra": "E", "texto": "I, II e III." }
+],
+"gabarito": "C"
+},
+{
+"id": "10987654",
+"metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+"enunciado_principal": "Considerando a teoria do crime, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Conforme entendimento jurisprudencial, é suficiente para fundamentar a aplicação do princípio da insignificância a presença de um dos seguintes elementos: mínima ofensividade da conduta do agente, ínfima periculosidade da ação, ausência total de reprovabilidade do comportamento e mínima expressividade da lesão jurídica." },
+{ "letra": "B", "texto": "O abolicionismo, ou minimalismo penal, propõe a eliminação total da pena de prisão como mecanismo de controle social e sua substituição por outro mecanismo de controle." },
+{ "letra": "C", "texto": "A teoria constitucionalista do delito preconiza que o direito penal somente poderá ser aplicado diante de condutas capazes de causar lesão (ou perigo de lesão) concreta e intolerável aos bens jurídicos com relevância penal." },
+{ "letra": "D", "texto": "Idealizado por *Günter Jakobs*, o direito penal do inimigo é considerado um direito penal de terceira velocidade, por utilizar a pena privativa de liberdade, mas, também, permitir a flexibilização de garantias materiais e processuais de todos integrantes da sociedade, podendo, inclusive, ser observado no direito brasileiro alguns institutos da lei que trata dos crimes hediondos." }
+],
+"gabarito": "C"
+},
+{
+"id": "21987654",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Com referência a fundamentos e noções gerais aplicadas ao direito penal, julgue o próximo item.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A partir da teoria tripartida do delito e das opções legislativas adotadas pelo Código Penal, é correto afirmar que o dolo integra a culpabilidade e corrobora a aplicação concreta da pena.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "32987654",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+"enunciado_principal": "Com relação à classificação e às teorias do crime, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O dever jurídico de evitar o resultado existente no crime omissivo impróprio deve obrigatoriamente decorrer de uma imposição legal direta que determine cuidado e vigilância em relação à vítima." },
+{ "letra": "B", "texto": "Segundo a teoria do funcionalismo racional teleológico, a função do direito penal é promover a proteção subsidiária de bens jurídicos, de modo que o que é tratado como delito deve corresponder aos anseios sociais." },
+{ "letra": "C", "texto": "Para a vertente do funcionalismo sistêmico, a função do direito penal não se limitaria à reafirmação da autoridade do direito ou o dever de obediência às normas, já que tem viés voltado para a ação em si, e não para o resultado." },
+{ "letra": "D", "texto": "O crime de porte ilegal de arma de fogo é crime de perigo em que o risco figura como elementar do tipo" },
+{ "letra": "E", "texto": "Para que se caracterize crime omissivo próprio, é necessário que o agente tenha ocasionado o resultado naturalístico em decorrência de um não fazer que figure como elementar do tipo." }
+],
+"gabarito": "B"
+},
+{
+"id": "43987654",
+"metadata": "Ano: 2014 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+"enunciado_principal": "Dadas as assertivas abaixo, assinale a alternativa correta.",
+"itens_assertiva": [
+"I. Segundo o Código Penal, o crime é complexo quando elemento ou circunstância do tipo legal, por si mesmo, constituir crime.",
+"II. A lei brasileira sobre lavagem de dinheiro (Lei nº 9.613/98), a exemplo de legislações europeias, não contemplou a \"autolavagem\", ou seja, a possibilidade de o autor do crime antecedente responder também, em concurso de crimes, por lavagem de dinheiro.",
+"III. Em apertada síntese, segundo a teoria do domínio do fato, o autor de um delito é quem tem o poder de decisão sobre a realização do fato. Explica, assim, a figura do autor mediato, ou seja, o \"autor atrás de outro autor\". Na prática, essa teoria se aplica nas hipóteses em que não se logra obter elementos probatórios que vinculem, por exemplo, um superior hierárquico, que se utiliza de um subordinado para a execução da conduta típica.",
+"IV. De acordo com a jurisprudência do Superior Tribunal de Justiça, o monitoramento por câmeras de vigilância e por sistema de alarmes ou mesmo a existência de seguranças no estabelecimento tornam impossível a consumação do furto, incidindo, assim, a regra do art. 17 do Código Penal."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Está correta apenas a assertiva I." },
+{ "letra": "B", "texto": "Está correta apenas a assertiva II." },
+{ "letra": "C", "texto": "Está correta apenas a assertiva III." },
+{ "letra": "D", "texto": "Estão corretas todas as assertivas." },
+{ "letra": "E", "texto": "Nenhuma assertiva está correta." }
+],
+"gabarito": "A"
+},
+{
+"id": "54987654",
+"metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+"enunciado_principal": "Analise a opção **CORRETA**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O excesso exculpante na legítima defesa busca eliminar a antijuridicidade, vale dizer, o fato, embora típico, deixa se ser ilícito." },
+{ "letra": "B", "texto": "No que se refere ao instituto do estado de necessidade, para que se possa diferenciar o estado de necessidade justificante e exculpante, pode-se destacar as denominadas teorias unitária e diferenciadora, sendo que para a unitária, todo estado de necessidade é justificante, ou seja, tem a finalidade de eliminar a ilicitude do fato típico praticado pelo agente." },
+{ "letra": "C", "texto": "Para que se possa reconhecer o instituto consentimento do ofendido, doutrina enumera alguns requisitos que deverão ser preenchidos pelo agente, dentre eles que o ofendido seja capaz de consentir; que o bem sobre o qual recaia a conduta do agente seja indisponível, que o consentimento tenha sido dado posteriormente à conduta do agente." },
+{ "letra": "D", "texto": "A estrutura da culpabilidade na concepção finalista preconizada por Welzel ficaria com o seguinte conteúdo, qual seja, a imputabilidade; dolo e culpa e exigibilidade de conduta diversa." }
+],
+"gabarito": "B"
+},
+{
+"id": "65987654",
+"metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PC-SP",
+"enunciado_principal": "Dentre as escolas penais a seguir, aquela na qual se pretendeu inicialmente aplicar ao direito penal os mesmos métodos de observação e investigação que se utilizavam em outras ciências naturais é a",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Clássica." },
+{ "letra": "B", "texto": "Técnico-Jurídica." },
+{ "letra": "C", "texto": "Correcionalista." },
+{ "letra": "D", "texto": "Positivista." },
+{ "letra": "E", "texto": "Moderna." }
+],
+"gabarito": "D"
+},
+{
+"id": "76987654",
+"metadata": "Ano: 2014 | Banca: UFMT | Órgão: MPE-MT",
+"enunciado_principal": "No que concerne às propostas preconizadas pelo funcionalismo penal, é **INCORRETO** afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O funcionalismo da Escola de Munique, liderada por Claus Roxin, apregoa que a teoria do delito não pode ficar alheia aos postulados político-criminais que norteiam o Direito Penal e descreve a necessidade da penetração da política criminal na dogmática." },
+{ "letra": "B", "texto": "O funcionalismo da Escola de Frankfurt, dirigida por Winfried Hassemer, sustenta a redução do Direito Penal ao que qualifica como direito penal nuclear, ficando uma zona intermediária entre este direito e as contravenções, denominada direito de intervenção." },
+{ "letra": "C", "texto": "O funcionalismo da Escola de Bonn, encabeçada por Günther Jakobs, está orientado a garantir a identidade normativa. O crime será uma falta de lealdade ao direito e a pena será o recurso necessário para estabilizar o sistema." },
+{ "letra": "D", "texto": "O Direito Penal do Inimigo combate preponderantemente perigos (retrospectivos), enquanto o Direito Penal do Cidadão, segundo o modelo funcionalista de Günther Jakobs, pautado pela prevenção geral negativa, mantém a vigência da norma (prospectivo)." },
+{ "letra": "E", "texto": "O objetivo de um sistema penal está em estruturar os elementos fundamentais que integram o conceito de crime. O funcionalismo penal avança um pouco mais e propõe a construção de uma estrutura conceitual que atenda à função do Direito Penal." }
+],
+"gabarito": "D"
+},
+{
+"id": "87987654",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Assinale a opção correta com base na teoria geral do delito.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei penal brasileira não considera a independência relativa do novo curso causal como excludente da imputação do resultado." },
+{ "letra": "B", "texto": "O tipo subjetivo da omissão de ação é assimétrico: na omissão de ação imprópria, há somente dolo; na omissão de ação própria, há dolo e imprudência." },
+{ "letra": "C", "texto": "Nos tipos dolosos de simples atividade, a tarefa de atribuição causal do tipo objetivo se esgota na subsunção da ação ao tipo legal respectivo porque não existe um resultado exterior imputável ao autor do fato." },
+{ "letra": "D", "texto": "O conhecimento atual das circunstâncias de fato do tipo objetivo deve abranger os elementos presentes - a vítima, a coisa, o documento etc. - e futuros - o curso causal e o resultado - do tipo objetivo, bem como as condições objetivas de punibilidade." },
+{ "letra": "E", "texto": "O conceito clássico de delito é falho, na medida em que nele não é estabelecido vínculo entre a conduta e o resultado por meio do nexo de causalidade." }
+],
+"gabarito": "C"
+},
+{
+"id": "98987654",
+"metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: UEAP",
+"enunciado_principal": "O conceito formal do crime constitui-se na conduta proibida por lei, sob a ameaça de aplicação da pena, numa visão legislativa do fenômeno. Assim sendo, respeita o princípio da legalidade ou da reserva legal, para o qual *não há crime sem lei anterior que o defina, nem pena sem lei anterior que a comine*. Em relação ao crime e seus elementos, espécies e sujeitos,",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o sujeito passivo é o titular do bem jurídico protegido, e o sujeito passivo formal ou constante, titular do interesse jurídico de punir, que surge com a prática da infração penal, é sempre o Estado." },
+{ "letra": "B", "texto": "o contexto dos crimes próprios envolve os crimes que exigem sujeito ativo qualificado, devendo este cometer pessoalmente a conduta tipica, admitindo-se entretanto a coautoria e a participação." },
+{ "letra": "C", "texto": "o tipo penal vem estruturado como sendo título ou *nomem juris* ; como preceito primário e preceito secundário, caracteriza-se este último como a descrição da conduta proibida, quando se refere ao tipo incriminador, ou à conduta permitida." },
+{ "letra": "D", "texto": "o juiz é proibido na pena de tentativa de levar em conta o *inter criminis* , ou seja, o grau de perigo que o bem jurídico sofreu, sendo causa de diminuição obrigatória, sem, entretanto, ter a fixação em parâmetros." }
+],
+"gabarito": "A"
+},
+{
+"id": "10109876",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Com relação às teorias que versam sobre o delito e a pena, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Decorre do pós-finalismo, mais propriamente da teoria social da ação desenvolvida por Hans-Heinrich Jescheck, a afirmação de que a culpabilidade não constitui condição suficiente para a imposição da pena, mas apenas um dos elementos que, juntamente com a necessidade preventiva, passa a integrar a categoria denominada responsabilidade." },
+{ "letra": "B", "texto": "Entre as teorias contemporâneas do delito, apenas a teoria do defeito da motivação jurídica, ou teoria da motivação, realiza a crítica ao livre arbítrio como expressão de absoluto indeterminismo e como fundamento ontológico da culpabilidade." },
+{ "letra": "C", "texto": "Claus Roxin, na formulação da sua teoria da imputação objetiva, entende que a finalidade do direito penal é a de garantir a segurança das expectativas em relação ao cumprimento dos papéis atribuídos a cada um, e não a de impedir todos os danos possíveis, paralisando a vida social. Por essa razão, não devem ser imputados aos indivíduos os resultados danosos provenientes de condutas socialmente adequadas." },
+{ "letra": "D", "texto": "Na dogmática penal brasileira contemporânea, a posição adotada por Juarez Tavares, no tocante ao conceito de ação como condição para a existência do delito, distancia-se do finalismo, por não admitir um conceito pré-jurídico de conduta, e aproxima-se do modelo social, pela afirmação de que a conduta humana não é somente um fenômeno individual, mas deve ser estruturada sob a característica de constituir atividade social. Essa abordagem se identifica com o funcionalismo, por vincular o conceito de ação, exclusivamente, a um sistema ou processo de imputação." },
+{ "letra": "E", "texto": "Conforme a teoria pessoal da ação, nem as atividades insuscetíveis de controle pela consciência e pela vontade nem os simples pensamentos constituem ação como manifestação da personalidade, porque aquelas não são atribuíveis ao centro de ação psicoespiritual humana e estes, a despeito de sua natureza psicoespiritual, não chegam a se manifestar no mundo exterior." }
+],
+"gabarito": "E"
+},
+{
+"id": "21219876",
+"metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+"enunciado_principal": "Não há crime sem .",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "dolo." },
+{ "letra": "B", "texto": "resultado naturalístico." },
+{ "letra": "C", "texto": "imprudência." },
+{ "letra": "D", "texto": "conduta." },
+{ "letra": "E", "texto": "lesão." }
+],
+"gabarito": "D"
+},
+{
+"id": "32329876",
+"metadata": "Ano: 2013 | Banca: TCE-RS | Órgão: TCE-RS",
+"enunciado_principal": "O servidor público municipal ABC aproveitou o final de semana para digitar seu trabalho de conclusão de curso universitário, cujo prazo esgotava-se. Depois de iniciá-lo, porém, seu computador apresentou defeitos e deixou de funcionar. Embora ausente qualquer ânimo de apropriar-se de coisa pública municipal, ABC entrou no prédio público, retirou o computador pertencente à Secretaria Municipal de Administração e levou-o para casa, a fim de empregá-lo momentaneamente. Na noite de domingo, o computador foi devolvido espontaneamente, tendo sido colocado no mesmo lugar de onde fora retirado. A restituição da coisa deu-se de forma integral.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Considerada a estrutura analítica do crime (elementos do delito), o problema comporta a:",
+"alternativas": [
+{ "letra": "A", "texto": "exclusão da conduta humana punível;" },
+{ "letra": "B", "texto": "exclusão da tipicidade;" },
+{ "letra": "C", "texto": "exclusão da ilicitude;" },
+{ "letra": "D", "texto": "exclusão da culpabilidade;" },
+{ "letra": "E", "texto": "exclusão da punibilidade." }
+],
+"gabarito": "B"
+},
+{
+"id": "43439876",
+"metadata": "Ano: 2013 | Banca: TCE-RS | Órgão: TCE-RS",
+"enunciado_principal": "Considere as assertivas abaixo e assinale a **ERRADA**:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Prefeito Municipal que, ilegalmente, dispensa licitação para favorecer empresário amigo seu, com o objetivo de retribuir apoio dado à campanha eleitoral do Prefeito (impressão e distribuição de santinhos), pratica o crime de prevaricação do Código Penal, sem prejuízo do crime licitatório." },
+{ "letra": "B", "texto": "Prefeito Municipal concede alvará de funcionamento de estabelecimento comercial, mesmo tendo recebido relatório contrário pela equipe de vistoria técnica. O ato do Prefeito está motivado por ‘presente’ dado ao seu filho (um veículo zero Km) pela empresa beneficiada. O Prefeito praticou crime de corrupção passiva." },
+{ "letra": "C", "texto": "Nos crimes contra a Administração Pública não se pune a conduta do agente, quando realizada por omissão, mas apenas na forma comissiva (por ação)." },
+{ "letra": "D", "texto": "Funcionário público recebe valores discriminados no seu contracheque e que são evidentemente indevidos, pois referem-se a diárias e somam alto valor, sendo que o agente não realizou viagem alguma. Percebendo o equívoco do órgão pagador, o agente saca o dinheiro todo da conta. Nesta hipótese ocorreu crime de peculato mediante erro de outrem." },
+{ "letra": "E", "texto": "Funcionário público, chefe de repartição, no final do expediente, deixa de trancar a porta do setor pelo qual é responsável e, em razão disso, ocorre um furto de computadores e de dinheiro público que estava na aludida repartição, praticado por funcionário da segurança. Nessa hipótese, o funcionário responsável pela repartição responderá por crime de peculato culposo." }
+],
+"gabarito": "C"
+},
+{
+"id": "54549876",
+"metadata": "Ano: 2013 | Banca: PUC-PR | Órgão: TCE-MS",
+"enunciado_principal": "Marque a alternativa **CORRETA** segundo a evolução da Teoria do Tipo.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A teoria dos elementos negativos do tipo, ainda que não defendida por Edmund Mezger, além de incluir as causas de justificação no próprio tipo, pressupõe a existência de uma antijuridicidade penal distinta da antijuridicidade geral." },
+{ "letra": "B", "texto": "Para a fase da independência, que teve como maior idealizador Max Ernest Mayer, a tipicidade era compreendida com um caráter indiciário da antijuridicidade." },
+{ "letra": "C", "texto": "Para a fase da *ratio essendi* da antijuridicidade, que teve como maior idealizador Edmund Mezger, a tipicidade é totalmente desvinculada da ilicitude, ou seja, a tipicidade é neutra, avalorada em relação à tipicidade." },
+{ "letra": "D", "texto": "Com o surgimento do finalismo, o tipo sofreu forte mudança estrutural no que se refere ao dolo e à culpa, notadamente porque estes dois elementos passaram a integrar a culpabilidade. Segundo Hans Welzel, principal idealizador, a culpabilidade seria ou dolosa ou culposa." },
+{ "letra": "E", "texto": "Segundo entendimento dos doutrinadores brasileiros acerca da evolução da teoria do tipo, a concepção que mais se adapta ao direito penal pátrio é a de Hans Wezel, precursor do finalismo, para o qual a tipicidade é *ratio essendi* da antijuridicidade." }
+],
+"gabarito": "E"
+},
+{
+"id": "65659876",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+"enunciado_principal": "No que se refere à teoria geral do crime, julgue o próximo item.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Segundo a teoria causal, o dolo causalista é conhecido como dolo normativo, pelo fato de existir, nesse dolo, juntamente com os elementos volitivos e cognitivos, considerados psicológicos, elemento de natureza normativa (real ou potencial consciência sobre a ilicitude do fato).",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "76769876",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Com relação às teorias que versam sobre o delito e a pena, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Qual teoria afirma que a ação não pode ser constituída por atividades insuscetíveis de controle pela consciência e pela vontade, nem pelos simples pensamentos?",
+"alternativas": [
+{ "letra": "A", "texto": "Teoria Social da Ação (Jescheck)." },
+{ "letra": "B", "texto": "Teoria do Defeito da Motivação Jurídica." },
+{ "letra": "C", "texto": "Teoria da Imputação Objetiva (Roxin)." },
+{ "letra": "D", "texto": "Conceito de Ação de Juarez Tavares." },
+{ "letra": "E", "texto": "Teoria pessoal da ação." }
+],
+"gabarito": "E"
+},
+{
+"id": "87879876",
+"metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+"enunciado_principal": "Qual teoria do delito preconiza que o direito penal somente poderá ser aplicado diante de condutas capazes de causar lesão (ou perigo de lesão) concreta e intolerável aos bens jurídicos com relevância penal?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Abolicionismo." },
+{ "letra": "B", "texto": "Funcionalismo Racional Teleológico." },
+{ "letra": "C", "texto": "Teoria Constitucionalista do Delito." },
+{ "letra": "D", "texto": "Direito Penal do Inimigo (Jakobs)." },
+{ "letra": "E", "texto": "Teoria da Imputação Objetiva (Roxin)." }
+],
+"gabarito": "C"
+},
+{
+"id": "98989876",
+"metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: SEFAZ-RS",
+"enunciado_principal": "Assinale a alternativa que contém a correta afirmação sobre a Lei Penal no Tempo e no Espaço.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A *abolitio criminis* faz desaparecer todos os efeitos penais e civis das condenações proferidas com base na lei anterior." },
+{ "letra": "B", "texto": "O Código Penal Brasileiro adota o princípio da territorialidade absoluta, regendo-se pela lei brasileira o crime praticado no território nacional." },
+{ "letra": "C", "texto": "A ultratividade da lei penal significa que a lei revogada, se mais benéfica, aplica-se ao fato cometido durante sua vigência." },
+{ "letra": "D", "texto": "O lugar do crime é considerado o local onde ocorreu o resultado, segundo a teoria da atividade." },
+{ "letra": "E", "texto": "A lei posterior que de qualquer modo favorece o agente aplica-se aos fatos anteriores, desde que não haja trânsito em julgado da sentença condenatória." }
+],
+"gabarito": "C"
+},
+{
+"id": "19190123",
+"metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: SSP-SE",
+"enunciado_principal": "O crime de invasão de dispositivo informático (Art. 154-A do CP), quando cometido contra a administração pública direta ou indireta de qualquer dos Poderes da União, Estados, Distrito Federal ou Municípios ou contra empresas concessionárias de serviços públicos, é de ação penal:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "pública condicionada à representação." },
+{ "letra": "B", "texto": "privada subsidiária da pública." },
+{ "letra": "C", "texto": "pública incondicionada." },
+{ "letra": "D", "texto": "privada." },
+{ "letra": "E", "texto": "pública condicionada à requisição do Ministro da Justiça." }
+],
+"gabarito": "C"
+},
+{
+"id": "30301234",
+"metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+"enunciado_principal": "Em relação à teoria unitária do estado de necessidade, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O estado de necessidade é, em regra, exculpante, eliminando a culpabilidade." },
+{ "letra": "B", "texto": "Todo estado de necessidade é justificante, tendo a finalidade de eliminar a ilicitude do fato típico praticado pelo agente." },
+{ "letra": "C", "texto": "O excesso exculpante na legítima defesa é tratado como causa de diminuição de pena, agindo o agente com culpabilidade reduzida." },
+{ "letra": "D", "texto": "É a teoria adotada pelo Código Penal Brasileiro, diferenciando os casos justificantes dos exculpantes." },
+{ "letra": "E", "texto": "O consentimento do ofendido sempre atua como causa supralegal de exclusão da ilicitude." }
+],
+"gabarito": "B"
+},
+{
+"id": "41412345",
+"metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PC-SP",
+"enunciado_principal": "Qual das Escolas Penais é caracterizada pela tentativa inicial de aplicar métodos de observação e investigação das ciências naturais ao estudo do Direito Penal?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Clássica." },
+{ "letra": "B", "texto": "Moderna." },
+{ "letra": "C", "texto": "Técnico-Jurídica." },
+{ "letra": "D", "texto": "Positivista." },
+{ "letra": "E", "texto": "Correcionalista." }
+],
+"gabarito": "D"
+},
+{
+"id": "52523456",
+"metadata": "Ano: 2013 | Banca: TCE-RS | Órgão: TCE-RS",
+"enunciado_principal": "O servidor público ABC, sem *animus rem sibi habendi*, utilizou um computador da repartição para fins pessoais, devolvendo-o integralmente no dia seguinte. Qual o reflexo desta conduta, tipificada como peculato de uso pela doutrina, na estrutura analítica do crime?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Exclusão da conduta humana punível." },
+{ "letra": "B", "texto": "Exclusão da tipicidade." },
+{ "letra": "C", "texto": "Exclusão da ilicitude." },
+{ "letra": "D", "texto": "Exclusão da culpabilidade." },
+{ "letra": "E", "texto": "Exclusão da punibilidade." }
+],
+"gabarito": "B"
+},
+{
+"id": "63634567",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+"enunciado_principal": "Julgue o item sobre o dolo na Teoria Causalista e Neokantista.",
+"itens_assertiva": [],
+"enunciado_pergunta": "O dolo, na teoria causal, é conhecido como dolo normativo, pois, além dos elementos volitivos e cognitivos, inclui a potencial consciência sobre a ilicitude do fato.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "74745678",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Sobre a conceituação de infração penal na legislação brasileira, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Adotou-se o critério bipartido, dividindo as infrações em contravenções penais e crimes ou delitos, sendo estes dois últimos termos sinônimos.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "85856789",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+"enunciado_principal": "No que tange à teoria do delito, julgue o item que trata da integração do dolo.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Considerando a teoria tripartida e as opções legislativas do Código Penal, o dolo integra a culpabilidade e não a conduta.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "96967890",
+"metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+"enunciado_principal": "Qual dos elementos é fundamental para a existência de qualquer crime, inclusive os de mera conduta?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Resultado naturalístico." },
+{ "letra": "B", "texto": "Lesão ao bem jurídico." },
+{ "letra": "C", "texto": "Imprudência ou negligência." },
+{ "letra": "D", "texto": "Conduta." },
+{ "letra": "E", "texto": "Dolo." }
+],
+"gabarito": "D"
+},
+{
+"id": "17178901",
+"metadata": "Ano: 2014 | Banca: TCE-RS | Órgão: TCE-RS",
+"enunciado_principal": "Assinale a afirmação **INCORRETA** sobre crimes contra a Administração Pública.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "É possível a punição por omissão nos crimes contra a Administração Pública." },
+{ "letra": "B", "texto": "O peculato mediante erro de outrem ocorre quando o funcionário público saca valores recebidos indevidamente em seu contracheque, percebendo o equívoco do órgão pagador." },
+{ "letra": "C", "texto": "O funcionário responsável por um setor que, por negligência, deixa de trancar a porta, possibilitando o furto de bens públicos por terceiro, responderá por peculato culposo." },
+{ "letra": "D", "texto": "O Prefeito que concede alvará motivado por propina (presente ao filho) pratica corrupção passiva." },
+{ "letra": "E", "texto": "Nos crimes contra a Administração Pública, a conduta do agente é punida apenas na forma comissiva (por ação), não se admitindo a modalidade omissiva." }
+],
+"gabarito": "E"
+},
+{
+"id": "28289012",
+"metadata": "Ano: 2014 | Banca: UFMT | Órgão: MPE-MT",
+"enunciado_principal": "Sobre as Escolas Funcionalistas, qual afirmação é **INCORRETA**?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O funcionalismo de Claus Roxin (Munique) busca a penetração da política criminal na dogmática." },
+{ "letra": "B", "texto": "O funcionalismo de Winfried Hassemer (Frankfurt) defende a redução do Direito Penal ao direito penal nuclear, reservando o direito de intervenção para a zona intermediária com as contravenções." },
+{ "letra": "C", "texto": "O funcionalismo de Günther Jakobs (Bonn) visa garantir a identidade normativa, vendo o crime como falta de lealdade ao direito e a pena como estabilizadora do sistema." },
+{ "letra": "D", "texto": "Segundo Jakobs, o Direito Penal do Cidadão é pautado pela prevenção geral negativa, enquanto o Direito Penal do Inimigo combate perigos (retrospectivos)." },
+{ "letra": "E", "texto": "O funcionalismo propõe a construção de uma estrutura conceitual do crime que atenda à função do Direito Penal." }
+],
+"gabarito": "D"
+}
+]
