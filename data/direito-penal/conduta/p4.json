@@ -1,0 +1,400 @@
+[
+{
+"id": "43901765",
+"metadata": "Ano: 2017 | Banca: IBADE | Órgão: PC-AC",
+"enunciado_principal": "Alcides, administrador de um cemitério, percebendo que, depois de uma chuva torrencial, ossos anteriormente sepultados em uma cova rasa ficaram expostos, decide levar para sua casa o crânio que compunha aquele esqueleto.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que corretamente indica a subsunção de seu comportamento à norma penal.",
+"alternativas": [
+{ "letra": "A", "texto": "Conduta atipica" },
+{ "letra": "B", "texto": "Subtração de cadáver" },
+{ "letra": "C", "texto": "Apropriação indébita" },
+{ "letra": "D", "texto": "Furto" },
+{ "letra": "E", "texto": "Vilipêndio a cadáver" }
+],
+"gabarito": "E"
+},
+{
+"id": "21568903",
+"metadata": "Ano: 2017 | Banca: NUCEPE | Órgão: SEJUS-PI",
+"enunciado_principal": "Em relação ao crime, marque a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. E considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido." },
+{ "letra": "B", "texto": "A superveniência de causa relativamente independente não exclui a imputação quando, por si só, produziu o resultado." },
+{ "letra": "C", "texto": "A omissão é penalmente irrelevante, quando o omitente devia e podia agir para evitar o resultado." },
+{ "letra": "D", "texto": "O dever de agir não incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância." },
+{ "letra": "E", "texto": "O crime é consumado, quando nele se reúnem dois dos elementos de sua definição legal." }
+],
+"gabarito": "A"
+},
+{
+"id": "87230198",
+"metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+"enunciado_principal": "A respeito dos crimes omissivos impróprios, ou comissivos por omissão, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "São de estrutura típica aberta e de adequação típica de subordinação mediata. Só podem ser praticados por determinadas pessoas, embora qualquer pessoa possa, eventualmente, estar no papel de garante. Neles, descumpre-se tão somente a norma preceptiva e não a norma proibitiva do tipo legal de crime ao qual corresponda o resultado não evitado." },
+{ "letra": "B", "texto": "Se o médico se obriga a realizar determinado procedimento em um paciente, mas resolve viajar e deixa seu compromisso nas mãos de um colega, que assume esse tratamento, ele responde penalmente pelas lesões que resultem de erro de diagnóstico deste outro médico." },
+{ "letra": "C", "texto": "Quem, sabendo nadar, por brincadeira de mau gosto, empurra o amigo para dentro da piscina, por sua ingerência, estará obrigado a salvá-lo, se necessário, para que o fato não se transforme em crime de homicídio, no caso de eventual morte por afogamento." },
+{ "letra": "D", "texto": "Na forma dolosa, os crimes omissivos impróprios não exigem que o garante deseje o resultado típico." },
+{ "letra": "E", "texto": "Se o garante, apesar de não haver conseguido impedir o resultado, seriamente esforçou-se para evitá-lo, não haverá fato típico, doloso e culposo. Nos omissivos impróprios, a relação de causalidade é normativa." }
+],
+"gabarito": "B"
+},
+{
+"id": "55439017",
+"metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+"enunciado_principal": "Assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada, logo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio consumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada por engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio consumado." },
+{ "letra": "B", "texto": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma conduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico. Pressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do tipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A imputação objetiva constitui elemento normativo implícito do tipo penal." },
+{ "letra": "C", "texto": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos de interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato." },
+{ "letra": "D", "texto": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela utilização de outro como instrumento de realização; também quem, mesmo não executando o fato típico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do plano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo." },
+{ "letra": "E", "texto": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e desenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação ocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em legítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma teoria, a culpabilidade não é psicológica, nem psicológico-normativa." }
+],
+"gabarito": "C"
+},
+{
+"id": "10298374",
+"metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TRF - 2ª REGIÃO",
+"enunciado_principal": "O sonambulismo exclui o seguinte elemento do crime:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Fato típico." },
+{ "letra": "B", "texto": "Punibilidade." },
+{ "letra": "C", "texto": "Culpabilidade." },
+{ "letra": "D", "texto": "Antijuridicidade." }
+],
+"gabarito": "A"
+},
+{
+"id": "78234051",
+"metadata": "Ano: 2016 | Banca: ADVISE | Órgão: Prefeitura de Conde - PB",
+"enunciado_principal": "De acordo com o Código Penal e as espécies de infração, assinale a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Crime doloso é quando o agente deu causa ao resultado por imprudência, negligência ou imperícia." },
+{ "letra": "B", "texto": "Há crime mesmo quando o agente pratica o fato em estado de necessidade." },
+{ "letra": "C", "texto": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime." },
+{ "letra": "D", "texto": "Entende-se em legítima defesa quem, usando todos os meios disponíveis, repele injusta agressão, atual ou iminente, a direito seu ou de outrem." },
+{ "letra": "E", "texto": "Tentativa de crime é quando nele se reúnem todos os elementos de sua definição legal e se consuma o fato." }
+],
+"gabarito": "C"
+},
+{
+"id": "33458921",
+"metadata": "Ano: 2016 | Banca: CONSULPAM | Órgão: Prefeitura de Cascavel - PR",
+"enunciado_principal": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem:",
+"itens_assertiva": [
+"I. Tenha por lei obrigação de cuidado, proteção ou vigilância.",
+"II. De outra forma, assumiu a responsabilidade de impedir o resultado.",
+"III. Com seu comportamento anterior, criou o risco da ocorrência do resultado."
+],
+"enunciado_pergunta": "Considerando o que dispõe o Código Penal brasileiro, está correto o que se afirma em",
+"alternativas": [
+{ "letra": "A", "texto": "I, II e III." },
+{ "letra": "B", "texto": "I, apenas." },
+{ "letra": "C", "texto": "II, apenas." },
+{ "letra": "D", "texto": "III, apenas." },
+{ "letra": "E", "texto": "I e II, apenas." }
+],
+"gabarito": "A"
+},
+{
+"id": "22109845",
+"metadata": "Ano: 2016 | Banca: TJ-AC | Órgão: TJ-AC",
+"enunciado_principal": "Para o Direito Penal Brasileiro, o suicídio:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Tem relevância, desde que praticado com uso de arma de fogo." },
+{ "letra": "B", "texto": "Tem relevância se praticado com o uso de explosivo." },
+{ "letra": "C", "texto": "Tem relevância, se praticado com uso de veneno." },
+{ "letra": "D", "texto": "Não tem relevância." }
+],
+"gabarito": "D"
+},
+{
+"id": "41908756",
+"metadata": "Ano: 2016 | Banca: MPE-RS | Órgão: MPE-RS",
+"enunciado_principal": "Assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "“X” cai num poço e grita por socorro. “Y”, que caminhava nas imediações e nenhum vínculo possuía com “X”, ao ouvir seus gritos, prepara-se para estender uma corda, mas, ao reconhecê-lo neste tempo como um inimigo mortal, recolhe-a antes que “X” a segurasse, vindo este a morrer devido à falta de socorro, por afogamento. Nessas circunstâncias, “Y” responderá por homicídio." },
+{ "letra": "B", "texto": "Para roubar um banco, “A” amarra “B” pelos pulsos e pernas, sendo este o gerente do estabelecimento. Tortura-o para que diga o segredo do cofre. “B”, vencido pela dor e pelo medo, acaba revelando o número da combinação, o cofre é aberto, e o roubo é consumado. Houve, no caso, em relação ao gerente, coação física absoluta excludente da tipicidade." },
+{ "letra": "C", "texto": "Em comprovado surto epilético, “A” desfere violento golpe no ventre de mulher grávida, matando-a. Do evento, também resulta a interrupção da gravidez e a morte do feto. Haveria, neste caso, se “A” não soubesse do estado gravídico da vítima, apenas crime de homicídio." },
+{ "letra": "D", "texto": "Caracteriza hipótese de concurso formal, com aplicação da mais grave das penas, quando “A”, com uma única conduta, desdobrada em atos de efetuar disparos de arma de fogo, em face de desígnios autônomos, mata o vigilante “B” e a atendente “C” do estabelecimento comercial em que pretende cometer subtração de bens." },
+{ "letra": "E", "texto": "Ao episódio de violência física protagonizado pelo companheiro, em Nova York, EUA, contra a modelo Luísa Brunet, a extraterritorialidade da lei brasileira é condicionada." }
+],
+"gabarito": "E"
+},
+{
+"id": "99823410",
+"metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
+"enunciado_principal": "A respeito da omissão própria e da omissão imprópria (também denominada crime comissivo por omissão), é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "um dos critérios apontados pela doutrina para diferenciar a omissão própria da omissão imprópria é o tipológico, segundo o qual, havendo norma expressa criminalizando a omissão, estar-se-ia diante de uma omissão imprópria." },
+{ "letra": "B", "texto": "nos termos do Código Penal, possui posição de garantidor e, portanto, o dever de impedir o resultado, apenas quem, por lei, tem a obrigação de cuidado, proteção ou vigilância." },
+{ "letra": "C", "texto": "a ingerência, denominação dada à posição de garantidor decorrente de um comportamento anterior que gera risco de resultado, não está positivada no ordenamento brasileiro, tratando-se de uma construção dogmática." },
+{ "letra": "D", "texto": "o crime praticado por omissão, segundo o Código Penal, é apenado de forma atenuada ao crime praticado por ação." },
+{ "letra": "E", "texto": "segundo o Código Penal, a omissão imprópria somente terá relevância penal se, além do dever de impedir o resultado, o omitente tiver possibilidade de evitá-lo." }
+],
+"gabarito": "E"
+},
+{
+"id": "81235670",
+"metadata": "Ano: 2016 | Banca: IADES | Órgão: PC-DF",
+"enunciado_principal": "Um sujeito sofre de estados de sonambulismo desde os cinco anos de idade. Já com 32 anos de idade, em determinada noite, ele se levanta sonâmbulo e caminha pela casa. Chegando à área de lazer, aproxima-se dos itens de churrasco e empunha uma faca de 30 cm. Quando o irmão desse sujeito toca a lombar dele para levá-lo à cama, de súbito, o sujeito vira e desfere uma facada certeira no estômago do irmão que, em alguns minutos, perde sangue e agoniza até a morte. O sujeito retorna para o quarto e continua seu sono.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Com base nesse caso hipotético, é correto afirmar que o referido sujeito",
+"alternativas": [
+{ "letra": "A", "texto": "praticou o crime de homicídio doloso consumado, pois, ao estocar o irmão, a respectiva ação era dirigida para o fim de matá-lo – animus necandi – , configurando o dolo direto de primeiro grau." },
+{ "letra": "B", "texto": "não praticou crime, pois o respectivo estado de inconsciência consiste em causa de exclusão de culpabilidade." },
+{ "letra": "C", "texto": "praticou o crime de homicídio culposo consumado, pois foi imprudente ao estocar o irmão, mesmo sem vontade explícita e em estado de sonambulismo." },
+{ "letra": "D", "texto": "não praticou crime, pois o respectivo estado de inconsciência é uma hipótese de ausência de ação e, portanto, irrelevante sob o ponto de vista jurídico-penal, haja vista que o conceito de ação tem uma função limitadora no finalismo, excluindo qualquer movimento corporal que não se encaixe no próprio conceito de ação." },
+{ "letra": "E", "texto": "praticou o crime de homicídio doloso consumado, pois tal estado de inconsciência está a exigir uma relação de causalidade, bem como a assunção do risco em produzir o resultado." }
+],
+"gabarito": "D"
+},
+{
+"id": "64789012",
+"metadata": "Ano: 2015 | Banca: TJ-ES | Órgão: TJ-ES",
+"enunciado_principal": "Um médico se nega, por alegar que estava com pressa para encontrar sua namorada, a atender uma pessoa, que passava na rua e estava em perigo de vida. A paciente vem a falecer em decorrência dessa omissão. O médico, em tese, praticou um crime",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "comissivo" },
+{ "letra": "B", "texto": "omissivo puro" },
+{ "letra": "C", "texto": "comissivo por omissão" },
+{ "letra": "D", "texto": "de perigo abstrato" },
+{ "letra": "E", "texto": "de perigo concreto" }
+],
+"gabarito": "B"
+},
+{
+"id": "50493821",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Câmara Municipal de Poá - SP",
+"enunciado_principal": "Considera-se praticado o crime no momento",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "do resultado." },
+{ "letra": "B", "texto": "em que o agente inicia os atos preparatórios." },
+{ "letra": "C", "texto": "em que o agente cogita e planeja a prática criminosa." },
+{ "letra": "D", "texto": "da ação ou omissão, ainda que outro seja o momento do resultado." },
+{ "letra": "E", "texto": "da ação ou omissão, bem como no momento em que se produziu o resultado." }
+],
+"gabarito": "D"
+},
+{
+"id": "40321876",
+"metadata": "Ano: 2015 | Banca: CONSESP | Órgão: DAE-Bauru",
+"enunciado_principal": "Em matéria de direito penal, julgue os itens apresentados.",
+"itens_assertiva": [
+"I. A omissão é penalmente irrelevante quando o omitente devia e podia agir para evitar o resultado.",
+"II. A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado.",
+"III. É isento de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima, ainda que o erro derive de culpa e o fato seja punível como crime culposo.",
+"IV. O erro quanto à pessoa contra a qual o crime é praticado não isenta de pena. Não se consideram, neste caso, as condições ou qualidades da vítima, senão as da pessoa contra quem o agente queria praticar o crime.",
+"V. O desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se inevitável, isenta de pena; se evitável, poderá diminuí-la de um sexto a um terço."
+],
+"enunciado_pergunta": "Estão corretos os itens contidos em",
+"alternativas": [
+{ "letra": "A", "texto": "II, IV e V, apenas." },
+{ "letra": "B", "texto": "I, II, III, IV e V." },
+{ "letra": "C", "texto": "I, II, III e IV, apenas." },
+{ "letra": "D", "texto": "IV e V, apenas." },
+{ "letra": "E", "texto": "III, IV e V, apenas." }
+],
+"gabarito": "A"
+},
+{
+"id": "77890123",
+"metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-AL",
+"enunciado_principal": "No que concerne aos elementos do crime, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a inexigibilidade de conduta diversa constitui causa supralegal de exclusão da ilicitude." },
+{ "letra": "B", "texto": "o dolo e a culpa integram, respectivamente, a tipicidade e a culpabilidade, segundo a teoria finalista da ação." },
+{ "letra": "C", "texto": "o chamado princípio da insignificância exclui a tipicidade formal da conduta." },
+{ "letra": "D", "texto": "a coação moral irresistível constitui causa de exclusão da antijuridicidade." },
+{ "letra": "E", "texto": "o consentimento do ofendido pode conduzir à exclusão da tipicidade." }
+],
+"gabarito": "E"
+},
+{
+"id": "90123456",
+"metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-GO",
+"enunciado_principal": "Julgue o item seguinte, a respeito de concurso de pessoas, tipicidade, ilicitude, culpabilidade e fixação da pena.",
+"itens_assertiva": [
+"Aquele que for fisicamente coagido, de forma irresistível, a praticar uma infração penal cometerá fato típico e ilícito, porém não culpável."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "31415926",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+"enunciado_principal": "Nos termos do Código Penal considera-se causa do crime",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a ação ou omissão sem a qual o resultado não teria ocorrido." },
+{ "letra": "B", "texto": "a ação ou omissão praticada pelo autor, independentemente da sua relação com o resultado." },
+{ "letra": "C", "texto": "exclusivamente a ação ou omissão que mais se relaciona com a intenção do autor." },
+{ "letra": "D", "texto": "a ação ou omissão praticada pelo autor, independentemente de qualquer causa superveniente." },
+{ "letra": "E", "texto": "exclusivamente a ação ou omissão que mais contribui para o resultado." }
+],
+"gabarito": "A"
+},
+{
+"id": "59702384",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+"enunciado_principal": "O indivíduo “B”, com intenção de matar a pessoa “D”, efetua dez disparos de arma de fogo em direção a um veículo que se encontra estacionado na via pública por imaginar que dentro desse veículo encontrava-se a pessoa “D”, contudo, não havia nenhuma pessoa no interior do veículo. Com relação à conduta praticada por “B”, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o indivíduo “B” poderá ser punido pelo crime de homicídio tentado, por analogia ao crime de homicídio em vista de sua intenção." },
+{ "letra": "B", "texto": "o indivíduo “B” não poderá ser punido pelo crime de homicídio." },
+{ "letra": "C", "texto": "o indivíduo “B” poderá ser punido pelo crime de homicídio consumado, em virtude da interpretação extensiva do crime de homicídio." },
+{ "letra": "D", "texto": "o indivíduo “B” poderá ser punido pelo crime de homicídio consumado, por analogia ao crime de homicídio em vista de sua intenção." },
+{ "letra": "E", "texto": "o indivíduo “B” poderá ser punido pelo crime de homicídio tentado, em virtude da interpretação extensiva do crime de homicídio em vista de sua intenção." }
+],
+"gabarito": "B"
+},
+{
+"id": "70856123",
+"metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+"enunciado_principal": "A respeito do conflito aparente de normas penais, dos crimes tentados e consumados, da tipicidade penal, dos tipos de imprudência e do arrependimento posterior, julgue o item seguinte.",
+"itens_assertiva": [
+"A coação física irresistível configura hipótese jurídico-penal de ausência de conduta, engendrando, assim, a atipicidade do fato."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "11094765",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+"enunciado_principal": "No que concerne a aspectos relacionados ao direito constitucional, ao direito administrativo e ao direito penal, julgue o próximo item.",
+"itens_assertiva": [
+"O caso fortuito, a força maior e a coação física irresistível afastam a tipicidade do fato eventualmente produzido."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "94510372",
+"metadata": "Ano: 2017 | Banca: NUCEPE | Órgão: SEJUS-PI",
+"enunciado_principal": "Em relação ao crime, marque a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. E considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido." },
+{ "letra": "B", "texto": "A superveniência de causa relativamente independente não exclui a imputação quando, por si só, produziu o resultado." },
+{ "letra": "C", "texto": "A omissão é penalmente irrelevante, quando o omitente devia e podia agir para evitar o resultado." },
+{ "letra": "D", "texto": "O dever de agir não incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância." },
+{ "letra": "E", "texto": "O crime é consumado, quando nele se reúnem dois dos elementos de sua definição legal." }
+],
+"gabarito": "A"
+},
+{
+"id": "88761459",
+"metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+"enunciado_principal": "A respeito dos crimes omissivos impróprios, ou comissivos por omissão, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "São de estrutura típica aberta e de adequação típica de subordinação mediata. Só podem ser praticados por determinadas pessoas, embora qualquer pessoa possa, eventualmente, estar no papel de garante. Neles, descumpre-se tão somente a norma preceptiva e não a norma proibitiva do tipo legal de crime ao qual corresponda o resultado não evitado." },
+{ "letra": "B", "texto": "Se o médico se obriga a realizar determinado procedimento em um paciente, mas resolve viajar e deixa seu compromisso nas mãos de um colega, que assume esse tratamento, ele responde penalmente pelas lesões que resultem de erro de diagnóstico deste outro médico." },
+{ "letra": "C", "texto": "Quem, sabendo nadar, por brincadeira de mau gosto, empurra o amigo para dentro da piscina, por sua ingerência, estará obrigado a salvá-lo, se necessário, para que o fato não se transforme em crime de homicídio, no caso de eventual morte por afogamento." },
+{ "letra": "D", "texto": "Na forma dolosa, os crimes omissivos impróprios não exigem que o garante deseje o resultado típico." },
+{ "letra": "E", "texto": "Se o garante, apesar de não haver conseguido impedir o resultado, seriamente esforçou-se para evitá-lo, não haverá fato típico, doloso e culposo. Nos omissivos impróprios, a relação de causalidade é normativa." }
+],
+"gabarito": "B"
+},
+{
+"id": "67230198",
+"metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+"enunciado_principal": "Assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada, logo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio consumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada por engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio consumado." },
+{ "letra": "B", "texto": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma conduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico. Pressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do tipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A imputação objetiva constitui elemento normativo implícito do tipo penal." },
+{ "letra": "C", "texto": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos de interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato." },
+{ "letra": "D", "texto": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela utilização de outro como instrumento de realização; também quem, mesmo não executando o fato típico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do plano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo." },
+{ "letra": "E", "texto": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e desenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação ocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em legítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma teoria, a culpabilidade não é psicológica, nem psicológico-normativa." }
+],
+"gabarito": "C"
+},
+{
+"id": "55439018",
+"metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TRF - 2ª REGIÃO",
+"enunciado_principal": "O sonambulismo exclui o seguinte elemento do crime:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Fato típico." },
+{ "letra": "B", "texto": "Punibilidade." },
+{ "letra": "C", "texto": "Culpabilidade." },
+{ "letra": "D", "texto": "Antijuridicidade." }
+],
+"gabarito": "A"
+},
+{
+"id": "10298375",
+"metadata": "Ano: 2016 | Banca: ADVISE | Órgão: Prefeitura de Conde - PB",
+"enunciado_principal": "De acordo com o Código Penal e as espécies de infração, assinale a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Crime doloso é quando o agente deu causa ao resultado por imprudência, negligência ou imperícia." },
+{ "letra": "B", "texto": "Há crime mesmo quando o agente pratica o fato em estado de necessidade." },
+{ "letra": "C", "texto": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime." },
+{ "letra": "D", "texto": "Entende-se em legítima defesa quem, usando todos os meios disponíveis, repele injusta agressão, atual ou iminente, a direito seu ou de outrem." },
+{ "letra": "E", "texto": "Tentativa de crime é quando nele se reúnem todos os elementos de sua definição legal e se consuma o fato." }
+],
+"gabarito": "C"
+},
+{
+"id": "78234052",
+"metadata": "Ano: 2016 | Banca: CONSULPAM | Órgão: Prefeitura de Cascavel - PR",
+"enunciado_principal": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem:",
+"itens_assertiva": [
+"I. Tenha por lei obrigação de cuidado, proteção ou vigilância.",
+"II. De outra forma, assumiu a responsabilidade de impedir o resultado.",
+"III. Com seu comportamento anterior, criou o risco da ocorrência do resultado."
+],
+"enunciado_pergunta": "Considerando o que dispõe o Código Penal brasileiro, está correto o que se afirma em",
+"alternativas": [
+{ "letra": "A", "texto": "I, II e III." },
+{ "letra": "B", "texto": "I, apenas." },
+{ "letra": "C", "texto": "II, apenas." },
+{ "letra": "D", "texto": "III, apenas." },
+{ "letra": "E", "texto": "I e II, apenas." }
+],
+"gabarito": "A"
+}
+]
