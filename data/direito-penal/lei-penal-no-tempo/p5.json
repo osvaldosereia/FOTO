@@ -1,0 +1,642 @@
+[
+  {
+    "id": "73921845",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "enunciado_principal": "São teorias adotadas no Código Penal em relação ao tempo e ao lugar do crime, respectivamente:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da atividade e da territorialidade;"
+      },
+      {
+        "letra": "B",
+        "texto": "da anterioridade e da territorialidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "da atividade e da ubiquidade;"
+      },
+      {
+        "letra": "D",
+        "texto": "da temporariedade e da ubiquidade;"
+      },
+      {
+        "letra": "E",
+        "texto": "da alteridade e mista."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "15609283",
+    "metadata": "Ano: 2023 | Banca: OBJETIVA | Órgão: Prefeitura de Esperança do Sul - RS",
+    "enunciado_principal": "Fulano, então com 17 anos e 11 meses de idade, desferiu seis tiros em Beltrano. Beltrano foi resgatado com vida por seus familiares, mas veio a falecer, após 4 meses internado no hospital, em decorrência exclusiva dos ferimentos causados por Fulano. Fulano, agora maior de 18 anos, será considerado inimputável, pois o Código Penal adota, quanto ao tempo do crime, a teoria da:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ação ou atividade."
+      },
+      {
+        "letra": "B",
+        "texto": "Ubiquidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Extraterritorialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Defesa real."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "48017362",
+    "metadata": "Ano: 2023 | Banca: IBADE | Órgão: SEJUS-ES",
+    "enunciado_principal": "Na data de 10 de janeiro de 2023, na cidade de Vila Velha/ES, João da Silva foi baleado ao reagir a um assalto praticado por Limar de Castro. A vítima foi encaminhada ao Hospital Universitário situado em Vitória/ES, porém, mesmo após o empenho da equipe médica, faleceu no dia 30 de janeiro de 2023. De acordo com o Código Penal, acerca do tempo e lugar do crime, é correto afirmar que se considera praticado o crime no dia:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 de janeiro de 2023, ainda que outro seja o momento do resultado;"
+      },
+      {
+        "letra": "B",
+        "texto": "30 de janeiro de 2023, no lugar em que ocorreu a ação ou omissão;"
+      },
+      {
+        "letra": "C",
+        "texto": "30 de janeiro de 2023, no lugar onde se produziu ou deveria produzir-se o resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "30 de janeiro de 2023, tendo como lugar do crime as cidades de Vila Velha/ES e Vitória/ES;"
+      },
+      {
+        "letra": "E",
+        "texto": "30 de janeiro de 2023, mesmo que a ação ou omissão tenha ocorrido em data diversa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "90241763",
+    "metadata": "Ano: 2023 | Banca: CPCON | Órgão: Prefeitura de Dona Inês - PB",
+    "enunciado_principal": "O Código Penal, em sua parte geral, estabelece vários conceitos e definições que servem de base para o restante da legislação. Um dos artigos prevê o Tempo do Crime, em que se considera praticado o crime no seguinte momento:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "da ação ou omissão."
+      },
+      {
+        "letra": "C",
+        "texto": "da prisão."
+      },
+      {
+        "letra": "D",
+        "texto": "da comunicação do fato a polícia."
+      },
+      {
+        "letra": "E",
+        "texto": "da chegada da polícia ao local da ocorrência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "55109347",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Prefeitura de São José dos Campos - SP",
+    "enunciado_principal": "A definição do local e do tempo do crime é de suma importância para determinar se havia ou não lei penal definindo a conduta como típica; o lugar em que a ação penal será processada e o acusado julgado; e qual a legislação aplicável no caso concreto. Em relação à lei penal no tempo e no espaço, com base no Código Penal, marque a alternativa **incorreta**:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, salvo se decididos por sentença condenatória transitada em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "21954087",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+    "enunciado_principal": "Petrônio foi condenado, definitivamente, às penas de quatro anos de reclusão e dez dias-multa, em razão da prática do crime de roubo circunstanciado pelo emprego de arma de fogo. Após o trânsito em julgado da sentença penal condenatória, houve a edição da lei XYZ, que deixou de considerar o emprego de arma de fogo como causa de aumento de pena no delito de roubo. Nesse cenário, é correto afirmar que a nova legislação:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não retroagirá, considerando que a retroatividade da lei penal se restringe às hipóteses de *abolitio criminis*, quando a lei não mais considera o fato como criminoso;"
+      },
+      {
+        "letra": "B",
+        "texto": "retroagirá, desde que a lei entre em vigor antes do início do cumprimento da pena;"
+      },
+      {
+        "letra": "C",
+        "texto": "não retroagirá, considerando o princípio da irretroatividade da lei penal;"
+      },
+      {
+        "letra": "D",
+        "texto": "retroagirá, considerando que a nova lei é benéfica ao acusado;"
+      },
+      {
+        "letra": "E",
+        "texto": "não retroagirá, considerando que a lei não prejudicará a coisa julgada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "64183095",
+    "metadata": "Ano: 2023 | Banca: SELECON | Órgão: Prefeitura de Lucas do Rio Verde - MT",
+    "enunciado_principal": "Chun foi acusado de cometer crimes descritos em determinada lei da época dos fatos e, por força das provas apresentadas, foi condenado. Posteriormente, surgiu nova lei que não considerou os fatos da época como caracterizadores de crime. Nos termos do Código Penal, a lei posterior pode retroagir para:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "endurecer a execução penal"
+      },
+      {
+        "letra": "B",
+        "texto": "prejudicar o acusado"
+      },
+      {
+        "letra": "C",
+        "texto": "beneficiar o réu"
+      },
+      {
+        "letra": "D",
+        "texto": "majorar penas"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "91703248",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: MPE-SP",
+    "enunciado_principal": "A aplicação retroativa da *lex mitior* vai além da mera impossibilidade material de sua aplicação ao passado, pois ocorre, também, ou quando a lei posterior, malgrado retroativa, não tem mais como incidir, à falta de correspondência entre a anterior situação do fato e a hipótese normativa a que subordinada a sua aplicação, ou quando a situação de fato no momento em que essa lei entra em vigor não mais condiz com a natureza jurídica do instituto mais benéfico e, portanto, com a finalidade para a qual foi instituído. Com base nessa asserção, extraída de decisão do Supremo Tribunal Federal, é lícito concluir que",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a norma mista sempre retroagirá para beneficiar o acusado, em homenagem ao princípio do *favor rei*."
+      },
+      {
+        "letra": "B",
+        "texto": "a norma processual penal tem aplicação imediata, salvo se prejudicar o acusado."
+      },
+      {
+        "letra": "C",
+        "texto": "se a lei passa a exigir representação para a persecução penal, essa mudança deve incidir, inclusive, nos processos em andamento, com sentença já prolatada."
+      },
+      {
+        "letra": "D",
+        "texto": "a transação penal pode ser aplicada aos processos em curso, com denúncia recebida e instrução processual já iniciada."
+      },
+      {
+        "letra": "E",
+        "texto": "se à época em que nova lei entrou em vigor, exigindo representação da vítima, já havia denúncia oferecida, não se pode reclamar a incidência dessa condição específica da ação penal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "35409821",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RS",
+    "enunciado_principal": "1º cenário: em 01/04/2023, em razão de circunstâncias extraordinárias e de forma fundamentada, foi editada, pelo Congresso Nacional, uma lei penal excepcional. 2º cenário: em 01/04/2023, em razão de circunstâncias pontuais e de forma fundamentada, foi editada, pelo Congresso Nacional, uma lei penal temporária. Nesses cenários, à luz das disposições do Código Penal, é correto afirmar que os fatos praticados durante a vigência da lei penal excepcional:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente serão por ela regidos enquanto perdurarem as circunstâncias que ensejaram a edição da norma. Por outro lado, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação, salvo se a nova legislação for mais benéfica ao acusado;"
+      },
+      {
+        "letra": "B",
+        "texto": "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma, salvo se a nova legislação for mais benéfica ao acusado. Por outro lado, os fatos praticados durante a vigência da lei penal temporária somente serão por ela regidos no período de duração da legislação;"
+      },
+      {
+        "letra": "C",
+        "texto": "somente serão por ela regidos enquanto perdurarem as circunstâncias que ensejaram a edição da norma. Por outro lado, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação;"
+      },
+      {
+        "letra": "D",
+        "texto": "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma. No mesmo sentido, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação;"
+      },
+      {
+        "letra": "E",
+        "texto": "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma Por outro lado, os fatos praticados durante a vigência da lei penal temporária somente serão por ela regidos no período de duração da legislação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "86175920",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MT",
+    "enunciado_principal": "Para fins de incidência da lei brasileira, o Código Penal regulamenta o tempo e o lugar do crime. De acordo com o referido diploma normativo, assinale a afirmativa correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei brasileira é aplicável aos crimes ocorridos a bordo de embarcações e aeronaves públicas estrangeiras, quando atracadas em porto ou em pouso em solo nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Para fins de aplicação da lei penal no tempo e no espaço, considera-se praticado o crime no lugar e no momento da ação e do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei temporária é aplicada ao fato praticado durante sua vigência, embora decorrido o período de sua duração, exceto se cessadas as circunstâncias que a determinaram."
+      },
+      {
+        "letra": "D",
+        "texto": "As embarcações brasileiras, de natureza pública ou privada, que estejam em alto-mar ou em mar territorial brasileiro, são consideradas extensão do território nacional."
+      },
+      {
+        "letra": "E",
+        "texto": "O atentado à vida do presidente da República é o caso de extraterritorialidade condicionada da lei penal brasileira, devendo o autor do fato ingressar em território nacional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "41296305",
+    "metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+    "enunciado_principal": "Com relação ao Código Penal brasileiro e o tempo e lugar do crime, assinale a alternativa CORRETA.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se praticado o crime no momento da ação ou omissão, concomitantemente ao momento do resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão no todo, independentemente do local onde ocorreu o resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência."
+      },
+      {
+        "letra": "D",
+        "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública no território brasileiro ou em alto-mar, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "99185406",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Boa Vista - RR",
+    "enunciado_principal": "A sucessão de leis penais no tempo pode gerar",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abolitio criminis."
+      },
+      {
+        "letra": "B",
+        "texto": "extraterritorialidade."
+      },
+      {
+        "letra": "C",
+        "texto": "retroatividade em prejuízo do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicação simultânea da lei anterior e da lei posterior, ainda que em prejuízo do réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "67341098",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "enunciado_principal": "Texto associado: De acordo com o princípio da bagatela imprópria, julgue o item que se segue.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "No caso dos crimes continuados, aplica-se a lei mais severa, ainda que posterior à cessação da continuidade, haja vista se tratar de ficção jurídica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "40182573",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "enunciado_principal": "Texto associado: De acordo com o princípio da bagatela imprópria, julgue o item que se segue.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "O crime permanente é aquele cujo resultado prolonga-se no tempo, atraindo a aplicação da lei penal vigente ao término do resultado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "69315874",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "Aplica-se o princípio da extraterritorialidade aos crimes praticados em aeronaves e embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "17293845",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "enunciado_principal": "Em relação à lei penal no tempo, assinale a alternativa correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de crime permanente, aplica-se a pena vigente no momento da privação da liberdade da vítima, ainda que outra pena, mais gravosa, esteja em vigor no momento da libertação da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei nova que deixa de considerar um fato como crime retroage somente para os casos em que não houver trânsito em julgado."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei penal mais benéfica ao acusado sempre retroage, ainda que o fato seja praticado durante a vigência de lei excepcional."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a combinação de leis penais, ainda que a combinação seja mais favorável ao réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "35917406",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TCE-ES",
+    "enunciado_principal": "No dia 10 de novembro de 2022, no Município de Serra/ES, João, com o objetivo de matar Caio, efetuou três disparos de arma de fogo na direção deste. Caio, atingido no braço e na barriga, conseguiu fugir, momento em que foi socorrido por Guilherme, que o encaminhou ao nosocômio mais próximo. Em razão da gravidade dos ferimentos, Caio foi transferido para um hospital de referência no Município de Vitória/ES, vindo a falecer uma semana após os fatos, no dia 17 de novembro de 2022. À luz das disposições do Código Penal, conclui-se, quanto ao tempo e ao lugar do crime, que o homicídio foi praticado:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no momento da ação, ou seja, no dia 10 de novembro de 2022, à luz da teoria da atividade, sendo certo que o lugar do delito é o Município de Serra/ES, adotando-se a teoria supracitada;"
+      },
+      {
+        "letra": "B",
+        "texto": "no momento do resultado, ou seja, no dia 17 de novembro de 2022, à luz da teoria do resultado, sendo certo que o lugar do delito engloba os Municípios de Serra/ES e Vitória/ES, adotando-se a teoria da ubiquidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "no momento da ação, ou seja, no dia 10 de novembro de 2022, à luz da teoria da atividade, sendo certo que o lugar do delito engloba os Municípios de Serra/ES e de Vitória/ES, adotando-se a teoria da ubiquidade;"
+      },
+      {
+        "letra": "D",
+        "texto": "no momento da ação, ou seja, no dia 10 de novembro de 2022, bem como no momento do resultado, no dia 17 de novembro de 2022, à luz da teoria da ubiquidade, sendo certo que o lugar do delito é o Município de Serra/ES, adotando-se a teoria da atividade;"
+      },
+      {
+        "letra": "E",
+        "texto": "no momento da ação, ou seja, no dia 10 de novembro de 2022, bem como no momento do resultado, no dia 17 de novembro de 2022, à luz da teoria da ubiquidade, sendo certo que o lugar do delito engloba os Municípios de Serra/ES e Vitória/ES, adotando-se a teoria supracitada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "96014382",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Prefeitura de Americana - SP",
+    "enunciado_principal": "Com relação à aplicação da lei penal e quanto ao crime, assinale a alternativa correta com base no Código Penal:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução, mas permanecendo os efeitos penais da sentença condenatória;"
+      },
+      {
+        "letra": "B",
+        "texto": "Diz-se o crime tentado, quando iniciada a execução, não se consuma por circunstâncias ligadas exclusivamente à vontade do agente;"
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se praticado o crime no momento do resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "A omissão nunca será penalmente relevante;"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das assertivas anteriores está correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "44028195",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "enunciado_principal": "Quanto ao tempo do crime, assinale a opção correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mesmo que lei posterior deixe de considerar determinado fato como crime, não serão excluídos os efeitos penais de condenação feita com base na legislação outrora vigente."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei temporária aplica-se ao fato praticado durante sua vigência, ainda que decorrido o período de sua duração."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei excepcional tem aplicação imediata, não gerando efeitos caso não aplicada durante sua vigência."
+      },
+      {
+        "letra": "D",
+        "texto": "Definido o fato como criminoso, a pena deve ser aplicada quando estabelecida cominação para ele."
+      },
+      {
+        "letra": "E",
+        "texto": "Ainda que transitada em julgada sentença penal condenatória, lei posterior terá aplicação imediata."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "76192834",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: CGE-SC",
+    "enunciado_principal": "Luiza é servidora pública federal e presta seus serviços no Consulado Geral Brasileiro localizado em determinado país estrangeiro. Neste país, uma investigação concluiu que Luiza e outros trabalhadores, de diversos consulados, em conjunto, formaram organização criminosa que fraudava contratos de empresas locais com consulados, gerando prejuízo aos cofres públicos dos respectivos países. Por tais fatos, Luiza foi condenada a uma pena de prisão, cumpriu a sentença no respectivo País, e, posteriormente, retornou ao Brasil. Os fatos relatados constituem crime perante a lei brasileira, sujeitando os infratores às penas de reclusão. Sobre a hipótese narrada, e de acordo com o Código Penal, assinale a afirmativa correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Luiza não poderá ser punida no Brasil pelos fatos praticados no estrangeiro, pois a lei penal brasileira tem uma limitação territorial, sendo inaplicável aos fatos ocorridos no exterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Luiza não poderá ser punida no Brasil pelos mesmos fatos, desde que Luiza postule a homologação da sentença penal estrangeira no Brasil."
+      },
+      {
+        "letra": "C",
+        "texto": "Luiza poderá ser punida no Brasil em razão dos mesmos fatos praticados no exterior, desconsiderando-se as penas aplicadas pelo estado estrangeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Luiza poderá ser punida no Brasil em razão dos mesmos fatos praticados no exterior, computando-se, contudo, as penas cumpridas no estrangeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Luiza somente poderia ser punida no Brasil caso houvesse sido absolvida no Estado Estrangeiro, em razão dos mesmos fatos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "77189035",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "O Supremo Tribunal Federal, ao examinar a possibilidade de aplicação retroativa da lei penal mais benéfica em casos de crimes permanentes ou continuados, consolidou o entendimento de que a lei nova, ainda que mais grave, se aplica ao crime continuado ou ao crime permanente se a sua vigência for anterior à cessação da continuidade ou da permanência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "53094812",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "enunciado_principal": "A regra geral em matéria de aplicação da lei penal no tempo é a irretroatividade da lei penal mais gravosa. Sobre as exceções a essa regra, é correto afirmar:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei temporária ou excepcional sempre retroage, pois o princípio da ultratividade aplica-se apenas às leis permanentes."
+      },
+      {
+        "letra": "B",
+        "texto": "A *abolitio criminis* não retroage, mas cessa apenas os efeitos penais da sentença, mantendo os efeitos civis."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei penal mais benéfica (novatio legis in mellius) retroage para beneficiar o réu, ainda que após o trânsito em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Em crimes permanentes, a lei mais grave é aplicável mesmo que inicie sua vigência após a cessação da permanência, desde que não haja trânsito em julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "A combinação de leis penais é permitida se for para beneficiar o agente (lex tertia)."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "18406793",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: CNJ",
+    "enunciado_principal": "A respeito da lei penal no tempo, julgue o item subsequente.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "A ultratividade da lei penal temporária, prevista no Código Penal, constitui exceção ao princípio da irretroatividade da lei penal mais grave.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "60713492",
+    "metadata": "Ano: 2023 | Banca: FEPESE | Órgão: PC-SC",
+    "enunciado_principal": "Sobre o tempo e o lugar do crime, é correto afirmar:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Código Penal adota a teoria da Ubiquidade para o tempo do crime e a teoria da Atividade para o lugar do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Considera-se praticado o crime no momento do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplica-se a lei vigente ao tempo da ação ou omissão, ainda que se trate de lei posterior mais benéfica, se já houver sentença transitada em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplica-se a lei brasileira ao crime cometido em aeronaves ou embarcações estrangeiras de propriedade privada, desde que ocorra em mar territorial brasileiro ou espaço aéreo correspondente."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplica-se o princípio da extraterritorialidade aos crimes cometidos por brasileiro fora do território nacional, devendo sempre ser observado o princípio da dupla incriminação."
+      }
+    ],
+    "gabarito": "D"
+  }
+]
