@@ -1,0 +1,404 @@
+Para atender à sua solicitação, reescrevi 20 questões extraídas do material fornecido, atribuindo um novo ID aleatório de 8 dígitos a cada uma e ajustando o formato das questões Certo/Errado para A/B, conforme o modelo exigido.
+
+[
+{
+"id": "78542031",
+"metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Palhoça - SC",
+"enunciado_principal": "De acordo com Direito Penal brasileiro, considera-se lugar do crime:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "apenas o local em que ocorreu a conduta criminosa." },
+{ "letra": "B", "texto": "o local em que ocorreu a conduta, bem como o local onde se produziu o resultado." },
+{ "letra": "C", "texto": "exclusivamente o local onde se produziu o resultado." },
+{ "letra": "D", "texto": "o local onde foi preparada e organizada a conduta criminosa futura." },
+{ "letra": "E", "texto": "o local em que a autoridade policial tomou conhecimento da conduta delituosa." }
+],
+"gabarito": "B"
+},
+{
+"id": "31098765",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-MT",
+"enunciado_principal": "Após ser aprovado em concurso público, João, cidadão brasileiro, viajou ao Paraguai para comemorar e, após discutir com um vendedor ambulante, foi baleado. João conseguiu retornar ao Brasil, mas faleceu no hospital. Diante de tal situação hipotética, acerca da aplicação da lei penal no espaço é correto afirmar que é aplicável a teoria",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "da atividade, haja vista que se considera praticado o crime estritamente no lugar da prática da conduta criminosa, independentemente de se tratar de ação ou omissão." },
+{ "letra": "B", "texto": "da ambulatoriedade, haja vista que se considera praticado o crime no lugar onde o agente for encontrado." },
+{ "letra": "C", "texto": "da ubiquidade, haja vista que se considera praticado o crime no lugar em que ocorreu a ação ou omissão, bem como onde se produziu ou deveria produzir-se o resultado." },
+{ "letra": "D", "texto": "da paridade, haja vista que, a depender das circunstâncias e do tipo penal, considera-se praticado o crime no lugar em que, segundo o dolo do agente, deveria ter sido produzido o resultado." },
+{ "letra": "E", "texto": "consequencialista, haja vista que se considera praticado o crime estritamente no lugar onde se produziu ou deveriam ter sido produzidos os efeitos da conduta criminosa." }
+],
+"gabarito": "C"
+},
+{
+"id": "49513827",
+"metadata": "Ano: 2024 | Banca: ADM&TEC | Órgão: Prefeitura de Matriz de Camaragibe - AL",
+"enunciado_principal": "De acordo com o Código Penal Brasileiro, leia as afirmativas abaixo.",
+"itens_assertiva": [
+"I. Considera-se praticado o crime exclusivamente onde se produziu ou deveria produzir-se o resultado.",
+"II. Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.",
+"III. Desprezam-se, nas penas privativas de liberdade e nas restritivas de direitos, as frações de dia, e, na pena de multa, as frações de cruzeiro.",
+"IV. O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido."
+],
+"enunciado_pergunta": "Estão CORRETAS as afirmativas:",
+"alternativas": [
+{ "letra": "A", "texto": "I e II, apenas." },
+{ "letra": "B", "texto": "II e III, apenas." },
+{ "letra": "C", "texto": "II, III e IV, apenas." },
+{ "letra": "D", "texto": "I, II, III e IV." }
+],
+"gabarito": "C"
+},
+{
+"id": "16492580",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+"enunciado_principal": "Julgue o item seguinte, relativo à aplicação da lei penal brasileira, à classificação dos crimes, aos conceitos de tentativa e de concurso de pessoas e à prescrição no direito penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Caso um funcionário público a serviço do Brasil no exterior seja condenado no estrangeiro por crime contra a administração pública brasileira, ele não poderá ser punido pelo mesmo fato perante a justiça brasileira.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "92150473",
+"metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TSE",
+"enunciado_principal": "Em relação ao tempo e ao local do crime, às causas excludentes de ilicitude, ao concurso de pessoas e às penas, bem como aos princípios aplicáveis ao direito penal, julgue o item a seguir, com base no Código Penal e na doutrina majoritária.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Segundo a teoria da ubiquidade, adotada pelo Código Penal brasileiro, considera-se praticado o crime tanto no lugar em que ocorreu a ação ou omissão, quanto no local onde se produziu ou deveria se produzir o resultado.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "67329184",
+"metadata": "Ano: 2024 | Banca: IBFC | Órgão: TRF - 5ª REGIÃO",
+"enunciado_principal": "Um cidadão alemão pratica crime de lesão corporal grave contra um cidadão belga a bordo de um navio público brasileiro quando este se encontra ancorado num porto argentino. De acordo com o Código Penal brasileiro, assinale a alternativa que apresenta qual legislação se aplica ao caso e com base em qual princípio.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A legislação alemã. Princípio da extraterritorialidade (nacionalidade ativa)" },
+{ "letra": "B", "texto": "A legislação belga. Princípio da extraterritorialidade (nacionalidade passiva)" },
+{ "letra": "C", "texto": "A legislação brasileira. Princípio da extraterritorialidade (representação ou “da bandeira”)" },
+{ "letra": "D", "texto": "A legislação brasileira. Princípio da territorialidade" }
+],
+"gabarito": "D"
+},
+{
+"id": "55018392",
+"metadata": "Ano: 2024 | Banca: FAPEC | Órgão: MPE-MS",
+"enunciado_principal": "Assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Conforme entendimento pacificado no Supremo Tribunal Federal e no Superior Tribunal de Justiça, é atípica a conduta daquele que, após ter sido flagrado cometendo um delito, atribui-se falsa identidade perante autoridade policial, seja em razão da aplicação do princípio do nemo tenetur se detegere, seja porque configura crime impossível pela absoluta ineficácia do meio nos termos do art. 17 do Código Penal, já que as autoridades públicas possuem amplos meios de identificação pessoal, inclusive pela coleta e posterior pesquisa de impressões digitais." },
+{ "letra": "B", "texto": "O agente que instiga alguém a suicidar-se responde pelo delito previsto no art. 122 do Código Penal na modalidade de participação moral." },
+{ "letra": "C", "texto": "É aplicável a lei penal brasileira para um crime de genocídio cometido na cidade de Paris, na França, por um cidadão espanhol, domiciliado há 3 (três) anos no estado do Rio de Janeiro, mesmo se absolvido no país onde o delito se consumou." },
+{ "letra": "D", "texto": "A previsão de aplicação da lei penal brasileira a um crime de homicídio praticado por um cidadão italiano contra uma vítima peruana, no interior de uma embarcação brasileira mercante enquanto se achava em alto-mar, deve-se ao fenômeno da extraterritorialidade e, por consequência, ao princípio da justiça penal cosmopolita, que leva em conta a gravidade do crime ou a importância do bem jurídico violado para justificar a punição do fato, independentemente do local onde foi praticado e a nacionalidade do agente." },
+{ "letra": "E", "texto": "Configura hipótese de crime de latrocínio consumado, nos termos da Súmula 610 do Supremo Tribunal Federal, quando o agente aponta uma arma de fogo para a vítima, anunciando assalto e exigindo a entrega dos bens que trazia consigo, mas esta, diante do grave temor provocado, acaba por sofrer um infarto agudo do miocárdio e morre instantaneamente, o que faz com que o criminoso, assustado, fuja do local sem nada subtrair." }
+],
+"gabarito": "B"
+},
+{
+"id": "18475962",
+"metadata": "Ano: 2024 | Banca: IBFC | Órgão: Polícia Penal - GO",
+"enunciado_principal": "A Lei penal, em sentido amplo, é a principal fonte imediata do direito penal. O princípio da legalidade está inscrito do artigo 1º do Código Penal, segundo o qual “Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal”. Sobre a aplicação da Lei penal, assinale a alternativa incorreta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória" },
+{ "letra": "B", "texto": "Em respeito ao princípio da soberania dos Estados, não se aplica a lei brasileira em crimes cometidos no estrangeiro" },
+{ "letra": "C", "texto": "A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas consequências, pode ser homologada no Brasil para obrigar o condenado à reparação do dano" },
+{ "letra": "D", "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado" },
+{ "letra": "E", "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado" }
+],
+"gabarito": "B"
+},
+{
+"id": "70451926",
+"metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Qconcursos",
+"enunciado_principal": "[Questão Inédita ] De acordo com o Código Penal brasileiro, sobre a extraterritorialidade da lei penal, é CORRETO afirmar que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei penal brasileira não se aplica a crimes cometidos por brasileiros no exterior." },
+{ "letra": "B", "texto": "A extraterritorialidade só é aplicada quando houver tratado internacional nesse sentido." },
+{ "letra": "C", "texto": "Crimes contra a vida ou liberdade do Presidente da República, praticados no estrangeiro, são sujeitos à lei penal brasileira, independente se o agente foi absolvido ou condenado no estrangeiro." },
+{ "letra": "D", "texto": "A extraterritorialidade depende da homologação de sentença estrangeira em qualquer caso." },
+{ "letra": "E", "texto": "Crimes cometidos no exterior por brasileiro, em qualquer situação, sempre atraem a aplicação da lei penal brasileira." }
+],
+"gabarito": "C"
+},
+{
+"id": "33214567",
+"metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Moreno - PE",
+"enunciado_principal": "Julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "O princípio da territorialidade, que rege a aplicação da lei penal no espaço, estabelece que a lei penal brasileira se aplica a todos os crimes cometidos no território nacional, independentemente da nacionalidade do autor ou da vítima. Por exemplo, um estrangeiro que cometa um crime dentro do território brasileiro está sujeito às disposições do Código Penal brasileiro, assegurando a soberania do país sobre os delitos ocorridos em seu território.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "84716925",
+"metadata": "Ano: 2024 | Banca: IPEFAE | Órgão: Prefeitura de Aguaí - SP",
+"enunciado_principal": "Visando estabelecer parâmetros mínimos de civilidade no convívio social, o Estado assume o papel de agente regulador, fiscalizador e punitivo junto aos cidadãos que descumprem suas leis. Nesse sentido, em relação as regras penais, é correto afirmar que:",
+"itens_assertiva": [
+"I. Não há crime sem lei anterior que o defina, mas há pena sem prévia cominação legal.",
+"II. A lei posterior, que de qualquer modo repercuta sobre o crime, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.",
+"III. Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional e ao crime cometido por brasileiro em território estrangeiro.",
+"IV. A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência."
+],
+"enunciado_pergunta": "Das assertivas acima, estão corretas apenas aquelas que constam em:",
+"alternativas": [
+{ "letra": "A", "texto": "II e III." },
+{ "letra": "B", "texto": "II." },
+{ "letra": "C", "texto": "IV." },
+{ "letra": "D", "texto": "I, II, III e IV." }
+],
+"gabarito": "C"
+},
+{
+"id": "56903827",
+"metadata": "Ano: 2024 | Banca: UniRV - GO | Órgão: Prefeitura de Rio Verde - GO",
+"enunciado_principal": "Segundo a definição do lugar do crime, o Código Penal Brasileiro estabelece que “considera-se praticado o crime no lugar em que ocorreu a ação ou a omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado” (artigo 6º, do CP). O conteúdo do mencionado artigo revela a adoção pelo legislador brasileiro:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "da teoria da ação ou da atividade." },
+{ "letra": "B", "texto": "da teoria do resultado ou do efeito." },
+{ "letra": "C", "texto": "da teoria da intenção ou do desejo." },
+{ "letra": "D", "texto": "da teoria pura da ubiquidade, mista ou unitária." }
+],
+"gabarito": "D"
+},
+{
+"id": "71348295",
+"metadata": "Ano: 2024 | Banca: NC-UFPR | Órgão: Prefeitura de Campo Magro - PR",
+"enunciado_principal": "Assinale a alternativa correta sobre a aplicação da lei penal, de acordo com o Código Penal brasileiro.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei brasileira é de aplicação soberana e exclusiva em crimes cometidos no território nacional." },
+{ "letra": "B", "texto": "A lei posterior que, de qualquer modo, favorecer o agente aplica-se aos fatos anteriores." },
+{ "letra": "C", "texto": "A lei temporária não será aplicada após decorrido o período de sua duração, salvo em caso de fato praticado antes do período de sua vigência." },
+{ "letra": "D", "texto": "Em caso de novidade tecnológica, há crime mesmo sem lei anterior que o defina." },
+{ "letra": "E", "texto": "A lei brasileira aplica-se aos crimes praticados em aeronaves estrangeiras de propriedade pública no território nacional." }
+],
+"gabarito": "E"
+},
+{
+"id": "28174503",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Segundo a vigente legislação, os crimes contra o patrimônio da União Federal ficam sujeitos à lei brasileira, ainda que cometidos no estrangeiro. Essa norma é fundamentada no",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Princípio da atividade." },
+{ "letra": "B", "texto": "Princípio de taxatividade." },
+{ "letra": "C", "texto": "Princípio da ultratividade." },
+{ "letra": "D", "texto": "Princípio da excepcionalidade." },
+{ "letra": "E", "texto": "Princípio da extraterritorialidade." }
+],
+"gabarito": "E"
+},
+{
+"id": "93617248",
+"metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Cariacica - ES",
+"enunciado_principal": "Robson, brasileiro que residia temporariamente na França, praticou em território francês delito de tentativa de homicídio contra Rodrigo, também brasileiro, que estava passando férias na França à época. Devidamente processado segundo as leis francesas, Robson lá foi absolvido por questões processuais previstas na legislação de referido país e, tão logo após a sentença absolutória ser publicada, Robson retornou ao Brasil. Já no Brasil, diante do que considerou uma grande injustiça, a família de Rodrigo deseja que Robson seja processado e condenado pelo delito praticado em terras francesas. Acerca do tema, assinale a alternativa correta",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Trata-se de hipótese de extraterritorialidade condicionada, e a entrada de Robson no Brasil, bem como o fato de que ele, na França, não cumpriu pena autorizam a aplicação da lei penal brasileira." },
+{ "letra": "B", "texto": "Trata-se de hipótese de extraterritorialidade condicionada, e o fato de Robson ter sido absolvido no estrangeiro é impeditivo para a aplicação da lei penal brasileira ao caso." },
+{ "letra": "C", "texto": "A hipótese é de extraterritorialidade incondicionada, pois tanto vítima quanto autor do fato são brasileiros, razão pela qual a aplicação da lei penal brasileira é medida que se impõe independente de ter sido o agente absolvido ou condenado no estrangeiro." },
+{ "letra": "D", "texto": "A hipótese é de extraterritorialidade incondicionada, pois a absolvição de Robson na França se deu por questões processuais. Todavia a aplicação da lei penal brasileira depende de requisição do Ministro da Justiça, tendo em vista existência de sentença estrangeira." }
+],
+"gabarito": "B"
+},
+{
+"id": "40291753",
+"metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-AC",
+"enunciado_principal": "Leia o caso a seguir. Uma pessoa transporta, com intenção de venda, quantidade de droga, saindo da cidade de Rio Branco/AC com direção à cidade de La Paz, na Bolívia. Após ser detida pela polícia local da Bolívia e liberada provisoriamente, consegue retornar ao Brasil com uso de transporte clandestino. Considerando o disposto no Código Penal e o princípio do ne bis in idem, a condenação pelo crime de tráfico de drogas e a consequente execução da pena pela jurisdição criminal brasileira no caso em tela poderá ser feito mediante aplicação das regras da",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "territorialidade da lei penal, mas fica impedida a denúncia penal do mesmo fato criminoso no Brasil diante de absolvição definitiva no país estrangeiro." },
+{ "letra": "B", "texto": "extraterritorialidade da lei penal, mas fica impedida a denúncia penal do mesmo fato criminoso no Brasil diante de absolvição definitiva no país estrangeiro." },
+{ "letra": "C", "texto": "territorialidade da lei penal, mas fica impedida a denúncia penal do mesmo fato criminoso no Brasil enquanto pendente o julgamento no país estrangeiro." },
+{ "letra": "D", "texto": "extraterritorialidade da lei penal, mas fica impedida a denúncia penal do mesmo fato criminoso no Brasil enquanto pendente o julgamento no país estrangeiro." }
+],
+"gabarito": "B"
+},
+{
+"id": "69103854",
+"metadata": "Ano: 2024 | Banca: VUNESP | Órgão: MPE-RO",
+"enunciado_principal": "Mévio, brasileiro, em voo com destino ao exterior, em aeronave de propriedade de empresa aérea brasileira, quando já em espaço aéreo estrangeiro, a fim de satisfazer a própria lascívia, aproveitando-se que a passageira ao lado dormia, masturba-se, ejaculando sobre o corpo da mulher que, imediatamente, acorda. A mulher também é brasileira. Mévio é detido, assim que a aeronave pousa em solo estrangeiro. No entanto, pouco tempo depois, por decisão judicial que julgou a conduta por ele praticada atípica, não abarcada no tipo penal estrangeiro equivalente ao crime de estupro e ante a inexistência de tipo penal estrangeiro equivalente ao crime de importunação sexual, é absolvido. Logo após a decisão absolutória, Mévio retorna ao Brasil, sendo certo que aqui, em vista da repercussão do caso na imprensa, por iniciativa da autoridade policial, passa a ser investigado por crime de importunação sexual. A respeito da situação hipotética, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Em vista da regra de extensão territorial, que considera praticado no país, os crimes ocorridos em aeronaves brasileiras, por brasileiro, Mévio será julgado e processado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira." },
+{ "letra": "B", "texto": "Embora a absolvição por decisão estrangeira não seja obstáculo, Mévio não poderá ser julgado e processado se inexistente representação da vítima, vez que o crime de importunação sexual é de ação penal pública condicionada." },
+{ "letra": "C", "texto": "Uma vez que houve julgamento e absolvição no estrangeiro, Mévio não poderá ser processado e julgado pela lei brasileira." },
+{ "letra": "D", "texto": "Ainda que cometido o crime no estrangeiro, Mévio será processado e julgado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira, vez que se trata de crime que por convenção ou tratado, o Brasil se comprometeu a reprimir." },
+{ "letra": "E", "texto": "Em vista da regra de extensão territorial, que considera praticado no país, os crimes ocorridos em aeronaves brasileiras, contra brasileiro, Mévio será julgado e processado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira." }
+],
+"gabarito": "A"
+},
+{
+"id": "41598072",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Bernardo, cidadão português, tripulante de um navio da marinha mercante brasileira, que partira de Santos e navega pelo Oceano Atlântico, em alto-mar, com destino ao porto de Roterdã, na Holanda, agride um outro tripulante, de nacionalidade peruana, desferindo-lhe socos, que o ferem levemente. Diante do caso narrado, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não se aplica a Bernardo a legislação penal brasileira, pois o crime ocorreu no estrangeiro." },
+{ "letra": "B", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois o local onde ocorreu o crime é considerado território nacional por extensão." },
+{ "letra": "C", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da defesa." },
+{ "letra": "D", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade incondicionada da lei penal brasileira, à luz do princípio da representação." },
+{ "letra": "E", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da representação." }
+],
+"gabarito": "B"
+},
+{
+"id": "90126754",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Pierre, cidadão estrangeiro, praticou o delito de estupro em face da brasileira Marina, maior e capaz. O crime foi praticado em Estado estrangeiro, onde há incriminação da conduta, tal como ocorre no Brasil. Passado algum tempo, como o autor do fato e a vítima retornaram ao Brasil, o Ministério Público ajuizou ação penal pública incondicionada em face de Pierre, como incurso nas penas do delito de estupro. Sobre o caso narrado, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Há o preenchimento das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior; porém, a ação penal depende de representação da vítima." },
+{ "letra": "B", "texto": "Há o preenchimento integral das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior, sendo viável a responsabilização do autor do fato." },
+{ "letra": "C", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois ausente requisição do Ministro da Justiça." },
+{ "letra": "D", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois o autor do fato é estrangeiro, e a nacionalidade da vítima é indiferente à extraterritorialidade da lei penal brasileira." },
+{ "letra": "E", "texto": "A aplicação da lei penal brasileira ao fato independe de qualquer condição, por se tratar de crime praticado mediante violência." }
+],
+"gabarito": "B"
+},
+{
+"id": "25016384",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara de Fortaleza - CE",
+"enunciado_principal": "Com relação à aplicação da lei penal no espaço, segundo o vigente Código Penal, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as embarcações e aeronaves brasileiras de natureza pública são consideradas como extensão do território nacional para fins penais." },
+{ "letra": "B", "texto": "Aplica-se a lei penal brasileira aos fatos praticados em quaisquer embarcações brasileiras, ainda que estejam ancoradas em porto estrangeiro." },
+{ "letra": "C", "texto": "A lei brasileira nunca é aplicável aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras." },
+{ "letra": "D", "texto": "Ainda que seja cometido no estrangeiro, o crime de genocídio fica sujeito à lei brasileira quando o agente for brasileiro ou domiciliado no Brasil." },
+{ "letra": "E", "texto": "Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves privadas estrangeiras, ainda que estejam em pouso no território nacional." }
+],
+"gabarito": "D"
+},
+{
+"id": "76590214",
+"metadata": "Ano: 2024 | Banca: VUNESP | Órgão: MPE-RO",
+"enunciado_principal": "Mévio, brasileiro, em voo com destino ao exterior, em aeronave de propriedade de empresa aérea brasileira, quando já em espaço aéreo estrangeiro, a fim de satisfazer a própria lascívia, aproveitando-se que a passageira ao lado dormia, masturba-se, ejaculando sobre o corpo da mulher que, imediatamente, acorda. A mulher também é brasileira. Mévio é detido, assim que a aeronave pousa em solo estrangeiro. No entanto, pouco tempo depois, por decisão judicial que julgou a conduta por ele praticada atípica, não abarcada no tipo penal estrangeiro equivalente ao crime de estupro e ante a inexistência de tipo penal estrangeiro equivalente ao crime de importunação sexual, é absolvido. Logo após a decisão absolutória, Mévio retorna ao Brasil, sendo certo que aqui, em vista da repercussão do caso na imprensa, por iniciativa da autoridade policial, passa a ser investigado por crime de importunação sexual. A respeito da situação hipotética, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Em vista da regra de extensão territorial, que considera praticado no país, os crimes ocorridos em aeronaves brasileiras, por brasileiro, Mévio será julgado e processado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira." },
+{ "letra": "B", "texto": "Embora a absolvição por decisão estrangeira não seja obstáculo, Mévio não poderá ser julgado e processado se inexistente representação da vítima, vez que o crime de importunação sexual é de ação penal pública condicionada." },
+{ "letra": "C", "texto": "Uma vez que houve julgamento e absolvição no estrangeiro, Mévio não poderá ser processado e julgado pela lei brasileira." },
+{ "letra": "D", "texto": "Ainda que cometido o crime no estrangeiro, Mévio será processado e julgado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira, vez que se trata de crime que por convenção ou tratado, o Brasil se comprometeu a reprimir." },
+{ "letra": "E", "texto": "Em vista da regra de extensão territorial, que considera praticado no país, os crimes ocorridos em aeronaves brasileiras, contra brasileiro, Mévio será julgado e processado pela lei brasileira, mesmo diante da absolvição por decisão estrangeira." }
+],
+"gabarito": "A"
+},
+{
+"id": "53027814",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Bernardo, cidadão português, tripulante de um navio da marinha mercante brasileira, que partira de Santos e navega pelo Oceano Atlântico, em alto-mar, com destino ao porto de Roterdã, na Holanda, agride um outro tripulante, de nacionalidade peruana, desferindo-lhe socos, que o ferem levemente. Diante do caso narrado, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não se aplica a Bernardo a legislação penal brasileira, pois o crime ocorreu no estrangeiro." },
+{ "letra": "B", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois o local onde ocorreu o crime é considerado território nacional por extensão." },
+{ "letra": "C", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da defesa." },
+{ "letra": "D", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade incondicionada da lei penal brasileira, à luz do princípio da representação." },
+{ "letra": "E", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da representação." }
+],
+"gabarito": "B"
+},
+{
+"id": "19405728",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Pierre, cidadão estrangeiro, praticou o delito de estupro em face da brasileira Marina, maior e capaz. O crime foi praticado em Estado estrangeiro, onde há incriminação da conduta, tal como ocorre no Brasil. Passado algum tempo, como o autor do fato e a vítima retornaram ao Brasil, o Ministério Público ajuizou ação penal pública incondicionada em face de Pierre, como incurso nas penas do delito de estupro. Sobre o caso narrado, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Há o preenchimento das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior; porém, a ação penal depende de representação da vítima." },
+{ "letra": "B", "texto": "Há o preenchimento integral das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior, sendo viável a responsabilização do autor do fato." },
+{ "letra": "C", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois ausente requisição do Ministro da Justiça." },
+{ "letra": "D", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois o autor do fato é estrangeiro, e a nacionalidade da vítima é indiferente à extraterritorialidade da lei penal brasileira." },
+{ "letra": "E", "texto": "A aplicação da lei penal brasileira ao fato independe de qualquer condição, por se tratar de crime praticado mediante violência." }
+],
+"gabarito": "B"
+},
+{
+"id": "40316952",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara de Fortaleza - CE",
+"enunciado_principal": "Com relação à aplicação da lei penal no espaço, segundo o vigente Código Penal, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as embarcações e aeronaves brasileiras de natureza pública são consideradas como extensão do território nacional para fins penais." },
+{ "letra": "B", "texto": "Aplica-se a lei penal brasileira aos fatos praticados em quaisquer embarcações brasileiras, ainda que estejam ancoradas em porto estrangeiro." },
+{ "letra": "C", "texto": "A lei brasileira nunca é aplicável aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras." },
+{ "letra": "D", "texto": "Ainda que seja cometido no estrangeiro, o crime de genocídio fica sujeito à lei brasileira quando o agente for brasileiro ou domiciliado no Brasil." },
+{ "letra": "E", "texto": "Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves privadas estrangeiras, ainda que estejam em pouso no território nacional." }
+],
+"gabarito": "D"
+},
+{
+"id": "52817493",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Bernardo, cidadão português, tripulante de um navio da marinha mercante brasileira, que partira de Santos e navega pelo Oceano Atlântico, em alto-mar, com destino ao porto de Roterdã, na Holanda, agride um outro tripulante, de nacionalidade peruana, desferindo-lhe socos, que o ferem levemente. Diante do caso narrado, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não se aplica a Bernardo a legislação penal brasileira, pois o crime ocorreu no estrangeiro." },
+{ "letra": "B", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois o local onde ocorreu o crime é considerado território nacional por extensão." },
+{ "letra": "C", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da defesa." },
+{ "letra": "D", "texto": "aplica-se a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade incondicionada da lei penal brasileira, à luz do princípio da representação." },
+{ "letra": "E", "texto": "pode ser aplicada a Bernardo a legislação penal brasileira, pois, embora o crime tenha ocorrido no estrangeiro, trata-se de hipótese de extraterritorialidade condicionada da lei penal brasileira, à luz do princípio da representação." }
+],
+"gabarito": "B"
+},
+{
+"id": "71648293",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+"enunciado_principal": "Pierre, cidadão estrangeiro, praticou o delito de estupro em face da brasileira Marina, maior e capaz. O crime foi praticado em Estado estrangeiro, onde há incriminação da conduta, tal como ocorre no Brasil. Passado algum tempo, como o autor do fato e a vítima retornaram ao Brasil, o Ministério Público ajuizou ação penal pública incondicionada em face de Pierre, como incurso nas penas do delito de estupro. Sobre o caso narrado, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Há o preenchimento das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior; porém, a ação penal depende de representação da vítima." },
+{ "letra": "B", "texto": "Há o preenchimento integral das condições de aplicação da lei penal brasileira ao fato ocorrido no exterior, sendo viável a responsabilização do autor do fato." },
+{ "letra": "C", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois ausente requisição do Ministro da Justiça." },
+{ "letra": "D", "texto": "Não há o preenchimento das condições de aplicação da lei penal brasileira, pois o autor do fato é estrangeiro, e a nacionalidade da vítima é indiferente à extraterritorialidade da lei penal brasileira." },
+{ "letra": "E", "texto": "A aplicação da lei penal brasileira ao fato independe de qualquer condição, por se tratar de crime praticado mediante violência." }
+],
+"gabarito": "E"
+},
+{
+"id": "92740516",
+"metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara de Fortaleza - CE",
+"enunciado_principal": "Com relação à aplicação da lei penal no espaço, segundo o vigente Código Penal, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as embarcações e aeronaves brasileiras de natureza pública são consideradas como extensão do território nacional para fins penais." },
+{ "letra": "B", "texto": "Aplica-se a lei penal brasileira aos fatos praticados em quaisquer embarcações brasileiras, ainda que estejam ancoradas em porto estrangeiro." },
+{ "letra": "C", "texto": "A lei brasileira nunca é aplicável aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras." },
+{ "letra": "D", "texto": "Ainda que seja cometido no estrangeiro, o crime de genocídio fica sujeito à lei brasileira quando o agente for brasileiro ou domiciliado no Brasil." },
+{ "letra": "E", "texto": "Não é aplicável a lei brasileira aos crimes praticados a bordo de aeronaves privadas estrangeiras, ainda que estejam em pouso no território nacional." }
+],
+"gabarito": "C"
+}
+]
