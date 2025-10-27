@@ -1,0 +1,400 @@
+[
+{
+"id": "83149502",
+"metadata": "Ano: 2013 | Banca: PUC-PR | Órgão: TCE-MS",
+"enunciado_principal": "Segundo o Direito Penal brasileiro, analise os itens abaixo e assinale a alternativa CORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "São elementos que integram o fato típico: a conduta humana, o resultado, o nexo causal e a ilicitude." },
+{ "letra": "B", "texto": "São excludentes legais de ilicitude: o estado de necessidade, a legítima defesa, o estrito cumprimento de dever legal, o exercício regular de direito e o consentimento do ofendido." },
+{ "letra": "C", "texto": "Integram o crime tentado: o início da execução e a não consumação por circunstâncias alheias à vontade do agente, a qual pode ser dar a título de dolo ou de culpa." },
+{ "letra": "D", "texto": "Sobre a lei penal no tempo, o Código Penal Brasileiro adotou a Teoria da Ubiquidade." },
+{ "letra": "E", "texto": "O crime é consumado quando nele se reúnem todos os elementos de sua definição legal." }
+],
+"gabarito": "E"
+},
+{
+"id": "17502498",
+"metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+"enunciado_principal": "É exemplo típico do chamado Direito Penal do Inimigo:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a caça, o sequestro e a condução do oficial nazista (Executor Chefe do III Reich) Adolf Eichmann para Israel em 1960, onde ele foi preso, julgado, condenado e executado por haver contribuído para a “solução final”, que vitimou mais de cinco milhões de judeus, durante a II Guerra Mundial." },
+{ "letra": "B", "texto": "a prisão e o julgamento (ainda não encerrado) por Tribunal instalado no Camboja, do dirigente do Khmer Vermelho Khieu Samphan (expresidente do conselho de estado do Kampuchea Democrático) – que é filho de um juiz e que estudou economia e ciências políticas em Paris –, pela prática de crimes de guerra e contra a humanidade, assassinato, tortura e perseguição por razões religiosas e de raça contra a minoria muçulmana cham, a população vietnamita e o monacato, cujo resultado foi a morte de cerca de um quarto da população daquele país (mais de um milhão e meio de pessoas), entre os anos de 1975 e 1979." },
+{ "letra": "C", "texto": "a perseguição, prisão e submissão a julgamento (está em curso) do psiquiatra e poeta Radovan Karadzic, de origem sérvia e cristã, que presidiu a Bósnia-Herzegovina durante a Guerra dos Bálcãs, em 1992, acusado perante o Tribunal Internacional da ONU para a ex-Iugoslávia, instalado em Haia, de ter contribuído para o genocídio, a “limpeza étnica” e a prática de crimes contra a humanidade que resultaram na morte de dezenas de milhares mulçumanos bósnios e croatas." },
+{ "letra": "D", "texto": "a prisão, o julgamento e a condenação à prisão perpétua (pena máxima permitida), por genocídio e crimes contra a humanidade, em dezembro de 2008, pelo Tribunal Penal Internacional para Ruanda, instalado na Tanzânia, dos três principais dirigentes – Theoneste Bagosora, Aloys Ntabakuze e Anatole Nsengiyumva – do governo daquele país à época, pertencentes à etnia Hutu, que instigaram, colaboraram, permitiram e foram responsabilizados pelo massacre de cerca de oitocentas mil pessoas da etnia Tutsi, ocorrido em 1994." },
+{ "letra": "E", "texto": "a procura, localização e a posterior execução (por tropa militar norte- americana - SEALs) do árabe saudita e muçulmano Osama Bin Laden, líder da Al-Qaeda (A Base), ocorrida no Paquistão, em maio de 2011, por ter sido a ele atribuída a prática de crimes contra a humanidade, assassinatos em massa e terrorismo (inclusive o planejamento do ataque aéreo às chamadas “Torres Gêmeas” em Nova Iorque, EUA, em que mais de três mil pessoas morreram)." }
+],
+"gabarito": "E"
+},
+{
+"id": "56931740",
+"metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+"enunciado_principal": "Considere as seguintes proposições, I. O Direito Penal do Inimigo, idealizado por Günther Jakobs, pode ser entendido como um Direito Penal de quarta geração. Na sua concepção inimigo é aquele que afasta de modo permanente da norma. Segundo esta teoria, não deve ser ao criminoso conferido o *status* de cidadão. II. Segundo Hans Welzel, o Direito Penal tipifica somente condutas que tenham certa relevância social; caso contrário não poderiam ser delitos. Welzel desenvolve, a partir dessa ideia, o princípio da adequação social. III. Com introdução de considerações axiológicas e materiais, o neokantismo substituiu o método puramente jurídico-formal do positivismo. O modelo neokantista possui o mérito de ter demonstrado que toda realidade traz em seu bojo um valor preestabelecido, permitindo a constatação de que as normas jurídicas, como um produto cultural, possuem como pressupostos valores prévios, e o próprio intérprete que, por mais que procure adorar certa neutralidade, não estará imune a maior ou menor influência desses valores. IV. Claus Roxin aborda a Teoria da Imputação Objetiva sob a concepção de um funcionalismo radical, entendendo que o Direito Penal tem como função essencial a reafirmação da norma, visando fortalecer as expectativas de quem a obedece. São **corretas**:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Somente as proposições I e II." },
+{ "letra": "B", "texto": "Somente as proposições III e IV." },
+{ "letra": "C", "texto": "Somente as proposições I, II e IV." },
+{ "letra": "D", "texto": "Somente as proposições II e III." },
+{ "letra": "E", "texto": "Somente as proposições I, II e III." }
+],
+"gabarito": "E"
+},
+{
+"id": "34015692",
+"metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+"enunciado_principal": "Observada a doutrina majoritária brasileira no estudo da teoria do crime, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"I. O fato típico é composto da conduta humana dolosa ou culposa, resultado, nexo causal e tipicidade.",
+"II. A força irresistível, o movimento reflexo e a coação moral irresistível, são hipóteses de ausência de conduta.",
+"III. A força física absoluta que exclui a conduta pode ser proveniente da natureza ou da ação de um terceiro."
+],
+"enunciado_pergunta": "Assinale:",
+"alternativas": [
+{ "letra": "A", "texto": "se somente a afirmativa I estiver correta." },
+{ "letra": "B", "texto": "se somente a afirmativa II estiver correta." },
+{ "letra": "C", "texto": "se somente as afirmativas I e II estiverem corretas." },
+{ "letra": "D", "texto": "se somente as afirmativas I e III estiverem corretas." },
+{ "letra": "E", "texto": "se todas as afirmativas estiverem corretas." }
+],
+"gabarito": "D"
+},
+{
+"id": "71092485",
+"metadata": "Ano: 2013 | Banca: FUMARC | Órgão: PC-MG",
+"enunciado_principal": "Em relação à interpretação da norma penal, é CORRETO afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O Direito Penal veda o uso da interpretação analógica em desfavor do réu." },
+{ "letra": "B", "texto": "O resultado da interpretação da norma penal necessariamente será declarativo." },
+{ "letra": "C", "texto": "A interpretação autêntica vincula o entendimento dos demais intérpretes e operadores do Direito Penal." },
+{ "letra": "D", "texto": "A interpretação gramatical ou literal é a única admitida em matéria penal em relação às normas penais incri- minadoras." }
+],
+"gabarito": "C"
+},
+{
+"id": "28471936",
+"metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+"enunciado_principal": "Na estrutura analítica do crime, o juízo da culpabilidade presta-se para avaliar a",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "prática da conduta." },
+{ "letra": "B", "texto": "contrariedade da conduta ao direito." },
+{ "letra": "C", "texto": "reprovabilidade da conduta." },
+{ "letra": "D", "texto": "existência do injusto penal." },
+{ "letra": "E", "texto": "ilicitude da conduta." }
+],
+"gabarito": "C"
+},
+{
+"id": "41926305",
+"metadata": "Ano: 2013 | Banca: MPE-MG | Órgão: MPE-MG",
+"enunciado_principal": "Constituem críticas deslegitimadoras do sistema penal em sua dogmática clássica, EXCETO:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O caráter consequencial (sintomatológico) e não causal (etiológico) da intervenção penal." },
+{ "letra": "B", "texto": "A intervenção sobre situações e não sobre pessoas." },
+{ "letra": "C", "texto": "A reificação delitiva, com a neutralização da vítima pelo sistema." },
+{ "letra": "D", "texto": "As cifras ocultas da criminalidade." }
+],
+"gabarito": "B"
+},
+{
+"id": "90374615",
+"metadata": "Ano: 2013 | Banca: MPE-MG | Órgão: MPE-MG",
+"enunciado_principal": "São criações doutrinárias diretamente relacionadas à punição na sociedade do risco, EXCETO:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Direito de Intervenção." },
+{ "letra": "B", "texto": "Direito Penal de duas velocidades." },
+{ "letra": "C", "texto": "Direito Penal secundário." },
+{ "letra": "D", "texto": "Direito Penal funcional." }
+],
+"gabarito": "C"
+},
+{
+"id": "65180927",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STF",
+"enunciado_principal": "Acerca dos princípios gerais que norteiam o direito penal, das teorias do crime e dos institutos da Parte Geral do Código Penal brasileiro, julgue os itens a seguir. A teoria finalista adota o conceito clássico de ação, entendida como mero impulso mecânico, dissociado de qualquer conteúdo da vontade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "38205149",
+"metadata": "Ano: 2013 | Banca: PGR | Órgão: PGR",
+"enunciado_principal": "A DOGMÁTICA JURÍDICO-PENAL OBJETIVA AVERIGUAR QUAIS SÃO OS PRESSUPOSTOS QUE DEVEM ESTAR PRESENTES PARA A INCIDÊNCIA DE UMA NORMA PENAL INCRIMINADORA. FAZ-SE POSSÍVEL, ATRAVÉS DELA, UMA APLICAÇÃO SEGURA E CALCULÁVEL DO DIREITO PENAL, SUBTRAINDO-O DA IRRACIONALIDADE, DA ARBITRARIEDADE OU DA ALEATORIEDADE. DIANTE DISSO, E CONSIDERANDO SER A AÇÃO OU CONDUTA A PEDRA ANGULAR DA TEORIA DO CRIME (*NULLUM CRIMEN SINE CONDUCTA*), ASSINALE A ALTERNATIVA INCORRETA:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Segundo a teoria finalista da ação, considera-se equivocada a ideia de ser a conduta um mero movimento corporal despido de finalidade, pois o que caracteriza o ser humano, ontologicamente, é, justamente, a capacidade de poder prever, dentro de certos limites, as consequências possíveis de sua atividade, e dirigi-la, conforme o planejado, até atingir os seus objetivos." },
+{ "letra": "B", "texto": "Segundo a teoria social da ação, considera-se que a conduta pode constituir-se em uma atividade final, pode restringir-se a uma causação involuntária de consequências relevantes previsíveis ou pode manifestar-se por intermédio da inatividade frente a uma expectativa de ação, sendo sempre irrelevante a existência de um sentido social." },
+{ "letra": "C", "texto": "Segundo a teoria personalista da ação, considera-se que a conduta penalmente relevante compreende tudo o que possa atribuir ao ser humano como centro anímico-espiritual, o que não ocorre, por exemplo, quando o comportamento decorre de fatores mecânicos do corpo, sem submissão ao controle psíquico. No mesmo sentido, não configuram conduta os fenômenos anímico- espirituais que ficam cerrados internamente, sem se exteriorizarem." },
+{ "letra": "D", "texto": "Segundo a teoria negativa da ação, o conceito de conduta deve estar lastreado no princípio da evitabilidade, vale dizer, conduta é o não evitar o evitável na posição de garantidor, o que incluiria tanto os fatos comissivos como os omissivos. Uma variante dessa corrente sustenta que a conduta deve ser entendida como a causação do resultado individualmente evitável." }
+],
+"gabarito": "B"
+},
+{
+"id": "74901853",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "No que se refere à teoria geral do crime, julgue o próxima item. Segundo a teoria causal, o dolo causalista é conhecido como dolo normativo, pelo fato de existir, nesse dolo, juntamente com os elementos volitivos e cognitivos, considerados psicológicos, elemento de natureza normativa (real ou potencial consciência sobre a ilicitude do fato).",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "15829604",
+"metadata": "Ano: 2013 | Banca: VUNESP | Órgão: PC-SP",
+"enunciado_principal": "De acordo com o Código Penal, a execução iniciada de um crime, que não se consuma por circunstâncias alheias à vontade do agente, caracteriza o(a)",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "arrependimento eficaz." },
+{ "letra": "B", "texto": "arrependimento posterior." },
+{ "letra": "C", "texto": "tentativa." },
+{ "letra": "D", "texto": "crime frustrado." },
+{ "letra": "E", "texto": "desistência voluntária." }
+],
+"gabarito": "C"
+},
+{
+"id": "50927163",
+"metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+"enunciado_principal": "Acerca do conceito de crime, considerando a corrente majoritária do Direito, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O crime é o fato típico, ilícito e culpável." },
+{ "letra": "B", "texto": "O índio que não teve contato com a civilização e não tem como conhecer a ilicitude de um fato típico e ilícito não comete crime." },
+{ "letra": "C", "texto": "O menor de dezoito anos não comete crime." },
+{ "letra": "D", "texto": "O indivíduo portador de um transtorno psiquiátrico de natureza psicótica grave não comete crime." },
+{ "letra": "E", "texto": "O indivíduo que comete um fato ilícito, sem dolo ou culpa, não comete crime." }
+],
+"gabarito": "E"
+},
+{
+"id": "40581926",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "A respeito do direito penal, julgue os itens que se seguem. Considera-se crime toda ação ou omissão típica, antijurídica e culpável.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "89274610",
+"metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-AM",
+"enunciado_principal": "No que se refere aos elementos do crime, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o estrito cumprimento do dever legal exclui a imputabilidade." },
+{ "letra": "B", "texto": "o dolo e a culpa integram a tipicidade e a culpabilidade, respectivamente." },
+{ "letra": "C", "texto": "o arrependimento eficaz afasta a ilicitude." },
+{ "letra": "D", "texto": "a exigibilidade de conduta diversa é pressuposto da culpabilidade." },
+{ "letra": "E", "texto": "o crime impossível extingue a punibilidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "73461095",
+"metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+"enunciado_principal": "Infração penal significa:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Quando um caso não previsto em lei é regulado por um preceito legal, que rege um semelhante." },
+{ "letra": "B", "texto": "Ofensa real ou potencial a um bem jurídico, levando-se em consideração os elementos subjetivos do tipo, a ilicitude e a culpabilidade." },
+{ "letra": "C", "texto": "Todos os valores ético-sociais que estejam a exigir uma proteção especial, no âmbito do direito penal, por se revelarem insuficientes à proteção dos outros ramos do direito." },
+{ "letra": "D", "texto": "Quando o princípio para o caso omitido se deduz do espírito e do sistema do ordenamento jurídico, considerado em seu conjunto." },
+{ "letra": "E", "texto": "Que o delito é sinônimo de contravenção penal no Brasil." }
+],
+"gabarito": "B"
+},
+{
+"id": "46193708",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+"enunciado_principal": "No que se refere à teoria e à aplicação do direito penal, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O condutor de veículo automotor que, por imprudência, colidir em veículo dirigido por uma gestante, causando-lhe lesões corporais de natureza leve, responderá criminalmente por sua conduta, incidindo, na aplicação da pena, a circunstância agravante de ter sido o crime praticado contra mulher grávida." },
+{ "letra": "B", "texto": "Crime profissional consiste na prática de ações com intenção de lucro, como é o caso, por exemplo, do curandeirismo, enquanto o crime habitual consiste na reiteração da mesma conduta reprovável, como um meio usual de sobrevivência, como, por exemplo, o rufianismo." },
+{ "letra": "C", "texto": "Na hipótese de tentativa irreal ou supersticiosa, o agente não responde pelo crime pretendido porque sua intenção não basta para ofender o bem jurídico visado, sendo a tentativa impunível e, conforme o caso, o crime impossível ou o delito putativo." },
+{ "letra": "D", "texto": "Não pode alegar, em sua defesa, estado de necessidade o indivíduo que tem o dever legal ou contratual de enfrentar o perigo." },
+{ "letra": "E", "texto": "Será reduzida de um a dois terços a pena do condenado pelo crime de latrocínio que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais coautores ou partícipes do crime, na localização da vítima e na recuperação total ou parcial do produto do crime." }
+],
+"gabarito": "C"
+},
+{
+"id": "95028416",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+"enunciado_principal": "No que concerne à teoria do crime, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Em direito penal, entende-se a tentativa como uma forma de adequação típica de subordinação imediata ou direta." },
+{ "letra": "B", "texto": "O princípio da insignificância incide nos crimes contra a administração pública, o que exclui a tipicidade, mesmo que a conduta praticada ofenda a probidade administrativa, e não apenas o patrimônio." },
+{ "letra": "C", "texto": "O indivíduo que tenta o suicídio pode ser sujeito ativo e passivo da própria conduta." },
+{ "letra": "D", "texto": "Há crimes que se caracterizam pela pluralidade de objetos materiais, mas nenhum crime prescinde de objeto material." },
+{ "letra": "E", "texto": "Crime de dever, semelhante ao crime de domínio, é aquele praticado dolosamente por quem rege a conduta dos demais envolvidos no crime, incidindo, nesse caso, a teoria do domínio do fato." }
+],
+"gabarito": "A"
+},
+{
+"id": "10934752",
+"metadata": "Ano: 2013 | Banca: FMP Concursos | Órgão: MPE-AC",
+"enunciado_principal": "Assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "No conceito analítico do crime, a imputabilidade penal constitui elemento autônomo do crime." },
+{ "letra": "B", "texto": "A adequação social constitui, segundo doutrina majoritária, excludente de ilicitude." },
+{ "letra": "C", "texto": "Para a doutrina finalista, o princípio da insignificância constitui causa exculpante." },
+{ "letra": "D", "texto": "De acordo com a doutrina finalista, a consciência da ilicitude é elemento do dolo." },
+{ "letra": "E", "texto": "O erro de tipo sempre exclui o dolo." }
+],
+"gabarito": "E"
+},
+{
+"id": "62018593",
+"metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+"enunciado_principal": "Sobre o sujeito da infração penal, tem-se que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "nos denominados crimes vagos, não se faz possível determinar o sujeito passivo." },
+{ "letra": "B", "texto": "a pessoa jurídica pode figurar como sujeito ativo nos crimes contra o sistema financeiro, tendo em vista a regulamentação legal." },
+{ "letra": "C", "texto": "os crimes de concurso necessário são aqueles que necessitam da participação de mais de um autor, todos imputáveis." },
+{ "letra": "D", "texto": "sujeito passivo do crime e prejudicado pelo crime sempre se reúnem na mesma pessoa." }
+],
+"gabarito": "A"
+},
+{
+"id": "87143095",
+"metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+"enunciado_principal": "Infração penal, sob o prisma da Teoria Geral do Delito, significa:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Analogia legal em favor do réu." },
+{ "letra": "B", "texto": "Ofensa real ou potencial a um bem jurídico, conjugada com a análise dos elementos subjetivos do tipo, ilicitude e culpabilidade." },
+{ "letra": "C", "texto": "Valores ético-sociais que exigem proteção especial pelo direito penal." },
+{ "letra": "D", "texto": "Princípio deduzido do espírito e do sistema do ordenamento jurídico." }
+],
+"gabarito": "B"
+},
+{
+"id": "51409276",
+"metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+"enunciado_principal": "Assinale a alternativa que apresenta o conceito de crime INCORRETO, de acordo com a corrente majoritária:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O crime é composto por fato típico, ilícito e culpável." },
+{ "letra": "B", "texto": "O inimputável (ex: menor de 18 anos) não comete crime." },
+{ "letra": "C", "texto": "O fato típico e ilícito praticado por inimputável é considerado crime (fato típico, ilícito e culpável)." },
+{ "letra": "D", "texto": "Indivíduo sem dolo ou culpa, mas que comete um fato ilícito, não pratica crime." }
+],
+"gabarito": "C"
+},
+{
+"id": "76193502",
+"metadata": "Ano: 2013 | Banca: VUNESP | Órgão: PC-SP",
+"enunciado_principal": "A execução de um crime, que é iniciada mas não chega à consumação por razões alheias à vontade do agente, conforme o Código Penal, configura:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Arrependimento eficaz." },
+{ "letra": "B", "texto": "Crime impossível." },
+{ "letra": "C", "texto": "Tentativa." },
+{ "letra": "D", "texto": "Desistência voluntária." }
+],
+"gabarito": "C"
+},
+{
+"id": "30491857",
+"metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+"enunciado_principal": "Sobre a ausência de conduta no estudo da teoria do crime, marque a afirmativa correta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A coação moral irresistível exclui a conduta." },
+{ "letra": "B", "texto": "Movimento reflexo e força irresistível excluem a conduta." },
+{ "letra": "C", "texto": "O fato típico é composto apenas de conduta humana, resultado e nexo causal." },
+{ "letra": "D", "texto": "A força física absoluta (proveniente da natureza ou de terceiro) exclui a conduta." }
+],
+"gabarito": "D"
+},
+{
+"id": "92184753",
+"metadata": "Ano: 2013 | Banca: FUMARC | Órgão: PC-MG",
+"enunciado_principal": "Em relação à interpretação da lei penal, assinale a alternativa CORRETA:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A interpretação gramatical ou literal é a única permitida para normas incriminadoras." },
+{ "letra": "B", "texto": "A interpretação autêntica não possui poder vinculante sobre o entendimento dos demais operadores do Direito." },
+{ "letra": "C", "texto": "O Direito Penal admite a interpretação analógica, mas proíbe a analogia *in malam partem*." },
+{ "letra": "D", "texto": "Toda interpretação da norma penal resultará sempre em um sentido restritivo." }
+],
+"gabarito": "C"
+},
+{
+"id": "47291038",
+"metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+"enunciado_principal": "Na análise analítica do conceito de crime, a Culpabilidade é a categoria jurídica que se destina a realizar o juízo de:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Tipicidade da conduta." },
+{ "letra": "B", "texto": "Ilicitude do fato." },
+{ "letra": "C", "texto": "Reprovabilidade do autor." },
+{ "letra": "D", "texto": "Existência do injusto penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "18092746",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "A respeito do conceito analítico de crime, julgue o item a seguir. No Direito Penal brasileiro, considera-se crime toda ação ou omissão típica, antijurídica e culpável.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "35901847",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "No contexto da evolução das teorias do delito, analise a afirmação sobre a corrente causalista. Para a teoria causal, o dolo é conhecido como dolo normativo, por conter a potencial consciência sobre a ilicitude do fato como um de seus elementos, ao lado dos aspectos volitivos e cognitivos.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+}
+]
