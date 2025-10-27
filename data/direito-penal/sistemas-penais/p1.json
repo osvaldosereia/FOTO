@@ -1,0 +1,498 @@
+[
+{
+"id": "74851290",
+"metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+"enunciado_principal": "Analise as seguintes asserções e a relação proposta entre elas:",
+"itens_assertiva": [
+"I. A reincidência não impede o reconhecimento do princípio da insignificância.",
+"PORQUE",
+"II. No Brasil, aplica-se o Direito Penal do Autor."
+],
+"enunciado_pergunta": "A respeito dessas asserções, assinale a alternativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I." },
+{ "letra": "B", "texto": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I." },
+{ "letra": "C", "texto": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa, não servindo de justificativa para a primeira." },
+{ "letra": "D", "texto": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira, não servindo de fundamento para a primeira." },
+{ "letra": "E", "texto": "As asserções I e II são proposições falsas." }
+],
+"gabarito": "C"
+},
+{
+"id": "23690184",
+"metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-GO",
+"enunciado_principal": "O sistema de teoria do crime que inspirou a parte geral do Código Penal brasileiro é o **finalista**, que, embora possa ser considerado ultrapassado em alguns pontos na atualidade, representou uma evolução em relação aos sistemas clássico e neoclássico. Os três sistemas dividem os elementos do crime em duas categorias: o injusto e a culpabilidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "É um aspecto característico do sistema finalista:",
+"alternativas": [
+{ "letra": "A", "texto": "a imputabilidade como mero pressuposto da culpabilidade." },
+{ "letra": "B", "texto": "a culpabilidade caracterizada a partir de elementos psicológicos e normativos." },
+{ "letra": "C", "texto": "a culpabilidade caracterizada a partir de elementos psicológicos." },
+{ "letra": "D", "texto": "o dolo como elemento do tipo penal inserido no injusto." },
+{ "letra": "E", "texto": "a culpa como elemento do tipo penal inserido na culpabilidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "60153827",
+"metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+"enunciado_principal": "Sobre a perspectiva da teoria finalista, que influenciou intensamente a reforma do Código Penal Brasileiro (1984),",
+"itens_assertiva": [],
+"enunciado_pergunta": "é **INCORRETO** afirmar:",
+"alternativas": [
+{ "letra": "A", "texto": "O dolo é considerado como “dolo natural”, não o integrando a consciência da ilicitude." },
+{ "letra": "B", "texto": "O dolo exige representação real da ação típica, não bastando uma consciência potencial, ainda que não se exija uma representação refletida." },
+{ "letra": "C", "texto": "O ilícito pessoal não se esgota no desvalor de resultado e se co-constitui pelo desvalor da ação, devendo, o resultado, ser considerado como “obra do autor”." },
+{ "letra": "D", "texto": "A culpabilidade mantém-se como uma categoria psicológica, desprovida de aspectos valorativos/normativos." }
+],
+"gabarito": "D"
+},
+{
+"id": "19407352",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+"enunciado_principal": "Assinale a opção correta com referência ao direito das vítimas.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O termo instituições de garantia, nas quais se enquadra o Ministério Público — referência feita por Luigi Ferrajoli —, é fruto das chamadas Constituições de segunda geração, como a Constituição Portuguesa de 1976." },
+{ "letra": "B", "texto": "O garantismo hiperbólico é uma consequência da racionalidade do garantismo monocular, que, por sua vez, acarreta uma proteção sistêmica." },
+{ "letra": "C", "texto": "O garantismo penal se confunde com o legalismo, porque ambas as teorias estão calcadas no Estado Democrático de Direito." },
+{ "letra": "D", "texto": "O garantismo penal evoluiu para uma visão integral, protegendo, além dos direitos individuais, também direitos sociais e coletivos, bem como os deveres, nos quais se insere, além do dever de investigar, processar e punir, também o direito das vítimas." },
+{ "letra": "E", "texto": "A visão atual de garantismo penal, a partir da ideia de instituições de garantia, é a de que existe mais de um garantismo: o garantismo do delinquente, calcado no *status libertatis*; e o garantismo das vítimas, fundamentado na prevenção da pena." }
+],
+"gabarito": "D"
+},
+{
+"id": "87034516",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+"enunciado_principal": "Acerca do fato típico, da teoria e da classificação dos crimes, julgue o item subsecutivo.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A teoria do crime adotada pelo ordenamento jurídico brasileiro adere à corrente causalista, segundo a qual a conduta do agente representa tão somente uma relação de causa-efeito, ausente de qualquer finalidade.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "52146937",
+"metadata": "Ano: 2019 | Banca: FEPESE | Órgão: DEAP - SC",
+"enunciado_principal": "O pensador francês Michel Foucault publicou, em 1975, uma obra que analisa os mecanismos que promoveram mudanças significativas nos sistemas penais do Ocidente. Trata também da vigilância e das formas de punições promovidas por instituições como prisões, hospitais e escolas.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa **correta** sobre o título da obra referida.",
+"alternativas": [
+{ "letra": "A", "texto": "Microfísica do poder" },
+{ "letra": "B", "texto": "História da loucura na idade clássica" },
+{ "letra": "C", "texto": "Arqueologia do saber: submundo do crime" },
+{ "letra": "D", "texto": "Nascimento da clínica: prisão controlada" },
+{ "letra": "E", "texto": "Vigiar e punir: nascimento da prisão" }
+],
+"gabarito": "E"
+},
+{
+"id": "90258164",
+"metadata": "Ano: 2019 | Banca: FEPESE | Órgão: DEAP - SC",
+"enunciado_principal": "Leia com atenção o texto a seguir. As informações históricas disponíveis nos permitem verificar que, entre as principais motivações para a transformação da prisão de _____________________ em privação de liberdade como pena, foi o interesse em aproveitar a mão de obra e a necessidade de controlar sua utilização. Esse sistema de privação da liberdade, com trabalho imposto aos condenados, também tinha a finalidade de atender as necessidade do capitalismo, com trabalhadores sem o mesmo poder de reinvindicações dos operários livres, caracterizando um período denominado __________________.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que completa **corretamente** as lacunas do texto.",
+"alternativas": [
+{ "letra": "A", "texto": "prevenção • socialista" },
+{ "letra": "B", "texto": "custódia • utilitarista" },
+{ "letra": "C", "texto": "tutela • participativo" },
+{ "letra": "D", "texto": "domicílio • macarthista" },
+{ "letra": "E", "texto": "sanção • colaboracionista" }
+],
+"gabarito": "B"
+},
+{
+"id": "31592670",
+"metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+"enunciado_principal": "A clássica frase a seguir inaugurou uma nova fase na dogmática jurídico-penal: “O caminho correto só pode ser deixar as decisões valorativas político-criminais introduzirem-se no sistema de direito penal”.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa em que consta o autor da referida afirmação, bem como o sistema jurídico-penal a que se refere:",
+"alternativas": [
+{ "letra": "A", "texto": "Edmund Mezger - neokantismo penal" },
+{ "letra": "B", "texto": "Claus Roxin - funcionalismo teleológico racional" },
+{ "letra": "C", "texto": "Günther Jakobs - funcionalismo sistêmico radical" },
+{ "letra": "D", "texto": "Hans Welzel - finalismo penal" }
+],
+"gabarito": "B"
+},
+{
+"id": "45873912",
+"metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+"enunciado_principal": "",
+"itens_assertiva": [
+"I - Jesús-María Silva Sánchez fala em Direito Penal de “duas velocidades”. Segundo o referido autor, há uma primeira velocidade, representada pelo Direito Penal “da prisão”, na qual haver-se-iam de manter rigidamente os princípios político-criminais clássicos, as regras de imputação e os princípios processuais. A segunda velocidade, por sua vez, estaria relacionada aos casos em que, por não se tratar de prisão, mas de penas de privação de direitos ou pecuniárias, aqueles princípios e regras poderiam experimentar uma flexibilização proporcional a menor intensidade da sanção.",
+"II - Na medida em que o Direito Penal nazista era entendido como um instrumento de luta contra os infiéis à comunidade do povo e que a violação de um dever era o conteúdo material do crime, era lógico que o centro de gravidade para o exercício do poder punitivo tinha de passar a ser a “vontade contrária ao Direito”, e não mais o “resultado proibido”. Nesse contexto foi concebido o “Direito Penal da vontade”, construção teórica marcante do Direito Penal nazista, sendo Roland Freisler um de seus principais expoentes. Essa concepção baseada na vontade permitiu a expansão do poder punitivo a níveis que uma dogmática atrelada a resultados de dano a bens jurídicos não admitia, já que ensejou uma profusa criminalização dos perigos abstratos. Além do mais, tal concepção também defendia que a tentativa tivesse a mesma pena do crime consumado.",
+"III - Para Günther Jakobs a função do Direito Penal é tutelar a vigência da norma. Quando o infrator comete um crime ele rompe com as expectativas normativas. A pena, assim, tem como função restabelecer a vigência da norma e demonstrar para a sociedade que ela pode seguir confiando no sistema normativo (estabilização das expectativas normativas).",
+"IV - Winfried Hassemer, da chamada “Escola Penal de Frankfurt”, observa que o Direito Penal Moderno, procurando minimizar a insegurança oriunda de uma sociedade de riscos, tem se tornado um instrumento em busca do controle dos grandes problemas da sociedade atual, como a proteção ao meio ambiente, da saúde pública, da ordem econômica, dentre outros. Assim, com o intuito de frear essa tendência de expansão do Direito Penal e com o objetivo de permitir a atuação do Direito Penal em relação aos tipos penais tradicionais, consubstanciados pelo núcleo básico de bens jurídicos individuais, propõe um “Direito de Intervenção”, situado entre o Direito Penal e o Direito Administrativo, que teria por finalidade controlar e inibir os riscos oriundos das novas tecnologias e do desenvolvimento econômico contemporâneo, por meio da proibição de condutas perigosas e da proteção de bens jurídicos coletivos. Esse “Direito de Intervenção”, segundo Hassemer, poderia contar com garantias e formalidades mais flexíveis e menos exigentes, mas também seria provido com sanções menos intensas contra o indivíduo."
+],
+"enunciado_pergunta": "Analise as proposições seguintes e assinale a alternativa correta:",
+"alternativas": [
+{ "letra": "A", "texto": "São corretos os itens I, II, III e IV." },
+{ "letra": "B", "texto": "São corretos os itens I, III e IV." },
+{ "letra": "C", "texto": "São corretos os itens II e III." },
+{ "letra": "D", "texto": "É correto apenas o item I." }
+],
+"gabarito": "A"
+},
+{
+"id": "77180425",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "A respeito da teoria do delito e da ação, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A teoria finalista de Hans Welzel define que a ação consiste no mero movimento corporal capaz de alterar o mundo exterior, independentemente da intenção do agente." },
+{ "letra": "B", "texto": "A ação, no neokantismo, é o movimento corporal impregnado de finalidade para se atingir o propósito consciente almejado pelo agente." },
+{ "letra": "C", "texto": "A teoria causalista do delito propõe que o dolo e a culpa, por estarem situados na conduta, tornam o injusto penal a parte subjetiva do conceito de crime." },
+{ "letra": "D", "texto": "A teoria funcionalista radical, de Gunther Jackobs, assevera que a missão do direito penal é a proteção da norma e a punição do indivíduo desviante." },
+{ "letra": "E", "texto": "A ação, na teoria do funcionalismo sistêmico, de Claus Roxin, designa o exercício de uma atividade final, que direciona a conduta humana ao ato consciente e voluntário para o cometimento do crime." }
+],
+"gabarito": "D"
+},
+{
+"id": "61028374",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+"enunciado_principal": "Constitui uma das características do direito penal do inimigo:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a legislação diferenciada." },
+{ "letra": "B", "texto": "a punição a partir de atos executórios." },
+{ "letra": "C", "texto": "a não utilização de medidas de segurança." },
+{ "letra": "D", "texto": "a observância das garantias processuais penais." },
+{ "letra": "E", "texto": "o abrandamento das penas na antecipação da tutela penal." }
+],
+"gabarito": "A"
+},
+{
+"id": "19450376",
+"metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+"enunciado_principal": "A forma pela qual ocorreu a estruturação da teoria do delito nem sempre foi uniforme, sendo variável segundo um perfil de evolução de conceitos do que é o direito. Assim, na medida em que ocorreram mudanças nas teorias basilares que influenciaram a estruturação do Direito Penal, a forma de apresentação e de estudo do delito igualmente foram mudando. Tendo isto em mente, a afirmação de que **“o direito positivo não possui uma valoração intrínseca e objetiva, sendo que as normas jurídicas aparecem determinadas por valores prévios e que contaminam, além de sua edição, também os próprios autores de sua elaboração, sendo que uma pretensa ‘verdade jurídica’ vem influenciada pela cultura”**, se mostra ajustada à definição de:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Causalismo." },
+{ "letra": "B", "texto": "Neokantismo." },
+{ "letra": "C", "texto": "Finalismo." },
+{ "letra": "D", "texto": "Pós-finalismo." },
+{ "letra": "E", "texto": "Funcionalismo." }
+],
+"gabarito": "B"
+},
+{
+"id": "83409217",
+"metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+"enunciado_principal": "Dentre as modernas teorias sobre a imputação penal, cresceu, no Brasil, nos últimos anos, o debate sobre a “teoria da imputação objetiva de **Claus Roxin**”.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Quanto às bases do sistema jurídico-penal concebido por Claus Roxin, no panorama da teoria geral do delito, assinale a alternativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "A doutrina radical-sistêmica (ou racional-anímica) caracteriza-se pela projeção da tipicidade objetiva como principal elemento da antijuridicidade, no contexto do finalismo." },
+{ "letra": "B", "texto": "A doutrina teleológico-sistêmica (ou racional-final) caracteriza-se pela projeção da tipicidade subjetiva como principal elemento da culpabilidade, no contexto do neokantismo." },
+{ "letra": "C", "texto": "A doutrina normativo-teleológica (ou racional-funcional) caracteriza-se pela inserção de elementos político-criminais nas categorias dogmático-penais, no contexto do funcionalismo." },
+{ "letra": "D", "texto": "A doutrina natural-sistêmica (ou racional-causal) caracteriza-se pela negação de relevância jurídica do erro que incide sobre os pressupostos fáticos do processo causal, no contexto do causalismo." }
+],
+"gabarito": "C"
+},
+{
+"id": "50917634",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+"enunciado_principal": "Tendo em conta a teoria geral do crime, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Os partidários da teoria tripartida do delito consideram a culpabilidade como pressuposto da pena e não elemento do crime." },
+{ "letra": "B", "texto": "Os partidários da teoria tripartida do delito consideram elementos do crime a tipicidade, a antijuricidade e a punibilidade." },
+{ "letra": "C", "texto": "A tipicidade, elemento do crime, na concepção material, esgota-se na subsunção da conduta ao tipo penal." },
+{ "letra": "D", "texto": "O dolo, na escola clássica, deixou de ser elemento integrante da culpabilidade, deslocando-se para a conduta, já que ação e intenção são indissociáveis." },
+{ "letra": "E", "texto": "Os partidários da teoria funcionalista da culpabilidade entendem que a culpabilidade é limitada pela finalidade preventiva da pena; constatada a desnecessidade da pena, o agente não será punido." }
+],
+"gabarito": "E"
+},
+{
+"id": "21768493",
+"metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AP",
+"enunciado_principal": "O chamado **versari in re illicita** implica que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "aquele que realizar um ato ilícito penal responde por todas as consequências derivadas deste fato, ainda que em sua inicial atuação não houvesse nenhum nexo subjetivo." },
+{ "letra": "B", "texto": "o fato (o que compreende o acontecimento principal e todas as consequências que se derivem posteriormente) deve *pertencer* ao sujeito." },
+{ "letra": "C", "texto": "a pena não pode transcender da pessoa do delinquente." },
+{ "letra": "D", "texto": "a determinação da pena e das medidas de segurança deve se guiar por critérios de proporcionalidade ao delito cometido." },
+{ "letra": "E", "texto": "deve-se aplicar sanção penal a produtores de artigos de consumo perigosos que afetam a vida e a saúde das pessoas." }
+],
+"gabarito": "A"
+},
+{
+"id": "40951372",
+"metadata": "Ano: 2017 | Banca: Fundação CEFETBAHIA | Órgão: Prefeitura de Irecê - BA",
+"enunciado_principal": "Considerando as disposições do Código Penal Brasileiro sobre a Teoria do Delito, analise as assertivas e identifique com **V** as verdadeiras e com **F** as falsas.",
+"itens_assertiva": [
+"( ) O crime considera-se praticado no momento da ação ou omissão, ainda que outro seja o momento do resultado.",
+"( ) O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.",
+"( ) Não se pune o exaurimento quando, por ineficácia relativa do meio ou por impropriedade completa do objeto, é impossível executar os atos preparatórios.",
+"( ) A pena não será reduzida, se o inimputável, em virtude de perturbação de saúde mental ou por desenvolvimento mental incompleto ou retardado, não era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com o direito."
+],
+"enunciado_pergunta": "A alternativa que contém a sequência correta, de cima pra baixo, é:",
+"alternativas": [
+{ "letra": "A", "texto": "V F V F" },
+{ "letra": "B", "texto": "V V F F" },
+{ "letra": "C", "texto": "V F F V" },
+{ "letra": "D", "texto": "F F V V" },
+{ "letra": "E", "texto": "F V F V" }
+],
+"gabarito": "B"
+},
+{
+"id": "67329045",
+"metadata": "Ano: 2017 | Banca: IBADE | Órgão: SEJUDH - MT",
+"enunciado_principal": "O chamado sistema penal garantista é marcado por 10 axiomas fundamentais.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que indica princípios pertinentes ao indigitado sistema.",
+"alternativas": [
+{ "letra": "A", "texto": "Lesividade. intervenção mínima e eficiência." },
+{ "letra": "B", "texto": "Colegialidade. indelegabilidade e intervenção máxima." },
+{ "letra": "C", "texto": "Segurança jurídica, defesa social e ofensividade." },
+{ "letra": "D", "texto": "Legalidade. lesividade e economia do direito penal (necessidade)." },
+{ "letra": "E", "texto": "Legalidade, fraternidade e obrigatoriedade." }
+],
+"gabarito": "D"
+},
+{
+"id": "11984635",
+"metadata": "Ano: 2016 | Banca: FCC | Órgão: DPE-BA",
+"enunciado_principal": "Sobre a evolução das Escolas Penais,",
+"itens_assertiva": [],
+"enunciado_pergunta": "assinale a alternativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "a base ontológica do funcionalismo permitiu a construção da teoria da imputação objetiva." },
+{ "letra": "B", "texto": "a estrutura do delito no causal-naturalismo tem por característica a presença de elementos subjetivos no tipo." },
+{ "letra": "C", "texto": "a transformação realizada pelo finalismo na teoria do delito consiste, principalmente, na relevância atribuída à vontade e aos aspectos subjetivos da culpabilidade." },
+{ "letra": "D", "texto": "a necessidade de associação das categorias do delito a um fundamento material de ofensa ao bem jurídico é uma das bases do funcionalismo de Claus Roxin." },
+{ "letra": "E", "texto": "o funcionalismo teleológico de Günther Jakobs impossibilitou a construção de mecanismos de imputação baseados no direito penal do autor." }
+],
+"gabarito": "D"
+},
+{
+"id": "55073182",
+"metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
+"enunciado_principal": "A corrente/teoria penal que se funda na ideia de que as normas jurídicas devem ser protegidas por si mesmas, pouco importando o bem jurídico por trás delas, é:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a teoria do garantismo penal, de Luigi Ferrajoli." },
+{ "letra": "B", "texto": "o funcionalismo teleológico-racional, de Claus Roxin." },
+{ "letra": "C", "texto": "o funcionalismo sistêmico, de Günther Jakobs." },
+{ "letra": "D", "texto": "a teoria da tipicidade conglobante, de Eugenio Zaffaroni." },
+{ "letra": "E", "texto": "a teoria constitucionalista do delito." }
+],
+"gabarito": "C"
+},
+{
+"id": "36214058",
+"metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJ-RJ",
+"enunciado_principal": "Assinale a alternativa que indica a teoria do Direito Penal que está intimamente ligada à seguinte ideia: “a estruturação do Direito Penal não deve se basear em uma realidade ontológica, devendo ser mitigada a função do bem jurídico como pressuposto e critério norteador para a intervenção penal\".",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Constitucionalista." },
+{ "letra": "B", "texto": "Clássica." },
+{ "letra": "C", "texto": "Finalista." },
+{ "letra": "D", "texto": "Funcionalista." },
+{ "letra": "E", "texto": "Garantista." }
+],
+"gabarito": "D"
+},
+{
+"id": "58412076",
+"metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-GO",
+"enunciado_principal": "O sistema de teoria do crime que inspirou a parte geral do Código Penal brasileiro é o finalista, que, embora possa ser considerado ultrapassado em alguns pontos na atualidade, representou uma evolução em relação aos sistemas clássico e neoclássico. Os três sistemas dividem os elementos do crime em duas categorias: o injusto e a culpabilidade. É um aspecto característico do sistema finalista",
+"itens_assertiva": [],
+"enunciado_pergunta": "O dolo como elemento do tipo penal inserido no injusto, e a culpa como elemento do tipo penal inserido na culpabilidade. Assinale a alternativa **correta** sobre esse aspecto.",
+"alternativas": [
+{ "letra": "A", "texto": "a imputabilidade como mero pressuposto da culpabilidade." },
+{ "letra": "B", "texto": "a culpabilidade caracterizada a partir de elementos psicológicos e normativos." },
+{ "letra": "C", "texto": "a culpabilidade caracterizada a partir de elementos psicológicos." },
+{ "letra": "D", "texto": "o dolo como elemento do tipo penal inserido no injusto." },
+{ "letra": "E", "texto": "a culpa como elemento do tipo penal inserido na culpabilidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "91754328",
+"metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+"enunciado_principal": "Sobre a teoria finalista, assinale a opção **INCORRETA**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O dolo, para a teoria finalista, é o dolo natural, sem integrar a consciência da ilicitude." },
+{ "letra": "B", "texto": "O ilícito pessoal não se esgota no desvalor de resultado, sendo co-constituído pelo desvalor da ação." },
+{ "letra": "C", "texto": "A culpabilidade é vista como uma categoria puramente psicológica, sem aspectos valorativos ou normativos." },
+{ "letra": "D", "texto": "O dolo exige representação real da ação típica, ainda que não seja necessária uma representação refletida." }
+],
+"gabarito": "C"
+},
+{
+"id": "33987105",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+"enunciado_principal": "Considerando a evolução do garantismo penal e o direito das vítimas, assinale a opção que apresenta a visão **correta**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O garantismo penal se desenvolveu para uma perspectiva integral, que abrange não apenas direitos individuais, mas também direitos sociais, coletivos e deveres, incluindo o direito das vítimas, além do dever de investigar e punir." },
+{ "letra": "B", "texto": "Segundo Luigi Ferrajoli, as instituições de garantia (como o MP) são fruto das Constituições de primeira geração." },
+{ "letra": "C", "texto": "O garantismo hiperbólico é um sinônimo de proteção sistêmica, resultante do garantismo monocular." },
+{ "letra": "D", "texto": "O garantismo penal é indistinguível do legalismo." },
+{ "letra": "E", "texto": "O garantismo do delinquente se calcado na prevenção da pena, enquanto o das vítimas se fundamenta no *status libertatis*." }
+],
+"gabarito": "A"
+},
+{
+"id": "27056439",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+"enunciado_principal": "Julgue o item subsequente acerca da teoria do crime:",
+"itens_assertiva": [],
+"enunciado_pergunta": "A teoria do crime adotada pelo Direito brasileiro, que rege a Parte Geral do Código Penal, é a causalista, que entende a conduta como mera relação de causa-efeito, sem considerar a finalidade do agente.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "89317540",
+"metadata": "Ano: 2019 | Banca: FEPESE | Órgão: DEAP - SC",
+"enunciado_principal": "Qual é o título da obra publicada em 1975 por Michel Foucault que analisa as alterações nos sistemas penais ocidentais e trata dos mecanismos de vigilância e punição em prisões, hospitais e escolas?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Microfísica do poder" },
+{ "letra": "B", "texto": "História da loucura na idade clássica" },
+{ "letra": "C", "texto": "Arqueologia do saber: submundo do crime" },
+{ "letra": "D", "texto": "Nascimento da clínica: prisão controlada" },
+{ "letra": "E", "texto": "Vigiar e punir: nascimento da prisão" }
+],
+"gabarito": "E"
+},
+{
+"id": "62109543",
+"metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+"enunciado_principal": "Qual autor e respectivo sistema jurídico-penal estão associados à seguinte afirmação, que marcou uma nova fase na dogmática jurídico-penal: **'O caminho correto só pode ser deixar as decisões valorativas político-criminais introduzirem-se no sistema de direito penal'**?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Edmund Mezger - neokantismo penal" },
+{ "letra": "B", "texto": "Claus Roxin - funcionalismo teleológico racional" },
+{ "letra": "C", "texto": "Günther Jakobs - funcionalismo sistêmico radical" },
+{ "letra": "D", "texto": "Hans Welzel - finalismo penal" }
+],
+"gabarito": "B"
+},
+{
+"id": "47318025",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Sobre as diversas teorias do delito e da ação, assinale a assertiva **correta**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A teoria funcionalista radical, defendida por Gunther Jakobs, defende que a principal missão do direito penal é a proteção da norma e a punição do indivíduo desviante." },
+{ "letra": "B", "texto": "Para a teoria finalista, a ação é um mero movimento corporal desprovido da intencionalidade do agente." },
+{ "letra": "C", "texto": "O neokantismo entende a ação como o movimento corporal imbuído de finalidade." },
+{ "letra": "D", "texto": "A teoria causalista do delito considera o dolo e a culpa como elementos da conduta, tornando o injusto penal a parte subjetiva." },
+{ "letra": "E", "texto": "No funcionalismo sistêmico de Claus Roxin, a ação é o exercício de uma atividade final que direciona o ato consciente e voluntário para o crime." }
+],
+"gabarito": "A"
+},
+{
+"id": "34589012",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+"enunciado_principal": "Entre as opções a seguir, identifique uma característica associada ao conceito de **Direito Penal do Inimigo** (Günther Jakobs).",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a legislação diferenciada." },
+{ "letra": "B", "texto": "a punição a partir de atos executórios." },
+{ "letra": "C", "texto": "a não utilização de medidas de segurança." },
+{ "letra": "D", "texto": "a observância das garantias processuais penais." },
+{ "letra": "E", "texto": "o abrandamento das penas na antecipação da tutela penal." }
+],
+"gabarito": "A"
+},
+{
+"id": "55127806",
+"metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+"enunciado_principal": "A evolução da teoria do delito é marcada por mudanças conceituais. A afirmação de que 'o direito positivo não possui uma valoração intrínseca e objetiva, sendo que as normas jurídicas aparecem determinadas por valores prévios e que contaminam, além de sua edição, também os próprios autores de sua elaboração, sendo que uma pretensa **verdade jurídica** vem influenciada pela cultura', está ajustada à definição de qual escola penal?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Causalismo." },
+{ "letra": "B", "texto": "Neokantismo." },
+{ "letra": "C", "texto": "Finalismo." },
+{ "letra": "D", "texto": "Pós-finalismo." },
+{ "letra": "E", "texto": "Funcionalismo." }
+],
+"gabarito": "B"
+},
+{
+"id": "71065932",
+"metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+"enunciado_principal": "A teoria da imputação objetiva de Claus Roxin é um tema recorrente.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa que descreve corretamente as bases do sistema jurídico-penal de Claus Roxin no contexto da teoria geral do delito.",
+"alternativas": [
+{ "letra": "A", "texto": "É uma doutrina radical-sistêmica (ou racional-anímica) que projeta a tipicidade objetiva como principal elemento da antijuridicidade, no contexto do finalismo." },
+{ "letra": "B", "texto": "É uma doutrina teleológico-sistêmica (ou racional-final) que projeta a tipicidade subjetiva como principal elemento da culpabilidade, no contexto do neokantismo." },
+{ "letra": "C", "texto": "É a doutrina normativo-teleológica (ou racional-funcional) que insere elementos político-criminais nas categorias dogmático-penais, no contexto do funcionalismo." },
+{ "letra": "D", "texto": "É a doutrina natural-sistêmica (ou racional-causal) que nega a relevância jurídica do erro que incide sobre os pressupostos fáticos do processo causal, no contexto do causalismo." }
+],
+"gabarito": "C"
+},
+{
+"id": "90876543",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+"enunciado_principal": "Acerca da teoria geral do crime, assinale a opção **correta**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O dolo, na escola clássica, foi mantido na culpabilidade, sendo o dolo e a culpa elementos da conduta no finalismo." },
+{ "letra": "B", "texto": "A tipicidade material se esgota na subsunção da conduta ao tipo penal." },
+{ "letra": "C", "texto": "Para os defensores da teoria tripartida do delito, a punibilidade é um elemento do crime, juntamente com a tipicidade e a antijuridicidade." },
+{ "letra": "D", "texto": "Os adeptos da teoria tripartida do delito consideram a culpabilidade como pressuposto da pena, e não como elemento do crime." },
+{ "letra": "E", "texto": "A teoria funcionalista da culpabilidade sustenta que a culpabilidade é limitada pela finalidade preventiva da pena; se a pena for desnecessária, o agente não será punido." }
+],
+"gabarito": "E"
+},
+{
+"id": "49512607",
+"metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AP",
+"enunciado_principal": "O princípio do *versari in re illicita*",
+"itens_assertiva": [],
+"enunciado_pergunta": "implica que:",
+"alternativas": [
+{ "letra": "A", "texto": "quem pratica um ato ilícito penal responde por todas as consequências dele advindas, mesmo que não haja nexo subjetivo em sua atuação inicial." },
+{ "letra": "B", "texto": "o fato principal e suas consequências posteriores devem ser atribuídos ao sujeito." },
+{ "letra": "C", "texto": "a sanção penal não pode ultrapassar a pessoa do infrator." },
+{ "letra": "D", "texto": "a determinação da pena deve respeitar a proporcionalidade ao delito cometido." },
+{ "letra": "E", "texto": "deve-se aplicar sanção penal aos produtores de bens perigosos que afetam a vida e a saúde." }
+],
+"gabarito": "A"
+},
+{
+"id": "18307425",
+"metadata": "Ano: 2017 | Banca: IBADE | Órgão: SEJUDH - MT",
+"enunciado_principal": "O sistema penal garantista, de Luigi Ferrajoli, estrutura-se em 10 axiomas fundamentais.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Quais princípios são considerados pertinentes a esse sistema?",
+"alternativas": [
+{ "letra": "A", "texto": "Lesividade, intervenção mínima e eficiência." },
+{ "letra": "B", "texto": "Colegialidade, indelegabilidade e intervenção máxima." },
+{ "letra": "C", "texto": "Segurança jurídica, defesa social e ofensividade." },
+{ "letra": "D", "texto": "Legalidade, lesividade e economia do direito penal (necessidade)." },
+{ "letra": "E", "texto": "Legalidade, fraternidade e obrigatoriedade." }
+],
+"gabarito": "D"
+}
+]
