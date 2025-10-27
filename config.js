@@ -1,28 +1,36 @@
-// --- 1. Definição do "Banco de Dados" de Disciplinas e Temas ---
-        
-// Esta estrutura define quais pastas o sistema irá procurar.
-// A chave (ex: "direito-penal") é o nome da pasta.
-// O valor (ex: "Direito Penal") é o nome exibido.
+/**
+ * ESTE É O SEU BANCO DE DADOS DE DISCIPLINAS E TEMAS.
+ * * Edite este arquivo para adicionar/remover disciplinas ou temas.
+ * * IMPORTANTE:
+ * 1. A "chave" (ex: "direito-penal") deve ser o nome exato da pasta em /data/.
+ * 2. O "nome" (ex: "Direito Penal") é o texto que aparece no menu.
+ * 3. O "provas" (ex: 10) é o NÚMERO TOTAL de arquivos .json que existem 
+ * dentro da pasta daquele tema (ex: p1.json, p2.json ... p10.json).
+ */
 const dbDisciplinas = {
     "direito-penal": {
         nome: "Direito Penal",
         temas: {
-            "conceitos": "Conceitos e Características"
+            // Formato: "chave-pasta": { nome: "Nome Exibido", provas: (número de arquivos json) }
+            "conceitos": { nome: "Conceitos e Características", provas: 4 },
+            "poder-punitivo-estatal": { nome: "Poder Punitivo Estatal", provas: 4 }
+           
         }
     },
     "direito-civil": {
         nome: "Direito Civil",
         temas: {
-            "contratos": "Contratos",
-            "obrigacoes": "Obrigações",
-            "posse": "Posse e Propriedade"
+            "contratos": { nome: "Contratos", provas: 10 },
+            "obrigacoes": { nome: "Obrigações", provas: 10 },
+            "posse": { nome: "Posse e Propriedade", provas: 10 }
         }
     },
     "portugues": {
         nome: "Português",
         temas: {
-            "concordancia": "Concordância",
-            "crase": "Crase"
+            "concordancia": { nome: "Concordância", provas: 10 },
+            "crase": { nome: "Crase", provas: 10 }
         }
     }
 };
+
