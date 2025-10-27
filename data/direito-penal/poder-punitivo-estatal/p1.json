@@ -1,258 +1,549 @@
 [
   {
-    "id": "Q852976",
-    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
-    "enunciado": "Assinale a opção que apresenta princípios que devem ser observados pelas leis penais por expressa previsão constitucional.",
+    "id": "78149250",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "enunciado": "A respeito dos princípios constitucionais penais e das escolas penais, assinale a opção correta.",
     "alternativas": [
-      { "letra": "A", "texto": "legalidade, irretroatividade, responsabilidade pessoal, economicidade, individualização da pena" },
-      { "letra": "B", "texto": "legalidade, irretroatividade, responsabilidade pessoal, presunção da inocência, eficiência da pena" },
-      { "letra": "C", "texto": "legalidade, irretroatividade, responsabilidade pessoal, presunção da inocência, individualização da pena" },
-      { "letra": "D", "texto": "legalidade, irretroatividade, moralidade, presunção da inocência, individualização da pena" },
-      { "letra": "E", "texto": "legalidade, impessoalidade, irretroatividade, presunção da inocência, individualização da pena" }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q846049",
-    "metadata": "Ano: 2017 | Banca: IBFC | Órgão: TJ-PE",
-    "enunciado": "O conceito analítico de crime apresenta como um de seus elementos constituidores a tipicidade. No contexto do fato típico observa-se um aparente conflito entre normas penais aplicáveis ao caso concreto. Com base nos seus conhecimentos sobre Direito Penal, assinale a alternativa que não apresenta um dos mecanismos principiológicos utilizados para solucionar os conflitos aparentes de normas:",
-    "alternativas": [
-      { "letra": "A", "texto": "Princípio da subsidiariedade" },
-      { "letra": "B", "texto": "Princípio da insignificância" },
-      { "letra": "C", "texto": "Princípio da consunção" },
-      { "letra": "D", "texto": "Princípio da alternatividade" },
-      { "letra": "E", "texto": "Princípio da especialidade" }
-    ],
-    "gabarito": "B"
-  },
-  {
-    "id": "Q844947",
-    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: PJC-MT",
-    "enunciado": "De acordo com o entendimento do STF, a aplicação do princípio da insignificância pressupõe a constatação de certos vetores para se caracterizar a atipicidade material do delito. Tais vetores incluem o(a)",
-    "alternativas": [
-      { "letra": "A", "texto": "reduzidíssimo grau de reprovabilidade do comportamento." },
-      { "letra": "B", "texto": "desvalor relevante da conduta e do resultado." },
-      { "letra": "C", "texto": "mínima periculosidade social da ação." },
-      { "letra": "D", "texto": "relevante ofensividade da conduta do agente." },
-      { "letra": "E", "texto": "expressiva lesão jurídica provocada." }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q843733",
-    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
-    "enunciado": "No que diz respeito aos princípios aplicáveis ao Direito Penal, analise os textos a seguir.\nA proteção de bens jurídicos não se realiza só mediante o Direito Penal, senão que nessa missão cooperam todo o instrumental do ordenamento jurídico.\n\nROXIN, Claus. Der echo penai- parte geral. Madrid: Civitas, 1997.1.1, p. 65.\nA criminalização de uma conduta só se legitima se constituir meio necessário para a proteção de ataques contra bens jurídicos importantes.\nBITENCOURT, Cezar Roberto. Tratada de direito penal: parte geral. 20. ed. São Paulo: Saraiva, 2014, p. 54.\n\nNesse sentido, é correto afirmar que os textos se referem ao",
-    "alternativas": [
-      { "letra": "A", "texto": "princípio da intervenção mínima, imputando ao Direito Penal somente fatos que escapem aos meios extrapenais de controle social, em virtude da gravidade da agressão e da importância do bem jurídico para a convivência social." },
-      { "letra": "B", "texto": "princípio da insignificância, que reserva ao Direito Penal a aplicação de pena somente aos crimes que produzirem ataques graves a bem jurídicos protegidos por esse Direito, sendo que agir de forma diferente causa afronta à tipicidade material." },
-      { "letra": "C", "texto": "princípio da adequação social em que as condutas previstas como ilícitas não necessariamente revelam-se como relevantes para sofrerem a intervenção do Estado, em particular quando se tornarem socialmente permitidas ou toleradas." },
-      { "letra": "D", "texto": "princípio da ofensividade, pois somente se justifica a intervenção do Estado para reprimir a infração com aplicação de pena, quando houver dano ou perigo concreto de dano a determinado interesse socialmente relevante e protegido pelo ordenamento jurídico." },
-      { "letra": "E", "texto": "princípio da proporcionalidade, em que somente se reserva a intervenção do Estado, quando for estritamente necessária a aplicação de pena em quantidade e qualidade proporcionais à gravidade do dano produzido e a necessária prevenção futura." }
-    ],
-    "gabarito": "A"
-  },
-  {
-    "id": "Q843729",
-    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
-    "enunciado": "Com relação aos princípios de Direito Penal e à interpretação da lei penal, assinale a alternativa correta.",
-    "alternativas": [
-      { "letra": "A", "texto": "A interpretação autêntica contextual visa a dirimir a incerteza ou obscuridade da lei anterior." },
-      { "letra": "B", "texto": "Não se aplica o princípio da individualização da pena na fase da execução penal." },
-      { "letra": "C", "texto": "A interpretação quanto ao resultado busca o significado legal de acordo com o progresso da ciência." },
-      { "letra": "D", "texto": "O princípio da proporcionalidade tem apenas o judiciário como destinatário cujas penas impostas ao autor do delito devem ser proporcionais à concreta gravidade." },
-      { "letra": "E", "texto": "A interpretação teleológica busca alcançar a finalidade da lei, aquilo que ela se destina a regular." }
-    ],
-    "gabarito": "E"
-  },
-  {
-    "id": "Q843728",
-    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
-    "enunciado": "Com relação aos princípios aplicáveis ao Direito Penal, em especial no que se refere ao princípio da adequação social, assinale a alternativa correta.",
-    "alternativas": [
-      { "letra": "A", "texto": "O Direito Penal deve tutelar bens jurídicos mais relevantes para a vida em sociedade, sem levar em consideração valores exclusivamente morais ou ideológicos." },
-      { "letra": "B", "texto": "só se deve recorrer ao Direito Penal se outros ramos do direito não forem suficientes." },
-      { "letra": "C", "texto": "Deve-se analisar se houve uma mínima ofensividade ao bem jurídico tutelado, se houve periculosidade social da ação e se há reprovabilidade relevante no comportamento do agente." },
-      { "letra": "D", "texto": "Não há crime se não há lesão ou perigo real de lesão a bem jurídico tutelado pelo Direito Penal." },
-      { "letra": "E", "texto": "Apesar de uma conduta subsumir ao modelo legal, não será considerada típica se for historicamente aceita pela sociedade." }
-    ],
-    "gabarito": "E"
-  },
-  {
-    "id": "Q840604",
-    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-RS",
-    "enunciado": "O que nos parece é que as duas dimensões do bem jurídico-penal ― a valorativa e a pragmática ― apresentam áreas de intensa interpenetração, o que origina a tendencial convergência entre elevada dignidade penal e necessidade de tutela penal, assim como, inversamente, entre reduzida dignidade penal e desnecessidade de tutela penal .\n(CUNHA, Maria da Conceição Ferreira da. Constituição e crime : uma perspectiva da criminalização e da descriminalização. Porto: Universidade Católica Portuguesa Editora, 1995, p. 424)\n\nNesse tópico, o tema central do raciocínio da jurista portuguesa radica primacialmente no campo da ideia constitucional de",
-    "alternativas": [
-      { "letra": "A", "texto": "individualização." },
-      { "letra": "B", "texto": "dignidade humana." },
-      { "letra": "C", "texto": "irretroatividade." },
-      { "letra": "D", "texto": "proporcionalidade." },
-      { "letra": "E", "texto": "publicidade." }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q821257",
-    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: MPE-RR",
-    "enunciado": "No direito penal, o princípio da",
-    "alternativas": [
-      { "letra": "A", "texto": "fragmentariedade informa que o direito penal é autônomo e cuida das condutas tidas por ilícitas penalmente, sendo aplicável a lei penal independentemente da solução do problema por outros ramos do direito." },
-      { "letra": "B", "texto": "irretroatividade da lei se aplica absolutamente." },
-      { "letra": "C", "texto": "insignificância, segundo o entendimento do STF, pressupõe apenas três requisitos para a sua configuração: mínima ofensividade da conduta do agente, nenhuma periculosidade social e reduzidíssimo grau de reprovabilidade do comportamento." },
-      { "letra": "D", "texto": "proporcionalidade fundamenta a declaração de inconstitucionalidade de parte do art. 44 da Lei Antidrogas, que veda a concessão de liberdade provisória em crimes relacionados às drogas." }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q821253",
-    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: MPE-RR",
-    "enunciado": "Em uma aldeia indígena, um índio cometeu homicídio contra outro índio e, por tal fato, ele foi julgado e condenado por conselho dessa aldeia, razão por que, atualmente, se encontra cumprindo a pena que lhe foi imposta.\nAcerca dessa situação hipotética, assinale a opção correta à luz do entendimento do TJ/RR.",
-    "alternativas": [
-      { "letra": "A", "texto": "A punição do índio homicida pelo direito brasileiro é vedada em razão da exclusividade de punição dele pela tribo, uma vez que o fato tem como autor e como vítima índios e ocorreu no território da tribo, a quem pertence, portanto, o jus puniendi ." },
-      { "letra": "B", "texto": "A punição do índio homicida pelo direito brasileiro é possível devido ao monopólio do poder de punir do Estado e, consequentemente, da exclusividade da ação penal de iniciativa pública incondicionada por parte do MP." },
-      { "letra": "C", "texto": "Em razão do princípio do ne bis in idem e de a CF reconhecer aos índios sua organização social, a punição pela tribo é legítima e é impossível a punição do índio homicida pelo direito penal brasileiro." },
-      { "letra": "D", "texto": "Devido à independência dos órgãos julgadores e da inexistência de jurisdição legal pela tribo em questão, é possível a punição do índio homicida pelo direito penal brasileiro." }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q812487",
-    "metadata": "Ano: 2017 | Banca: IBADE | Órgão: PC-AC",
-    "enunciado": "“O suicídio é um crime (assassínio) [...]. Aniquilar o sujeito da moralidade na própria pessoa é erradicar a existência da moralidade mesma do mundo, o máximo possível, ainda que a moralidade seja um fim em si mesma. Consequentemente, dispor de si mesmo como um mero meio para algum fim discricionário é rebaixar a humanidade na própria pessoa ( homo noumenon ), à qual o ser humano ( homo phaenomenon ) foi, todavia, confiado para preservação” (KANT, Immanuel, a Metafísica dos Costumes).\nA extinção da própria vida já foi objeto de sancionamento penal em diversos países. Esclarece Galdino Siqueira (Tratado, tomo III, p. 68) que o direito romano punia com confisco de bens o ato de suicidar-se para fugir a uma acusação ou à pena por outro delito. A mesma pena foi aplicada em França. O confisco-segundo o autor-persistia na Inglaterra no início do século XX, desde que o suicídio não fosse efeito de uma desordem mental provada. Tendo por base o confisco de bens outrora pertencentes ao suicida - que tem herdeiros - como forma de punição penal, é correto afirmar que responsabilização de terceiros pela conduta de alguém viola o princípio penal, denominado:",
-    "alternativas": [
-      { "letra": "A", "texto": "individualização judicial da pena." },
-      { "letra": "B", "texto": "taxatividade" },
-      { "letra": "C", "texto": "intranscendência." },
-      { "letra": "D", "texto": "ofensividade." },
-      { "letra": "E", "texto": "inderrogabilidade." }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q800678",
-    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-PR",
-    "enunciado": "O princípio da intervenção mínima no Direito Penal encontra reflexo",
-    "alternativas": [
-      { "letra": "A", "texto": "no princípio da fragmentariedade e na teoria da imputação objetiva." },
-      { "letra": "B", "texto": "no princípio da subsidiariedade e na teoria da imputação objetiva." },
-      { "letra": "C", "texto": "nos princípios da subsidiariedade e da fragmentariedade." },
-      { "letra": "D", "texto": "no princípio da fragmentariedade e na proposta funcionalista sistêmica." },
-      { "letra": "E", "texto": "na teoria da imputação objetiva e na proposta funcionalista sistêmica" }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q798451",
-    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
-    "enunciado": "Considerando a jurisprudência do STF e do STJ sobre os princípios informativos do direito penal e da teoria geral da pena, assinale a opção correta.",
-    "alternativas": [
-      { "letra": "A", "texto": "Se a natureza e a quantidade da droga apreendida repercutirem na fixação da pena, não poderá esse mesmo parâmetro ser usado para definir o regime inicial de cumprimento dessa pena." },
-      { "letra": "B", "texto": "A irretroatividade da lei penal mais gravosa é sempre aplicável, inclusive nos crimes permanentes e nas hipóteses de continuidade delitiva." },
-      { "letra": "C", "texto": "Devido ao fato de o crime de lavagem de capitais ser de caráter acessório, a participação do agente no crime antecedente é indispensável à configuração daquele crime." },
-      { "letra": "D", "texto": "A prática sequenciada de atos libidinosos e conjunção carnal contra a mesma pessoa, dentro do mesmo contexto fático, configura crime único." }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q795666",
-    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
-    "enunciado": "Assinale a alternativa INCORRETA .",
-    "alternativas": [
-      { "letra": "A", "texto": "Para a teoria da conditio sine qua non , se a vítima morre quando poderia ter sido salva, caso levada, logo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio consumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada por engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio consumado." },
-      { "letra": "B", "texto": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma conduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico. Pressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do tipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A imputação objetiva constitui elemento normativo implícito do tipo penal." },
-      { "letra": "C", "texto": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos de interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato." },
-      { "letra": "D", "texto": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela utilização de outro como instrumento de realização; também quem, mesmo não executando o fato típico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do plano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo." },
-      { "letra": "E", "texto": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e desenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação ocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em legítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma teoria, a culpabilidade não é psicológica, nem psicológico-normativa." }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q2055929",
-    "metadata": "Ano: 2016 | Banca: Quadrix | Órgão: CREF - 7ª Região (DF)",
-    "enunciado": "Sobre a aplicação da lei penal, considerando o disposto no Título I do Código Penal, assinale a alternativa que não está correta.",
-    "alternativas": [
-      { "letra": "A", "texto": "Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal." },
-      { "letra": "B", "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado." },
-      { "letra": "C", "texto": "Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional." },
-      { "letra": "D", "texto": "Os crimes contra a vida do Presidente da República ficam sujeitos à lei brasileira, se cometidos no Brasil, e sujeitos à lei estrangeira, se cometidos no exterior." },
-      { "letra": "E", "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como no lugar em que se produziu ou deveria produzir-se o resultado." }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q734398",
-    "metadata": "Ano: 2016 | Banca: IBEG | Órgão: Prefeitura de Teixeira de Freitas - BA",
-    "enunciado": "O princípio da legalidade é uma garantia constitucional fundamental do homem: “não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal” (CF/88, art. 5º, XXXIX e Código Penal, art. 1º). Sobre esse princípio, analise as assertivas abaixo e indique a incorreta.",
-    "alternativas": [
-      { "letra": "A", "texto": "De acordo com a maioria da doutrina, há no princÍpio da legalidade embutidos dois princípios diferentes: o da reserva legal, reservando para o estrito campo da lei a existência do crime e sua correspondente pena e o da anterioridade, exigindo que a lei esteja em vigor no momento da prática da infração penal." },
-      { "letra": "B", "texto": "O princípio da legalidade veda o uso da analogia in malam partem, e a criação de crimes e penas pelos costumes." },
-      { "letra": "C", "texto": "O Estado é a única fonte de produção do direito penal, já que compete privativamente à União legislar sobre normas gerais em matéria penal, ressaltando que, excepcionalmente, lei estadual (ou distrital) poderá tratar sobre questões específicas de Direito Penal, desde que permitido pela União por meio de lei complementar." },
-      { "letra": "D", "texto": "O princípio da legalidade não se aplica às medidas de segurança, pois não possuem natureza de pena e a parte geral do Código Penal se refere apenas aos crimes e contravenções penais." },
-      { "letra": "E", "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória." }
-    ],
-    "gabarito": "D"
-  },
-  {
-    "id": "Q702371",
-    "metadata": "Ano: 2016 | Banca: FCC | Órgão: SEGEP-MA",
-    "enunciado": "O princípio do direito penal que possui claro sentido de garantia fundamental da pessoa, impedindo que alguém possa ser punido por fato que, ao tempo do seu cometimento, não constituía delito é",
-    "alternativas": [
-      { "letra": "A", "texto": "atipicidade." },
-      { "letra": "B", "texto": "reserva legal." },
-      { "letra": "C", "texto": "punibilidade." },
-      { "letra": "D", "texto": "analogia." },
-      { "letra": "E", "texto": "territorialidade." }
+      {
+        "letra": "A",
+        "texto": "Legalidade ou reserva legal, anterioridade, retroatividade da lei penal benéfica, humanidade e in dubio pro reo são espécies de princípios constitucionais penais explícitos."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da humanidade assegura o respeito à integridade física e moral do preso na medida em que motiva a vedação constitucional de pena de morte e de prisão perpétua."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da responsabilidade pessoal impede que os familiares do condenado sofram os efeitos da condenação de ressarcimento de dano causado pela prática do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "A posse de um único projétil de arma de fogo de uso permitido não configura crime se o agente não possuir arma que possa ser municiada, de acordo com o princípio da ofensividade."
+      },
+      {
+        "letra": "E",
+        "texto": "A Escola Clássica adotava a teoria mista, que entende a pena não apenas como retribuição ao infrator pelo mal causado, mas também como medida com finalidade preventiva."
+      }
     ],
     "gabarito": "B"
   },
   {
-    "id": "Q698194",
-    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: PC-PA",
-    "enunciado": "Expressiva parcela da doutrina sustenta a inadequação do crime de escrito ou objeto obsceno (art. 234 do CP) para com os princípios que instruem o direito penal democrático. Um dos focos dessa inadequação reside na indevida alocação do sentimento público de pudor como objeto da tutela jurídica. Isso representa, em tese, violação ao princípio da:",
+    "id": "23650198",
+    "metadata": "Ano: 2018 | Banca: FUMARC | Órgão: PC-MG",
+    "enunciado": "Acerca dos princípios que limitam e informam o Direito Penal, é CORRETO afirmar:",
     "alternativas": [
-      { "letra": "A", "texto": "intranscendência." },
-      { "letra": "B", "texto": "culpabilidade." },
-      { "letra": "C", "texto": "taxatividade." },
-      { "letra": "D", "texto": "ofensividade." },
-      { "letra": "E", "texto": "insignificância." }
+      {
+        "letra": "A",
+        "texto": "A responsabilidade pela indenização do prejuízo que foi causado pelo crime imputado ao agente não pode ser estendida aos seus herdeiros sem que haja violação do princípio da personalidade da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "Conforme o princípio da culpabilidade, a responsabilidade penal é subjetiva, pelo que nenhum resultado penalmente relevante pode ser atribuído a quem não o tenha produzido por dolo ou culpa, elementos finalisticamente localizados na culpabilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da insignificância funciona como causa de exclusão da culpabilidade, sendo requisitos de sua aplicação para o STF a ofensividade da conduta, a ausência de periculosidade social da ação e a inexpressividade da lesão jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da legalidade, do qual decorre a reserva legal, veda o uso dos costumes e da analogia para criar tipos penais incriminadores ou agravar as infrações existentes, embora permita a interpretação analógica da norma penal."
+      }
     ],
     "gabarito": "D"
   },
   {
-    "id": "Q681452",
-    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
-    "enunciado": "Acerca dos princípios constitucionais que norteiam o Direito Penal, assinale a alternativa correta.",
+    "id": "67324589",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+    "enunciado": "Segundo o disposto na Declaração Universal dos Direitos Humanos, “Se depois da perpetração do delito a lei dispuser a imposição de pena mais leve, o delinquente será por isso beneficiado.” Essa norma de direito penal é representada pelo Princípio",
     "alternativas": [
-      { "letra": "A", "texto": "O princípio da insignificância refere-se à aplicação da pena, impondo, em alguns casos, o reconhecimento de causa de diminuição de pena." },
-      { "letra": "B", "texto": "O uso da norma penal em branco heterogênea constitui situação de violação ao princípio da legalidade." },
-      { "letra": "C", "texto": "O princípio da coculpabilidade reconhece que o Estado também é responsável pelo cometimento de determinados delitos em razão das desigualdades sociais e econômicas. Tal circunstância pode ser considerada na dosimetria da pena, uma vez que o Código Penal prevê, no art. 66, uma atenuante inominada." },
-      { "letra": "D", "texto": "A utilização da analogia pelo juiz para criar tipos penais e responsabilizar criminalmente acusados reincidentes não fere o princípio da legalidade, tendo em vista a norma inscrita no art. 1º do Código Penal." },
-      { "letra": "E", "texto": "O princípio da pessoalidade da pena impede que a responsabilidade pela indenização do prejuízo que foi causado pelo autor do crime seja estendida aos seus herdeiros." }
-    ],
-    "gabarito": "C"
-  },
-  {
-    "id": "Q649447",
-    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
-    "enunciado": "A respeito dos princípios penais e constitucionais penais, assinale a alternativa correta.",
-    "alternativas": [
-      { "letra": "A", "texto": "O princípio da humanidade, previsto expressamente na Constituição Federal, proíbe a pena de morte (salvo caso de guerra declarada), mas não impede que dos presos se exijam serviços forçados." },
-      { "letra": "B", "texto": "A pessoalidade da pena e a individualização da san- ção penal são princípios constitucionais implícitos, já que não são enumerados expressamente na Constituição Federal, mas deduzidos das normas constitucionais nela contidas." },
-      { "letra": "C", "texto": "O postulado da irretroatividade da lei penal, por expressa determinação constitucional, é excepcionado quando em causa lei penal benéfica ao réu. Isto importa que a lei penal retroage em favor do réu, desde que inexista sentença com trânsito em julgado." },
-      { "letra": "D", "texto": "O princípio da intervenção mínima do direito penal desdobra-se no caráter subsidiário e fragmentário do direito penal. O primeiro impõe que apenas lesões graves a bens jurídicos dignos de tutela penal sejam objeto do direito penal. Já o segundo impõe que só se recorra ao direito penal quando outros ramos do direito mostrarem-se insuficientes à proteção de determinado bem jurídico." },
-      { "letra": "E", "texto": "O princípio da legalidade desdobra-se nos postulados da reserva legal, da taxatividade e da irretroatividade. O primeiro impossibilita o uso de analogia como fonte do direito penal; o segundo exige que as leis sejam claras, certas e precisas, a fim de restringir a discricionariedade do aplicador da lei; o último exige a atualidade da lei, impondo que seja aplicada apenas a fatos ocorridos depois de sua vigência." }
+      {
+        "letra": "A",
+        "texto": "da Individualização da Pena."
+      },
+      {
+        "letra": "B",
+        "texto": "da Legalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "da Norma Penal em Branco."
+      },
+      {
+        "letra": "D",
+        "texto": "da Presunção da Inocência."
+      },
+      {
+        "letra": "E",
+        "texto": "da Retroatividade."
+      }
     ],
     "gabarito": "E"
   },
   {
-    "id": "Q647125",
-    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
-    "enunciado": "Acerca dos princípios básicos do direito penal brasileiro, assinale a opção correta.",
+    "id": "11908753",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-RS",
+    "enunciado": "O afastamento da tipicidade, quando verificada lesão penalmente irrelevante decorrente de conduta formalmente incriminada, dá-se por:",
     "alternativas": [
-      { "letra": "A", "texto": "O princípio da fragmentariedade ou o caráter fragmentário do direito penal quer dizer que a pessoa cometerá o crime se sua conduta coincidir com qualquer verbo da descrição desse crime, ou seja, com qualquer fragmento de seu tipo penal." },
-      { "letra": "B", "texto": "O princípio da anterioridade, no direito penal, informa que ninguém será punido sem lei anterior que defina a conduta como crime e que a pena também deve ser prevista previamente, ou seja, a lei nunca poderá retroagir." },
-      { "letra": "C", "texto": "É possível que uma lei penal mais benigna alcance condutas anteriores à sua vigência, seja para possibilitar a aplicação de pena menos severa, seja para contemplar situação em que a conduta tipificada passe a não mais ser crime." },
-      { "letra": "D", "texto": "O princípio da insignificância no direito penal dispõe que nenhuma vida humana será considerada insignificante, sendo que todas deverão ser protegidas." },
-      { "letra": "E", "texto": "O princípio da ultima ratio ou da intervenção mínima do direito penal significa que a pessoa só cometerá um crime se a pessoa a ser prejudicada por esse crime o permitir." }
+      {
+        "letra": "A",
+        "texto": "princípio da adequação social."
+      },
+      {
+        "letra": "B",
+        "texto": "princípio da intervenção mínima."
+      },
+      {
+        "letra": "C",
+        "texto": "princípio da humanidade das sanções."
+      },
+      {
+        "letra": "D",
+        "texto": "princípio da insignificância."
+      },
+      {
+        "letra": "E",
+        "texto": "ineficácia absoluta do meio ou absoluta impropriedade do objeto (crime impossível)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "45092387",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "enunciado": "É certo afirmar: I. Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar. II. Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal. Trata-se de princípio geral de que a lei penal nunca retroagirá. III. Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado. IV. A pena cumprida no estrangeiro agrava a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "90215436",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "enunciado": "Analise as afirmações adiante e, à luz da doutrina, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Norma penal em branco ao revés (ou invertida) é aquela em que a complementação se dá no preceito sancionador e não no mandamento proibitivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da intervenção mínima do Direito Penal encontra fundamento no caráter de sua subsidiariedade e no princípio da intranscendência."
+      },
+      {
+        "letra": "C",
+        "texto": "Pelo princípio da confiança, todo aquele que se conduz com observância ao dever de cuidado objetivo exigido, pode esperar que os demais co-participantes de idêntica atividade procedam do mesmo modo."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre outras características, o Direito Penal tem natureza constitutiva e sancionatória."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "36789124",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "enunciado": "Acerca dos princípios da legalidade e da anterioridade insculpidos no art. 1° do Código Penal e no art. 5° , XXXIX, da Constituição Federal, analise as alternativas a seguir e assinale a correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma das funções do princípio da legalidade é permitir a criação de crimes e penas pelos usos e costumes."
+      },
+      {
+        "letra": "B",
+        "texto": "No Brasil, em um primeiro momento, a União Federal pode legislar sobre matéria penal. No entanto, de forma indireta e urgente, leis estaduais podem impor regras e sanções de natureza criminal."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei penal incriminadora somente pode ser aplicada a um fato concreto desde que tenha tido origem antes da prática da conduta. Em situações temporárias e excepcionais, no entanto, admite-se a mitigação do princípio da anterioridade."
+      },
+      {
+        "letra": "D",
+        "texto": "Desdobramento do princípio da legalidade é o da taxatividade, que impede a edição de tipos penais genéricos e indeterminados."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da legalidade afasta a aplicação da interpretação extensiva, mas permite a aplicação da analogia de forma ampla e irrestrita."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "58230741",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As leis penais em branco são identificadas pelo sentido genérico do preceito que deve ser completado por outra disposição normativa e não se distinguem das leis penais incompletas ou imperfeitas."
+      },
+      {
+        "letra": "B",
+        "texto": "A função político-criminal e a função interpretativa ou dogmática representam funções básicas do princípio da ofensividade no direito penal."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena de detenção trata-se de sanção privativa de liberdade e que só admite o cumprimento em regime semiaberto ou aberto, e se distingue da pena de reclusão ante a maior gravidade do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente que efetua diversos disparos contra a vítima sinaliza com sua conduta várias ações identificadoras do concurso material homogêneo, aplicando-se cumulativamente as penas."
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se a instigação, induzimento ou cumplicidade no fato culposo de outrem em face de contrariedade às normas que instituem um dever de cuidado objetivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "14560932",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A assertiva de que ninguém pode ser punido pelo que pensa ou pelo modo de viver reflete o princípio da exteriorização do fato em direito penal."
+      },
+      {
+        "letra": "B",
+        "texto": "Na hipótese de estupro de pessoa maior de idade e que não seja vulnerável, mas com violência de que resulte lesão corporal grave, haverá litisconsórcio facultativo entre o Ministério Público e o ofendido."
+      },
+      {
+        "letra": "C",
+        "texto": "A derrogação é a revogação total da lei por enunciação expressa ou tácita da nova lei ao regular o mesmo fato."
+      },
+      {
+        "letra": "D",
+        "texto": "A caracterização do delito de falsidade ideológica se contenta com a potencialidade de dano e imitação da verdade."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime progressivo e a progressão criminosa se identificam uma vez que se dão ao mesmo tempo e no mesmo momento, ou seja, se desdobram em dois atos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "89347562",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na fixação da pena, o Magistrado após o reconhecimento da existência do crime e sua autoria tem uma discricionariedade “regrada ou vinculada”."
+      },
+      {
+        "letra": "B",
+        "texto": "Na individualização legislativa, a qualidade, a quantidade e a forma de cumprimento da pena voltase tão somente para a importância do bem juridicamente ofendido."
+      },
+      {
+        "letra": "C",
+        "texto": "Os princípios da legalidade e da proporcionalidade como princípios explícitos de direito criminal servem como garantias constitucionais do cidadão."
+      },
+      {
+        "letra": "D",
+        "texto": "As alternativas “b” e “c” estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "A individualização da pena é um princípio de direito material implícito atento à individualidade objetiva do delito e condição subjetiva de cada delinquente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "55073281",
+    "metadata": "Ano: 2018 | Banca: MPE-MS | Órgão: MPE-MS",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos delitos de acumulação, não é possível a aplicação da teoria da bagatela em cada conduta individualmente considerada, mas apenas como resultado da análise da somatória de condutas."
+      },
+      {
+        "letra": "B",
+        "texto": "O controle jurisdicional abstrato da norma incriminadora não pode ser feito com fundamento no princípio da lesividade."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente nas hipóteses de leis excepcionais, conforme entendimento do Supremo Tribunal Federal, as medidas provisórias podem regular matéria penal."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da fragmentariedade relativiza o concurso entre causas de aumento e diminuição de penas."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da legalidade admite ser afastado ante a incidência do princípio da proteção deficiente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "10986543",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+    "enunciado": "Julia, primária e de bons antecedentes, verificando a facilidade de acesso a determinados bens de uma banca de jornal, subtrai duas revistas de moda, totalizando o valor inicial do prejuízo em R$15,00 (quinze reais). Após ser presa em flagrante, é denunciada pela prática do crime de furto simples, vindo, porém, a ser absolvida sumariamente em razão do princípio da insignificância. De acordo com a situação narrada, o magistrado, ao reconhecer o princípio da insignificância, optou por absolver Julia em razão da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atipicidade da conduta;"
+      },
+      {
+        "letra": "B",
+        "texto": "causa legal de exclusão da ilicitude;"
+      },
+      {
+        "letra": "C",
+        "texto": "causa de exclusão da culpabilidade;"
+      },
+      {
+        "letra": "D",
+        "texto": "causa supralegal de exclusão da ilicitude;"
+      },
+      {
+        "letra": "E",
+        "texto": "extinção da punibilidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "40291753",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGE-PE",
+    "enunciado": "De acordo com o entendimento do STJ, é aplicável o princípio da insignificância na hipótese de crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de descaminho, ainda que o agente responda a outros procedimentos fiscais, desde que o benefício econômico do crime seja inferior a dez mil reais."
+      },
+      {
+        "letra": "B",
+        "texto": "contra a mulher no âmbito das relações domésticas."
+      },
+      {
+        "letra": "C",
+        "texto": "de peculato, quando o bem jurídico tutelado for suscetível de valoração econômica."
+      },
+      {
+        "letra": "D",
+        "texto": "de pesca, em período em que essa atividade esteja proibida ou em lugares interditados por órgão competente."
+      },
+      {
+        "letra": "E",
+        "texto": "contra a fé pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "96543210",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: PC-RS",
+    "enunciado": "Em relação à teoria geral da norma penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dentre os princípios gerais do Direito Penal, pode-se citar o princípio da exclusiva proteção de bens jurídicos e o princípio da intervenção mínima."
+      },
+      {
+        "letra": "B",
+        "texto": "Os princípios só podem ser explícitos, ou seja, positivados no ordenamento jurídico."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da igualdade (ou da isonomia) não está previsto de maneira expressa na CF/1988."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da presunção de inocência (ou da não culpa) expresso na CF/1988 no artigo 5º, inciso LVII, determina que \"ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória\". Destarte, não é aceitável a decretação (excepcional) de uma prisão temporária ou preventiva sobre alguém sobre o qual pairam indícios suficientes de autoria, mas que ainda não pode ser considerado culpado."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da ofensividade ou lesividade ( nullum crimen sine iniuria ) não exige que do fato praticado ocorra lesão ou perigo de lesão ao bem jurídico tutelado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "62890175",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "enunciado": "O princípio da legalidade compreende",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a capacidade mental de entendimento do caráter ilícito do fato no momento da ação ou da omissão, bem como de ciência desse entendimento."
+      },
+      {
+        "letra": "B",
+        "texto": "o juízo de censura que incide sobre a formação e a exteriorização da vontade do responsável por um fato típico e ilícito, com o propósito de aferir a necessidade de imposição de pena."
+      },
+      {
+        "letra": "C",
+        "texto": "a oposição entre o ordenamento jurídico vigente e um fato típico praticado por alguém capaz de lesionar ou expor a perigo de lesão bens jurídicos penalmente protegidos."
+      },
+      {
+        "letra": "D",
+        "texto": "a obediência às formas e aos procedimentos exigidos na criação da lei penal e, principalmente, na elaboração de seu conteúdo normativo."
+      },
+      {
+        "letra": "E",
+        "texto": "a conformidade da conduta reprovável do agente ao modelo descrito na lei penal vigente no momento da ação ou da omissão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "31548762",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "enunciado": "O princípio “Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal” é chamado de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Princípio da legalidade e anterioridade."
+      },
+      {
+        "letra": "B",
+        "texto": "Princípio da excepcionalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Princípio do contraditório."
+      },
+      {
+        "letra": "D",
+        "texto": "Princípio da ampla defesa."
+      },
+      {
+        "letra": "E",
+        "texto": "Princípio do devido processo legal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "77742135",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "enunciado": "De acordo com o Professor Luiz Flávio Gomes: “A subtração de um par de chinelos (de R$ 16,00) vai monopolizar, em breve, a atenção dos onze ministros do STF, que têm milhares de questões de constitucionalidade pendentes. Decidirão qual é o custo (penal) para o pé descalço que subtrai um par de chinelos para subir de grau (na escala social) e se converter em um pé de chinelo. No dia 5/8/14, a 1ª Turma mandou para o Pleno a discussão desse tema. Reputado muito relevante. No mundo todo, a esse luxo requintadíssimo pouquíssimas Cortes Supremas se dão (se é que exista alguma outra que faça a mesma coisa). Recentemente outros casos semelhantes foram julgados pelo STF: subtração de 12 camarões (SC), de um galo e uma galinha (MG), de 5 livros, de 2 peças de picanha (MG), etc. Um homem, em MG, pelo par de chinelos (devolvido), foi condenado a um ano de prisão mais dez dias-multa. Três instâncias precedentes (1º grau, TJMG e STJ) fixaram o regime semiaberto para ele (porque já condenado antes por crime grave: outra subtração sem violência) (...)”. (Disponível em:<http://http://professorlfg.jusbrasil.com.br/ noticias/ 132988796/plenario-do-stf-vai-julgar-subtracao-de-um-par-dechinelos ). Com base no referido texto, a esses casos descritos, os quais seriam julgados pelo STF, qual princípio limitador do Poder Punitivo Estatal poderíamos aplicar a fim de dar resolução ao caso penal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da legalidade e da reserva legal."
+      },
+      {
+        "letra": "B",
+        "texto": "Da intervenção mínima."
+      },
+      {
+        "letra": "C",
+        "texto": "Da insignificância."
+      },
+      {
+        "letra": "D",
+        "texto": "Da adequação social."
+      },
+      {
+        "letra": "E",
+        "texto": "Da fragmentariedade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "50468312",
+    "metadata": "Ano: 2017 | Banca: FEPESE | Órgão: PC-SC",
+    "enunciado": "Assinale a alternativa que indica corretamente o princípio de direito penal pelo qual uma conduta legalmente tipificada não será considerada típica se for tolerada e aceita pela sociedade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "princípio da legalidade"
+      },
+      {
+        "letra": "B",
+        "texto": "princípio da reserva legal"
+      },
+      {
+        "letra": "C",
+        "texto": "princípio da ulterioridade"
+      },
+      {
+        "letra": "D",
+        "texto": "princípio da adequação social"
+      },
+      {
+        "letra": "E",
+        "texto": "princípio da aplicação da lei penal"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "18395274",
+    "metadata": "Ano: 2017 | Banca: FEPESE | Órgão: PC-SC",
+    "enunciado": "Assinale a alternativa que indica corretamente o princípio de que o direito penal não deve se preocupar com condutas que, embora típicas, o resultado ocorrido a partir delas não é suficientemente reprovável a ponto de sujeitar ou haver a necessidade do exercício do poder punitivo do Estado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "princípio do juiz natural."
+      },
+      {
+        "letra": "B",
+        "texto": "princípio da reserva de lei."
+      },
+      {
+        "letra": "C",
+        "texto": "princípio da insignificância."
+      },
+      {
+        "letra": "D",
+        "texto": "princípio do exasperação da pena."
+      },
+      {
+        "letra": "E",
+        "texto": "princípio da humanidade da pena."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "87265904",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-TO",
+    "enunciado": "Um açougueiro de uma rede de supermercados subtraiu duas peças de carne avaliadas em R$ 78,93 e ocultou-as nas vestes, mas a sua ação que foi observada por outro empregado, que comunicou ao chefe da segurança, e este, por sua vez, acionou a polícia. O agente foi preso em flagrante e a res furtiva foi restituída. O agente, de cinquenta e cinco anos de idade, tinha registro de outra ocorrência de furto praticado havia mais de cinco anos, sem que o inquérito policial tivesse sido concluído. Nessa situação hipotética, assinale a opção correta, de acordo com a legislação pertinente e o entendimento dos tribunais superiores.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reincidência do agente afasta o furto privilegiado."
+      },
+      {
+        "letra": "B",
+        "texto": "Houve arrependimento eficaz com a restituição da res furtiva."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente deverá ser absolvido em razão do princípio da insignificância."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de crime impossível por ineficácia absoluta do meio."
+      },
+      {
+        "letra": "E",
+        "texto": "A hipótese configura tentativa de furto simples."
+      }
     ],
     "gabarito": "C"
   }
