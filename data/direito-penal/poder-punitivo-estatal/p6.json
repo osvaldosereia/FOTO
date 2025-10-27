@@ -1,0 +1,389 @@
+[
+{
+"id": "77891234",
+"metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRM-MG",
+"enunciado_principal": "Com relação à aplicação da lei penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Não há crime sem lei anterior que o defina, mas a pena independe de prévia cominação legal." },
+{ "letra": "B", "texto": "Não há crime sem lei anterior que o defina e não há pena sem prévia cominação legal." },
+{ "letra": "C", "texto": "Não há crime sem lei anterior que o defina, mas a pena pode ser criada pelo juiz competente, de acordo com as particularidades do caso." },
+{ "letra": "D", "texto": "Os crimes podem ser estabelecidos pelo juiz de acordo com os princípios estabelecidos na Constituição Federal de 1988, mas a pena depende de prévia cominação legal." },
+{ "letra": "E", "texto": "Os crimes podem ser estabelecidos pelo juiz de acordo com os princípios estabelecidos nos tratados de direitos humanos e a pena independe de prévia cominação legal." }
+],
+"gabarito": "B"
+},
+{
+"id": "56102947",
+"metadata": "Ano: 2023 | Banca: ACTIO ASSESSORIA | Órgão: Prefeitura de Apiúna - SC",
+"enunciado_principal": "Não há __________ sem lei anterior que o defina. De acordo com o Código Penal, preenche corretamente a lacuna acima:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "lei" },
+{ "letra": "B", "texto": "crime" },
+{ "letra": "C", "texto": "pessoa" },
+{ "letra": "D", "texto": "emprego" }
+],
+"gabarito": "B"
+},
+{
+"id": "44287510",
+"metadata": "Ano: 2023 | Banca: IV - UFG | Órgão: TJ-GO",
+"enunciado_principal": "Segundo o Supremo Tribunal Federal, para a aplicação do princípio da insignificância, exige-se os seguintes requisitos objetivos: ofensividade mínima da conduta, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica causada. Considerando tal afirmação e as posições da Corte brasileira, o princípio da insignificância",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "pode ser aplicado em caso de lesões corporais no âmbito da proteção à violência contra a mulher." },
+{ "letra": "B", "texto": "possui previsão constitucional expressa no artigo 5º da Constituição Federal." },
+{ "letra": "C", "texto": "pode ser aplicado nos casos de crime de descaminho." },
+{ "letra": "D", "texto": "é causa supralegal de exclusão da culpabilidade do agente." },
+{ "letra": "E", "texto": "é causa de extinção da punibilidade, em consonância com a subsidiariedade penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "19630582",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+"enunciado_principal": "A respeito do princípio da consunção, julgue o item a seguir.",
+"itens_assertiva": [
+"Com previsão expressa na parte geral do Código Penal brasileiro, o princípio da consunção pode ser caracterizado como um subprincípio do princípio da intervenção mínima."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "84729103",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+"itens_assertiva": [
+"O princípio da vedação à dupla persecução ( *ne bis in idem* processual) poderá ser excepcionado quando o julgamento no exterior não se realizar de modo justo e legítimo."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "39502614",
+"metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TCM-SP",
+"enunciado_principal": "A interpretação da Súmula 599 do Superior Tribunal de Justiça veda a aplicação do princípio da insignificância ao crime de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "roubo." },
+{ "letra": "B", "texto": "estelionato." },
+{ "letra": "C", "texto": "contrabando" },
+{ "letra": "D", "texto": "falsidade ideológica." },
+{ "letra": "E", "texto": "adulteração de sinal identificador de veículo automotor." }
+],
+"gabarito": "A"
+},
+{
+"id": "62018475",
+"metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Prefeitura de Americana - SP",
+"enunciado_principal": "Com relação à aplicação da lei penal e quanto ao crime, assinale a alternativa correta com base no Código Penal:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução, mas permanecendo os efeitos penais da sentença condenatória;" },
+{ "letra": "B", "texto": "Diz-se o crime tentado, quando iniciada a execução, não se consuma por circunstâncias ligadas exclusivamente à vontade do agente;" },
+{ "letra": "C", "texto": "Considera-se praticado o crime no momento do resultado;" },
+{ "letra": "D", "texto": "A omissão nunca será penalmente relevante;" },
+{ "letra": "E", "texto": "Nenhuma das assertivas anteriores está correta." }
+],
+"gabarito": "E"
+},
+{
+"id": "98271035",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+"enunciado_principal": "O emprego da analogia *in bonam partem* não é admitido no direito penal, devido ao princípio da legalidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "51049382",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+"enunciado_principal": "Considerando os princípios do direito penal e as disposições referentes à aplicação da lei penal no tempo e no espaço, julgue o item a seguir.",
+"itens_assertiva": [
+"O princípio da insignificância ou bagatela própria é uma causa supralegal de exclusão da tipicidade material."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "70418396",
+"metadata": "Ano: 2023 | Banca: FCM | Órgão: Prefeitura de Contagem - MG",
+"enunciado_principal": "Sobre os princípios do Direito Penal, Nilo Batista pondera que “a procura de princípios básicos do direito penal exprime o esforço para, a um só tempo, caracterizá-lo e delimitá-lo. Existem efetivamente alguns princípios básicos que, por sua ampla recepção na maioria dos ordenamentos jurídico-penais positivos da família romano-germânica, pela significação política de seu aparecimento histórico ou de sua função social, e pela reconhecida importância de sua situação jurídica – condicionadora de derivações e efeitos relevantes – constituem um patamar indeclinável, com ilimitada valência na compreensão de todas as normas positivas” (BATISTA, Nilo. *Introdução crítica ao direito penal brasileiro*. 11. ed. Rio de Janeiro: Revan, 2007. p. 61). Indique o postulado normativo que decorre diretamente do princípio da lesividade penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "É vedado, no âmbito penal, o uso da analogia em prejuízo do acusado (*in malam partem*)." },
+{ "letra": "B", "texto": "Ninguém poderá ser punido criminalmente, senão quando agir com dolo ou, ao menos, com culpa." },
+{ "letra": "C", "texto": "A lei penal não poderá ser aplicada em relação a fatos ocorridos antes de sua vigência, salvo quando beneficiar o acusado." },
+{ "letra": "D", "texto": "O direito penal só deverá ser utilizado subsidiariamente ( *como ultima ratio* ) para a resolução de conflitos sociais." },
+{ "letra": "E", "texto": "A autolesão e, em geral, condutas que não excedam o âmbito do próprio autor não devem ser objeto de incriminação." }
+],
+"gabarito": "E"
+},
+{
+"id": "35829140",
+"metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MG",
+"enunciado_principal": "Acerca do Princípio da Legalidade Penal, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"I. O princípio da anterioridade penal impede a aplicação da lei nova que agrave a pena quando a sua vigência é posterior ao início da execução do delito, nos crimes permanentes, ainda que atinja etapa da permanência.",
+"II. A lei nova que, de qualquer forma, beneficie o acusado deve ser imediatamente aplicável; se o benefício for parcial, despreza-se a parte que prejudica o réu, aplicando-se apenas a parte benéfica.",
+"III. O princípio da legalidade da lei penal autoriza a ultratividade da lei penal em prejuízo do acusado, quando se tratar de norma legal de natureza temporária ou excepcional."
+],
+"enunciado_pergunta": "Está correto o que se afirma em",
+"alternativas": [
+{ "letra": "A", "texto": "I, apenas." },
+{ "letra": "B", "texto": "II, apenas." },
+{ "letra": "C", "texto": "III, apenas." },
+{ "letra": "D", "texto": "II e III, apenas." },
+{ "letra": "E", "texto": "I, II e III." }
+],
+"gabarito": "C"
+},
+{
+"id": "67145892",
+"metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+"enunciado_principal": "Considerando as excludentes do crime no Direito Penal Brasileiro, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "enquanto o estrito cumprimento do dever legal tem natureza compulsória, o exercício regular do direito tem natureza facultativa." },
+{ "letra": "B", "texto": "o estado de necessidade, ao contrário da legítima defesa, não permite a configuração do excesso." },
+{ "letra": "C", "texto": "são excludentes de ilicitude admitidas pelo Direito Penal Brasileiro e expressamente previstas no artigo 23 do Código Penal: o estado de necessidade, a legítima defesa, o estrito cumprimento de dever legal, o consentimento do ofendido e o exercício regular de direito." },
+{ "letra": "D", "texto": "o princípio da insignificância, por entender que o crime não possui relevância penal, constitui uma causa de exclusão da culpabilidade." },
+{ "letra": "E", "texto": "é admitida a ocorrência de legítima defesa real contra legítima defesa putativa e de legítima defesa real contra legítima defesa real." }
+],
+"gabarito": "A"
+},
+{
+"id": "90374158",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: AGE-MG",
+"enunciado_principal": "João, indignado com a má gestão dos recursos públicos pelo governo, decide não pagar impostos. Para tanto, João falsificou um recibo médico e o utilizou com a finalidade de reduzir tributo por ele devido, causando ao erário prejuízo no valor de R$ 10.000,00 (dez mil reais). A falsidade foi constatada pelos auditores fiscais, que lavraram auto de infração. Ao final do procedimento administrativo fiscal, é constituído crédito fiscal e realizado o lançamento definitivo. Cópia do procedimento é encaminhado ao Ministério Público que denuncia João pelo crime tipificado no Art. 1º, inciso I, da Lei nº 8.137/1990. Assinale a opção que apresenta o instituto jurídico que se aplica à defesa de João.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Nenhum crime, em razão do princípio da insignificância." },
+{ "letra": "B", "texto": "Nenhum crime, em razão do princípio da territorialidade." },
+{ "letra": "C", "texto": "Nenhum crime, em razão de inexigibilidade de conduta diversa (excludente de culpabilidade), por objeção de consciência." },
+{ "letra": "D", "texto": "Nenhum crime, em razão do princípio da ultra atividade da lei penal menos gravosa." },
+{ "letra": "E", "texto": "Nenhum crime, em razão da atipicidade da conduta." }
+],
+"gabarito": "A"
+},
+{
+"id": "17502936",
+"metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+"enunciado_principal": "Durante a leitura de autos de inquérito policial que apuram o cometimento de crime de violência psicológica contra a mulher, Patrícia, policial civil lotada na Delegacia de Goiânia-GO, decide por recomendar à delegada de polícia o indiciamento do sujeito investigado pelo fato cometido no ano de 2012. A esse respeito, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Patrícia está equivocada, pois o tipo penal apurado entrou em vigência após a ocorrência do fato." },
+{ "letra": "B", "texto": "Patrícia está correta, uma vez que o delito de violência doméstica é imprescritível." },
+{ "letra": "C", "texto": "Patrícia está equivocada, pois o tipo penal apurado está evidentemente prescrito." },
+{ "letra": "D", "texto": "Patrícia está correta, já que o delito de violência psicológica é crime permanente." },
+{ "letra": "E", "texto": "Patrícia precisa diligenciar para se cientificar se a vítima promove representação contra o noticiado, do contrário a punibilidade estará extinta por decadência." }
+],
+"gabarito": "A"
+},
+{
+"id": "88461029",
+"metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+"enunciado_principal": "Vagner é agente da Polícia Civil de Goiás e se depara com o seguinte Boletim de Ocorrência: determinado homem noticiado teria financiado uma mulher de 18 anos de idade, recém-completos, para que ela lhe fizesse favores sexuais. Vagner, em vez de diligenciar para apurar os fatos, opta por encaminhar o procedimento ao Delegado de Polícia, recomendando pedido de arquivamento. Segundo Vagner, o fato apurado NÃO constitui delito por violação ao",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "princípio da anterioridade." },
+{ "letra": "B", "texto": "princípio do *ne bis in idem*." },
+{ "letra": "C", "texto": "princípio da taxatividade." },
+{ "letra": "D", "texto": "princípio da legalidade." },
+{ "letra": "E", "texto": "princípio da razoabilidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "41257890",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+"enunciado_principal": "O princípio da *intranscendência da pena* veda que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o tempo total de cumprimento das penas privativas de liberdade ultrapasse 40 anos." },
+{ "letra": "B", "texto": "uma pessoa seja novamente punida no Brasil, se já houver cumprido pena pelo mesmo crime no exterior." },
+{ "letra": "C", "texto": "em caso de concurso de crimes, a pena final aplicável, obtida pelo critério da exasperação da pena de um dos delitos, supere o resultado da soma das penas de cada um deles." },
+{ "letra": "D", "texto": "o sucessor do condenado pelo crime seja obrigado a reparar o dano causado pelo infrator em valor superior ao que este deixou de herança." },
+{ "letra": "E", "texto": "se cumpra, no Brasil, pena aplicada por órgão jurisdicional estrangeiro sem o *exequatur* do STJ." }
+],
+"gabarito": "D"
+},
+{
+"id": "75498321",
+"metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+"enunciado_principal": "Assinale a alternativa **INCORRETA**:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A jurisprudência do Superior Tribunal de Justiça reconhece a natureza jurídica de princípio ao adágio *in dubio pro societate* , além de confirmá-lo como regra de julgamento aplicável à decisão de pronúncia." },
+{ "letra": "B", "texto": "O princípio acusatório é princípio processual penal de status constitucional, embora implícito, sendo responsável, segundo a Jurisprudência do Superior Tribunal de Justiça, por vedar a decretação de ofício da prisão preventiva, salvo na hipótese de conversão da prisão em flagrante, nos termos do art. 310, II, CPP." },
+{ "letra": "C", "texto": "O art. 5º, LVII da CF/88 garante aos acusados a situação jurídica de não culpados, mas textualmente não veda a prisão antes do trânsito em julgado, nem mesmo em execução provisória de pena." },
+{ "letra": "D", "texto": "Segundo a jurisprudência do Supremo Tribunal Federal, o crime de injúria racial é imprescritível, por força do art. 5º, XLII, CR/88." }
+],
+"gabarito": "A"
+},
+{
+"id": "33901847",
+"metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+"enunciado_principal": "Tendo em conta os princípios fundamentais do Direito Penal, bem como as disposições constitucionais aplicáveis ao Direito Penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O princípio da dignidade da pessoa humana, no âmbito penal, implica vedação de tratamento degradante e cruel, servindo de fundamento, na jurisprudência dos tribunais superiores, à concessão de prisão domiciliar a preso em estado terminal." },
+{ "letra": "B", "texto": "Em vista da reserva legal, vertente do princípio da legalidade, medida provisória, lei complementar, leis delegadas, resoluções e decretos não podem tratar de temática penal." },
+{ "letra": "C", "texto": "O princípio de *bis in idem* veda que se utilize a reincidência como agravante genérico da pena." },
+{ "letra": "D", "texto": "A aplicação do princípio da insignificância, pela jurisprudência dos tribunais superiores, prescinde de qualquer valoração pessoal do agente, bastando a inexpressividade da lesividade da conduta." },
+{ "letra": "E", "texto": "O princípio da intranscendência da pena veda que se atribua punição com fulcro exclusivo em questões pessoais do autor, dissociada da prática de fato típico, ilícito e culpável." }
+],
+"gabarito": "A"
+},
+{
+"id": "60195724",
+"metadata": "Ano: 2022 | Banca: CONSULPLAN | Órgão: MPE-PA",
+"enunciado_principal": "Analise os itens a seguir, tendo como referência a principiologia do Direito Penal.",
+"itens_assertiva": [
+"I. São requisitos essenciais para aplicação do princípio da intervenção mínima: nenhuma periculosidade social da ação, mínima ofensividade da conduta do agente, grau reduzido de reprovabilidade de comportamento e inexpressividade da lesão jurídica provocada.",
+"II. O princípio da insignificância confunde-se com o conceito das infrações de menor potencial ofensivo, haja vista que o Direito Penal não deve se ocupar de matérias sem relevância.",
+"III. Do princípio da intervenção mínima se extrai a natureza subsidiária do Direito Penal. Desta feita o Direito Penal somente se apresentará quando os demais ramos do ordenamento jurídico se mostrarem insuficientes para a proteção dos bens jurídicos considerados de maior importância.",
+"IV. O princípio da lesividade ( *nullum crimen sine iniuria* ) exige que do fato praticado pelo agente ocorra lesão ou perigo de lesão ao bem jurídico tutelado. Sendo assim, a mera representação ou cogitação do fato criminoso é indiferente para o Direito Penal."
+],
+"enunciado_pergunta": "Está correto o que se afirma apenas em",
+"alternativas": [
+{ "letra": "A", "texto": "I e II." },
+{ "letra": "B", "texto": "I e IV." },
+{ "letra": "C", "texto": "II e III." },
+{ "letra": "D", "texto": "III e IV." }
+],
+"gabarito": "D"
+},
+{
+"id": "22895641",
+"metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-AM",
+"enunciado_principal": "Rafael, primário, foi preso em flagrante delito após tentar subtrair poucos bens de uma rede de Supermercados. Avaliados, os bens totalizaram R$ 38,00 (trinta e oito reais) e foram integralmente restituídos à vítima. Nesse caso, o Defensor Público fundamentará seu pedido de absolvição por insignificância com base no princípio da",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "aceitação social." },
+{ "letra": "B", "texto": "intervenção mínima." },
+{ "letra": "C", "texto": "reserva legal." },
+{ "letra": "D", "texto": "isonomia." },
+{ "letra": "E", "texto": "ampla defesa." }
+],
+"gabarito": "B"
+},
+{
+"id": "11947205",
+"metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRM-MG",
+"enunciado_principal": "Com relação à aplicação da lei penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Não há crime sem lei anterior que o defina, mas a pena independe de prévia cominação legal." },
+{ "letra": "B", "texto": "Não há crime sem lei anterior que o defina e não há pena sem prévia cominação legal." },
+{ "letra": "C", "texto": "Não há crime sem lei anterior que o defina, mas a pena pode ser criada pelo juiz competente, de acordo com as particularidades do caso." },
+{ "letra": "D", "texto": "Os crimes podem ser estabelecidos pelo juiz de acordo com os princípios estabelecidos na Constituição Federal de 1988, mas a pena depende de prévia cominação legal." },
+{ "letra": "E", "texto": "Os crimes podem ser estabelecidos pelo juiz de acordo com os princípios estabelecidos nos tratados de direitos humanos e a pena independe de prévia cominação legal." }
+],
+"gabarito": "B"
+},
+{
+"id": "42893016",
+"metadata": "Ano: 2023 | Banca: ACTIO ASSESSORIA | Órgão: Prefeitura de Apiúna - SC",
+"enunciado_principal": "Não há __________ sem lei anterior que o defina. De acordo com o Código Penal, preenche corretamente a lacuna acima:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "lei" },
+{ "letra": "B", "texto": "crime" },
+{ "letra": "C", "texto": "pessoa" },
+{ "letra": "D", "texto": "emprego" }
+],
+"gabarito": "B"
+},
+{
+"id": "97410852",
+"metadata": "Ano: 2023 | Banca: IV - UFG | Órgão: TJ-GO",
+"enunciado_principal": "Segundo o Supremo Tribunal Federal, para a aplicação do princípio da insignificância, exige-se os seguintes requisitos objetivos: ofensividade mínima da conduta, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica causada. Considerando tal afirmação e as posições da Corte brasileira, o princípio da insignificância",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "pode ser aplicado em caso de lesões corporais no âmbito da proteção à violência contra a mulher." },
+{ "letra": "B", "texto": "possui previsão constitucional expressa no artigo 5º da Constituição Federal." },
+{ "letra": "C", "texto": "pode ser aplicado nos casos de crime de descaminho." },
+{ "letra": "D", "texto": "é causa supralegal de exclusão da culpabilidade do agente." },
+{ "letra": "E", "texto": "é causa de extinção da punibilidade, em consonância com a subsidiariedade penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "10567839",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+"enunciado_principal": "A respeito do princípio da consunção, julgue o item a seguir.",
+"itens_assertiva": [
+"Com previsão expressa na parte geral do Código Penal brasileiro, o princípio da consunção pode ser caracterizado como um subprincípio do princípio da intervenção mínima."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "76182934",
+"metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Julgue o seguinte item, referentes à aplicação da lei penal.",
+"itens_assertiva": [
+"O princípio da vedação à dupla persecução (*ne bis in idem* processual) poderá ser excepcionado quando o julgamento no exterior não se realizar de modo justo e legítimo."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "35091748",
+"metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TCM-SP",
+"enunciado_principal": "A interpretação da Súmula 599 do Superior Tribunal de Justiça veda a aplicação do princípio da insignificância ao crime de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "roubo." },
+{ "letra": "B", "texto": "estelionato." },
+{ "letra": "C", "texto": "contrabando" },
+{ "letra": "D", "texto": "falsidade ideológica." },
+{ "letra": "E", "texto": "adulteração de sinal identificador de veículo automotor." }
+],
+"gabarito": "A"
+}
+]
