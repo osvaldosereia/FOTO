@@ -1,0 +1,281 @@
+[
+{
+"id": "94821730",
+"metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJM-MG",
+"enunciado_principal": "“FH foi condenado por associação ao tráfico internacional. Após sua condenação e de ter cumprido 1/6 da pena, seu advogado buscou a Vara de Execuções Penais e requereu a progressão do regime prisional, conforme legislação que vigia quando de sua apenação. O Juiz de 1º grau concedeu a progressão, mas houve recurso do Ministério Público, que foi acolhido pelo Tribunal. Pelo entendimento da Corte, a Lei que trata do regime legal dos crimes hediondos fora alterada. A nova normativa estabeleceu que para crimes hediondos a aplicação do regime de progressão só seria possível após o cumprimento de 2/5 da pena, para réus primários como FH.”",
+"itens_assertiva": [],
+"enunciado_pergunta": "Neste caso, a decisão do Tribunal é:",
+"alternativas": [
+{ "letra": "A", "texto": "Errada, uma vez que fere o Princípio da Retroatividade da lei penal benéfica." },
+{ "letra": "B", "texto": "Correta , já que os condenados por crimes hediondos não têm direito à progressão do regime prisional." },
+{ "letra": "C", "texto": "Equivocada, não tendo sido observada a necessidade de realização de estudo social e psicológico antes da progressão." },
+{ "letra": "D", "texto": "Exata, pois a mudança legislativa ocorrida só atinge os processos em curso, que não tenham sido sentenciados." }
+],
+"gabarito": "A"
+},
+{
+"id": "18622851",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "Dispõe o artigo 1º do Código Penal: “Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal.” Encontramos consagrados nesse artigo os princípios:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "da legalidade e da adequação social." },
+{ "letra": "B", "texto": "da isonomia e da estrita legalidade." },
+{ "letra": "C", "texto": "da intervenção mínima e da anterioridade." },
+{ "letra": "D", "texto": "da reserva legal e da anterioridade." },
+{ "letra": "E", "texto": "da anterioridade e da taxatividade." }
+],
+"gabarito": "D"
+},
+{
+"id": "18605721",
+"metadata": "Ano: 2021 | Banca: FCC | Órgão: TJ-SC",
+"enunciado_principal": "Sobre o princípio da legalidade:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "requer que além de prévia, a lei seja taxativa." },
+{ "letra": "B", "texto": "limita-se à previa definição do crime, mas a pena pode ser cominada posteriormente." },
+{ "letra": "C", "texto": "aplica-se a crime e contravenções penais, salvo crimes hediondos e equiparados." },
+{ "letra": "D", "texto": "permite a retroatividade da lei penal em caso de crime violento e sexual." },
+{ "letra": "E", "texto": "constitui um entrave ao combate da criminalidade violenta no Brasil." }
+],
+"gabarito": "A"
+},
+{
+"id": "18592831",
+"metadata": "Ano: 2021 | Banca: FUMARC | Órgão: PC-MG",
+"enunciado_principal": "Acerca dos princípios que limitam e informam o Direito Penal, é CORRETO afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Em atenção ao princípio penal da lesividade, a Constituição Federal proíbe as penas de morte, salvo em caso de guerra declarada, e as consideradas cruéis." },
+{ "letra": "B", "texto": "Em observância ao princípio da legalidade, a lei penal, na modalidade stricta, permite a analogia em in malam partem ." },
+{ "letra": "C", "texto": "O princípio da adequação social funciona como causa supralegal de exclusão da tipicidade, não podendo ser considerado criminoso o comportamento humano socialmente aceito e adequado, que, embora tipificado em lei, não afronte o sentimento social de justiça." },
+{ "letra": "D", "texto": "O Superior Tribunal de Justiça, em decisão baseada no princípio da individualização das penas, firmou entendimento no sentido de que pena cumprida em condição indigna pode ser contada em dobro." }
+],
+"gabarito": "C"
+},
+{
+"id": "18566071",
+"metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PEFOCE",
+"enunciado_principal": "O princípio da bagatela ou insignificância permite o afastamento da tipicidade material do delito desde que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "estejam reunidos, alternativamente, um dos seguintes requisitos: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada." },
+{ "letra": "B", "texto": "estejam reunidos, cumulativamente, pelo menos dois dos seguintes requisitos: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada." },
+{ "letra": "C", "texto": "estejam reunidos, cumulativamente, os seguintes requisitos: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada." },
+{ "letra": "D", "texto": "estejam reunidos, alternativamente, pelo menos três dos seguintes requisitos: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada." },
+{ "letra": "E", "texto": "esteja evidente, além da primariedade do agente, a presença de um dos seguintes requisitos: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada." }
+],
+"gabarito": "C"
+},
+{
+"id": "18565011",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "Sobre as hipóteses de aplicação do princípio da insignificância pelas Cortes Superiores, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O princípio da insignificância pode ser aplicado para atos infracionais." },
+{ "letra": "B", "texto": "A infração bagatelar pode ser reconhecida para o crime de moeda falsa." },
+{ "letra": "C", "texto": "Em crime de roubo, se o valor do bem subtraído por irrisório, pode ser aplicado o princípio da insignificância." },
+{ "letra": "D", "texto": "De acordo com o Superior Tribunal de Justiça, para fins de incidência do princípio da insignificância nos crimes tributários estaduais, deve ser utilizado o parâmetro de R$ 20.000,00 (vinte mil reais), estabelecido no art. 20 da Lei Federal nº 10.522/2002, independentemente de previsão diversa na legislação estadual." },
+{ "letra": "E", "texto": "Não existe nenhum precedente, nem do STJ, nem do STF, aplicando o princípio da insignificância ao crime de porte de drogas para consumo pessoal (art. 28 da Lei nº 11.343/06), visto tratar-se de delito de perigo presumido ou abstrato e a pequena quantidade de droga faz parte da própria essência do delito em questão." }
+],
+"gabarito": "A"
+},
+{
+"id": "18564951",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "De acordo com a doutrina clássica, especialmente a de Robert Alexy, princípios são espécies de normas jurídicas, definidos como “mandamentos de otimização aplicáveis na maior medida possível”. Em relação aos princípios do Direito Penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Pelo princípio da materialização do fato ( nullun crimen sine actio ), o Estado pode incriminar condições existenciais, desde que o faça por meio de lei e a conduta ameace gravemente determinados bens jurídicos." },
+{ "letra": "B", "texto": "O princípio da insignificância é inaplicável aos crimes contra a administração pública, conforme entendimento sumulado do Supremo Tribunal Federal." },
+{ "letra": "C", "texto": "O princípio da presunção de inocência impede a execução provisória da sentença condenatória, inclusive em se tratando de penas restritivas de direitos." },
+{ "letra": "D", "texto": "Segundo entendimento jurisprudencial, medida provisória não pode tratar sobre Direito Penal, nem mesmo para beneficiar o réu, pois nesse ramo jurídico prevalece o princípio da legalidade estrita." },
+{ "letra": "E", "texto": "Apesar de serem conceituadas de maneira diferente, a bagatela própria e a imprópria, sob o ponto de vista pragmático, geram a mesma consequência, que é a exclusão da tipicidade material." }
+],
+"gabarito": "C"
+},
+{
+"id": "18563491",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "Segundo o art 1º do Código Penal brasileiro, não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal. A referida norma se refere diretamente ao:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "princípio da individualização da pena." },
+{ "letra": "B", "texto": "princípio da reserva legal ou estrita legalidade." },
+{ "letra": "C", "texto": "princípio da alteridade." },
+{ "letra": "D", "texto": "princípio da lesividade ou ofensividade." },
+{ "letra": "E", "texto": "princípio da adequação social." }
+],
+"gabarito": "B"
+},
+{
+"id": "18553731",
+"metadata": "Ano: 2021 | Banca: FAUEL | Órgão: Prefeitura de São José dos Pinhais - PR",
+"enunciado_principal": "A respeito dos princípios básicos do direito penal, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Do princípio da intervenção mínima decorre a ideia da fragmentariedade do direito penal, de acordo com a qual a resposta penal deve se limitar a ofensas graves a somente alguns bens jurídicos." },
+{ "letra": "B", "texto": "O princípio da lesividade significa que os tipos penais devem descrever ou dar abrigo a um comportamento apto a produzir danos concretos ou perigo efetivo de danos às pessoas, de modo que a imoralidade de uma conduta, por si só, não é suficiente para invocar e legitimar a atuação do direito penal." },
+{ "letra": "C", "texto": "O princípio da legalidade em matéria penal apresenta como desdobramentos a proibição da analogia em matéria de incriminação, a proibição da retroatividade da lei mais gravosa e a exigência de determinação e certeza das incriminações (taxatividade)." },
+{ "letra": "D", "texto": "De acordo com o princípio da responsabilidade pessoal, nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do dano." },
+{ "letra": "E", "texto": "A Constituição da República de 1988 prevê, expressamente, a vedação da edição de medidas provisórias sobre matéria relativa a direito penal, em respeito ao princípio da legalidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "18471541",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+"enunciado_principal": "Acerca da aplicação da lei penal, julgue o item que se segue. Considere que o presidente da República, em face da opinião pública e da urgência da matéria, tenha editado medida provisória, reconhecendo a atipicidade de uma conduta penal em função de sua adequação social. Nessa situação, pode-se afirmar que a medida provisória apresenta vício de origem que não convalesce pela sua eventual aprovação.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "18375591",
+"metadata": "Ano: 2021 | Banca: Unilavras | Órgão: Prefeitura de Cláudio - MG",
+"enunciado_principal": "Está correto o que se afirma em:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Os princípios constitucionais do Direito Penal possuem função meramente informativa, servindo apenas para auxiliar na interpretação de outras normas, sem força normativa." },
+{ "letra": "B", "texto": "O princípio da legalidade da lei penal estabelece que a criminalização de uma conduta se dê por meio de Lei em sentido amplo e que esta lei seja anterior ao fato, à prática da conduta." },
+{ "letra": "C", "texto": "De acordo com o princípio da lesividade, a ofensa a bem jurídico próprio desafia a intervenção do Direito Penal, porquanto capaz de abalar a paz social impondo-se a repressão pelo Direito Penal." },
+{ "letra": "D", "texto": "Os princípios constitucionais do Direito Penal são normas que, extraídas da Constituição Federal, servem como base interpretativa para todas as outras normas de Direito Penal do sistema jurídico brasileiro." }
+],
+"gabarito": "D"
+},
+{
+"id": "18368481",
+"metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+"enunciado_principal": "O princípio da bagatela imprópria",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "é reconhecido pelo Superior Tribunal de Justiça em casos de violência doméstica e familiar contra mulher." },
+{ "letra": "B", "texto": "é aplicado, diante da ausência de previsão legal, por analogia o instituto do arrependimento posterior, com a redução da pena de um terço a dois terços." },
+{ "letra": "C", "texto": "permite que o julgador deixe de aplicar a pena em razão desta ter se tornado desnecessária." },
+{ "letra": "D", "texto": "pressupõe para sua aplicação a existência de infração bagatelar própria." },
+{ "letra": "E", "texto": "possui reflexos na dosimetria da pena, como circunstância atenuante da pena." }
+],
+"gabarito": "C"
+},
+{
+"id": "18286101",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-CE",
+"enunciado_principal": "Com relação aos crimes contra a fé pública e a administração pública, julgue o item a seguir. Nova lei penal que equipare a pena do peculato culposo à do peculato mediante erro de outrem não retroagirá.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "18264611",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Acerca dos princípios constitucionais penais, julgue o item subsequente. Para o STF, de acordo com o princípio da culpabilidade, somente é possível imputar crime a pessoa jurídica se, simultaneamente, o ilícito penal for imputado à pessoafísica que tenha sido o autor material da conduta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "18264601",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Acerca dos princípios constitucionais penais, julgue o item subsequente. Nenhum dos princípios que regem o direito penal veda a criminalização, pelo legislador, da tentativa de suicídio, embora, no momento, esta conduta não esteja tipificada.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "18264571",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Acerca dos princípios constitucionais penais, julgue o item subsequente. O princípio da lesividade impede que motivações e disposições internas sejam consideradas tanto para a caracterização da tipicidade da conduta quanto para a dosimetria da pena.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "18264541",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+"enunciado_principal": "Acerca dos princípios constitucionais penais, julgue o item subsequente. O objetivo do direito penal moderno é exclusivamente a proteção de bens jurídicos, de modo que é vedada a criminalização de intenções, de pensamentos e de maneiras de viver, salvo se exteriorizadas de modo a, no mínimo, colocar em risco os referidos bens jurídicos, especialmente aqueles consagrados na própria Constituição Federal, como a saúde pública, o patrimônio e o meio ambiente.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "18255641",
+"metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+"enunciado_principal": "A Constituição da República proíbe as penas de morte (salvo em caso de guerra declarada) e as consideradas cruéis (art. 5º, inc. XLVII, alíneas ‘a’ e ‘e’, respectivamente), além de assegurar às pessoas presas o respeito à integridade física e moral (art. 5º, inc. XLIX). Tais preceitos constitucionais expressam o princípio penal da:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "humanidade." },
+{ "letra": "B", "texto": "intervenção mínima." },
+{ "letra": "C", "texto": "insignificância." },
+{ "letra": "D", "texto": "adequação social." },
+{ "letra": "E", "texto": "lesividade." }
+],
+"gabarito": "A"
+},
+{
+"id": "18255511",
+"metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+"enunciado_principal": "Se uma conduta não representa uma ofensa relevante ao bem jurídico contemplado no tipo penal, entende-se que ela é materialmente atípica em razão do princípio da insignificância. Um exemplo de situação que poderia ser abrangida pelo princípio seria a subtração de um pacote de batatas de um supermercado. São requisitos estabelecidos pela jurisprudência do Supremo Tribunal Federal para a incidência do princípio da insignificância, EXCETO:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "mínima ofensividade da conduta do agente." },
+{ "letra": "B", "texto": "nenhuma periculosidade social da ação." },
+{ "letra": "C", "texto": "reduzido grau de reprovabilidade do comportamento." },
+{ "letra": "D", "texto": "inexpressividade da lesão jurídica provocada." },
+{ "letra": "E", "texto": "ausência de interesse da vítima na persecução penal." }
+],
+"gabarito": "E"
+},
+{
+"id": "18100931",
+"metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+"enunciado_principal": "A prisão de agente, previamente condenado, por porte de instrumento comumente empregado na prática do crime de furto",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "obedece ao Princípio da Isonomia." },
+{ "letra": "B", "texto": "não demanda uma condição específica do agente." },
+{ "letra": "C", "texto": "decorre de uma infração penal de perigo em concreto." },
+{ "letra": "D", "texto": "viola o princípio da dignidade da pessoa humana." },
+{ "letra": "E", "texto": "está de acordo com o princípio da razoabilidade." }
+],
+"gabarito": "D"
+}
+]
