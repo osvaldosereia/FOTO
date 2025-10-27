@@ -1,0 +1,350 @@
+[
+{
+"id": "48192057",
+"metadata": "Ano: 2022 | Banca: IBFC | Órgão: PC-BA",
+"enunciado_principal": "Assinale a alternativa que apresenta o significado do princípio da ofensividade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Só se deve recorrer ao Direito Penal se outros ramos do direito não forem suficientes; o Direito Penal deve ser concebido como a última opção, para ser usado somente quando estritamente necessário" },
+{ "letra": "B", "texto": "O Direito Penal deve tutelar os bens jurídicos mais relevantes para a vida em sociedade, sem levar em consideração valores exclusivamente morais ou ideológicos" },
+{ "letra": "C", "texto": "Não há crime se não há lesão ou perigo real de lesão a bem jurídico tutelado pelo Direito Penal" },
+{ "letra": "D", "texto": "Condutas historicamente aceitas e consideradas adequadas pela sociedade em tese não merecem intervenção penal punitiva, não sendo abrangidas pelos tipos penais" },
+{ "letra": "E", "texto": "Decorrente do princípio da dignidade da pessoa humana, impõe impedir que a pena venha a ser empregada como instrumento de violência, com tratamento desumano ou cruel" }
+],
+"gabarito": "C"
+},
+{
+"id": "36728190",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-SE",
+"enunciado_principal": "Segundo o STF, é atípico o furto, em razão da proibição da analogia *in malam partem*, de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "cabos elétricos." },
+{ "letra": "B", "texto": "água tratada." },
+{ "letra": "C", "texto": "energia elétrica." },
+{ "letra": "D", "texto": "sinal de TV a cabo." },
+{ "letra": "E", "texto": "animais." }
+],
+"gabarito": "D"
+},
+{
+"id": "90215463",
+"metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+"enunciado_principal": "A incidência do princípio da insignificância afasta a",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "tipicidade material da conduta." },
+{ "letra": "B", "texto": "ilicitude, mais especificamente pelo estado de necessidade." },
+{ "letra": "C", "texto": "culpabilidade." },
+{ "letra": "D", "texto": "exigibilidade de conduta diversa." }
+],
+"gabarito": "A"
+},
+{
+"id": "67018392",
+"metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+"enunciado_principal": "O artigo 234 do Código Penal, em seu *caput*, traz o delito de “Escrito ou objeto obsceno”, cuja descrição típica é a seguinte: “Fazer, importar, exportar, adquirir ou ter sob sua guarda, para fim de comércio, de distribuição ou de exposição pública, escrito, desenho, pintura, estampa ou qualquer objeto obsceno.” O preceito secundário do tipo comina pena de detenção de seis meses a dois anos ou multa. Nesse sentido, numa interpretação atenta aos princípios que limitam e informam o direito penal, é correto afirmar que o referido delito",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não ofende o princípio da legalidade, pois o princípio em comento apenas veda a retroatividade maligna da lei penal, o que não foi o caso narrado." },
+{ "letra": "B", "texto": "ofende o princípio da legalidade, pois não há definição do que se considera “obsceno” para fins de delimitação da incidência da normal penal incriminadora." },
+{ "letra": "C", "texto": "está acorde com o princípio da adequação social, devendo a conduta ser considerada típica, haja vista o fato de subsumir-se a tipo penal incriminador, não importando o fato de ser socialmente adequada." },
+{ "letra": "D", "texto": "ofende o princípio da consunção, pois o princípio em comento orienta que uma conduta não pode ser considerada típica se for aceita e praticada pela sociedade." }
+],
+"gabarito": "B"
+},
+{
+"id": "15347890",
+"metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+"enunciado_principal": "Joana compareceu à delegacia de polícia relatando violência doméstica, na qual seu companheiro, por não aceitar que ela exercia atividade laboral, destruiu seus instrumentos de trabalho, os quais foram avaliados em R$ 85,00 (oitenta e cinco reais). Considerando o caso narrado, julgue o seguinte item.",
+"itens_assertiva": [
+"Na hipótese, conforme entendimento do Superior Tribunal de Justiça (STJ), será aplicável o princípio da insignificância em favor do companheiro de Joana, haja vista o reduzido valor dos objetos destruídos."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "29487103",
+"metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+"enunciado_principal": "Em relação aos crimes em espécie, julgue o item subsequente.",
+"itens_assertiva": [
+"O policial penal que se apropria de dois rádios transmissores do estabelecimento prisional, que estavam em sua posse em razão do cargo, avaliados juntos em R$ 150,00 reais, responde pelo crime de peculato. Nesse caso, ainda, é correto afirmar que, segundo entendimento do STJ, é inaplicável o princípio da insignificância."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "51093482",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-TO",
+"enunciado_principal": "A incompletude da ordem jurídica torna indispensável a aplicação analógica, pela qual o sistema jurídico estende toda sua força reguladora a situações não previstas, buscando uma solução que lhe seja imanente. Sobre o tema, é correto afirmar que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "normas penais não incriminadoras gerais podem ser alvo do emprego do argumento analógico;" },
+{ "letra": "B", "texto": "normas penais não incriminadoras podem ser interpretadas em prejuízo do réu;" },
+{ "letra": "C", "texto": "normas penais que definem o injusto culpável são passíveis de aplicação analógica;" },
+{ "letra": "D", "texto": "normas penais que estabelecem as consequências jurídicas do injusto culpável são passíveis de aplicação analógica;" },
+{ "letra": "E", "texto": "normas penais não incriminadoras excepcionais podem ser alvo do emprego do argumento analógico." }
+],
+"gabarito": "A"
+},
+{
+"id": "77801642",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-DFT",
+"enunciado_principal": "No Brasil, o princípio da proibição da dupla persecução penal ou da vedação à dupla incriminação:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "tem expressa previsão na Constituição da República de 1988;" },
+{ "letra": "B", "texto": "não tem previsão normativa, o que impede sua aplicação;" },
+{ "letra": "C", "texto": "tem expressa previsão no Código de Processo Penal;" },
+{ "letra": "D", "texto": "não tem previsão normativa, decorrendo implicitamente da Constituição da República de 1988;" },
+{ "letra": "E", "texto": "tem expressa previsão na legislação processual penal extravagante." }
+],
+"gabarito": "D"
+},
+{
+"id": "10948372",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: MPE-GO",
+"enunciado_principal": "Sandro foi preso em flagrante ao subtrair um pacote de macarrão, cujo valor era R$9,00, de um hipermercado do bairro onde morava. O Ministério Público ofereceu denúncia em face de Sandro, mas o magistrado rejeitou a peça acusatória, reconhecendo a incidência do princípio da bagatela ou insignificância. O referido princípio exclui a",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "ilicitude." },
+{ "letra": "B", "texto": "tipicidade formal." },
+{ "letra": "C", "texto": "culpabilidade." },
+{ "letra": "D", "texto": "tipicidade material." },
+{ "letra": "E", "texto": "punibilidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "88765431",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "Com relação aos princípios penais, assinale a assertiva **incorreta.**",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Segundo o princípio da legalidade estrita, novos crimes só podem ser criados através de lei ordinária." },
+{ "letra": "B", "texto": "O princípio da lesividade parte da premissa que o direito penal só pode incidir em hipóteses de lesão ou risco de lesão a bens jurídico-penais." },
+{ "letra": "C", "texto": "O princípio da intranscendência possui previsão constitucional, além de ser acolhido pela jurisprudência dos tribunais superiores" },
+{ "letra": "D", "texto": "O princípio da adequação social implica na exclusão da tipicidade material diante da prática de condutas criminosas, porém socialmente aceitas." },
+{ "letra": "E", "texto": "O princípio da insignificância implica na exclusão da tipicidade formal diante lesão ou risco de lesão irrelevante ao bem jurídico tutelado." }
+],
+"gabarito": "E"
+},
+{
+"id": "55432190",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "O princípio da insignificância é admitido na doutrina e na jurisprudência em relação ao delito de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "descaminho." },
+{ "letra": "B", "texto": "uso de documento falso." },
+{ "letra": "C", "texto": "supressão de documento." },
+{ "letra": "D", "texto": "roubo simples." },
+{ "letra": "E", "texto": "contrabando." }
+],
+"gabarito": "A"
+},
+{
+"id": "17294503",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "O princípio da insignificância é compatível com o furto praticado",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "por escalada." },
+{ "letra": "B", "texto": "por arrombamento." },
+{ "letra": "C", "texto": "durante o repouso noturno." },
+{ "letra": "D", "texto": "em concurso de pessoas." },
+{ "letra": "E", "texto": "por clandestinidade." }
+],
+"gabarito": "E"
+},
+{
+"id": "44093816",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "Fruto da herança dos postulados iluministas, a partir da segunda metade dos anos 1970, um novo modelo normativo de garantia aos direitos sociais, civis e políticos é lapidado na Itália como sinônimo de Estado constitucional democrático, surgindo o garantismo. Sobre esse modelo, é correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o princípio da legalidade exige a descrição da conduta proibida de maneira precisa e determinada, mas não exerce influência na filtragem axiológica feita pelo juiz." },
+{ "letra": "B", "texto": "o princípio da culpabilidade, sob a lógica da análise jurisdicional focada somente na conduta praticada, permite a aplicação do instituto da reincidência." },
+{ "letra": "C", "texto": "o princípio da materialidade da conduta exige que a conduta criminosa praticada gere alteração sensorial no mundo dos fatos, impedindo um resultado meramente normativo." },
+{ "letra": "D", "texto": "o princípio da proteção suficiente, numa perspectiva garantista positiva, endossa a função estatal de proteção suficiente de direitos fundamentais a partir do Direito Penal." },
+{ "letra": "E", "texto": "o princípio da lesividade reforça a vedação a abusos de um sistema estatal representado na concepção de efetividade sem validade." }
+],
+"gabarito": "D"
+},
+{
+"id": "93456780",
+"metadata": "Ano: 2022 | Banca: SELECON | Órgão: SEJUSP-MG",
+"enunciado_principal": "No REsp 672.225-RS, julgado em 07.08.2008, a Sexta Turma do Superior Tribunal de Justiça julgou o caso de uma contadora, que recebeu de uma cliente a quantia de R$ 500,00 para quitar contribuições em atraso junto ao INSS e protocolar pedido administrativo para a concessão de auxílio-doença, não fazendo nem uma coisa, nem outra. Denunciada por apropriação indébita majorada pelo Ministério Público, a contadora foi absolvida pelo Tribunal de Justiça. A absolvição foi confirmada pelo STJ. Em seu voto-vista, o Ministro Nilson Naves sustentou que “as relações aqui descritas bem podem ser resolvidas na esfera cível (...)” (Fonte Informativo STJ nº 0362) A decisão do STJ, tal como descrita, é amparada no princípio da:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "legalidade" },
+{ "letra": "B", "texto": "culpabilidade" },
+{ "letra": "C", "texto": "insignificância" },
+{ "letra": "D", "texto": "subsidiariedade" }
+],
+"gabarito": "D"
+},
+{
+"id": "60192837",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: MPE-GO",
+"enunciado_principal": "O Superior Tribunal de Justiça entende que o princípio da consunção incide quando:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "apesar de desígnios autônomos, for um dos crimes conexo com o delito final visado pelo agente, ainda que ofendidos bens jurídicos distintos;" },
+{ "letra": "B", "texto": "for um dos crimes progressão para a preparação, execução ou mero exaurimento do delito final visado pelo agente, ainda que ofendidos bens jurídicos distintos;" },
+{ "letra": "C", "texto": "for um dos crimes progressão para a preparação, execução ou mero exaurimento do delito final visado pelo agente, desde que não ofendidos bens jurídicos distintos;" },
+{ "letra": "D", "texto": "for um dos crimes meio necessário ou usual para a preparação, execução ou mero exaurimento do delito final visado pelo agente, ainda que ofendidos bens jurídicos distintos;" },
+{ "letra": "E", "texto": "for um dos crimes meio necessário ou usual para a preparação, execução ou mero exaurimento do delito final visado pelo agente, desde que não ofendidos bens jurídicos distintos." }
+],
+"gabarito": "E"
+},
+{
+"id": "35820914",
+"metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+"enunciado_principal": "No que se dispõe sobre a aplicação da lei penal, analise as afirmações abaixo, enumeradas de l a V.",
+"itens_assertiva": [
+"I - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução da pena, mantendo-se válidos apenas os efeitos da sentença condenatória.",
+"Il - Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, os crimes contra a administração pública por quem está a seu serviço.",
+"III- Considera-se praticado o crime no momento da ação ou da omissão, ainda que outro seja o momento do resultado.",
+"IV - Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado.",
+"V - As regras gerais são as normas não incriminadoras, previstas tanto na parte Geral como na Parte Especial do Código Penal, e aplicam-se somente aos fatos definidos como crime no Código Penal."
+],
+"enunciado_pergunta": "Assinale a alternativa que apresenta as afirmações corretas.",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas as afirmativas II, III e IV estão corretas." },
+{ "letra": "B", "texto": "As afirmações corretas são as das alternativas I, III, IV e V." },
+{ "letra": "C", "texto": "Somente as afirmações das alternativas II, IV e V estão corretas." },
+{ "letra": "D", "texto": "Apenas as afirmações das alternativas I, III e V estão corretas." },
+{ "letra": "E", "texto": "Todas as afirmações estão corretas." }
+],
+"gabarito": "A"
+},
+{
+"id": "90214876",
+"metadata": "Ano: 2021 | Banca: Avança SP | Órgão: Câmara de Ribeirão Pires - SP",
+"enunciado_principal": "No que se refere aos tópicos de Direito Penal, analise os itens a seguir e, ao final, assinale a alternativa correta.",
+"itens_assertiva": [
+"I - Lei excepcional, por ter ultratividade, pode ser aplicada a fatos praticados durante sua vigência mesmo após sua revogação.",
+"II – No tocante ao tempo do crime, o Código Penal brasileiro adotou a teoria da atividade, que o considera como o momento da conduta comissiva ou omissiva.",
+"III – O princípio da legalidade tem como fundamento o princípio *nullum crimen, nulla poena sine praevia lege*."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas o item I é verdadeiro." },
+{ "letra": "B", "texto": "Apenas o item II é veradeiro." },
+{ "letra": "C", "texto": "Apenas o item III é verdadeiro." },
+{ "letra": "D", "texto": "Apenas os itens I e III são verdadeiros." },
+{ "letra": "E", "texto": "Todos os itens são verdadeiros." }
+],
+"gabarito": "E"
+},
+{
+"id": "44876501",
+"metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+"enunciado_principal": "O princípio da insignificância constitui causa de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "exclusão da tipicidade." },
+{ "letra": "B", "texto": "exclusão da ilicitude." },
+{ "letra": "C", "texto": "exclusão da culpabilidade." },
+{ "letra": "D", "texto": "extinção da punibilidade." },
+{ "letra": "E", "texto": "extinção da pena." }
+],
+"gabarito": "A"
+},
+{
+"id": "19028374",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TJ-RJ",
+"enunciado_principal": "O princípio penal da alteridade expressa",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "que ninguém responderá por um resultado absolutamente imprevisível se o seu comportamento não for motivado por dolo ou culpa." },
+{ "letra": "B", "texto": "a vedação constitucional da tortura e de tratamento desumano ou degradante." },
+{ "letra": "C", "texto": "a proibição da intervenção penal à conduta puramente subjetiva do agente, sem a efetiva lesão ao bem jurídico." },
+{ "letra": "D", "texto": "que nem toda ofensa ao bem jurídico protegido tipicamente é suficiente para configurar o injusto típico." },
+{ "letra": "E", "texto": "que o comportamento que se adéqua a determinada descrição típica formal, mas materialmente irrelevante, sendo socialmente permitido, não se reveste de tipicidade." }
+],
+"gabarito": "C"
+},
+{
+"id": "52047816",
+"metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+"enunciado_principal": "No direito penal brasileiro, a retroatividade de lei nova que deixa de considerar um fato como criminoso",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "é vedada, conforme a Constituição Federal de 1988." },
+{ "letra": "B", "texto": "não cessa os efeitos penais da condenação." },
+{ "letra": "C", "texto": "extingue a punibilidade do agente." },
+{ "letra": "D", "texto": "não se aplica a fatos transitados em julgado." },
+{ "letra": "E", "texto": "torna a lei anterior excepcional ou temporária." }
+],
+"gabarito": "C"
+},
+{
+"id": "23456789",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-SE",
+"enunciado_principal": "Segundo o STF, é atípico o furto, em razão da proibição da analogia *in malam partem*, de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "cabos elétricos." },
+{ "letra": "B", "texto": "água tratada." },
+{ "letra": "C", "texto": "energia elétrica." },
+{ "letra": "D", "texto": "sinal de TV a cabo." },
+{ "letra": "E", "texto": "animais." }
+],
+"gabarito": "D"
+},
+{
+"id": "87654321",
+"metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+"enunciado_principal": "A incidência do princípio da insignificância afasta a",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "tipicidade material da conduta." },
+{ "letra": "B", "texto": "ilicitude, mais especificamente pelo estado de necessidade." },
+{ "letra": "C", "texto": "culpabilidade." },
+{ "letra": "D", "texto": "exigibilidade de conduta diversa." }
+],
+"gabarito": "A"
+},
+{
+"id": "13579246",
+"metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+"enunciado_principal": "O artigo 234 do Código Penal, em seu *caput*, traz o delito de “Escrito ou objeto obsceno”, cuja descrição típica é a seguinte: “Fazer, importar, exportar, adquirir ou ter sob sua guarda, para fim de comércio, de distribuição ou de exposição pública, escrito, desenho, pintura, estampa ou qualquer objeto obsceno.” O preceito secundário do tipo comina pena de detenção de seis meses a dois anos ou multa. Nesse sentido, numa interpretação atenta aos princípios que limitam e informam o direito penal, é correto afirmar que o referido delito",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não ofende o princípio da legalidade, pois o princípio em comento apenas veda a retroatividade maligna da lei penal, o que não foi o caso narrado." },
+{ "letra": "B", "texto": "ofende o princípio da legalidade, pois não há definição do que se considera “obsceno” para fins de delimitação da incidência da normal penal incriminadora." },
+{ "letra": "C", "texto": "está acorde com o princípio da adequação social, devendo a conduta ser considerada típica, haja vista o fato de subsumir-se a tipo penal incriminador, não importando o fato de ser socialmente adequada." },
+{ "letra": "D", "texto": "ofende o princípio da consunção, pois o princípio em comento orienta que uma conduta não pode ser considerada típica se for aceita e praticada pela sociedade." }
+],
+"gabarito": "B"
+}
+]
