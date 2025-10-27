@@ -57,8 +57,7 @@
             transform: scale(1.1);
         }
         
-        /* ***** CORREÇÃO APLICADA AQUI ***** */
-        /* Toggle Switch (Modo Prova) - Convertido de @apply para CSS puro */
+        /* Toggle Switch (Modo Prova) */
         .toggle-bg:after {
             content: '';
             position: absolute;
@@ -79,7 +78,6 @@
             background-color: #2563eb; /* bg-blue-600 */
             border-color: #2563eb; /* border-blue-600 */
         }
-        /* ***** FIM DA CORREÇÃO ***** */
         
         /* Oculta os spinners de inputs numéricos */
         input[type='number']::-webkit-inner-spin-button,
@@ -452,17 +450,23 @@
             metadata.className = 'text-xs text-gray-500';
             metadata.textContent = `Questão ${numero} | ${questao.metadata || 'Sem metadados'}`;
             
-            const flagIcon = document.createElement('span');
-            flagIcon.className = 'flag-icon';
-            flagIcon.innerHTML = '🚩';
-            flagIcon.title = 'Sinalizar questão para revisão';
-            flagIcon.addEventListener('click', () => {
-                card.classList.toggle('flagged');
-                flagIcon.classList.toggle('flagged');
-            });
-
             metadataContainer.appendChild(metadata);
-            metadataContainer.appendChild(flagIcon);
+
+            // ***** AJUSTE APLICADO AQUI *****
+            // Só adiciona o ícone de 'flag' se estiver no Modo Prova
+            if (checkModoProva.checked) {
+                const flagIcon = document.createElement('span');
+                flagIcon.className = 'flag-icon';
+                flagIcon.innerHTML = '🚩';
+                flagIcon.title = 'Sinalizar questão para revisão';
+                flagIcon.addEventListener('click', () => {
+                    card.classList.toggle('flagged');
+                    flagIcon.classList.toggle('flagged');
+                });
+                metadataContainer.appendChild(flagIcon);
+            }
+            // ***** FIM DO AJUSTE *****
+            
             card.appendChild(metadataContainer);
 
             // 2. Lógica do Enunciado (Simples vs. Complexo)
@@ -628,7 +632,7 @@
             if (acertou) {
                 // Resposta Correta
                 const altCorreta = card.querySelector(`.alternativa-item[data-letra="${gabarito}"]`);
-                altCorreta.classList.add('correct');
+                if (altCorreta) altCorreta.classList.add('correct');
                 gabaritoDisplay.classList.replace('bg-blue-50', 'bg-green-50');
                 gabaritoDisplay.classList.replace('border-blue-200', 'border-green-200');
                 gabaritoDisplay.classList.replace('text-blue-800', 'text-green-800');
@@ -670,6 +674,15 @@
             const separadores = divQuestoes.querySelectorAll('hr');
             let ultimoCardVisivel = null;
 
+            // ***** AJUSTE NOS BOTÕES DE FILTRO *****
+            // Reseta a aparência de todos os botões de filtro
+            btnFiltroTodas.classList.remove('bg-blue-600', 'text-white');
+            btnFiltroTodas.classList.add('bg-gray-200', 'text-gray-700');
+            btnFiltroErradas.classList.remove('bg-blue-600', 'text-white');
+            btnFiltroErradas.classList.add('bg-gray-200', 'text-gray-700');
+            btnFiltroSinalizadas.classList.remove('bg-blue-600', 'text-white');
+            btnFiltroSinalizadas.classList.add('bg-gray-200', 'text-gray-700');
+
             cards.forEach(card => {
                 let mostrar = false;
                 switch (tipo) {
@@ -688,6 +701,19 @@
                 if (mostrar) ultimoCardVisivel = card;
             });
             
+            // Destaca o botão de filtro ativo
+            if (tipo === 'todas') {
+                btnFiltroTodas.classList.add('bg-blue-600', 'text-white');
+                btnFiltroTodas.classList.remove('bg-gray-200', 'text-gray-700');
+            } else if (tipo === 'erradas') {
+                btnFiltroErradas.classList.add('bg-blue-600', 'text-white');
+                btnFiltroErradas.classList.remove('bg-gray-200', 'text-gray-700');
+            } else if (tipo === 'sinalizadas') {
+                btnFiltroSinalizadas.classList.add('bg-blue-600', 'text-white');
+                btnFiltroSinalizadas.classList.remove('bg-gray-200', 'text-gray-700');
+            }
+            // ***** FIM DO AJUSTE *****
+
             // Esconde HRs que ficaram "pendurados" (após um card oculto)
             separadores.forEach(hr => {
                 // Se o elemento ANTERIOR (o card) está oculto, oculta o HR
