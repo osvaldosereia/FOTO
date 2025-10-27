@@ -1,0 +1,302 @@
+Segue a reescrita das 20 questões extraídas dos excertos das fontes, com novos IDs aleatórios, gabarito ajustado para A/B (onde aplicável) e associado ao final de cada questão, conforme o modelo solicitado.
+
+[
+{
+"id": "76491035",
+"metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+"enunciado_principal": "Com relação aos crimes em espécie, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Em decisões recentes, o STJ tem entendido inaplicável o princípio da insignificância nos crimes contra a administração pública, ainda que o valor econômico da lesão possa ser considerado ínfimo, porque a norma busca resguardar não somente o aspecto patrimonial, mas a moral administrativa." },
+{ "letra": "B", "texto": "No que se refere à consumação do roubo, o STJ e o STF adotam a teoria da *apprehensio*, também denominada de *amotio*, segundo a qual se considera consumado o delito no momento em que o agente obtém a posse da *res furtiva*, ainda que não seja mansa e pacífica ou haja perseguição policial, sendo prescindível que o objeto do crime saia da esfera de vigilância da vítima." },
+{ "letra": "C", "texto": "Revogada a lei específica que tipificava a corrupção de menores, o CP passou a prever a mesma conduta, constituindo, todavia, *novatio legis in pejus*, na medida em que as penas privativas de liberdade e de multa se tornaram mais rigorosas." },
+{ "letra": "D", "texto": "Pacificou-se a jurisprudência do STJ no sentido da não admissibilidade da substituição da pena privativa de liberdade por pena restritiva de direitos, com fundamento na hediondez do crime, ainda que o réu preencha os requisitos objetivos e subjetivos que ensejariam a substituição." },
+{ "letra": "E", "texto": "Configura *bis in idem* e, consequentemente, nulidade sanável por *habeas corpus* a condenação por crime de quadrilha armada e roubo qualificado pelo uso de armas, na mesma sentença." }
+],
+"gabarito": "B"
+},
+{
+"id": "31048592",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: MPE-SE",
+"enunciado_principal": "Denomina-se crime complexo o que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "exige que os agentes atuem uns contra os outros." },
+{ "letra": "B", "texto": "se enquadra num único tipo legal." },
+{ "letra": "C", "texto": "é formado pela fusão de dois ou mais tipos legais de crime." },
+{ "letra": "D", "texto": "exige a atuação de dois ou mais agentes." },
+{ "letra": "E", "texto": "atinge mais de um bem jurídico." }
+],
+"gabarito": "C"
+},
+{
+"id": "90123547",
+"metadata": "Ano: 2009 | Banca: FGV | Órgão: TJ-PA",
+"enunciado_principal": "Com relação aos crimes contra a liberdade sexual, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"I. São formas qualificadas dos crimes contra a liberdade sexual aqueles em que há violência e desta violência resulta lesão corporal de natureza grave ou morte.",
+"II. Nos crimes contra a liberdade sexual, somente se procede mediante queixa. Mas se o crime é praticado com violência ou ameaça, a ação penal é pública, condicionada à representação.",
+"III. Nos crimes contra a liberdade sexual, se o crime é cometido com abuso do pátrio poder, a ação penal é pública incondicionada."
+],
+"enunciado_pergunta": "Assinale:",
+"alternativas": [
+{ "letra": "A", "texto": "se nenhuma afirmativa estiver correta." },
+{ "letra": "B", "texto": "se somente as afirmativas I e II estiverem corretas" },
+{ "letra": "C", "texto": "se somente as afirmativas I e III estiverem corretas." },
+{ "letra": "D", "texto": "se somente as afirmativas II e III estiverem corretas." },
+{ "letra": "E", "texto": "se todas as afirmativas estiverem corretas." }
+],
+"gabarito": "B"
+},
+{
+"id": "67834521",
+"metadata": "Ano: 2009 | Banca: FGV | Órgão: TJ-PA",
+"enunciado_principal": "Com relação ao crime organizado, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"I. A lei 9.034/95, que dispõe sobre a utilização de meios operacionais para a prevenção e repressão de ações praticadas por organizações criminosas, não se aplica às ações praticadas por quadrilha ou bando, apenas às ações praticadas por organizações criminosas.",
+"II. Os condenados por crimes decorrentes de organização criminosa iniciarão o cumprimento da pena em regime fechado.",
+"III. Na apuração de crimes praticados por organizações criminosas, em qualquer fase de persecução criminal, são permitidos, sem prejuízo dos já previstos em lei, os seguintes procedimentos de investigação e formação de provas: ação controlada; captação e interceptação ambiental; infiltração por agentes de polícia."
+],
+"enunciado_pergunta": "Assinale:",
+"alternativas": [
+{ "letra": "A", "texto": "se nenhuma afirmativa estiver correta." },
+{ "letra": "B", "texto": "se somente as afirmativas II e III estiverem corretas." },
+{ "letra": "C", "texto": "se somente as afirmativas I e II estiverem corretas." },
+{ "letra": "D", "texto": "se somente a afirmativa III estiver correta." },
+{ "letra": "E", "texto": "se todas as afirmativas estiverem corretas." }
+],
+"gabarito": "A"
+},
+{
+"id": "45690321",
+"metadata": "Ano: 2009 | Banca: FGV | Órgão: TJ-PA",
+"enunciado_principal": "Assinale a alternativa que indique a conduta que **não** constitui crime contra a ordem econômica.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Abusar do poder econômico, dominando o mercado ou eliminando, total ou parcialmente, a concorrência mediante coalizão, incorporação, fusão ou integração de empresas." },
+{ "letra": "B", "texto": "Formar acordo, convênio, ajuste ou aliança entre ofertantes, visando ao controle regionalizado do mercado por empresa ou grupo de empresas." },
+{ "letra": "C", "texto": "Favorecer ou preferir, sem justa causa, comprador ou freguês, ressalvados os sistemas de entrega ao consumo por intermédio de distribuidores ou revendedores." },
+{ "letra": "D", "texto": "Subordinar a venda de bem ou a utilização de serviço à aquisição de outro bem, ou ao uso de determinado serviço." },
+{ "letra": "E", "texto": "Aplicar fórmula de reajustamento de preços ou indexação de contrato proibida, ou diversa daquela que for legalmente estabelecida, ou fixada por autoridade competente." }
+],
+"gabarito": "C"
+},
+{
+"id": "18392745",
+"metadata": "Ano: 2009 | Banca: VUNESP | Órgão: TJ-MT",
+"enunciado_principal": "A combatida responsabilidade penal objetiva",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não encontra exemplos concretos em nossa legislação penal." },
+{ "letra": "B", "texto": "é doutrinariamente definida como à sujeição de alguém à imposição de pena sem que tenha agido com dolo ou culpa ou sem que tenha ficado demonstrada sua culpabilidade, com fundamento no nexo de causalidade, todavia, não encontra aplicação prática em casos concretos." },
+{ "letra": "C", "texto": "pode ser exemplificada em nossa legislação penal na rixa qualificada e na *actio libera in causa* na embriaguez." },
+{ "letra": "D", "texto": "tem um único exemplo em nossa legislação penal consistente na responsabilização das pessoas jurídicas por crimes ambientais." },
+{ "letra": "E", "texto": "deve ser utilizada em *ultima ratio*, uma vez que, pode violar direitos e garantias fundamentais da pessoa humana." }
+],
+"gabarito": "C"
+},
+{
+"id": "23948751",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-PI",
+"enunciado_principal": "Quanto ao elemento moral, os crimes podem ser",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "comissivos, omissivos e comissivos por omissão." },
+{ "letra": "B", "texto": "dolosos, culposos e qualificados pelo resultado." },
+{ "letra": "C", "texto": "individuais, coletivos, gerais e especiais." },
+{ "letra": "D", "texto": "comuns, políticos e mistos." },
+{ "letra": "E", "texto": "simples, complexos, formais e materiais." }
+],
+"gabarito": "B"
+},
+{
+"id": "51928374",
+"metadata": "Ano: 2009 | Banca: ESAF | Órgão: Receita Federal",
+"enunciado_principal": "Com relação à aplicação da lei penal, analise o caso abaixo e o enquadre na teoria do crime prevista no Código Penal Brasileiro, assinalando a assertiva correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "**Carlos atira em João com a intenção de matá-lo. Entretanto, a bala passa de raspão no braço de João. Este é socorrido e levado para o hospital. Tragicamente, o hospital é incendiado por Abelardo que deseja matar todos os pacientes do hospital e João morre carbonizado**.",
+"alternativas": [
+{ "letra": "A", "texto": "Carlos deverá ser denunciado por tentativa de homicídio." },
+{ "letra": "B", "texto": "Abelardo não pode ser denunciado pelo homicídio de João." },
+{ "letra": "C", "texto": "Abelardo não cometeu crime algum em relação a João." },
+{ "letra": "D", "texto": "Carlos deverá ser denunciado por homicídio." },
+{ "letra": "E", "texto": "Carlos e Abelardo deverão ser denunciados em concurso de agentes como co-autores do homicídio de João." }
+],
+"gabarito": "A"
+},
+{
+"id": "93847210",
+"metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: DPE-ES",
+"enunciado_principal": "Com relação a direito penal, julgue o seguinte item.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A tentativa incruenta não é punível, pois considera-se que o agente não iniciou a fase executória do *iter criminis*.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "B"
+},
+{
+"id": "68712395",
+"metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+"enunciado_principal": "Quanto a tipicidade, ilicitude, culpabilidade e punibilidade, julgue o item a seguir.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Os crimes comissivos por omissão - também chamados de crimes omissivos impróprios - são aqueles para os quais o tipo penal descreve uma ação, mas o resultado é obtido por inação.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "A"
+},
+{
+"id": "30491827",
+"metadata": "Ano: 2009 | Banca: FUNIVERSA | Órgão: PC-DF",
+"enunciado_principal": "Assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Não há crime pela ausência de dolo pelo fato de este ser um elemento da antijuridicidade." },
+{ "letra": "B", "texto": "Em virtude da teoria da presunção do dolo, adotada pelo ordenamento penal, o erro sobre elemento constitutivo do tipo somente excluirá a culpa." },
+{ "letra": "C", "texto": "Considere a seguinte situação hipotética: João foi contratado para tirar a vida de Fernando. Quando vai executar o homicídio, não encontra Fernando e, como o irmão deste estava no local e era seu desafeto, tira-lhe a vida. Nessa situação, João praticou um homicídio com erro sobre a pessoa, não se devendo considerar as condições ou qualidades da vítima, mas as de Fernando." },
+{ "letra": "D", "texto": "Tratando-se de crime complexo, a ausência de objetos de valores com a vítima de roubo descaracteriza a figura típica do crime de roubo, face o erro sobre o elemento constitutivo do tipo." },
+{ "letra": "E", "texto": "É isento de pena quem imagina verdadeiramente estar agindo em legítima defesa, já que toda situação fática assim indica, apesar de tal não ocorrer, estar-se-á diante de uma discriminante putativa." }
+],
+"gabarito": "C"
+},
+{
+"id": "55018374",
+"metadata": "Ano: 2009 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "Julgue o seguinte item, relativo a crimes contra a pessoa e contra o patrimônio.",
+"itens_assertiva": [],
+"enunciado_pergunta": "O crime de lesão corporal seguida de morte é preterdoloso, havendo dolo na conduta antecedente e culpa na conduta consequente.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo." },
+{ "letra": "B", "texto": "Errado." }
+],
+"gabarito": "A"
+},
+{
+"id": "11874630",
+"metadata": "Ano: 2009 | Banca: EJEF | Órgão: TJ-MG",
+"enunciado_principal": "Marque a alternativa **CORRETA**. O erro de proibição escusável, como excludente da potencial consciência da ilicitude, leva à absolvição por exclusão da:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Imputabilidade" },
+{ "letra": "B", "texto": "Tipicidade" },
+{ "letra": "C", "texto": "Punibilidade" },
+{ "letra": "D", "texto": "Culpabilidade" }
+],
+"gabarito": "D"
+},
+{
+"id": "83749102",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-SE",
+"enunciado_principal": "Constituem elementos do estado de necessidade:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Perigo atual ou iminente, que o agente não tenha provocado, nem podia de outro modo ter evitado." },
+{ "letra": "B", "texto": "Reação à injusta agressão, atual ou iminente, fazendo uso dos meios necessários moderadamente." },
+{ "letra": "C", "texto": "Agressão atual, defesa de direito próprio ou de outrem e reação moderada." },
+{ "letra": "D", "texto": "Existência de perigo atual, cujo sacrifício, nas circunstâncias era razoável exigir-se." },
+{ "letra": "E", "texto": "Defesa de direito próprio ou de outrem, voluntariamente provocado pelo agente e exigibilidade de conduta diversa." }
+],
+"gabarito": "A"
+},
+{
+"id": "71038592",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-SE",
+"enunciado_principal": "Quanto ao elemento moral, os crimes podem ser:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "comissivos e omissivos." },
+{ "letra": "B", "texto": "simples e complexos." },
+{ "letra": "C", "texto": "individuais e coletivos." },
+{ "letra": "D", "texto": "dolosos e culposos." },
+{ "letra": "E", "texto": "políticos e mistos." }
+],
+"gabarito": "D"
+},
+{
+"id": "40938571",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: MPE-CE",
+"enunciado_principal": "Nos chamados crimes monossubjetivos,",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "o concurso de pessoas é eventual." },
+{ "letra": "B", "texto": "o concurso de pessoas só ocorre no caso de autoria mediata." },
+{ "letra": "C", "texto": "o concurso de pessoas é necessário." },
+{ "letra": "D", "texto": "não há concurso de pessoas." },
+{ "letra": "E", "texto": "há concurso de pessoas apenas na forma de participação." }
+],
+"gabarito": "A"
+},
+{
+"id": "87349201",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: MPE-CE",
+"enunciado_principal": "Ainda que não encontre tipificação em excludente prevista em lei, a doutrina tem aceito a inexigibilidade de conduta diversa como causa supralegal de exclusão da",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "antijuridicidade." },
+{ "letra": "B", "texto": "culpabilidade." },
+{ "letra": "C", "texto": "tipicidade." },
+{ "letra": "D", "texto": "ilicitude." },
+{ "letra": "E", "texto": "punibilidade." }
+],
+"gabarito": "B"
+},
+{
+"id": "21938574",
+"metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-PA",
+"enunciado_principal": "Para a configuração do crime culposo, além da tipicidade, torna-se necessária a prática de conduta com",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "inobservância do dever de cuidado que causa um resultado cujo risco foi assumido pelo agente." },
+{ "letra": "B", "texto": "observância do dever de cuidado que causa um resultado desejado, mas previsível." },
+{ "letra": "C", "texto": "inobservância do dever de cuidado que causa um resultado desejado, mas previsível." },
+{ "letra": "D", "texto": "inobservância do dever de cuidado que causa um resultado não desejado e imprevisível." },
+{ "letra": "E", "texto": "observância do dever de cuidado e vontade consciente." }
+],
+"gabarito": "A"
+},
+{
+"id": "60183749",
+"metadata": "Ano: 2008 | Banca: FCC | Órgão: TCE-RR",
+"enunciado_principal": "São elementos que compõem o fato típico:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "nexo causal, conduta, tipicidade e punibilidade." },
+{ "letra": "B", "texto": "resultado, tipicidade, nexo causal e antijuridicidade." },
+{ "letra": "C", "texto": "conduta, resultado, nexo causal e tipicidade." },
+{ "letra": "D", "texto": "culpabilidade, tipicidade, conduta e resultado." },
+{ "letra": "E", "texto": "conduta, resultado, nexo causal e subjetividade." }
+],
+"gabarito": "C"
+},
+{
+"id": "39472108",
+"metadata": "Ano: 2008 | Banca: FMP Concursos | Órgão: TCE-MT",
+"enunciado_principal": "Assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A relação de causalidade é prescindível nos crimes omissivos em geral." },
+{ "letra": "B", "texto": "A coação moral irresistível e a obediência à ordem de superior hierárquico não manifestamente ilegal constituem as duas únicas hipóteses de exclusão da culpabilidade expressamente previstas na Parte Geral do Código Penal com fundamento na inexigibilidade de conduta diversa." },
+{ "letra": "C", "texto": "A distinção entre crime e contravenção dá-se com base no critério qualitativo." },
+{ "letra": "D", "texto": "Para a teoria finalista da ação a culpabilidade não pode constituir elemento do crime, mas, sim, pressuposto de pena." },
+{ "letra": "E", "texto": "Nenhuma das alternativas." }
+],
+"gabarito": "B"
+}
+]
