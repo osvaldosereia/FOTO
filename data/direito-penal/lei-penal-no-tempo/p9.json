@@ -1,0 +1,303 @@
+Em cumprimento à sua solicitação, apresento a reescrita das 20 questões extraídas das fontes, formatadas de acordo com o modelo fornecido, com novos IDs aleatórios de 8 dígitos e ajuste do gabarito para questões do tipo Certo/Errado (A para Certo, B para Errado).
+
+[
+{
+"id": "89012345",
+"metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+"enunciado_principal": "De acordo com o Código Penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução, mas não os efeitos penais da sentença condenatória." },
+{ "letra": "B", "texto": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, exceto se decididos por sentença condenatória transitada em julgado." },
+{ "letra": "C", "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar." },
+{ "letra": "D", "texto": "Considera-se praticado o crime no momento em que o agente atinge o resultado pretendido." },
+{ "letra": "E", "texto": "Em nenhuma situação, a lei brasileira pode ser aplicada aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada." }
+],
+"gabarito": "C"
+},
+{
+"id": "76543210",
+"metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+"enunciado_principal": "**É importante a fixação do tempo em que o crime se considera praticado para, entre outras coisas, compreender a lei que deverá ser utilizada, aplicada, e estabelecer a imputabilidade do sujeito. Com relação ao tempo do crime, o Código Penal brasileiro adotou a**",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Teoria da Relatividade." },
+{ "letra": "B", "texto": "Teoria da Consumação." },
+{ "letra": "C", "texto": "Teoria da Atividade." },
+{ "letra": "D", "texto": "Teoria da Ubiquidade." },
+{ "letra": "E", "texto": "Teoria da Habitualidade." }
+],
+"gabarito": "C"
+},
+{
+"id": "34567890",
+"metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+"enunciado_principal": "A impossibilidade da lei penal nova mais gravosa ser aplicada em caso ocorrido anteriormente à sua vigência é chamada de",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "princípio da ultra-atividade da lei nova." },
+{ "letra": "B", "texto": "princípio da legalidade." },
+{ "letra": "C", "texto": "princípio da irretroatividade." },
+{ "letra": "D", "texto": "princípio da normalidade." },
+{ "letra": "E", "texto": "princípio da adequação." }
+],
+"gabarito": "C"
+},
+{
+"id": "12345678",
+"metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+"enunciado_principal": "O Direito Penal brasileiro considera como momento do cometimento do crime",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "desde o seu planejamento." },
+{ "letra": "B", "texto": "quando atingido o resultado pretendido." },
+{ "letra": "C", "texto": "o momento da ação ou omissão, ainda que outro seja o momento do resultado." },
+{ "letra": "D", "texto": "quando chega ao conhecimento das autoridades competentes." },
+{ "letra": "E", "texto": "o momento do cometimento do crime é irrelevante para o Direito Penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "98765432",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+"enunciado_principal": "Nas disposições penais da Lei Geral da Copa, foi estabelecido que os tipos penais previstos nessa legislação tivessem vigência até o dia 31 de dezembro de 2014. Considerando-se essas informações, é correto afirmar que a referida legislação é um exemplo de lei penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "excepcional." },
+{ "letra": "B", "texto": "temporária." },
+{ "letra": "C", "texto": "corretiva." },
+{ "letra": "D", "texto": "intermediária." }
+],
+"gabarito": "B"
+},
+{
+"id": "54321098",
+"metadata": "Ano: 2018 | Banca: IMA | Órgão: Prefeitura de Caxias - MA",
+"enunciado_principal": "No que tange a Lei Penal no tempo, analise as alternativas e assinale a correta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A *abolitio criminis* consiste apenas na revogação formal do tipo penal." },
+{ "letra": "B", "texto": "A *novatio legis incriminadora* somente tem eficácia para o futuro. Jamais para o passado." },
+{ "letra": "C", "texto": "A *abolitio criminis* tem o condão de extirpar juridicamente os efeitos penais e extrapenais da condenação;" },
+{ "letra": "D", "texto": "O juízo competente para apreciar o conflito de Leis Penais no tempo, em que se tenha uma mudança favorável ao réu, é sempre o da execução." }
+],
+"gabarito": "B"
+},
+{
+"id": "41928376",
+"metadata": "Ano: 2018 | Banca: SEAP | Órgão: TJ-MG",
+"enunciado_principal": "Assinale a alternativa **INCORRETA**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei posterior que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado." },
+{ "letra": "B", "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado." },
+{ "letra": "C", "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar." },
+{ "letra": "D", "texto": "Na fase de execução da sentença condenatória, com a definição da culpa do condenado, não se aplica a *lex mitior*." }
+],
+"gabarito": "D"
+},
+{
+"id": "67890123",
+"metadata": "Ano: 2018 | Banca: GUALIMP | Órgão: Câmara de Nova Venécia - ES",
+"enunciado_principal": "Em relação à aplicação da lei penal, assinale a alternativa correta de acordo com o Código Penal:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A lei posterior, que de qualquer modo desfavorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado." },
+{ "letra": "B", "texto": "Considera-se praticado o crime no momento do resultado." },
+{ "letra": "C", "texto": "A lei excepcional ou temporária aplica-se exclusivamente ao fato praticado e julgado durante sua vigência." },
+{ "letra": "D", "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado." }
+],
+"gabarito": "D"
+},
+{
+"id": "25619374",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: CGE - CE",
+"enunciado_principal": "A respeito da lei penal no tempo e no espaço, julgue os seguintes itens, tendo como referência o Código Penal e a jurisprudência dos tribunais superiores. Estão certos apenas o item",
+"itens_assertiva": [
+"I A lei penal mais benéfica retroagirá em benefício do réu, de acordo com o princípio da retroatividade benéfica penal.",
+"II Em relação ao tempo do crime, o direito penal brasileiro adota a teoria da atividade.",
+"III Em relação ao lugar do crime, o direito penal brasileiro adota a teoria do resultado.",
+"IV A lei penal mais benéfica aplica-se ao crime continuado ou ao crime permanente, ainda que ocorra superveniência de lei penal mais gravosa ao longo da atividade delitiva."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "I e II." },
+{ "letra": "B", "texto": "I e IV." },
+{ "letra": "C", "texto": "II e III." },
+{ "letra": "D", "texto": "I, III e IV." },
+{ "letra": "E", "texto": "II, III e IV." }
+],
+"gabarito": "A"
+},
+{
+"id": "70183926",
+"metadata": "Ano: 2018 | Banca: IBADE | Órgão: IPM - JP",
+"enunciado_principal": "Com relação à aplicação da lei penal, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A pena cumprida no estrangeiro não atenua a pena imposta no Brasil pelo mesmo crime." },
+{ "letra": "B", "texto": "Os crimes cometidos no estrangeiro não se sujeitam à lei brasileira, ainda que o Brasil se tenha obrigado, por tratado ou convenção, a reprimi-los." },
+{ "letra": "C", "texto": "Considera-se praticado o crime no momento da verificação do seu resultado, ainda que a ação ou omissão tenha se dado em outro momento." },
+{ "letra": "D", "texto": "A lei penal posterior, ainda que favoreça o agente, não se aplica a fatos anteriores." },
+{ "letra": "E", "texto": "Aplica-se a lei brasileira aos crimes cometidos nas embarcações e aeronaves brasileiras a serviço do governo brasileiro, onde quer que se encontrem." }
+],
+"gabarito": "E"
+},
+{
+"id": "40596317",
+"metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-RJ",
+"enunciado_principal": "Julia, nascida em 22 de maio de 2000, não mais aguentando o comportamento de sua prima, Renata... Para isso, no dia 21 de maio de 2018, pega... e atropela Renata... Em virtude de lesões internas sofridas, Renata vem a falecer em 25 de maio de 2018... Com base nas informações expostas, o Promotor de Justiça Criminal, em relação ao resultado morte, deverá:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "reconhecer que a atribuição é da Promotoria da Infância e Juventude infracional, pois o Código Penal adota a Teoria da Ubiquidade para definir momento do crime;" },
+{ "letra": "B", "texto": "reconhecer que a atribuição é da Promotoria da Infância e Juventude infracional, pois o Código Penal adota a teoria da Atividade para definir o momento do crime;" },
+{ "letra": "C", "texto": "oferecer denúncia em face de Julia, pois o Código Penal adota a Teoria da Ubiquidade para definir o momento do crime;" },
+{ "letra": "D", "texto": "oferecer denúncia em face de Julia, pois o Código Penal adota a Teoria do Resultado para definir o momento do crime;" },
+{ "letra": "E", "texto": "oferecer denúncia em face de Julia, pois o Código Penal adota a Teoria da Atividade para definir o momento do crime." }
+],
+"gabarito": "B"
+},
+{
+"id": "87654321",
+"metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-RJ",
+"enunciado_principal": "Jorge cumpre pena em razão de condenação definitiva pela prática de determinado crime... Entrou em vigor nova lei penal reduzindo a sanção penal... Considerando as informações narradas, a inovação legislativa:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não poderá beneficiar Jorge, tendo em vista que já houve trânsito em julgado da sentença condenatória, mas poderá ser aplicada a Antônio por ser mais favorável;" },
+{ "letra": "B", "texto": "poderá ser aplicada a Antônio, pois se aplica à lei penal o princípio do *tempus regit actum*, independentemente de a norma ser favorável ou desfavorável ao réu;" },
+{ "letra": "C", "texto": "não poderá beneficiar Jorge e Antônio, tendo em vista que não estava em vigor na data dos fatos, aplicando-se o princípio do *tempus regit actum*;" },
+{ "letra": "D", "texto": "poderá beneficiar Jorge e Antônio, pois, em sendo mais favorável, deverá retroagir para atingir situações pretéritas, ainda que já amparadas pela coisa julgada;" },
+{ "letra": "E", "texto": "não poderá beneficiar Jorge e Antônio, tendo em vista que não ocorreu *abolitio criminis*, mas tão só alteração da sanção penal aplicável." }
+],
+"gabarito": "D"
+},
+{
+"id": "31920485",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+"enunciado_principal": "Segundo a Exposição de Motivos da Parte Geral, o Código Penal, quanto ao tempo e ao lugar do crime, ao concurso de pessoas e ao crime continuado, adotou, respectivamente, as seguintes teorias:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Atividade, Ubiquidade, Monística e Objetiva." },
+{ "letra": "B", "texto": "Atividade, Resultado, Monística e Objetiva-subjetiva." },
+{ "letra": "C", "texto": "Resultado, Atividade, Pluralística e Objetiva-subjetiva." },
+{ "letra": "D", "texto": "Ubiquidade, Resultado, Pluralística e Objetiva." }
+],
+"gabarito": "A"
+},
+{
+"id": "96301478",
+"metadata": "Ano: 2018 | Banca: CETREDE | Órgão: EMATERCE",
+"enunciado_principal": "Leia as afirmativas a seguir sobre aplicação da lei penal no tempo e marque (V) para as VERDADEIRAS e (F) para as FALSAS. Marque a opção que apresenta a sequência CORRETA.",
+"itens_assertiva": [
+"( ) A Lei Penal começa a vigorar na data de sua publicação.",
+"( ) A Lei Penal, em caso de omissão quanto a data de sua vigência, começa a vigorar na data de sua publicação.",
+"( ) A Lei Penal tem, como regra, a fixação de data certa para entrar em vigência só, excepcionalmente, em caso de omissão, sua vigência tem início no Brasil quarenta e cinco dias após sua publicação.",
+"( ) A revogação da Lei Penal opera-se com a edição de nova lei, e sua revogação pode se efetivar total (ab-rogação) ou parcialmente (derrogação).",
+"( ) O crime sempre é cometido no momento da ação ou omissão, aplicando-se ao delito a lei vigente na data do fato."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "V – V – V – F – V." },
+{ "letra": "B", "texto": "F – V – V – V – V." },
+{ "letra": "C", "texto": "F – V – V – F – V." },
+{ "letra": "D", "texto": "F – F – V – V – V." },
+{ "letra": "E", "texto": "F – F – F – V – V." }
+],
+"gabarito": "D"
+},
+{
+"id": "50192837",
+"metadata": "Ano: 2018 | Banca: FEPESE | Órgão: PGE-SC",
+"enunciado_principal": "Sobre a aplicação da lei penal, conforme o Código Penal, assinale a alternativa **correta**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O dia do começo exclui-se no cômputo do prazo." },
+{ "letra": "B", "texto": "Considera-se praticado o crime no momento do resultado lesivo." },
+{ "letra": "C", "texto": "A lei posterior aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado." },
+{ "letra": "D", "texto": "A lei excepcional ou temporária, decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, é inaplicável ao fato praticado durante sua vigência se não instaurado o procedimento penal ao tempo da conduta típica por ela regida." },
+{ "letra": "E", "texto": "É aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil." }
+],
+"gabarito": "E"
+},
+{
+"id": "10475829",
+"metadata": "Ano: 2018 | Banca: FCC | Órgão: SEFAZ-SC",
+"enunciado_principal": "Acerca da aplicação da lei penal no direito brasileiro, o ordenamento vigente estabelece que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, exceto se já houve o trânsito em julgado da sentença, hipótese em que a decisão se torna imutável." },
+{ "letra": "B", "texto": "a lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, somente se a sua vigência for anterior ao início da prática delitiva, em razão do princípio da irretroatividade da lei penal mais severa." },
+{ "letra": "C", "texto": "as contravenções praticadas contra a Administração pública, por quem está a seu serviço ficam sujeitas à lei brasileira, embora cometidas no estrangeiro." },
+{ "letra": "D", "texto": "a pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando idênticas, ou nela é computada, quando diversas." },
+{ "letra": "E", "texto": "a lei temporária aplica-se ao fato praticado durante sua vigência, embora decorrido o período de sua duração." }
+],
+"gabarito": "E"
+},
+{
+"id": "62910384",
+"metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+"enunciado_principal": "Quanto ao **tempo do crime**, é correto afirmar que o Código Penal brasileiro adotou a teoria do(a)",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "atividade." },
+{ "letra": "B", "texto": "resultado." },
+{ "letra": "C", "texto": "ubiquidade." },
+{ "letra": "D", "texto": "contemporaneidade." }
+],
+"gabarito": "A"
+},
+{
+"id": "77501928",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "Se, durante o processo judicial a que José for submetido, for editada nova lei que diminua a pena para o crime de receptação, ele **não poderá se beneficiar** desse fato, pois o direito penal brasileiro norteia-se pelo princípio de aplicação da lei vigente à época do fato.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "49301826",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "Manoel praticou conduta tipificada como crime. Com a entrada em vigor de nova lei, esse tipo penal foi formalmente revogado, mas a conduta de Manoel foi inserida em outro tipo penal. Nessa situação, Manoel responderá pelo crime praticado, pois **não ocorreu a *abolitio criminis*** com a edição da nova lei.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "15730924",
+"metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+"enunciado_principal": "Deverá ser esclarecido pelo assessor que eventual aumento de pena, em razão do emprego de arma no crime de estupro,",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "poderá ser imposto aos que já praticaram fatos e não foram denunciados, aos que respondem ação penal e aos condenados, exceto os que já tiverem a pena extinta, já que é prejudicial." },
+{ "letra": "B", "texto": "poderá ser imposto aos que já praticaram fatos e não foram denunciados e aos que respondem ação penal, mas não aos condenados definitivamente, tendo ou não cumprido a pena, já que prejudicial." },
+{ "letra": "C", "texto": "poderá ser imposto aos que já praticaram fatos e não foram denunciados, mas não aos que respondem ação penal e aos condenados, tendo ou não cumprido a pena, já que é prejudicial." },
+{ "letra": "D", "texto": "não poderá ser imposto aos que já praticaram fatos e não foram denunciados, aos que respondem ações penais e nem aos condenados definitivamente, mas tão só àqueles que praticarem a conduta após votação da lei, sendo irrelevante se a inovação é favorável ou desfavorável." },
+{ "letra": "E", "texto": "não poderá ser imposto aos que praticaram fatos e não foram denunciados, aos que respondem ações penais e nem aos condenados definitivamente, mas só àqueles que praticarem a conduta após a entrada em vigor da lei, já que prejudicial." }
+],
+"gabarito": "E"
+}
+]
