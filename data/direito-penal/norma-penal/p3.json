@@ -1,0 +1,492 @@
+```json
+[
+{
+"id": "54681390",
+"metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Sobre as normas penais, assinale a alternativa incorreta:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A norma penal em branco é aquela em que a descrição da conduta punível (preceito primário) se mostra incompleta ou lacunosa, necessitando de outro dispositivo normativo para a sua complementação, a fim de que se possa compreender o âmbito de sua aplicação." },
+{ "letra": "B", "texto": "A norma penal incompleta (ou imperfeita) é aquela em que se encontra prevista tão somente a hipótese fática (preceito incriminador), sendo que a consequência jurídica localiza-se em outro dispositivo normativo. Um exemplo seria o tipo penal do crime de uso de documento falso." },
+{ "letra": "C", "texto": "Há concurso aparente de normas quando, para um determinado fato, aparentemente, existem duas ou mais normas que poderão sobre ele incidir, mas na realidade, apenas uma tem incidência. O conflito aparente de normas será resolvido pela aplicação dos seguintes princípios: especialidade, subsidiariedade, consunção e, segundo alguns autores, alteridade." },
+{ "letra": "D", "texto": "A interpretação analógica é aquela que abrange os casos análogos, mediante o uso de fórmula casuística gravada no dispositivo legal e que servirá de norte ao intérprete. Esse tipo de interpretação, mesmo ampliando o alcance da norma penal, por abranger hipóteses não previstas expressamente pelo legislador, é admitida no Direito Penal." }
+],
+"gabarito": "C"
+},
+{
+"id": "71392654",
+"metadata": "Ano: 2019 | Banca: CONSULPLAN | Órgão: TJ-MG",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "A norma penal incriminadora é formada basicamente por dois preceitos: o preceito primário (ou preceptum juris ), em que se prevê a conduta abstrata que a sociedade pretende punir, o preceito secundário (ou sanctio juris ), em que se fixa a sanção penal correspondente. As normas que necessitam de complementação no preceito secundário, por não trazerem a cominação da pena correspondente à prática da conduta típica são chamadas de normas penais:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Explicativas." },
+{ "letra": "B", "texto": "Em branco homogêneas." },
+{ "letra": "C", "texto": "Em branco heterogêneas." },
+{ "letra": "D", "texto": "Imperfeitas (ou incompletas strictu sensu )." }
+],
+"gabarito": "D"
+},
+{
+"id": "84710253",
+"metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "A lei penal em branco pode conter um elemento normativo cujo conteúdo deva ser complementado por outro instrumento regulamentar. Neste caso, se a norma complementar for uma lei excepcional que defina uma circunstância específica no contexto do qual o fato, se realizado, será típico, a revogação desta norma excepcional complementar por outra lei configurará “abolitio criminis”, nos termos do disposto no art. 2º do Código Penal.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "19403825",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RS",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "No que tange à aplicação da lei penal, a lei penal nova que",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "diminui a pena de crime contra a ordem tributária não retroage." },
+{ "letra": "B", "texto": "tipifica penalmente a conduta de deixar de cumprir alguma obrigação fiscal acessória retroage." },
+{ "letra": "C", "texto": "torna atípica determinada conduta aplica-se aos fatos anteriores, desde que ainda não decididos por sentença condenatória transitada em julgado." },
+{ "letra": "D", "texto": "estabelece nova hipótese de extinção de punibilidade não se aplica aos fatos anteriores." },
+{ "letra": "E", "texto": "torna atípica determinada conduta cessa os efeitos penais da sentença condenatória decorrente dessa prática, ainda que já tenha transitado em julgado." }
+],
+"gabarito": "E"
+},
+{
+"id": "35804791",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "A respeito de contagem de prazo no Direito Penal, assinale a alternativa correta.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "O dia do começo não se inclui no cômputo do prazo." },
+{ "letra": "B", "texto": "As frações de dia são desconsideradas nas penas privativas de liberdade e nas restritivas de direitos." },
+{ "letra": "C", "texto": "Contam-se os meses e os anos pelo calendário gregoriano, cujos meses são de trinta dias e os anos são de trezentos e sessenta dias." },
+{ "letra": "D", "texto": "O cômputo do prazo é suspenso em feriados nacionais e religiosos." },
+{ "letra": "E", "texto": "O dia do término inclui-se no cômputo do prazo, sendo prorrogável até à meia-noite do dia útil subsequente." }
+],
+"gabarito": "B"
+},
+{
+"id": "27694301",
+"metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+"( ) Na lei penal, a viabilidade da interpretação analógica compreende tão somente o sistema da alternância expressa, ou seja, quando a própria norma penal indica claramente a indispensabilidade da interpretação analógica.",
+"( ) Na atividade de interpretação da norma penal, admite-se a criação de elementos ou o preenchimento de lacunas, já a integração da regra penal foge a esse universo.",
+"( ) No processo de interpretação, pode-se ampliar o conteúdo de determinado termo ou expressão para extrair o seu real significado.",
+"( ) A norma penal em branco própria recebe tal denominação por seu complemento ser extraído de norma de igual status, por exemplo, outra Lei Federal, tal qual a editada para criar o tipo incriminador.",
+"( ) A utilização da analogia em matéria penal torna-se complexa porque se encontra presente o princípio da legalidade e, dessa maneira, a regência é conduzida pela lei em sentido estrito, mas diante de uma lacuna, todo e qualquer caso concreto poderá ser resolvido dentro das fronteiras legais pela integração do sistema."
+],
+
+
+"enunciado_pergunta": "“Interpretar a lei penal é fixar o seu sentido (conceito, objeto e alcance).” (LIRA, 1942, p. 164). Com respeito à interpretação e à integração da norma penal, analise as assertivas e identifique com V as verdadeiras e com F as falsas. A alternativa que contém a sequência correta, de cima para baixo, é",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "V F V F V" },
+{ "letra": "B", "texto": "V F V V F" },
+{ "letra": "C", "texto": "V V F V F" },
+{ "letra": "D", "texto": "F V F V F" },
+{ "letra": "E", "texto": "F F V F V" }
+],
+"gabarito": "E"
+},
+{
+"id": "90215834",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Sorocaba - SP",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Quando de sua promulgação, em 1940, o art. 360 do Código Penal revogou expressamente uma série de diplomas legais. Contudo, ressalvou-se a vigência de outras normas, entre elas a referente aos crimes",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "de tortura." },
+{ "letra": "B", "texto": "de imprensa." },
+{ "letra": "C", "texto": "contra a saúde pública." },
+{ "letra": "D", "texto": "correlatos ao tráfico de armas." },
+{ "letra": "E", "texto": "cometidos contra o Presidente da República." }
+],
+"gabarito": "B"
+},
+{
+"id": "18409572",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Prescreve o art. 327 do CP: “considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública.” Tal norma traduz exemplo de interpretação",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "científica." },
+{ "letra": "B", "texto": "autêntica." },
+{ "letra": "C", "texto": "extensiva." },
+{ "letra": "D", "texto": "doutrinária." },
+{ "letra": "E", "texto": "analógica." }
+],
+"gabarito": "B"
+},
+{
+"id": "31549028",
+"metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "São excluídos da jurisdição penal brasileira, em caráter absoluto, ou seja, detentores de imunidade absoluta, exceto:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "chefes de Estado." },
+{ "letra": "B", "texto": "agentes consulares na prática de atos ilícitos estranhos a essa função." },
+{ "letra": "C", "texto": "embaixadores, quando em serviço." },
+{ "letra": "D", "texto": "representantes do governo estrangeiro." },
+{ "letra": "E", "texto": "secretários de embaixada, quando em serviço." }
+],
+"gabarito": "B"
+},
+{
+"id": "67204593",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EMAP",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "A respeito da aplicação da lei penal, julgue o item a seguir. A analogia constitui meio para suprir lacuna do direito positivado, mas, em direito penal, só é possível a aplicação analógica da lei penal in bonam partem , em atenção ao princípio da reserva legal, expresso no artigo primeiro do Código Penal.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "20593164",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "No que diz respeito ao lugar do crime, o CP adotou a teoria",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "do resultado, ou seja, considera-se praticado o crime no lugar onde se produziu ou deveria produzir-se o resultado." },
+{ "letra": "B", "texto": "da ubiquidade, ou seja, considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado." },
+{ "letra": "C", "texto": "da atividade, ou seja, considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte." },
+{ "letra": "D", "texto": "da extraterritorialidade, ou seja, considera-se praticado no Brasil o crime cometido no estrangeiro contra a vida ou a liberdade do Presidente da República." },
+{ "letra": "E", "texto": "da territorialidade estendida, ou seja, considera-se praticado no Brasil o crime cometido a bordo de embarcações e aeronaves brasileiras, de natureza pública ou privada, onde quer que se encontrem." }
+],
+"gabarito": "B"
+},
+{
+"id": "93641758",
+"metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Arlindo desferiu diversos golpes de faca no peito de Tom, sendo que, desde o início dos atos executórios, tinha a intenção de, com seus golpes, causar a morte do seu desafeto. No início, os primeiros golpes de faca causaram lesões leves em Tom. Na quarta facada, porém, as lesões se tornaram graves, e os últimos golpes de faca foram suficientes para alcançar o resultado morte pretendido. Arlindo, para conseguir o resultado final mais grave, praticou vários atos com crescentes violações ao bem jurídico, mas responderá apenas por um crime de homicídio por força do princípio da:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "subsidiariedade, por se tratar de progressão criminosa;" },
+{ "letra": "B", "texto": "alternatividade, por se tratar de crime progressivo;" },
+{ "letra": "C", "texto": "consunção, por se tratar de progressão criminosa;" },
+{ "letra": "D", "texto": "especialidade, por se tratar de progressão criminosa;" },
+{ "letra": "E", "texto": "consunção, por se tratar de crime progressivo." }
+],
+"gabarito": "E"
+},
+{
+"id": "51093847",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "O Código Penal estabelece como hipótese de qualificação do homicídio o cometimento do ato com emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum. Esse dispositivo legal é exemplo de interpretação",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "analógica." },
+{ "letra": "B", "texto": "teleológica." },
+{ "letra": "C", "texto": "restritiva." },
+{ "letra": "D", "texto": "progressiva." },
+{ "letra": "E", "texto": "autêntica." }
+],
+"gabarito": "A"
+},
+{
+"id": "45012976",
+"metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Com relação aos princípios de Direito Penal e à interpretação da lei penal, assinale a alternativa correta.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A interpretação autêntica contextual visa a dirimir a incerteza ou obscuridade da lei anterior." },
+{ "letra": "B", "texto": "Não se aplica o princípio da individualização da pena na fase da execução penal." },
+{ "letra": "C", "texto": "A interpretação quanto ao resultado busca o significado legal de acordo com o progresso da ciência." },
+{ "letra": "D", "texto": "O princípio da proporcionalidade tem apenas o judiciário como destinatário cujas penas impostas ao autor do delito devem ser proporcionais à concreta gravidade." },
+{ "letra": "E", "texto": "A interpretação teleológica busca alcançar a finalidade da lei, aquilo que ela se destina a regular." }
+],
+"gabarito": "E"
+},
+{
+"id": "78103592",
+"metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Considerando que o processo de criminalização está intrinsecamente relacionado à noção de bem jurídico, assinale a alternativa correta.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "A disponibilidade dos bens jurídicos coletivos é ilimitada e, por isso, a atipicidade material do fato poderá decorrer do consentimento de alguns de seus titulares." },
+{ "letra": "B", "texto": "A teoria da proteção penal proposta por Jakobs tem fundamento na Constituição e, como tal, refuta a ideia de que a missão do direito penal é a proteção da vigência da norma." },
+{ "letra": "C", "texto": "O paternalismo constitui intervenção estatal na liberdade individual sempre de acordo com a vontade do titular do bem jurídico, podendo interferir, inclusive, em suas escolhas morais." },
+{ "letra": "D", "texto": "No tipo penal de incesto, previsto expressamente no Código Penal, o legislador buscou proteger não somente a autodeterminação sexual, senão igualmente a moral familiar e a saúde pública." },
+{ "letra": "E", "texto": "A incriminação da omissão de socorro revela a possibilidade, ainda que eventual, de a tutela de um bem jurídico nascer diretamente do poder punitivo." }
+],
+"gabarito": "E"
+},
+{
+"id": "11984635",
+"metadata": "Ano: 2017 | Banca: IBADE | Órgão: PC-AC",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "A sociedade pós-índustrial foi denominada por Ulrich Beck como uma “sociedade do risco”, ou uma “sociedade de riscos” (Risikogesellschaft). Com efeito, essa nova configuração social produz reflexos nas searas da teoria do bem jurídico-penal e dos princípios correlatos. Uma das consequências desse fenômeno é a chamada “administrativização” do direito penal, sobre a qual é correto falar que:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "exclui do âmbito do direito penal os crimes contra a Administração Pública, cujas condutas lesivas doravante passam a ser regidas pelo direito sancionador." },
+{ "letra": "B", "texto": "reconhece a diferenciação entre os ilícitos penais e administrativos unicamente pelo aspecto quantitativo, sendo estes formas de injusto de menor reprovabilidade que aqueles." },
+{ "letra": "C", "texto": "tem como consequência a caracterização de diversos crimes como delitos de acumulação, ou seja, infrações penais que tutelam simultaneamente diferentes bens jurídicos decorrentes dos novos riscos sociais." },
+{ "letra": "D", "texto": "transforma tipos penais clássicos, como a desobediência e o desacato, em meros ilícitos administrativos." },
+{ "letra": "E", "texto": "é uma forma de expansão do direito penal, em que este, que normalmente reage a posteriori quanto ao fato lesivo individualmente delimitado, se converte em um direito de gestão punitiva de riscos gerais." }
+],
+"gabarito": "E"
+},
+{
+"id": "63209514",
+"metadata": "Ano: 2016 | Banca: CONSULPLAN | Órgão: TJ-MG",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+"I. Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal.",
+"II. Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar.",
+"III. A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.",
+"IV. A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado."
+],
+
+
+"enunciado_pergunta": "Sobre a “Aplicação da Lei Penal”, analise as afirmativas a seguir. Estão corretas as afirmativas",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "I, II, III e IV." },
+{ "letra": "B", "texto": "I e II, apenas." },
+{ "letra": "C", "texto": "II e III, apenas." },
+{ "letra": "D", "texto": "III e IV, apenas." }
+],
+"gabarito": "A"
+},
+{
+"id": "89017643",
+"metadata": "Ano: 2016 | Banca: IBEG | Órgão: Prefeitura de Teixeira de Freitas - BA",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+"I – A analogia consiste em aplicar-se a uma hipótese já regulada por lei uma disposição mais benéfica relativa a um caso semelhante.",
+"II – Entende-se por analogia o processo de averiguação do sentido da norma jurídica, valendo-se de elementos fornecidos pela própria lei, através de método de semelhança.",
+"III – Na interpretação analógica, existe uma norma regulando a hipótese expressamente, mas de forma genérica, o que torna necessário o recurso à via interpretativa.",
+"IV – Não se admite o emprego de analogia para normas incriminadoras, uma vez que não se pode violar o princípio da reserva legal."
+],
+
+
+"enunciado_pergunta": "Sobre a analogia e a interpretação da lei penal, analise as assertivas e indique a alternativa correta:",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "apenas as assertivas I e II são verdadeiras." },
+{ "letra": "B", "texto": "apenas as assertivas I e III são verdadeiras." },
+{ "letra": "C", "texto": "apenas as assertivas II e III são verdadeiras." },
+{ "letra": "D", "texto": "apenas as assertivas II e IV são verdadeiras." },
+{ "letra": "E", "texto": "apenas as assertivas III e IV são verdadeiras." }
+],
+"gabarito": "E"
+},
+{
+"id": "14739206",
+"metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Registro - SP",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+],
+
+
+"enunciado_pergunta": "Assinale a alternativa correta.",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "O prazo penal tem contagem diversa da dos prazos processuais e o dia do começo inclui-se no cômputo do prazo, ainda que se trate de fração de dia." },
+{ "letra": "B", "texto": "As regras gerais do Código Penal sempre terão aplicação aos fatos incriminados por lei especial." },
+{ "letra": "C", "texto": "Nas penas privativas de liberdade desprezam-se as frações de dias, o mesmo não ocorrendo nas penas restritivas de direitos." },
+{ "letra": "D", "texto": "A lei penal não contém dispositivo a respeito da prorrogação dos prazos penais e, assim, podem ser prorrogáveis." },
+{ "letra": "E", "texto": "Os prazos prescricionais e decadenciais são prazos de direito processual e não material." }
+],
+"gabarito": "A"
+},
+{
+"id": "56037421",
+"metadata": "Ano: 2016 | Banca: FCC | Órgão: Prefeitura de Teresina - PI",
+
+
+"enunciado_principal": "Direito Penal",
+
+
+"itens_assertiva": [
+"I. A analogia é uma forma de auto-integração da lei.",
+"II. Pela analogia, aplica-se a um fato não regulado expressamente pela norma jurídica um dispositivo que disciplina hipótese semelhante.",
+"III. O emprego da analogia para estabelecer sanções criminais é admissível no Direito Penal.",
+"IV. A analogia não pode ser aplicada contra texto expresso de lei."
+],
+
+
+"enunciado_pergunta": "A respeito da analogia, considere: Está correto o que se afirma APENAS em",
+
+
+"alternativas": [
+{ "letra": "A", "texto": "II, III e IV." },
+{ "letra": "B", "texto": "I, II e IV." },
+{ "letra": "C", "texto": "I e II." },
+{ "letra": "D", "texto": "III e IV." },
+{ "letra": "E", "texto": "I e III." }
+],
+"gabarito": "B"
+}
+]
+```
