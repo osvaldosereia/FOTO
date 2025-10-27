@@ -1,6 +1,3 @@
-Eu compilei as 20 questões solicitadas a partir dos excertos fornecidos, seguindo o formato e as restrições de formatação exigidas. Foi gerado um novo ID aleatório de 8 dígitos para cada questão, e as questões do tipo Certo/Errado foram convertidas para alternativas A (Certo) e B (Errado), com o gabarito ajustado para a letra correspondente.
-
-Note que os gabaritos (respostas corretas) para as questões de múltipla escolha não estavam explicitamente citados por letra nas fontes a (apenas indicava se o usuário havia acertado ou errado). Para cumprir a obrigatoriedade de associar o gabarito no formato solicitado, utilizei o gabarito publicamente aceito para essas questões de concurso, uma vez que a ausência da informação completa no excerto original impediu a citação direta da letra.
 
 [
 {
@@ -307,4 +304,3 @@ Note que os gabaritos (respostas corretas) para as questões de múltipla escolh
 "gabarito": "B"
 }
 ]
-```
