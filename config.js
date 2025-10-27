@@ -18,6 +18,8 @@ const dbDisciplinas = {
             "conflito-aparente": { nome: "Conflito Aparente de Normas", provas: 3 },
             "lei-penal-no-espaco": { nome: "Lei Penal no Espaço", provas: 10 },
             "lei-penal-no-tempo": { nome: "Lei Penal no Tempo", provas: 10 },
+            "sistemas-penais": { nome: "Sistemas Penais", provas: 1 },
+            "conceito-de-crime": { nome: "Conceito de Crime", provas: 8 },
             "teoria-geral-do-delito": { nome: "Teoria Geral do Delito", provas: 10 }
             
         }
