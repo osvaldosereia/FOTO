@@ -1,0 +1,293 @@
+[
+{
+"id": "10019234",
+"metadata": "Ano: 2022 | Banca: INEP BRASIL | Órgão: Prefeitura de Palestina de Goiás - GO",
+"enunciado_principal": "Um crime é toda conduta ilícita ou antijurídica, típica e culpável, assim prevê a teoria do crime no Direito Penal, porém, algumas condutas podem ser típicas, ou seja, previstas em um tipo penal, mas podem não ser ilícitas, quando praticadas em algumas circunstâncias. Com base nessa afirmação, selecione a alternativa que **não** se enquadrar nela:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O agente não faz a ingestão de bebidas alcoólicas querendo embriagar-se, mas, deixando de observar o seu dever de cuidado, ingere quantidade suficiente que o coloca em estado de embriaguez. Nessa hipótese, o agente, por descuido, por falta de costume ou mesmo sensibilidade do organismo, embriaga-se sem que fosse a sua intenção colocar-se nesse estado." },
+{ "letra": "B", "texto": "Quem pratica o fato criminoso para salvar de perigo atual (que não provocou por sua vontade, nem podia de outro modo evitar) direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se." },
+{ "letra": "C", "texto": "Quando o agente deu causa ao resultado por imprudência (agiu de forma precipitada, sem cuidado ou cautela), negligência (descuido ou desatenção, deixando de observar precaução normalmente adotada na situação) ou imperícia (agiu sem habilidade ou qualificação técnica)." },
+{ "letra": "D", "texto": "Aquele que repele agressão injusta atual ou iminente de direito próprio ou alheio com reação e uso moderado dos meios necessários." },
+{ "letra": "E", "texto": "Não há crime quando o indivíduo praticar a conduta em estrito cumprimento do dever legal ou no exercício regular de direito." }
+],
+"gabarito": "C"
+},
+{
+"id": "20029345",
+"metadata": "Ano: 2022 | Banca: INEP BRASIL | Órgão: Prefeitura de Palestina de Goiás - GO",
+"enunciado_principal": "No Direito Penal brasileiro, infração penal é toda conduta previamente tipificada pela legislação como ilícita, imbuída de culpabilidade. Diante disso, assinale a resposta correta:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "São consideradas crimes todas as infrações às quais a Lei preveja sanção com pena e de reclusão em regime fechado." },
+{ "letra": "B", "texto": "A Infração Penal prevê a detenção, não importando se cominada com pena de multa, seja de forma alternativa, seja cumulativa." },
+{ "letra": "C", "texto": "Contravenção ou contraordenação é uma infração penal considerada grave, podendo ser punida com pena de prisão simples, multa, ou ambas." },
+{ "letra": "D", "texto": "O crime é uma infração de maior potencial ofensivo e um tipo de espécie do gênero Infração Penal, que é toda conduta que gera lesão penalmente relevante a um bem jurídico tutelado pelo Estado, que está previamente tipificado como ilícito e que determine, expressamente, o conceito primário e secundário do tipo penal." },
+{ "letra": "E", "texto": "Nenhuma das questões anteriores." }
+],
+"gabarito": "D"
+},
+{
+"id": "30030456",
+"metadata": "Ano: 2022 | Banca: VUNESP | Órgão: AL-SP",
+"enunciado_principal": "Nos termos do art. 31 do CP, salvo disposição expressa em contrário: se o crime não chega, pelo menos, a ser tentado",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "não são puníveis o ajuste, a determinação ou instigação e o auxílio." },
+{ "letra": "B", "texto": "não são puníveis o ajuste, a determinação ou instigação e o auxílio, exceto na hipótese de crime inafiançável." },
+{ "letra": "C", "texto": "não é punível o auxílio, mas são puníveis o ajuste e a determinação ou instigação." },
+{ "letra": "D", "texto": "não são puníveis o ajuste e a determinação ou instigação, mas é punível o auxílio." },
+{ "letra": "E", "texto": "não é punível o ajuste, mas são puníveis a determinação ou instigação e o auxílio." }
+],
+"gabarito": "A"
+},
+{
+"id": "40041567",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+"enunciado_principal": "Durante assalto a uma joalheria, dois homens armados obrigaram a gerente, mediante grave ameaça, a abrir o cofre e a acondicionar as joias que estavam guardadas ali em uma mochila, que eles levaram consigo na fuga. Com base no caso descrito e no conceito tripartite de crime, assinale a afirmativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A cooperação da gerente com os roubadores é um fato penalmente atípico." },
+{ "letra": "B", "texto": "Em razão da ameaça, a gerente não agiu com dolo ao colaborar com os roubadores." },
+{ "letra": "C", "texto": "A gerente não agiu de forma culpável, apesar de haver cometido um injusto penal." },
+{ "letra": "D", "texto": "A gerente cometeu o crime de roubo em concurso de agentes, mas é favorecida por uma escusa absolutória." },
+{ "letra": "E", "texto": "A gerente agiu em legítima defesa, razão por que a sua colaboração com os roubadores é justificada." }
+],
+"gabarito": "C"
+},
+{
+"id": "50052678",
+"metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+"enunciado_principal": "Sobre a perspectiva da teoria finalista, que influenciou intensamente a reforma do Código Penal Brasileiro (1984), é **INCORRETO** afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O dolo é considerado como “dolo natural”, não o integrando a consciência da ilicitude." },
+{ "letra": "B", "texto": "O dolo exige representação real da ação típica, não bastando uma consciência potencial, ainda que não se exija uma representação refletida." },
+{ "letra": "C", "texto": "O ilícito pessoal não se esgota no desvalor de resultado e se co-constitui pelo desvalor da ação, devendo, o resultado, ser considerado como “obra do autor”." },
+{ "letra": "D", "texto": "A culpabilidade mantém-se como uma categoria psicológica, desprovida de aspectos valorativos/normativos." }
+],
+"gabarito": "D"
+},
+{
+"id": "60063789",
+"metadata": "Ano: 2022 | Banca: IBFC | Órgão: PC-BA",
+"enunciado_principal": "No que se refere à teoria do crime, assinale a alternativa **incorreta**.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, responde por tentativa de crime" },
+{ "letra": "B", "texto": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido" },
+{ "letra": "C", "texto": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime" },
+{ "letra": "D", "texto": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado" },
+{ "letra": "E", "texto": "Salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços" }
+],
+"gabarito": "A"
+},
+{
+"id": "70074890",
+"metadata": "Ano: 2022 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+"enunciado_principal": "A respeito de temas da teoria geral do Direito Penal, assinale a alternativa CORRETA:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O Supremo Tribunal Federal considera o crime de injúria racial prescritível, pois não pode ser equiparado a crime de racismo, constitucionalmente considerado imprescritível. Tal equiparação violaria o princípio da estrita legalidade penal." },
+{ "letra": "B", "texto": "No concurso de crimes, a pena considerada para fins de fixação da competência do Juizado Especial Criminal será verificada individualmente a partir da pena máxima cominada a cada delito isoladamente, no caso de concurso material; ou desprezando-se a exasperação, na hipótese de concurso formal ou crime continuado." },
+{ "letra": "C", "texto": "Quando se tratar de crime continuado, a prescrição regula-se pela pena final imposta na sentença, ou seja, computando-se o acréscimo decorrente da continuação." },
+{ "letra": "D", "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente se a sua vigência é anterior à cessação da continuidade delitiva ou da permanência." }
+],
+"gabarito": "D"
+},
+{
+"id": "80085901",
+"metadata": "Ano: 2022 | Banca: Quadrix | Órgão: CAU-SC",
+"enunciado_principal": "Quanto ao conceito de crime, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Sob o aspecto material, crime seria toda conduta que colide frontalmente com a lei penal editada pelo Estado." },
+{ "letra": "B", "texto": "Segundo sua conceituação analítica, crime é o fato típico, ilícito e culpável." },
+{ "letra": "C", "texto": "Sob o aspecto formal, conceitua-se crime como aquela conduta que viola os bens jurídicos mais importantes tutelados pelo Estado." },
+{ "letra": "D", "texto": "O conceito de crime está formal e expressamente positivado no Código Penal, em atenção ao princípio da legalidade." },
+{ "letra": "E", "texto": "Segundo sua conceituação analítica, crime é o fato típico, ilícito, culpável e punível." }
+],
+"gabarito": "B"
+},
+{
+"id": "90096012",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Considera-se infração penal tentada quando, iniciada a execução, o resultado não ocorre por circunstâncias alheias à vontade do agente, hipótese em que haverá necessariamente a redução da pena, independentemente de se tratar de crime ou contravenção.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "11017123",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Entre as teorias que buscam explicar a relação de causalidade entre a conduta e o resultado criminoso, predomina, na jurisprudência brasileira, a teoria da causalidade adequada, a qual exige, para que alguém seja penalmente responsabilizado por conduta que tenha desenvolvido, a criação ou o incremento de um perigo juridicamente intolerável e não permitido ao bem jurídico protegido, bem como a concretização desse perigo em resultado típico.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "12028234",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "A doutrina classifica os crimes em comissivos, omissivos e omissivos por comissão, sendo exemplo desta última modalidade a conduta do indivíduo que, tendo o dever e a possibilidade de evitar o resultado, omite-se de evitá-lo.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "13039345",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+"enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.",
+"itens_assertiva": [],
+"enunciado_pergunta": "Segundo o direito penal contemporâneo, consideram-se criminosas as condutas ontologicamente consideradas reprováveis e constatadas por um juízo de percepção natural.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "14040456",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-DFT",
+"enunciado_principal": "Sobre a distinção entre inidoneidade absoluta e inidoneidade relativa, é correto afirmar que no(a):",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "crime impossível, a inidoneidade pode ser constatada a posteriori;" },
+{ "letra": "B", "texto": "inidoneidade absoluta, a consumação ocorreria se o comportamento seguisse sem percalços alheios à vontade;" },
+{ "letra": "C", "texto": "inidoneidade absoluta, uma situação apriorística elimina a possibilidade de consumação do delito;" },
+{ "letra": "D", "texto": "tentativa relativamente inidônea, circunstâncias anteriores impedem a consumação do delito;" },
+{ "letra": "E", "texto": "crime impossível, situações posteriores tornam inviável a realização integral do tipo." }
+],
+"gabarito": "C"
+},
+{
+"id": "15051567",
+"metadata": "Ano: 2022 | Banca: FCC | Órgão: MPE-PE",
+"enunciado_principal": "O Código Penal estabelece que a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. Sobre a relevância da omissão, o dever de agir incumbe a quem:",
+"itens_assertiva": [
+"I. tenha por lei obrigação de cuidado, proteção ou vigilância.",
+"II. tenha assumido a responsabilidade de impedir o resultado.",
+"III. criou, com seu comportamento anterior, o risco da ocorrência do resultado.",
+"IV. impede que o resultado se produza."
+],
+"enunciado_pergunta": "Está correto o que se afirma APENAS em",
+"alternativas": [
+{ "letra": "A", "texto": "I e II." },
+{ "letra": "B", "texto": "I, II e III." },
+{ "letra": "C", "texto": "I, II e IV." },
+{ "letra": "D", "texto": "III e IV." },
+{ "letra": "E", "texto": "II, III e IV." }
+],
+"gabarito": "B"
+},
+{
+"id": "16062678",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+"enunciado_principal": "Assinale a opção correta com referência ao direito das vítimas.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O termo instituições de garantia, nas quais se enquadra o Ministério Público — referência feita por Luigi Ferrajoli —, é fruto das chamadas Constituições de segunda geração, como a Constituição Portuguesa de 1976." },
+{ "letra": "B", "texto": "O garantismo hiperbólico é uma consequência da racionalidade do garantismo monocular, que, por sua vez, acarreta uma proteção sistêmica." },
+{ "letra": "C", "texto": "O garantismo penal se confunde com o legalismo, porque ambas as teorias estão calcadas no Estado Democrático de Direito." },
+{ "letra": "D", "texto": "O garantismo penal evoluiu para uma visão integral, protegendo, além dos direitos individuais, também direitos sociais e coletivos, bem como os deveres, nos quais se insere, além do dever de investigar, processar e punir, também o direito das vítimas." },
+{ "letra": "E", "texto": "A visão atual de garantismo penal, a partir da ideia de instituições de garantia, é a de que existe mais de um garantismo: o garantismo do delinquente, calcado no status libertatis; e o garantismo das vítimas, fundamentado na prevenção da pena." }
+],
+"gabarito": "D"
+},
+{
+"id": "17073789",
+"metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+"enunciado_principal": "Tendo em vista que os tipos penais recebem diversas classificações doutrinárias, assinale a opção correta a esse respeito.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Os tipos congruentes apresentam simetria entre o elemento objetivo e o subjetivo, como ocorre nos crimes preterdolosos." },
+{ "letra": "B", "texto": "Os tipos simples são aqueles cuja conduta nuclear pode ser praticada por apenas um agente, tal como previsto no homicídio." },
+{ "letra": "C", "texto": "Os tipos fundamentais estabelecem a conduta básica caracterizadora da infração penal e são previstos sempre no caput do dispositivo legal." },
+{ "letra": "D", "texto": "Os tipos abertos demandam do operador do direito conhecimento que ultrapasse o teor literal da norma para a sua completa integração, como nos casos de leis penais em branco." },
+{ "letra": "E", "texto": "Os tipos preventivos são aqueles que antecipam a tutela penal, punindo condutas que servem, em regra, como preparação para outros delitos." }
+],
+"gabarito": "C"
+},
+{
+"id": "18084890",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+"enunciado_principal": "Segundo o conceito analítico de crime, o instituto é composto por três elementos, quais sejam, o fato típico, a ilicitude ou antijuridicidade e a culpabilidade. O fato típico, por sua vez, é composto por conduta, resultado, nexo de causalidade e tipicidade. Analise as proposições a seguir e assinale aquela que contém somente causas de exclusão da tipicidade.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Coação moral irresistível, estados de inconsciência e obediência hierárquica." },
+{ "letra": "B", "texto": "Coação física irresistível, estados de inconsciência e atos reflexos." },
+{ "letra": "C", "texto": "Coação física irresistível, estrito cumprimento do dever legal e estados de inconsciência." },
+{ "letra": "D", "texto": "Coação moral irresistível, estados de inconsciência e exercício regular de direito." },
+{ "letra": "E", "texto": "Coação física irresistível, obediência hierárquica e atos reflexos." }
+],
+"gabarito": "B"
+},
+{
+"id": "19095901",
+"metadata": "Ano: 2022 | Banca: MPE-SP | Órgão: MPE-SP",
+"enunciado_principal": "Imputabilidade penal é a possibilidade de se atribuir a alguém a responsabilidade pelo cometimento de algum ilícito penal. Acerca desse tema, de suas consequências jurídicopenais, e considerando a legislação penal, bem como a doutrina majoritária, assinale a alternativa correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Extinta a punibilidade do agente inimputável ou semi-imputável, não se impõe medida de segurança nem subsiste a que tenha sido imposta." },
+{ "letra": "B", "texto": "A embriaguez culposa decorrente do uso do álcool autoriza a redução de um a dois terços da pena do agente." },
+{ "letra": "C", "texto": "A emoção e paixão, quando violentas, podem excluir a imputabilidade penal ou servir como atenuante inominada." },
+{ "letra": "D", "texto": "Os menores de 18 (dezoito) anos são penalmente inimputáveis, cessando a menoridade penal à meia-noite do dia em que o agente completa 18 (dezoito) anos." },
+{ "letra": "E", "texto": "A embriaguez voluntária que não exclui a imputabilidade penal é somente aquela decorrente do uso de álcool." }
+],
+"gabarito": "D"
+},
+{
+"id": "20106012",
+"metadata": "Ano: 2022 | Banca: MPE-RJ | Órgão: MPE-RJ",
+"enunciado_principal": "João e Maria são casados. Maria conta a João que o traiu e que mantém, há cerca de 6 meses, relação extraconjugal com um amigo do casal. João imediatamente sai de casa e senta-se sozinho, em um bar, para refletir sobre o que fazer. Resolve vingar-se, mas, sem coragem, toma quatro doses de bebida. Com o espírito encorajado pelo álcool, João volta à casa comum. Maria está dormindo. João, então, acorda Maria e dá a ela a chance de sair de casa, ou avisa que a matará. Maria não cede e João a mata. Perícia conclui que, em razão da embriaguez, ao tempo do fato, João não possuía a plena capacidade de entender seu caráter ilícito. É correto afirmar que",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "se trata de homicídio privilegiado, tendo em vista a violenta emoção e o motivo de relevante valor moral." },
+{ "letra": "B", "texto": "a embriaguez, por não ser total, não influenciará na caracterização do crime e nem na aplicação da pena." },
+{ "letra": "C", "texto": "se trata de homicídio privilegiado, tendo em vista a violenta emoção e a injusta provocação da vítima." },
+{ "letra": "D", "texto": "a embriaguez, por ser parcial, traz redução de pena de um a dois terços." },
+{ "letra": "E", "texto": "o fato praticado por João será agravado por conta da embriaguez." }
+],
+"gabarito": "D"
+},
+{
+"id": "21117123",
+"metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+"enunciado_principal": "Dentro da teoria geral do crime, entende-se por “crimes de empreendimento” aqueles em que:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "todas as elementares do tipo penal precisam ser praticadas para que o resultado seja alcançado;" },
+{ "letra": "B", "texto": "o agente pratica os atos de execução, mas a configuração do crime depende da colaboração da própria vítima;" },
+{ "letra": "C", "texto": "há exigência de reiteração da conduta e finalidade de obtenção de lucro;" },
+{ "letra": "D", "texto": "o legislador equipara a forma tentada à forma consumada do delito, prevendo a mesma pena para ambas as modalidades;" },
+{ "letra": "E", "texto": "o crime é cometido por meio da profissão lícita do agente, como meio para realizar uma conduta criminosa." }
+],
+"gabarito": "D"
+}
+]
