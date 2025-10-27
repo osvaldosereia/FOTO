@@ -113,10 +113,7 @@
 
         <!-- Controles de Seleção --><section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
             <!-- Linha 1: Dropdowns -->
-            <!-- ***** AJUSTE APLICADO AQUI ***** -->
-            <!-- Trocado sm:items-center por sm:items-start para alinhar ao topo no desktop -->
             <div class="flex flex-col sm:flex-row gap-4 items-center sm:items-start"> 
-            <!-- ***** FIM DO AJUSTE ***** -->
                 <!-- Dropdown Disciplina --><div class="w-full sm:w-1/2">
                     <label for="selectDisciplina" class="block text-sm font-medium text-gray-700 mb-1">Disciplina</label>
                     <select id="selectDisciplina" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
@@ -545,14 +542,14 @@
             if (questao.enunciado_principal && questao.itens_assertiva) {
                 const enunciadoPrincipal = document.createElement('p');
                 enunciadoPrincipal.className = 'text-base md:text-lg text-gray-800 mb-4 leading-relaxed';
-                enunciadoPrincipal.textContent = questao.enunciado_principal;
+                enunciadoPrincipal.innerHTML = formatarTexto(questao.enunciado_principal); // Aplica formatação
                 card.appendChild(enunciadoPrincipal);
 
                 const listaItens = document.createElement('ol');
                 listaItens.className = 'list-none list-inside space-y-3 mb-4 pl-5 text-base md:text-lg text-gray-800 leading-relaxed';
                 (questao.itens_assertiva || []).forEach(itemTexto => {
                     const li = document.createElement('li');
-                    li.textContent = itemTexto;
+                    li.innerHTML = formatarTexto(itemTexto); // Aplica formatação
                     listaItens.appendChild(li);
                 });
                 card.appendChild(listaItens);
@@ -560,13 +557,14 @@
                 if (questao.enunciado_pergunta) {
                     const perguntaFinal = document.createElement('p');
                     perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold';
-                    perguntaFinal.textContent = questao.enunciado_pergunta;
+                    perguntaFinal.innerHTML = formatarTexto(questao.enunciado_pergunta); // Aplica formatação
                     card.appendChild(perguntaFinal);
                 }
             } else {
                 const enunciado = document.createElement('p');
                 enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
-                enunciado.textContent = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
+                const textoEnunciado = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
+                enunciado.innerHTML = formatarTexto(textoEnunciado); // Aplica formatação
                 card.appendChild(enunciado);
             }
 
@@ -578,7 +576,8 @@
                 altItem.className = 'alternativa-item flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer transition-all duration-200 hover:bg-gray-50';
                 altItem.style.marginLeft = '1rem'; 
                 altItem.dataset.letra = alt.letra;
-                altItem.innerHTML = `<span class="font-semibold text-blue-600 w-6">${alt.letra})</span> <span class="ml-2 text-gray-700">${alt.texto}</span>`;
+                // Aplica formatação ao texto da alternativa
+                altItem.innerHTML = `<span class="font-semibold text-blue-600 w-6">${alt.letra})</span> <span class="ml-2 text-gray-700">${formatarTexto(alt.texto)}</span>`; 
                 
                 altItem.addEventListener('click', () => {
                     if (provaFinalizada) return;
@@ -846,6 +845,22 @@
             const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`; // Link atualizado
             window.open(googleUrl, '_blank');
         }
+        
+        // ***** NOVA FUNÇÃO AUXILIAR *****
+        /**
+         * Converte texto com **negrito** e *itálico* para HTML.
+         * @param {string} texto - O texto a ser formatado.
+         * @returns {string} - O texto formatado como HTML.
+         */
+        function formatarTexto(texto) {
+            if (!texto) return '';
+            let html = texto;
+            // Usa regex não-ganancioso (.*?) para lidar com múltiplas ocorrências
+            html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            return html;
+        }
+        // ***** FIM DA NOVA FUNÇÃO *****
 
         // --- 5. Inicialização ---
         
