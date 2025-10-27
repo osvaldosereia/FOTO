@@ -128,13 +128,12 @@
                 resetarEstadoProva();
             });
             selectTema.addEventListener('change', resetarEstadoProva);
+            
+            // ***** ALTERAÇÃO APLICADA AQUI *****
+            // O botão agora tem uma única função: carregar a prova.
+            // A função carregarProva() já limpa a prova anterior.
             btnCarregarProva.addEventListener('click', () => {
-                // Se a prova já estiver carregada, o botão funciona como "Trocar"
-                if (provaCarregada) {
-                    resetarProvaCompleta();
-                } else {
-                    carregarProva();
-                }
+                carregarProva();
             });
         }
 
@@ -179,19 +178,14 @@
                 provaCarregada = false;
                 divStatus.textContent = 'Seleção alterada. Clique em "Carregar Prova".';
                 divStatus.classList.remove('hidden');
+                // Limpa as questões antigas se o usuário mudar a seleção
+                divQuestoes.innerHTML = ''; 
             }
         }
         
-        /**
-         * Reseta o prova inteira (limpa questões) e volta ao estado inicial.
-         * Chamado quando o usuário clica em "Trocar Prova".
-         */
-        function resetarProvaCompleta() {
-            divQuestoes.innerHTML = '';
-            divStatus.textContent = 'Selecione a disciplina e o tema para começar.';
-            divStatus.classList.remove('hidden');
-            resetarEstadoProva(); // Reseta o botão
-        }
+        // ***** ALTERAÇÃO APLICADA AQUI *****
+        // A função resetarProvaCompleta() foi removida pois não é mais necessária.
+        // A lógica de carregarProva() já limpa a tela.
 
         /**
          * Busca o arquivo JSON e exibe a prova.
@@ -207,7 +201,7 @@
             console.log(`Tentando carregar: ${url}`);
             
             // Atualiza UI para estado de carregamento
-            divQuestoes.innerHTML = '';
+            divQuestoes.innerHTML = ''; // Limpa a prova anterior (se houver)
             divStatus.textContent = 'Carregando prova...';
             divStatus.classList.remove('hidden');
             btnCarregarProva.disabled = true;
