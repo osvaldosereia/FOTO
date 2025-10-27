@@ -1,0 +1,537 @@
+[
+  {
+    "id": "59187342",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Polícia Federal",
+    "enunciado_principal": "Julgue o item a seguir a respeito da sucessão de leis penais no tempo.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "A lei penal mais grave aplica-se aos crimes permanentes se sua vigência for iniciada durante a permanência do resultado, desde que não haja sentença penal condenatória transitada em julgado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "24650198",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "enunciado_principal": "Considere que um indivíduo está sendo processado por um determinado crime. Lei posterior ao fato criminoso deixa de considerá-lo crime.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "Para que a nova lei beneficie o acusado,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é necessário que ela entre em vigor antes do oferecimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "basta que ela entre em vigor a qualquer tempo, mesmo após o trânsito em julgado da decisão condenatória."
+      },
+      {
+        "letra": "C",
+        "texto": "é necessário que ela entre em vigor antes do recebimento da denúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "é necessário que ela entre em vigor antes de proferida a sentença de primeiro grau."
+      },
+      {
+        "letra": "E",
+        "texto": "é necessário que ela entre em vigor antes do trânsito em julgado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "81403756",
+    "metadata": "Ano: 2024 | Banca: ADM&TEC | Órgão: Prefeitura de Iguaracy - PE",
+    "enunciado_principal": "A aplicação da Lei Penal no tempo é regulada pelo princípio da irretroatividade. Sobre esse tema, é CORRETO afirmar:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei Penal mais benéfica aplica-se mesmo a fatos anteriores à sua vigência."
+      },
+      {
+        "letra": "B",
+        "texto": "A revogação de Lei Penal sempre extingue os efeitos penais de condenações anteriores."
+      },
+      {
+        "letra": "C",
+        "texto": "A aplicação da Lei Penal no tempo depende exclusivamente de decisão judicial transitada em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação da Lei Penal é regida exclusivamente pelo critério territorial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "45091237",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-MT",
+    "enunciado_principal": "Acerca da aplicação da lei penal no tempo, assinale a afirmativa correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É aplicável a teoria da ubiquidade, haja vista que se considera praticado o crime no momento da ação e do resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "É aplicável a teoria da consequência, haja vista que se considera praticado o crime no momento do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "É aplicável a teoria da conduta ou da atividade, haja vista que se considera praticado o crime no momento da ação ou omissão."
+      },
+      {
+        "letra": "D",
+        "texto": "É aplicável a teoria da alternatividade, haja vista que se considera praticado o crime no momento da ação ou do resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "É aplicável a teoria da paridade, haja vista que, a depender do delito, considera-se praticado o crime desde o momento da ação até a produção do resultado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "92736410",
+    "metadata": "Ano: 2024 | Banca: ADM&TEC | Órgão: Prefeitura de Matriz de Camaragibe - AL",
+    "enunciado_principal": "De acordo com o Código Penal Brasileiro, leia as afirmativas abaixo.",
+    "itens_assertiva": [
+      "I. Considera-se praticado o crime exclusivamente onde se produziu ou deveria produzir-se o resultado.",
+      "II. Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.",
+      "III. Desprezam-se, nas penas privativas de liberdade e nas restritivas de direitos, as frações de dia, e, na pena de multa, as frações de cruzeiro.",
+      "IV. O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido."
+    ],
+    "enunciado_pergunta": "Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "10839524",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TSE",
+    "enunciado_principal": "João, com a intenção de subtrair um veículo, rendeu o motorista com o emprego de arma de fogo. Antes mesmo de ingressar no interior do veículo, o agente criminoso foi surpreendido pela polícia e, na tentativa de fuga, invadiu casa alheia, vindo a agredir um dos moradores. A partir da situação hipotética apresentada, julgue o item que se segue, com base no Código Penal.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "Considera-se como tempo do crime o momento em que o resultado do delito ocorre, independentemente do instante em que se iniciou a conduta criminosa, o que, no caso em apreço, corresponde ao momento da agressão ao morador da casa invadida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "63274815",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Itapissuma - PE",
+    "enunciado_principal": "João cometeu um crime em 2022, quando a pena prevista era de 5 anos. Em 2023, a lei foi alterada e a pena máxima foi reduzida para 4 anos. Em 2024, foi condenado. Segundo o princípio da aplicação da lei penal no tempo, a pena que João deverá cumprir será de:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5 anos, a não ser que João solicite a aplicação da nova lei."
+      },
+      {
+        "letra": "B",
+        "texto": "4 anos, pois a lei mais benéfica retroage para beneficiar o réu."
+      },
+      {
+        "letra": "C",
+        "texto": "5 anos, pois a lei em vigor à época do crime deve ser aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena deve ser determinada pelo juiz, sem considerar a mudança legislativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "78519043",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: Polícia Penal - GO",
+    "enunciado_principal": "A Lei penal, em sentido amplo, é a principal fonte imediata do direito penal. O princípio da legalidade está inscrito do artigo 1º do Código Penal, segundo o qual “Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal”. Sobre a aplicação da Lei penal, assinale a alternativa **incorreta**.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória"
+      },
+      {
+        "letra": "B",
+        "texto": "Em respeito ao princípio da soberania dos Estados, não se aplica a lei brasileira em crimes cometidos no estrangeiro"
+      },
+      {
+        "letra": "C",
+        "texto": "A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas consequências, pode ser homologada no Brasil para obrigar o condenado à reparação do dano"
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado"
+      },
+      {
+        "letra": "E",
+        "texto": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "36048197",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Qconcursos",
+    "enunciado_principal": "[Questão Inédita] Acerca da sucessão de leis penais no tempo, assinale a alternativa CORRETA:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei penal mais benéfica ao réu aplica-se apenas se o fato for praticado após a sua vigência."
+      },
+      {
+        "letra": "B",
+        "texto": "A *abolitio criminis* extingue tanto a punibilidade quanto os efeitos penais e civis do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei penal mais gravosa aplica-se retroativamente, se for de interesse da justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei temporária produz efeitos após a sua vigência, ainda que mais gravosa, para fatos praticados durante sua vigência."
+      },
+      {
+        "letra": "E",
+        "texto": "A revogação de uma lei penal só afeta os processos que ainda não tenham sido julgados em definitivo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "19485720",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Moreno - PE",
+    "enunciado_principal": "Julgue o item a seguir.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "A irretroatividade da lei penal se aplica de maneira maior, proibindo qualquer tipo de aplicação retroativa de novas leis penais, sejam elas mais gravosas ou mais benéficas ao réu. Por exemplo, mesmo que uma nova lei descriminalize uma conduta anteriormente considerada criminosa, essa mudança não pode beneficiar aqueles que foram condenados sob a legislação anterior, mantendo-se as penas impostas pela lei vigente à época do crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "55263901",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Moreno - PE",
+    "enunciado_principal": "Julgue o item a seguir.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "A lei penal no tempo é regida pelo princípio da irretroatividade da lei penal mais grave e pela retroatividade da lei penal mais benéfica ao réu. Por exemplo, se uma nova lei aumenta a pena para determinado crime, essa alteração não pode ser aplicada a fatos ocorridos antes de sua vigência. Contudo, se uma lei posterior reduz a pena ou descriminaliza uma conduta, ela deve retroagir para beneficiar os condenados que cometeram o ato antes da mudança legislativa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "87130294",
+    "metadata": "Ano: 2024 | Banca: IPEFAE | Órgão: Prefeitura de Aguaí - SP",
+    "enunciado_principal": "Visando estabelecer parâmetros mínimos de civilidade no convívio social, o Estado assume o papel de agente regulador, fiscalizador e punitivo junto aos cidadãos que descumprem suas leis. Nesse sentido, em relação as regras penais, é correto afirmar que:",
+    "itens_assertiva": [
+      "I. Não há crime sem lei anterior que o defina, mas há pena sem prévia cominação legal.",
+      "II. A lei posterior, que de qualquer modo repercuta sobre o crime, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.",
+      "III. Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional e ao crime cometido por brasileiro em território estrangeiro.",
+      "IV. A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência."
+    ],
+    "enunciado_pergunta": "Das assertivas acima, estão corretas apenas aquelas que constam em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "42579163",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TCE-PR",
+    "enunciado_principal": "Em relação à aplicação da lei penal, assinale a opção correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sentença penal estrangeira que obrigue o condenado a reparar o dano causado pela conduta pode ser homologada no Brasil, independentemente de pedido da parte interessada."
+      },
+      {
+        "letra": "B",
+        "texto": "Para efeitos de aplicação da lei penal brasileira, as embarcações públicas são consideradas extensão do território nacional, desde que estejam em alto mar."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena cumprida no estrangeiro só gera efeitos naquela imposta no Brasil quando ambas forem da mesma natureza."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei excepcional, mesmo que cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se aplica a lei brasileira a crime de genocídio praticado no estrangeiro, quando o agente for domiciliado no Brasil, caso ele tenha sido absolvido no exterior."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "98015372",
+    "metadata": "Ano: 2024 | Banca: Instituto JK | Órgão: Prefeitura de São João do Paraíso - MA",
+    "enunciado_principal": "No que se refere à aplicação da lei no tempo, está **incorreta** a alternativa:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sempre que se tratar de *novatio legis in pejus*, é admissível a sua retroatividade da lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma nova lei editada, a qual descreve que não existe mais razão para incriminar uma determinada conduta, sendo essa conduta retida do nosso arcabouço jurídico-penal, contudo, os efeitos extrapenais (cíveis e administrativos) não são atingidos pela descriminalização da antiga conduta que era tipificada como delituosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Em consonância com o princípio da legalidade ou da reserva legal as condutas que posteriormente tornaram-se crime não retroagem, sendo aplicáveis a partir de sua vigência."
+      },
+      {
+        "letra": "D",
+        "texto": "A *novatio legis in mellius* e a *abolitio criminis* retroagem para beneficiar o agente criminoso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "67342059",
+    "metadata": "Ano: 2024 | Banca: NTCS | Órgão: Prefeitura de Mucajaí - RR",
+    "enunciado_principal": "No que concerne a aplicação da lei penal no tempo prevista no Código Penal Brasileiro, cuidou o legislador de definir importantes parâmetros, sendo possível dizer que:",
+    "itens_assertiva": [
+      "I – Ninguém poderá ser punido por fato que lei posterior deixar de considerar crime, salvo quando o indivíduo seja considerado perigoso.",
+      "II – A lei posterior, que de qualquer modo prejudicar o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatório transitada em julgado.",
+      "III - A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.",
+      "IV – Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória."
+    ],
+    "enunciado_pergunta": "Julgue as afirmativas e assinale a alternativa que apresenta apenas os itens corretos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "13958076",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TCE-PA",
+    "enunciado_principal": "Manoela, com intenção de matar, efetuou um disparo de arma de fogo em face de Júlio, no dia 01/06/2024. Júlio foi atingido, com gravidade, e foi levado ao hospital por terceiros, onde recebeu efetivo atendimento médico. Entretanto, por complicações decorrentes do projétil de arma de fogo, Júlio veio a falecer em 01/08/2024. Em 10/07/2024 entrou em vigor norma penal que aumenta a pena dos crimes de homicídio praticados pelo emprego de arma de fogo, porém, a mesma lei criou uma causa de diminuição de pena aplicável, em tese, ao fato. Observando a situação descrita, e considerando as disposições do Código Penal e a jurisprudência dos Tribunais Superiores acerca do tema, assinale a afirmativa correta.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se ocorrido o delito no dia 01/08/2024, de forma que a nova lei é inteiramente aplicável ao fato."
+      },
+      {
+        "letra": "B",
+        "texto": "O delito ocorreu em 01/08/2024. Contudo, deve ser observada a ultratividade da lei penal mais benéfica à Manoela."
+      },
+      {
+        "letra": "C",
+        "texto": "O delito ocorreu em 01/06/2024, porém, a nova lei retroage, apenas na parte que beneficia a acusada."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito ocorreu em 01/06/2024, porém, a nova lei só pode ser aplicada ao caso se inteiramente mais favorável à acusada."
+      },
+      {
+        "letra": "E",
+        "texto": "O momento do crime se protrai entre a conduta e o resultado, de forma que qualquer alteração legislativa havida no período é inteiramente aplicável, ainda que prejudicial."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "50647182",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de São José dos Campos - SP",
+    "enunciado_principal": "De acordo com o Código Penal, em relação ao tempo do crime, considera-se praticado o crime no momento",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da ação ou omissão, exceto se outro tenha sido o momento do resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "da ação ou omissão, ainda que outro seja o momento do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "da ação, no caso dos crimes comissivos, mas considera-se o momento do resultado nos casos de crimes omissivos."
+      },
+      {
+        "letra": "D",
+        "texto": "da omissão, no caso dos crimes omissivos, mas considera-se o momento do resultado nos casos de crimes comissivos."
+      },
+      {
+        "letra": "E",
+        "texto": "do resultado, para os crimes omissivos e comissivos, ainda que outro tenha sido o momento da conduta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "27816045",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Qconcursos",
+    "enunciado_principal": "[Questão Inédita] Sobre a ultratividade da lei penal, é correto afirmar que:",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei penal revogada nunca pode ser aplicada após sua revogação."
+      },
+      {
+        "letra": "B",
+        "texto": "A ultratividade se aplica apenas a leis penais mais severas."
+      },
+      {
+        "letra": "C",
+        "texto": "A ultratividade é um princípio que permite a aplicação de qualquer lei penal, independentemente de ser mais benéfica ou mais severa."
+      },
+      {
+        "letra": "D",
+        "texto": "A ultratividade só ocorre se a nova lei expressamente determinar sua aplicação retroativa."
+      },
+      {
+        "letra": "E",
+        "texto": "A ultratividade ocorre quando a lei penal, mesmo após ser revogada, continua a ser aplicada aos fatos praticados durante sua vigência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "84931057",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: CNJ",
+    "enunciado_principal": "Considerando as disposições do Código Penal a respeito de irretroatividade da lei penal e de prescrição, julgue o item que se segue.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "Segundo o Código Penal, uma nova lei penal mais gravosa não pode ser aplicada a fatos ocorridos antes de sua vigência; em contrapartida, uma lei penal mais benéfica pode retroagir para beneficiar o réu, salvo se este já tiver sido condenado por sentença definitiva.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo"
+      },
+      {
+        "letra": "B",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "39150628",
+    "metadata": "Ano: 2024 | Banca: NC-UFPR | Órgão: Prefeitura de Campo Magro - PR",
+    "enunciado_principal": "Assinale a alternativa correta sobre a aplicação da lei penal, de acordo com o Código Penal brasileiro.",
+    "itens_assertiva": [],
+    "enunciado_pergunta": "",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei brasileira é de aplicação soberana e exclusiva em crimes cometidos no território nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei posterior que, de qualquer modo, favorecer o agente aplica-se aos fatos anteriores."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei temporária não será aplicada após decorrido o período de sua duração, salvo em caso de fato praticado antes do período de sua vigência."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de novidade tecnológica, há crime mesmo sem lei anterior que o defina."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei brasileira aplica-se aos crimes praticados em aeronaves estrangeiras de propriedade pública no território nacional."
+      }
+    ],
+    "gabarito": "B"
+  }
+]
