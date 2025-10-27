@@ -1,0 +1,309 @@
+```json
+[
+{
+"id": "85931204",
+"metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara Municipal de Poá - SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "A contagem de prazo em matéria penal dá-se do seguinte modo:",
+"alternativas": [
+{ "letra": "A", "texto": "o dia do começo e o último excluem-se do cômputo do prazo; contam-se os dias, os meses e os anos pelo calendário forense." },
+{ "letra": "B", "texto": "o dia do começo inclui-se no cômputo do prazo; contam-se os dias, os meses e os anos pelo calendário forense." },
+{ "letra": "C", "texto": "o dia do começo inclui-se no cômputo do prazo; contam-se os dias, os meses e os anos pelo calendário comum." },
+{ "letra": "D", "texto": "o dia do começo exclui-se do cômputo do prazo; contam-se os dias, os meses e os anos pelo calendário forense." },
+{ "letra": "E", "texto": "o dia do começo exclui-se do cômputo do prazo; contam-se os dias, os meses e os anos pelo calendário comum." }
+],
+"gabarito": "C"
+},
+{
+"id": "29147506",
+"metadata": "Ano: 2016 | Banca: UFMT | Órgão: TJ-MT",
+"enunciado_principal": "Sobre a aplicação da lei penal, de acordo com o Decreto Lei n.º 2.848, de 7 de dezembro de 1940, Código Penal, marque V para as afirmativas verdadeiras e F para as falsas.",
+"itens_assertiva": [
+"Não há crime sem lei posterior que o defina.",
+"Considera-se praticado o crime no momento da omissão, ainda que outro seja o momento do resultado.",
+"Considera-se como extensão do território nacional, para efeitos penais, a aeronave de propriedade privada, que se ache no espaço aéreo correspondente.",
+"Não fica sujeito à lei brasileira, embora cometido no estrangeiro, o crime contra a liberdade do Presidente da República."
+],
+"enunciado_pergunta": "Assinale a sequência correta.",
+"alternativas": [
+{ "letra": "A", "texto": "V, F, F, V" },
+{ "letra": "B", "texto": "F, V, V, F" },
+{ "letra": "C", "texto": "V, V, F, F" },
+{ "letra": "D", "texto": "F, F, V, V" }
+],
+"gabarito": "B"
+},
+{
+"id": "10569842",
+"metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: Câmara de Atibaia - SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "São características das normas penais:",
+"alternativas": [
+{ "letra": "A", "texto": "imperatividade, generalidade, abstração e pessoalidade." },
+{ "letra": "B", "texto": "exclusividade, generalidade, abstração e impessoalidade." },
+{ "letra": "C", "texto": "exclusividade, imperatividade, generalidade, abstração e impessoalidade." },
+{ "letra": "D", "texto": "exclusividade, imperatividade, generalidade, e pessoalidade." }
+],
+"gabarito": "C"
+},
+{
+"id": "73024915",
+"metadata": "Ano: 2015 | Banca: CCV-UFC | Órgão: UFC",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Indique o item que preenche, corretamente, a lacuna da frase: Na _________________ o preenchimento do tipo é feito a partir de outras disposições, de modo que para sua realização remete-se a outras disposições jurídicas (remissão interna e externa) ou atos administrativos. Face à imprecisão do conteúdo do tipo, ou seja, para concretizar a norma, o intérprete precisa recorrer a estas, sem as quais não se torna possível, pois estas disposições limitam as margens de espaço de decisão.",
+"alternativas": [
+{ "letra": "A", "texto": "norma penal não incriminadora" },
+{ "letra": "B", "texto": "norma penal incriminadora" },
+{ "letra": "C", "texto": "norma penal em branco" },
+{ "letra": "D", "texto": "norma penal completa" },
+{ "letra": "E", "texto": "norma penal supletiva" }
+],
+"gabarito": "C"
+},
+{
+"id": "40816927",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "As regras gerais do Código Penal aplicam-se aos fatos incriminados por lei especial?",
+"alternativas": [
+{ "letra": "A", "texto": "Sim, sempre." },
+{ "letra": "B", "texto": "Sim, mas apenas se a lei especial não dispuser de modo diverso." },
+{ "letra": "C", "texto": "Sim, mas desde que a lei especial seja anterior ao Código Penal." },
+{ "letra": "D", "texto": "Sim, mas apenas se a lei especial previr expressamente a aplicação subsidiária do Código Penal." },
+{ "letra": "E", "texto": "Não, nunca." }
+],
+"gabarito": "B"
+},
+{
+"id": "96520318",
+"metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Em relação à aplicação, à interpretação e à integração da lei penal, julgue o item seguinte. No Código Penal, a exposição de motivos é exemplo de interpretação autêntica, pois é realizada no próprio texto legal.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "34810925",
+"metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-RJ",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Determinada lei dispõe: “ *Subtrair objetos de arte. Pena: a ser fixada livremente pelo juiz de acordo com as circunstâncias do fato* \". Para um fato cometido após a sua vigência, é correto afirmar que a referida lei",
+"alternativas": [
+{ "letra": "A", "texto": "fere o princípio da legalidade." },
+{ "letra": "B", "texto": "fere o princípio da anterioridade." },
+{ "letra": "C", "texto": "fere os princípios da legalidade e da anterioridade." },
+{ "letra": "D", "texto": "não fere os princípios da legalidade e da anterioridade." },
+{ "letra": "E", "texto": "é uma norma penal em branco." }
+],
+"gabarito": "A"
+},
+{
+"id": "60924713",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Câmara Municipal de Itatiba - SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "De acordo com o Código Penal,",
+"alternativas": [
+{ "letra": "A", "texto": "considera-se lugar do crime aquele em que o resultado se produziu." },
+{ "letra": "B", "texto": "no cômputo do prazo, não se inclui o dia do começo, mas sim o do vencimento." },
+{ "letra": "C", "texto": "aplica-se a lei brasileira aos crimes praticados a bordo de embarcações estrangeiras, de propriedade privada, que estejam em porto ou mar territorial do Brasil." },
+{ "letra": "D", "texto": "a sentença estrangeira não pode ser homologada no Brasil para obrigar o condenado à reparação do dano." },
+{ "letra": "E", "texto": "em se tratando de pena cumprida no estrangeiro pelo mesmo crime, caso sejam diferentes as penas impostas, aquela cumprida no estrangeiro não atenuará a imposta no Brasil." }
+],
+"gabarito": "C"
+},
+{
+"id": "17359842",
+"metadata": "Ano: 2015 | Banca: CEFET-BA | Órgão: MPE-BA",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [
+"I – Visando à busca de uma solução para situação relacionada ao conflito aparente de normas, o intérprete pode se valer do princípio da consunção e do princípio da subsidiariedade.",
+"II – A *abolitio criminis* faz cessar a execução da pena, os efeitos secundários da sentença condenatória e os efeitos civis da prática delituosa.",
+"III – A lei penal pode ser revogada durante o período de sua *vacatio legis.*",
+"IV – A incriminação do agente em virtude de prática de delito de acumulação constitui violação ao princípio da legalidade.",
+"V – A obrigatoriedade da individualização da pena, considerando a gravidade do fato e as condições do seu autor, é desdobramento do princípio da pessoalidade das penas."
+],
+"enunciado_pergunta": "Estão CORRETAS as assertivas:",
+"alternativas": [
+{ "letra": "A", "texto": "I, II e III." },
+{ "letra": "B", "texto": "I, II e V." },
+{ "letra": "C", "texto": "I, III e IV." },
+{ "letra": "D", "texto": "II, IV e V." },
+{ "letra": "E", "texto": "III, IV e V." }
+],
+"gabarito": "C"
+},
+{
+"id": "52890471",
+"metadata": "Ano: 2015 | Banca: FMP Concursos | Órgão: DPE-PA",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Assinale a alternativa CORRETA.",
+"alternativas": [
+{ "letra": "A", "texto": "Leis penais em branco em sentido estrito são aquelas, cuja norma de complementação é oriunda da mesma fonte legislativa que editou a norma que necessita desse complemento." },
+{ "letra": "B", "texto": "A lei penal em branco é revogada em conseqüência da revogação de sua norma de complementação." },
+{ "letra": "C", "texto": "Leis penais em branco em sentido amplo são aquelas leis penais, cuja norma de complementação é oriunda de fonte diversa daquela que a editou." },
+{ "letra": "D", "texto": "No crime de uso de documento falso, o Código Penal brasileiro emprega a técnica de leis penais em branco ao revés, isto é, daquelas leis penais que remetem a outras normas incriminadoras para especificação da pena." },
+{ "letra": "E", "texto": "As leis penais em branco consistem em modalidade de lei temporária." }
+],
+"gabarito": "B"
+},
+{
+"id": "90153862",
+"metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: PC-DF",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "A respeito do erro de execução, do denominado *dolus generalis* , das normas penais em branco e dos crimes previstos na parte especial do CP, assinale a alternativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "A complementação da Lei de Drogas por portaria do Ministério da Saúde configura hipótese da chamada norma penal em branco homogênea heteróloga." },
+{ "letra": "B", "texto": "Suponha que “A” coloque sonífero na bebida de “B” a fim de subtrair-lhe os pertences (celular, bolsa, cartão de crédito). Neste caso, ausente a violência ou a grave ameaça, “A” responderá por furto ou estelionato, a depender das circunstâncias concretas e do dolo." },
+{ "letra": "C", "texto": "Quanto ao erro de execução, o ordenamento jurídico brasileiro adotou a teoria da equivalência, e não a teoria da concretização." },
+{ "letra": "D", "texto": "Suponha que “A” tenha atirado contra “B” com o propósito de matá-lo. “A” acredita ter consumado o crime por meio dos tiros. Em seguida, joga o corpo de “B” em um rio, com a intenção de ocultar o cadáver. Posteriormente, descobre-se que “B” estava vivo quando foi jogado no rio e que morreu por afogamento. Nesta hipótese, conforme a doutrina majoritária, “A” poderá responder, a depender do caso, por homicídio doloso tentado em concurso material com homicídio culposo ou por homicídio doloso tentado em concurso material com ocultação de cadáver. Não se admite que “A” responda por homicídio doloso consumado, porque “A” já não possuía *animus necandi* no momento em que arremessou o corpo de “B” no rio." },
+{ "letra": "E", "texto": "Desde que esteja fora do expediente, pratica omissão de socorro o policial que, podendo impedir roubo praticado diante de si, decide permanecer inerte." }
+],
+"gabarito": "B"
+},
+{
+"id": "76428190",
+"metadata": "Ano: 2015 | Banca: CEFET-BA | Órgão: MPE-BA",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [
+"I – Após a realização das operações previstas em lei para o cálculo final da pena, o número não inteiro de dias deve ser desprezado no cálculo da pena privativa de liberdade, e as frações de real devem ser consideradas no cálculo da pena de multa.",
+"II – A lei intermediária pode ter, simultaneamente, dupla extra-atividade, possuindo características de retroatividade e ultra-atividade.",
+"III – Verificamos a incidência do princípio da continuidade normativa típica quando uma norma penal é revogada, mas sua conduta continua prevista como crime em outro dispositivo legal.",
+"IV – A norma penal em branco própria homovitelina é aquela em que a norma incompleta e seu necessário complemento estão contidos na mesma estrutura legislativa.",
+"V – Na hipótese de crime permanente, diante de duas leis penais vigentes, uma em cada determinado período de permanência delitiva, sempre deve ser aplicada a lei penal mais benéfica ao réu."
+],
+"enunciado_pergunta": "Estão **CORRETAS** as assertivas:",
+"alternativas": [
+{ "letra": "A", "texto": "I e III." },
+{ "letra": "B", "texto": "I e IV." },
+{ "letra": "C", "texto": "II e III." },
+{ "letra": "D", "texto": "II e V." },
+{ "letra": "E", "texto": "IV e V." }
+],
+"gabarito": "C"
+},
+{
+"id": "23519084",
+"metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Prefeitura de Caieiras - SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "De acordo com a teoria da aplicação da lei penal, pode-se afirmar:",
+"alternativas": [
+{ "letra": "A", "texto": "A lei penal, em razão das suas consequências, não retroage" },
+{ "letra": "B", "texto": "A analogia, uma das fontes do direito, é vetada, no direito penal, em razão do princípio da legalidade." },
+{ "letra": "C", "texto": "Considera-se o crime praticado no momento do resultado, e não da ação ou omissão (artigo 4 o , CP)." },
+{ "letra": "D", "texto": "Considera-se o crime praticado no lugar em que ocorreu a ação ou omissão, bem como onde se produziu ou deveria produzir-se o resultado." },
+{ "letra": "E", "texto": "No Brasil, os efeitos da lei penal não podem ultrapassar seus limites territoriais para regular fatos ocorridos além da sua soberania." }
+],
+"gabarito": "D"
+},
+{
+"id": "49015763",
+"metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "No que diz respeito a noções gerais aplicadas no âmbito do direito penal, julgue o próximo item. A analogia, cuja utilização é vedada no direito penal, constitui método de integração do ordenamento jurídico.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "81294506",
+"metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "No que se refere às Normas Penais, assinale a alternativa **CORRETA** .",
+"alternativas": [
+{ "letra": "A", "texto": "As normas penais em branco podem ser homólogas, ou em sentido amplo, e heterólogas, ou em sentido estrito, essas últimas, quando o complemento da norma for oriundo da mesma fonte legislativa que editou a norma que necessita desse complemento." },
+{ "letra": "B", "texto": "As normas penais não incriminadoras podem ser subdivididas em permissivas; explicativas e complementares. As normas penas permissivas justificantes se destinam a eliminar a culpabilidade, isentando o agente de pena." },
+{ "letra": "C", "texto": "As normas penais incriminadoras possuem os denominados preceitos primários e secundários, sendo que o preceito primário tem a tarefa de individualizar a pena, cominando-a em abstrato." },
+{ "letra": "D", "texto": "As normas penais em branco homólogas, ou em sentido amplo, podem ser homovitelinas e heterovitelinas, sendo que essas últimas são aquelas que têm suas respectivas normas complementares oriundas de outro ramo do direito." }
+],
+"gabarito": "D"
+},
+{
+"id": "37056214",
+"metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-DF",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Julgue o item seguinte, relativo à teoria da norma penal, sua aplicação temporal e espacial, ao conflito aparente de normas e à pena cumprida no estrangeiro. Na definição de lugar do crime, para os efeitos de aplicação da lei penal brasileira, a expressão “onde se produziu ou deveria produzir-se o resultado” diz respeito, respectivamente, à consumação e à tentativa.",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "A"
+},
+{
+"id": "68417930",
+"metadata": "Ano: 2013 | Banca: CETRO | Órgão: CREF - 4ª Região (SP)",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "De acordo com o Código Penal brasileiro, assinale a alternativa  incorreta .",
+"alternativas": [
+{ "letra": "A", "texto": "O erro sobre a ilicitude do fato, se inevitável, isenta de pena." },
+{ "letra": "B", "texto": "O erro sobre a ilicitude do fato, se evitável, poderá diminuir a pena." },
+{ "letra": "C", "texto": "É isento de pena o agente que, por embriaguez completa, proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento." },
+{ "letra": "D", "texto": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória." },
+{ "letra": "E", "texto": "Considera-se praticado o crime no momento do resultado, ainda que outro seja o tempo da ação ou omissão que lhe deu causa." }
+],
+"gabarito": "E"
+},
+{
+"id": "95028416",
+"metadata": "Ano: 2013 | Banca: UEPA | Órgão: SEAD-PA",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Em relação aos princípios concernentes à aplicação da lei penal, assinale a alternativa correta.",
+"alternativas": [
+{ "letra": "A", "texto": "Reserva legal, anterioridade e retroatividade da lei penal mais benéfica." },
+{ "letra": "B", "texto": "Pessoalidade, individualização da pena e humanidade." },
+{ "letra": "C", "texto": "Intervenção mínima, fragmentariedade, culpabilidade e taxatividade." },
+{ "letra": "D", "texto": "Proporcionalidade, razoabilidade e dignidade da pessoa humana." },
+{ "letra": "E", "texto": "Pessoalidade, anterioridade e vedação da dupla punição (este último introduzido pela Convenção Americana de Direitos Humanos, art. 8º, n.4)." }
+],
+"gabarito": "A"
+},
+{
+"id": "10473952",
+"metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "Sobre a inexistência no Direito brasileiro da previsão de certas condutas criminosas, assinale a alternativa **INCORRETA** .",
+"alternativas": [
+{ "letra": "A", "texto": "Não há previsão de que o Incesto praticado entre maiores de idade seja fato punível." },
+{ "letra": "B", "texto": "Não há Lei que tipifique o Terrorismo (ainda que na Lei dos Crimes Hediondos, e em outras normas, haja menção a terrorismo ou a atos de terrorismo)." },
+{ "letra": "C", "texto": "Não está descrito no Código Penal o *Bullying* como conduta específica." },
+{ "letra": "D", "texto": "Não há no Direito brasileiro a punição ao Genocídio (ainda que o delito tenha sido arrolado na Lei dos Crimes Hediondos)." },
+{ "letra": "E", "texto": "Não está prevista de forma específica a prática de Crime Contra a Humanidade (e a aprovação e promulgação do Estatuto de Roma, em que está previsto esse delito, não possui o condão de introduzir em nosso país a criminalização dessa conduta)." }
+],
+"gabarito": "D"
+},
+{
+"id": "72583169",
+"metadata": "Ano: 2013 | Banca: IBFC | Órgão: PC-RJ",
+"enunciado_principal": "Direito Penal",
+"itens_assertiva": [],
+"enunciado_pergunta": "O princípio da reserva legal constitui-se na garantia individual de que o poder de punir do Estado em matéria penal será exercido nos limites da norma positivada, permitindo a criação de tipos penais incriminadores e a instituição de penas por intermédio de:",
+"alternativas": [
+{ "letra": "A", "texto": "Qualquer espécie normativa, desde que elaborada em observância ao regular processo administrativo ou legislativo." },
+{ "letra": "B", "texto": "Lei ordinária e medida provisória, já que esta última também possui força de lei até que seja submetida a regular processo legislativo." },
+{ "letra": "C", "texto": "Decreto legislativo, já que são funções exclusivas do Poder Legislativo a criação de direito novo, a imposição de obrigações de caráter geral e a definição de sanções jurídicas." },
+{ "letra": "D", "texto": "Decreto-lei, regularmente elaborado no exercício do poder administrativo-normativo do chefe do Poder Executivo, já que o ato de legislar encontra-se no feixe de atribuições típicas deste Poder." },
+{ "letra": "E", "texto": "Lei em sentido estrito, entendida esta como a espécie normativa aprovada em regular processo legislativo levado a efeito no âmbito do Poder Legislativo." }
+],
+"gabarito": "E"
+}
+]
+```
