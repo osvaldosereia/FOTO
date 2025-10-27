@@ -55,6 +55,11 @@
             transition: max-height 0.3s ease-in;
         }
         
+        /* ***** NOVO ESTILO ADICIONADO ***** */
+        /* Adiciona suporte para listas com numerais romanos (I, II, III...) */
+        .list-upper-roman {
+            list-style-type: upper-roman;
+        }
     </style>
 </head>
 <body class="bg-gray-100">
@@ -99,6 +104,15 @@
 
     </div>
 
+    <!-- ***** NOVO BOTÃO ADICIONADO ***** -->
+    <!-- Botão de Voltar ao Topo -->
+    <button id="btnTopo" title="Voltar ao topo" class="hidden fixed bottom-6 right-6 p-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300 z-50">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+            <path fill-rule="evenodd" d="M10 17a.75.75 0 0 1-.75-.75V5.56l-2.72 2.72a.75.75 0 0 1-1.06-1.06l4-4a.75.75 0 0 1 1.06 0l4 4a.75.75 0 1 1-1.06 1.06l-2.72-2.72v10.69A.75.75 0 0 1 10 17Z" clip-rule="evenodd" />
+        </svg>
+    </button>
+
+
     <!-- Carrega o "banco de dados" de disciplinas e temas PRIMEIRO --><script src="config.js"></script>
 
     <script type="module">
@@ -111,6 +125,7 @@
         const btnCarregarProva = document.getElementById('btnCarregarProva');
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
+        const btnTopo = document.getElementById('btnTopo'); // <-- Referência para o novo botão
 
         // --- 3. Estado da Aplicação ---
         
@@ -142,6 +157,27 @@
             btnCarregarProva.addEventListener('click', () => {
                 carregarProva();
             });
+            
+            // ***** LÓGICA DO BOTÃO VOLTAR AO TOPO ADICIONADA *****
+
+            // Mostra ou esconde o botão com base na posição da página
+            window.addEventListener('scroll', () => {
+                // Mostra o botão se o scroll passar de 300px
+                if (window.scrollY > 300) {
+                    btnTopo.classList.remove('hidden');
+                } else {
+                    btnTopo.classList.add('hidden');
+                }
+            });
+
+            // Ação de clique para rolar suavemente para o topo
+            btnTopo.addEventListener('click', () => {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            });
+            // ***** FIM DA LÓGICA DO BOTÃO *****
         }
 
         /**
@@ -499,7 +535,7 @@
             const urlQuery = encodeURIComponent(promptCompleto);
             
             // 3. Abre o Google Search (com o objetivo de ativar o modo IA)
-            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
+            const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
             
             window.open(googleUrl, '_blank');
         }
