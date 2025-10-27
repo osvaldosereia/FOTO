@@ -97,9 +97,8 @@
             transition: max-height 0.3s ease-in;
         }
         
-        .list-upper-roman {
-            list-style-type: upper-roman;
-        }
+        /* ***** AJUSTE APLICADO ***** */
+        /* A classe .list-upper-roman foi removida pois não é mais necessária */
     </style>
 </head>
 <body class="bg-gray-100">
@@ -452,7 +451,6 @@
             
             metadataContainer.appendChild(metadata);
 
-            // ***** AJUSTE APLICADO AQUI *****
             // Só adiciona o ícone de 'flag' se estiver no Modo Prova
             if (checkModoProva.checked) {
                 const flagIcon = document.createElement('span');
@@ -465,37 +463,46 @@
                 });
                 metadataContainer.appendChild(flagIcon);
             }
-            // ***** FIM DO AJUSTE *****
             
             card.appendChild(metadataContainer);
 
             // 2. Lógica do Enunciado (Simples vs. Complexo)
             if (questao.enunciado_principal && questao.itens_assertiva) {
-                // Versão Complexa
+                // --- Versão Profissional (Questão Complexa) ---
+                
+                // 1. Enunciado Principal
                 const enunciadoPrincipal = document.createElement('p');
                 enunciadoPrincipal.className = 'text-base md:text-lg text-gray-800 mb-4 leading-relaxed';
                 enunciadoPrincipal.textContent = questao.enunciado_principal;
                 card.appendChild(enunciadoPrincipal);
 
+                // 2. Itens da Assertiva
                 const listaItens = document.createElement('ol');
-                listaItens.className = 'list-upper-roman list-inside space-y-3 mb-4 pl-5 text-base md:text-lg text-gray-800 leading-relaxed';
+                
+                // ***** AJUSTE APLICADO AQUI *****
+                // Remove 'list-upper-roman' e usa 'list-none' para não duplicar os 'I., II.'
+                listaItens.className = 'list-none list-inside space-y-3 mb-4 pl-5 text-base md:text-lg text-gray-800 leading-relaxed';
+                
                 (questao.itens_assertiva || []).forEach(itemTexto => {
                     const li = document.createElement('li');
-                    li.textContent = itemTexto;
+                    li.textContent = itemTexto; // Exibe o texto exatamente como está no JSON
                     listaItens.appendChild(li);
                 });
                 card.appendChild(listaItens);
 
+                // 3. Pergunta Final (se houver)
                 if (questao.enunciado_pergunta) {
                     const perguntaFinal = document.createElement('p');
-                    perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold';
+                    perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold'; // Destaque para a pergunta
                     perguntaFinal.textContent = questao.enunciado_pergunta;
                     card.appendChild(perguntaFinal);
                 }
+
             } else {
-                // Versão Simples
+                // --- Versão Simples (Como estava antes) ---
                 const enunciado = document.createElement('p');
                 enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
+                // Usa o 'enunciado' principal ou um 'enunciado_principal' se for o único
                 enunciado.textContent = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
                 card.appendChild(enunciado);
             }
@@ -674,7 +681,6 @@
             const separadores = divQuestoes.querySelectorAll('hr');
             let ultimoCardVisivel = null;
 
-            // ***** AJUSTE NOS BOTÕES DE FILTRO *****
             // Reseta a aparência de todos os botões de filtro
             btnFiltroTodas.classList.remove('bg-blue-600', 'text-white');
             btnFiltroTodas.classList.add('bg-gray-200', 'text-gray-700');
@@ -712,7 +718,6 @@
                 btnFiltroSinalizadas.classList.add('bg-blue-600', 'text-white');
                 btnFiltroSinalizadas.classList.remove('bg-gray-200', 'text-gray-700');
             }
-            // ***** FIM DO AJUSTE *****
 
             // Esconde HRs que ficaram "pendurados" (após um card oculto)
             separadores.forEach(hr => {
@@ -803,10 +808,14 @@
             let contexto = "Considere a seguinte questão de concurso:\n\n";
             if (questao.enunciado_principal && questao.itens_assertiva) {
                 contexto += `Enunciado Principal: ${questao.enunciado_principal}\n\nItens:\n`;
+                
+                // ***** AJUSTE APLICADO AQUI *****
+                // Remove a adição manual dos numerais romanos
                 (questao.itens_assertiva || []).forEach((item, index) => {
-                    const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII'][index];
-                    contexto += `${roman}. ${item}\n`;
+                    contexto += `${item}\n`; // Apenas adiciona o texto do item
                 });
+                // ***** FIM DO AJUSTE *****
+
                 if (questao.enunciado_pergunta) {
                     contexto += `\nPergunta: ${questao.enunciado_pergunta}\n`;
                 }
@@ -821,7 +830,7 @@
 
             const promptCompleto = `${promptPredefinido}\n\n${contexto}`;
             const urlQuery = encodeURIComponent(promptCompleto);
-            const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
+            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
             window.open(googleUrl, '_blank');
         }
 
