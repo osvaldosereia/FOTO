@@ -1,0 +1,317 @@
+[
+{
+"id": "98214736",
+"metadata": "Ano: 2019 | Banca: IDIB | Órgão: Prefeitura de Petrolina - PE",
+"enunciado_principal": "A respeito das disposições constitucionais aplicáveis ao Direito Penal, analise os itens a seguir:",
+"itens_assertiva": [
+"I. O princípio penal do “non bis in idem”, embora não incluído expressamente na Constituição Federal, tem fundamento no Estado Democrático de Direito.",
+"II. É possível se estabelecer sanção penal sem lei anterior, desde que para beneficiar o réu.",
+"III. O princípio da presunção de inocência, expresso na Constituição Federal, é uma consequência da proibição da responsabilidade objetiva no direito penal brasileiro."
+],
+"enunciado_pergunta": "Analisados os itens, pode-se afirmar corretamente que:",
+"alternativas": [
+{ "letra": "A", "texto": "Apenas o item I está correto." },
+{ "letra": "B", "texto": "Apenas o item II está correto." },
+{ "letra": "C", "texto": "Apenas o item III está correto." },
+{ "letra": "D", "texto": "Apenas os itens I e II estão corretos." },
+{ "letra": "E", "texto": "Apenas os itens II e III estão corretos." }
+],
+"gabarito": "A"
+},
+{
+"id": "50129384",
+"metadata": "Ano: 2019 | Banca: Instituto Acesso | Órgão: PC-ES",
+"enunciado_principal": "O sistema penal é composto por órgãos de naturezas jurídicas distintas com funções, dentre outras, de caráter investigativo, repressivo, jurisdicional e prisional. É sabido que os números de letalidade no exercício de tais funções, tanto de civis quanto de agentes do sistema penal têm aumentado nos últimos anos. Por conta dessa informação, será preciso promover uma política pública em âmbito penal que reverbere na diminuição de tal letalidade. (BATISTA, Nilo. Introdução Crítica ao Direito Penal Brasileiro. 11. ed. Rio de Janeiro: Revan, 2007)",
+"itens_assertiva": [],
+"enunciado_pergunta": "Identifique a alternativa correta que contenha os princípios que fundamentam o Direito Penal, e que mostrem que sua observância se torna importante para o embasamento da referida política pública.",
+"alternativas": [
+{ "letra": "A", "texto": "Mínima letalidade/ letalidade controlada/ tutela civil e tutela penal/ livre iniciativa." },
+{ "letra": "B", "texto": "Mínimo proporcional/ reserva do possível/ humanidade/ lesividade." },
+{ "letra": "C", "texto": "Legalidade / proporcionalidade / penalidade / legítima defesa." },
+{ "letra": "D", "texto": "Intervenção mínima/ legalidade / lesividade / adequação social." },
+{ "letra": "E", "texto": "Devido processo legal/ contraditório e ampla defesa/ proximidade de jurisdição / proporcionalidade." }
+],
+"gabarito": "D"
+},
+{
+"id": "34781290",
+"metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+"enunciado_principal": "Sobre a legislação extravagante ao Código Penal e a jurisprudência majoritária do Superior Tribunal de Justiça, analise as afirmativas a seguir.",
+"itens_assertiva": [
+"I. A prática de crime ou contravenção penal contra a mulher no ambiente doméstico impossibilita a substituição da pena privativa de liberdade por restritiva de direitos.",
+"II. Não é possível a aplicação dos princípios da insignificância e da bagatela imprópria nos delitos praticados com violência ou grave ameaça no âmbito das relações domésticas e familiares.",
+"III. O descumprimento de medida protetiva de urgência antes do acréscimo do art. 24-A à Lei Maria da Penha configurava o crime de desobediência, previsto no art. 330 do Código Penal.",
+"IV. Demonstrada por laudo pericial a inaptidão da arma de fogo para o disparo, é atípica a conduta de portar ou de possuir arma de fogo, diante da ausência de afetação do bem jurídico incolumidade pública, tratando-se de crime impossível pela ineficácia absoluta do meio.",
+"V. É materialmente atípica, pela aplicação do Princípio da Insignificância, a conduta de portar ou possuir ínfima quantidade de munição, aliada à ausência do artefato capaz de disparar o projétil, que denote a incapacidade de gerar perigo à incolumidade pública."
+],
+"enunciado_pergunta": "Está incorreto o que se afirma em",
+"alternativas": [
+{ "letra": "A", "texto": "I e IV, apenas." },
+{ "letra": "B", "texto": "IV e V, apenas." },
+{ "letra": "C", "texto": "I e III, apenas." },
+{ "letra": "D", "texto": "II e V, apenas." }
+],
+"gabarito": "C"
+},
+{
+"id": "21098475",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: CGE - CE",
+"enunciado_principal": "O desvio punível não é o que, por características intrínsecas ou ontológicas, é reconhecido em cada ocasião como imoral, como naturalmente anormal, como socialmente lesivo ou coisa semelhante. É aquele formal e previamente indicado pela lei como pressuposto necessário para a aplicação de uma pena. Luigi Ferrajoli. Direito e razão : teoria do garantismo penal. 3.ª ed. São Paulo: RT, 2002, p. 30 (com adaptações).",
+"itens_assertiva": [],
+"enunciado_pergunta": "O texto precedente faz referência, principalmente, aos princípios penais da",
+"alternativas": [
+{ "letra": "A", "texto": "legalidade e da anterioridade." },
+{ "letra": "B", "texto": "anterioridade e da individualização da pena." },
+{ "letra": "C", "texto": "culpabilidade e da extra-atividade da lei penal." },
+{ "letra": "D", "texto": "individualização da pena e da culpabilidade." },
+{ "letra": "E", "texto": "extra-atividade da lei penal e da legalidade." }
+],
+"gabarito": "A"
+},
+{
+"id": "65432109",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+"enunciado_principal": "Aplicado no direito penal brasileiro, o princípio da alteridade",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "determina que o juiz analise as especificidades do fato e do autor do fato durante o processo dosimétrico." },
+{ "letra": "B", "texto": "assevera que a pena não passará da pessoa do condenado." },
+{ "letra": "C", "texto": "afasta a tipicidade material de fatos criminosos, ao definir que não haverá crime sem ofensa significativa ao bem tutelado." },
+{ "letra": "D", "texto": "reconhece que o direito penal deve abarcar o máximo de bens possíveis para promover a paz." },
+{ "letra": "E", "texto": "assinala que, para haver crime, a conduta humana deve colocar em risco ou lesar bens de terceiros, e é proibida a incriminação de atitudes que não excedam o âmbito do próprio autor." }
+],
+"gabarito": "E"
+},
+{
+"id": "77890123",
+"metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+"enunciado_principal": "O art. 1º do Código Penal afirma que não há crime sem lei anterior que o defina e que não há pena sem prévia cominação legal. O mencionado dispositivo corresponde a qual princípio de direito penal?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Princípio da legalidade." },
+{ "letra": "B", "texto": "Princípio da proibição de pena indigna." },
+{ "letra": "C", "texto": "Princípio da proporcionalidade" },
+{ "letra": "D", "texto": "Princípio da igualdade." },
+{ "letra": "E", "texto": "Princípio da austeridade." }
+],
+"gabarito": "A"
+},
+{
+"id": "14785236",
+"metadata": "Ano: 2019 | Banca: INAZ do Pará | Órgão: CORE-PE",
+"enunciado_principal": "“O Direito Penal, como também os demais ramos do ordenamento jurídico, fundamentam-se em determinados princípios como elementos essenciais e diretores, em sua maioria juridicizados, seja em nível constitucional, seja não constitucional” (PRADO, 2017, p. 78). Qual a alternativa que apresenta afirmações corretas sobre o princípio da legalidade ou da reserva legal?",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "A partir da Revolução Francesa, converte-se em uma exigência de segurança jurídica e de garantia individual. O seu fundamento político radica principalmente na função de garantia da liberdade do cidadão ante a intervenção estatal arbitrária, por meio da realização da certeza do direito." },
+{ "letra": "B", "texto": "A exigência de responsabilidade subjetiva quer dizer que, havendo delito doloso ou culposo, a consequência jurídica deve ser proporcional ou adequada à gravidade do desvalor da ação representado pelo dolo ou culpa, que integra, na verdade, o tipo de injusto e não de culpa." },
+{ "letra": "C", "texto": "Abrange a ideia de ofensividade ou lesividade, visto que esta última é conata ao delito que necessariamente há de pressupor uma lesão ou perigo de lesão a determinado bem jurídico. Ademais, é de interesse observar que a noção de ofensa ou perigo de ofensa é passível de graduação a maior ou a menor." },
+{ "letra": "D", "texto": "Estabelece que o Direito Penal só deve atuar na defesa dos bens jurídicos imprescindíveis à coexistência pacífica dos homens e que não podem ser eficazmente protegidos de forma menos gravosa. Isso porque a sanção penal reveste-se de especial gravidade, acabando por impor as mais sérias restrições aos direitos fundamentais." },
+{ "letra": "E", "texto": "Vincula-se estreitamente aos postulados da imputação subjetiva e da culpabilidade. A responsabilidade penal é sempre pessoal ou subjetiva - própria do ser humano - e decorrente apenas de sua ação ou omissão, não sendo admitida nenhuma outra forma ou espécie." }
+],
+"gabarito": "A"
+},
+{
+"id": "90123456",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+"enunciado_principal": "O art. 1.º do Código Penal brasileiro dispõe que “não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal”. Considerando esse dispositivo legal, bem como os princípios e as repercussões jurídicas dele decorrentes, julgue o item que se segue.",
+"itens_assertiva": [
+"A norma penal deve ser instituída por lei em sentido estrito, razão por que é proibida, em caráter absoluto, a analogia no direito penal, seja para criar tipo penal incriminador, seja para fundamentar ou alterar a pena."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "40596871",
+"metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+"enunciado_principal": "De acordo com a doutrina predominante no Brasil relativamente aos princípios aplicáveis ao direito penal, assinale a opção correta.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O princípio da taxatividade, ou do mandado de certeza, preconiza que a lei penal seja concreta e determinada em seu conteúdo, sendo vedados os tipos penais abertos." },
+{ "letra": "B", "texto": "O princípio da bagatela imprópria implica a atipicidade material de condutas causadoras de danos ou de perigos ínfimos." },
+{ "letra": "C", "texto": "O princípio da subsidiariedade determina que o direito penal somente tutele uma pequena fração dos bens jurídicos protegidos, operando nas hipóteses em que se verificar lesão ou ameaça de lesão mais intensa aos bens de maior relevância." },
+{ "letra": "D", "texto": "O princípio da ofensividade, segundo o qual não há crime sem lesão efetiva ou concreta ao bem jurídico tutelado, não permite que o ordenamento jurídico preveja crimes de perigo abstrato." },
+{ "letra": "E", "texto": "O princípio da adequação social serve de parâmetro ao legislador, que deve buscar afastar a tipificação criminal de condutas consideradas socialmente adequadas." }
+],
+"gabarito": "E"
+},
+{
+"id": "81234567",
+"metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+"enunciado_principal": "Assinale a alternativa que contém os princípios constitucionais explícitos aplicáveis ao Direito Penal.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Da adequação social – da proporcionalidade – da intranscendência." },
+{ "letra": "B", "texto": "Da dignidade da pessoa humana – da legalidade – da anterioridade legal." },
+{ "letra": "C", "texto": "Da fragmentariedade – do ne bis in idem ou da vedação do duplo apenamento – da humanidade." },
+{ "letra": "D", "texto": "Da culpabilidade – da Insignificância ou bagatela – da subsidiariedade." },
+{ "letra": "E", "texto": "Da reserva legal – da alteridade ou transcendentalidade – da intervenção mínima." }
+],
+"gabarito": "B"
+},
+{
+"id": "76543210",
+"metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+"enunciado_principal": "“Os bens jurídicos mais importantes recebem a proteção do Direito Penal contra as formas mais graves de agressão” (PRADO, 1996, p.8). Em torno do bem jurídico, analise as assertivas e identifique com V as verdadeiras e com F as falsas.",
+"itens_assertiva": [
+"( ) As orientações espiritualistas que foram influenciadas pela filosofia neokantiana, na esfera penal, desenvolveram a concepção metodológica ou teleológico-metodológica de bem jurídico.",
+"( ) O bem jurídico, conforme a diretriz do neokantismo, é entendido como um valor cultural, porém não situado apenas no “plano social”, porque ao delito é atribuído valor econômico.",
+"( ) A essência da noção de bem jurídico tutelado reside apenas na natureza dos bens e valores que a determinaram, e não da descrição legal respectiva.",
+"( ) A função teleológica ou interpretativa revela que o bem jurídico constitui o núcleo da norma e do tipo penal.",
+"( ) Não há distinção entre a noção de bem jurídico e objeto da ação, uma vez que o objeto material é uma característica comum a qualquer delito."
+],
+"enunciado_pergunta": "A alternativa que contém a sequência correta, de cima para baixo, é",
+"alternativas": [
+{ "letra": "A", "texto": "V V V F V" },
+{ "letra": "B", "texto": "V F V V F" },
+{ "letra": "C", "texto": "V V F V F" },
+{ "letra": "D", "texto": "F V F V F" },
+{ "letra": "E", "texto": "F F V F V" }
+],
+"gabarito": "C"
+},
+{
+"id": "38901245",
+"metadata": "Ano: 2018 | Banca: FCC | Órgão: MPE-PE",
+"enunciado_principal": "Não há crime sem lesão efetiva ou ameaça concreta ao bem jurídico tutelado. Tal enunciado refere-se ao princípio da",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "proporcionalidade." },
+{ "letra": "B", "texto": "intervenção mínima." },
+{ "letra": "C", "texto": "ofensividade." },
+{ "letra": "D", "texto": "bagatela imprópria." },
+{ "letra": "E", "texto": "alteridade." }
+],
+"gabarito": "C"
+},
+{
+"id": "67890123",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-MG",
+"enunciado_principal": "Conforme o direito penal brasileiro, o princípio da reserva legal",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "admite excepcionalmente que medidas provisórias disponham sobre tipos penais." },
+{ "letra": "B", "texto": "é um desdobramento do princípio da pessoalidade." },
+{ "letra": "C", "texto": "permite que o Estado puna somente o agente imputável, penalmente capaz." },
+{ "letra": "D", "texto": "não incide nas contravenções penais." },
+{ "letra": "E", "texto": "estabelece que normas penais incriminadoras sejam criadas somente mediante lei." }
+],
+"gabarito": "E"
+},
+{
+"id": "90128374",
+"metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+"enunciado_principal": "De acordo com a Jurisprudência sumulada do Superior Tribunal de Justiça, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O princípio da insignificância é inaplicável aos crimes contra a administração pública." },
+{ "letra": "B", "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida." },
+{ "letra": "C", "texto": "O mandado de segurança não se presta para atribuir efeito suspensivo a recurso criminal interposto pelo Ministério Público." },
+{ "letra": "D", "texto": "Compete ao juízo do local da falsificação do cheque processar e julgar crime de estelionato nessa modalidade, sendo irrelevante o local da obtenção da vantagem ilícita." }
+],
+"gabarito": "D"
+},
+{
+"id": "23456789",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+"enunciado_principal": "Julgue o item seguinte, relativo aos direitos e deveres individuais e coletivos e às garantias constitucionais.",
+"itens_assertiva": [
+"Em razão do princípio da legalidade penal, a tipificação de conduta como crime deve ser feita por meio de lei em sentido material, não se exigindo, em regra, a lei em sentido formal."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "11223344",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+"enunciado_principal": "A fim de garantir o sustento de sua família, Pedro adquiriu 500 CDs e DVDs piratas para posteriormente revendê-los. Certo dia, enquanto expunha os produtos para venda em determinada praça pública de uma cidade brasileira, Pedro foi surpreendido por policiais, que apreenderam a mercadoria e o conduziram coercitivamente até a delegacia. Com referência a essa situação hipotética, julgue o item subsequente.",
+"itens_assertiva": [
+"O princípio da adequação social se aplica à conduta de Pedro, de modo que se revoga o tipo penal incriminador em razão de se tratar de comportamento socialmente aceito."
+],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "Certo" },
+{ "letra": "B", "texto": "Errado" }
+],
+"gabarito": "B"
+},
+{
+"id": "55667788",
+"metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+"enunciado_principal": "Sobre o princípio da legalidade, assinale a alternativa INCORRETA.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "É considerado por setor da doutrina como restrição deontológica de segundo grau, que não admite exceções." },
+{ "letra": "B", "texto": "Tem como destinatários tanto o Juiz quanto o legislador e, no processo judicial, incide não apenas na fase de conhecimento, como também na fase de execução das penas." },
+{ "letra": "C", "texto": "Tem como consectários a proibição de analogia em Direito Penal, de irretroatividade da lei penal gravosa, de utilização dos costumes para fundamentar ou agravar a pena e de criação de leis penais indeterminadas ou imprecisas." },
+{ "letra": "D", "texto": "Tem âmbito de aplicação mais abrangente do que indica o teor literal da fórmula em latim “Nulla poena sine lege; nulla poena sine crimine; nullum crimen sine poena legali” , pois abrange crimes e contravenções penais, além de penas e medidas de segurança." }
+],
+"gabarito": "C"
+},
+{
+"id": "43210987",
+"metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+"enunciado_principal": "A respeito das disposições constitucionais aplicáveis ao direito penal, é incorreto afirmar:",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei." },
+{ "letra": "B", "texto": "a lei penal não retroagirá, salvo para beneficiar o réu." },
+{ "letra": "C", "texto": "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal." },
+{ "letra": "D", "texto": "a criação de crimes e penas por meio de medida provisória não ofende o princípio da legalidade." },
+{ "letra": "E", "texto": "nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido." }
+],
+"gabarito": "D"
+},
+{
+"id": "87654321",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+"enunciado_principal": "Com base na jurisprudência dos tribunais superiores, julgue os itens seguintes, a respeito dos crimes contra o patrimônio e contra a propriedade imaterial.",
+"itens_assertiva": [
+"I No caso de furto qualificado, não é possível o reconhecimento do privilégio da substituição da pena de reclusão pela de detenção nem a diminuição da pena de um a dois terços ou a aplicação somente da pena de multa.",
+"II É possível a aplicação do princípio da insignificância no caso de crime de apropriação indébita previdenciária.",
+"III Em crime de latrocínio, a ocorrência de duas mortes e de uma única subtração configura concurso formal de crimes.",
+"IV A exposição à venda de CDs e DVDs pirateados, apesar de violar o direito autoral, atrai a aplicação do princípio da insignificância."
+],
+"enunciado_pergunta": "Estão certos apenas os itens",
+"alternativas": [
+{ "letra": "A", "texto": "I e II." },
+{ "letra": "B", "texto": "I e IV." },
+{ "letra": "C", "texto": "II e III." },
+{ "letra": "D", "texto": "I, III e IV." },
+{ "letra": "E", "texto": "II, III e IV." }
+],
+"gabarito": "C"
+},
+{
+"id": "20938475",
+"metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+"enunciado_principal": "Um homem, maior de idade e capaz, foi preso em flagrante por ter subtraído duas garrafas de uísque de um supermercado. A observação da ação delituosa por meio do sistema de vídeo do estabelecimento permitiu aos seguranças a detenção do homem no estacionamento e a recuperação do produto furtado. O valor do produto subtraído equivalia a pouco mais de um terço do valor do salário mínimo vigente à época. Na fase investigatória, constatou-se que o agente do delito possuía condenação transitada em julgado por fato semelhante e que respondia por outras três ações penais em curso. Tendo como referência essa situação hipotética, assinale a opção correta, considerando a jurisprudência dos tribunais superiores.",
+"itens_assertiva": [],
+"enunciado_pergunta": "",
+"alternativas": [
+{ "letra": "A", "texto": "O acusado poderá ser absolvido com base no princípio da insignificância, já que o valor dos objetos subtraídos era ínfimo e estes foram integralmente restituídos ao supermercado." },
+{ "letra": "B", "texto": "Em razão da existência de sistema de monitoramento de vídeo no supermercado, trata-se de crime impossível por ineficácia absoluta do meio empregado." },
+{ "letra": "C", "texto": "Não houve a consumação do furto, porque o homem foi preso em flagrante logo depois de evadir-se do supermercado." },
+{ "letra": "D", "texto": "A reincidência do acusado não é motivo suficiente para afastar a aplicação do princípio da insignificância." },
+{ "letra": "E", "texto": "Não cabe ao caso a compensação integral da atenuante de confissão espontânea e da agravante de reincidência específica." }
+],
+"gabarito": "D"
+}
+]
