@@ -54,6 +54,12 @@
             max-height: 300px; /* Ajuste conforme a altura máxima dos seus botões */
             transition: max-height 0.3s ease-in;
         }
+        
+        /* ***** NOVO ESTILO ADICIONADO ***** */
+        /* Adiciona suporte para listas com numerais romanos (I, II, III...) */
+        .list-upper-roman {
+            list-style-type: upper-roman;
+        }
     </style>
 </head>
 <body class="bg-gray-100">
@@ -121,6 +127,14 @@
          * Inicializa o simulador ao carregar a página.
          */
         function init() {
+            // Validação: Verifica se o config.js foi carregado
+            if (typeof dbDisciplinas === 'undefined') {
+                console.error("ERRO CRÍTICO: O ficheiro config.js não foi carregado ou está vazio.");
+                divStatus.innerHTML = `<p class="font-semibold text-red-600">Erro Crítico.</p>
+                                       <p class="text-sm text-gray-500 mt-1">O ficheiro <b>config.js</b> não foi encontrado ou está vazio. Verifique o console (F12) para mais detalhes.</p>`;
+                return; 
+            }
+            
             popularDisciplinas();
             // Adiciona os listeners de eventos
             selectDisciplina.addEventListener('change', () => {
@@ -157,12 +171,7 @@
             
             selectTema.innerHTML = ''; // Limpa opções anteriores
             
-            // ***** CORREÇÃO APLICADA AQUI *****
-            // 1. Corrigido o bug [object Object] que você viu no screenshot.
-            // 2. Lendo a nova estrutura de 'temas' do config.js
             for (const [chave, valorObj] of Object.entries(temas)) {
-                // Agora 'valorObj' é { nome: "Calúnia", provas: 10 }
-                // Usamos 'valorObj.nome' para o texto exibido.
                 const option = new Option(valorObj.nome, chave);
                 selectTema.add(option);
             }
@@ -192,33 +201,24 @@
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
 
-            // ***** ALTERAÇÃO APLICADA AQUI *****
-            // Busca o número de provas diretamente do objeto 'dbDisciplinas'
             const temaInfo = dbDisciplinas[disciplinaKey]?.temas[temaKey];
             
-            // Validação para garantir que o config.js está correto
             if (!temaInfo || !temaInfo.provas || temaInfo.provas === 0) {
                 console.error("Informação de tema não encontrada ou 'provas' não definido (ou é 0) em config.js", temaInfo);
                 divStatus.innerHTML = `
                     <p class="font-semibold text-red-600">Erro de configuração.</p>
                     <p class="text-sm text-gray-500 mt-1">O tema selecionado (<b>${temaKey}</b>) não tem um número de provas (<b>provas: ...</b>) definido no arquivo <b>config.js</b>.</p>
                 `;
-                return; // Para a execução se o config.js estiver errado
+                return; 
             }
             
-            // 1. Pega o número de provas (ex: 4)
             const numProvas = temaInfo.provas; 
-            
-            // 2. Sorteia um número de 1 até o número máximo de provas
             const provaNum = Math.floor(Math.random() * numProvas) + 1;
-            
-            // 3. Monta a URL (ex: p1.json, p2.json, p3.json ou p4.json)
             const url = `data/${disciplinaKey}/${temaKey}/p${provaNum}.json`;
 
             console.log(`Tentando carregar: ${url}`);
             
-            // Atualiza UI para estado de carregamento
-            divQuestoes.innerHTML = ''; // Limpa a prova anterior (se houver)
+            divQuestoes.innerHTML = ''; 
             divStatus.textContent = 'Carregando prova...';
             divStatus.classList.remove('hidden');
             btnCarregarProva.disabled = true;
@@ -229,7 +229,6 @@
                     throw new Error(`Arquivo não encontrado ou erro na rede (Status: ${response.status})`);
                 }
                 
-                // O JSON deve ser um array de questões
                 const questoes = await response.json(); 
                 
                 if (!Array.isArray(questoes) || questoes.length === 0) {
@@ -293,20 +292,56 @@
             metadata.textContent = `Questão ${numero} | ${questao.metadata || 'Sem metadados'}`;
             card.appendChild(metadata);
 
-            // 2. Enunciado
-            const enunciado = document.createElement('p');
-            enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
-            enunciado.textContent = questao.enunciado;
-            card.appendChild(enunciado);
+            // ***** LÓGICA DO ENUNCIADO ATUALIZADA *****
+            // Verifica se é uma questão complexa (com assertivas) ou simples
+            
+            if (questao.enunciado_principal && questao.itens_assertiva) {
+                // --- Versão Profissional (Questão Complexa) ---
+                
+                // 1. Enunciado Principal
+                const enunciadoPrincipal = document.createElement('p');
+                enunciadoPrincipal.className = 'text-base md:text-lg text-gray-800 mb-4 leading-relaxed';
+                enunciadoPrincipal.textContent = questao.enunciado_principal;
+                card.appendChild(enunciadoPrincipal);
 
-            // 3. Alternativas
+                // 2. Itens da Assertiva (Lista Ordenada com Numerais Romanos)
+                const listaItens = document.createElement('ol');
+                // Adiciona as classes para estilo: numerais romanos, recuo e espaçamento
+                listaItens.className = 'list-upper-roman list-inside space-y-3 mb-4 pl-5 text-base md:text-lg text-gray-800 leading-relaxed';
+                
+                (questao.itens_assertiva || []).forEach(itemTexto => {
+                    const li = document.createElement('li');
+                    li.textContent = itemTexto;
+                    listaItens.appendChild(li);
+                });
+                card.appendChild(listaItens);
+
+                // 3. Pergunta Final (se houver)
+                if (questao.enunciado_pergunta) {
+                    const perguntaFinal = document.createElement('p');
+                    perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold'; // Destaque para a pergunta
+                    perguntaFinal.textContent = questao.enunciado_pergunta;
+                    card.appendChild(perguntaFinal);
+                }
+
+            } else {
+                // --- Versão Simples (Como estava antes) ---
+                const enunciado = document.createElement('p');
+                enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
+                // Usa o 'enunciado' principal ou um 'enunciado_principal' se for o único
+                enunciado.textContent = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
+                card.appendChild(enunciado);
+            }
+            // ***** FIM DA LÓGICA DO ENUNCIADO *****
+
+
+            // 3. Alternativas (continua igual)
             const alternativasContainer = document.createElement('div');
             alternativasContainer.className = 'space-y-3';
             
             (questao.alternativas || []).forEach(alt => {
                 const altItem = document.createElement('div');
                 altItem.className = 'alternativa-item flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer transition-all duration-200 hover:bg-gray-50';
-                // Usamos ml-4 para o recuo pedido
                 altItem.style.marginLeft = '1rem'; 
                 altItem.dataset.letra = alt.letra;
                 
@@ -315,7 +350,6 @@
                     <span class="ml-2 text-gray-700">${alt.texto}</span>
                 `;
                 
-                // Adiciona o listener para verificar a resposta
                 altItem.addEventListener('click', () => {
                     verificarResposta(card, altItem, questao.gabarito);
                 });
@@ -324,15 +358,14 @@
             });
             card.appendChild(alternativasContainer);
 
-            // 4. Gabarito (Oculto)
+            // 4. Gabarito (Oculto) (continua igual)
             const gabaritoDisplay = document.createElement('div');
             gabaritoDisplay.className = 'gabarito-oculto hidden mt-4 p-3 bg-blue-50 border border-blue-200 text-blue-800 rounded-md font-medium';
             gabaritoDisplay.textContent = `Gabarito: ${questao.gabarito}`;
             card.appendChild(gabaritoDisplay);
 
-            // 5. Botão principal e sub-botões de IA
+            // 5. Botão principal e sub-botões de IA (continua igual)
             const mainAiButtonContainer = document.createElement('div');
-            // Mobile: centralizado e largo; Desktop: alinhado à esquerda
             mainAiButtonContainer.className = 'mt-5 pt-4 border-t border-gray-100 flex flex-col items-center sm:items-start';
 
             const mainAiButton = document.createElement('button');
@@ -350,14 +383,13 @@
 
             mainAiButton.addEventListener('click', () => {
                 subButtonsContainer.classList.toggle('expanded');
-                // Altera o ícone do botão principal para indicar expansão/colapso
                 const icon = mainAiButton.querySelector('svg');
                 if (subButtonsContainer.classList.contains('expanded')) {
                     icon.classList.remove('rotate-0');
-                    icon.classList.add('rotate-180'); // Rotaciona para baixo
+                    icon.classList.add('rotate-180');
                 } else {
                     icon.classList.remove('rotate-180');
-                    icon.classList.add('rotate-0'); // Volta para cima
+                    icon.classList.add('rotate-0');
                 }
             });
 
@@ -441,19 +473,38 @@
          * @param {string} promptPredefinido - O prompt específico a ser enviado.
          */
         function abrirGoogleIA(questao, promptPredefinido) {
-            // 1. Monta o contexto da questão
-            let contexto = `Considere a seguinte questão de concurso:\n\nEnunciado: ${questao.enunciado}\n\nAlternativas:\n`;
+            
+            // 1. Monta o contexto da questão (agora inteligente)
+            let contexto = "Considere a seguinte questão de concurso:\n\n";
+
+            if (questao.enunciado_principal && questao.itens_assertiva) {
+                // Contexto para questão complexa
+                contexto += `Enunciado Principal: ${questao.enunciado_principal}\n\nItens:\n`;
+                (questao.itens_assertiva || []).forEach((item, index) => {
+                    // Adiciona manualmente o numeral romano para a IA entender
+                    const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII'][index];
+                    contexto += `${roman}. ${item}\n`;
+                });
+                if (questao.enunciado_pergunta) {
+                    contexto += `\nPergunta: ${questao.enunciado_pergunta}\n`;
+                }
+            } else {
+                // Contexto para questão simples
+                contexto += `Enunciado: ${questao.enunciado || questao.enunciado_principal}\n`;
+            }
+            
+            contexto += "\nAlternativas:\n";
             (questao.alternativas || []).forEach(alt => {
                 contexto += `${alt.letra}) ${alt.texto}\n`;
             });
-            contexto += `\nGabarito: ${questao.gabarito}\n\n`; // Incluir gabarito para IA ter contexto completo.
+            contexto += `\nGabarito: ${questao.gabarito}\n\n`;
 
             // 2. Monta e codifica o prompt final
             const promptCompleto = `${promptPredefinido}\n\n${contexto}`;
             const urlQuery = encodeURIComponent(promptCompleto);
             
             // 3. Abre o Google Search (com o objetivo de ativar o modo IA)
-            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
+            const googleUrl = `https://www.google.com/search?q=${urlQuery}`;
             
             window.open(googleUrl, '_blank');
         }
