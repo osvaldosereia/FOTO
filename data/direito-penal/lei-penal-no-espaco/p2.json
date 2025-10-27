@@ -1,5 +1,3 @@
-Os 20 itens extraídos das fontes foram reescritos no formato JSON solicitado, com novos IDs aleatórios de 8 dígitos e o gabarito ajustado para as questões do tipo Certo/Errado (Certo = A | Errado = B).
-
 [
 {
 "id": "11234567",
