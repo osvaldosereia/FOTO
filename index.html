@@ -127,7 +127,7 @@
                 </div>
             </div>
 
-            <!-- Linha 2: Histórico (LocalStorage) -->
+            <!-- Linha 2: Histórico (LocalStorage) - Agora só aparece APÓS carregar prova específica -->
             <div id="divHistorico" class="hidden mt-4 p-3 bg-blue-50 border border-blue-200 rounded-md text-sm text-blue-800">
                 <!-- Histórico carregado via JS -->
             </div>
@@ -238,6 +238,7 @@
         let respostasUsuario = {}; // Armazena { "q1": "A", "q2": "C", ... }
         let cronometroInterval = null;
         let segundosCronometro = 0;
+        let urlProvaAtual = null; // Armazena a URL da prova carregada
 
         // --- 4. Funções Principais ---
 
@@ -257,12 +258,12 @@
             
             // --- Listeners de Eventos ---
             selectDisciplina.addEventListener('change', () => {
-                popularTemas(); // Popula temas E carrega o histórico
+                popularTemas(); 
                 resetarEstadoProva();
             });
             selectTema.addEventListener('change', () => {
                 resetarEstadoProva();
-                carregarHistoricoTema(); // Carrega histórico ao mudar tema
+                // A verificação do histórico agora é feita em carregarProva()
             });
             checkModoProva.addEventListener('change', resetarEstadoProva);
             
@@ -301,11 +302,11 @@
                 const option = new Option(valor.nome, chave);
                 selectDisciplina.add(option);
             }
-            popularTemas(); // Carrega os temas (e o histórico) da primeira disciplina
+            popularTemas(); // Carrega os temas da primeira disciplina
         }
 
         /**
-         * Popula o dropdown de Temas e carrega o histórico salvo.
+         * Popula o dropdown de Temas.
          */
         function popularTemas() {
             const disciplinaKey = selectDisciplina.value;
@@ -316,25 +317,34 @@
                 const option = new Option(valorObj.nome, chave);
                 selectTema.add(option);
             }
-            // Após popular, carrega o histórico para o tema selecionado
-            carregarHistoricoTema();
+            // Histórico não é mais carregado aqui
         }
 
         /**
-         * Carrega o desempenho anterior do localStorage.
+         * Carrega e exibe o desempenho anterior SE for da mesma prova.
+         * Chamado DEPOIS que a prova é carregada com sucesso.
+         * @param {string} urlProvaCarregada - A URL completa da prova que acabou de carregar.
          */
-        function carregarHistoricoTema() {
+        function carregarHistoricoProvaEspecifica(urlProvaCarregada) {
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
-            const storageKey = `meujus-${disciplinaKey}-${temaKey}`;
+            const storageKey = `meujus-${disciplinaKey}-${temaKey}`; // A chave ainda é por TEMA
             
-            const historico = localStorage.getItem(storageKey);
+            const historicoJSON = localStorage.getItem(storageKey);
+            divHistorico.classList.add('hidden'); // Esconde por padrão
             
-            if (historico) {
-                divHistorico.textContent = `Último resultado neste tema: ${historico}`;
-                divHistorico.classList.remove('hidden');
-            } else {
-                divHistorico.classList.add('hidden');
+            if (historicoJSON) {
+                try {
+                    const historicoData = JSON.parse(historicoJSON);
+                    // Compara a URL salva com a URL da prova atual
+                    if (historicoData && historicoData.prova === urlProvaCarregada) {
+                        divHistorico.textContent = `Último resultado nesta prova específica: ${historicoData.score}`;
+                        divHistorico.classList.remove('hidden');
+                    }
+                } catch (e) {
+                    console.error("Erro ao parsear histórico do localStorage:", e);
+                    localStorage.removeItem(storageKey); // Limpa dado inválido
+                }
             }
         }
 
@@ -345,11 +355,13 @@
             pararCronometro();
             divCronometro.classList.add('hidden');
             divPlacar.classList.add('hidden');
+            divHistorico.classList.add('hidden'); // Garante que histórico some
             divQuestoes.innerHTML = ''; 
             
             provaCarregada = false;
             provaFinalizada = false;
             respostasUsuario = {};
+            urlProvaAtual = null; // Reseta URL da prova
             
             btnCarregarProva.textContent = 'Carregar Prova';
             btnCarregarProva.classList.remove('bg-gray-600', 'hover:bg-gray-700', 'bg-red-600', 'hover:bg-red-700');
@@ -364,7 +376,7 @@
          */
         async function carregarProva() {
             // Reseta tudo antes de carregar
-            resetarEstadoProva();
+            resetarEstadoProva(); 
             divStatus.textContent = 'Carregando prova...';
             
             const disciplinaKey = selectDisciplina.value;
@@ -378,7 +390,7 @@
             
             const numProvas = temaInfo.provas; 
             const provaNum = Math.floor(Math.random() * numProvas) + 1;
-            const url = `data/${disciplinaKey}/${temaKey}/p${provaNum}.json`;
+            const url = `data/${disciplinaKey}/${temaKey}/p${provaNum}.json`; // Guarda a URL gerada
 
             console.log(`Tentando carregar: ${url}`);
             btnCarregarProva.disabled = true;
@@ -393,6 +405,8 @@
                 exibirProva(questoes.slice(0, 20)); // Limita a 20 questões
 
                 // Sucesso
+                urlProvaAtual = url; // Armazena a URL da prova carregada com sucesso
+                carregarHistoricoProvaEspecifica(urlProvaAtual); // Verifica e exibe histórico SE for a mesma prova
                 divStatus.classList.add('hidden');
                 provaCarregada = true;
 
@@ -470,39 +484,30 @@
             // 2. Lógica do Enunciado (Simples vs. Complexo)
             if (questao.enunciado_principal && questao.itens_assertiva) {
                 // --- Versão Profissional (Questão Complexa) ---
-                
-                // 1. Enunciado Principal
                 const enunciadoPrincipal = document.createElement('p');
                 enunciadoPrincipal.className = 'text-base md:text-lg text-gray-800 mb-4 leading-relaxed';
                 enunciadoPrincipal.textContent = questao.enunciado_principal;
                 card.appendChild(enunciadoPrincipal);
 
-                // 2. Itens da Assertiva
                 const listaItens = document.createElement('ol');
-                
-                // Remove 'list-upper-roman' e usa 'list-none' para não duplicar os 'I., II.'
                 listaItens.className = 'list-none list-inside space-y-3 mb-4 pl-5 text-base md:text-lg text-gray-800 leading-relaxed';
-                
                 (questao.itens_assertiva || []).forEach(itemTexto => {
                     const li = document.createElement('li');
-                    li.textContent = itemTexto; // Exibe o texto exatamente como está no JSON
+                    li.textContent = itemTexto;
                     listaItens.appendChild(li);
                 });
                 card.appendChild(listaItens);
 
-                // 3. Pergunta Final (se houver)
                 if (questao.enunciado_pergunta) {
                     const perguntaFinal = document.createElement('p');
-                    perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold'; // Destaque para a pergunta
+                    perguntaFinal.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed font-semibold';
                     perguntaFinal.textContent = questao.enunciado_pergunta;
                     card.appendChild(perguntaFinal);
                 }
-
             } else {
                 // --- Versão Simples (Como estava antes) ---
                 const enunciado = document.createElement('p');
                 enunciado.className = 'text-base md:text-lg text-gray-800 mb-5 leading-relaxed';
-                // Usa o 'enunciado' principal ou um 'enunciado_principal' se for o único
                 enunciado.textContent = questao.enunciado || questao.enunciado_principal || "Enunciado não encontrado.";
                 card.appendChild(enunciado);
             }
@@ -510,7 +515,6 @@
             // 3. Alternativas
             const alternativasContainer = document.createElement('div');
             alternativasContainer.className = 'space-y-3';
-            
             (questao.alternativas || []).forEach(alt => {
                 const altItem = document.createElement('div');
                 altItem.className = 'alternativa-item flex items-center p-3 border border-gray-300 rounded-lg cursor-pointer transition-all duration-200 hover:bg-gray-50';
@@ -519,8 +523,7 @@
                 altItem.innerHTML = `<span class="font-semibold text-blue-600 w-6">${alt.letra})</span> <span class="ml-2 text-gray-700">${alt.texto}</span>`;
                 
                 altItem.addEventListener('click', () => {
-                    if (provaFinalizada) return; // Não faz nada se a prova já foi corrigida
-
+                    if (provaFinalizada) return;
                     if (checkModoProva.checked) {
                         selecionarResposta(card, altItem);
                     } else {
@@ -551,13 +554,8 @@
          * (Modo Prova) Seleciona uma resposta, armazena e destaca.
          */
         function selecionarResposta(card, alternativaSelecionada) {
-            // Remove 'selected' de outras alternativas neste card
             card.querySelectorAll('.alternativa-item').forEach(el => el.classList.remove('selected'));
-            
-            // Adiciona 'selected' à clicada
             alternativaSelecionada.classList.add('selected');
-            
-            // Armazena a resposta
             respostasUsuario[card.dataset.id] = alternativaSelecionada.dataset.letra;
         }
 
@@ -567,10 +565,8 @@
         function verificarRespostaModoEstudo(card, alternativaSelecionada) {
             if (card.dataset.respondida) return; 
             card.dataset.respondida = 'true';
-
             const gabarito = card.dataset.gabarito;
             const letraSelecionada = alternativaSelecionada.dataset.letra;
-            
             pintarCorrecao(card, gabarito, letraSelecionada);
         }
 
@@ -580,9 +576,9 @@
         function finalizarProva() {
             pararCronometro();
             provaFinalizada = true;
-            btnCarregarProva.textContent = 'Carregar Nova Prova'; // Agora o botão vira "Carregar Nova"
+            btnCarregarProva.textContent = 'Carregar Nova Prova'; 
             btnCarregarProva.classList.remove('bg-red-600', 'hover:bg-red-700');
-            btnCarregarProva.classList.add('bg-blue-600', 'hover:bg-blue-700'); // Volta a ser azul
+            btnCarregarProva.classList.add('bg-blue-600', 'hover:bg-blue-700'); 
 
             let acertos = 0;
             let sinalizadas = 0;
@@ -592,23 +588,16 @@
             cards.forEach(card => {
                 const id = card.dataset.id;
                 const gabarito = card.dataset.gabarito;
-                const resposta = respostasUsuario[id]; // Resposta do usuário
+                const resposta = respostasUsuario[id]; 
                 const acertou = (gabarito === resposta);
                 
-                // Pinta a correção no card
                 pintarCorrecao(card, gabarito, resposta);
-                
-                // Adiciona classes para filtro
                 card.classList.add(acertou ? 'card-correto' : 'card-errado');
-                
                 if (acertou) acertos++;
                 if (card.classList.contains('flagged')) sinalizadas++;
-                
-                // Mostra os botões de IA
                 card.querySelector('.ai-buttons-container').classList.remove('hidden');
             });
             
-            // Calcula e exibe o placar
             const percent = total > 0 ? Math.round((acertos / total) * 100) : 0;
             document.getElementById('placarAcertos').textContent = `${acertos} / ${total}`;
             document.getElementById('placarPercent').textContent = `${percent}%`;
@@ -616,44 +605,30 @@
             document.getElementById('placarSinalizadas').textContent = sinalizadas;
             
             divPlacar.classList.remove('hidden');
-            
-            // Salva no localStorage
-            salvarDesempenho(acertos, total, percent);
-            
-            // Rola para o placar
+            salvarDesempenho(acertos, total, percent); // Salva usando a URL da prova atual
             divPlacar.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
         /**
          * Pinta as alternativas de verde/vermelho (usado por ambos os modos).
-         * @param {HTMLElement} card - O card da questão.
-         * @param {string} gabarito - A letra correta (ex: "A").
-         * @param {string} respostaUsuario - A letra selecionada (pode ser undefined).
          */
         function pintarCorrecao(card, gabarito, respostaUsuario) {
             const gabaritoDisplay = card.querySelector('.gabarito-oculto');
             gabaritoDisplay.classList.remove('hidden');
-
             const acertou = (gabarito === respostaUsuario);
 
             if (acertou) {
-                // Resposta Correta
                 const altCorreta = card.querySelector(`.alternativa-item[data-letra="${gabarito}"]`);
                 if (altCorreta) altCorreta.classList.add('correct');
                 gabaritoDisplay.classList.replace('bg-blue-50', 'bg-green-50');
                 gabaritoDisplay.classList.replace('border-blue-200', 'border-green-200');
                 gabaritoDisplay.classList.replace('text-blue-800', 'text-green-800');
             } else {
-                // Resposta Incorreta
                 gabaritoDisplay.classList.replace('bg-blue-50', 'bg-red-50');
                 gabaritoDisplay.classList.replace('border-blue-200', 'border-red-200');
                 gabaritoDisplay.classList.replace('text-blue-800', 'text-red-800');
-
-                // Destaca a correta (gabarito)
                 const altCorreta = card.querySelector(`.alternativa-item[data-letra="${gabarito}"]`);
                 if (altCorreta) altCorreta.classList.add('gabarito-correto');
-
-                // Se o usuário marcou alguma, destaca a errada
                 if (respostaUsuario) {
                     const altErrada = card.querySelector(`.alternativa-item[data-letra="${respostaUsuario}"]`);
                     if (altErrada) altErrada.classList.add('wrong');
@@ -662,15 +637,18 @@
         }
 
         /**
-         * Salva o placar final no localStorage.
+         * Salva o placar final no localStorage, associado à URL da prova específica.
          */
         function salvarDesempenho(acertos, total, percent) {
             const disciplinaKey = selectDisciplina.value;
             const temaKey = selectTema.value;
-            const storageKey = `meujus-${disciplinaKey}-${temaKey}`;
+            const storageKey = `meujus-${disciplinaKey}-${temaKey}`; // Chave ainda é por TEMA
             const scoreString = `${acertos}/${total} (${percent}%) - em ${formatarTempo(segundosCronometro)}`;
             
-            localStorage.setItem(storageKey, scoreString);
+            // Salva um objeto JSON com o score E a url da prova
+            const dataToStore = JSON.stringify({ score: scoreString, prova: urlProvaAtual });
+            
+            localStorage.setItem(storageKey, dataToStore);
         }
         
         /**
@@ -681,7 +659,7 @@
             const separadores = divQuestoes.querySelectorAll('hr');
             let ultimoCardVisivel = null;
 
-            // Reseta a aparência de todos os botões de filtro
+            // Reseta botões
             btnFiltroTodas.classList.remove('bg-blue-600', 'text-white');
             btnFiltroTodas.classList.add('bg-gray-200', 'text-gray-700');
             btnFiltroErradas.classList.remove('bg-blue-600', 'text-white');
@@ -692,22 +670,15 @@
             cards.forEach(card => {
                 let mostrar = false;
                 switch (tipo) {
-                    case 'erradas':
-                        mostrar = card.classList.contains('card-errado');
-                        break;
-                    case 'sinalizadas':
-                        mostrar = card.classList.contains('flagged');
-                        break;
-                    case 'todas':
-                    default:
-                        mostrar = true;
+                    case 'erradas': mostrar = card.classList.contains('card-errado'); break;
+                    case 'sinalizadas': mostrar = card.classList.contains('flagged'); break;
+                    default: mostrar = true;
                 }
-                
                 card.style.display = mostrar ? 'block' : 'none';
                 if (mostrar) ultimoCardVisivel = card;
             });
             
-            // Destaca o botão de filtro ativo
+            // Destaca botão ativo
             if (tipo === 'todas') {
                 btnFiltroTodas.classList.add('bg-blue-600', 'text-white');
                 btnFiltroTodas.classList.remove('bg-gray-200', 'text-gray-700');
@@ -719,20 +690,10 @@
                 btnFiltroSinalizadas.classList.remove('bg-gray-200', 'text-gray-700');
             }
 
-            // Esconde HRs que ficaram "pendurados" (após um card oculto)
+            // Esconde HRs
             separadores.forEach(hr => {
-                // Se o elemento ANTERIOR (o card) está oculto, oculta o HR
-                if (hr.previousElementSibling && hr.previousElementSibling.style.display === 'none') {
-                    hr.style.display = 'none';
-                } else {
-                    hr.style.display = 'block';
-                }
+                hr.style.display = (hr.previousElementSibling && hr.previousElementSibling.style.display === 'none') ? 'none' : 'block';
             });
-            
-            // Remove o último HR se o último card visível for o último da lista
-            if(ultimoCardVisivel && !ultimoCardVisivel.nextElementSibling) {
-                 // Esta lógica é complexa, por agora vamos deixar os HRs
-            }
         }
 
         // --- Funções do Cronómetro ---
@@ -741,7 +702,6 @@
             segundosCronometro = 0;
             divCronometro.textContent = 'Tempo: 00:00';
             divCronometro.classList.remove('hidden');
-            
             cronometroInterval = setInterval(() => {
                 segundosCronometro++;
                 divCronometro.textContent = `Tempo: ${formatarTempo(segundosCronometro)}`;
@@ -808,12 +768,9 @@
             let contexto = "Considere a seguinte questão de concurso:\n\n";
             if (questao.enunciado_principal && questao.itens_assertiva) {
                 contexto += `Enunciado Principal: ${questao.enunciado_principal}\n\nItens:\n`;
-                
-                // Remove a adição manual dos numerais romanos
                 (questao.itens_assertiva || []).forEach((item, index) => {
-                    contexto += `${item}\n`; // Apenas adiciona o texto do item
+                    contexto += `${item}\n`; 
                 });
-
                 if (questao.enunciado_pergunta) {
                     contexto += `\nPergunta: ${questao.enunciado_pergunta}\n`;
                 }
@@ -828,17 +785,13 @@
 
             const promptCompleto = `${promptPredefinido}\n\n${contexto}`;
             const urlQuery = encodeURIComponent(promptCompleto);
-            
-            // Adiciona o parâmetro udm=50 para tentar forçar o modo IA
-            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`;
-
+            const googleUrl = `https://www.google.com/search?udm=50&q=${urlQuery}`; // Link atualizado
             window.open(googleUrl, '_blank');
         }
 
         // --- 5. Inicialização ---
         
         document.addEventListener('DOMContentLoaded', init);
-
 
     </script>
 </body>
