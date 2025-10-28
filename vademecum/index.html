@@ -142,7 +142,7 @@
 
         /* --- ESTILOS INJETADOS (AGORA NA PÁGINA PRINCIPAL) --- */
         
-        /* *** NOVO (Problema 2): Padronização de Fonte/Tamanho *** */
+        /* *** Padronização de Fonte/Tamanho *** */
         #codeContent, 
         #codeContent p, 
         #codeContent div, 
@@ -181,7 +181,14 @@
             text-align: center !important; /* Garante a centralização */
         }
 
-        /* *** NOVO (Problema 1): Adiciona "respiro" antes de cada Artigo *** */
+        /* *** NOVO: Respiro para epígrafes em negrito *** */
+        #codeContent .epigraph-spacing {
+            margin-top: 1.5rem !important; /* 24px de espaço acima */
+            font-weight: 600 !important; 
+            color: #111827 !important; /* text-gray-900 (preto) */
+        }
+
+        /* *** Adiciona "respiro" antes de cada Artigo *** */
         #codeContent .article-start-spacing {
             margin-top: 1rem !important; /* 16px de espaço */
         }
@@ -301,7 +308,7 @@
                     Código Penal (Decreto-Lei nº 2.848/1940)
                 </button>
                 <!-- Botão para carregar o Código Civil (caminho atualizado para data/ e nome do arquivo) -->
-                <button onclick="loadCode('data/civil1.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
+                <button onclick="loadCode('data/codigo-civil.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                      Código Civil
                  </button>
                  <!-- Placeholder para Constituição Federal -->
@@ -561,7 +568,7 @@
             }
          }
 
-         // Prepara TODOS os parágrafos para seleção
+         // *** CORRIGIDO: Prepara TODOS os parágrafos para seleção e adiciona espaçamento de epígrafe ***
          function prepareElementsForSelection(container) {
              try {
                  if (!container) {
@@ -578,27 +585,34 @@
                  elements.forEach(el => {
                      const fullText = el.textContent.trim();
                      
-                     // *** NOVO: Adiciona respiro antes de "Art." ***
+                     // Adiciona respiro antes de "Art."
                      if (fullText.startsWith('Art.') || fullText.startsWith('Art ')) {
                          el.classList.add('article-start-spacing');
                      }
                      
-                     // Só adiciona o ID se houver texto, para não selecionar <p> vazios ou tags de layout
+                     // *** NOVO (Problema 2): Adiciona respiro para epígrafes em negrito ***
+                     // Verifica se o elemento tem APENAS um filho, e se esse filho é <b> ou <strong>
+                     // E se o texto desse filho é o mesmo do elemento pai (garante que não há mais nada)
+                     const isBoldEpigraph = el.children.length === 1 && 
+                                           (el.children[0].tagName === 'B' || el.children[0].tagName === 'STRONG') &&
+                                           el.children[0].textContent.trim() === fullText;
+
+                     // Adiciona a classe de espaçamento se for uma epígrafe em negrito E não for uma centralizada (para evitar duplicar)
+                     if (isBoldEpigraph && el.getAttribute('align') !== 'CENTER') {
+                         el.classList.add('epigraph-spacing');
+                     }
+                     
+                     // *** CORRIGIDO (Problema 1): Garante que TODO parágrafo com texto seja selecionável ***
                      if (fullText && fullText.length > 3) { 
                          articleCounter++;
                          const uniqueArticleId = `article-${articleCounter}`;
-                         el.dataset.articleId = uniqueArticleId;
+                         el.dataset.articleId = uniqueArticleId; // <-- SEMPRE ADICIONA O ID
 
                          // Limpa o texto (remove "Redação dada...", etc.) ANTES de salvar no Map
                          const cleanText = fullText.replace(/(\(Redação dada pela Lei.*\)|\(Incluído pela Lei.*\)|Vide Lei.*\))/gi, '').trim().replace(/\s\s+/g, ' ');
                          
-                         // Salva o texto limpo, mas só se ele não for vazio
-                         if (cleanText && cleanText.length > 3) {
-                             articleTextMap.set(uniqueArticleId, cleanText);
-                         } else {
-                             // Se o texto limpo for inútil (só tinha "Vide Lei..."), não o torna selecionável
-                             delete el.dataset.articleId;
-                         }
+                         // Salva o texto limpo se ele existir, senão salva o texto completo (caso seja só uma referência)
+                         articleTextMap.set(uniqueArticleId, (cleanText && cleanText.length > 3) ? cleanText : fullText);
                      }
                  });
                  console.log(`Elementos mapeados para seleção: ${articleTextMap.size}`);
