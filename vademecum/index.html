@@ -15,6 +15,8 @@
         }
         body {
              font-family: 'Inter', sans-serif; /* Fonte padrão */
+             /* Evita a rolagem da página principal quando o iframe é focado */
+             overflow: hidden;
         }
         
         /* --- Estilos para o Botão Flutuante (FAB) --- */
@@ -70,10 +72,6 @@
             opacity: 1;
             transform: scale(1);
         }
-        /* Gira o ícone (será controlado por JS) */
-        .fab-container .fab-button svg {
-            /* O JS controlará o SVG interno */
-        }
 
         .fab-option {
             display: flex;
@@ -125,13 +123,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-     <!-- Ícones IonIcons (Mantido para ícone da busca) -->
-    <script type.module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-
 </head>
-<body class="bg-gray-100">
+<body class="bg-gray-100 flex flex-col h-screen">
 
     <!-- ### INÍCIO DO CABEÇALHO UNIFICADO ### -->
     <!-- Topbar full-width, sticky no topo -->
@@ -152,9 +145,43 @@
         </div>
     </nav>
     <!-- ### FIM DO CABEÇALHO UNIFICADO ### -->
+    
+    <!-- Cabeçalho da Visualização (Oculto inicialmente, sticky abaixo do principal) -->
+    <div id="codeViewHeader" class="hidden items-center p-3 bg-gray-50 border-b border-gray-200 w-full sticky top-16 z-20">
+         <div class="max-w-4xl mx-auto flex items-center w-full px-4 sm:px-6">
+             <!-- Botão Voltar -->
+            <button onclick="showCategories()" class="p-2 mr-2 text-blue-600 hover:bg-gray-200 rounded-full">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                </svg>
+            </button>
+             <!-- Título do Código -->
+            <h2 id="codeTitle" class="text-lg font-semibold text-gray-800 flex-grow truncate mr-2">Código</h2>
+             <!-- Campo de Busca e Navegação -->
+            <div class="flex items-center space-x-1">
+                <div class="relative">
+                    <input type="search" id="searchInput" placeholder="Buscar no código..." class="pl-8 pr-2 py-1.5 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm w-32 md:w-48">
+                    <div class="absolute inset-y-0 left-0 pl-2 flex items-center pointer-events-none">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 text-gray-400">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+                        </svg>
+                    </div>
+                </div>
+                <!-- Botões de Navegação da Busca -->
+                <button id="searchPrev" onclick="goToPreviousResult()" class="p-1.5 text-gray-500 hover:bg-gray-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" /></svg>
+                </button>
+                <span id="searchResultCount" class="text-xs text-gray-500 w-10 text-center">0/0</span>
+                <button id="searchNext" onclick="goToNextResult()" class="p-1.5 text-gray-500 hover:bg-gray-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+                </button>
+            </div>
+        </div>
+    </div>
 
-    <!-- Container Principal (não limita mais a largura do NAV) -->
-    <div id="appContainer" class="max-w-4xl mx-auto h-screen flex flex-col">
+
+    <!-- Container Principal (Centralizado) -->
+    <div id="appContainer" class="max-w-4xl mx-auto flex-grow w-full flex flex-col overflow-hidden">
 
         <!-- Tela de Seleção de Código (Inicial) -->
         <div id="categorySelection" class="p-6 flex-grow flex flex-col">
@@ -177,86 +204,60 @@
 
         <!-- Tela de Visualização do Código (Oculta Inicialmente) -->
         <div id="codeView" class="hidden flex-grow flex flex-col h-full bg-white shadow-lg rounded-b-lg overflow-hidden">
-             <!-- Cabeçalho da Visualização (Agora sticky no topo 16 (h-16 da nav principal)) -->
-            <div class="flex items-center p-3 bg-gray-50 border-b border-gray-200 sticky top-16 z-20">
-                 <!-- Botão Voltar -->
-                <button onclick="showCategories()" class="p-2 mr-2 text-blue-600 hover:bg-gray-200 rounded-full">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
-                      <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
-                    </svg>
-                </button>
-                 <!-- Título do Código -->
-                <h2 id="codeTitle" class="text-lg font-semibold text-gray-800 flex-grow truncate mr-2">Código</h2>
-                 <!-- Campo de Busca e Navegação -->
-                <div class="flex items-center space-x-1">
-                    <div class="relative">
-                        <input type="search" id="searchInput" placeholder="Buscar no código..." class="pl-8 pr-2 py-1.5 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm w-32 md:w-48">
-                        <div class="absolute inset-y-0 left-0 pl-2 flex items-center pointer-events-none">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 text-gray-400">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                            </svg>
-                        </div>
-                    </div>
-                    <!-- Botões de Navegação da Busca -->
-                    <button id="searchPrev" onclick="goToPreviousResult()" class="p-1.5 text-gray-500 hover:bg-gray-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed" disabled>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" /></svg>
-                    </button>
-                    <span id="searchResultCount" class="text-xs text-gray-500 w-10 text-center">0/0</span>
-                    <button id="searchNext" onclick="goToNextResult()" class="p-1.5 text-gray-500 hover:bg-gray-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed" disabled>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
-                    </button>
-                </div>
-            </div>
-
-            <!-- Área de Conteúdo do Código (usando iframe) -->
+             <!-- Área de Conteúdo do Código (usando iframe) -->
             <div id="codeContent" class="flex-grow overflow-auto p-1 bg-white relative">
                  <p class="p-4 text-gray-500">Carregando conteúdo...</p>
             </div>
         </div>
 
-        <!-- Botão Flutuante (FAB) - Oculto por padrão, aparece na codeView -->
-        <div id="fabContainer" class="fab-container">
-            <!-- Sub-botões -->
-            <div class="fab-options">
-                <div class="fab-option" onclick="handleArticleAction('explain')">
-                    <span class="fab-option-label">Explicação Detalhada</span>
-                </div>
-                <div class="fab-option" onclick="handleArticleAction('glossary')">
-                    <span class="fab-option-label">Glossário Jurídico</span>
-                </div>
-                <div class="fab-option" onclick="handleArticleAction('related')">
-                    <span class="fab-option-label">Súmulas e Correlatos</span>
-                </div>
-                <div class="fab-option" onclick="handleArticleAction('youtube')">
-                    <span class="fab-option-label">Buscar Videoaula</span>
-                </div>
-            </div>
-             <!-- Botão Principal '+' -->
-            <button class="fab-button" id="fabButton" onclick="fabClickHandler()">
-                 <!-- O SVG aqui será trocado dinamicamente pelo JS -->
-                 <svg id="fabIconPlus" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
-                </svg>
-                 <svg id="fabIconCheck" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="hidden">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                </svg>
-                 <svg id="fabIconClose" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="hidden">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                </svg>
-            </button>
-        </div>
-
-        <!-- Div de Mensagem (Toast) -->
-        <div id="messageBox" class="hidden fixed bottom-24 left-1/2 -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg z-50">
-            <p>Clique nos parágrafos que deseja estudar</p>
-        </div>
-
     </div>
 
+    <!-- Botão Flutuante (FAB) - Oculto por padrão, aparece na codeView -->
+    <div id="fabContainer" class="fab-container">
+        <!-- Sub-botões -->
+        <div class="fab-options">
+            <div class="fab-option" onclick="handleArticleAction('explain')">
+                <span class="fab-option-label">Explicação Detalhada</span>
+            </div>
+            <div class="fab-option" onclick="handleArticleAction('glossary')">
+                <span class="fab-option-label">Glossário Jurídico</span>
+            </div>
+            <div class="fab-option" onclick="handleArticleAction('related')">
+                <span class="fab-option-label">Súmulas e Correlatos</span>
+            </div>
+            <div class="fab-option" onclick="handleArticleAction('youtube')">
+                <span class="fab-option-label">Buscar Videoaula</span>
+            </div>
+        </div>
+         <!-- Botão Principal '+' -->
+        <button class="fab-button" id="fabButton" onclick="fabClickHandler()">
+             <!-- O SVG aqui será trocado dinamicamente pelo JS -->
+             <svg id="fabIconPlus" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+            </svg>
+             <svg id="fabIconCheck" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="hidden">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+            </svg>
+             <svg id="fabIconClose" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="hidden">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+
+    <!-- Div de Mensagem (Toast) -->
+    <div id="messageBox" class="hidden fixed bottom-24 left-1/2 -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg z-50">
+        <p>Clique nos parágrafos que deseja estudar</p>
+    </div>
+
+    <!-- Carrega IonIcons (para a busca) -->
+    <script type.module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    
     <script>
         // --- Elementos Globais ---
         const categorySelection = document.getElementById('categorySelection');
         const codeView = document.getElementById('codeView');
+        const codeViewHeader = document.getElementById('codeViewHeader'); // Cabeçalho da busca
         const codeContent = document.getElementById('codeContent');
         const codeTitle = document.getElementById('codeTitle');
         const searchInput = document.getElementById('searchInput');
@@ -287,9 +288,17 @@
             categorySelection.classList.add('flex');
             codeView.classList.add('hidden');
             codeView.classList.remove('flex');
+            codeViewHeader.classList.add('hidden'); // Esconde cabeçalho da busca
             fabContainer.style.display = 'none'; // Esconde o FAB
             resetFabToIdle(); // Garante que o estado seja limpo
             resetSearch();
+            
+            // Limpa o iframe
+             const iframe = codeContent.querySelector('iframe');
+            if (iframe) {
+                iframe.remove();
+            }
+            codeContent.innerHTML = '<p class="p-4 text-gray-500">Carregando conteúdo...</p>';
         }
 
         async function loadCode(url, title, baseUrl) {
@@ -297,6 +306,8 @@
             categorySelection.classList.remove('flex');
             codeView.classList.remove('hidden');
             codeView.classList.add('flex');
+            codeViewHeader.classList.remove('hidden'); // Mostra cabeçalho da busca
+            codeViewHeader.classList.add('flex');
             fabContainer.style.display = 'block'; // Mostra o FAB
             
             codeTitle.textContent = title;
@@ -305,7 +316,7 @@
             resetFabToIdle(); // Reseta o estado do FAB
             resetSearch();
 
-            codeContent.innerHTML = '';
+            codeContent.innerHTML = ''; // Limpa o "Carregando..."
             const iframe = document.createElement('iframe');
             
             iframe.dataset.baseUrl = baseUrl || "https://www.planalto.gov.br/ccivil_03/"; 
@@ -348,7 +359,6 @@
             let text = startElement.textContent.trim();
             let currentElement = startElement.nextElementSibling;
             while (currentElement && ['P', 'DIV'].includes(currentElement.tagName) && !isRelevantElement(currentElement)) {
-                 // Evita adicionar o texto de links substituídos que podem estar em <p> separados
                  if (!currentElement.querySelector('span.link-replacement')) {
                     text += "\n" + currentElement.textContent.trim();
                  }
@@ -432,9 +442,16 @@
                         }
 
                         /* Força a quebra de linha em TUDO para evitar estouro */
-                        p, div, span, a, font {
+                        p, div, span, a, font, table, tr, td {
                             word-break: break-word !important; 
                             overflow-wrap: break-word !important;
+                        }
+                        
+                        /* Garante que o body do iframe ocupe 100% da altura */
+                        html, body {
+                            height: 100%;
+                            margin: 0;
+                            padding: 0;
                         }
 
                         /* Estilo de seleção manual (azul claro) */
@@ -545,7 +562,9 @@
              const iframeWindow = iframe.contentWindow;
              const iframeDoc = iframe.contentDocument || iframeWindow.document;
              
-             const viewportCenterY = iframeWindow.innerHeight / 2;
+             // Ponto central vertical da viewport do iframe
+             const viewportCenterY = iframeWindow.innerHeight / 2; 
+             
              let closestElement = null;
              let minDistance = Infinity;
              
@@ -718,6 +737,7 @@
 
         function scrollToResult(index) {
             if (searchResults[index]) {
+                // Rola o *iframe* para o elemento
                 searchResults[index].scrollIntoView({
                     behavior: 'smooth', 
                     block: 'center',    
@@ -824,3 +844,4 @@
 
 </body>
 </html>
+
