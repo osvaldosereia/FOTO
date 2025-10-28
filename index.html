@@ -20,35 +20,82 @@
             -moz-osx-font-smoothing: grayscale;
         }
 
-        /* --- NOVOS ESTILOS PARA MODO PROVA --- */
-        /* Alternativa SELECIONADA (Modo Prova) */
-        .alternativa-item.selected {
-            background-color: #DBEAFE; /* Tailwind blue-100 */
-            border-color: #60A5FA; /* Tailwind blue-400 */
-            color: #1E40AF; /* Tailwind blue-800 */
+        /* --- NOVOS ESTILOS PARA DROPDOWN PERSONALIZADO --- */
+        .custom-select-container {
+            position: relative;
         }
-        
-        /* Estilos para as alternativas respondidas (Modo Estudo/Correção) */
+        .custom-select-button {
+            width: 100%;
+            padding: 0.75rem; /* 12px */
+            border: 1px solid #D1D5DB; /* border-gray-300 */
+            border-radius: 0.375rem; /* rounded-md */
+            background-color: #F9FAFB; /* bg-gray-50 */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            text-align: left;
+        }
+        .custom-select-button:focus {
+            outline: none;
+            box-shadow: 0 0 0 2px #3B82F6; /* ring-2 ring-blue-500 */
+        }
+        .custom-select-list {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background-color: white;
+            border: 1px solid #D1D5DB;
+            border-top: none;
+            border-radius: 0 0 0.375rem 0.375rem;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 10;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        .custom-select-search {
+            width: 100%;
+            padding: 0.5rem 0.75rem;
+            border-bottom: 1px solid #E5E7EB; /* border-gray-200 */
+            outline: none;
+        }
+        .custom-select-option {
+            padding: 0.5rem 0.75rem;
+            cursor: pointer;
+            user-select: none;
+        }
+        .custom-select-option:hover {
+            background-color: #F3F4F6; /* bg-gray-100 */
+        }
+        .custom-select-option.selected {
+            background-color: #DBEAFE; /* bg-blue-100 */
+            font-weight: 500;
+        }
+
+
+        /* --- ESTILOS ANTIGOS (MODO PROVA, ETC.) --- */
+        .alternativa-item.selected {
+            background-color: #DBEAFE; 
+            border-color: #60A5FA; 
+            color: #1E40AF; 
+        }
         .alternativa-item.correct {
-            background-color: #D1FAE5; /* Tailwind green-100 */
-            border-color: #34D399; /* Tailwind green-400 */
-            color: #065F46; /* Tailwind green-800 */
+            background-color: #D1FAE5; 
+            border-color: #34D399; 
+            color: #065F46; 
             font-weight: 500;
         }
         .alternativa-item.wrong {
-            background-color: #FEE2E2; /* Tailwind red-100 */
-            border-color: #F87171; /* Tailwind red-400 */
-            color: #991B1B; /* Tailwind red-800 */
+            background-color: #FEE2E2; 
+            border-color: #F87171; 
+            color: #991B1B; 
             font-weight: 500;
         }
-        
-        /* Estilo para a alternativa correta (quando o usuário erra) */
         .alternativa-item.gabarito-correto {
-             background-color: #D1FAE5; /* Tailwind green-100 */
-             border-color: #34D399; /* Tailwind green-400 */
+             background-color: #D1FAE5; 
+             border-color: #34D399; 
          }
-
-        /* Ícone da Bandeira (Flag) */
         .flag-icon {
             cursor: pointer;
             opacity: 0.4;
@@ -56,47 +103,41 @@
         }
         .flag-icon.flagged {
             opacity: 1;
-            color: #EF4444; /* Tailwind red-500 */
+            color: #EF4444; 
             transform: scale(1.1);
         }
-        
-        /* Toggle Switch (Modo Prova) */
         .toggle-bg:after {
             content: '';
             position: absolute;
-            top: 0.125rem;  /* 2px */
-            left: 0.125rem; /* 2px */
+            top: 0.125rem;  
+            left: 0.125rem; 
             background-color: #ffffff;
-            border: 1px solid #d1d5db; /* border-gray-300 */
-            border-radius: 9999px; /* rounded-full */
-            height: 1.25rem;  /* 20px (h-5) */
-            width: 1.25rem;   /* 20px (w-5) */
+            border: 1px solid #d1d5db; 
+            border-radius: 9999px; 
+            height: 1.25rem;  
+            width: 1.25rem;   
             transition: transform 0.2s ease-in-out;
-            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05); /* shadow-sm */
+            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05); 
         }
         input:checked + .toggle-bg:after {
-            transform: translateX(1.25rem); /* 20px (w-5) */
+            transform: translateX(1.25rem); 
         }
         input:checked + .toggle-bg {
-            background-color: #2563eb; /* bg-blue-600 */
-            border-color: #2563eb; /* border-blue-600 */
+            background-color: #2563eb; 
+            border-color: #2563eb; 
         }
-        
-        /* Oculta os spinners de inputs numéricos */
         input[type='number']::-webkit-inner-spin-button,
         input[type='number']::-webkit-outer-spin-button {
             -webkit-appearance: none;
             margin: 0;
         }
-
-        /* Estilo para a transição dos sub-botões */
         .sub-buttons-container {
             max-height: 0;
             overflow: hidden;
             transition: max-height 0.3s ease-out;
         }
         .sub-buttons-container.expanded {
-            max-height: 300px; /* Ajuste conforme a altura máxima dos seus botões */
+            max-height: 300px; 
             transition: max-height 0.3s ease-in;
         }
         
@@ -105,7 +146,6 @@
 <body class="bg-gray-100">
 
     <!-- ### INÍCIO DO CABEÇALHO UNIFICADO ### -->
-    <!-- Topbar full-width, mas o conteúdo é centralizado com max-w-4xl -->
     <nav class="bg-white shadow-sm sticky top-0 z-30">
         <div class="max-w-4xl mx-auto px-4 sm:px-6">
             <div class="flex justify-between items-center h-16">
@@ -126,28 +166,61 @@
 
 
     <div class="max-w-4xl mx-auto p-4 md:p-8">
-        
-        <!-- Cabeçalho REMOVIDO -->
+
+        <!-- ### SEÇÃO DE BOAS-VINDAS E CONTADOR (DO TURNO ANTERIOR) ### -->
+        <section class="mb-6 p-6 bg-white rounded-lg shadow-sm text-center">
+            <h2 class="text-2xl font-semibold text-gray-800">Bem-vindo ao MeuJus!</h2>
+            <p class="text-md text-gray-600 mt-1">
+                Atualmente temos <span id="totalProvasCounter" class="font-bold text-blue-600">0</span> provas disponíveis.
+            </p>
+        </section>
+        <!-- ### FIM DA SEÇÃO ### -->
 
         <!-- Controles de Seleção --><section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
             <!-- Linha 1: Dropdowns -->
             <div class="flex flex-col sm:flex-row gap-4 items-center sm:items-start"> 
-                <!-- Dropdown Disciplina --><div class="w-full sm:w-1/2">
-                    <label for="selectDisciplina" class="block text-sm font-medium text-gray-700 mb-1">Disciplina</label>
-                    <select id="selectDisciplina" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
-                        <!-- Opções carregadas via JS --></select>
-                </div>
                 
-                <!-- Dropdown Tema --><div class="w-full sm:w-1/2">
-                    <label for="selectTema" class="block text-sm font-medium text-gray-700 mb-1">Tema</label>
-                    <select id="selectTema" class="w-full p-3 border border-gray-300 rounded-md bg-gray-50 focus:ring-2 focus:ring-blue-500 focus:outline-none">
-                        <!-- Opções carregadas via JS --></select>
+                <!-- ### INÍCIO DO DROPDOWN PERSONALIZADO (DISCIPLINA) ### -->
+                <div class="w-full sm:w-1/2">
+                    <label for="selectDisciplinaBtn" class="block text-sm font-medium text-gray-700 mb-1">Disciplina</label>
+                    <div id="customSelectDisciplina" class="custom-select-container">
+                        <button id="selectDisciplinaBtn" type="button" class="custom-select-button">
+                            <span id="selectDisciplinaValue">Selecione...</span>
+                            <svg class="w-5 h-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10 3a1 1 0 01.707.293l3 3a1 1 0 01-1.414 1.414L10 5.414 7.707 7.707a1 1 0 01-1.414-1.414l3-3A1 1 0 0110 3zm-3.707 9.293a1 1 0 011.414 0L10 14.586l2.293-2.293a1 1 0 011.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg>
+                        </button>
+                        <div id="selectDisciplinaList" class="custom-select-list hidden">
+                            <!-- Opções carregadas via JS -->
+                        </div>
+                    </div>
+                </div>
+                <!-- ### FIM DO DROPDOWN PERSONALIZADO (DISCIPLINA) ### -->
+
+                <!-- ### INÍCIO DO DROPDOWN PERSONALIZADO (TEMA) ### -->
+                <div class="w-full sm:w-1/2">
+                    <label for="selectTemaBtn" class="block text-sm font-medium text-gray-700 mb-1">Tema</label>
+                    <div id="customSelectTema" class="custom-select-container">
+                        <button id="selectTemaBtn" type="button" class="custom-select-button">
+                            <span id="selectTemaValue">Selecione...</span>
+                             <svg class="w-5 h-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10 3a1 1 0 01.707.293l3 3a1 1 0 01-1.414 1.414L10 5.414 7.707 7.707a1 1 0 01-1.414-1.414l3-3A1 1 0 0110 3zm-3.707 9.293a1 1 0 011.414 0L10 14.586l2.293-2.293a1 1 0 011.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg>
+                        </button>
+                        <div id="selectTemaList" class="custom-select-list hidden">
+                            <input type="text" id="selectTemaSearch" class="custom-select-search" placeholder="Buscar tema...">
+                            <div id="selectTemaOptions">
+                                <!-- Opções carregadas via JS -->
+                            </div>
+                        </div>
+                    </div>
                     
                     <!-- Contador de Prova -->
                     <div id="divContadorProva" class="hidden text-sm font-medium text-gray-600 mt-2 ml-1">
                         <!-- Contador carregado via JS -->
                     </div>
                 </div>
+                <!-- ### FIM DO DROPDOWN PERSONALIZADO (TEMA) ### -->
             </div>
 
             <!-- Linha 2: Histórico (LocalStorage) -->
@@ -237,12 +310,28 @@
 
         // --- 2. Referências aos Elementos do DOM ---
         
-        const selectDisciplina = document.getElementById('selectDisciplina');
-        const selectTema = document.getElementById('selectTema');
+        // --- REMOVIDAS as referências aos <select> ---
+        // const selectDisciplina = document.getElementById('selectDisciplina');
+        // const selectTema = document.getElementById('selectTema');
+        
+        // ### NOVAS REFERÊNCIAS (DROPDOWN PERSONALIZADO) ###
+        const customSelectDisciplina = document.getElementById('customSelectDisciplina');
+        const selectDisciplinaBtn = document.getElementById('selectDisciplinaBtn');
+        const selectDisciplinaValue = document.getElementById('selectDisciplinaValue');
+        const selectDisciplinaList = document.getElementById('selectDisciplinaList');
+
+        const customSelectTema = document.getElementById('customSelectTema');
+        const selectTemaBtn = document.getElementById('selectTemaBtn');
+        const selectTemaValue = document.getElementById('selectTemaValue');
+        const selectTemaList = document.getElementById('selectTemaList');
+        const selectTemaSearch = document.getElementById('selectTemaSearch');
+        const selectTemaOptions = document.getElementById('selectTemaOptions');
+
         const btnCarregarProva = document.getElementById('btnCarregarProva');
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
         const btnTopo = document.getElementById('btnTopo');
+        const totalProvasCounter = document.getElementById('totalProvasCounter'); // Contador
         
         // Novas referências
         const checkModoProva = document.getElementById('checkModoProva');
@@ -257,6 +346,22 @@
 
         // --- 3. Estado da Aplicação ---
         
+        // ### NOVO ESTADO (DROPDOWN) ###
+        let estadoSelect = {
+            disciplina: {
+                chave: null,
+                nome: null,
+                listaCompleta: [],
+                listaFiltrada: []
+            },
+            tema: {
+                chave: null,
+                nome: null,
+                listaCompleta: [],
+                listaFiltrada: []
+            }
+        };
+
         let provaCarregada = false;
         let provaFinalizada = false;
         let respostasUsuario = {}; // Armazena { "q1": "A", "q2": "C", ... }
@@ -279,16 +384,12 @@
             }
             
             popularDisciplinas();
+            calcularTotalProvas(); // Calcula o total de provas
             
             // --- Listeners de Eventos ---
-            selectDisciplina.addEventListener('change', () => {
-                popularTemas(); // Popula temas E atualiza o contador
-                resetarEstadoProva();
-            });
-            selectTema.addEventListener('change', () => {
-                resetarEstadoProva();
-                atualizarContadorProvaUI(); // Atualiza contador ao mudar tema
-            });
+            // ### NOVOS LISTENERS (DROPDOWN) ###
+            setupCustomSelectListeners();
+
             checkModoProva.addEventListener('change', resetarEstadoProva);
             
             btnCarregarProva.addEventListener('click', () => {
@@ -316,32 +417,181 @@
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             });
         }
-
+        
+        // ### NOVA FUNÇÃO (DROPDOWN) ###
         /**
-         * Popula o dropdown de Disciplinas com base no dbDisciplinas.
+         * Configura os listeners para os dropdowns personalizados.
          */
-        function popularDisciplinas() {
-            selectDisciplina.innerHTML = ''; // Limpa opções anteriores
-            for (const [chave, valor] of Object.entries(dbDisciplinas)) {
-                const option = new Option(valor.nome, chave);
-                selectDisciplina.add(option);
-            }
-            popularTemas(); // Carrega os temas (e o contador) da primeira disciplina
+        function setupCustomSelectListeners() {
+            // Listener para fechar dropdowns ao clicar fora
+            document.addEventListener('click', (e) => {
+                if (!customSelectDisciplina.contains(e.target)) {
+                    selectDisciplinaList.classList.add('hidden');
+                }
+                if (!customSelectTema.contains(e.target)) {
+                    selectTemaList.classList.add('hidden');
+                }
+            });
+
+            // Listeners da Disciplina
+            selectDisciplinaBtn.addEventListener('click', () => {
+                selectDisciplinaList.classList.toggle('hidden');
+                selectTemaList.classList.add('hidden'); // Fecha o outro
+            });
+
+            // Listeners do Tema
+            selectTemaBtn.addEventListener('click', () => {
+                selectTemaList.classList.toggle('hidden');
+                selectDisciplinaList.classList.add('hidden'); // Fecha o outro
+                if (!selectTemaList.classList.contains('hidden')) {
+                    selectTemaSearch.focus();
+                }
+            });
+
+            // Listener da Busca de Tema
+            selectTemaSearch.addEventListener('input', (e) => {
+                const termo = e.target.value.toLowerCase();
+                estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => 
+                    tema.nome.toLowerCase().includes(termo)
+                );
+                renderizarOpcoesTema();
+            });
         }
 
         /**
-         * Popula o dropdown de Temas e atualiza o contador.
+         * Calcula o número total de provas no config.js e atualiza o contador.
+         */
+        function calcularTotalProvas() {
+            let totalProvas = 0;
+            if (typeof dbDisciplinas !== 'undefined') {
+                for (const disciplinaKey in dbDisciplinas) {
+                    const temas = dbDisciplinas[disciplinaKey].temas || {};
+                    for (const temaKey in temas) {
+                        totalProvas += temas[temaKey].provas || 0;
+                    }
+                }
+            }
+            totalProvasCounter.textContent = totalProvas;
+        }
+
+        // ### FUNÇÃO MODIFICADA (DROPDOWN) ###
+        /**
+         * Popula o dropdown personalizado de Disciplinas.
+         */
+        function popularDisciplinas() {
+            selectDisciplinaList.innerHTML = ''; // Limpa
+            estadoSelect.disciplina.listaCompleta = [];
+
+            for (const [chave, valor] of Object.entries(dbDisciplinas)) {
+                estadoSelect.disciplina.listaCompleta.push({ chave, nome: valor.nome });
+                
+                const optionEl = document.createElement('div');
+                optionEl.className = 'custom-select-option';
+                optionEl.textContent = valor.nome;
+                optionEl.dataset.value = chave;
+
+                optionEl.addEventListener('click', () => {
+                    selecionarDisciplina(chave, valor.nome);
+                    selectDisciplinaList.classList.add('hidden');
+                });
+                selectDisciplinaList.appendChild(optionEl);
+            }
+            
+            // Seleciona a primeira disciplina por padrão
+            if (estadoSelect.disciplina.listaCompleta.length > 0) {
+                const primeira = estadoSelect.disciplina.listaCompleta[0];
+                selecionarDisciplina(primeira.chave, primeira.nome);
+            }
+        }
+
+        // ### NOVA FUNÇÃO (DROPDOWN) ###
+        /**
+         * Define a disciplina selecionada e atualiza os temas.
+         */
+        function selecionarDisciplina(chave, nome) {
+            estadoSelect.disciplina.chave = chave;
+            estadoSelect.disciplina.nome = nome;
+            selectDisciplinaValue.textContent = nome;
+
+            // Remove destaque antigo
+            Array.from(selectDisciplinaList.children).forEach(child => {
+                child.classList.toggle('selected', child.dataset.value === chave);
+            });
+            
+            popularTemas(); // Carrega os temas da disciplina selecionada
+            resetarEstadoProva();
+        }
+
+        // ### FUNÇÃO MODIFICADA (DROPDOWN) ###
+        /**
+         * Popula o dropdown personalizado de Temas.
          */
         function popularTemas() {
-            const disciplinaKey = selectDisciplina.value;
+            const disciplinaKey = estadoSelect.disciplina.chave;
             const temas = dbDisciplinas[disciplinaKey]?.temas || {};
             
-            selectTema.innerHTML = ''; // Limpa opções anteriores
+            estadoSelect.tema.listaCompleta = [];
             for (const [chave, valorObj] of Object.entries(temas)) {
-                const option = new Option(valorObj.nome, chave);
-                selectTema.add(option);
+                estadoSelect.tema.listaCompleta.push({ chave, nome: valorObj.nome });
             }
-            // Após popular, atualiza o contador para o tema selecionado
+            
+            estadoSelect.tema.listaFiltrada = [...estadoSelect.tema.listaCompleta];
+            renderizarOpcoesTema();
+            
+            // Seleciona o primeiro tema por padrão
+            if (estadoSelect.tema.listaCompleta.length > 0) {
+                const primeiro = estadoSelect.tema.listaCompleta[0];
+                selecionarTema(primeiro.chave, primeiro.nome);
+            } else {
+                selecionarTema(null, 'Nenhum tema');
+            }
+        }
+
+        // ### NOVA FUNÇÃO (DROPDOWN) ###
+        /**
+         * Renderiza as opções de tema (usado pela busca).
+         */
+        function renderizarOpcoesTema() {
+            selectTemaOptions.innerHTML = ''; // Limpa
+            
+            if (estadoSelect.tema.listaFiltrada.length === 0) {
+                selectTemaOptions.innerHTML = '<div class="custom-select-option text-gray-500">Nenhum tema encontrado.</div>';
+                return;
+            }
+
+            estadoSelect.tema.listaFiltrada.forEach(tema => {
+                const optionEl = document.createElement('div');
+                optionEl.className = 'custom-select-option';
+                optionEl.textContent = tema.nome;
+                optionEl.dataset.value = tema.chave;
+
+                if(tema.chave === estadoSelect.tema.chave) {
+                    optionEl.classList.add('selected');
+                }
+
+                optionEl.addEventListener('click', () => {
+                    selecionarTema(tema.chave, tema.nome);
+                    selectTemaList.classList.add('hidden');
+                });
+                selectTemaOptions.appendChild(optionEl);
+            });
+        }
+        
+        // ### NOVA FUNÇÃO (DROPDOWN) ###
+        /**
+         * Define o tema selecionado.
+         */
+        function selecionarTema(chave, nome) {
+            estadoSelect.tema.chave = chave;
+            estadoSelect.tema.nome = nome;
+            selectTemaValue.textContent = nome;
+
+            // Atualiza destaque na lista filtrada
+            Array.from(selectTemaOptions.children).forEach(child => {
+                child.classList.toggle('selected', child.dataset.value === chave);
+            });
+            
+            resetarEstadoProva();
             atualizarContadorProvaUI();
         }
 
@@ -349,8 +599,8 @@
          * Carrega e exibe o desempenho anterior SE for da mesma prova.
          */
         function carregarHistoricoProvaEspecifica(urlProvaCarregada) {
-            const disciplinaKey = selectDisciplina.value;
-            const temaKey = selectTema.value;
+            const disciplinaKey = estadoSelect.disciplina.chave;
+            const temaKey = estadoSelect.tema.chave;
             const storageKey = `meujus-score-${disciplinaKey}-${temaKey}`; // Chave de score
             
             const historicoJSON = localStorage.getItem(storageKey);
@@ -414,8 +664,11 @@
             divStatus.textContent = 'Carregando prova...';
             divStatus.classList.remove('hidden');
             
-            const disciplinaKey = selectDisciplina.value;
-            const temaKey = selectTema.value;
+            // ### MODIFICADO (DROPDOWN) ###
+            const disciplinaKey = estadoSelect.disciplina.chave;
+            const temaKey = estadoSelect.tema.chave;
+            // ### FIM DA MODIFICAÇÃO ###
+
             const temaInfo = dbDisciplinas[disciplinaKey]?.temas[temaKey];
             
             if (!temaInfo || !temaInfo.provas || temaInfo.provas === 0) {
@@ -504,8 +757,9 @@
          * Atualiza o texto do contador (ex: "Próxima prova: 1 / 10").
          */
         function atualizarContadorProvaUI() {
-            const disciplinaKey = selectDisciplina.value;
-            const temaKey = selectTema.value;
+            // ### MODIFICADO (DROPDOWN) ###
+            const disciplinaKey = estadoSelect.disciplina.chave;
+            const temaKey = estadoSelect.tema.chave;
             
             if (!disciplinaKey || !temaKey || !dbDisciplinas[disciplinaKey] || !dbDisciplinas[disciplinaKey].temas[temaKey]) {
                 divContadorProva.classList.add('hidden');
@@ -513,6 +767,7 @@
             }
 
             const temaInfo = dbDisciplinas[disciplinaKey].temas[temaKey];
+            // ### FIM DA MODIFICAÇÃO ###
             const numProvas = temaInfo.provas;
             const indiceStorageKey = `meujus-index-${disciplinaKey}-${temaKey}`;
             
@@ -715,8 +970,10 @@
          * Salva o placar final no localStorage, associado à URL da prova específica.
          */
         function salvarDesempenho(acertos, total, percent) {
-            const disciplinaKey = selectDisciplina.value;
-            const temaKey = selectTema.value;
+            // ### MODIFICADO (DROPDOWN) ###
+            const disciplinaKey = estadoSelect.disciplina.chave;
+            const temaKey = estadoSelect.tema.chave;
+            // ### FIM DA MODIFICAÇÃO ###
             const storageKey = `meujus-score-${disciplinaKey}-${temaKey}`; // Chave de score
             const scoreString = `${acertos}/${total} (${percent}%) - em ${formatarTempo(segundosCronometro)}`;
             
