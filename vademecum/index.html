@@ -142,6 +142,16 @@
 
         /* --- ESTILOS INJETADOS (AGORA NA PÁGINA PRINCIPAL) --- */
         
+        /* *** NOVO: Adiciona "respiro" (margem) antes das epígrafes/títulos *** */
+        #codeContent p[align="CENTER"],
+        #codeContent div[align="CENTER"] {
+            margin-top: 1.5rem; /* 24px de espaço acima */
+            margin-bottom: 0.5rem; /* 8px de espaço abaixo */
+            font-weight: 600; /* Negrito */
+            color: #111827; /* text-gray-900 (preto) */
+            font-size: 1rem; /* Tamanho da fonte (pode ajustar) */
+        }
+
         /* Garante que o padding seja aplicado ao container principal do HTML original se houver */
         #codeContent div[align="center"] + p, 
         #codeContent > p {
@@ -155,7 +165,7 @@
             overflow-wrap: break-word !important;
         }
 
-        /* *** NOVO (Problema 2): Estilo para texto entre parênteses *** */
+        /* Estilo para texto entre parênteses */
         #codeContent .parenthesis-text {
             color: #4B5563; /* text-gray-600 (aprox. 80% preto) */
         }
@@ -486,7 +496,7 @@
                         return;
                     }
                     
-                    // Ignora nós que já estão dentro de um link
+                    // Ignora nós que já estão dentro de um link (eles já têm estilo)
                     if (node.parentElement.tagName === 'A') {
                         return;
                     }
@@ -551,6 +561,7 @@
                          // Limpa o texto (remove "Redação dada...", etc.) ANTES de salvar no Map
                          const cleanText = fullText.replace(/(\(Redação dada pela Lei.*\)|\(Incluído pela Lei.*\)|Vide Lei.*\))/gi, '').trim().replace(/\s\s+/g, ' ');
                          
+                         // *** CORRIGIDO: Salva o texto limpo, mas só se ele não for vazio ***
                          if (cleanText && cleanText.length > 3) {
                              articleTextMap.set(uniqueArticleId, cleanText);
                          } else {
