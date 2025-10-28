@@ -142,14 +142,48 @@
 
         /* --- ESTILOS INJETADOS (AGORA NA PÁGINA PRINCIPAL) --- */
         
-        /* *** NOVO: Adiciona "respiro" (margem) antes das epígrafes/títulos *** */
+        /* *** NOVO (Problema 2): Padronização de Fonte/Tamanho *** */
+        #codeContent, 
+        #codeContent p, 
+        #codeContent div, 
+        #codeContent span, 
+        #codeContent font,
+        #codeContent a {
+            font-family: 'Inter', sans-serif !important;
+            font-size: 16px !important; /* Tamanho padrão */
+            line-height: 1.6 !important; /* Bom espaçamento */
+            color: #1f2937 !important; /* text-gray-800, um preto suave */
+            /* Incluindo a regra de quebra de linha que já existia */
+            word-break: break-word !important; 
+            overflow-wrap: break-word !important;
+            /* Reseta alinhamentos estranhos (exceto os centrais) */
+            text-align: left !important; 
+            justify-content: left !important;
+        }
+        /* Links precisam de cor e decoração próprias */
+        #codeContent a {
+            color: #2563EB !important; /* text-blue-600 */
+            text-decoration: none !important;
+        }
+        #codeContent a:hover {
+            text-decoration: underline !important;
+        }
+
+
+        /* Mantém os títulos das seções (epígrafes) centralizados */
         #codeContent p[align="CENTER"],
         #codeContent div[align="CENTER"] {
             margin-top: 1.5rem; /* 24px de espaço acima */
             margin-bottom: 0.5rem; /* 8px de espaço abaixo */
-            font-weight: 600; /* Negrito */
-            color: #111827; /* text-gray-900 (preto) */
-            font-size: 1rem; /* Tamanho da fonte (pode ajustar) */
+            font-weight: 600 !important; 
+            color: #111827 !important; /* text-gray-900 (preto) */
+            font-size: 1rem !important; /* 16px */
+            text-align: center !important; /* Garante a centralização */
+        }
+
+        /* *** NOVO (Problema 1): Adiciona "respiro" antes de cada Artigo *** */
+        #codeContent .article-start-spacing {
+            margin-top: 1rem !important; /* 16px de espaço */
         }
 
         /* Garante que o padding seja aplicado ao container principal do HTML original se houver */
@@ -159,15 +193,9 @@
             padding-right: 8px;
         }
 
-        /* Força a quebra de linha em TUDO para evitar estouro */
-        #codeContent p, #codeContent div, #codeContent span, #codeContent a, #codeContent font {
-            word-break: break-word !important; 
-            overflow-wrap: break-word !important;
-        }
-
         /* Estilo para texto entre parênteses */
         #codeContent .parenthesis-text {
-            color: #868a8f; 
+            color: #4B5563 !important; /* text-gray-600 */
         }
 
         /* Estilo de seleção manual (azul claro) */
@@ -273,17 +301,12 @@
                     Código Penal (Decreto-Lei nº 2.848/1940)
                 </button>
                 <!-- Botão para carregar o Código Civil (caminho atualizado para data/ e nome do arquivo) -->
-                <button onclick="loadCode('data/civil1.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
+                <button onclick="loadCode('data/codigo-civil.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                      Código Civil
-                    </button>
-                    <!-- Botão para carregar o Código Processo Civil (caminho atualizado para data/ e nome do arquivo) -->
-                <button onclick="loadCode('data/processocivil.html', 'Código Processo Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
-                     Código Processo Civil
-                     </button>
-                    <!-- Botão para carregar o Código Processo Penal (caminho atualizado para data/ e nome do arquivo) -->
-                <button onclick="loadCode('data/processopenal.html', 'Código Processo Penal', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
-                     Código Processo Penal
-                
+                 </button>
+                 <!-- Placeholder para Constituição Federal -->
+                 <div class="w-full bg-gray-200 p-4 rounded-lg shadow text-left text-lg font-medium text-gray-500 opacity-50">
+                    Constituição Federal (Em breve)
                 </div>
             </div> <!-- Fechamento correto do div space-y-4 -->
         </div>
@@ -421,7 +444,7 @@
                 setTimeout(() => {
                     preparePageContent(codeContent, dynamicBaseUrl); // Prepara links e imagens
                     prepareElementsForSelection(codeContent); // Mapeia artigos e adiciona listeners
-                    styleParentheses(codeContent); // *** NOVO (Problema 2): Estiliza parênteses ***
+                    styleParentheses(codeContent); // Estiliza parênteses
                 }, 150); 
 
             } catch (error) {
@@ -432,8 +455,6 @@
         }
 
         // --- Preparação do Conteúdo (Antigo Iframe) ---
-
-        // *** CORRIGIDO (Problema 1): Removidas as funções isRelevantElement e extractArticleText ***
 
         // Função para corrigir links e imagens (agora no container)
         function preparePageContent(container, baseUrl) {
@@ -481,7 +502,7 @@
             }
         }
         
-         // *** NOVO (Problema 2): Função para estilizar texto em parênteses ***
+         // Função para estilizar texto em parênteses
          function styleParentheses(container) {
             try {
                 const textNodes = [];
@@ -540,7 +561,7 @@
             }
          }
 
-         // *** CORRIGIDO (Problema 1): Prepara TODOS os parágrafos para seleção ***
+         // Prepara TODOS os parágrafos para seleção
          function prepareElementsForSelection(container) {
              try {
                  if (!container) {
@@ -557,6 +578,11 @@
                  elements.forEach(el => {
                      const fullText = el.textContent.trim();
                      
+                     // *** NOVO: Adiciona respiro antes de "Art." ***
+                     if (fullText.startsWith('Art.') || fullText.startsWith('Art ')) {
+                         el.classList.add('article-start-spacing');
+                     }
+                     
                      // Só adiciona o ID se houver texto, para não selecionar <p> vazios ou tags de layout
                      if (fullText && fullText.length > 3) { 
                          articleCounter++;
@@ -566,7 +592,7 @@
                          // Limpa o texto (remove "Redação dada...", etc.) ANTES de salvar no Map
                          const cleanText = fullText.replace(/(\(Redação dada pela Lei.*\)|\(Incluído pela Lei.*\)|Vide Lei.*\))/gi, '').trim().replace(/\s\s+/g, ' ');
                          
-                         // *** CORRIGIDO: Salva o texto limpo, mas só se ele não for vazio ***
+                         // Salva o texto limpo, mas só se ele não for vazio
                          if (cleanText && cleanText.length > 3) {
                              articleTextMap.set(uniqueArticleId, cleanText);
                          } else {
@@ -603,7 +629,7 @@
              }, 2000); 
         }
 
-        // *** CORRIGIDO (Problema 1): Lógica de clique agora funciona em QUALQUER [data-article-id] ***
+        // Lógica de clique agora funciona em QUALQUER [data-article-id]
         function codeContentClickHandler(event) {
              if (fabState !== 'selecting') return; // Só funciona em modo de seleção
 
