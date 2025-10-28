@@ -155,6 +155,11 @@
             overflow-wrap: break-word !important;
         }
 
+        /* *** NOVO (Problema 2): Estilo para texto entre parênteses *** */
+        #codeContent .parenthesis-text {
+            color: #4B5563; /* text-gray-600 (aprox. 80% preto) */
+        }
+
         /* Estilo de seleção manual (azul claro) */
         #codeContent .manual-selection {
              background-color: #e0f2fe !important; /* Azul claro */
@@ -401,6 +406,7 @@
                 setTimeout(() => {
                     preparePageContent(codeContent, dynamicBaseUrl); // Prepara links e imagens
                     prepareElementsForSelection(codeContent); // Mapeia artigos e adiciona listeners
+                    styleParentheses(codeContent); // *** NOVO (Problema 2): Estiliza parênteses ***
                 }, 150); 
 
             } catch (error) {
@@ -412,26 +418,7 @@
 
         // --- Preparação do Conteúdo (Antigo Iframe) ---
 
-        function isRelevantElement(element) {
-            if (!element || !element.tagName) return false;
-            if (!['P', 'DIV'].includes(element.tagName)) return false; 
-            const text = element.textContent.trim();
-             // Regex melhorada para evitar capturar linhas em branco ou tags <p> vazias
-             if (text.length < 3) return false; 
-             return text.match(/^(Art\.\s*\d+[º°]?[\w-]*\.?)|(Parágrafo único)|(§\s*\d+[º°]?\.?)|(^[a-z]\))|(^[IVXLCDM]+\s*-)/i);
-        }
-
-        function extractArticleText(startElement) {
-            let text = startElement.textContent.trim();
-            let currentElement = startElement.nextElementSibling;
-            while (currentElement && ['P', 'DIV'].includes(currentElement.tagName) && !isRelevantElement(currentElement)) {
-                 text += "\n" + currentElement.textContent.trim();
-                 currentElement = currentElement.nextElementSibling;
-            }
-            text = text.replace(/(\(Redação dada pela Lei.*\)|\(Incluído pela Lei.*\)|Vide Lei.*\))/gi, '').trim();
-            text = text.replace(/\s\s+/g, ' '); 
-            return text;
-        }
+        // *** CORRIGIDO (Problema 1): Removidas as funções isRelevantElement e extractArticleText ***
 
         // Função para corrigir links e imagens (agora no container)
         function preparePageContent(container, baseUrl) {
@@ -479,7 +466,66 @@
             }
         }
         
-         // Prepara elementos para Seleção (Mapeia texto e adiciona listeners)
+         // *** NOVO (Problema 2): Função para estilizar texto em parênteses ***
+         function styleParentheses(container) {
+            try {
+                const textNodes = [];
+                // Cria um TreeWalker para achar todos os nós de texto dentro do container
+                const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null, false);
+                let node;
+                while (node = walker.nextNode()) {
+                    textNodes.push(node);
+                }
+
+                // Regex para encontrar texto entre parênteses (não ganancioso)
+                const regex = /(\(.*?\))/g; 
+
+                textNodes.forEach(node => {
+                    // Ignora nós dentro de <script> ou <style> (embora o parser deva ter removido)
+                    if (node.parentElement.tagName === 'SCRIPT' || node.parentElement.tagName === 'STYLE') {
+                        return;
+                    }
+                    
+                    // Ignora nós que já estão dentro de um link
+                    if (node.parentElement.tagName === 'A') {
+                        return;
+                    }
+
+                    const text = node.textContent;
+                    if (regex.test(text)) {
+                        const fragment = document.createDocumentFragment();
+                        let lastIndex = 0;
+                        
+                        text.replace(regex, (match, group1, offset) => {
+                            // Adiciona texto antes do match
+                            fragment.appendChild(document.createTextNode(text.substring(lastIndex, offset)));
+                            
+                            // Cria o span estilizado
+                            const span = document.createElement('span');
+                            span.className = 'parenthesis-text';
+                            span.textContent = match; // 'match' é o texto com ( )
+                            fragment.appendChild(span);
+                            
+                            lastIndex = offset + match.length;
+                        });
+                        
+                        // Adiciona o resto do texto (se houver)
+                        if (lastIndex < text.length) {
+                            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+                        }
+                        
+                        // Substitui o nó de texto original pelo fragmento
+                        if (fragment.childNodes.length > 0) {
+                             node.parentNode.replaceChild(fragment, node);
+                        }
+                    }
+                });
+            } catch (e) {
+                 console.error("Erro ao estilizar parênteses: ", e);
+            }
+         }
+
+         // *** CORRIGIDO (Problema 1): Prepara TODOS os parágrafos para seleção ***
          function prepareElementsForSelection(container) {
              try {
                  if (!container) {
@@ -487,31 +533,35 @@
                      setTimeout(() => prepareElementsForSelection(container), 300);
                      return;
                  }
-
-                 // 1. CSS já está no <head>
                  
-                 // 2. Mapeia os artigos
+                 // 1. Mapeia os artigos (TODOS os <p> e <div> com texto)
                  const elements = container.querySelectorAll('p, div'); 
                  let articleCounter = 0;
                  articleTextMap.clear();
 
                  elements.forEach(el => {
-                     if (isRelevantElement(el)) {
+                     const fullText = el.textContent.trim();
+                     
+                     // Só adiciona o ID se houver texto, para não selecionar <p> vazios ou tags de layout
+                     if (fullText && fullText.length > 3) { 
                          articleCounter++;
                          const uniqueArticleId = `article-${articleCounter}`;
                          el.dataset.articleId = uniqueArticleId;
 
-                         const fullText = extractArticleText(el);
-                         if (fullText && fullText.length >= 5) {
-                            articleTextMap.set(uniqueArticleId, fullText);
+                         // Limpa o texto (remove "Redação dada...", etc.) ANTES de salvar no Map
+                         const cleanText = fullText.replace(/(\(Redação dada pela Lei.*\)|\(Incluído pela Lei.*\)|Vide Lei.*\))/gi, '').trim().replace(/\s\s+/g, ' ');
+                         
+                         if (cleanText && cleanText.length > 3) {
+                             articleTextMap.set(uniqueArticleId, cleanText);
                          } else {
-                             delete el.dataset.articleId; // Não mapeia elementos vazios
+                             // Se o texto limpo for inútil (só tinha "Vide Lei..."), não o torna selecionável
+                             delete el.dataset.articleId;
                          }
                      }
                  });
                  console.log(`Elementos mapeados para seleção: ${articleTextMap.size}`);
                  
-                 // 3. Adiciona o listener de clique no container
+                 // 2. Adiciona o listener de clique no container
                  container.addEventListener('click', (event) => {
                      codeContentClickHandler(event);
                  });
@@ -537,12 +587,13 @@
              }, 2000); 
         }
 
-        // Manipulador de clique no #codeContent
+        // *** CORRIGIDO (Problema 1): Lógica de clique agora funciona em QUALQUER [data-article-id] ***
         function codeContentClickHandler(event) {
              if (fabState !== 'selecting') return; // Só funciona em modo de seleção
 
+             // Encontra o parágrafo clicado que foi mapeado
              const targetElement = event.target.closest('[data-article-id]');
-             if (!targetElement) return;
+             if (!targetElement) return; // Se clicou no fundo ou num <p> vazio, ignora
 
              event.preventDefault();
              event.stopPropagation();
