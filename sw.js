@@ -5,8 +5,10 @@ const CACHE_NAME = 'vademecum-cache-v2'; // v2 para forçar a atualização por 
 const preCacheFiles = [
     './', // Página principal (index.html)
     './index.html', // Alias para a página principal
-    './data/DEL2848compilado.html', // Caminho atualizado
-    './data/codigo-civil.html'      // Caminho atualizado
+    '.vademeum/data/DEL2848compilado.html', // Caminho atualizado
+    '.vademeum/data/civil1.html'      // Caminho atualizado
+    '.vademeum/data/processocivil.html'      // Caminho atualizado
+    '.vademeum/data/processopenal.html'      // Caminho atualizado
     // Adicione aqui outros arquivos da pasta 'data/' que queira no cache inicial
 ];
 
