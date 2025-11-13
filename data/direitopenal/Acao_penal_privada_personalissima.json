@@ -1,0 +1,63 @@
+[
+  {
+    "id": "395563",
+    "metadata": "Ano: 2014 | Banca: Aroeira | Órgão: PC-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal privada personalíssima"
+    ],
+    "enunciado_principal": "É de ação penal de iniciativa privada personalíssima do ofendido, o crime de :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conhecimento prévio de impedimento."
+      },
+      {
+        "letra": "B",
+        "texto": "simulação de autoridade para celebração de casamento"
+      },
+      {
+        "letra": "C",
+        "texto": "simulação de casamento."
+      },
+      {
+        "letra": "D",
+        "texto": "induzimento a erro essencial e ocultação de impedi- mento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "294911",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada propriamente dita ou exclusiva",
+      "Ação penal privada personalíssima"
+    ],
+    "enunciado_principal": "É certo afirmar: I. Por ser o inquérito policial desvinculado da ação penal, não a prescindindo, é admissível que a Autoridade Policial deixe de atender às requisições do Ministério Público, quando entender serem impertinentes. II. É cabível a substituição de uma modalidade de pena restritiva de direitos por outra, aplicada em sede de transação penal, pelo juízo do conhecimento, a requerimento do interessado, ouvido o Ministério Público. III. Havendo retratação da representação, poderá o Promotor de Justiça requerer o arquivamento dos autos do inquérito policial ou das peças de informação. IV. A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de representação do ofendido ou de requisição do Ministério da Justiça. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

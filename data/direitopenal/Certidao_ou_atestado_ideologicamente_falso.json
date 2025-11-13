@@ -1,0 +1,571 @@
+[
+  {
+    "id": "2307601",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "No título X da Parte Especial, o Código Penal descreve os crimes contra a fé pública. Dentre esses crimes, no que toca ao sujeito ativo, alguns são classificados como comuns, outros como próprios. Diante do exposto, trata-se de crime próprio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "moeda falsa;"
+      },
+      {
+        "letra": "B",
+        "texto": "falsa identidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento público;"
+      },
+      {
+        "letra": "D",
+        "texto": "supressão de documento;"
+      },
+      {
+        "letra": "E",
+        "texto": "certidão ou atestado ideologicamente falso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2067122",
+    "metadata": "Ano: 2022 | Banca: INEP BRASIL | Órgão: Prefeitura de Palestina de Goiás - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "A fé pública é entendida como a crença na autenticidade e na veracidade de documentos e outros papéis especialmente previstos que circulam no meio social. Este bem jurídico é tutelado pelo Estado, como representante da coletividade organizada, configurando, ao mesmo tempo, uma abstração e uma realidade. Qual alternativa está errada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsificação de documentos públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificação ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Falsidade de atestado médico."
+      },
+      {
+        "letra": "E",
+        "texto": "Falsificação de moeda."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1151897",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Francisco Morato - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "O dentista, funcionário público, que, no exercício de sua função pública, emite atestado falso, em favor do amigo, certificando consulta inexistente, para abono de falta no trabalho, pratica o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "certidão ou atestado ideologicamente falso (art. 301, do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade de atestado médico (art. 302, do CP)."
+      },
+      {
+        "letra": "C",
+        "texto": "falsidade material de atestado ou certidão (art. 301, parágrafo 1º , do CP)."
+      },
+      {
+        "letra": "D",
+        "texto": "prevaricação (art. 319, do CP)."
+      },
+      {
+        "letra": "E",
+        "texto": "corrupção passiva (art. 317, do CP)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "905940",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a dignidade sexual",
+      "Favorecimento da prostituição ou outra forma de exploração sexual",
+      "Crimes contra a fé pública",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Tendo em conta os crimes contra a dignidade sexual (artigos 213 a 234-B do Código Penal) e os crimes contra a fé pública (artigos 289 a 311 do Código Penal), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocultar documento público ou particular verdadeiro, em prejuízo alheio, não configura o crime de supressão de documento (art. 305 do CP), sendo típicas apenas as condutas de suprimir e destruir documento público ou particular verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "O cartão de crédito ou débito, para fins penais, é equiparado a documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta de manter estabelecimento em que ocorra exploração sexual é atípica, desde que não envolva menor de 18 (dezoito) anos."
+      },
+      {
+        "letra": "D",
+        "texto": "A conduta de atrair alguém à prostituição é atípica, desde que não se trate de pessoa menor de 18 (dezoito) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes de falso reconhecimento de firma ou letra (art. 300 do CP); certidão ou atestado ideologicamente falso (art. 301 do CP) e falsidade material de atestado ou certidão (art. 301, parágrafo 1° do CP) são próprios de funcionários públicos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "866219",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TCE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Analise o caso hipotético a seguir. Maria, com 55 anos de idade, declara, por pura vaidade, num documento público perante uma repartição pública estadual que tem 47 anos de idade. Desse modo, tal afirmativa é falsa, e, apesar disso, tal assertiva não provocou nenhuma consequência. Considerando o caso descrito, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maria cometeu o crime previsto no Art. 297 do Código Penal (falsificação de documento público)."
+      },
+      {
+        "letra": "B",
+        "texto": "Maria cometeu o crime previsto no Art. 298 do Código Penal (falsificação de documento particular)."
+      },
+      {
+        "letra": "C",
+        "texto": "Maria cometeu o crime previsto no Art. 299 do Código Penal (falsidade ideológica)."
+      },
+      {
+        "letra": "D",
+        "texto": "Maria cometeu o crime previsto no Art. 301 do Código Penal (certidão ou atestado ideologicamente falso)."
+      },
+      {
+        "letra": "E",
+        "texto": "Maria não cometeu crime algum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "831163",
+    "metadata": "Ano: 2017 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Supressão de documento",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Sobre os crimes de falsidade documental previstos no Código Penal, analise as proposições abaixo: I - O crime de falsificação de documento público consiste em omitir, em documento público, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. II - O crime de falsificação de documento particular consiste em omitir, em documento particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. III - O crime de supressão de documento consiste em destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento público ou particular verdadeiro, de que não podia dispor. IV - O crime de falsidade de atestado médico consiste em dar o médico, no exercício da sua profissão, atestado falso.Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "531758",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Câmara Municipal de Itatiba - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento público",
+      "Falsidade ideológica",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Sobre os crimes contra a Fé Pública, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para a configuração do crime de falsidade ideológica, basta que o agente omita, em documento público ou particular, declaração que dele deveria constar, ou, em documento público ou particular, insira ou faça inserir declaração falsa ou diversa da que deveria ser escrita, sem finalidade específica."
+      },
+      {
+        "letra": "B",
+        "texto": "aquele que recebe moeda falsa, de boa-fé, como verdadeira, e a restitui à circulação depois de conhecer a falsidade será isento de pena."
+      },
+      {
+        "letra": "C",
+        "texto": "um dentista que, no exercício da profissão, fornece atestado falso responde pelo crime de falsidade de atestado médico."
+      },
+      {
+        "letra": "D",
+        "texto": "para os efeitos penais, o cheque pode ser objeto do crime de falsificação de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "o crime de falso reconhecimento de firma ou letra não se consuma em casos de documentos particulares."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "406903",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade ideológica",
+      "Certidão ou atestado ideologicamente falso",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Fraude processual"
+    ],
+    "enunciado_principal": "Analise a opção CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constitui crime de falsidade ideológica (art. 299 CP), omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante, sendo que a causa de aumento prevista no parágrafo único, somente se aplica se o agente é funcionário público, e comete o crime prevalecendo-se do cargo."
+      },
+      {
+        "letra": "B",
+        "texto": "Constitui o crime de fraude processual (art. 347 CP), inovar artificiosamente, na pendência de processo civil ou administrativo, o estado de lugar, de coisa ou de pessoa, com o fim de induzir a erro o juiz ou o perito, sendo que se a inovação se destina a produzir efeito em processo penal, desde que já iniciado, as penas aplicam-se em dobro."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui o crime de concussão (art. 316 CP), solicitar, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui crime de certidão ou atestado ideologicamente falso (art. 301 CP), atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem, sendo que se o crime é praticado com o fim de lucro, aplica- se, além da pena privativa de liberdade, a de multa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "406435",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: SEDS-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "Fulano da Silva, que está cumprindo a pena em regime fechado, apresentou atestado falso de prestação de serviço para fim de instruir seu pedido de remição. Diante de tal situação, a Lei de Execução Penal prevê que o condenado cometeu o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de documento falso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "381220",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Em relação aos crimes contra a fé pública, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Funcionário de cartório de notas que reconhecer como verdadeira, em documento particular, firma que não o seja, comete o crime de falsificação de documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "Médico da rede pública que emite atestado médico com conteúdo falso, com o intuito de habilitar paciente seu para o exercício de cargo público, incorre na prática do crime de atestado ideologicamente falso."
+      },
+      {
+        "letra": "C",
+        "texto": "Considere que determinado empregado de empresa pública tenha falsificado sua própria carteira nacional de habilitação com a finalidade de comprovar sua capacidade legal para a condução de motocicleta. Nessa situação, o referido empregado pratica o crime de falsificação de documento público, devendo a pena prevista ser aumentada em razão da função pública ostentada."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com a jurisprudência do STJ, não configura crime de falsificação de documento público a alteração de fotocópia autenticada de documento, visto que o conceito de documento público está restrito à sua versão original."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que declara em cartório nascimento inexistente comete o crime de falsidade ideológica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "684273",
+    "metadata": "Ano: 2013 | Banca: ADVISE | Órgão: Prefeitura de Brejo da Madre de Deus - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "De acordo com a Lei 2.848/40, omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante é uma característica criminal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de falso reconhecimento de firma;"
+      },
+      {
+        "letra": "B",
+        "texto": "de certidão ou atestado ideologicamente falso;"
+      },
+      {
+        "letra": "C",
+        "texto": "de falsidade de atestado médico;"
+      },
+      {
+        "letra": "D",
+        "texto": "de supressão de documento;"
+      },
+      {
+        "letra": "E",
+        "texto": "de falsidade ideológica."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "468956",
+    "metadata": "Ano: 2013 | Banca: ADVISE | Órgão: Prefeitura de Exu - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento público ou particular verdadeiro, de que não podia dispor, se refere ao crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Supressão de documento;"
+      },
+      {
+        "letra": "B",
+        "texto": "Falsificação de documentos;"
+      },
+      {
+        "letra": "C",
+        "texto": "Reclusão de documentos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Usurpação de documentos;"
+      },
+      {
+        "letra": "E",
+        "texto": "Ameaça à documentos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "348183",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Julgue o próximo item, relativo a crimes contra a fé pública. A consumação do crime de atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem ocorre no instante em que o documento falso é criado, independentemente da sua efetiva utilização pelo beneficiário",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "275384",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso",
+      "Uso de documento falso",
+      "Supressão de documento",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a fé pública, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O simples porte de documento de identidade falsificado caracteriza-se como crime de uso de documento falso."
+      },
+      {
+        "letra": "B",
+        "texto": "A consumação do crime de falsa identidade depende da obtenção da vantagem pretendida pelo agente, com a atribuição falsa da identidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de documento verdadeiro de identidade de terceiro caracteriza-se como crime de uso de documento falso."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de certidão ou atestado falso consuma-se com o uso do documento falsificado e enseja a punição da falsidade material e da falsidade ideológica."
+      },
+      {
+        "letra": "E",
+        "texto": "Considere que um homem tenha retirado o edital de citação de sua companheira, o qual estava afixado na entrada do fórum de sua cidade, a fim de evitar que outras pessoas tomassem conhecimento desse documento. Nessa situação, esse homem responderá pelo delito de supressão de documento público."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "270739",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Dispõe o artigo 301, § 1º do Código Penal: “Falsificar, no todo ou em parte, atestado ou certidão, ou alterar o teor de certidão ou atestado verdadeiro, para prova de fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem. Pena – detenção de 3 (três) meses a 2 (dois) anos”. São características do delito tipificado no referido artigo de lei, EXCETO tratar-se de crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "unissubsistente."
+      },
+      {
+        "letra": "B",
+        "texto": "monossubjetivo."
+      },
+      {
+        "letra": "C",
+        "texto": "contra a fé pública."
+      },
+      {
+        "letra": "D",
+        "texto": "de menor potencial ofensivo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "235498",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "É crime próprio, que somente pode ter como sujeito ativo o servidor público, falsificar, no todo ou em parte, atestado ou certidão, ou alterar o teor de certidão ou atestado, para produzir prova de fato que habilite alguém a obter cargo público.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "204603",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TCE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Dentre os crimes contra a fé pública, NÃO constitui crime próprio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a falsificação de selo ou sinal público."
+      },
+      {
+        "letra": "B",
+        "texto": "o falso reconhecimento de firma ou letra."
+      },
+      {
+        "letra": "C",
+        "texto": "a certidão ou atestado ideologicamente falso."
+      },
+      {
+        "letra": "D",
+        "texto": "a falsidade de atestado médico."
+      },
+      {
+        "letra": "E",
+        "texto": "a fraude de lei sobre estrangeiro."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

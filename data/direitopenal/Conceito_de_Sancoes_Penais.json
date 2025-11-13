@@ -1,0 +1,272 @@
+[
+  {
+    "id": "3272339",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "De acordo com entendimento sumulado do STJ, a posse, pelo apenado, de aparelho celular ou de seus componentes essenciais constitui falta __________, sendo __________ perícia. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "média – prescindível"
+      },
+      {
+        "letra": "B",
+        "texto": "grave – imprescindível"
+      },
+      {
+        "letra": "C",
+        "texto": "leve – imprescindível"
+      },
+      {
+        "letra": "D",
+        "texto": "grave – prescindível"
+      },
+      {
+        "letra": "E",
+        "texto": "média – imprescindível"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2098986",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "Referente às espécies de pena e regimes previstos na legislação penal brasileira, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os condenados por crime hediondo, em razão do princípio da igualdade, iniciarão o cumprimento da pena de acordo com a quantidade fixada pelo Magistrado, observado o disposto no art. 33, §2º do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "as penas de reclusão e detenção podem ter o cumprimento iniciado no regime aberto, semiaberto e fechado, conforme o caso; enquanto as penas de prisão simples somente podem ser cumpridas inicialmente em regime aberto."
+      },
+      {
+        "letra": "C",
+        "texto": "a reincidência pode ensejar a fixação de regime prisional fechado, exceto para os crimes apenados com detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "não são possíveis, no ordenamento brasileiro, a progressão ou a regressão de regime prisional por salto."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1959613",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais"
+    ],
+    "enunciado_principal": "Sobre as teorias da pena, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ideal reabilitador é concretamente valorizado no Brasil diante das amplas políticas de acesso ao trabalho e ao estudo nas prisões."
+      },
+      {
+        "letra": "B",
+        "texto": "a política de interiorização de presídios encontra na teoria da prevenção especial positiva o seu fundamento legitimador."
+      },
+      {
+        "letra": "C",
+        "texto": "o retributivismo carece de renovação teórica desde Kant e Hegel, embora esteja presente na legislação brasileira."
+      },
+      {
+        "letra": "D",
+        "texto": "a pena de prisão não produz qualquer efeito de acordo com a teoria agnóstica e negativa da pena."
+      },
+      {
+        "letra": "E",
+        "texto": "as políticas de confinamento extremo, como o regime disciplinar diferenciado, coadunam-se com os ideais da teoria da prevenção especial negativa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "987757",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais",
+      "Finalidades"
+    ],
+    "enunciado_principal": "Segundo a teoria relativa especial negativa,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a pena, além de infundir na consciência geral a necessidade de respeito a determinados valores, exercita a fidelidade ao direito e promove a integração social."
+      },
+      {
+        "letra": "B",
+        "texto": "a reprimenda penal tem a finalidade de ressocializar o apenado e atender a uma função social."
+      },
+      {
+        "letra": "C",
+        "texto": "a pena deve punir o infrator, por meio de vingança do mal causado; essa teoria não é admitida pelo ordenamento jurídico pátrio."
+      },
+      {
+        "letra": "D",
+        "texto": "a pena possui um viés retributivo do mal praticado, e não uma função preventiva da reprimenda."
+      },
+      {
+        "letra": "E",
+        "texto": "a pena tem finalidade social, com aplicação de medidas restritivas de direitos do apenado, de forma a neutralizá-lo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1026053",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: IAPEN-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais"
+    ],
+    "enunciado_principal": "São espécies de penas restritivas de direitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prisão administrativa e limitação de fim de semana."
+      },
+      {
+        "letra": "B",
+        "texto": "a multa e prestação de serviço à comunidade."
+      },
+      {
+        "letra": "C",
+        "texto": "o regime aberto e remição."
+      },
+      {
+        "letra": "D",
+        "texto": "a prestação pecuniária e interdição temporária de direitos."
+      },
+      {
+        "letra": "E",
+        "texto": "o livramento condicional e comutação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "564005",
+    "metadata": "Ano: 2015 | Banca: FAPEC | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O filósofo Imannuel Kant foi um dos expoentes da concepção retributiva da pena, entendendo ser esta uma exigência ética irrenunciável, qualificando-a como um imperativo categórico, sendo a pena um fim em si mesma, não lhe correspondendo nada mais que simplesmente realizar a justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "Para Hegel, também adepto do pensamento retributivo da pena, o Direito é a expressão da vontade racional e o delito constitui a expressão de uma contradição à racionalidade, sendo que a pena surge como um papel restaurador ou retributivo, fundamentando-se em razões de necessidade jurídica."
+      },
+      {
+        "letra": "C",
+        "texto": "Para Carrara, destaque da Escola Clássica, a pena fundamenta-se no restabelecimento da ordem externa da sociedade, quebrada pelo delito."
+      },
+      {
+        "letra": "D",
+        "texto": "Von Liszt – expoente das teorias relativas da pena – sustentou que a pena é idealizada como exemplo, voltada a dissuadir pela demonstração de desagrado e pela geração de um prejuízo."
+      },
+      {
+        "letra": "E",
+        "texto": "As chamadas soluções mistas ou ecléticas em relação ao fundamento da pena são as que dominam o debate doutrinário e jurisprudencial na atual quadra da história, sendo relevante a contribuição de Adolf Merkel ao sustentar ser fictícia a contraposição entre retribuição e prevenção, dizendo que a pena naturalmente possui as duas facetas, as quais, na verdade, não podem ser cindidas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "423153",
+    "metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais",
+      "Princípios norteadores da teoria da pena"
+    ],
+    "enunciado_principal": "Considere as assertivas abaixo, I. As denominadas teorias absolutas da pena consideram que a pena se esgota na ideia de pura retribuição, tem como fim a reação punitiva, ou seja, responde ao mal constitutivo do delito com outro mal que se impõe ao autor do delito. Kant, um dos seus principais defensores, considerava que a exigência da pena derivava da ideia de justiça.II. As teorias ecléticas veiculam a dúplice finalidade da pena: presta-se tanto a reprimir o criminoso como a prevenir a prática do crime. III. Para as teorias relativas a pena tem um fim prático e imediato de prevenção geral ou especial do crime, não se justificando por si mesma, mas apenas na medida em que se cumprem os fins legitimadores do controle de delinquência. IV. A teoria da prevenção especial negativa da pena busca a segregação do criminoso, com o fim de neutralizar a possível novação delitiva, tendo em Von Liszt um dos seus adeptos. São corretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as assertivas III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1208599",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Conceito de Sanções Penais",
+      "Finalidades",
+      "Princípios norteadores da teoria da pena",
+      "Penas privativas de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Pena de multa",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "A pena privativa de liberdade é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inicialmente cumprida em regime de isolamento celular, pese progressiva."
+      },
+      {
+        "letra": "B",
+        "texto": "de reclusão, detenção ou prisão simples, com caráter progressivo."
+      },
+      {
+        "letra": "C",
+        "texto": "cumprida em regime fechado ou semiaberto, não no aberto."
+      },
+      {
+        "letra": "D",
+        "texto": "cumprida em regime semiaberto ou aberto, não no fechado."
+      },
+      {
+        "letra": "E",
+        "texto": "cumprida em regime fechado, não no semiaberto ou aberto."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

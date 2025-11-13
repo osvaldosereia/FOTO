@@ -1,0 +1,938 @@
+[
+  {
+    "id": "3117549",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável"
+    ],
+    "enunciado_principal": "Dario, em um bloco que desfila pelas ruas de Olinda, no carnaval de 2024, percebendo que uma foliã está totalmente embriagada, passa a beijá-la lascivamente, sem seu prévio consentimento, embora ela não resista à abordagem, devido a seu estado. Diante do caso narrado, Dario cometeu o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estupro, crime de ação penal privada;"
+      },
+      {
+        "letra": "B",
+        "texto": "estupro, crime de ação penal pública incondicionada;"
+      },
+      {
+        "letra": "C",
+        "texto": "estupro de vulnerável, crime de ação penal pública incondicionada;"
+      },
+      {
+        "letra": "D",
+        "texto": "importunação sexual, crime de ação penal pública incondicionada;"
+      },
+      {
+        "letra": "E",
+        "texto": "estupro de vulnerável, crime de ação penal pública condicionada a representação da vítima."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2116628",
+    "metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal pública condicionada à requisição do Ministro da Justiça",
+      "Ação penal privada propriamente dita ou exclusiva",
+      "Classificação de Ação Penal"
+    ],
+    "enunciado_principal": "Em conformidade com o previsto pelo Dec. Lei n.º 2.848/1940 (Código Penal brasileiro) a respeito da ação penal, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A representação será irretratável mesmo antes de oferecida a denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "Importa renúncia tácita ao direito de queixa o fato de receber o ofendido a indenização do dano causado pelo crime."
+      },
+      {
+        "letra": "C",
+        "texto": "O perdão do ofendido, nos crimes em que somente se procede mediante queixa, não obsta ao prosseguimento da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito de queixa não pode ser exercido quando renunciado tacitamente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2098995",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal no crime de lesão corporal"
+    ],
+    "enunciado_principal": "Chega ao conhecimento do Ministério Público um caso de lesão corporal de natureza leve recíproca entre marido e mulher. Diante desse fato, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "seria possível a aplicação de transação penal."
+      },
+      {
+        "letra": "B",
+        "texto": "em caso de lesões corporais recíprocas entre marido e mulher, a natureza da ação penal é distinta."
+      },
+      {
+        "letra": "C",
+        "texto": "não seria possível a aplicação de qualquer benefício da Lei nº 9.099/95 em relação à mulher, por conta da vedação da Lei nº 11.340/06, mas seria cabível a aplicação do acordo de não persecução penal ao marido."
+      },
+      {
+        "letra": "D",
+        "texto": "caso o marido somente tivesse humilhado a mulher de modo a prejudicar seu pleno desenvolvimento, somente ele seria vítima de crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2078706",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Nos termos do art. 181 a 183 do CP, é correto afirmar que a apropriação indébita, se praticada em desfavor de vítima de 55 anos, tio do agente, com quem este coabita,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fica isenta de pena."
+      },
+      {
+        "letra": "B",
+        "texto": "somente se procede mediante representação."
+      },
+      {
+        "letra": "C",
+        "texto": "somente se procede mediante queixa."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime de ação pública incondicionada."
+      },
+      {
+        "letra": "E",
+        "texto": "é qualificada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1911925",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra o patrimônio",
+      "Estelionato"
+    ],
+    "enunciado_principal": "No dia 29 de junho de 2021, Maria, nascida em 20 de maio de 1944, foi vítima de um golpe, entregando a um estelionatário 10 mil reais, após ser induzida a erro pelo golpista. Hesita em procurar a polícia, mas o fato é comunicado à autoridade policial por uma vizinha da vítima. A propósito do início do inquérito policial que apura o crime de estelionato, no caso em questão, é correto afirmar que a autoridade policial",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só pode instaurar inquérito se houver representação da ofendida, pois o crime em questão é de ação penal pública condicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "pode instaurar inquérito independentemente da representação da ofendida, pois o crime de estelionato praticado contra maior de 70 anos é de ação penal pública incondicionada."
+      },
+      {
+        "letra": "C",
+        "texto": "pode instaurar inquérito sem a representação da ofendida, independentemente de sua idade, pois em qualquer caso a ação penal no crime de estelionato é pública incondicionada."
+      },
+      {
+        "letra": "D",
+        "texto": "pode instaurar inquérito sem a representação da ofendida, pois qualquer investigação criminal pode ser iniciada de ofício pela autoridade policial, não se exigindo manifestação da vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "só pode instaurar inquérito se houver requerimento da ofendida, pois o crime em questão é de ação penal privada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1899394",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Crimes contra o patrimônio",
+      "Estelionato"
+    ],
+    "enunciado_principal": "O crime de Estelionato, após recente alteração legislativa empreendida pela Lei nº 13.964/19, sofreu mudança no que diz respeito ao tipo de ação penal, que anteriormente era pública incondicionada em todos os casos. Com a mudança, o crime de estelionato passou a ser de ação penal pública condicionada à representação do ofendido, preservando, no entanto, algumas hipóteses de ação penal pública incondicionada, todas previstas no §5º do Art. 171. Dentre tais hipóteses não encontramos estelionato cometido contra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a Administração Pública indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "adolescente."
+      },
+      {
+        "letra": "C",
+        "texto": "pessoa com deficiência mental."
+      },
+      {
+        "letra": "D",
+        "texto": "pessoa maior de 60 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "pessoa incapaz."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1884469",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Joana foi vítima de agressão praticada por seu companheiro, com quem ela convivia maritalmente havia mais de vinte anos. A agressão resultou em lesão corporal leve, devidamente comprovada por laudo médico pericial. Nessa situação hipotética, eventual ação penal será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pública condicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "pública e seguirá o rito sumaríssimo."
+      },
+      {
+        "letra": "C",
+        "texto": "pública condicionada somente para fins de instauração de inquérito policial."
+      },
+      {
+        "letra": "D",
+        "texto": "precedida de audiência conciliatória, cabível, nessa fase, a retratação da vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "pública incondicionada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1879130",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra a honra",
+      "Injúria",
+      "Legislação Penal Especial",
+      "Crimes Resultantes de Preconceito de Raça ou Cor – Lei nº 7.716 de 1989"
+    ],
+    "enunciado_principal": "Leia o trecho a seguir. O crime de racismo, constante na Lei nº. 7.716/1989, é de ação penal _____, _____ e _____. Por sua vez, o crime de injúria racial, disposto no Art. 140, § 3º, do Código Penal, é de ação penal _____, _____ e _____, conforme entendimento atual do Supremo Tribunal Federal. Assinale a opção cujos itens completam corretamente as lacunas do trecho acima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pública incondicionada, inafiançável, imprescritível, privada personalíssima, afiançável e prescritível."
+      },
+      {
+        "letra": "B",
+        "texto": "pública incondicionada, inafiançável, imprescritível, pública condicionada à representação, inafiançável e imprescritível."
+      },
+      {
+        "letra": "C",
+        "texto": "pública condicionada à representação, afiançável, prescritível, pública incondicionada, inafiançável e prescritível."
+      },
+      {
+        "letra": "D",
+        "texto": "pública incondicionada, inafiançável, imprescritível, pública condicionada à representação, afiançável e imprescritível."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1875631",
+    "metadata": "Ano: 2022 | Banca: OBJETIVA | Órgão: Prefeitura de Varginha - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: ( ) A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido. ( ) A representação será irretratável, depois de recebida a denúncia. ( ) Extingue o direito de oferecer a queixa ou de prosseguir da ação no caso de morte do ofendido ou de ter sido declarado ausente por decisão judicial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C - C - E."
+      },
+      {
+        "letra": "B",
+        "texto": "E - C - C."
+      },
+      {
+        "letra": "C",
+        "texto": "C - E - E."
+      },
+      {
+        "letra": "D",
+        "texto": "E - C - E."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1829180",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra a liberdade pessoal",
+      "Ameaça"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a pessoa, julgue o item que se segue.O crime de ameaça praticado por marido contra a sua esposa é processado por ação penal pública incondicionada, dispensando-se a representação da vítima.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1744098",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada propriamente dita ou exclusiva",
+      "Causas de extinção da punibilidade",
+      "Perdão do ofendido"
+    ],
+    "enunciado_principal": "Observe as afirmações sobre o tema ação penal: I) As infrações penais ensejam a propositura de ação penal pública incondicionada, salvo previsão legal em sentido contrário. II) Arquivado o inquérito policial, o ofendido poderá propor ação penal privada subsidiária da pública. III) A representação do ofendido é condição de procedibilidade para a ação penal pública condicionada à representação e deve observar a forma prevista em lei. IV) Nos casos de ação penal privada, a renúncia ao direito de queixa aproveita a todos os supostos autores da infração penal. V) O perdão do ofendido nos casos de ação penal privada é causa de extinção da punibilidade que se opera independentemente da aceitação do suposto autor da infração penal. Quais dos itens contêm afirmações corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e V."
+      },
+      {
+        "letra": "E",
+        "texto": "I, IV e V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1136447",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação"
+    ],
+    "enunciado_principal": "Paulo, descontente com o término do namoro com Maria, livre e conscientemente invadiu o dispositivo informático do aparelho celular dela e capturou fotos íntimas e conversas privadas dela com seu novo namorado, João. Posteriormente, também livre e conscientemente, com intuito de vingança, divulgou, em redes sociais na Internet, os vídeos e as fotos de Maria, com cunho sexual, difamando-a e injuriando João com a utilização de elementos referentes à sua raça, cor e etnia. Em razão dessa conduta, Paulo foi indiciado pelos delitos de violação de dispositivo informático, divulgação de cenas de sexo ou pornografia, majorada pelo intuito de vingança, difamação contra Maria e injúria racial contra João. Com relação à persecução penal nessa situação hipotética, é correto afirmar que os crimes citados se submetem, respectivamente, a ação penal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pública condicionada a representação, pública condicionada a representação, privada, e pública incondicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "pública condicionada a representação, pública incondicionada, privada, e pública condicionada a representação."
+      },
+      {
+        "letra": "C",
+        "texto": "pública condicionada a representação, pública condicionada a representação, privada, e pública condicionada a representação."
+      },
+      {
+        "letra": "D",
+        "texto": "pública incondicionada, pública incondicionada, privada, e pública condicionada a representação."
+      },
+      {
+        "letra": "E",
+        "texto": "pública incondicionada, pública incondicionada, pública condicionada a representação, e pública incondicionada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1100232",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada subsidiária da pública"
+    ],
+    "enunciado_principal": "A respeito de ação penal, julgue os itens seguintes. I Crimes contra a ordem tributária são de ação penal pública condicionada a representação e lançamento definitivo do crédito tributário. II Crimes cometidos por estrangeiro contra brasileiro no exterior são de ação penal pública condicionada a representação da vítima. III O crime de constranger alguém, com o intuito de favorecimento sexual, prevalecendo-se da condição de superior hierárquico, é de ação pública incondicionada. IV O crime de praticar conjunção carnal na presença de menor de quatorze anos de idade, com o fim de satisfazer lascívia de outrem, é de ação pública condicionada a representação. V Não promovendo o Ministério Público a ação penal no prazo legal, o ofendido ou seu representante legal poderá intentar ação penal privada. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e V."
+      },
+      {
+        "letra": "E",
+        "texto": "III e V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1060396",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Pedro, com vinte e dois anos de idade, e Paulo, com vinte anos de idade, foram denunciados pela prática de furto contra Ana. A defesa de Pedro alegou inimputabilidade. Paulo confessou o crime, tendo afirmado que escolhera a vítima porque, além de idosa, ela era sua tia.Com relação a essa situação hipotética, julgue o item subsecutivo, a respeito de imputabilidade penal, crimes contra o patrimônio, punibilidade e causas de extinção e aplicação de pena.Uma vez que a vítima é tia de Paulo, a ação penal será pública condicionada a representação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1036628",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada propriamente dita ou exclusiva"
+    ],
+    "enunciado_principal": "A ação penal é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pública condicionada à representação no crime de estupro de vulnerável."
+      },
+      {
+        "letra": "B",
+        "texto": "privada no crime de dano qualificado por motivo egoístico."
+      },
+      {
+        "letra": "C",
+        "texto": "exclusiva do Ministério Público, embora condicionada à representação do ofendido, por crime contra a honra de servidor público em razão do exercício de suas funções."
+      },
+      {
+        "letra": "D",
+        "texto": "privada, em qualquer situação, no crime de exercício arbitrário das próprias razões."
+      },
+      {
+        "letra": "E",
+        "texto": "pública condicionada à representação no crime de furto cometido em prejuízo de irmão, legítimo ou ilegítimo, independentemente da idade deste."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "991506",
+    "metadata": "Ano: 2018 | Banca: IBADE | Órgão: Câmara de Porto Velho - RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Nos crimes de ação penal pública incondicionada, a ação será promovida por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "representação de parentes da vitima."
+      },
+      {
+        "letra": "B",
+        "texto": "requerimento do ofendido."
+      },
+      {
+        "letra": "C",
+        "texto": "petição de um advogado"
+      },
+      {
+        "letra": "D",
+        "texto": "denúncia do Ministério Público"
+      },
+      {
+        "letra": "E",
+        "texto": "requisição do Ministro da Justiça."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "923529",
+    "metadata": "Ano: 2018 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável"
+    ],
+    "enunciado_principal": "Sobre os crimes contra a liberdade sexual e os crimes sexuais contra vulnerável, previstos no Código Penal, verifica-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a corrupção de menores (artigo 218 do Código Penal) é crime hediondo."
+      },
+      {
+        "letra": "B",
+        "texto": "em regra, o estupro (artigo 213) se processa mediante ação penal privada."
+      },
+      {
+        "letra": "C",
+        "texto": "no estupro (art. 213), a qualificadora do § 2º só incide se o resultado morte for doloso."
+      },
+      {
+        "letra": "D",
+        "texto": "a ação penal é pública incondicionada para os crimes sexuais contra vulnerável (Capítulo II do Título VI)."
+      },
+      {
+        "letra": "E",
+        "texto": "segundo entendimento do Superior Tribunal de Justiça, a existência de relacionamento amoroso entre agente e vítima pode descaracterizar o crime de estupro de vulnerável (artigo 217-A)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "649490",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação"
+    ],
+    "enunciado_principal": "A respeito do caso narrado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando que os delitos contra a honra são processáveis apenas mediante ação penal de iniciativa privada, totalmente indevida a dedução de ação penal pública condicionada, isto é, por meio de representação."
+      },
+      {
+        "letra": "B",
+        "texto": "Não poderia o inquérito policial ser instaurado mediante a requisição do Tribunal, tendo em vista não se tratar de caso que seja apurado mediante ação penal pública incondicionada."
+      },
+      {
+        "letra": "C",
+        "texto": "Tratando-se de crime imputado a magistrada do Trabalho, que detém foro por prerrogativa de função, foi equivocada a dedução do processo em primeiro grau, sendo a competência originária do Eg. Tribunal de Justiça de São Paulo."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de imputação de crimes de menor potencial ofensivo, cuja Justiça é prevista constitucionalmente, afasta-se a competência originária do Tribunal competente, sendo o feito apurado nos Juizados Especiais."
+      },
+      {
+        "letra": "E",
+        "texto": "Por se tratar de ofensas envolvendo membros do Poder Judiciário que respondem por seus atos a Tribunais Regionais do Trabalho de regiões distintas (2a e 15a Região), a competência para a ação penal será do Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "628799",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada subsidiária da pública",
+      "Ação penal no crime de lesão corporal",
+      "Legislação Penal Especial",
+      "Crimes Falimentares - Lei nº 11.101 de 2005"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta com referência à ação penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes contra a honra cometidos contra funcionário público, em razão de suas funções, bem como em casos de injúria consistente na utilização de elementos referentes a raça, cor, etnia, religião, origem ou a condição de pessoa idosa ou deficiente, a jurisprudência majoritária do Supremo Tribunal Federal confere exclusivamente ao Ministério Público, mediante representação do ofendido, a legitimidade para a propositura da ação penal."
+      },
+      {
+        "letra": "B",
+        "texto": "O delito de estupro, previsto no artigo 213, caput, do Código Penal, com a nova redação conferida pela Lei nº 12.015/2009, é de ação penal pública incondicionada, independentemente da condição pessoal da vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o Supremo Tribunal Federal e com o Superior Tribunal de Justiça, ação penal relativa ao crime de lesão corporal, mesmo que de natureza leve ou culposa, praticado contra a mulher em âmbito doméstico, é pública incondicionada."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes previstos no Estatuto do Idoso são de ação penal pública condicionada à representação, salvo quando um dos elementos ou das circunstâncias do crime constituir delito autônomo, pelo qual cabe ação penal pública incondicionada."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes definidos na Lei de Falências são de ação penal pública incondicionada e, em caso de não oferecimento da denúncia no prazo legal pelo Promotor de Justiça, apenas o administrador judicial possui legitimidade para intentar a ação penal subsidiária da pública."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "593292",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra o patrimônio",
+      "Disposições gerais nos Crimes Contra o Patrimônio"
+    ],
+    "enunciado_principal": "Paulo e Jean foram denunciados pela prática do crime de furto de joias, praticado contra Maria, tia sexagenária de Paulo. A subtração foi facilitada pelo fato de Paulo residir com a vítima. Quando da citação, Paulo não foi encontrado no novo endereço que havia fornecido na fase do inquérito, tendo sido o mandado entregue a outro morador, que se comprometeu a entregá-lo ao destinatário. Jean, que retornou para a França, seu país de origem, havia fornecido seu endereço completo ao delegado. A partir dessa situação hipotética, julgue o item a seguir. Em razão do parentesco de Paulo e Maria, assim como do fato de ambos residirem juntos, é correto afirmar que se tratou de ação penal pública condicionada à representação da vítima.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "532409",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Em cada uma das opções subsecutivas, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada. Considerando a ação penal e a tipicidade das condutas elencadas, assinale a opção que apresenta a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Marcos, com vinte anos de idade, capaz, após o falecimento de seus genitores em um acidente, passou a residir com seu tio paterno Sebastião, com cinquenta e cinco anos de idade, capaz. Após estarem residindo juntos havia cerca de dois anos, Marcos pegou o cartão de crédito de seu tio Sebastião, e, sem autorização dele, conseguiu a senha e sacou a importância de vinte mil reais, gastando-a em seu interesse pessoal. Nessa situação, a conduta de Marcos foi típica e a persecução penal que a reprime ocorre mediante ação privada."
+      },
+      {
+        "letra": "B",
+        "texto": "Ana, com vinte e dois anos de idade, capaz, após discussão com sua vizinha Marina, com vinte e oito anos de idade, capaz, sabendo que não havia pessoa alguma no imóvel residencial desta, despejou um galão de gasolina e atiçou fogo no referido imóvel, vindo a incendiá-lo. Nessa situação, a conduta de Ana foi típica e a persecução penal que a reprime ocorre mediante ação pública incondicionada."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedro, capaz, é agricultor e possuía contrato com a entidade pública X, que pretendia distribuir os produtos do cultivo de Pedro à população carente. Antônia, com cinquenta anos de idade, capaz, também agricultora, a fim de prejudicar Pedro enquanto este viajava, sem o consentimento dele, soltou gado em sua propriedade, o qual destruiu grande parte dos produtos que estavam na iminência de serem colhidos e entregues à referida entidade pública. Nessa situação, a conduta de Antônia foi típica e a persecução penal que a reprime ocorre mediante ação pública incondicionada."
+      },
+      {
+        "letra": "D",
+        "texto": "José, com trinta anos de idade, capaz, efetuou ligação clandestina de sinal de TV a cabo em sua residência, desviando o sinal da residência de sua vizinha, Josefina, com quarenta anos de idade, capaz, sem o consentimento dela, equiparando-se o objeto de desvio à energia elétrica. Nessa situação, a conduta de José foi típica e a persecução penal que a reprime ocorre mediante ação privada."
+      },
+      {
+        "letra": "E",
+        "texto": "Jane, com dezoito anos de idade, capaz, filha adotiva, por ciúmes de sua irmã Carla, com dezenove anos de idade, capaz, filha biológica de seus pais, aproveitando-se que sua irmã estava acamada, retirou da bolsa desta, sem o seu consentimento, a importância de cinco mil reais, gastando-a com roupas e maquiagem. Nessa situação, a conduta de Jane foi típica e a persecução penal que a reprime ocorre mediante ação privada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "512416",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal privada subsidiária da pública",
+      "Legislação Penal Especial",
+      "Crimes Falimentares - Lei nº 11.101 de 2005"
+    ],
+    "enunciado_principal": "Quanto à legislação especial, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se admite ação penal subsidiária da pública nos crimes falimentares previstos na Lei 11.101/2005."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes previstos no Estatuto do Idoso são de ação penal pública incondicionada."
+      },
+      {
+        "letra": "C",
+        "texto": "As infrações penais eleitorais são de ação penal pública incondicionada."
+      },
+      {
+        "letra": "D",
+        "texto": "Quanto aos atos processuais de competência dos Juizados Especiais Criminais (Lei 9.099/95), não se pronunciará qualquer nulidade sem que tenha havido prejuízo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "444037",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável"
+    ],
+    "enunciado_principal": "Assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem. Durante o festival de balonismo, na cidade de Torres, Afonso Dias, 52 anos, deslocou-se até a Boate Cristal para festejar a sua classificação no evento. No recinto, conheceu o transformista Maitê, 21 anos, convidando-o para acompanhá-lo na comemoração. Enquanto conversavam, Afonso disfarçadamente colocou uma substância na bebida de Maitê, que o levou a perder os sentidos. Na sequência, conduziu o transformista desmaiado, sem poder oferecer resistência, até seu carro, onde praticou com ele sexo anal. No dia seguinte, Maitê registrou o fato delituoso contra Afonso na Delegacia de Polícia e adotou as medidas necessárias para responsabilizá-lo. No presente caso, o crime praticado pelo agente é o de _______e a ação penal correspondente é ________.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estupro de vulnerável – pública incondicionada"
+      },
+      {
+        "letra": "B",
+        "texto": "estupro – pública incondicionada"
+      },
+      {
+        "letra": "C",
+        "texto": "violação sexual mediante fraude – pública condicionada à representação"
+      },
+      {
+        "letra": "D",
+        "texto": "estupro – pública condicionada à representação"
+      },
+      {
+        "letra": "E",
+        "texto": "violação sexual mediante fraude – privada"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "424373",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "Julgue o seguinte item, acerca de crimes relacionados armas de fogo e à propriedade industrial.Apesar de os crimes praticados contra a propriedade industrial serem processados mediante queixa, a imitação perfeita da marca de uma arma de fogo, sem autorização, é processada por meio de ação penal pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "298691",
+    "metadata": "Ano: 2013 | Banca: FEPESE | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada propriamente dita ou exclusiva"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo o Código Penal brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A representação poderá ser retratada até a citação do acusado."
+      },
+      {
+        "letra": "B",
+        "texto": "O direito de oferecer queixa ou de prosseguir decai no caso de morte do ofendido ou de ter sido declarado ausente por decisão judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a lei considera como elemento ou circunstâncias do tipo legal fatos que, por si mesmos, constituem crimes, cabe ação pública em relação àquele, desde que, em relação a qualquer destes, se deva proceder por iniciativa do Ministério Público."
+      },
+      {
+        "letra": "D",
+        "texto": "Importa renúncia tácita ao direito de queixa o fato de o ofendido receber a indenização do dano causado pelo crime."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito de queixa pode ser exercido a qualquer momento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "984290",
+    "metadata": "Ano: 2012 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades"
+    ],
+    "enunciado_principal": "Sobre as Súmulas do Supremo Tribunal Federal, em Direito Penal, pode-se afirmar: I. Admite-se continuidade delitiva nos crimes contra a vida. II. É pública incondicionada a ação penal por crime de sonegação fiscal. III. A prescrição pela pena em concreto é somente da pretensão executória da pena privativa de liberdade. IV. A lei penal mais grave não se aplica ao crime continuado ou ao crime permanente, mesmo que a sua vigência seja anterior à cessação da continuidade ou da permanência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I, II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II, III e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as proposições estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "324647",
+    "metadata": "Ano: 2012 | Banca: FEPESE | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação"
+    ],
+    "enunciado_principal": "No caso do crime de estupro, previsto no art. 213 do Código Penal “Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso: Pena – reclusão, de 6 a 10 anos”, a ação penal será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sempre pública incondicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre pública condicionada à representação."
+      },
+      {
+        "letra": "C",
+        "texto": "Em regra pública incondicionada, tornando - se pública condicionada em caso de menor de 12 anos ou pessoa vulnerável socialmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Em regra privada, tornando-se pública incondicionada caso o representante do Ministério Público identifque que o agressor é o genitor"
+      },
+      {
+        "letra": "E",
+        "texto": "Pública condicionada à representação, tornando - se pública incondicionada caso a vítima seja menor de 18 anos ou pessoa vulnerável."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "294911",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada",
+      "Ação penal pública condicionada à representação",
+      "Ação penal privada propriamente dita ou exclusiva",
+      "Ação penal privada personalíssima"
+    ],
+    "enunciado_principal": "É certo afirmar: I. Por ser o inquérito policial desvinculado da ação penal, não a prescindindo, é admissível que a Autoridade Policial deixe de atender às requisições do Ministério Público, quando entender serem impertinentes. II. É cabível a substituição de uma modalidade de pena restritiva de direitos por outra, aplicada em sede de transação penal, pelo juízo do conhecimento, a requerimento do interessado, ouvido o Ministério Público. III. Havendo retratação da representação, poderá o Promotor de Justiça requerer o arquivamento dos autos do inquérito policial ou das peças de informação. IV. A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de representação do ofendido ou de requisição do Ministério da Justiça. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "266529",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal pública incondicionada"
+    ],
+    "enunciado_principal": "A ação penal em crimes previstos na Lei de Licitações (Lei no 8.666/1993) é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pública condicionada, legitimados os vencidos no processo licitatório."
+      },
+      {
+        "letra": "B",
+        "texto": "pública condicionada à representação pelo órgão público lesado."
+      },
+      {
+        "letra": "C",
+        "texto": "exclusivamente privada, legitimados os vencidos no processo licitatório."
+      },
+      {
+        "letra": "D",
+        "texto": "pública incondicionada em todas as hipóteses."
+      },
+      {
+        "letra": "E",
+        "texto": "pública condicionada, legitimados os vencidos no processo licitatório e o órgão público lesado."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

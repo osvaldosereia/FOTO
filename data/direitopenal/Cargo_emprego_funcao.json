@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2639359",
+    "metadata": "Ano: 2023 | Banca: IF-MT | Órgão: IF-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Cargo, emprego, função",
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública"
+    ],
+    "enunciado_principal": "Considerando a situação hipotética exposta, nos termos do Decreto-Lei nº 2.848/40 (Código Penal) e da Lei nº 8.112/90, julgue as assertivas abaixo: I. A conduta do servidor Beltrano constitui crime passível de punição na esfera penal, mas não constitui falta passível de punição na esfera administrativa. II. A conduta do servidor Beltrano constitui crime passível de punição na esfera penal e também constitui falta passível de punição na esfera administrativa. III. Caso o servidor Beltrano venha a ser sancionado na esfera penal, ele não poderá ser sancionado na esfera administrativa pelos mesmos fatos, visto que é vedada a cumulação das sanções penais e administrativas. IV. A responsabilidade administrativa do servidor Beltrano será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria. Está(ão) CORRETA(S) apena(s) a(s) assertiva(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

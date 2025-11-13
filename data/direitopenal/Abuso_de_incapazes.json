@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3037229",
+    "metadata": "Ano: 2024 | Banca: EDUCA | Órgão: Prefeitura de Alhandra - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Abuso de incapazes"
+    ],
+    "enunciado_principal": "De acordo com o Art. 173, do Código Penal Brasileiro - Capítulo VI - DO ESTELIONATO E OUTRAS FRAUDES, a pena de reclusão, de dois a seis anos, e multa, é aplicada para o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duplicata simulada."
+      },
+      {
+        "letra": "B",
+        "texto": "Induzimento à especulação."
+      },
+      {
+        "letra": "C",
+        "texto": "Fraude no comércio."
+      },
+      {
+        "letra": "D",
+        "texto": "Abuso de incapazes."
+      },
+      {
+        "letra": "E",
+        "texto": "Fraude à execução."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

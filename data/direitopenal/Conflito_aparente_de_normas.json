@@ -1,0 +1,1740 @@
+[
+  {
+    "id": "3383764",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Acerca do concurso aparente de normas penais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os princípios que embasam as normas penais não são suficientes para resolver adequadamente o concurso aparente entre crime-meio e crime-fim."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo o princípio da especialidade, diante da impossibilidade de aplicação da norma mais grave, aplica-se a norma menos grave."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da alternatividade é aplicável a infrações penais de ação múltipla ou de conteúdo variado."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplica-se o princípio da subsidiariedade apenas quando expressamente previsto em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da consunção jamais é aplicável a crimes contra bens jurídicos distintos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3373857",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "A respeito do concurso aparente de normas, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na relação de especialidade entre duas normas, prevalecerá a norma cujo preceito secundário preveja a maior pena;"
+      },
+      {
+        "letra": "B",
+        "texto": "o princípio da especialidade expressa uma relação de gênero e espécie entre as normas em conflito, ao passo que o princípio da subsidiariedade expressa uma relação de continente e conteúdo e, nesse último, a norma prevalente é obrigatoriamente mais grave;"
+      },
+      {
+        "letra": "C",
+        "texto": "o agente que pratica dois ou mais núcleos do tipo penal responde apenas por um crime, graças à aplicação do princípio da absorção;"
+      },
+      {
+        "letra": "D",
+        "texto": "a punição exclusivamente pelo crime de descaminho, quando o crime de falso naquele se exaure, é hipótese de aplicação do princípio da subsidiariedade;"
+      },
+      {
+        "letra": "E",
+        "texto": "crime progressivo, sinônimo de progressão criminosa, é exemplo da aplicação do princípio da consunção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3058682",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "A norma penal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Na solução do conflito aparente de normas penais, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da especialidade afirma que o ordenamento penal somente protege os bens jurídicos mais importantes para a vida pacífica em sociedade."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da taxatividade estabelece a prevalência da norma penal que descreve condutas de observância obrigatória para fins de proteção fiscal."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da fungibilidade considera a equivalência entre normas penais incriminadoras, que são preponderantes em relação às normas penais permissivas e explicativas."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da fragmentariedade considera a prevalência da norma penal que contém todos os elementos da norma geral, além de outros que a tornam distinta."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da alternatividade estabelece que, nos crimes de conteúdo variável, a incursão delitiva será única, ainda que sejam múltiplas as condutas típicas praticadas pelo mesmo sujeito no mesmo contexto."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2564155",
+    "metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "A norma penal",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Sobre a aplicação da lei penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É pacífica a doutrina em admitir a retroatividade de precedente judicial quando este for favorável ao acusado, equiparando-se, nesse caso, à retroatividade da lei penal mais benéfica."
+      },
+      {
+        "letra": "B",
+        "texto": "Para o Superior Tribunal Federal (STF), a complementação de norma penal em branco por ato normativo estadual, distrital ou municipal viola a competência privativa da União para legislar sobre direito penal, nos casos do delito previsto no Art. 268 do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando, posteriormente à prática da conduta, o complemento de uma norma penal em branco for modificado, se for mais benéfico ao réu, deve retroagir, ainda que diante de uma situação de excepcionalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Se for mais favorável ao réu, admite-se a aplicação da lei penal intermediária, considerando possuir, simultaneamente, as características de retroatividade e ultratividade."
+      },
+      {
+        "letra": "E",
+        "texto": "Configura interpretação endofórica quando o intérprete visa elucidar o alcance e o significado da expressão “veneno” valendo-se de termos que não estão presentes no ordenamento jurídico."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2518751",
+    "metadata": "Ano: 2024 | Banca: NC-UFPR | Órgão: Prefeitura de Campo Magro - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conceitos e caracteres",
+      "A norma penal",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre a aplicação da lei penal, de acordo com o Código Penal brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei brasileira é de aplicação soberana e exclusiva em crimes cometidos no território nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei posterior que, de qualquer modo, favorecer o agente aplica-se aos fatos anteriores."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei temporária não será aplicada após decorrido o período de sua duração, salvo em caso de fato praticado antes do período de sua vigência."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de novidade tecnológica, há crime mesmo sem lei anterior que o defina."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei brasileira aplica-se aos crimes praticados em aeronaves estrangeiras de propriedade pública no território nacional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2387540",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: CGM de Belo Horizonte - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Quanto ao conflito aparente de normas penais, analise as disposições a seguir. I. O princípio da especialidade determina que o tipo penal específico prevalece sobre o tipo penal de caráter geral. II. O princípio da consunção implica na absorção de um delito por outro, não sendo aplicável aos casos de crime progressivo, crime complexo, progressão criminosa, fato posterior não punível e fato anterior não punível. III. Os requisitos do conflito aparente de normas são os seguintes: pluralidade de condutas, relevância causal das condutas e liame subjetivo entre os agentes. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2247502",
+    "metadata": "Ano: 2023 | Banca: IADES | Órgão: POLÍCIA CIENTÍFICA - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "No que se refere ao conflito aparente de normas, há um princípio que evita o bis in idem (apenar o mesmo fato duas vezes), determinando a prevalência de uma norma em comparação com a geral. Pode ser estabelecido in abstracto, enquanto os outros princípios exigem o confronto in concreto das leis que definem o mesmo fato. Nesse sentido, quanto à relação dos tipos penais em abstrato, o tipo penal que prevê o feminicídio deriva do tipo penal básico denominado homicídio. O principio que rege a relação apresentada é o da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "consunção."
+      },
+      {
+        "letra": "B",
+        "texto": "absorção."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiariedade."
+      },
+      {
+        "letra": "E",
+        "texto": "alternatividade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2113545",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "O princípio da consunção é um princípio de resolução de conflito de leis penais no tempo, sem previsão expressa na parte geral do Código Penal brasileiro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2061751",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "A partir dessa situação hipotética e considerando o direito penal vigente, julgue o item a seguir.O emprego da analogia in bonam partem não é admitido no direito penal, devido ao princípio da legalidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1985743",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Assinale a opção que se relaciona ao princípio da fragmentariedade do Direito Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se praticado crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "A norma penal destina-se a proteger os bens jurídicos de maior expressão para a vida em sociedade, só se fazendo necessária quando os demais ramos do Direito sejam incapazes de combater com eficiência a conduta antijurídica."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos crimes em que se procedem mediante queixa, se um dos ofendidos concede o perdão ao ofensor, o exercício dessa faculdade não prejudica o direito dos demais quanto ao prosseguimento da ação penal."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o agente, mediante um só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade."
+      },
+      {
+        "letra": "E",
+        "texto": "O agente que, voluntariamente, desiste de prosseguir na execução do crime ou impede que o resultado se produza, só responde pelos atos já praticados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1968384",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "O cotejo se dá entre fatos concretos, de modo que o mais completo, o inteiro, prevalece sobre a fração. Não há um único fato buscando se abrigar em uma ou outra lei penal caracterizada por notas especializantes, mas uma sucessão de fatos, todos penalmente tipificados, na qual o mais amplo consome o menos amplo, evitando-se que este seja duplamente punido, como parte de um todo e como crime autônomo. Cleber Masson (com adaptações). No conflito aparente de normas, o trecho apresentado explica o princípio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "legalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "consunção."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiariedade."
+      },
+      {
+        "letra": "E",
+        "texto": "alternatividade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1938376",
+    "metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "O artigo 234 do Código Penal, em seu caput, traz o delito de “Escrito ou objeto obsceno”, cuja descrição típica é a seguinte: “Fazer, importar, exportar, adquirir ou ter sob sua guarda, para fim de comércio, de distribuição ou de exposição pública, escrito, desenho, pintura, estampa ou qualquer objeto obsceno.” O preceito secundário do tipo comina pena de detenção de seis meses a dois anos ou multa. Nesse sentido, numa interpretação atenta aos princípios que limitam e informam o direito penal, é correto afirmar que o referido delito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não ofende o princípio da legalidade, pois o princípio em comento apenas veda a retroatividade maligna da lei penal, o que não foi o caso narrado."
+      },
+      {
+        "letra": "B",
+        "texto": "ofende o princípio da legalidade, pois não há definição do que se considera “obsceno” para fins de delimitação da incidência da normal penal incriminadora."
+      },
+      {
+        "letra": "C",
+        "texto": "está acorde com o princípio da adequação social, devendo a conduta ser considerada típica, haja vista o fato de subsumir-se a tipo penal incriminador, não importando o fato de ser socialmente adequada."
+      },
+      {
+        "letra": "D",
+        "texto": "ofende o princípio da consunção, pois o princípio em comento orienta que uma conduta não pode ser considerada típica se for aceita e praticada pela sociedade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1937231",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Dentro dos critérios de solução do conflito aparente de normas, é correto afirmar que o princípio da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "subsidiariedade é presidido por mera análise lógica respeitante aos elementos constitutivos dos tipos penais decorrentes;"
+      },
+      {
+        "letra": "B",
+        "texto": "subsidiariedade estabelece que a incidência da norma principal, que tem uma sanção mais grave, afasta a incidência da norma subsidiária;"
+      },
+      {
+        "letra": "C",
+        "texto": "subsidiariedade é presidido por mera análise lógica referente a em que medida haveria uma relação de gênero e espécie essencialmente formal;"
+      },
+      {
+        "letra": "D",
+        "texto": "especialidade tem uma estrutura lógica de interferência, exigindo um juízo de valor do fato em relação às normas;"
+      },
+      {
+        "letra": "E",
+        "texto": "especialidade tem uma estrutura lógica de interferência, não de subordinação, exigindo uma verificação em concreto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1876845",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MJSP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "No que tange a conflito aparente de normas ou tipos penais, julgue o item subsequente. Para a aplicação do princípio da consunção, é irrelevante a comparação entre as penas das infrações penais, de modo que o crime absorvido pode ter pena maior do que a do crime continente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1873820",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Nos crimes de ação múltipla ou conteúdo variado, a prática, pelo agente, de mais de um núcleo da mesma norma penal incriminadora no mesmo contexto fático implica crime único em razão do princípio da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "especialidade;"
+      },
+      {
+        "letra": "B",
+        "texto": "subsidiariedade;"
+      },
+      {
+        "letra": "C",
+        "texto": "consunção;"
+      },
+      {
+        "letra": "D",
+        "texto": "absorção;"
+      },
+      {
+        "letra": "E",
+        "texto": "alternatividade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1856496",
+    "metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Para evitar a dupla punição por fato único, a doutrina e a jurisprudência admitem determinados princípios que foram elencados para resolver conflito de normas penais aparentemente aplicáveis à mesma hipótese. Com relação a esses princípios, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São princípios do conflito aparente de normas: especialidade, subsidiariedade, consunção e alteridade."
+      },
+      {
+        "letra": "B",
+        "texto": "São requisitos do conflito aparente de normas: pluralidade de condutas, relevância causal das condutas, liame subjetivo e identidade de crime, como regra para todos os envolvidos."
+      },
+      {
+        "letra": "C",
+        "texto": "O conflito aparente de normas é também conhecido pela doutrina como conflito de leis penais no tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da consunção pode ser aplicado exemplificativamente para hipóteses de crime progressivo, progressão criminosa, antefato impunível e pós-fato impunível."
+      },
+      {
+        "letra": "E",
+        "texto": "Para ser reconhecido o princípio da consunção, é indispensável que o crime-fim tenha uma pena maior ou mais severa do que aquela prevista para o crime-meio, conforme decidido pelo Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1852388",
+    "metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "São princípios aplicáveis na solução do conflito aparente de normas penais, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exação."
+      },
+      {
+        "letra": "B",
+        "texto": "Consunção."
+      },
+      {
+        "letra": "C",
+        "texto": "Especialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Subsidiariedade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1776221",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Concurso de crimes",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Referente ao Direito Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente se a sua vigência é anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "B",
+        "texto": "Consoante a jurisprudência dos Tribunais Superiores, é possível a combinação de leis penais (lex tertia), desde que se favorável ao réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há de se falar em abolitio criminis nas hipóteses em que, nada obstante à revogação formal do tipo penal, o fato criminoso passa a ser disciplinado perante dispositivo legal diverso. Nesses casos, verifica-se a incidência do princípio da consunção normativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os prazos de natureza penal são improrrogáveis, salvo se terminarem em sábados, domingos ou feriados, hipóteses em que serão prorrogados até o primeiro dia útil que se seguir."
+      },
+      {
+        "letra": "E",
+        "texto": "Caracteriza-se o crime impossível por impropriedade absoluta do objeto quando o meio de execução utilizado pelo agente é, por sua natureza ou essência, incapaz de produzir o resultado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1127056",
+    "metadata": "Ano: 2020 | Banca: SELECON | Órgão: Prefeitura de Boa Vista - RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Érica conduz investigação no concernente a crime que é capitulado em mais de uma lei formal. Com dificuldades de definir a lei aplicável, estabelece que, no caso investigado, deveria ser aplicado o princípio da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "constitucionalidade"
+      },
+      {
+        "letra": "B",
+        "texto": "individualidade"
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade"
+      },
+      {
+        "letra": "D",
+        "texto": "temporalidade"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "938385",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Sobre o conflito aparente de normas penais e os princípios dirimentes, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a norma especial prevalece sobre a norma geral e, necessariamente, descreve um tipo penal apenado mais severamente."
+      },
+      {
+        "letra": "B",
+        "texto": "o conflito aparente de normas penais tem por requisito a unidade fática; a pluralidade de normas aplicáveis ao mesmo fato (aparente) e a vigência contemporânea de todas elas."
+      },
+      {
+        "letra": "C",
+        "texto": "a norma subsidiária descreve um grau maior de lesividade ao bem jurídico e, necessariamente, um tipo penal apenado mais severamente."
+      },
+      {
+        "letra": "D",
+        "texto": "a consunção, pela qual uma conduta absorve outra, é possível no crime progressivo, no crime complexo e na progressão criminosa. Em todos, necessariamente, há unidade de desígnios do sujeito ativo, desde o primeiro ato."
+      },
+      {
+        "letra": "E",
+        "texto": "pelo princípio da subsidiariedade, prescinde-se do caso concreto para se saber qual a norma aplicável. A análise é feita de forma abstrata, confrontando-se as normas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "913045",
+    "metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conceitos e caracteres",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "A respeito das disposições constitucionais aplicáveis ao direito penal, é incorreto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei."
+      },
+      {
+        "letra": "B",
+        "texto": "a lei penal não retroagirá, salvo para beneficiar o réu."
+      },
+      {
+        "letra": "C",
+        "texto": "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal."
+      },
+      {
+        "letra": "D",
+        "texto": "a criação de crimes e penas por meio de medida provisória não ofende o princípio da legalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "878332",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "A norma penal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Arlindo desferiu diversos golpes de faca no peito de Tom, sendo que, desde o início dos atos executórios, tinha a intenção de, com seus golpes, causar a morte do seu desafeto. No início, os primeiros golpes de faca causaram lesões leves em Tom. Na quarta facada, porém, as lesões se tornaram graves, e os últimos golpes de faca foram suficientes para alcançar o resultado morte pretendido. Arlindo, para conseguir o resultado final mais grave, praticou vários atos com crescentes violações ao bem jurídico, mas responderá apenas por um crime de homicídio por força do princípio da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "subsidiariedade, por se tratar de progressão criminosa;"
+      },
+      {
+        "letra": "B",
+        "texto": "alternatividade, por se tratar de crime progressivo;"
+      },
+      {
+        "letra": "C",
+        "texto": "consunção, por se tratar de progressão criminosa;"
+      },
+      {
+        "letra": "D",
+        "texto": "especialidade, por se tratar de progressão criminosa;"
+      },
+      {
+        "letra": "E",
+        "texto": "consunção, por se tratar de crime progressivo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "867365",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Para solucionar o conflito aparente de normas, são empregados os princípios da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "especialidade e da subsidiariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "especialidade e da proporcionalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "proporcionalidade e da subsidiariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiariedade e da fragmentariedade."
+      },
+      {
+        "letra": "E",
+        "texto": "fragmentariedade e da especialidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "528018",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo"
+    ],
+    "enunciado_principal": "Sobre a aplicação da lei penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em relação ao tempo do crime, o Código Penal, no artigo 4° , adotou a teoria da ubiquidade."
+      },
+      {
+        "letra": "B",
+        "texto": "para os crimes permanentes, aplica-se a lei nova, ainda que mais severa, pois é considerado tempo do crime todo o período em que se desenvolver a atividade criminosa."
+      },
+      {
+        "letra": "C",
+        "texto": "em relação ao lugar do crime, o Código Penal, no artigo 6° , adotou a teoria da atividade."
+      },
+      {
+        "letra": "D",
+        "texto": "a nova lei, que deixa de considerar criminoso determinado fato, cessa, em favor do agente, todos os efeitos penais e civis."
+      },
+      {
+        "letra": "E",
+        "texto": "o princípio da retroatividade da lei penal mais benéfica é absoluto, previsto constitucionalmente, sobrepondo-se até mesmo à ultratividade das leis excepcionais ou temporárias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "512639",
+    "metadata": "Ano: 2015 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Após leitura dos enunciados abaixo, assinale a alternativa falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da legalidade tem como fundamento o princípio nullum crimen, nulla poena sine praevia lege."
+      },
+      {
+        "letra": "B",
+        "texto": "No tocante ao tempo do crime, o Código Penal Brasileiro adotou a teoria da atividade, que o considera como o momento da conduta comissiva ou omissiva."
+      },
+      {
+        "letra": "C",
+        "texto": "No tocante ao lugar do crime, o Código Penal Brasileiro adotou a teoria da atividade, que o considera como o local onde ocorreu a conduta criminosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Lei excepcional, por ter ultratividade, pode ser aplicada a fatos praticados durante sua vigência mesmo após sua revogação."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei penal, ao entrar em conflito com lei penal anterior, pode apresentar as seguintes situações: novatio legis incriminadora, abolitio criminis, novatio legis in pejus e novatio legis in mellius."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "512621",
+    "metadata": "Ano: 2015 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Os princípios que resolvem o conflito aparente de normas são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "especialidade, legalidade, intranscendência e alternatividade."
+      },
+      {
+        "letra": "B",
+        "texto": "especialidade, legalidade, consunção e alternatividade."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade, subsidiariedade, consunção e alternatividade."
+      },
+      {
+        "letra": "D",
+        "texto": "legalidade, intranscendência, consunção e alternatividade."
+      },
+      {
+        "letra": "E",
+        "texto": "legalidade, consunção, subsidiariedade e alternatividade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "498735",
+    "metadata": "Ano: 2015 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "NA DISCUSSÃO SOBRE CONCURSO APARENTE DE NORMAS PENAIS ASSINALE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O concurso de normas penais se confunde com a sucessão de leis ou normas penais;"
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da consunção por uma relação de meio a fim não se compatibiliza com a agravante do art. 61, II, b, do Cód. Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "É indispensável para o tipo do art. 89 da Lei de Licitações que o agente se utilize de documento ideologicamente falso;"
+      },
+      {
+        "letra": "D",
+        "texto": "São requisitos da consunção a unidade de agente e a pluralidade de normas aparentemente incidentes sobre uma determinada situação de fato, abranja ou não essa situação pluralidade de condutas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "496910",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Pedro subtraiu bem móvel pertencente à Administração pública, valendo-se da facilidade propiciada pela condição de funcionário público. Pedro responderá pelo crime de peculato e não pelo delito de furto em decorrência do princípio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "subsidiariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "consunção."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "progressão criminosa."
+      },
+      {
+        "letra": "E",
+        "texto": "alternatividade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "494793",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Constituem princípios que se destinam a solucionar o conflito aparente de normas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proporcionalidade e especialidade."
+      },
+      {
+        "letra": "B",
+        "texto": "excepcionalidade e proporcionalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade e fragmentariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiariedade e especialidade."
+      },
+      {
+        "letra": "E",
+        "texto": "excepcionalidade e subsidiariedade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "480966",
+    "metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: SEAD-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Acerca do emprego da analogia no âmbito do Direito Penal brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A regra é a proibição do emprego da analogia no âmbito penal, por força do princípio da reserva legal, todavia a doutrina é remansosa em admitir esse recurso quando se apresentar in bonam partem."
+      },
+      {
+        "letra": "B",
+        "texto": "A analogia in malam partem ocorre quando se aplica, ao caso omisso, uma lei considerada prejudicial ao réu que, segundo o Código Penal, excepcionalmente, poderá ser admitida, uma vez que deverá ser salvaguardado o direito da coletividade em face do direito do agressor."
+      },
+      {
+        "letra": "C",
+        "texto": "O Direito Penal brasileiro não admite aplicação da analogia."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo a doutrina, analogia legal, ou legis, é aquela em que se aplica ao caso omisso um princípio geral do Direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelece o Código Penal que a analogia somente poderá ser aplicada aos réus que não sejam reincidentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "465966",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Durante os preparativos para um show nas proximidades do Pelourinho, Pedro tem sua atenção chamada para Francisco, que transitava com um vistoso cordão de ouro para fora da camisa e uma mochila recém adquirida. Abordando a vítima com um revólver calibre .22, Pedro exige que lhe sejam entregues o cordão e a mochila, tendo Francisco ponderado que o conteúdo da mochila, expressiva quantia em dinheiro, pertenceria ao seu patrão, Carlos, responsável pela produção do show. Indiferente ao pleito da vítima, Pedro reforça a ameaça, dizendo que dispararia contra ela caso os bens não fossem entregues. Após a entrega do cordão e da mochila, Pedro falou que a vítima deveria aguardar no mesmo local, pois ele pretendia devolver em breve seus pertences. Diante desse quadro, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o fato de a conduta ter ocasionado violação de patrimônios distintos não descaracteriza a ocorrência de crime único, mesmo se todos os bens subtraídos estiverem na posse de pessoas diversas;"
+      },
+      {
+        "letra": "B",
+        "texto": "o chamado “roubo de uso” retira a tipicidade da conduta de subtração dos bens, diante da ausência do ânimo de apossamento definitivo;"
+      },
+      {
+        "letra": "C",
+        "texto": "o fato de a conduta ter ocasionado violação de patrimônios distintos descaracteriza a ocorrência de crime único, mesmo que todos os bens subtraídos estejam na posse de uma única pessoa;"
+      },
+      {
+        "letra": "D",
+        "texto": "a promessa de devolução dos bens apossados não altera a tipicidade da conduta, mas tem reflexos no momento da aplicação da pena, na fase inicial de fixação da sanção penal;"
+      },
+      {
+        "letra": "E",
+        "texto": "o fato de a conduta ter ocasionado violação de patrimônios distintos não descaracteriza a ocorrência de crime único se todos os bens subtraídos estavam na posse de uma única pessoa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "518544",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "São princípios que solucionam o conflito aparente de normas penais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insignificância, consunção, subsidiariedade e alteridade."
+      },
+      {
+        "letra": "B",
+        "texto": "insignificância , alteridade, consunção e alternatividade."
+      },
+      {
+        "letra": "C",
+        "texto": "especialidade, alteridade, consunção e subsidiariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "especialidade, alternatividade, subsidiariedade e insignificância."
+      },
+      {
+        "letra": "E",
+        "texto": "especialidade, consunção, subsidiariedade e alternatividade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "406895",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Com observância das assertivas abaixo, responda: I. Há progressão criminosa quando o agente, a fim de alcançar o resultado pretendido pelo seu dolo, obrigatoriamente, produz outro, antecedente e de menor gravidade, sem o qual não atingiria o seu fim. II. Há crime progressivo quando o dolo inicial do agente era dirigido a determinado resultado e, durante os atos de execução, resolve ir além, e produzir um resultado mais grave. III. Em relação ao concurso ou conflito aparente de normas, pode-se falar em princípio da consunção, quando um crime é meio necessário ou normal fase de preparação ou de execução de outro crime, bem como nos casos de antefato e pós-fato impuníveis. IV. Em relação ao concurso ou conflito aparente de normas, pelo princípio da subsidiariedade, na ausência ou impossibilidade de aplicação da norma principal mais grave, aplica-se a norma subsidiária menos grave. Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e II são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas III e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as assertivas I e III são verdadeiras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "382016",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Com relação às fontes e aos princípios de direito penal, bem como às normas penais e seu conflito aparente, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contrair casamento conhecendo a existência de impedimento que lhe cause a nulidade absoluta constitui crime previsto em norma penal em branco em sentido estrito."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a atual jurisprudência do STJ, a aplicação do princípio da consunção pressupõe a existência de ilícitos penais que funcionem como fase normal de preparação ou de execução de outro crime com evidente vínculo de dependência ou subordinação entre eles."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de omissão legal, o uso de analogia não é admitido em direito penal, ainda que seja para favorecer o réu."
+      },
+      {
+        "letra": "D",
+        "texto": "Os costumes não são considerados pela doutrina como fonte formal do direto penal."
+      },
+      {
+        "letra": "E",
+        "texto": "O Código Penal, ao tipificar o crime de abandono intelectual, não viola o princípio da legalidade ou da reserva legal, uma vez que, para a validade da tipificação penal, é suficiente que esta esteja prevista em lei em sentido estrito."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "329579",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Havendo conflito aparente de normas, aplica-se o princípio da subsidiariedade, que incide no caso de a norma descrever várias formas de realização da figura típica, bastando a realização de uma delas para que se configure o crime.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "329219",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "No que concerne ao tempo e ao lugar do crime e ao conflito aparente de normas penais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o STF, nas hipóteses de crime continuado ou de crime permanente, a lei penal mais grave não pode ser aplicada, ainda que vigente antes da cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "B",
+        "texto": "Por se ter adotado, no Código Penal, a teoria da atividade, considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplica-se o princípio da especificidade aos tipos mistos alternativos, já que, mesmo havendo várias formas de conduta no mesmo tipo, somente um único delito será consumado, independentemente da quantidade de condutas realizadas no mesmo contexto."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da consunção enseja a absorção de um delito por outro, sendo aplicável aos casos que envolvam crime progressivo, crime complexo, progressão criminosa, fato posterior não punível e fato anterior não punível."
+      },
+      {
+        "letra": "E",
+        "texto": "Na definição do tempo do crime, adota-se, no Código Penal, a teoria do resultado, considerando-se praticado o crime no momento do resultado, ainda que outro seja o momento da ação ou omissão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "328898",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 6ª Região (PE)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo"
+    ],
+    "enunciado_principal": "No tocante à aplicação da lei penal, correto afirmar que :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o dia do começo inclui-se no cômputo do prazo."
+      },
+      {
+        "letra": "B",
+        "texto": "a lei penal excepcional ou temporária não se aplica ao fato praticado durante a sua vigência, se decorido o período de sua duração ou cessadas as circunstâncias que a determinaram."
+      },
+      {
+        "letra": "C",
+        "texto": "se considera praticado o crime no momento do resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "as regras gerais do Código Penal aplicam-se aos fatos incriminados por lei especial, ainda que esta disponha de modo diverso."
+      },
+      {
+        "letra": "E",
+        "texto": "a lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, desde que não decididos por sentença condenatória transitada em julgado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "327540",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DEPEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Considere que Alberto, querendo apoderar-se dos bens de Cícero, tenha apontado uma arma de fogo em direção a ele, constrangendo-o a entregar-lhe a carteira e o aparelho celular. Nessa situação hipotética, da mera comparação entre os tipos descritos como crime de constrangimento ilegal e crime de roubo, aplica-se o princípio da especialidade a fim de se tipificar a conduta de Alberto.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "327539",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DEPEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Considere que Adolfo, querendo apoderar-se de bens existentes no interior de uma casa habitada, tenha adentrado o local e subtraído telas de LCD e forno micro-ondas. Nessa situação, aplicando-se o princípio da consunção, Adolfo não responderá pelo crime de violação de domicílio, mas somente pelo crime de furto.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "372065",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Em matéria de lei penal, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sentença penal estrangeira possui plena eficácia em território nacional, em qualquer hipótese, desde que homologada pelo Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplica-se a lei brasileira, com prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado, se a sua vigência é anterior à cessação da continuidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplica-se tão só e exclusivamente ao crime permanente, se a sua vigência é anterior à cessação da permanência"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "311773",
+    "metadata": "Ano: 2012 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "“Um fato definido por uma norma incriminadora é meio necessário ou normal fase de preparação ou execução de outro crime, bem como quando constitui conduta anterior ou posterior do agente, cometida com a mesma finalidade prática atinente àquele crime”. No conflito aparente de normas, esta afirmação explica o princípio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "especialidade."
+      },
+      {
+        "letra": "B",
+        "texto": "subsidiariedade."
+      },
+      {
+        "letra": "C",
+        "texto": "alternatividade."
+      },
+      {
+        "letra": "D",
+        "texto": "consunção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "286570",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Com base na interpretação da lei penal e no conflito aparente de normas penais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da especialidade, aplicado na solução do conflito aparente de normas penais, tem a finalidade específica de evitar o bis in idem e determina a prevalência da norma especial em comparação com a geral, ocorrendo apenas no confronto in concreto das leis que definem o mesmo fato."
+      },
+      {
+        "letra": "B",
+        "texto": "Entre o tipo penal básico e os derivados, sejam eles qualificados ou privilegiados, não há relação de especialidade, o que afasta a aplicação do princípio da especialidade na solução de conflito aparente de normas penais."
+      },
+      {
+        "letra": "C",
+        "texto": "O método filológico, literal, ou gramatical, consiste na reconstrução do pensamento legislativo por meio das palavras da lei, em suas conexões linguísticas e estilísticas, e ignora, por completo, a ratio legis."
+      },
+      {
+        "letra": "D",
+        "texto": "A interpretação teleológica busca a vontade do legislador, a chamada voluntas legislatoris, e não a vontade da lei, denominada voluntas legis."
+      },
+      {
+        "letra": "E",
+        "texto": "O fenômeno denominado de interpretação evolutiva ocorre quando a disposição legal ganha novo sentido, aplicando-se a situações imprevistas ou imprevisíveis ao legislador."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "286032",
+    "metadata": "Ano: 2012 | Banca: FGV | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Ocorrido um fato criminoso, às vezes duas ou mais normas se apresentam para regulá-lo, surgindo o chamado conflito aparente de normas. A respeito de tal questão, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pluralidade de fatos e a pluralidade de normas são pressupostos do conflito, que aparentemente com eles se identificam."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da subsidiariedade atua como “soldado de reserva”, aplicando a norma subsidiária menos grave quando impossível a aplicação da norma principal mais grave."
+      },
+      {
+        "letra": "C",
+        "texto": "A questão da progressão criminosa e do crime progressivo é resolvida pelo princípio da absorção ou consunção."
+      },
+      {
+        "letra": "D",
+        "texto": "Na progressão criminosa, o agente inicialmente pretender praticar um crime menos grave, e, depois, resolve progredir para o mais grave."
+      },
+      {
+        "letra": "E",
+        "texto": "No crime progressivo, o sujeito, para alcançar o crime querido, passa necessariamente por outro menos grave que aquele desejado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "283086",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Portando ilegalmente, exclusivamente para aquela ação, uma arma de fogo de calibre permitido, Norberto constrange um transeunte e, mediante grave ameaça, subtrai para si os seus pertences. Nesse contexto, afirma-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o autor responde somente pelo crime de roubo, não pelo de porte de arma de fogo, pois a pena do crime patrimonial já engloba a reprovabilidade do delito previsto na lei especial, consequência da unidade fática entre ambos, aplicando-se o princípio da consunção."
+      },
+      {
+        "letra": "B",
+        "texto": "há apenas crime de roubo, solucionando-se o caso pelo princípio da especialidade, pois o delito patrimonial, ao estabelecer a grave ameaça como meio executório, insere o porte de arma em sua estrutura típica, acrescido de elementos especializantes."
+      },
+      {
+        "letra": "C",
+        "texto": "será o porte de arma absorvido pelo crime de roubo em virtude da substituição do dolo, característica da progressão criminosa, que determina o reconhecimento do conflito aparente de normas."
+      },
+      {
+        "letra": "D",
+        "texto": "aplica-se ao caso o princípio da subsidiariedade, pois nas condutas há diferentes graus de lesão à mesma objetividade jurídica, em uma relação de continente e conteúdo."
+      },
+      {
+        "letra": "E",
+        "texto": "tutelando bens jurídicos distintos, as normas penais referentes aos crimes de porte de arma de fogo e roubo figurarão em concurso material de delitos, aplicando-se ao caso o sistema do cúmulo material das penas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "271313",
+    "metadata": "Ano: 2012 | Banca: AOCP | Órgão: TCE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, analise as assertivas e assinale a alternativa que aponta as corretas. I. Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória. II. A lei posterior, que de qualquer modo favorecer o agente, não aplica-se aos fatos anteriores. III. A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência. IV. Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "270427",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas",
+      "Crimes contra a dignidade sexual",
+      "Estupro",
+      "Estupro de vulnerável",
+      "Corrupção de menores"
+    ],
+    "enunciado_principal": "Com relação à aplicação da lei penal no tempo, aos crimes contra a dignidade sexual e aos delitos hediondos, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com a jurisprudência predominante do STJ, a presunção de violência prevista no art. 224 do CP se revela de natureza absoluta, não cedendo à existência de fatores que afastem a dita presunção."
+      },
+      {
+        "letra": "B",
+        "texto": "Pratica crime de corrupção de menores, previsto no art. 218 do CP, aquele que induz menor de dezesseis anos a satisfazer a lascívia de outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "O art. 224 do CP, no qual era prevista a presunção de violência em crimes sexuais, foi revogado, tendo sido criado um novo tipo penal, tipificado como estupro de vulnerável, que caracteriza a abolitio criminis da conduta prevista no art. 214 (atentado violento ao pudor) c/c o art. 224 do CP."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da continuidade normativa típica evidencia-se quando uma norma penal é revogada, mas a mesma conduta continua sendo crime no tipo penal revogador, ou seja, a infração penal continua tipificada em outro dispositivo, ainda que topologicamente ou normativamente diverso do originário."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplica-se ao agente de violência real ou grave ameaça em crime de estupro ou atentado violento ao pudor a causa especial de aumento de pena prevista no art. 9.º da lei que trata dos crimes hediondos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "270014",
+    "metadata": "Ano: 2012 | Banca: COPESE - UFT | Órgão: DPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Nos termos do Código Penal, leia os itens seguintes e marque a opção CORRETA: I. Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória; II. Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado; III. A lei excepcional ou temporária, uma vez decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, não se aplica ao fato praticado durante sua vigência; IV. Lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas os itens I, II e III estão corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens II, III e IV estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I, II e IV estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I, III e IV estão corretos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "260658",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Assinale a opção correta no que diz respeito à lei penal no tempo, à lei penal no espaço e ao conflito aparente de normas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo princípio da bandeira, ficam sujeitos à lei penal brasileira os crimes praticados a bordo de embarcações e aeronaves brasileiras de natureza pública ou privada, quando em território estrangeiro e aí não sejam julgados."
+      },
+      {
+        "letra": "B",
+        "texto": "A irretroatividade da lei penal mais grave é decorrência direta do princípio constitucional da humanidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre o roubo e o furto é possível estabelecer uma relação de especialidade, em que a violência contra a pessoa ou a grave ameaça funcionam como elementos especiais ou especializantes"
+      },
+      {
+        "letra": "D",
+        "texto": "Para o princípio da consunção não é importante a relação entre meio e fim, mas o grau de violação do mesmo bem jurídico."
+      },
+      {
+        "letra": "E",
+        "texto": "A requisição do ministro da Justiça é condição indispensável para aplicação da lei penal brasileira aos crimes cometidos contra brasileiro fora do Brasil."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "236059",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir com base no direito penal. Conflitos aparentes de normas penais podem ser solucionados com base no princípio da consunção, ou absorção. De acordo com esse princípio, quando um crime constitui meio necessário ou fase normal de preparação ou execução de outro crime, aplica-se a norma mais abrangente. Por exemplo, no caso de cometimento do crime de falsificação de documento para a prática do crime de estelionato, sem mais potencialidade lesiva, este absorve aquele.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "234842",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "O princípio da consunção, consoante posicionamento doutrinário e jurisprudencial, resolve o conflito aparente de normas penais quando um crime menos grave é meio necessário, fase de preparação ou de execução de outro mais nocivo, respondendo o agente somente pelo último. Há incidência desse princípio no caso de porte de arma utilizada unicamente para a prática do homicídio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "234840",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Crime impossível",
+      "Causas de extinção da punibilidade"
+    ],
+    "enunciado_principal": "A jurisprudência dos tribunais superiores consolidou-se no sentido de reconhecer no delito de furto a hipótese de crime impossível, por ineficácia absoluta do meio, quando o agente estiver sendo vigiado por fiscal do estabelecimento comercial ou existir sistema eletrônico de vigilância.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1223826",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "Julgue o item que se seguem, relativos à aplicação da lei penal. Aplica-se a novatio legis in mellius aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado, sem que haja violação à regra constitucional da preservação da coisa julgada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "215228",
+    "metadata": "Ano: 2011 | Banca: COPS-UEL | Órgão: PGE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo",
+      "Lei penal no espaço"
+    ],
+    "enunciado_principal": "Considere as seguintes afirmações: I – a vigência de medida provisória que define tipo penal é inconstitucional. II – o princípio da tipicidade garante a proibição da analogia in malam partem no direito penal. III – o latrocínio ocorrido em 1989 não é punível com fundamento na Lei n. 8.072/90 em razão do princípio da ultra-atividade da lei mais benéfica. IV – em caso de abolitio criminis o sujeito condenado a pena privativa de liberdade deve ser prontamente libertado pelo juiz, volta à condição de primário e pode exigir da Administração Pública indenização pelo tempo em que permaneceu preso. V – a revogação formal da lei penal não é suficiente para a abolitio criminis quando, embora revogada a lei, houve a continuidade da hipótese normativo-típica. Alternativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são corretas as afirmativas I, III e IV;"
+      },
+      {
+        "letra": "B",
+        "texto": "são corretas as afirmativas II, III, IV e V;"
+      },
+      {
+        "letra": "C",
+        "texto": "somente a afirmativa IV é incorreta;"
+      },
+      {
+        "letra": "D",
+        "texto": "somente as afirmativas II e V são incorretas;"
+      },
+      {
+        "letra": "E",
+        "texto": "todas as afirmativas são corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "210934",
+    "metadata": "Ano: 2011 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas"
+    ],
+    "enunciado_principal": "O agente que mata alguém, por imprudência, negligência ou imperícia, na direção de veículo automotor, comete o crime previsto no art. 302, da Lei n.º 9.503/97 (Código de Trânsito Brasileiro), e não o crime previsto no art. 121, § 3.º, do Código Penal. Assinale, dentre os princípios adiante mencionados, em qual deles está fundamentada tal afirmativa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Princípio da consunção."
+      },
+      {
+        "letra": "B",
+        "texto": "Princípio da alternatividade."
+      },
+      {
+        "letra": "C",
+        "texto": "Princípio da especialidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Princípio da legalidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "205288",
+    "metadata": "Ano: 2011 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo"
+    ],
+    "enunciado_principal": "Examine as afirmações que se seguem, referentes à aplicação da lei penal, e assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ostentam imunidade diplomática os diplomatas de carreira, os membros do quadro administrativo e técnico da sede diplomática, com os respectivos familiares, além dos adidos consulares."
+      },
+      {
+        "letra": "B",
+        "texto": "O fenômeno da Lex intermedia importa na aplicação da lei penal mais benéfica ao acusado, ainda que não tenha sido a lei de regência ao tempo do fato, nem mais subsista, dada sua revogação, ao tempo da decisão condenatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo entendimento doutrinário e jurisprudencial predominante, operou-se a abolitio criminis em relação ao crime de porte de entorpecentes para uso próprio, nos termos da Lei nº 11.343/2006."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação da lei penal estrangeira ao crime ocorrido no território brasileiro é vedada pelo princípio da soberania."
+      },
+      {
+        "letra": "E",
+        "texto": "Por se tratar de crime formal, à extorsão mediante seqüestro, iniciada na égide da lei penal mais branda, não se aplica a lei penal mais grave, ainda que a restrição da liberdade da vítima perdure após a alteração legislativa que agrave a pena do referido crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "200562",
+    "metadata": "Ano: 2011 | Banca: INSTITUTO CIDADES | Órgão: DPE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Conflito aparente de normas",
+      "Lei penal no tempo"
+    ],
+    "enunciado_principal": "Em relação à novatio legis incriminadora, a novatio legis in pejus, abolitio criminis e a novatio legis in mellius, assinale o que for errado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dá-se a novatio legis incriminadora quando a lei penal definir nova conduta como infração penal;"
+      },
+      {
+        "letra": "B",
+        "texto": "caracteriza-se a novatio legis in pejus quando a lei penal redefinir infrações penais, dando tratamento mais severo a condutas já punidas pelo direito penal, quer criminalizando o que antes era contravenção penal, quer apenas conferindo disciplina mais gravosa;"
+      },
+      {
+        "letra": "C",
+        "texto": "ocorre a abolitio criminis quando, por exemplo, a lei penal abolir uma contravenção penal, como foi o caso da revogação do artigo 60 da Lei das Contravenções Penais"
+      },
+      {
+        "letra": "D",
+        "texto": "tem-se a novatio legis in mellius quando a lei penal definir fatos novos como infração penal, também denominada “neocriminalização”."
+      },
+      {
+        "letra": "E",
+        "texto": "as situações de novatio legis e abolitio criminis são tratadas pelo artigo 2º do Código Penal e dizem respeito à disciplina da lei penal no tempo."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

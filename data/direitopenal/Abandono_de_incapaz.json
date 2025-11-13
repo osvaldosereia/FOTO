@@ -1,0 +1,792 @@
+[
+  {
+    "id": "3086772",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "[Questão Inédita] Pedro e Renan, maiores e capazes, resolvem ir até um bar após o encerramento da aula. Pedro consome bebida alcoólica em exagero, ficando completamente embriagado. Renan, então, decide levar Pedro para casa, mas ao perceber que Pedro não tinha condições de ficar no seu veículo sem vomitar, decide deixa-lo na frente do bar. A cena foi capturada pelas câmeras e Renan foi denunciado pelo crime de abandono de incapaz (art. 133 do CP). Nesses termos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denúncia está correta, pois Pedro foi abandonado por Renan em situação de perigo concreto."
+      },
+      {
+        "letra": "B",
+        "texto": "A denúncia está incorreta, pois houve autocolocação em risco, ausente, portanto, conduta do responsável legal (Renan) capaz de ensejar o desemparo de Pedro."
+      },
+      {
+        "letra": "C",
+        "texto": "A denúncia está correta, pois Renan abandonou Pedro, pessoa que estava sob seu cuidado."
+      },
+      {
+        "letra": "D",
+        "texto": "A denúncia está incorreta, pois inexistia obrigação legal ou contratual dever de cuidado, guarda ou vigilância, não se subsumindo, portanto, a conduta de Renan ao crime de abandono de incapaz."
+      },
+      {
+        "letra": "E",
+        "texto": "A denúncia está correta, uma vez que Pedro era incapaz de defender-se dos riscos resultantes do abandono"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2492707",
+    "metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Cariacica - ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Lucas deixou seu filho Bruno, de apenas 6 anos, em casa para ir a uma festa durante a noite, enquanto a criança dormia. Infelizmente ocorreu um incêndio na residência e o menino veio a falecer em decorrência do incidente. Nessa hipótese, é correto afirmar que Lucas deve responder pelo delito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "homicídio culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "homicídio doloso."
+      },
+      {
+        "letra": "C",
+        "texto": "abandono de incapaz com resultado morte."
+      },
+      {
+        "letra": "D",
+        "texto": "omissão de socorro."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2386988",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Crimes contra o patrimônio",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Camila, mãe de Júnior, de 13 anos de idade e destinatário de pensão alimentícia do pai, utiliza os valores assim pagos ao menor, exclusivamente para o custeio de despesas pessoais dela, notadamente alimentação fora de casa (contas de botequim), cigarros e bebidas alcoólicas, deixando de fornecer ao filho os alimentos indispensáveis às suas necessidades. Diante do caso narrado, Camila deverá responder por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maus-tratos;"
+      },
+      {
+        "letra": "B",
+        "texto": "maus-tratos, com a pena aumentada;"
+      },
+      {
+        "letra": "C",
+        "texto": "abandono de incapaz e apropriação indébita;"
+      },
+      {
+        "letra": "D",
+        "texto": "abandono de incapaz e apropriação indébita qualificada;"
+      },
+      {
+        "letra": "E",
+        "texto": "maus-tratos, com a pena aumentada, e apropriação indébita."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2386450",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de São José - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Assinale a alternativa que indica corretamente o crime que consiste em abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maus-tratos"
+      },
+      {
+        "letra": "B",
+        "texto": "perigo de vida"
+      },
+      {
+        "letra": "C",
+        "texto": "omissão de socorro"
+      },
+      {
+        "letra": "D",
+        "texto": "abandono de incapaz"
+      },
+      {
+        "letra": "E",
+        "texto": "exposição de vulnerável a risco"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2357339",
+    "metadata": "Ano: 2024 | Banca: ADVISE | Órgão: Prefeitura de Serra da Raiz - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Perigo para a vida ou a saúde de outrem",
+      "Abandono de incapaz",
+      "Omissão de socorro",
+      "Maus tratos"
+    ],
+    "enunciado_principal": "O Código Penal estabelece que quem pratica a conduta típica de expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina incorre no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "omissão de socorro."
+      },
+      {
+        "letra": "B",
+        "texto": "condicionamento de atendimento médico-hospitalar emergencial."
+      },
+      {
+        "letra": "C",
+        "texto": "abandono de incapaz."
+      },
+      {
+        "letra": "D",
+        "texto": "perigo para a vida ou saúde de outrem."
+      },
+      {
+        "letra": "E",
+        "texto": "maus-tratos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2374120",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de Jundiaí - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Com relação ao crime de abandono de incapaz, tipificado no Código Penal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exige, para sua configuração, o abandono de pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, ainda que civilmente capaz."
+      },
+      {
+        "letra": "B",
+        "texto": "exige, para sua configuração, o abandono de pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, desde que civilmente incapaz."
+      },
+      {
+        "letra": "C",
+        "texto": "se do abandono resulta lesão corporal de natureza grave, a pena é de detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "se do abandono resulta morte, a pena é de reclusão, de três a oito anos."
+      },
+      {
+        "letra": "E",
+        "texto": "se o abandono ocorreu em lugar ermo, as penas aumentam-se de dois terços."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1993015",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Laio, ao receber a notícia de sua mulher, Jocasta, de que seria pai, foi consultar uma vidente para saber sobre o destino de seu futuro filho. Ao receber a informação de que a criança traria grande infelicidade para o casal, Laio, assim, que seu filho nasceu, veio a deixá-lo na porta de uma residência simples situada na periferia da cidade. Momentos depois, a criança foi resgatada pelo morador da referida residência com sua saúde e integridade física preservadas. Considerando a situação narrada, Laio, em tese, deve ser responsabilizado pelo crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exposição ou abandono de recém-nascido."
+      },
+      {
+        "letra": "B",
+        "texto": "tentativa de homicídio culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "abandono de incapaz."
+      },
+      {
+        "letra": "D",
+        "texto": "perigo para a vida ou saúde de outrem."
+      },
+      {
+        "letra": "E",
+        "texto": "tentativa de infanticídio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1810029",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Jéssica, 19 anos, mãe solo de Brian, 2 anos, após colocar o filho para dormir e, certificando-se de que a criança estava em sono profundo, sai de casa deixando o menor sozinho para ir a uma festa. Infelizmente, enquanto Jéssica estava fora de casa, a residência pega fogo e Brian morre carbonizado. Nessa hipótese, assinale a alternativa que corresponde à responsabilidade penal de Jéssica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "homicídio praticado com dolo eventual"
+      },
+      {
+        "letra": "B",
+        "texto": "abandono de incapaz qualificado pelo resultado morte"
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio culposo"
+      },
+      {
+        "letra": "D",
+        "texto": "omissão de socorro"
+      },
+      {
+        "letra": "E",
+        "texto": "infanticídio"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1673256",
+    "metadata": "Ano: 2020 | Banca: ADM&TEC | Órgão: Prefeitura de Gravatá - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Crimes contra a liberdade pessoal",
+      "Constrangimento ilegal"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir: I. De acordo com o disposto no artigo 146 do Código Penal, constranger alguém, mediante violência ou grave ameaça, é uma prática sujeita à pena de reclusão, de um a três anos e multa, além de reparação ou retratação pelo dano causado. II. O crime de abandono de incapaz pode acarretar aumento de pena de três quartos se o abandono ocorre em lugar ermo ou se o agente é ascendente, descendente, cônjuge, irmão, tutor ou curador da vítima, de acordo com o Código Penal. Se a vítima é maior de 60 (sessenta) anos, a pena é aumentada em um meio, conforme previsto no artigo 133 do Decreto-lei nº 2.848, de 1940. III. Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, a tolerar que se faça ou a deixar de fazer alguma coisa, é uma prática sujeita à pena de reclusão, de quatro a dez anos, e multa. Se o crime é cometido por duas ou mais pessoas, ou com emprego de arma, aumenta-se a pena de um terço até metade, conforme disposto no artigo 158, § 1º, do Código Penal. Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma afirmativa está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas uma afirmativa está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas duas afirmativas estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1673255",
+    "metadata": "Ano: 2020 | Banca: ADM&TEC | Órgão: Prefeitura de Gravatá - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Crimes contra a honra",
+      "Calúnia",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir: I. Caluniar alguém, imputando-lhe falsamente um fato definido como crime, é uma ação sujeita à pena de detenção, de seis meses a dois anos, e multa, de acordo com o Código Penal. Na mesma pena incorre quem, sabendo ser falsa a imputação, a propala ou divulga, conforme disposto no artigo 138 do Decreto-lei nº 2.848, de 1940. II. Deixar de prestar assistência à criança abandonada ou extraviada, quando é possível fazê-lo sem risco pessoal; ou não pedir, nesse caso, o socorro da autoridade pública, são ações puníveis com pena de detenção, de um a seis meses, ou multa, conforme previsto no artigo 135, Parágrafo único, do Decreto-lei nº 2.848, de 1940. III. Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, é uma prática sujeita à pena de reclusão, de quatro a dez anos, e multa. Na mesma pena incorre quem, logo depois de subtraída a coisa, emprega violência contra a pessoa, a fim de assegurar a impunidade do crime ou a detenção da coisa para si ou para terceiro, conforme previsto no artigo 157 do Decreto-lei nº 2.848, de 1940. Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma afirmativa está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas uma afirmativa está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas duas afirmativas estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1673248",
+    "metadata": "Ano: 2020 | Banca: ADM&TEC | Órgão: Prefeitura de Gravatá - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Crimes contra o patrimônio",
+      "Apropriação indébita",
+      "Outras fraudes"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir: I. Abusar da inexperiência, da simplicidade ou da inferioridade mental de alguém em proveito próprio ou alheio, induzindo-o à prática de jogo ou aposta, ou à especulação com títulos ou mercadorias, sabendo ou devendo saber que a operação é ruinosa, é uma ação sujeita à pena de reclusão, de um a três anos, e multa, conforme disposto no artigo 174 do Decreto-lei nº 2.848, de 1940. II. Abandonar uma pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e que, por qualquer motivo, é incapaz de defender-se dos riscos resultantes do abandono, é uma atitude sujeita à pena de detenção, de seis meses a três anos. Se o abandono resulta em lesão corporal de natureza grave, a pena é de reclusão, de um a cinco anos. Se essa ação resulta em morte, a pena é de reclusão, de quatro a doze anos, conforme dispõe o artigo 133 do Código Penal. III. Apropriar-se de coisa alheia móvel, de que tem a posse ou a detenção, é uma prática sujeita à pena de reclusão, de um a quatro anos, e multa. A pena é aumentada de um terço se o agente recebeu a coisa na qualidade de tutor, de curador, de síndico, de liquidatário, de inventariante, de testamenteiro ou de depositário judicial, conforme previsto no artigo 168 do Decreto-lei nº 2.848, de 1940. Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma afirmativa está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas uma afirmativa está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas duas afirmativas estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1134195",
+    "metadata": "Ano: 2020 | Banca: IBFC | Órgão: EBSERH",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Aborto",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "O atual Código de Direito Penal, recepcionado pela Constituição de 1988, inicia a Parte Especial tratando dos crimes contra a pessoa. Sobre eles, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Também é crime se a lesão corporal for praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, ou com quem conviva ou tenha convivido, ou, ainda, prevalecendo-se o agente das relações domésticas, de coabitação ou de hospitalidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de homicídio qualificado aquele cometido contra a mulher por razões da condição do sexo feminino"
+      },
+      {
+        "letra": "C",
+        "texto": "É crime o aborto de feto com anencefalia"
+      },
+      {
+        "letra": "D",
+        "texto": "É crime contra a pessoa praticar, com o fim de transmitir a outrem moléstia grave de que está contaminado, ato capaz de produzir contágio"
+      },
+      {
+        "letra": "E",
+        "texto": "É crime abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1017687",
+    "metadata": "Ano: 2019 | Banca: IDIB | Órgão: Prefeitura de Petrolina - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Rixa",
+      "Crimes contra a inviolabilidade do domicílio"
+    ],
+    "enunciado_principal": "Com base no Código Penal, assinale abaixo a conduta típica que não se enquadra nos chamados crimes contra as pessoas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Participar de rixa, salvo para separar os contendores."
+      },
+      {
+        "letra": "B",
+        "texto": "Devassar indevidamente o conteúdo de correspondência fechada, dirigida a outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "Exigir ou receber, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra terceiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tácita de quem de direito, em casa alheia ou em suas dependências."
+      },
+      {
+        "letra": "E",
+        "texto": "Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "973952",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Maus tratos"
+    ],
+    "enunciado_principal": "Uma mulher que, em razão de acordo verbal com os pais, cuida de uma criança percebe que esta caiu por caso fortuito num poço profundo e, embora esteja viva, precisa ser retirada por adultos. Voluntariamente, a mulher omite dos grupos de busca que tem conhecimento de onde se encontra a criança, que é considerada desaparecida. Passadas algumas horas, a criança morre por falta de alimentação. Assinale a alternativa que identifica o crime praticado pela mulher.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homicídio doloso por comissão (tipo comissivo)."
+      },
+      {
+        "letra": "B",
+        "texto": "Homicídio doloso por omissão (tipo omissivo impróprio)."
+      },
+      {
+        "letra": "C",
+        "texto": "Homicídio doloso por omissão (tipo omissivo próprio)."
+      },
+      {
+        "letra": "D",
+        "texto": "Maus-tratos com resultado morte (tipo comissivo ou omissivo preterdoloso)."
+      },
+      {
+        "letra": "E",
+        "texto": "Abandono de incapaz com resultado morte (tipo omissivo próprio preterdoloso)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "938390",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Noções gerais sobre os crimes de perigo",
+      "Perigo para a vida ou a saúde de outrem",
+      "Abandono de incapaz",
+      "Omissão de socorro"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a periclitação da vida e da saúde, previstos no Código Penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime de abandono de incapaz somente se configura se o dever de cuidado do autor para com o incapaz decorre de relação familiar."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de contágio de moléstia grave, para se configurar, exige que a exposição a contágio ocorra por relação sexual ou qualquer outro ato libidinoso."
+      },
+      {
+        "letra": "C",
+        "texto": "o crime de condicionamento de atendimento médico-hospitalar emergencial é próprio de médico, não se configurando se a condição é imposta por pessoa diversa."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de omissão de socorro se caracteriza pela conduta de deixar de prestar assistência, quando possível, ainda que o agente peça socorro à autoridade pública."
+      },
+      {
+        "letra": "E",
+        "texto": "todos, sem exceção, não admitem a modalidade culposa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "907901",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Suzano - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Ariana Pequena, com 19 anos de idade, ficou grávida de seu padrasto e, algum tempo após dar à luz uma menina, com a intenção de ocultar a sua desonra, por sua própria e consciente vontade, resolveu abandonar o recém-nascido em um terreno baldio. No entanto, o bebê foi resgatado por um Guarda Municipal ainda com vida e conseguiu sobreviver. Nessa situação hipotética, segundo o Código Penal, é correto afirmar que Ariana",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cometeu o crime de infanticídio."
+      },
+      {
+        "letra": "B",
+        "texto": "não cometeu crime porque o bebê sobreviveu."
+      },
+      {
+        "letra": "C",
+        "texto": "cometeu o crime de feminicídio"
+      },
+      {
+        "letra": "D",
+        "texto": "será processada criminalmente apenas se o bebê sofreu lesões corporais."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá responder pelo crime de abandono de recém-nascido."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2873212",
+    "metadata": "Ano: 2017 | Banca: Instituto Acesso | Órgão: CODEMAR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Aquele que abandona pessoa com deficiência em entidades de abrigamento comete crime punível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "detenção de 01 (um) ano a 04 (quatro) anos, e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "detenção de 01 (um) ano a 03 (três) anos, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "reclusão de 01 (um) ano a 04 (quatro) anos, e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "reclusão de 06 (seis) a 03 (três) anos, e multa."
+      },
+      {
+        "letra": "E",
+        "texto": "detenção de 06 (seis) meses a 03 (três) anos, e multa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2035167",
+    "metadata": "Ano: 2017 | Banca: FAEPOL | Órgão: Prefeitura de Cachoeiras de Macacu - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Nos termos do Código Penal, o crime de abandono de incapaz gera aumento da pena quando o abandono ocorre em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "emplo religioso"
+      },
+      {
+        "letra": "B",
+        "texto": "local ermo"
+      },
+      {
+        "letra": "C",
+        "texto": "escola"
+      },
+      {
+        "letra": "D",
+        "texto": "delegacia"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1337937",
+    "metadata": "Ano: 2016 | Banca: ADVISE | Órgão: Prefeitura de Cuité de Mamanguape - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Qual alternativa não constitui uma periclitação da vida e da saúde presente no Decreto-Lei Federal nº 2.848/40?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perigo de contágio venéreo."
+      },
+      {
+        "letra": "B",
+        "texto": "Exposição ou abandono de idosos."
+      },
+      {
+        "letra": "C",
+        "texto": "Maus tratos."
+      },
+      {
+        "letra": "D",
+        "texto": "Omissão de socorro."
+      },
+      {
+        "letra": "E",
+        "texto": "Perigo de contágio de moléstia grave."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1157409",
+    "metadata": "Ano: 2016 | Banca: ADVISE | Órgão: Prefeitura de Conde - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Perigo para a vida ou a saúde de outrem",
+      "Abandono de incapaz",
+      "Omissão de socorro",
+      "Maus tratos"
+    ],
+    "enunciado_principal": "Em qual caso aumenta-se a pena em um terço se a vítima for maior de 60 anos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perigo de contágio venéreo"
+      },
+      {
+        "letra": "B",
+        "texto": "Perigo para a vida ou saúde de outrem"
+      },
+      {
+        "letra": "C",
+        "texto": "Abandono de incapaz"
+      },
+      {
+        "letra": "D",
+        "texto": "Omissão de socorro"
+      },
+      {
+        "letra": "E",
+        "texto": "Maus tratos"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "676972",
+    "metadata": "Ano: 2016 | Banca: COMPERVE - UFRN | Órgão: Câmara de Natal - RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "O art. 133 do Código Penal estabelece que abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade e, que, por qualquer motivo, seja incapaz de defender -se dos riscos resultantes do abandono é crime cuja pena é aumentada de um terço",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se o agente é parente da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "se do abandono resulta lesão corporal de natureza leve."
+      },
+      {
+        "letra": "C",
+        "texto": "se o abandono ocorre em lugar ermo."
+      },
+      {
+        "letra": "D",
+        "texto": "se a vítima é maior de 70 (setenta) anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "305420",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Antijuridicidade",
+      "Estado de necessidade",
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Gertrudes, para ir brincar o carnaval, deixou dormindo em seu apartamento seus filhos Lúcio, de cinco anos de idade, e Lígia, de sete anos de idade. As crianças acordaram e, por se sentirem sós, começaram a chorar. Os vizinhos, ouvindo os choros e chamamentos das crianças pela janela do apartamento, que ficava no terceiro andar do prédio, arrombaram a porta, recolheram as crianças e entregaram-nas ao Conselho Tutelar. Logo, pode-se afirmar que Gertrudes deve responder pelo crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perigo a vida ou saúde de outrem e os vizinhos não praticaram crime, pois estavam agindo em legítima defesa de terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "abandono de incapaz e os vizinhos não praticaram crime, pois estavam agindo em legítima defesa de terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "perigo a vida ou saúde de outrem e os vizinhos não praticaram crime, pois estavam agindo em estado de necessidade de terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "abandono de incapaz e os vizinhos não praticaram crime, pois estavam agindo em estado de necessidade de terceiros."
+      },
+      {
+        "letra": "E",
+        "texto": "pelo crime de abandonomaterial e os vizinhos não praticaram crime, pois estavam agindo em estado de necessidade exculpante de terceiros."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "316345",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Para a caracterização do delito de abandono de incapaz, impõe-se, além da existência de transgressão da relação particular de assistência entre o agente e a vítima, a presença, ainda que por certo lapso temporal, de perigo concreto para esta, sendo prevista, para o delito, tanto a forma comissiva quanto a omissiva.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "253809",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz"
+    ],
+    "enunciado_principal": "Maria reside sozinha com sua filha de 5 meses de idade e encontra-se em benefício previdenciário de licença maternidade de 6 meses. Todas as tardes a filha de Maria dorme por cerca de duas horas, momento no qual Maria realiza as atividades domésticas. Em determinado dia, neste horário de dormir da filha, Maria foi até ao supermercado próximo de sua casa, uma quadra de distância, para comprar alguns mantimentos para a alimentação de sua filha. Normalmente esta saída levaria de 10 a 15 minutos, mas neste dia houve uma queda no sistema informatizado do supermercado o que atrasou o retorno à sua casa por 40 minutos. Ao chegar próximo à sua casa, Maria constatou várias viaturas da polícia e corpo de bombeiros na frente de sua residência, todos acionados por um vizinho que percebeu o choro insistente de uma criança por 15 minutos, acionando os órgãos de segurança. Ao prestarem socorro à criança, com o arrombamento da porta de entrada da casa, os agentes dos órgãos de segurança verificam que a criança estava sozinha em casa, mas apenas assustada e sem qualquer lesão. A conduta de Maria é caracterizada como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime de abandono de incapaz."
+      },
+      {
+        "letra": "B",
+        "texto": "crime de abandono de incapaz majorado."
+      },
+      {
+        "letra": "C",
+        "texto": "crime de abandono de recém nascido."
+      },
+      {
+        "letra": "D",
+        "texto": "atípica"
+      },
+      {
+        "letra": "E",
+        "texto": "contravenção penal."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

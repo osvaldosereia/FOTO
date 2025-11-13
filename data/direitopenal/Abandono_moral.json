@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1927219",
+    "metadata": "Ano: 2022 | Banca: IBADE | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Abandono moral"
+    ],
+    "enunciado_principal": "Marcelo é pai de Bernardo, jovem de 15 anos, estudante da rede pública estadual e deficiente físico, pois em 2012 seu antebraço esquerdo foi amputado após um acidente. De segunda a sexta-feira, Marcelo obriga o filho a mendigar para excitar a comiseração pública e, aos finais de semana, a trabalhar em casa de prostituição. Considerando a hipótese narrada e segundo preceito do Código Penal acerca dos crimes contra a assistência familiar, a alternativa que indica o crime cometido pelo pai de Bernardo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abandono moral."
+      },
+      {
+        "letra": "B",
+        "texto": "abandono intelectual."
+      },
+      {
+        "letra": "C",
+        "texto": "sonegação de incapaz."
+      },
+      {
+        "letra": "D",
+        "texto": "abandono material."
+      },
+      {
+        "letra": "E",
+        "texto": "entrega de filho menor a pessoa inidônea."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

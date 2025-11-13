@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "3016726",
+    "metadata": "Ano: 2024 | Banca: FACET Concursos | Órgão: Prefeitura de Queimadas - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Consumação e tentativa",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "No contexto da legislação penal e processual penal brasileira, avalie as afirmativas abaixo: 1. O Código Penal Brasileiro prevê que a tentativa de crime é punível, mas a pena pode ser reduzida em até dois terços dependendo das circunstâncias do caso. 2. O princípio da presunção de inocência garante que nenhum réu pode ser considerado culpado até o trânsito em julgado de sentença penal condenatória. 3. A prisão temporária pode ser decretada durante a investigação policial, por um prazo inicial de 30 dias, prorrogável por igual período em casos de crimes hediondos. 4. A legislação penal prevê a possibilidade de aplicação de penas alternativas, como a prestação de serviços à comunidade, em substituição à pena privativa de liberdade em casos específicos. 5. O procedimento penal sumário é utilizado para crimes com penas máximas superiores a quatro anos e permite uma tramitação mais rápida do processo. Alternativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas os itens 2, 3 e 5 são verdadeiros."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens 1, 2 e 4 são verdadeiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens 1, 3 e 4 são verdadeiros."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens 2, 4 e 5 são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens são verdadeiros."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2386344",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Segundo o Código Penal, as penas são privativas de liberdade, restritivas de direitos e multa. Sobre as penas restritivas de direitos, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos. ( ) Se o condenado for reincidente, o juiz não poderá aplicar a substituição na pena privativa de liberdade por restritiva de direitos. ( ) A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V - V - V"
+      },
+      {
+        "letra": "B",
+        "texto": "V - F - V"
+      },
+      {
+        "letra": "C",
+        "texto": "F - F - V"
+      },
+      {
+        "letra": "D",
+        "texto": "V - V - F"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2304606",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "À luz do Código Penal (CP) e da jurisprudência do Superior Tribunal de Justiça (STJ), assinale a opção correta acerca das penas privativas de liberdade e das penas alternativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admissível a fixação de pena substitutiva (art. 44 do CP) com condição especial ao regime aberto."
+      },
+      {
+        "letra": "B",
+        "texto": "O condenado que for reincidente em crime doloso não fará jus, em nenhuma hipótese, à pena restritiva de direitos."
+      },
+      {
+        "letra": "C",
+        "texto": "As penas se dividem em duas espécies: privativas de liberdade e restritivas de direitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a pena-base for estabelecida no mínimo legal, é possível impor um regime prisional mais gravoso com base unicamente na gravidade abstrata do delito."
+      },
+      {
+        "letra": "E",
+        "texto": "A execução da pena restritiva de direitos depende do trânsito em julgado da condenação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2059119",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "As penas restritivas de direitos têm como característica a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "irreversibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "heteronomia."
+      },
+      {
+        "letra": "C",
+        "texto": "universalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "cumulatividade."
+      },
+      {
+        "letra": "E",
+        "texto": "subsidiariedade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2067116",
+    "metadata": "Ano: 2022 | Banca: INEP BRASIL | Órgão: Prefeitura de Palestina de Goiás - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Quando as penas “alternativas” serão aplicadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São aplicáveis ao reincidente específico, desde que a medida seja socialmente recomendável."
+      },
+      {
+        "letra": "B",
+        "texto": "Substituem as penas restritivas de liberdade quando estas não superam seis anos e em caso de réu idoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrevem no mesmo prazo previsto para as penas privativas de liberdade que substituem."
+      },
+      {
+        "letra": "D",
+        "texto": "Não houve violência ou ameaça no cometimento do crime, a pena aplicada não for maior do que 4 anos, ou para crimes culposos independente da pena, se o réu não for reincidente em crime doloso e o réu não tiver maus antecedentes."
+      },
+      {
+        "letra": "E",
+        "texto": "As penas privativas de liberdade deverão ser obrigatoriamente convertidas em restritiva de direito se sobrevier nova condenação dessa espécie por outro crime."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1992811",
+    "metadata": "Ano: 2022 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "COM RELAÇÃO ÀS PENAS RESTRITIVAS DE DIREITOS, PREVISTAS NO CÓDIGO PENAL E NA LEGISLAÇÃO PENAL ESPECIAL, ASSINALE A ASSERTIVA INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena de limitação de final de semana, assim como as demais penas restritivas de direitos, somente pode ser executada depois do trânsito em julgado da condenação, de acordo com a jurisprudência sumulada do STJ."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou à entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos, não podendo ser deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena de prestação de serviço à comunidade, prevista na Lei n. 9.605/1993, consiste na atribuição ao condenado de tarefas gratuitas junto a parques e jardins públicos e unidades de conservação, e, no caso de dano da coisa particular, pública ou tombada, na restauração desta, se possível."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena de perda de bens e valores pertencentes ao condenado, dar-se-á, ressalvada a legislação especial, em favor do Fundo Penitenciário Nacional, e seu valor terá como teto, o que for maior, o montante do prejuízo causado ou do provento obtido pelo agente ou por terceiro, em consequência da prática do crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1992059",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Sobre as penas restritivas de direitos, analise as assertivas a seguir e assinale a alternativa que aponta as corretas. I. A cumulação de penas (privativa de liberdade e multa) imposta por lei especial permite a substituição da primeira por prestação pecuniária. II. A opção pela aplicação da pena restritiva de direitos há que ser fundamentada, pois expõe o condenado à situação mais gravosa, tendo em vista que o não cumprimento desta, mesmo que consubstanciada em prestação pecuniária, ao contrário do que ocorre com a pena de multa, poderá resultar na sua conversão em pena privativa de liberdade. III. Sendo a suspensão de habilitação para dirigir espécie de pena restritiva de direitos, aplica-se o mesmo prazo de prescrição previsto para as privativas de liberdade. IV. A execução do crime mediante o emprego de violência é circunstância impeditiva da substituição da pena privativa de liberdade por restritiva de direito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1959615",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "São espécies de penas restritivas de direitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prestação pecuniária e o recolhimento domiciliar noturno."
+      },
+      {
+        "letra": "B",
+        "texto": "a prestação de serviços à comunidade e a suspensão do exercício de função pública."
+      },
+      {
+        "letra": "C",
+        "texto": "a reparação do dano causado e a prestação pecuniária."
+      },
+      {
+        "letra": "D",
+        "texto": "a perda de bens e valores e a multa."
+      },
+      {
+        "letra": "E",
+        "texto": "a interdição temporária de direitos e a prestação de serviços a entidades públicas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1937460",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Julgue o item a seguir de acordo com o entendimento dos Tribunais Superiores acerca da execução penal. A execução da pena restritiva de direitos independe do trânsito em julgado da condenação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1927526",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Maria, em decorrência da prática de crime doloso, foi condenada ao cumprimento de pena privativa de liberdade, substituída por restritiva de direitos em processo em que se deu o trânsito em julgado. Dentre as hipóteses abaixo, são penas de interdição temporária de direitos: I. Proibição do exercício de cargo, função ou atividade pública. II. Limitação de fim de semana. III. Proibição de inscrever-se em concurso, avaliação ou exame públicos. IV. Suspensão de autorização ou de habilitação para dirigir veículo. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1920667",
+    "metadata": "Ano: 2022 | Banca: Avança SP | Órgão: Câmara Municipal de Sorocaba",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Considere a alternativa que indique, corretamente, o que discorre o artigo 11 do Código Penal Brasileiro sobre Frações Não Computáveis da Pena:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A homologação depende da existência de tratado de extradição com o país de cuja autoridade judiciária emanou a sentença, ou, na falta de tratado, de requisição do Ministro da Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum."
+      },
+      {
+        "letra": "C",
+        "texto": "Desprezam-se, nas penas privativas de liberdade e nas restritivas de direitos, as frações de dia, e, na pena de multa, as frações de cruzeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei brasileira aplica-se também ao crime cometido por estrangeiro contra brasileiro fora do Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "As regras gerais deste Código aplicam-se aos fatos incriminados por lei especial, se esta não dispuser de modo diverso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1897216",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "A pena restritiva de direitos poderá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá ser substituída por duas penas de multa em caso de condenação inferior a um ano."
+      },
+      {
+        "letra": "B",
+        "texto": "ter, por regra, duração maior que a pena privativa de liberdade por ela substituída."
+      },
+      {
+        "letra": "C",
+        "texto": "ser provisoriamente executada até o trânsito em julgado da condenação."
+      },
+      {
+        "letra": "D",
+        "texto": "ser substituída, a critério do juízo da execução, por outra diversa da que tenha sido anteriormente aplicada."
+      },
+      {
+        "letra": "E",
+        "texto": "ser executada em juízo de execução diverso daquele do local onde ocorreu a condenação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1897214",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "O juiz poderá determinar a monitoração eletrônica do indivíduo no caso de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pena privativa de liberdade no regime aberto."
+      },
+      {
+        "letra": "B",
+        "texto": "saída temporária no regime semiaberto."
+      },
+      {
+        "letra": "C",
+        "texto": "livramento condicional."
+      },
+      {
+        "letra": "D",
+        "texto": "penas restritivas de direitos com limitações de horário."
+      },
+      {
+        "letra": "E",
+        "texto": "suspensão condicional da pena."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1873787",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "João foi condenado, em sentença penal transitada em julgado, pela prática de crime, (1) à pena privativa de liberdade; (2) à pena restritiva de direitos, consistente na prestação de serviços em um abrigo de idosos; (3) a reparar o dano causado à vítima; e (4) a perder os bens adquiridos ilicitamente. Poucos dias depois, João faleceu. Nesse caso, à luz da ordem constitucional, uma vez preenchidos os requisitos legais e observados os limites estabelecidos, podem ser transmitidas aos herdeiros de João as consequências descritas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente em 1 e 2;"
+      },
+      {
+        "letra": "B",
+        "texto": "somente em 1 e 3;"
+      },
+      {
+        "letra": "C",
+        "texto": "somente em 3 e 4;"
+      },
+      {
+        "letra": "D",
+        "texto": "somente em 2, 3 e 4;"
+      },
+      {
+        "letra": "E",
+        "texto": "em 1, 2, 3 e 4."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1836851",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades"
+    ],
+    "enunciado_principal": "As penas restritivas de direitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de prestação de serviços à comunidade ou a entidades públicas são aplicáveis às condenações superiores a 1 (um) ano de privação de liberdade, desde que a pena seja de detenção."
+      },
+      {
+        "letra": "B",
+        "texto": "deverão ser obrigatoriamente convertidas em pena privativa de liberdade se sobrevier nova condenação dessa espécie por outro crime."
+      },
+      {
+        "letra": "C",
+        "texto": "são aplicáveis ao reincidente específico, desde que a medida seja socialmente recomendável."
+      },
+      {
+        "letra": "D",
+        "texto": "substituem as penas privativas de liberdade quando estas não superam seis anos em caso de réu idoso."
+      },
+      {
+        "letra": "E",
+        "texto": "prescrevem no mesmo prazo previsto para as penas privativas de liberdade que substituem."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1826211",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "No que se refere às penas restritivas de direitos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prestação de serviços à comunidade é aplicável a qualquer condenação não superior a quatro anos, facultado ao condenado cumpri-la em menor tempo, nunca inferior à metade da pena privativa de liberdade, se a pena substituída foi superior a um ano."
+      },
+      {
+        "letra": "B",
+        "texto": "a prestação pecuniária, se não paga, não poderá ser convertida em pena privativa de liberdade e será considerada dívida de valor, aplicando-se as normas da legislação relativa à dívida ativa da Fazenda Pública."
+      },
+      {
+        "letra": "C",
+        "texto": "a correspondente execução independe do trânsito em julgado da condenação, mas poderá o juiz, motivadamente, alterar a forma de cumprimento da prestação de serviços à comunidade, ajustando-a às condições pessoais do condenado."
+      },
+      {
+        "letra": "D",
+        "texto": "o juiz poderá estabelecer condição especial para a concessão do regime aberto, sem prejuízo das gerais e obrigatórias, desde que não constitua pena substitutiva."
+      },
+      {
+        "letra": "E",
+        "texto": "o descumprimento injustificado da restrição, imposta em sentença condenatória ou acordada em sede de transação penal, conduz à conversão para pena privativa de liberdade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1813816",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "A pena restritiva de direitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de prestação pecuniária segue o mesmo regime jurídico de execução da pena de multa."
+      },
+      {
+        "letra": "B",
+        "texto": "de prestação de serviços à comunidade pode ter sua forma de cumprimento alterada a qualquer tempo para se ajudar às condições pessoais do condenado."
+      },
+      {
+        "letra": "C",
+        "texto": "comporta execução provisória na pendência de recurso especial, por ser mais benéfica ao condenado."
+      },
+      {
+        "letra": "D",
+        "texto": "de limitação de fim de semana pode ser cumprida sob monitoramento eletrônico mediante decisão fundamentada do juiz da execução penal."
+      },
+      {
+        "letra": "E",
+        "texto": "de perda de bens e valores considera-se cumprida com a perda em favor da União do produto do crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1785359",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Sobre as penas restritivas de direitos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A limitação de fim de semana restringe-se aos crimes punidos com detenção."
+      },
+      {
+        "letra": "B",
+        "texto": "O descumprimento prévio de acordo de não persecução penal impossibilita a substituição da pena privativa de liberdade por restritivas de direitos na sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "A prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações inferiores a seis meses de privação da liberdade."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o crime for praticado com violência ou ameaça à pessoa, o juiz poderá aplicar a substituição da pena privativa de liberdade por restritiva de direitos, desde que a medida seja socialmente recomendável."
+      },
+      {
+        "letra": "E",
+        "texto": "A pena restritiva de direitos que substitui pena privativa de liberdade superior a um ano pode ser cumprida em menor tempo, nunca inferior à metade da pena fixada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1120085",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "No que concerne às penas previstas no Código Penal brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O trabalho externo não é admissível para os condenados em regime fechado."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de multa deve ser paga no prazo máximo de um mês após o trânsito em julgado da sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "São espécies de penas restritivas de direitos: interdição temporária de direitos, prestação de serviço à comunidade e pagamento de multa."
+      },
+      {
+        "letra": "D",
+        "texto": "As penas restritivas de direitos apenas serão aplicáveis em substituição à pena privativa de liberdade fixada em quantidade inferior a dois anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A limitação de final de semana é uma das penas restritivas de direitos, devendo o condenado permanecer em casa de albergado por cinco horas diárias aos finais de semana."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1048826",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Sobre as penas restritivas de direitos previstas no Código Penal, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na condenação igual ou inferior a dois anos, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a dois anos, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; o réu não for reincidente em crime doloso; a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de prestação de serviços à comunidade, se a pena substituída for superior a um ano, é facultado ao condenado cumprir a pena substitutiva em menor tempo, nunca inferior à metade da pena privativa de liberdade fixada."
+      },
+      {
+        "letra": "D",
+        "texto": "A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1042304",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "De acordo com o que estabelece o Código Penal, no que tange às penas,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações inferiores a seis meses de privação da liberdade."
+      },
+      {
+        "letra": "B",
+        "texto": "o condenado ao regime semiaberto de cumprimento de pena fica sujeito a trabalho no período diurno e a isolamento durante o repouso noturno."
+      },
+      {
+        "letra": "C",
+        "texto": "considera-se regime semiaberto a execução da pena em casa de albergado ou estabelecimento adequado."
+      },
+      {
+        "letra": "D",
+        "texto": "a de reclusão deve ser cumprida em regime fechado, semiaberto ou aberto, enquanto a de detenção, em regime semiaberto, ou aberto, salvo necessidade de transferência a regime fechado."
+      },
+      {
+        "letra": "E",
+        "texto": "o trabalho externo somente é admissível, bem como a frequência a cursos supletivos profissionalizantes, de instrução de segundo grau ou superior, para os condenados ao regime aberto."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1010446",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Segunda fase da dosimetria.",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Considere as afirmações a seguir. I. Segundo entendimentos doutrinário e jurisprudencial majoritários, levando-se em consideração o rol do artigo 61 do Código Penal, a reincidência é a única agravante que pode ser reconhecida tanto em crime doloso como em crime culposo. II. Por ocasião da aplicação da pena, no concurso de circunstâncias agravantes e atenuantes, a compensação é possível, mas o juiz deve atentar para as circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência. III. A pena de interdição temporária de direitos, prevista no inciso II do artigo 47 do Código Penal, não poderá ser aplicada se o crime não foi cometido com violação dos deveres inerentes à profissão, à atividade ou ao ofício que dependam de habilitação especial, de licença ou de autorização do poder público. IV. Por ocasião da aplicação da pena, havendo causas de diminuição e causas de aumento, a compensação é possível, mas o juiz deve atentar para as circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência. V. Considerando as causas de aumento de pena previstas nos artigos 19 e 20 do Estatuto do Desarmamento – Lei n° 10.826/2003, é facultado ao Juiz, ao aplicar a pena ao condenado pela prática do crime previsto no artigo 18 do Estatuto, aumentar a pena duas vezes ou apenas uma, conforme o caso concreto, desde que devidamente justificado. Sobre essas afirmações, está correto apenas o contido em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "I e II."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1026010",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: IAPEN-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "É espécie de pena de interdição temporária de direitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proibição de saída temporária no regime semiaberto."
+      },
+      {
+        "letra": "B",
+        "texto": "proibição de frequentar determinados lugares."
+      },
+      {
+        "letra": "C",
+        "texto": "obrigação de se desculpar com a vítima do delito."
+      },
+      {
+        "letra": "D",
+        "texto": "prestação de serviços à comunidade."
+      },
+      {
+        "letra": "E",
+        "texto": "suspensão do direito ao indulto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "951033",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Acerca da aplicação de penas restritivas de direitos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prestação de serviços à comunidade ou a entidades públicas, em qualquer hipótese, poderá ser cumprida em menos tempo do que a pena privativa de liberdade cominada nunca inferior à metade."
+      },
+      {
+        "letra": "B",
+        "texto": "Inclui-se nas penas restritivas de direitos do Código Penal a pena de medida educativa de comparecimento a programa ou curso educativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não é possível a aplicação de duas penas restritivas de direitos concomitantemente."
+      },
+      {
+        "letra": "D",
+        "texto": "O reincidente em crime doloso poderá em certos casos ter a pena privativa de liberdade substituída pela pena restritiva de direitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Para a conversão de pena privativa de liberdade por restritiva de direitos, a pena aplicada deverá ser sempre de até quatro anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "949094",
+    "metadata": "Ano: 2018 | Banca: CESGRANRIO | Órgão: LIQUIGÁS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Nos termos da Lei n° 9.605/1998, pode ser considerada pena restrititva de direito a(o)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "saída temporária da cela"
+      },
+      {
+        "letra": "B",
+        "texto": "permanência noturna em prisão"
+      },
+      {
+        "letra": "C",
+        "texto": "prestação pecuniária"
+      },
+      {
+        "letra": "D",
+        "texto": "recolhimento prisional"
+      },
+      {
+        "letra": "E",
+        "texto": "abatimento da sanção por trabalho"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "896542",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "São penas restritivas de direitos, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perda de bens e valores."
+      },
+      {
+        "letra": "B",
+        "texto": "Prestação de serviço à comunidade ou a entidades públicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Limitação de fim de semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Detenção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "889856",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "A pena restritiva de direitos (CP, arts. 43 a 48)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na modalidade perda de bens e valores pertencentes ao condenado, dar-se-á em favor da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "na modalidade prestação de serviços, pode ser substitutiva de qualquer pena privativa de liberdade igual ou inferior a quatro anos."
+      },
+      {
+        "letra": "C",
+        "texto": "admite exclusivamente as modalidades de prestação pecuniária, perda de bens e valores, limitação de fim de semana e prestação de serviço à comunidade ou entidade pública."
+      },
+      {
+        "letra": "D",
+        "texto": "converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta."
+      },
+      {
+        "letra": "E",
+        "texto": "só pode ser aplicada a condenados primários."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "886780",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Quando o agente, mediante mais de 1 (uma) ação ou omissão, pratica 2 (dois) ou mais crimes, verifica-se o instituto do concurso de crimes, que pode ser formal ou material, a depender da unidade ou da pluralidade de condutas. Sobre o tema, o Código Penal estabelece que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na hipótese de concurso material, quando ao agente tiver sido aplicada pena privativa de liberdade, não suspensa, por um dos crimes, para os demais crimes será cabível a substituição de pena privativa de liberdade por pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "na hipótese de concurso formal imperfeito ou impróprio, aplica-se o sistema de exasperação da pena, independentemente da quantidade de condenação."
+      },
+      {
+        "letra": "C",
+        "texto": "quando forem aplicadas penas restritivas de direitos, será possível ao condenado cumpri-lás de forma simultânea, desde que compatíveis entre si."
+      },
+      {
+        "letra": "D",
+        "texto": "se entende por concurso formal próprio ou perfeito aquele em que o agente pratica mais de uma conduta, mas na presença de desígnios autônomos, ou seja, a vontade de atingir mais de um resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "no caso de concurso material, sendo o agente condenado cumulativamente a pena de reclusão e detenção, executa-se primeiro a de detenção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "873606",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Na execução das penas restritivas de direitos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inexiste poder disciplinar de autoridade administrativa, pois não é cumprida em ambiente prisional."
+      },
+      {
+        "letra": "B",
+        "texto": "É vedada ao juiz da execução a modificação da forma de cumprimento da prestação de serviço à comunidade sob pena de violação da coisa julgada."
+      },
+      {
+        "letra": "C",
+        "texto": "O condenado que não for encontrado para iniciar o cumprimento terá a pena convertida em privativa de liberdade em regime fechado."
+      },
+      {
+        "letra": "D",
+        "texto": "O descumprimento ou retardo no cumprimento é punido sob o regime da conversão em pena privativa de liberdade, pois não existe falta grave nessa forma de pena."
+      },
+      {
+        "letra": "E",
+        "texto": "Sobrevindo condenação a pena privativa de liberdade, por outro crime, a conversão da pena não é obrigatória."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "873595",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão.",
+      "Substituição - Revogação.",
+      "Suspensão condicional da pena. Concessão.",
+      "Suspensão condicional da pena. Revogação."
+    ],
+    "enunciado_principal": "A pena restritiva de direitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode substituir a privativa de liberdade em caso de reincidente em crime culposo, salvo se a pena for superior a quatro anos."
+      },
+      {
+        "letra": "B",
+        "texto": "de limitação de fim de semana é vedada para crimes patrimoniais e contra a administração pública."
+      },
+      {
+        "letra": "C",
+        "texto": "de prestação pecuniária é indisponível e por isso não pode consistir em prestação de outra natureza mesmo com concordância da vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "de prestação de serviço à comunidade pode ser cumprida em tempo menor do que a pena privativa de liberdade substituída, se esta for superior a um ano."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser cumulada com medida de segurança na modalidade de tratamento ambulatorial, pois não implica em restrição da liberdade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "868269",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "No caso de prescrição de antibiótico para paciente que faz uso de contraceptivo oral, o cirurgião-dentista deve divulgar a ela possíveis efeitos indesejados do tratamento, como a diminuição do efeito anticoncepcional, bem como educá-la com relação às medidas necessárias para evitar esses efeitos (...). No processo civil, o profissional infrator se sujeitará à pena de pagamento de indenização. (...) O processo criminal só se justifica, no caso, por uma gravidez indesejada de risco, que resulte na morte da paciente. P. E. G. Costa Filho; M. L. Werneck; M. F. Galvão; M. L. B. Pinheiro. Iatrogenia Medicamentosa Causada por Associação entre Contraceptivos Orais e Antibióticos: aspectos legais. Revista ABO-DF. 2007 jun; 33: 30-1). Uma paciente faleceu em decorrência de gravidez de risco proveniente da interação medicamentosa entre contraceptivo oral e um antibiótico prescrito por um cirurgião-dentista, que não fez os esclarecimentos necessários sobre o medicamento. Nessa situação hipotética, a responsabilização civil e criminal do odontólogo pode resultar nas sanções, respectivamente, de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "restrição de direitos e suspensão da habilitação profissional."
+      },
+      {
+        "letra": "B",
+        "texto": "restrição de direitos e indenização."
+      },
+      {
+        "letra": "C",
+        "texto": "indenização e cassação da habilitação profissional."
+      },
+      {
+        "letra": "D",
+        "texto": "restrição de direitos e cassação da habilitação profissional."
+      },
+      {
+        "letra": "E",
+        "texto": "indenização e restrição de direitos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "852970",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "Acerca das penas restritivas de direitos, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constituem penas de interdição temporária de direitos a proibição do exercício de cargo, função ou atividade pública, bem como de mandato eletivo, a proibição do exercício de profissão, atividade ou ofício que dependam de habilitação especial, de licença ou autorização do poder público e a proibição de inscrever-se em concurso, avaliação ou exame públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "As penas restritivas de direitos são prestação pecuniária, perda de bens e valores, recolhimento domiciliar, prestação de serviço à comunidade ou a entidades públicas, interdição temporária de direitos e limitação de fim de semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo a condenação inferior a seis meses, o juiz pode substituir a pena privativa de liberdade por advertência — que consistirá em admoestação verbal ao condenado — ou por compromisso de frequência a curso ou submissão a tratamento, durante o tempo da pena aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "O recolhimento domiciliar baseia-se na autodisciplina e senso de responsabilidade do condenado, de modo que o condenado deve permanecer recolhido nos dias ou horários de folga do trabalho, em residência ou qualquer local destinado à sua moradia habitual, sem vigilância."
+      },
+      {
+        "letra": "E",
+        "texto": "A pena privativa de liberdade superior a um ano pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos, ainda que o condenado seja reincidente em virtude da prática do mesmo crime, desde que não seja doloso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "844072",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza extrapenal específicos",
+      "Legislação Penal Especial",
+      "Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O STJ entende que, para caracterizar o crime previsto no art. 7º, IX, da Lei nº 8.137/1990, delitos contra as relações de consumo, é prescindível a realização de perícia a fim de atestar se as mercadorias apreendidas estavam em condições impróprias para o consumo."
+      },
+      {
+        "letra": "B",
+        "texto": "É atípica a conduta do agente que desvia e faz circular moeda cuja circulação ainda não estava autorizada, pois constitui elementar do crime de moeda falsa a colocação em circulação de moeda com curso legal no país ou no exterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos crimes conexos, a extinção da punibilidade de um deles impede, quanto aos outros, a agravação da pena resultante da conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "A proibição de exercício de cargo, função ou atividade pública pode ter caráter temporário, com natureza de pena de interdição temporária de direitos, mas pode também ter caráter permanente, se for efeito da condenação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "843735",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Leia o conceito a seguir.A pena é a consequência natural imposta pelo Estado, quando alguém pratica uma infração penal. GRECO, Rogério. Curso de direito penal: parte geral (arts. a 120 do Código Penal). 14. ed. Niterói: impetus, 2012, p. 469. O artigo 32 do Código Penal (CP) estabelece três espécies de penas, a saber: penas privativas de liberdade, restritivas de direito e multa. Conforme o artigo 59 do CP, as penas devem respeitara necessidade e a suficiência à reprovação e à prevenção do crime. Esse mesmo artigo 59 também estabelece os critérios de fixação dessas penas. A partir dessa concepção, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As penas restritivas de direito são consideradas penas autônomas de caráter substitutivo, podendo ser aplicadas para crimes culposos independente da quantidade de pena privativa de liberdade fixada, se presentes os demais requisitos legais."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de multa, aplicada e dosada ao livre arbítrio do julgador, não pode ser substitutiva da pena privativa de liberdade ou substituída por esta no caso de não cumprimento, por ser considerada dívida de valor, constituindo título da dívida pública."
+      },
+      {
+        "letra": "C",
+        "texto": "A detração penal é instituto jurídico relacionado com a aplicação da pena, de observação obrigatória na sentença, consistindo na redução de um dia de prisão para cada dia trabalhado durante a prisão cautelar, seja ela preventiva ou temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena privativa de liberdade aplicada a crime hediondo praticado com violência ou grave ameaça é suscetível de substituição por restritiva de direito, se fixada em menos de 04 anos de reclusão."
+      },
+      {
+        "letra": "E",
+        "texto": "A pena privativa de liberdade - detenção - poderá ser iniciada em regime prisional mais severo, mesmo que inferior a 08 anos, se o julgador entender sua necessidade à reprovação e à prevenção do crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "835010",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "A respeito de penas, julgue os itens a seguir. I O trabalho externo é admissível no regime fechado. II Em se tratando de reincidentes em crimes dolosos, as penas restritivas de direitos não podem ser autônomas. III São penas restritivas de direitos: interdição temporária de direitos e pagamento de multa. IV A limitação de final de semana é uma das penas restritivas de direitos e consiste em permanecer em casa de albergado por cinco horas aos finais de semana. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "826722",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "No que concerne às penas restritivas de direitos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prestação pecuniária consiste no pagamento à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância não inferior a 10 (dez) nem superior a 360 (trezentos e sessenta) dias-multa."
+      },
+      {
+        "letra": "B",
+        "texto": "a interdição temporária de direitos, nos crimes ambientais, pode consistir em proibição de participar de licitações, pelo prazo de 5 (cinco) anos, no caso de crimes dolosos, e de 3 (três) anos, no de crimes culposos."
+      },
+      {
+        "letra": "C",
+        "texto": "são autônomas e substituem as privativas de liberdade quando, entre outros requisitos legais, o réu não for reincidente em crime doloso, a culpabilidade, os antecedentes, a conduta social e personalidade do agente, bem como os motivos e circunstâncias autorizarem a concessão do benefício, e não for indicada ou cabível a suspensão condicional da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "a prestação de serviços à comunidade ou a entidades públicas é aplicável a qualquer condenação a privação de liberdade, facultado ao condenado cumprir a pena em menor tempo, nunca inferior à metade da sanção corporal imposta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "800677",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "A pena de prestação de serviços à comunidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser cumprida à razão de duas horas de tarefa por dia de condenação, fixadas de modo a não prejudicar a jornada de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "não é aplicável, em nenhuma hipótese, caso o condenado for reincidente."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode ser cumprida em menor tempo pelo condenado, se a condenação for superior a um ano."
+      },
+      {
+        "letra": "D",
+        "texto": "aplica-se às condenações superiores a seis meses de privação de liberdade."
+      },
+      {
+        "letra": "E",
+        "texto": "não substitui a pena privativa de liberdade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1328338",
+    "metadata": "Ano: 2016 | Banca: TJ-AC | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Considere as assertivas abaixo sobre penas: I- São penas restritivas de direitos previstas no Código Penal, além da prestação pecuniária a perda de bens, a prestação de serviços à comunidade ou a entidades públicas, a interdição temporária de direitos, como a proibição de frequentar determinados lugares, e a limitação de fim de semana. II- A gravidade do crime em abstrato, por si só, não se presta à adoção de regime inicial diverso do sugerido em lei. III- A pena restritiva de direitos reverte à pena de prisão, quando ocorrer o descumprimento injustificado da restrição imposta. Quais são corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas IIII"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1154801",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Considere as afirmações abaixo, tendo em vista as disposições do Código Penal. I - A prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações superiores a seis meses de privação da liberdade. II - A prestação de serviços à comunidade ou a entidades públicas consiste na atribuição, ao condenado, de tarefas que serão remuneradas. III - A prestação de serviço à comunidade dar-se-á exclusivamente em entidades assistenciais estatais. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1154800",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Assinale a alternativa que NÃO é considerada pena restritiva de direitos pelo Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perda de bens e valores."
+      },
+      {
+        "letra": "B",
+        "texto": "Prestação pecuniária."
+      },
+      {
+        "letra": "C",
+        "texto": "Prestação de serviço à comunidade ou a entidades públicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Interdição definitiva de direitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Limitação de fim de semana."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "611553",
+    "metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: Câmara de Atibaia - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "As penas restritivas de direitos são autônomas e podem incidir sobre: I- pecúnia; bens e valores. II- fins de semana e no agir (exigir uma prestação positiva (de fazer)). III- os direitos ( temporariamente) e sobre a liberdade (de ir e vir, temporariamente). É correto o que se afirma apenas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "595629",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "À luz da jurisprudência sumulada do STJ, assinale a opção correta referente à aplicação da pena.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em decorrência do princípio da individualização da pena, é possível aplicar a majorante do roubo ao delito de furto qualificado pelo concurso de agentes, desde que essa ação seja fundamentada nas circunstâncias do caso concreto."
+      },
+      {
+        "letra": "B",
+        "texto": "Ainda que a pena-base tenha sido fixada no mínimo legal, é admissível a fixação de regime prisional mais gravoso que o cabível, em razão da sanção imposta, com fundamento na gravidade concreta ou abstrata do delito."
+      },
+      {
+        "letra": "C",
+        "texto": "Embora seja vedada a utilização de inquéritos policiais em andamento para aumentar a pena-base, é possível a utilização de ações penais em curso para requerer o aumento da referida pena."
+      },
+      {
+        "letra": "D",
+        "texto": "É inadmissível a fixação de pena restritiva de direitos substitutiva da pena privativa de liberdade como condição judicial especial ao regime aberto."
+      },
+      {
+        "letra": "E",
+        "texto": "O número de majorantes referentes ao delito de roubo circunstanciado pode ser utilizado como critério para a exasperação da fração incidente pela causa de aumento da pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "528022",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "As penas privativas de liberdade serão substituídas por penas restritivas de direito, observando que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nos crimes de lesão corporal, concordando a vítima e desde que preenchidos os demais requisitos do artigo 44, do Código Penal, a pena corporal poderá ser substituída por pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "a conversão da pena corporal em prestação de serviços à comunidade ou à entidades públicas somente poderá ocorrer nas condenações superiores a seis meses de privação de liberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "ao condenado reincidente, em nenhuma hipótese, poderá a pena corporal ser substituída por penas restritivas de direitos."
+      },
+      {
+        "letra": "D",
+        "texto": "a prestação pecuniária consiste no pagamento em dinheiro à entidade pública ou privada, com destinação social, de importância fixada pelo juiz, não inferior a 01 salário-mínimo e nem superior a 360 salários-mínimos, vedando-se, contudo, o pagamento à vítima, que deverá buscar reparação civil pelos seus prejuízos acaso suportados."
+      },
+      {
+        "letra": "E",
+        "texto": "nas condenações superiores a um ano, a pena privativa de liberdade pode ser substituída por duas penas restritivas de direito, vedando-se a conversão por multa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "514872",
+    "metadata": "Ano: 2015 | Banca: FMP Concursos | Órgão: DPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prestação pecuniária somente se aplica em substituição à pena privativa de liberdade."
+      },
+      {
+        "letra": "B",
+        "texto": "A prestação pecuniária consiste em quantia fixada pelo juiz que é paga à vítima, a seus dependentes ou a entidade pública ou privada com destinação social."
+      },
+      {
+        "letra": "C",
+        "texto": "A quantia estipulada a título de prestação pecuniária deve variar entre um e trezentos e sessenta salários mínimos."
+      },
+      {
+        "letra": "D",
+        "texto": "A prestação pecuniária pode ser aplicada em substituição à pena privativa de liberdade ou cumulativamente com ela."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "502153",
+    "metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: SEAP-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "No que se refere ao direito penal, segundo entendimento do STJ, do STF e da doutrina dominante, julgue o próximo item. Não são computadas, nas penas privativas de liberdade e nas restritivas de direito, as frações de dias, isto é, as horas e os minutos dessas penas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "444031",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão.",
+      "Substituição - Revogação.",
+      "Suspensão condicional da pena. Concessão.",
+      "Suspensão condicional da pena. Revogação."
+    ],
+    "enunciado_principal": "Em relação à aplicação das penas restritivas de direitos nas questões penais apresentadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta, devendo o condenado cumpri-la, integralmente, sem deduzir o tempo cumprido da pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "O Supremo Tribunal Federal decidiu pela constitucionalidade das regras impeditivas da substituição da pena privativa de liberdade em restritiva de direitos ao condenado por tráfico de drogas privilegiado."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao estrangeiro, residente no país, e com visto de permanência, autor de crime considerado de menor potencial ofensivo, não se admite a concessão da pena restritiva de direitos."
+      },
+      {
+        "letra": "D",
+        "texto": "O Superior Tribunal de Justiça posiciona-se no sentido de que a reincidência genérica não impede, por si só, a substituição da pena privativa de liberdade por restritiva de direitos, podendo o juiz aplicar a substituição, desde que, em face da condenação anterior, a medida seja socialmente recomendável e a reincidência não tenha se operado em virtude do mesmo crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratando-se de concurso de crimes, a substituição da pena privativa de liberdade por restritiva de direitos será possível mesmo que o total das reprimendas ultrapasse quatro anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "360492",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Livramento condicional",
+      "Extinção da pena",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais"
+    ],
+    "enunciado_principal": "Com fundamento nas súmulas dos tribunais superiores, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz não pode declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responda o liberado, por crime ou contravenção praticados na vigência do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "É possível a aplicação retroativa de lei penal vigente em combinação com a lei penal revogada, desde que o resultado da incidência de leis penais combinadas seja favorável ao acusado."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena substitutiva de prestação de serviços à comunidade pode figurar como condição especial ao regime aberto."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplicar-se-á ao crime continuado ou ao crime permanente, se a sua vigência for anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "E",
+        "texto": "O ato infracional análogo ao tráfico de drogas conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "502810",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: MPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "A proibição de inscrever-se em concurso, avaliação ou exame públicos, de acordo com o Código Penal Brasileiro representa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um efeito da pena privativa de liberdade, mesmo cumprida em regime aberto."
+      },
+      {
+        "letra": "B",
+        "texto": "uma interdição temporária de direitos."
+      },
+      {
+        "letra": "C",
+        "texto": "uma condição para suspensão condicional da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "um efeito da condenação."
+      },
+      {
+        "letra": "E",
+        "texto": "uma condição do livramento condicional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "413381",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: AL-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "De acordo com entendimentos firmados em enunciados de súmulas elaborados pelos Tribunais Superiores sobre aplicação e execução de pena, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É inadmissível a fixação de pena substitutiva (Art. 44, CP) como condição especial ao regime aberto."
+      },
+      {
+        "letra": "B",
+        "texto": "Assim como a regressão, a progressão de regime pode ocorrer per saltum."
+      },
+      {
+        "letra": "C",
+        "texto": "O condenado por crime hediondo cometido no ano de 2006, sendo primário, deverá cumprir pelo menos 2/5 da pena privativa de liberdade para obter progressão de regime."
+      },
+      {
+        "letra": "D",
+        "texto": "A opinião pessoal do julgador sobre a gravidade em abstrato do crime praticado é fundamento suficiente para aplicação de regime mais severo do que o quantum da pena permite."
+      },
+      {
+        "letra": "E",
+        "texto": "Em nenhuma hipótese poderá ser fixado o regime semiaberto ao condenado reincidente, ainda que a pena aplicada seja inferior a 4 anos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "333197",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Diante das falhas do sistema penitenciário atual, o Direito Penal moderno vem buscando evitar o encarceramento, em especial através da previsão de medidas alternativas à pena privativa de liberdade. A esse respeito, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São hipóteses de penas restritivas de direito a prestação pecuniária, perda de bens e valores, prestação de serviço à comunidade ou a entidades públicas, interdição temporária de direitos e limitação de fim de semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Poderá a pena privativa de liberdade inferior a 4 anos ser substituída pela restritiva de direito se o réu for tecnicamente primário, mas não será admitida a substituição em nenhuma hipótese de réu reincidente."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o Código Penal, a pena privativa de liberdade inferior a 6 meses poderá ser substituída por apenas uma restritiva de direitos, inclusive prestação de serviços à comunidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena restritiva de direito converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta, não sendo deduzido o tempo de pena cumprido da restritiva de direitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Em qualquer hipótese, sobrevindo condenação a pena privativa de liberdade, por outro crime, a pena restritiva de direito deverá ser convertida em privativa de liberdade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "300457",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "No tocante às penas restritivas de direitos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o teto da perda de bens ou valores é restrito ao montante do prejuízo causado."
+      },
+      {
+        "letra": "B",
+        "texto": "obstam a concessão do sursis, se indicada ou cabível a substituição."
+      },
+      {
+        "letra": "C",
+        "texto": "podem ser impostas no caso de condenação por crime culposo, se não reincidente o condenado."
+      },
+      {
+        "letra": "D",
+        "texto": "a prestação de serviços à comunidade ou a entidades públicas somente é aplicável às condenações superiores a um ano de privação de liberdade."
+      },
+      {
+        "letra": "E",
+        "texto": "a privativa de liberdade superior a um ano deve ser necessariamente substituída por duas restritivas de direitos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "297859",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: CNJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "A prestação pecuniária é uma pena restritiva de direitos e consiste no pagamento em dinheiro à vítima, seus dependentes ou entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "372070",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Não constitui pena de interdição temporária de direito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a proibição do exercício de cargo, função ou atividade pública, bem como de mandato eletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "a proibição de autorização ou habilitação para dirigir veículo."
+      },
+      {
+        "letra": "C",
+        "texto": "a proibição do exercício de profissão, atividade ou ofício que dependam de habilitação especial, de licença ou autorização do poder público."
+      },
+      {
+        "letra": "D",
+        "texto": "a proibição de frequentar determinados lugares."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "291955",
+    "metadata": "Ano: 2011 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Modalidades das Penas privativas de liberdade"
+    ],
+    "enunciado_principal": "Sobre o sistema penal brasileiro, considere as seguintes afirmativas: 1. As principais modalidades de pena são: privativa de liberdade, restritiva de direitos e medida de segurança. 2. As penas privativas de liberdade de reclusão e detenção podem ser cumpridas nos regimes fechado, semiaberto e aberto. 3. O pagamento da multa é destinado ao Fundo Penitenciário e não à vítima ou seus familiares. 4. A reabilitação é a suspensão de determinados efeitos da sentença condenatória após o decurso de dois anos contados a partir da extinção da pena. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 2 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 2, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "253326",
+    "metadata": "Ano: 2011 | Banca: TJ-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "No que concerne às penas restritivas de direitos, avalie as assertivas abaixo: I. As penas restritivas de direitos são: prestação pecuniária, perda de bens e valores, prestação de serviços à comunidade ou a entidades públicas, interdição temporária de direitos e limitação de fim de semana. II. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; o réu não for reincidente em crime doloso; a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente. III. Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos. IV. Sobrevindo condenação à pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior. V. A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão. Está(ão) CORRETA(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a assertiva II."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as assertivas I, III, IV e V."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

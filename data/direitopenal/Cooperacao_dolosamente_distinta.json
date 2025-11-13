@@ -1,0 +1,441 @@
+[
+  {
+    "id": "2365383",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação",
+      "Cooperação dolosamente distinta",
+      "Crimes contra o patrimônio",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "João foi convidado por Murilo para fornecer comida para um grupo de sequestradores durante o período em que a vítima, Marcela, ficaria em cativeiro. Segundo o convite de participação feito por Murilo, o grupo de criminosos pretendia manter a vítima sequestrada até a obtenção de um preço de resgate ou no máximo por uma semana, ocasião em que a libertariam mesmo sem obtenção da vantagem almejada. De qualquer forma, seria necessário alimentar todos os sequestradores e a vítima durante este período. Para isso, Murilo pagaria R$ 200,00 (duzentos reais) por dia a João, independentemente de o preço de resgate ser efetivamente recebido. João aceitou o convite e forneceu a comida conforme combinado. No entanto, durante o sequestro, os criminosos acabaram matando a vítima Marcela porque sua família não pagou o preço de resgate. Diante da situação narrada, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João não responderá por crime algum porque fornecer comida não é um ato criminoso."
+      },
+      {
+        "letra": "B",
+        "texto": "João responderá pelo sequestro e pela morte de Marcela com a mesma pena que todos os sequestradores."
+      },
+      {
+        "letra": "C",
+        "texto": "João responderá pelo sequestro e pela morte de Marcela, mas com a pena reduzida no que se refere ao resultado morte."
+      },
+      {
+        "letra": "D",
+        "texto": "João responderá pelo sequestro, mas não responderá pela morte."
+      },
+      {
+        "letra": "E",
+        "texto": "João responderá pelo sequestro e pela morte na forma culposa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2307711",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "No concurso de pessoas, quando um dos agentes concorrentes quis participar de crime menos grave_____________ . Quando a participação for de menor importância ____________. Assinale a alternativa que completa, correta e respectivamente, as lacunas de acordo com o art. 29 do CP.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não se comunicam as circunstâncias agravantes … não se aplica o aumento de pena pelo concurso"
+      },
+      {
+        "letra": "B",
+        "texto": "não se aplica o aumento de pena pelo concurso … ser-lhe-á aplicada a pena do crime menos grave"
+      },
+      {
+        "letra": "C",
+        "texto": "ser-lhe-á aplicada a pena deste … a pena pode ser diminuída de um sexto a um terço"
+      },
+      {
+        "letra": "D",
+        "texto": "aplicam-se as minorantes específicas do tipo … não se aplica o aumento de pena pelo concurso"
+      },
+      {
+        "letra": "E",
+        "texto": "a pena pode ser diminuída de um sexto a um terço ... a pena pode ser diminuída de um sexto a um terço"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1959516",
+    "metadata": "Ano: 2022 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na chamada autoria colateral, não há vínculo subjetivo entre os autores."
+      },
+      {
+        "letra": "B",
+        "texto": "Os únicos requisitos do concurso de pessoas são: pluralidade de participantes; pluralidade de condutas; relevância causal de cada conduta; e identidade de infração penal."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de aborto com o consentimento da gestante não configura exceção à teoria monista unitária do concurso de pessoas."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito de associação para o tráfico de drogas possui natureza hedionda."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1873826",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Agamenon, Aquiles, Ájax e Cadmo combinam de furtar pneus de veículos automotores do interior de um galpão cercado de mato e aparentemente abandonado. Agamenon e Cadmo permanecem no carro, ao passo que Ájax arromba o portão e Aquiles ingressa, se deparando, pouco depois, com um vigia. Diante da reação ao ingresso não consentido, de posse de um vergalhão, Aquiles golpeia, perfura e mata o vigia. Considerando esse cenário, é correto afirmar que Agamenon, Ájax e Cadmo responderão por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "participação de menor importância;"
+      },
+      {
+        "letra": "B",
+        "texto": "cooperação dolosamente distinta;"
+      },
+      {
+        "letra": "C",
+        "texto": "autoria colateral;"
+      },
+      {
+        "letra": "D",
+        "texto": "participação mediante omissão;"
+      },
+      {
+        "letra": "E",
+        "texto": "coautoria sucessiva."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1873726",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: IBAMA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Punibilidade no concurso de pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "A partir da situação hipotética precedente, julgue o item a seguir. Bruna é responsável pelos fatos ocorridos na casa, inclusive pela morte da empregada, em função do prévio ajuste criminoso feito com Celso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "936304",
+    "metadata": "Ano: 2018 | Banca: TRF - 2ª Região | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Punibilidade no concurso de pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Sobre o concurso de agentes, leia as assertivas abaixo e ao final marque a opção correta: I - Os crimes plurissubjetivos não se confundem com os crimes de concurso necessário. Nos primeiros os agentes podem se reunir eventualmente para praticar o crime, enquanto que nos segundos a tipicidade necessariamente só se dá com o concurso de agentes. II - O Código Penal brasileiro atualmente vigente adota a teoria exclusivamente monista do concurso de agentes. Em decorrência desta opção dogmática de nosso legislador, jamais, e em hipótese alguma, nossa legislação admitiu a possibilidade de excepcioná-la, para adotar a teoria pluralista. III - Na chamada coautoria mediata, verifica-se a confluência da autoria mediata e da coautoria. Ademais, ela configura-se quando dois ou mais agentes se valem, cada qual de uma maneira, de outro agente não punível para executarem um crime. IV - O concurso de agentes exige: interveniência de duas ou mais pessoas para o mesmo fato delituoso; identidade de infração penal; e vontade consciente de concorrerem todos os agentes para o mesmo crime, sendo irrelevante a contribuição causal de cada um. V - Na chamada cooperação dolosamente distinta, um dos concorrentes apenas atua querendo praticar um fato menos grave do que aquele que efetivamente acaba sendo levado a efeito pelos demais concorrentes, razão pela qual apenas responderá pelo fato menos grave.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e II estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as assertivas III e V estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "888344",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: ALESE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "É certo que um crime pode ser praticado por uma ou mais pessoas. Quando isso acontece, está-se diante da hipótese de concurso de pessoas, também conhecido como concurso de agentes. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ainda que algum dos concorrentes tenha querido participar de crime menos grave, ser-lhe-á, obrigatoriamente, aplicada a pena idêntica do crime praticado pelo seu comparsa, ante a adoção pelo Código Penal da teoria monista."
+      },
+      {
+        "letra": "B",
+        "texto": "em hipótese alguma se comunicam as circunstâncias e as condições de caráter pessoal na coautoria."
+      },
+      {
+        "letra": "C",
+        "texto": "o ajuste, a determinação ou instigação e o auxílio são sempre puníveis, ainda que o crime não venha a ser tentado."
+      },
+      {
+        "letra": "D",
+        "texto": "os crimes plurissubjetivos não admitem a coautoria e a participação."
+      },
+      {
+        "letra": "E",
+        "texto": "se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "828137",
+    "metadata": "Ano: 2017 | Banca: IDECAN | Órgão: SEAP-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Sobre o Concurso de Pessoas estabelece o Código Penal que quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade. Sobre o tema, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a participação for de menor importância, a pena pode ser diminuída de um sexto à metade."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado."
+      },
+      {
+        "letra": "D",
+        "texto": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "432643",
+    "metadata": "Ano: 2014 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Quanto à comunicabilidade e limitação da comunicabilidade das circunstâncias e condições do crime aos participantes da conduta delitiva, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As circunstâncias objetivas referentes à condição e qualidade da vítima, por serem de caráter pessoal, não se transmitem a todos os participantes da conduta delituosa;"
+      },
+      {
+        "letra": "B",
+        "texto": "As circunstâncias objetivas referentes aos meios de execução, não se transmitem a todos os participantes da conduta delituosa;"
+      },
+      {
+        "letra": "C",
+        "texto": "As circunstâncias objetivas referentes ao tempo e lugar, não se transmitem a todos os participantes da conduta delituosa;"
+      },
+      {
+        "letra": "D",
+        "texto": "As circunstâncias e condições que não forem de caráter pessoal se comunicam entre todos os sujeitos ativos do crime, sejam elas elementares, sejam elas circunstâncias do delito;"
+      },
+      {
+        "letra": "E",
+        "texto": "As circunstâncias e condições que não forem de caráter pessoal somente se comunicam entre todos os sujeitos ativos do crime quando forem elementares do delito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "411203",
+    "metadata": "Ano: 2014 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Receptação"
+    ],
+    "enunciado_principal": "Dadas as assertivas abaixo, assinale a alternativa correta. Segundo a jurisprudência do Supremo Tribunal Federal: I. O coautor que participa de roubo armado responde pelo latrocínio, ainda que o disparo tenha sido efetuado pelo comparsa. Não pode, porém, ser imputado o resultado morte ao coautor quando há rompimento do nexo causal entre a conduta dele e a de seu comparsa.II. Não se mostram necessárias a apreensão e a perícia da arma de fogo empregada no roubo para comprovar seu potencial lesivo, visto que tal qualidade integra a própria natureza do artefato. Lesividade do instrumento que se encontra in re ipsa. A qualificadora do art. 157, § 2º, do Código Penal pode ser evidenciada por qualquer meio de prova, em especial pela palavra da vítima ou pelo depoimento de testemunha presencial. Se o acusado alegar o contrário ou sustentar a ausência de potencial lesivo da arma empregada para intimidar a vítima, será dele o ônus de produzir tal prova, nos termos do art. 156 do Código de Processo Penal. III. A aplicação da causa de aumento do § 6º do art. 180 do Código Penal, quando forem objeto de receptação bens da Empresa Brasileira de Correios e Telégrafos – ECT, não implica interpretação extensiva da norma penal, mas genuína subsunção dos fatos ao tipo penal, uma vez que os bens da ECT afetados ao serviço postal compõem o próprio patrimônio da União. IV. A expressão “ao tempo do crime” constante do art. 115 do Código Penal tem que ser entendida, com relação ao crime continuado, como “ao tempo de cada crime” que integra essa modalidade de concurso de delitos, razão por que se afigura certo o entendimento segundo o qual a redução do prazo da prescrição por causa da menoridade só se dá quanto aos crimes praticados antes de o agente completar 21 anos de idade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas todas as assertivas."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma assertiva está correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "402845",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "No que se refere à punibilidade e às causas de sua extinção, bem como ao concurso de pessoas, julgue os itens a seguir. Para um coautor cujas ações tiverem resultado em crime mais grave, apesar de ele ter desejado participar de crime de menor gravidade, a pena aplicada deve ser a referente ao crime menos grave, que deve ser aumentada até a metade no caso de o resultado mais grave ter sido previsível quando as ações foram realizadas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "353519",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Considere a seguinte situação hipotética.Hugo e Ivo planejaram juntos o furto de uma residência. Sem o conhecimento de Hugo, Ivo levou consigo um revólver para garantir o sucesso da empreitada criminosa. Enquanto Hugo subtraia os bens do escritório, Ivo foi surpreendido na sala por um morador e acabou matando-o com um tiro. Nessa situação hipotética, Ivo responderá por latrocínio, e Hugo, apenas pelo crime de furto.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "302401",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Sobre o concurso de pessoas, tem-se o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pela teoria do favorecimento da participação, a punibilidade do partícipe depende da culpabilidade do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "pelo conceito extensivo, autor é quem executa a ação típica, não havendo diferença entre autoria e participação."
+      },
+      {
+        "letra": "C",
+        "texto": "pela cooperação dolosamente distinta, ocorre uma divergência entre o elemento subjetivo do partícipe e a conduta realizada pelo autor."
+      },
+      {
+        "letra": "D",
+        "texto": "pela teoria objetivo-formal, autor é causa do delito, enquanto partícipe é condição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "707064",
+    "metadata": "Ano: 2011 | Banca: MPE-PB | Órgão: MPE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Culpabilidade",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Autoria e coautoria",
+      "Inimputabilidade pela embriaguez",
+      "Participação",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Julgue as seguintes assertivas: I - Em qualquer caso, a embriaguez acidental afasta a imputabilidade penal. II - A coação moral irresistível (vis compulsiva) exclui a ação, por inexistência de vontade. III - A ausência da potencial consciência da ilicitude dá lugar ao erro de proibição (art. 21, CP), que, quando inescusável, é causa excludente de culpabilidade. IV - A cooperação dolosamente distinta é circunstância atenuante que somente se aplica à modalidade de participação, não abrangendo os casos de coautoria.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e IV estão erradas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "(Abstenção de resposta - Seção VIII, item 11, do Edital do Concurso)."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "3231225",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "Em referência a essa situação hipotética, julgue o próximo item.A pena de multa poderá ser cobrada diretamente pela fazenda pública, como dívida ativa, mesmo antes de sua execução pelo juiz da execução penal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1759355",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "“As pulgas sonham com comprar um cão, e os ninguéns com deixar a pobreza, que em algum dia mágico a sorte chova de repente, que chova a boa sorte a cântaros; mas a boa sorte não chove ontem, nem hoje, nem amanhã, nem nunca, nem uma chuvinha cai do céu da boa sorte, por mais que os ninguéns a chamem e mesmo que a mão esquerda coce, ou se levantem com o pé direito, ou comecem o ano mudando de vassoura.” (O livro dos abraços, de Eduardo Galeano) Sobre a execução da pena de multa, considerando a legislação e o entendimento atualizado das Cortes Superiores, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o réu preso, cumprindo pena privativa de liberdade, poderá impugnar o valor da pena de multa pela via do habeas corpus;"
+      },
+      {
+        "letra": "B",
+        "texto": "na hipótese de condenação concomitante à pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária obsta o reconhecimento da extinção de punibilidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "o prazo prescricional da pena de multa aplicada cumulativamente à pena privativa de liberdade é de 2 anos;"
+      },
+      {
+        "letra": "D",
+        "texto": "a legitimidade prioritária para executar a pena de multa, considerando ser dívida de valor, é da Fazenda Pública;"
+      },
+      {
+        "letra": "E",
+        "texto": "ao apenado comprovadamente hipossuficiente é dada a possibilidade de requerer a isenção do pagamento da pena de multa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1302826",
+    "metadata": "Ano: 2020 | Banca: FCC | Órgão: AL-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Substituição - Concessão.",
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "Acerca do que dispõe o Código Penal, bem como o entendimento dos tribunais superiores, sobre as espécies, cominação, aplicação e suspensão das penas,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na condenação igual ou inferior a um ano, a substituição da pena privativa de liberdade pode ser feita por multa ou por uma pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "a legitimidade para a execução fiscal de multa pendente de pagamento imposta em sentença condenatória é exclusiva do Ministério Público."
+      },
+      {
+        "letra": "C",
+        "texto": "a pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo Código Penal, deverá ser considerada para a concessão de outros benefícios, como o livramento condicional."
+      },
+      {
+        "letra": "D",
+        "texto": "no concurso de infrações, executar-se-á primeiramente a pena menos grave."
+      },
+      {
+        "letra": "E",
+        "texto": "condenação anterior à pena de multa, ainda que a única cominada, impede a aplicação ao agente da suspensão condicional da pena."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "976026",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "Supondo que um indivíduo fora condenado a uma pena restritiva de liberdade de 1 ano e 8 meses de reclusão e ao pagamento de 166 dias-multas, havendo o cumprimento integral da pena privativa de liberdade, mas não havendo o pagamento da multa, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a extinção da punibilidade está condicionada ao cumprimento da pena privativa de liberdade, bem como à quitação da multa imposta."
+      },
+      {
+        "letra": "B",
+        "texto": "o cumprimento da pena privativa de liberdade ou a quitação da multa extinguem a punibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "o juiz, não havendo o pagamento da pena de multa, determinará a penhora de bens do condenado, visando garantir a extinção da punibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "cumprida integralmente a pena privativa de liberdade e quitado ao menos 1/3 da multa, o juiz poderá declarar extinta a punibilidade do condenado."
+      },
+      {
+        "letra": "E",
+        "texto": "o não pagamento da pena de multa não impede a extinção da punibilidade, desde que a pena privativa de liberdade tenha sido integralmente cumprida."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "821258",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: MPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "De acordo com o entendimento do STF a respeito de assuntos afetos ao direito penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No latrocínio — roubo seguido de morte —, responderá apenas pelo roubo o autor que não estiver fisicamente no ambiente em que ocorrer a morte, por não provocá-la diretamente e por sua participação ser considerada de menor importância."
+      },
+      {
+        "letra": "B",
+        "texto": "É hediondo o tráfico privilegiado de drogas, ainda que sujeito à redução de pena, conforme disposições da Lei Antidrogas, razão por que seu autor tem de atender a requisitos mais severos para o livramento condicional, não lhe sendo permitida a progressão de regime."
+      },
+      {
+        "letra": "C",
+        "texto": "O inadimplemento da pena de multa imposta ao sentenciado impede a sua progressão de regime, salvo se ele comprovar absoluta impossibilidade econômica."
+      },
+      {
+        "letra": "D",
+        "texto": "À prática clandestina de atividade de telecomunicação consistente em manutenção de rádio comunitária não se aplica o princípio da insignificância, independentemente do grau de interferência do sinal e mesmo que presente a boa-fé do infrator."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "591360",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Pena de multa",
+      "Consequências do inadimplemento da pena de multa"
+    ],
+    "enunciado_principal": "Em relação às penas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poderá ser substituída por pena restritiva de direitos a pena privativa de liberdade aplicada a réu reincidente, anteriormente condenado pela prática do crime de lesões corporais culposas e sentenciado a pena de cinco anos de reclusão pela prática de homicídio culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se admite que o condenado a prisão em regime fechado execute trabalho externo."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena de reclusão será cumprida em regime fechado, semiaberto ou aberto; a de detenção, por sua vez, será cumprida em regime semiaberto ou aberto, vedada a transferência para o regime fechado."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com o CP, o condenado a pena de seis anos de reclusão poderá cumpri-la em regime semiaberto, ainda que seja reincidente."
+      },
+      {
+        "letra": "E",
+        "texto": "A pena de multa aplicada de forma isolada, injustificadamente inadimplida pelo condenado, poderá ser convertida em pena privativa de liberdade."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

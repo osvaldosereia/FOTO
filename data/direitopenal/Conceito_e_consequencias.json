@@ -1,0 +1,871 @@
+[
+  {
+    "id": "1981480",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Maria procurou atendimento da Defensoria Pública para se informar a respeito do processo de execução criminal de seu companheiro José. Durante análise da sua situação processual, verificou-se que José era primário e cumpria pena de doze anos em regime inicial fechado pela prática do crime de homicídio qualificado ocorrido em 01/01/2012. Após cumprir mais de 2/3 de sua pena, foi deferido o livramento condicional em 02/08/2020. Porém, em razão de prática de novo delito no dia 02/03/2021, durante o período de prova, teve seu direito suspenso pelo juiz da vara de execuções criminais. Considerando a situação acima descrita e a jurisprudência do Superior Tribunal de Justiça, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há prática de falta disciplinar durante o cumprimento do livramento condicional e o período compreendido entre os dias 02/08/2020 e 02/03/2021 deverá ser considerado como tempo de pena cumprido para todos os fins."
+      },
+      {
+        "letra": "B",
+        "texto": "A prática de crime durante o período de prova caracteriza falta disciplinar grave a ser reconhecida pelo juízo da execução criminal e terá como consequência a interrupção do lapso apenas para fins de progressão de regime."
+      },
+      {
+        "letra": "C",
+        "texto": "A decisão que concedeu o direito em 02/08/2020 foi equivocada, uma vez que o art. 112, inciso VI, alínea “a”, inserido pela Lei nº 13.964/2019, veda a concessão do livramento condicional aos condenados pela prática de crime hediondo ou equiparado, com resultado morte."
+      },
+      {
+        "letra": "D",
+        "texto": "Ainda que ocorra o trânsito em julgado da sentença penal condenatória pela prática do delito ocorrido no dia 02/03/2021, o fato não poderá ser considerado falta disciplinar grave."
+      },
+      {
+        "letra": "E",
+        "texto": "O sentenciado responderá pela prática de falta disciplinar grave ocorrida no dia 02/03/2021, o que poderá acarretar a perda de até 1/3 dos dias remidos e na interrupção do lapso para fins de progressão de regime e livramento condicional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1937461",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Causas e consequências da revogação do benefício",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Julgue o item a seguir de acordo com o entendimento dos Tribunais Superiores acerca da execução penal. A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1937456",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Segundo a Lei de Execução Penal, julgue o item seguinte acerca do livramento condicional e dos estabelecimentos penais. Presentes os requisitos legais, o livramento condicional poderá ser concedido pelo Juiz da execução, ouvidos o Ministério Público e o Conselho Penitenciário. Caso seja deferido o pedido, serão sempre impostas ao liberado condicional as obrigações de obter ocupação lícita e de recolher-se à habitação em hora fixada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1771328",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: DEPEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Acerca das disposições expressas na Lei de Execução Penal sobre o instituto do livramento condicional, julgue o próximo item. Preso beneficiado pelo livramento condicional durante o período de prova é considerado egresso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1752653",
+    "metadata": "Ano: 2021 | Banca: APICE | Órgão: DPE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Legislação Penal Especial",
+      "Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O concurso de pessoas é a participação inconsciente e involuntária de duas ou mais pessoas na mesma infração penal. Tem-se a livre convergência de vontades para um fim ilícito comum."
+      },
+      {
+        "letra": "B",
+        "texto": "Livramento condicional é a possibilidade de que tem o condenado, que já cumpriu certo tempo de pena privativa de liberdade, de poder cumprir solto o período restante, mediante determinadas condições, já a suspensão condicional da pena é a suspensão parcial da execução de certas penas privativas de liberdade, durante um período de tempo de acordo com o caso concreto."
+      },
+      {
+        "letra": "C",
+        "texto": "Ação penal é o direito objetivo público autônomo e abstrato de invocar a tutela jurisdicional do Estado para que este resolva conflitos provenientes da prática de condutas definidas em lei como crime."
+      },
+      {
+        "letra": "D",
+        "texto": "A autorização para o porte de arma de fogo de uso permitido, em todo o território nacional, é de competência da Polícia Federal e somente será concedida após autorização do Sinarm, obrigatoriamente sendo concedida com eficácia temporária e territorial limitada."
+      },
+      {
+        "letra": "E",
+        "texto": "A assistência à mulher em situação de violência doméstica e familiar será prestada de forma articulada e conforme os princípios e as diretrizes previstos na Lei Orgânica da Assistência Social e no Sistema Único de Segurança Pública, entre outras normas e políticas públicas de proteção, e emergencialmente quando for o caso, excluída a participação do Sistema Único de Saúde (SUS) que é opcional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "994293",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Considere as seguintes hipóteses. I. O reeducando “Y.K.T” foi condenado a uma pena de 5 anos de reclusão. Durante o gozo do livramento condicional, foi preso por uma segunda condenação de mais 5 anos, transitada em julgado, pela prática de crime doloso ocorrido antes da vigência do livramento. II. O reeducando “Z.W.J” foi condenado a uma pena de 5 anos de reclusão. Enquanto cumpria a pena no regime aberto, em prisão domiciliar, praticou novo crime doloso, tendo sido condenado pela segunda vez a outra pena de mais 5 anos, por sentença transitada em julgado. Sobre o efeito das novas condenações em relação ao tempo em que os reeducandos “Y.K.T” e “Z.W.J” estiveram soltos em razão do livramento condicional e da prisão domiciliar, é correto afirmar que o(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reeducandos “Y.K.T” e “Z.W.J” perderão o tempo cumprido durante o livramento condicional e o regime aberto em prisão domiciliar, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "reeducando “Y.K.T” conservará como tempo de pena efetivamente cumprida o período de prova do livramento condicional, enquanto o sentenciado “Z.W.J” perderá o tempo em que permaneceu solto, em prisão domiciliar."
+      },
+      {
+        "letra": "C",
+        "texto": "reeducandos “Y.K.T” e “Z.W.J” conservarão como tempo de pena efetivamente cumprida o período em que ficaram soltos, em livramento condicional e em prisão domiciliar, respectivamente."
+      },
+      {
+        "letra": "D",
+        "texto": "reeducando “Y.K.T” perderá o período de prova do livramento condicional para fins de tempo de cumprimento da pena, enquanto para o sentenciado “Z.W.J” conservará como tempo de pena cumprida o período em que gozou do regime aberto, em prisão domiciliar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "994291",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Segundo o entendimento que prevalece na jurisprudência, o reconhecimento judicial da prática de falta disciplinar grave gera o seguinte efeito em relação à contagem do estágio da progressão de regime e do livramento condicional:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interrompe a contagem do estágio da progressão de regime e do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "Não interrompe a contagem dos estágios da progressão de regime ou do livramento condicional."
+      },
+      {
+        "letra": "C",
+        "texto": "Interrompe a contagem do estágio da progressão de regime, porém não a do livramento condicional."
+      },
+      {
+        "letra": "D",
+        "texto": "Não interrompe a contagem do estágio da progressão de regime, mas, sim, a do livramento condicional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "954323",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o livramento condicional é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sua concessão depende da avaliação positiva das circunstâncias judiciais do art. 59 do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "é vedada sua concessão para o condenado reincidente específico no tráfico privilegiado."
+      },
+      {
+        "letra": "C",
+        "texto": "o sentenciado precisa estar no regime semiaberto, pois a sua concessão diretamente do regime fechado configura progressão por salto."
+      },
+      {
+        "letra": "D",
+        "texto": "o liberado poderá cumprir o período de prova em comarca diversa do juízo que concedeu o livramento se nela tiver vínculos familiares e sociais."
+      },
+      {
+        "letra": "E",
+        "texto": "é aplicável aos casos de medida de segurança na modalidade de internação por analogia em benefício do condenado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "914181",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Causas e consequências da revogação do benefício"
+    ],
+    "enunciado_principal": "Enquanto cumpria pena em livramento condicional, Jaqueline vem a ser condenada, novamente, pela prática de crime, sendo aplicada pena privativa de liberdade, havendo trânsito em julgado. O crime, porém, que justificou a segunda condenação era por fato anterior àquele que impôs a condenação da pena que cumpria em livramento condicional, exatamente por isso não sendo reconhecida a reincidência. Considerando apenas as informações narradas, sobre a nova condenação assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é prevista, por ser por fato anterior, como causa de revogação do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "É causa de revogação obrigatória, podendo o período em livramento condicional ser considerado como pena cumprida."
+      },
+      {
+        "letra": "C",
+        "texto": "É causa de revogação facultativa, podendo o período em livramento condicional ser considerado como pena cumprida, mesmo em caso de revogação."
+      },
+      {
+        "letra": "D",
+        "texto": "É causa de revogação obrigatória, não sendo considerado como pena cumprida o período em livramento condicional."
+      },
+      {
+        "letra": "E",
+        "texto": "É causa de revogação facultativa e, em caso de revogação, o período em livramento condicional não poderá ser considerado como pena cumprida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "839608",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PC-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão"
+    ],
+    "enunciado_principal": "Segundo o regime do livramento condicional,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a notícia da prática de infração penal implica imediata revogação do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "será julgada extinta a pena privativa de liberdade, se expirar o prazo do livramento sem revogação."
+      },
+      {
+        "letra": "C",
+        "texto": "é vedada a concessão do livramento condicional para o preso que não gozou de 5 saídas temporárias ao longo da execução da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "é incabível para pessoas condenadas por crime hediondo ou cometidos com violência ou grave ameaça contra a pessoa."
+      },
+      {
+        "letra": "E",
+        "texto": "o livramento condicional é direito subjetivo do sentenciado que cumprir um sexto da pena e apresentar bom comportamento carcerário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "832346",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário",
+      "Remição de pena",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Legislação Penal Especial",
+      "Lei de Crimes Hediondos – Lei nº 8.072 de 1990",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984",
+      "Reincidência"
+    ],
+    "enunciado_principal": "NÃO sofrem influência da reincidência e da hediondez do crime na execução penal os seguintes direitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comutação e saída temporária."
+      },
+      {
+        "letra": "B",
+        "texto": "Indulto e autorização de saída."
+      },
+      {
+        "letra": "C",
+        "texto": "Progressão de regime e saída temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "Livramento condicional e remição."
+      },
+      {
+        "letra": "E",
+        "texto": "Remição e permissão de saída."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "707180",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: DPE-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o livramento condicional,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é vedada a concessão do livramento condicional para o preso que cumpre pena em regime fechado, sob pena de incorrer em progressão por salto."
+      },
+      {
+        "letra": "B",
+        "texto": "segundo a jurisprudência majoritária do STJ, o descumprimento das condições do livramento condicional pode ser aferido após o término do período de prova, ainda que este não tenha sido prorrogado pelo juízo da execução."
+      },
+      {
+        "letra": "C",
+        "texto": "o lapso temporal para o livramento condicional no caso de reincidente é de dois terços da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "é vedada a revogação do livramento condicional por crime cometido antes do período de prova."
+      },
+      {
+        "letra": "E",
+        "texto": "é vedada a concessão de livramento condicional ao reincidente específico em crime hediondo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "650545",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Causas e consequências da revogação do benefício"
+    ],
+    "enunciado_principal": "A respeito do livramento condicional, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O benefício do livramento condicional é um direito subjetivo do condenado, a ser concedido pelo juiz na sentença condenatória, desde que o réu preencha os requisitos legais subjetivos e objetivos, no momento da sentença penal condenatória, de modo a substituir a pena privativa de liberdade e restritiva de direitos por liberdade vigiada e condicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o liberado condicionalmente seja condenado irrecorrivelmente por crime praticado durante o gozo do livramento condicional, sendo a nova pena imposta a privativa de liberdade, haverá a revogação obrigatória do livramento condicional e o tempo do período de prova será considerado para fins de desconto na pena."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de prática de crime durante o período de prova do livramento condicional, o juiz não poderá prorrogar o benefício, devendo declarar extinta a punibilidade quando, ao chegar o fim daquele período fixado, o beneficiário não for julgado em processo a que responde por crime cometido na vigência do livramento."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre outros requisitos legais, segundo o CP, em caso de crime doloso cometido com violência ou grave ameaça à pessoa, a concessão do livramento condicional ao condenado ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir."
+      },
+      {
+        "letra": "E",
+        "texto": "A prática de falta grave, devidamente apurada em procedimento disciplinar, interrompe o requisito temporal para a concessão do livramento condicional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "644461",
+    "metadata": "Ano: 2016 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Segundo a Lei de Execução Penal, Lei nº 7.210/1984, serão sempre impostas ao liberado condicional as obrigações seguintes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comunicar periodicamente ao juiz sua ocupação."
+      },
+      {
+        "letra": "B",
+        "texto": "Obter ocupação lícita, dentro de prazo razoável se for apto para o trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "Recolher-se à habitação em hora fixada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não mudar do território da comarca do Juízo da Execução, sem prévia autorização deste."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "641888",
+    "metadata": "Ano: 2016 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "A Súmula Vinculante 26 do Supremo Tribunal Federal, dispõe que para efeito de livramento condicional no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072/90 (Crimes Hediondos), sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "444842",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Analise o caso a seguir. Márcio foi condenado a seis anos de reclusão pelo crime de furto qualificado pelo emprego de chave falsa, previsto no artigo 155, §4º, III do Código Penal brasileiro. Foi fixado como regime inicial para cumprimento da pena o fechado por conta de reincidência específica de Márcio. No terceiro mês de cumprimento da pena, Márcio foi punido por falta disciplinar grave, consubstanciada em fuga. Após, passou a cumprir a pena de forma exemplar, com reconhecido bom compartimento carcerário. Ao completar dois anos e três meses de pena cumprida, Márcio, por meio do seu Defensor, formulou pedido de livramento condicional, pleito este que, após seguir o trâmite legalmente previsto, foi decidido pelo Juiz da Execução Penal nos seguintes termos: FUNDAMENTO “Como é sabido, o cometimento de falta grave durante o cumprimento da pena determina a interrupção do prazo para concessão de livramento condicional.” DECISÃO “Assim, indefiro o pedido de livramento condicional no presente caso, por não atendimento do requisito temporal estabelecido em lei.” Considerando o caso em apreço e a conformação jurídica dada ao instituto do livramento condicional, assinale a alternativa CORRETA. .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão está correta, mas a proposição usada como fundamento é equivocada."
+      },
+      {
+        "letra": "B",
+        "texto": "A proposição usada como fundamento está correta, mas a decisão é equivocada."
+      },
+      {
+        "letra": "C",
+        "texto": "O fundamento e a decisão estão corretos, sendo o primeiro capaz de justificar a segunda."
+      },
+      {
+        "letra": "D",
+        "texto": "O fundamento e a decisão estão corretos, mas o primeiro não é capaz de justificar a segunda."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "361241",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Condições a serem impostas no curso do benefício"
+    ],
+    "enunciado_principal": "De acordo com entendimento sumulado do Supremo Tribunal Federal, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo art. 75 do Codigo Penal, é considerada, para concessão de outros benefícios, como livramento condicional ou regime mais favorável de execução."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se sua vigência é anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "C",
+        "texto": "Impede a progressão de regime de execução de pena, fixada em sentença não transitada em julgado, o fato de o réu se encontrar em prisão especial."
+      },
+      {
+        "letra": "D",
+        "texto": "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir não exige motivação idônea"
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se a suspensão condicional do processo por crime continuado, se a soma da pena mínima da infração mais grave com o aumento mínimo de um sexto for superior a um ano"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "371576",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Assinale a opção correta em relação ao livramento condicional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falta de natureza grave durante o cumprimento da pena privativa de liberdade interrompe a contagem do lapso temporal necessário para a obtenção do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "Terminado o período de prova sem a revogação ou suspensão do livramento condicional, não é possível o reconhecimento da extinção da pena caso se descubra que o liberado tenha sido condenado definitivamente por crime cometido durante a vigência do benefício."
+      },
+      {
+        "letra": "C",
+        "texto": "A não reparação do dano causado pela infração penal, quando possível, impede a concessão do livramento condicional."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz detém o poder de determinar a fiscalização do cumprimento dessa medida por meio da monitoração eletrônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao reincidente específico em crime hediondo poderá ser concedido esse benefício após o cumprimento de mais de dois terços da pena."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "352118",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Legislação Penal Especial",
+      "Lei de Contravenções Penais - Decreto-Lei nº 3.688 de 1941",
+      "Reincidência"
+    ],
+    "enunciado_principal": "No que se refere a temas relativos à teoria da pena, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reincidência influi no prazo de prescrição da pena de multa."
+      },
+      {
+        "letra": "B",
+        "texto": "Não pode ser considerado reincidente quem, já condenado pela prática de crime por sentença transitada em julgado, no Brasil ou no estrangeiro, pratica contravenção penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Réu reincidente condenado à pena de quatro anos e dois meses deve, necessariamente, iniciar o cumprimento da pena privativa de liberdade no regime fechado."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se somam as penas correspondentes a crimes diversos para o efeito do livramento condicional."
+      },
+      {
+        "letra": "E",
+        "texto": "A pena de seis meses de detenção imposta a réu primário condenado pela prática de crime doloso cometido com grave ameaça à pessoa pode ser substituída por multa, com base no disposto no CP."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "333198",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o instituto do livramento condicional, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obtenção do livramento condicional nos casos de condenação por crimes hediondos exige, como requisito temporal, o cumprimento de mais de dois terços da pena pelo condenado primário e mais de três quintos para o condenado reincidente na prática de crimes desta natureza."
+      },
+      {
+        "letra": "B",
+        "texto": "Tem como requisito temporal, em regra, o cumprimento de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes."
+      },
+      {
+        "letra": "C",
+        "texto": "As penas que correspondem às infrações diversas devem somar-se para efeito de livramento."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o liberado for condenado irrecorrivelmente, por crime ou contravenção, à pena que não seja privativa de liberdade, poderá o juiz revogar o livramento."
+      },
+      {
+        "letra": "E",
+        "texto": "A revogação será obrigatória se o liberado vem a ser condenado à pena privativa de liberdade, em sentença irrecorrível, por crime cometido durante vigência do benefício."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "331651",
+    "metadata": "Ano: 2013 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o tema livramento condicional, assinale a opção incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reincidência em crime culposo em nada interfere na fração mínima de cumprimento da pena, ou seja, 1/3 (um terço), como condição objetiva para a obtenção do benefício;"
+      },
+      {
+        "letra": "B",
+        "texto": "O apenado primário, porém com maus antecedentes criminais, deverá cumprir 1/2 (metade) da pena para obter o livramento;"
+      },
+      {
+        "letra": "C",
+        "texto": "A condenação por crime doloso, cometido durante a vigência do benefício, é causa de revogação facultativa do benefício, desde que a pena não seja privativa de liberdade;"
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a concessão de livramento condicional ao apenado reincidente em crimes de tráfico de drogas;"
+      },
+      {
+        "letra": "E",
+        "texto": "Comprometer-se a não mudar de residência sem comunicação ao juiz e à autoridade incumbida da observação cautelar e de proteção, é condição obrigatória imposta ao liberado condicional"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "301629",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Assinale a opção correta em relação ao livramento condicional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com a jurisprudência consolidada nos tribunais superiores, expirado o período de prova do livramento condicional sem suspensão ou prorrogação do benefício, a pena é automaticamente extinta."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao sentenciado reincidente por crime doloso cometido com violência ou grave ameaça à pessoa é vedada a concessão do livramento condicional."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de revogação do livramento condicional motivada pela prática de infração penal anterior ou posterior ao benefício ou, ainda, por qualquer outro motivo anterior à vigência do livramento, será computado como tempo de cumprimento da pena o período de prova, sendo permitida, para a concessão de novo livramento, a soma do tempo das duas penas."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso um condenado pratique novo delito durante o período de prova do livramento condicional, haverá prorrogação automática do período de prova estabelecido pelo juiz, independentemente de novo pronunciamento judicial, até o trânsito em julgado da decisão acerca do crime subsequente."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratando-se de crimes hediondos, o livramento condicional está condicionado ao requisito objetivo de cumprimento mínimo de dois quintos da pena, se o apenado for primário, e de três quintos, se reincidente, vedando-se a concessão do benefício em caso de reincidência específica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "286523",
+    "metadata": "Ano: 2012 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre livramento condicional, indique a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para obtê-lo, entre outros requisitos, o condenado por crime hediondo, prática de tortura ou tráfico ilícito de drogas deverá cumprir mais de 2/3 (dois terços) da reprimenda, caso seja reincidente específico em crimes dessa natureza;"
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo a orientação sumular do Supremo Tribunal Federal, a pena unificada a fim de atender ao limite máximo de trinta anos de cumprimento, deve ser considerada como base de cálculo à concessão do livramento condicional;"
+      },
+      {
+        "letra": "C",
+        "texto": "Conforme entendimento sumulado do Superior Tribunal de Justiça, a falta grave não interrompe o prazo para obtenção do livramento condicional;"
+      },
+      {
+        "letra": "D",
+        "texto": "A revogação do livramento condicional somente é cabível, atendidos os demais requisitos legais, quando o crime, cometido durante a vigência do benefício, for doloso;"
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a realização de exame criminológico para fins de concessão de livramento condicional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "261825",
+    "metadata": "Ano: 2012 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "TRATANDO-SE DE LIVRAMENTO CONDICIONAL, ASSINALE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não cabe a concessão ao(a)condenado(a) a pena privativa de liberdade igual a dois anos;"
+      },
+      {
+        "letra": "B",
+        "texto": "poderá ser concedido ao(a) condenado(a) a pena de reclusão em regime semiaberto, cumprida mais da metade da pena por crime de genocidio;"
+      },
+      {
+        "letra": "C",
+        "texto": "o cometimento de falta grave implica o reinicio da contagem de prazo para a sua concessão:"
+      },
+      {
+        "letra": "D",
+        "texto": "poderá ser concedida ao(a) condenado a pena de reclusão de 8 anos, cumprido mais de um terço da pena, se não for reincidente em crime doloso e tiver bons antecedentes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "291960",
+    "metadata": "Ano: 2011 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o livramento condicional, considere as seguintes afirmativas: 1. O livramento condicional cabe nos casos de pena aplicada igual ou superior a quatro anos. 2. O livramento condicional é vedado ao reincidente específico em crime hediondo. 3. A reparação do dano é requisito para o livramento condicional, exceto no caso de demonstração da impossibilidade de fazê-lo. 4. A competência para apreciação do pedido de livramento condicional é sempre do juiz de execução. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 2 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 2, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "291936",
+    "metadata": "Ano: 2011 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Sobre o livramento condicional, considere as seguintes afirmativas: 1. Não se admite livramento condicional em crimes hediondos se o agente for reincidente. 2. O recolhimento à habitação é condição obrigatória para o gozo do livramento condicional. 3. O livramento condicional será necessariamente revogado se o agente for condenado por crime cometido antes da sua concessão. 4. Comunicar o juiz sobre a mudança de comarca é condição obrigatória para o gozo do livramento condicional. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1, 2 e 4 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a afirmativa 4 é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "197607",
+    "metadata": "Ano: 2011 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências"
+    ],
+    "enunciado_principal": "Concedido o livramento condicional: I. o Juiz não poderá modificar as condições por ele especificadas na sentença; II. o condenado declarará se aceita as condições especificadas pelo Juiz na sentença; III. o benefício poderá ser revogado se o liberado vier a ser condenado a pena privativa de liberdade, em sentença recorrível, por crime cometido durante sua vigência; IV. na hipótese de revogação facultativa, mantido o livramento condicional, o Juiz deverá advertir o liberado, sendo-lhe vedado agravar as condições por ele especificadas na sentença; V. praticada pelo liberado outra infração penal, o Juiz poderá ordenar a sua prisão, suspendendo o curso do livramento condicional. Está correto apenas o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e V."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e V."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

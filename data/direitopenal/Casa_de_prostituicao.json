@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1945464",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável",
+      "Favorecimento da prostituição ou outra forma de exploração sexual",
+      "Casa de prostituição",
+      "Importunação Sexual"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre crimes contra a dignidade sexual.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta de manter relação sexual com pessoa desacordada, por ingestão de álcool, incapaz de oferecer resistência, caracteriza o crime de estupro, artigo 213, do Código Penal, qualificado pela especial condição de vulnerabilidade da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de importunação sexual, artigo 215-A, do Código Penal, é de natureza subsidiária, restando caracterizado somente se o ato libidinoso praticado não constituir crime mais grave."
+      },
+      {
+        "letra": "C",
+        "texto": "A prática de conjunção carnal com menor de 14 anos, se consentida, não caracteriza o crime de estupro de vulnerável, artigo 217-A, do Código Penal, se comprovado que a vítima já mantinha vida sexual ativa anteriormente."
+      },
+      {
+        "letra": "D",
+        "texto": "A conduta de registrar ato sexual sem autorização dos participantes, artigo 216-B, do Código Penal, só é punível se houver divulgação a terceiros, por qualquer meio."
+      },
+      {
+        "letra": "E",
+        "texto": "A conduta de manter estabelecimento destinado à prática de exploração sexual, artigo 229, do Código Penal, é atípica, caso não haja participação de criança e adolescente."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

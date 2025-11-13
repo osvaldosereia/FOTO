@@ -1,0 +1,135 @@
+[
+  {
+    "id": "2294324",
+    "metadata": "Ano: 2023 | Banca: CONSULPLAN | Órgão: Prefeitura de Campos dos Goytacazes - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Abandono intelectual"
+    ],
+    "enunciado_principal": "Carla é mãe de AVB, de 9 anos, sem motivo plausível que justificasse sua conduta, deixou de matricular a filha em escola regular. Deste modo, AVB não possui nenhuma instrução formal e desconhece o alfabeto. Considerando as disposições da Lei nº 2.848/1940 e suas alterações posteriores, a conduta criminosa praticada por Carla adequa-se ao tipo penal denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Supressão ou alteração de direito; com pena de reclusão de dois a seis anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Induzimento a erro essencial; com pena de detenção de seis meses a dois anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Abandono intelectual; com pena de detenção de quinze dias a um mês ou multa."
+      },
+      {
+        "letra": "D",
+        "texto": "Abandono material; com pena detenção de 1 a 4 anos e multa de uma a dez vezes o maior salário-mínimo vigente no país."
+      },
+      {
+        "letra": "E",
+        "texto": "Subtração intelectual de incapazes; com pena de detenção de dois meses a dois anos, se o fato não constitui elemento de outro crime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "843722",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Abandono intelectual"
+    ],
+    "enunciado_principal": "Com base no caso, assinale a alternativa correta. Miriam, mãe de Rodrigo, e José, tutor de João, receberam convocação da Promotoria de Justiça da Infância e da Juventude da respectiva Comarca para comparecem à audiência pública destinada a tratar específico programa para prevenir a evasão escolar. Na carta, havia advertência, em negrito e sublinhado, que a presença seria obrigatória, sob pena de incorrerem pais e/ou responsáveis legais em apuração de responsabilização criminal por abandono intelectual (CP, artigo 246). Miriam não compareceu, pois, no horário da reunião, realizou procedimento cirúrgico de emergência em Maria, colega de escola de Rodrigo. Tampouco José se fez presente, porquanto decidiu acompanhar um jogo do time do colégio de João. Ciente das ausências, o Promotor de Justiça requisitou instauração de investigação para apurar a responsabilidade de ambos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miriam e José poderão ser indiciados pelo crime de abandono material."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas Miriam poderá ser indiciada pelo crime de abandono intelectual."
+      },
+      {
+        "letra": "C",
+        "texto": "Miriam e José poderão ser indiciados pelo crime de abandono intelectual."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas José poderá ser indiciado pelo crime de abandono intelectual."
+      },
+      {
+        "letra": "E",
+        "texto": "Miriam e José não poderão ser indiciados pelo crime de abandono intelectual."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "293719",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Crimes contra a família",
+      "Abandono material",
+      "Abandono intelectual",
+      "Crimes contra a fé pública",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Assinale a assertiva correta quanto ao que expressamente estabelece o Código Penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de conduta tipificada como abandono intelectual, permitir alguém que menor de dezoito anos, sujeito a seu poder ou confiado à sua guarda ou vigilância, frequente casa de jogos."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de conduta tipificada como abandono material: deixar de prover a subsistência do cônjuge, ou de filho menor de 18 (dezoito) anos ou inapto para o trabalho, ou de ascendente inválido ou maior de 60 (sessenta) anos, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada."
+      },
+      {
+        "letra": "C",
+        "texto": "Incorre na pena de falsidade ideológica, quem insere na Carteira de Trabalho e Previdência Social do empregado, declaração falsa ou diversa da que deveria ter sido escrita."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de furto qualificado, quando condômino subtrai para si ou para outrem, a quem legitimamente a detém, a coisa comum."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "271099",
+    "metadata": "Ano: 2012 | Banca: CETRO | Órgão: TJ-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Abandono intelectual"
+    ],
+    "enunciado_principal": "O crime de abandono intelectual descrito no artigo 246 do Código Penal, nos termos: “Deixar, sem justa causa, de prover à instrução primária de filho em idade escolar”, pode ser classificado como crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "material."
+      },
+      {
+        "letra": "B",
+        "texto": "omissivo impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "instantâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "plurissubjetivo."
+      },
+      {
+        "letra": "E",
+        "texto": "próprio."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "1869774",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "Jack, um nadador iniciante, é levado por seu técnico até a praia, para adquirir maior resistência nadando contra a correnteza. Afogando-se, grita por socorro, mas o técnico não atenta para o pedido, visto que conversava com turistas sobre a gastronomia da região. Russel, um robusto e experiente nadador que caminhava na praia, ao perceber os gritos, adentra no mar agitado, mas acaba falecendo em razão da intensidade da correnteza. Ao técnico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não poderá ser imputada a morte de Russel;"
+      },
+      {
+        "letra": "B",
+        "texto": "poderá ser imputada unicamente a morte de Russel;"
+      },
+      {
+        "letra": "C",
+        "texto": "não poderá ser imputada a exposição de risco de Jack;"
+      },
+      {
+        "letra": "D",
+        "texto": "poderá ser imputada a exposição de risco a terceiros."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "795666",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conduta: ação / omissão",
+      "Imputação objetiva",
+      "Autoria e coautoria",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada, logo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio consumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada por engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio consumado."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma conduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico. Pressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do tipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A imputação objetiva constitui elemento normativo implícito do tipo penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos de interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela utilização de outro como instrumento de realização; também quem, mesmo não executando o fato típico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do plano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e desenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação ocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em legítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma teoria, a culpabilidade não é psicológica, nem psicológico-normativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "775140",
+    "metadata": "Ano: 2017 | Banca: FAUEL | Órgão: Câmara de Maria Helena - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, “o resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa”. Ainda de acordo com o Código Penal, considera-se causa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação ou omissão, mesmo que incapaz de causar o resultado previsto no tipo penal."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação ou omissão sem a qual o resultado não teria ocorrido."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação ou omissão imaginada pelo sujeito, mesmo que sem efetiva materialização ou exteriorização."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a ação pode ser considerada causa, pois a omissão não pode gerar resultado penalmente punível."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "643112",
+    "metadata": "Ano: 2015 | Banca: Prefeitura de Fortaleza - CE | Órgão: Prefeitura de Fortaleza - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Consumação e tentativa",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "Quanto à teoria do crime, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A superveniência de causa relativamente independente não exclui a imputação quando, por si só, produziu o resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "O resultado de que depende a existência do crime somente é imputável a quem lhe deu causa."
+      },
+      {
+        "letra": "C",
+        "texto": "A omissão não é penalmente relevante quando o omitente devia e podia agir para evitar o resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "Salvo disposição em contrário, não se pune a tentativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "514871",
+    "metadata": "Ano: 2015 | Banca: FMP Concursos | Órgão: DPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "A é esfaqueada por B, sofrendo lesões corporais leves. Socorrida e medicada, A é orientada quanto aos cuidados a tomar, mas não obedece à prescrição médica e em virtude dessa falta de cuidado, o ferimento infecciona, gangrena, e ela morre. Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B responde pelo resultado morte, visto se tratar de causa superveniente absolutamente independente."
+      },
+      {
+        "letra": "B",
+        "texto": "B responde pelo ato de lesão praticado, visto se tratar de causa concomitante relativamente independente."
+      },
+      {
+        "letra": "C",
+        "texto": "B responde pelo resultado morte, visto se tratar de causa concomitante absolutamente independente."
+      },
+      {
+        "letra": "D",
+        "texto": "B responde pelo resultado morte, visto se tratar de causa preexistente relativamente independente."
+      },
+      {
+        "letra": "E",
+        "texto": "B responde pelo ato de lesão anteriormente praticado, visto se tratar de causa superveniente relativamente independente, que por si só produziu o resultado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "467949",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "Fernando deu início à execução de um delito material, praticando atos capazes de produzir o resultado lesivo. Todavia, aliou-se à sua ação uma concausa I. preexistente, absolutamente independente em relação à conduta do agente que, por si só, produziu o resultado. II. concomitante, absolutamente independente em relação à conduta do agente que, por si só, produziu o resultado. III. superveniente, relativamente independente em relação à conduta do agente, situada na mesma linha de desdobramento físico da conduta do agente, concorrendo para a produção do resultado. IV. superveniente, relativamente independente em relação à conduta do agente, sem guardar posição de homogeneidade em relação à conduta do agente e que, por si só, produziu o resultado. O resultado lesivo NÃO será imputado a Fernando, que responderá apenas pelos atos praticados, nas situações indicadas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "444786",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "Analise o caso a seguir. Mediante um disparo com arma de fogo, o agente produziu na vítima um ferimento. Por considerar que o disparo fosse suficiente para causar a morte da vítima, o agente cessou sua ação. Recolhida a um hospital, a vítima morreu pela ingestão de uma substância tóxica, que ao invés do medicamento prescrito, lhe ministrou inadvertidamente uma enfermeira. As lesões sofridas pela vítima inicialmente não lhe causariam morte, sendo esta causada exclusivamente pela ingestão da substância tóxica. Na hipótese, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente da agressão responderá por lesões corporais e a enfermeira, por homicídio culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente da agressão responderá por homicídio doloso consumado e a enfermeira, por homicídio culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente da agressão responderá por homicídio doloso tentado e a enfermeira, por homicídio culposo."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente da agressão e a enfermeira responderão por homicídio consumado em concurso de pessoas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "429597",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "No tocante à relação de causalidade no crime (art. 13, Código Penal), analise as seguintes assertivas e escolha a opção que contenha afirmação falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A superveniência de causa relativamente independente, que, por si só, produz o resultado, exclui a imputação original, mas os fatos anteriores são imputados a quem os praticou."
+      },
+      {
+        "letra": "B",
+        "texto": "A relação de causalidade relevante para o Direito Penal é a que é previsível ao agente. A cadeia causal, aparentemente infinita sob a ótica naturalística, é limitada pelo dolo ou pela culpa do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "As concausas absolutamente independentes excluem a causalidade da conduta."
+      },
+      {
+        "letra": "D",
+        "texto": "A relação de causalidade tem relevância nos crimes materiais ou de resultado e nos formais ou de mera conduta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "402704",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "A respeito do princípio da legalidade, da relação de causalidade, dos crimes consumados e tentados e da imputabilidade penal, julgue os itens seguintes.Considere que Alfredo, logo depois de ter ingerido veneno com a intenção de suicidar-se, tenha sido alvejado por disparos de arma de fogo desferidos por Paulo, que desejava matá-lo. Considere, ainda, que Alfredo tenha morrido em razão da ingestão do veneno. Nessa situação, o resultado morte não pode ser imputado a Paulo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "388799",
+    "metadata": "Ano: 2013 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "A relação de causalidade sempre foi um tema assaz debatido na doutrina. Em sua obra imortal, o mestre Nélson Hungria destacou mais de uma dezena de teorias sobre o ponto. Nesse mote, analise os itens abaixo e marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"Dizia Binding, ironicamente, que a teoria da equivalência, a coberto de limites, levaria a punir-se como participe de adultério o carpinteiro que fabricou o leito em que se deita o par amoroso\" (HUNGRIA, Nélson. Comentários ao Código Penal. Vol. I, Tomo 11, 53 ed., Rio de Janeiro: Forense, 1978, p. 66). Com o escopo de obstar esse regressus ad infinitum, deve-se interromper a cadeia causal no instante em que não houver dolo ou culpa por parte daquelas pessoas que tiveram alguma importância na produção do resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "durante um assalto, a vitima, apavorada com a arma de fogo que lhe é apontada, morre de ataque cardíaco. Por sua vez, o autor apodera-se do bem e foge. Estando-se diante de uma causa relativamente independente concomitante, que mantém Integra a relação de causalidade, deve o agente responder pelo latrocínio."
+      },
+      {
+        "letra": "C",
+        "texto": "o Código Penal acolheu, como regra, a teoria da conditio sine que non, que se vale do critério da eliminação hipotética. No entanto, existem situações que não são adequadamente solucionadas pelo emprego da mencionada teoria, sendo o que ocorre, por exemplo, com a dupla causalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "as causas absolutamente independentes - preexistentes, concomitantes e supervenientes - não se originam da conduta do agente e, por isso, são aptas ao rompimento do nexo causal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "352114",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "Armando e Frederico, médicos, ministraram, cada um, em Bruno, paciente que convalescia no leito hospitalar, uma dose de veneno, fazendo-a passar pelo medicamento adequado, o que resultou na morte de Bruno. Tendo essa situação hipotética como referência inicial, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso Armando e Frederico tenham ministrado as doses de veneno sem combinação prévia e sem conhecimento da intenção um do outro, e tenha sido comprovado que apenas uma das doses, embora ministrada no mesmo instante da outra, produziu, por si só, a morte de Bruno, ambos os agentes devem responder pela morte de Bruno, ainda que seja impossível determinar o autor da aplicação da dose letal, visto que a morte teria ocorrido necessariamente por uma ou por outra condição."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, além de haver recebido as duas doses letais de veneno ministradas por Armando e Frederico, Bruno, ainda vivo, fosse vítima de outra ação, dolosa ou culposa, de terceiro, e viesse a falecer em seguida a essa terceira ação posterior, Armando e Frederico não poderiam ser responsabilizados pelo resultado morte."
+      },
+      {
+        "letra": "C",
+        "texto": "Ainda que Armando e Frederico tenham agido em conjunto e de comum acordo, seria indispensável a aplicação do critério da prognose posterior objetiva para se proceder à imputação objetiva do resultado morte aos dois agentes, em concurso, a despeito da comprovação de que o envenenamento tenha sido a causa da morte de Bruno."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso Armando e Frederico tenham ministrado as doses de veneno no mesmo instante, sem combinação prévia e sem conhecimento da intenção um do outro, e tenha sido comprovado que cada uma das doses produziu seu efeito de forma instantânea, e que cada uma delas, isoladamente, era suficiente para matar, o fato configuraria dupla causalidade alternativa, mostrando-se inadequada a aplicação pura e simples da fórmula da eliminação hipotética, cuja correção, nesta situação, pode ser feita pela fórmula da eliminação global."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso Armando e Frederico, com a intenção de matar, tenham, individualmente, sem combinação prévia e sem conhecimento da intenção um do outro, ministrado doses de veneno que, isoladamente, fossem insuficientes para produzir a morte de Bruno, eles deveriam responder, de forma individual, por tentativa de homicídio, apesar da ocorrência do resultado morte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "340790",
+    "metadata": "Ano: 2013 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como exceção à teoria da equivalência dos antecedentes causais, para o Código Penal a imputação do resultado ao agente somente pode ser afastada por causa preexistente."
+      },
+      {
+        "letra": "B",
+        "texto": "Para o Código Penal, causas preexistentes e concomitantes relativamente independentes, adentrando a esfera de consciência do agente, não excluem a imputação do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "É exemplo de causa superveniente absolutamente independente a situação do passageiro de ônibus colidido com poste de eletricidade, o qual, ileso e no exterior do veículo, morre atingido por fio energizado."
+      },
+      {
+        "letra": "D",
+        "texto": "Na omissão própria, o nexo de causalidade normativo é estabelecido pelo legislador penal a partir da posição de garante."
+      },
+      {
+        "letra": "E",
+        "texto": "Não caracteriza homicídio, ainda que sobrevenha o resultado morte, a conduta de quem dolosamente interrompe eficaz ação de salvamento da vítima por outrem."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "318318",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "Com base no direito penal brasileiro, julgue os itens a seguir. Considere a seguinte situação hipotética. Júlio, com intenção de matar Maria, disparou tiros de revólver em sua direção. Socorrida, Maria foi conduzida, com vida, de ambulância, ao hospital; entretanto, no trajeto, o veículo foi abalroado pelo caminhão de José, que ultrapassara um sinal vermelho, tendo Maria falecido em razão do acidente. Nessa situação, Júlio deverá responder por tentativa de homicídio e José, por homicídio culposo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "315292",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "As causas ou concausas absolutamente independentes e as causas relativamente independentes constituem limitações ao alcance da teoria da equivalência das condições.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "307418",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "No que diz respeito à relação de causalidade, à superveniência de causa independente e à relevância da omissão no direito penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria adotada pelo CP tem como inconveniente a possibilidade de se levar ad infinitum a pesquisa da causa, abrangendo todos os agentes das causas anteriores, sendo limitada pelo dolo ou culpa da conduta e do vínculo objetivo do agente com a ação."
+      },
+      {
+        "letra": "B",
+        "texto": "A exclusão do nexo de causalidade ocorre nas concausas absolutamente independentes quando estas forem supervenientes, mas não ocorre quando estas forem preexistentes ou concomitantes."
+      },
+      {
+        "letra": "C",
+        "texto": "A relevância causal da omissão diz respeito tão somente aos crimes omissivos próprios, em face da relação causal objetiva preconizada pelo CP."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com preceito expresso no CP, a relação de causalidade limita-se aos crimes materiais."
+      },
+      {
+        "letra": "E",
+        "texto": "O CP adota a teoria da causalidade jurídica, uma vez que a causalidade relevante para o direito penal é aquela que pode ser prevista pelo agente, ou seja, que se encontra na esfera da previsibilidade, podendo ser mentalmente antecipada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "302735",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TCE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Causas absolutamente independentes",
+      "Causas relativamente independentes"
+    ],
+    "enunciado_principal": "A respeito da relação de causalidade, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o evento resultou de causa absolutamente independente, o agente por ele responde a título de culpa."
+      },
+      {
+        "letra": "B",
+        "texto": "Concausa é a confluência de uma causa na produção de um mesmo resultado, estando lado a lado com a ação do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado, imputando-se, porém, os fatos anteriores a quem os praticou."
+      },
+      {
+        "letra": "D",
+        "texto": "O Código Penal brasileiro considera causa a ação ou omissão sem a qual o resultado não teria ocorrido."
+      },
+      {
+        "letra": "E",
+        "texto": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "269824",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "No que diz respeito à relação de causalidade, à superveniência de causa independente e à relevância da omissão, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao tratar da omissão, em todas as suas formas, o CP proíbe resultado desvalorado pelo ordenamento jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "O delito omissivo próprio consuma-se com o resultado previsto pela norma, visto que é elemento do tipo de injusto."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando preexistentes, as causas absolutamente independentes, de acordo com o que dispõe o CP, não excluem o nexo causal, visto que sua existência é anterior ao resultado e que elas são deflagradas por ação ou omissão do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "No sistema penal brasileiro, é adotada a teoria da equivalência das condições, ou da conditio sine qua non, sendo considerada causa a condição sem a qual o resultado não teria ocorrido, o que limita a amplitude do conceito de causa com a superveniência de causa independente."
+      },
+      {
+        "letra": "E",
+        "texto": "As causas concomitantes absolutamente independentes não excluem o nexo causal, ocorrendo este apenas nas causas supervenientes."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

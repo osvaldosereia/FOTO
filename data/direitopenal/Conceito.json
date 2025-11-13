@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1792070",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Dosimetria",
+      "Ação penal",
+      "Conceito",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades"
+    ],
+    "enunciado_principal": "No que se refere ao Código Penal, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. ( ) No caso de morte do ofendido ou de ter sido declarado ausente por decisão judicial, o direito de oferecer queixa ou de prosseguir na ação passa ao cônjuge, ascendente, descendente ou irmão. ( ) A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo 109 do Código Penal, os quais se aumentam de um sexto, se o condenado é reincidente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "F – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "F – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "V – F – V."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "936128",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Conceito",
+      "Causas de extinção da punibilidade",
+      "Perempção",
+      "Renúncia",
+      "Perdão do ofendido"
+    ],
+    "enunciado_principal": "Considerando a jurisprudência dos tribunais superiores no que se refere a ação penal pública e privada, a crimes contra a fé pública e a crimes contra a ordem tributária, julgue o item seguinte.A renúncia, o perdão e a perempção extinguem a punibilidade na ação penal privada e na ação pública condicionada a representação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

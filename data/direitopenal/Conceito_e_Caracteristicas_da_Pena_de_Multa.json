@@ -1,0 +1,579 @@
+[
+  {
+    "id": "2459919",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Interrupção e suspensão da contagem dos prazos prescricionais"
+    ],
+    "enunciado_principal": "Sobre a extinção da punibilidade pela prescrição, analise as afirmativas a seguir. I. O período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada. II. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal, aplicáveis as normas relativas à dívida ativa da Fazenda Pública e do Código Tributário Nacional no que concerne aos prazos e às causas interruptivas e suspensivas da prescrição. III. Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subsequentes ser havidos como continuação do primeiro, aplicar-se-á a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de 1/6 a 2/3, regulando-se a prescrição pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação. IV. O prazo para a prescrição da pretensão executória somente começa a correr no dia em que a sentença condenatória transita em julgado para ambas as partes, exceto para os processos com trânsito em julgado para a acusação ocorridos até 11/11/2020, em que a prescrição ainda não tenha sido analisada. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1981670",
+    "metadata": "Ano: 2022 | Banca: FADESP | Órgão: SEFAZ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Espécies de Pena de Multa",
+      "Dosimetria"
+    ],
+    "enunciado_principal": "A pena de multa é uma espécie de sanção penal que possui natureza patrimonial e que, na grande maioria das vezes, é cominada no preceito secundário da norma penal (pena cominada) de forma isolada ou cumulada com a pena de prisão (pena corporal). Sobre a pena de multa, de acordo com o Código Penal, é correto afirmar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na condenação igual ou inferior a um ano, a substituição pode ser feita por multa e por uma pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "a pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 5 (cinco) e, no máximo, de 300 (trezentos) dias-multa."
+      },
+      {
+        "letra": "C",
+        "texto": "a multa deve ser paga dentro de 15 (quinze) dias depois de transitada em julgado a sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "desprezam-se, na pena de multa, as frações da moeda corrente."
+      },
+      {
+        "letra": "E",
+        "texto": "transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal, não sendo considerada dívida de valor, sendo aplicáveis, contudo, as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1981458",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Dosimetria"
+    ],
+    "enunciado_principal": "As penas de multa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrevem em um ano quando a multa for a única cominada ou aplicada."
+      },
+      {
+        "letra": "B",
+        "texto": "deverão ser pagas dentro de um ano depois de transitada em julgado a sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "podem substituir as penas privativas de liberdade iguais ou inferiores a um ano."
+      },
+      {
+        "letra": "D",
+        "texto": "são aplicadas distinta e integralmente no concurso de crimes."
+      },
+      {
+        "letra": "E",
+        "texto": "são extintas se sobrevém ao condenado doença mental."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1952905",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "Sobre a pena de multa, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá ser calculada após a recuperação do réu, se prevista em abstrato como pena cumulada com a de prisão, em caso de reconhecimento da inimputabilidade na sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "consiste no pagamento ao fundo judiciário ou à vítima do delito de certa quantia fixada na sentença, atualizada, em caso de execução, pelos índices de correção monetária."
+      },
+      {
+        "letra": "C",
+        "texto": "deve ser paga dentro do prazo de 10 dias da publicação da sentença, permitido o pagamento em parcelas a pedido do condenado."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá ser descontada do vencimento ou salário do condenado quando aplicada cumulativamente com a pena privativa de liberdade, nos limites mínimo de um décimo e máximo da quarta parte da remuneração."
+      },
+      {
+        "letra": "E",
+        "texto": "a quantia fixada será de, no mínimo, 10 e, no máximo, 360 dias-multa, entre um trigésimo do maior salário mínimo vigente e 5 vezes esse salário, valor total que poderá ser aumentado até o décuplo diante da situação econômica do condenado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1836849",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "A pena de multa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "constitui dívida de valor e deve ser cobrada pela Fazenda Pública, conforme entendimento do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser cobrada mediante desconto no vencimento ou salário do condenado."
+      },
+      {
+        "letra": "C",
+        "texto": "consiste no pagamento de indenização à vítima e é calculada em dias-multa."
+      },
+      {
+        "letra": "D",
+        "texto": "só pode ser convertida em pena privativa de liberdade se comprovado que o condenado tem condições de pagá-la, mas não o faz, garantido o devido processo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser aplicada cumulativamente à pena privativa de liberdade, vedada sua aplicação isoladamente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1120085",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "No que concerne às penas previstas no Código Penal brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O trabalho externo não é admissível para os condenados em regime fechado."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de multa deve ser paga no prazo máximo de um mês após o trânsito em julgado da sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "São espécies de penas restritivas de direitos: interdição temporária de direitos, prestação de serviço à comunidade e pagamento de multa."
+      },
+      {
+        "letra": "D",
+        "texto": "As penas restritivas de direitos apenas serão aplicáveis em substituição à pena privativa de liberdade fixada em quantidade inferior a dois anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A limitação de final de semana é uma das penas restritivas de direitos, devendo o condenado permanecer em casa de albergado por cinco horas diárias aos finais de semana."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "896381",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Dosimetria"
+    ],
+    "enunciado_principal": "É certo afirmar: I. A finalidade do conceito analítico do crime é a análise dos seus caracteres e elementos, por isso seu foco são os elementos ou requisitos do delito, onde é entendido como conduta típica, antijurídica e culpável (conceito tripartido, teoria clássica ou tridimensional), ou apenas conduta típica e antijurídica, ou ainda, como fato típico, antijurídico e punível abstratamente. II. Trata-se de concurso formal quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido. No caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro aquela. III. Na fixação da pena de multa o juiz deve atender, principalmente, à situação social do réu. IV. A continuidade temporal e espacial não é um requisito invariável do delito continuado, mas pode ser um indício da continuidade. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "863417",
+    "metadata": "Ano: 2017 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "Praticado um crime de roubo em continuidade delitiva, contra três vítimas distintas, o réu foi condenado, após regular processo, à pena privativa de liberdade e multa. Como será calculada a pena de multa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena do crime de roubo de maior gravidade"
+      },
+      {
+        "letra": "B",
+        "texto": "A pena do crime mais grave incrementada de acordo com a condição econômica do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena de um crime de roubo acrescida de um terço."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena de um crime de roubo acrescida de dois terços."
+      },
+      {
+        "letra": "E",
+        "texto": "A soma das multas relativas aos três roubos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "855884",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Praticada a infração penal, surge para o Estado o direito de aplicar a sanção cominada abstratamente na lei, como forma, tanto de retribuição ao mal causado pelo agente criminoso, como, ainda, de prevenção e intimidação, a fim de se evitar que novos delitos sejam cometidos. Diante de tal contexto, analise as proposições abaixo. I. Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é permitido a substituição da prisão por multa. II. A legitimidade para a execução fiscal de multa pendente de pagamento imposta em sentença condenatória é exclusiva do Ministério Público. III. A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial. IV. A imposição do regime de cumprimento mais severo, do que a pena aplicada permitir, exige motivação idônea. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "834976",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Substituição - Concessão.",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "Depois de finalizado o devido processo legal, um indivíduo foi condenado à pena concreta mínima de um ano de reclusão e de dez dias-multa por ter praticado crime de estelionato. De acordo com o Código Penal e com o entendimento dos tribunais superiores, nesse caso é permitido ao juiz, na sentença condenatória,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "converter a pena de reclusão aplicada em duas penas restritivas de direitos, sendo uma de prestação de serviços comunitários e outra de prestação pecuniária."
+      },
+      {
+        "letra": "B",
+        "texto": "estabelecer prestação de serviços comunitários como condição do regime aberto."
+      },
+      {
+        "letra": "C",
+        "texto": "aplicar o regime aberto, ainda que o condenado seja reincidente."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelecer regime mais severo que o permitido em lei, ainda que a pena base tenha se mantido no mínimo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "converter a pena de reclusão aplicada em uma pena de multa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1328418",
+    "metadata": "Ano: 2016 | Banca: TJ-AC | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "Em relação à pena de multa, é acertado afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obrigação de pagá-la é transmissível aos herdeiros."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode ser convertida em detenção."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ser aumentada até o triplo, se o juiz, em virtude da situação econômica do réu, verificar a sua ineficácia, embora aplicada no máximo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não admite atualização do valor pelos índices de correção monetária."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "560616",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "Sobre a pena de multa é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na lei de drogas, sua previsão é proporcional à condição econômica das pessoas concretamente selecionadas pela política criminal respectiva."
+      },
+      {
+        "letra": "B",
+        "texto": "A fração de pena a ser cumprida como requisito objetivo para o indulto inclui a pena de multa aplicada cumulativamente à pena privativa de liberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "A comutação da pena restritiva de direitos não alcança a pena de multa cumulativamente aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não possui caráter estigmatizante, que é próprio da pena privativa de liberdade."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível a extinção da punibilidade independentemente do pagamento da multa aplicada cumulativamente à pena privativa de liberdade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "530898",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "O critério judicial legalmente estabelecido para a fixação da pena pecuniária, na Parte Geral do Código Penal, vincula o juiz à observância, preponderantemente quanto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aos danos sociais provocados pelo crime."
+      },
+      {
+        "letra": "B",
+        "texto": "à situação econômica do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente e aos motivos, às circunstâncias e consequências do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente e ao prejuízo sofrido pela vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "às consequências do crime para a vítima."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "542781",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "A respeito da pena pecuniária, julgue o item abaixo.A multa aplicada cumulativamente com a pena de reclusão pode ser executada em face do espólio, quando o réu vem a óbito no curso da execução da pena, respeitando-se o limite das forças da herança.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "470159",
+    "metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Espécies de Pena de Multa",
+      "Dosimetria",
+      "Ação penal",
+      "Ação penal no crime de lesão corporal",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Lesões corporais qualificadas",
+      "Violência doméstica",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Sujeito teve decretada a prisão preventiva na ação penal em que lhe foi imputada a prática de roubo qualificado, possuindo ele ainda outra ação penal por lesão corporal grave contra a sua companheira e uma terceira por porte ilegal de arma de fogo. Os dois primeiros julgamentos foram designados para a mesma data e o magistrado, a pedido da acusação, absolveu inicialmente Sujeito da prática do roubo. Caso ele venha a ser condenado pela agressão à companheira, o tempo em que esteve preso, preventivamente, deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "levado em conta na sentença condenatória da lesão corporal grave e funcionar como causa de redução da pena para incidência da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "considerado apenas para eventual pedido de indenização no juízo cível."
+      },
+      {
+        "letra": "C",
+        "texto": "levado em conta para fins de detração na execução da sanção penal a ser cumprida."
+      },
+      {
+        "letra": "D",
+        "texto": "calculado como dias remidos e subtraído do montante da pena imposta."
+      },
+      {
+        "letra": "E",
+        "texto": "observado pelo juízo criminal na sentença condenatória para cálculo da prestação de serviços à comunidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "311434",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa"
+    ],
+    "enunciado_principal": "O pagamento da pena de multa deverá ser revertido à instituição financeira lesada pelo delito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "336282",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Consumação e tentativa",
+      "Desistência voluntária e arrependimento eficaz",
+      "Penas privativas de liberdade",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Com relação a tentativa e a circunstâncias agravantes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Configura-se mera tentativa de extorsão o fato de o ameaçado vencer o temor inspirado e deixar de atender à imposição do agente, solicitando, confiantemente, a intervenção policial."
+      },
+      {
+        "letra": "B",
+        "texto": "A tentativa de furto de bens avaliados em R$ 400,00 sempre enseja a aplicação do princípio da insignificância ante o inexpressivo valor da res furtiva."
+      },
+      {
+        "letra": "C",
+        "texto": "É firme a jurisprudência do STJ no sentido de que condenação anterior a pena de multa afasta a reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de delitos da competência do tribunal do júri, a resposta positiva dos jurados ao quesito referente à tentativa de homicídio implica recusa ao quesito da desistência espontânea."
+      },
+      {
+        "letra": "E",
+        "texto": "Homicídio motivado por ciúme doentio e injustificável do agente em relação à vítima não configura motivo fútil."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

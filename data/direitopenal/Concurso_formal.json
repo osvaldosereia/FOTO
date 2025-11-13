@@ -1,0 +1,3401 @@
+[
+  {
+    "id": "3272323",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "José e Maria estavam embarcando em sua motocicleta quando foram rendidos por João, armado com arma de fogo e anunciando um assalto. Maria reagiu e João atirou contra o casal, matando os dois, e depois fugiu com a motocicleta deles. Com base no CP e na jurisprudência do STJ, é correto afirmar que o relato reflete caso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dois crimes de latrocínio em concurso formal."
+      },
+      {
+        "letra": "B",
+        "texto": "Dois crimes de latrocínio em concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "Um único crime de latrocínio."
+      },
+      {
+        "letra": "D",
+        "texto": "Dois crimes de latrocínio em continuidade delitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Dois crimes de homicídio em concurso formal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3260313",
+    "metadata": "Ano: 2025 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "A Lei n° 9.605/1998 veio em resposta ao mandamento constitucional criminalizador contido no § 3° do artigo 225 da Constituição Federal, que dispõe, no caput, que todos têm direito ao meio ambiente ecologicamente equilibrado, por tratar-se de bem de uso comum do povo e essencial à sadia qualidade de vida, bem como que deve impor-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações. Em caso concreto de incêndio em lavoura de uma determinada propriedade com área de preservação permanente, bem como com o alastramento em grandes proporções e atingimento de diversas outras lavouras, o Promotor de Justiça oficiante ofereceu denúncia imputando ao acusado a prática dos crimes definidos nos artigos 250, § 1°, inciso II, letra “h”, do Código Penal e 54, caput, da Lei n° 9.605/1998 (“Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortalidade de animais ou a destruição significativa da flora”). A ação foi julgada integralmente procedente, com confirmação em sede recursal. Levando em consideração os bens jurídicos tutelados dos crimes indicados, bem como o tema do concurso de crimes, tratado no Título V, Capítulo III, artigos 68 a 70, do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reconheceu-se o concurso formal dos crimes imputados na denúncia porque, mediante uma única ação, foram provocados vários resultados típicos, apesar de os bens jurídicos tutelados serem os mesmos."
+      },
+      {
+        "letra": "B",
+        "texto": "Reconheceu-se o crime continuado dos crimes imputados na denúncia, pois, em decorrência de uma ação, foram produzidos vários resultados."
+      },
+      {
+        "letra": "C",
+        "texto": "Reconheceu-se o concurso formal dos crimes imputados na denúncia porque, mediante uma única ação, foram produzidos resultados típicos diferentes, com bens jurídicos tutelados também diferentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Reconheceu-se o concurso material dos crimes imputados na denúncia porque foi atingido o patrimônio de diversas pessoas e o bem comum do povo."
+      },
+      {
+        "letra": "E",
+        "texto": "Reconheceu-se o concurso material dos crimes imputados na denúncia porque foram atingidas diversas propriedades."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3169073",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Em relação à aplicação da lei penal, julgue o item subsecutivo.Suponha que um indivíduo tenha adentrado determinada residência onde havia um casal de idosos, com o objetivo de subtrair-lhes bens, e que, durante a incursão criminosa, tenha efetuado, com desígnios autônomos, disparos de arma de fogo contra o casal, acarretando a morte da esposa e graves ferimentos no marido, que sobreviveu. Nesse caso, está configurado o concurso formal impróprio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3117543",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Lesões corporais"
+    ],
+    "enunciado_principal": "Mário, com a intenção de matar Rodrigo, efetua disparo de arma de fogo a média distância. Mário, porém, tropeça no momento do disparo, atingindo Rodrigo de raspão, no ombro, e vindo a ferir gravemente um desconhecido que caminhava pela rua. O desconhecido é socorrido e considerado fora de perigo, mas a ambulância que o levava ao hospital acaba se envolvendo em um acidente e ele vem a óbito em virtude da colisão. Sobre a responsabilidade penal de Mário, é correto afirmar que Mário responderá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas por homicídio consumado;"
+      },
+      {
+        "letra": "B",
+        "texto": "por duas tentativas de homicídio, em concurso formal;"
+      },
+      {
+        "letra": "C",
+        "texto": "por lesões corporais culposas em concurso formal com homicídio consumado;"
+      },
+      {
+        "letra": "D",
+        "texto": "por lesões corporais culposas em concurso formal com homicídio tentado;"
+      },
+      {
+        "letra": "E",
+        "texto": "por tentativa de homicídio em concurso formal com homicídio culposo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3113328",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a fé pública",
+      "Falsidade ideológica",
+      "Crimes contra a administração pública",
+      "Peculato"
+    ],
+    "enunciado_principal": "No que se refere aos crimes em espécie previstos no Código Penal, julgue o item a seguir, considerando, quando couber, o entendimento dos tribunais superiores. O delito de falsidade ideológica praticado como meio da prática do crime de peculato é incorporado por este, em razão do princípio da consunção.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3100492",
+    "metadata": "Ano: 2024 | Banca: FAPEC | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Legislação Penal Especial",
+      "Lei dos Crimes de Tortura – Lei nº 9.455 de 1997"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Superior Tribunal de Justiça possui entendimento no sentido de que a deformidade permanente, exigida para configuração do crime de lesão corporal gravíssima, deve ser decorrente exclusivamente de lesão física, especificamente a lesão estética de certa monta, capaz de causar desconforto a quem a vê ou ao seu portador, não sendo aplicável a referida circunstância qualificadora em hipótese em que, em razão da ofensa à sua integridade corporal, a vítima fora acometida de transtorno de estresse pós-traumático e alteração permanente da personalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de intimidação sistemática (bullying) é classificado como habitual próprio, dependendo, para sua configuração, da reiteração da conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente que, depois de constranger a vítima, mediante violência, consistente em diversos socos e chutes, causando-lhe sofrimento físico com o fito de obter uma informação, mata-a, a golpes de faca, a fim de garantir sua impunidade em relação a esse crime anterior, pratica crime de tortura simples e homicídio qualificado pela conexão, em concurso formal, e não crime de tortura qualificada pelo resultado morte."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de perseguição pode ser praticado de forma livre, é habitual e de conteúdo variado, ao passo que o delito de violência psicológica contra a mulher é instantâneo e material."
+      },
+      {
+        "letra": "E",
+        "texto": "A prática do golpe popularmente conhecido como “Boa Noite Cinderela”, em que o agente utiliza-se de sonífero para fazer a vítima dormir e com isso ter liberdade para subtrair-lhe coisas móveis, configura crime de roubo mediante violência imprópria."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2457373",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: AL-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "João aproximou-se de três senhoras que caminhavam tranquilamente por uma praça do Município Alfa, e determinou que cada uma delas entregasse o telefone celular e o relógio, mediante grave ameaça, consubstanciada no emprego de arma de fogo. Em seguida, o agente logrou se evadir na posse dos diversos pertences de propriedade das vítimas. Durante as investigações, verificou-se que João praticou os três delitos mediante uma única ação, mas sem que existissem desígnios autônomos. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que João responderá pelos crimes perpetrados em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "continuidade delitiva, pois o agente, mediante uma só ação, praticou três crimes, sendo-lhe aplicável a menos grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um quarto."
+      },
+      {
+        "letra": "B",
+        "texto": "continuidade delitiva, pois o agente, mediante uma só ação, praticou três crimes, sendo-lhe aplicável a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um quinto."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso material, pois o agente, mediante uma só ação, praticou três crimes, sendo-lhe aplicável a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um quinto."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal, pois o agente, mediante uma só ação, praticou três crimes, sendo-lhe aplicável a menos grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um quarto."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal, pois o agente, mediante uma só ação, praticou três crimes, sendo-lhe aplicável a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um quinto."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2414794",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Tendo como base as disposições do Código Penal brasileiro e os entendimentos dos Tribunais Superiores, julgue o item a seguir.Samuel, maior e capaz, na saída de um mercado, ao encontrar seus desafetos, Joaquim, Maria e Matheus em um veículo automotor, aproveitando-se de uma distração deles, atirou uma bomba de gás lacrimogênio no veículo, causando lesões nas vítimas e a morte de uma delas por asfixia. Nessa situação hipotética, Samuel deverá responder por concurso material e formal impróprio de crimes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2367568",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Isabel e os filhos, Carlos, Eduardo e Luiz, crianças de sete, nove e onze anos, comemoravam o aniversário de Carlos, quando foram surpreendidos pela entrada de Caio no imóvel. Caio, sob influência de álcool, exibiu arma de fogo a Isabel e sua família para impedir que eles resistissem, e, assim, subtrair os pertences dela. Assustado, Luiz começou a chorar e a gritar por socorro, após o que Carlos o agrediu com coronhadas para que permanecesse em silêncio e garantir o sucesso da empreitada. Isabel, então, colocou-se entre Carlos e o filho, após o que Carlos atirou na cabeça de Isabel e de seus filhos, que vieram a óbito. Na sequência, Carlos pegou o computador, as joias e a quantia de R$20.000,00, quantia esta que Isabel escondia no armário. Após, evadiu-se do local, na posse dos mencionados bens de Isabel. Do lado de fora do imóvel, estava Pedro, pessoa com quem Carlos ajustou que iria praticar o furto, enquanto ele vigiava a aproximação de policiais, mas que estava ciente de que Carlos trazia com ele arma de fogo. Diante destes fatos, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos, de acordo com a jurisprudência mais atual tanto do Supremo Tribunal como do Superior Tribunal de Justiça, deverá responder, em concurso material por quatro latrocínios."
+      },
+      {
+        "letra": "B",
+        "texto": "Carlos, segundo a jurisprudência mais atual tanto do Supremo Tribunal como do Superior Tribunal de Justiça, deverá responder, em concurso formal impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "Carlos, nos termos da jurisprudência mais atual tanto do Supremo Tribunal como do Superior Tribunal de Justiça, restará configurada a continuidade delitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A pluralidade de vítimas de violência não afasta, pelo Supremo Tribunal Federal, quando há subtração de um só patrimônio, o reconhecimento de crime único de latrocínio."
+      },
+      {
+        "letra": "E",
+        "texto": "Configurada hipótese de cooperação dolosamente distinta, nos termos do Art. 29, caput, do Código Penal, Pedro deve responder por furto, não sendo caso de se reconhecer dolo eventual por parte de Pedro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2360681",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Numa repartição militar em um país em guerra, soldados cumpriram ordens de superiores para executar todos os prisioneiros. Assim, Klaus acionou um botão de um dispositivo com gás letal, levando intencionalmente à morte por asfixia de 10 prisioneiros de uma cela. Thomas deu um tiro de fuzil em um prisioneiro, porém o projétil atingiu acidentalmente mais uma pessoa, levando ambas ao óbito. Por fim, Mark foi perseguindo e executando prisioneiros, tendo matado 8 pessoas, uma em cada cela. Diante da situação hipotética narrada, analise as condutas de Klaus, Thomas e Mark e assinale a afirmativa correta acerca do concurso de crimes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta de Klaus compreende o concurso formal imperfeito, a conduta de Thomas compreende concurso formal perfeito e a conduta de Mark pode se amoldar ao concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de Klaus compreende o concurso formal perfeito, a conduta de Thomas corresponde ao crime continuado e a conduta de Mark se amolda ao concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta de Klaus compreende o concurso formal imperfeito, a conduta de Thomas corresponde ao crime continuado e a conduta de Mark se amolda ao crime continuado específico."
+      },
+      {
+        "letra": "D",
+        "texto": "Klaus, Thomas e Mark devem responder integralmente pelas penas do crime de homicídio na forma do concurso material."
+      },
+      {
+        "letra": "E",
+        "texto": "Klaus, Thomas e Mark devem responder pelas penas do crime de homicídio na forma do crime continuado específico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2316027",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TCE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "A respeito do concurso de crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há impedimento para que a pena resultante da aplicação da regra do concurso formal ultrapasse aquela que seria obtida pela sistemática do concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "No concurso formal de crimes, as penas dos delitos devem ser somadas, independentemente da relação entre as ações."
+      },
+      {
+        "letra": "C",
+        "texto": "A fixação da pena de multa não obedece à regra de aumento prevista para as penas privativas de liberdade nos casos de concurso formal próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "O concurso material de crimes ocorre quando um agente, por meio de ação única, comete duas ou mais infrações penais, com a utilização de diferentes meios ou recursos."
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso ideal de crimes, as penas são somadas, não havendo previsão de aplicação do sistema de exasperação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2207114",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "No que diz respeito ao direito penal, julgue o item a seguir.Configurado o concurso formal impróprio ou o crime continuado, adota-se o sistema da exasperação da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2193852",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGM - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Marcos foi denunciado e condenado pela prática dos delitos de peculato e falsificação de documento público. As penas foram fixadas em 2 anos e 10 dias-multa para cada um dos delitos. Na sentença, considerando que, mediante uma única ação com desígnios autônomos, o réu praticou dois crimes distintos, o juízo aumentou a reprimenda em 1/6, fixando a sanção definitiva, em relação à pena privativa de liberdade, em 2 anos e 4 meses.Considerando a situação hipotética apresentada, é correto afirmar que houve o reconhecimento do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime continuado, caso em que a aplicação das penas de multa deve seguir o sistema do cúmulo material."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal de crimes, caso em que a aplicação das penas de multa deve seguir o sistema da exasperação."
+      },
+      {
+        "letra": "C",
+        "texto": "crime continuado, caso em que a aplicação das penas de multa deve seguir o sistema da exasperação."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso material de crimes, caso em que a aplicação das penas de multa deve seguir o sistema do cúmulo material"
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal de crimes, caso em que a aplicação das penas de multa deve seguir o sistema do cúmulo material."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2183273",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Dexter ingressou em um ônibus e, mediante grave ameaça, consistente em emprego de arma de fogo, determinou que os passageiros lhe entregassem os seus bens. Nesse contexto, três diferentes passageiros, sem qualquer vínculo entre si, entregaram os seus telefones celulares ao autor do delito, o qual, ato contínuo, evadiu-se. Nesse cenário, considerando o disposto no Código Penal e a jurisprudência dominante dos Tribunais Superiores, é correto afirmar que Dexter responderá pela prática de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "três crimes de roubo, qualificados pelo emprego de arma de fogo, em continuidade delitiva;"
+      },
+      {
+        "letra": "B",
+        "texto": "três crimes de roubo, circunstanciados pelo emprego de arma de fogo, em concurso material;"
+      },
+      {
+        "letra": "C",
+        "texto": "três crimes de roubo, circunstanciados pelo emprego de arma de fogo, em concurso formal;"
+      },
+      {
+        "letra": "D",
+        "texto": "um crime de roubo, circunstanciado pelo emprego de arma de fogo;"
+      },
+      {
+        "letra": "E",
+        "texto": "um crime de roubo, qualificado pelo emprego de arma de fogo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2059105",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Quando o agente, mediante uma só ação, quer e obtém dois resultados distintos, ocorre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime continuado."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso material homogêneo."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso material heterogêneo."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal impróprio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2078705",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "O instituto de aplicação de pena que soluciona problemas concretos em que a regra de aplicação do concurso formal é mais prejudicial ao agente que o concurso material se denomina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ne bis in idem."
+      },
+      {
+        "letra": "B",
+        "texto": "crime continuado."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso material benéfico."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal imperfeito."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal impróprio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2006438",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Caim foi preso e denunciado duas vezes por cometimento do crime de roubo qualificado em concurso material, por ter, de posse de uma arma de fogo, abordado um casal e roubado os celulares das vítimas. Na defesa prévia, o advogado do denunciado alegou que a denúncia não poderia ser recebida porque: 1) não existe o concurso material de dois roubos, pois, apesar de existirem duas vítimas, foi realizado somente em um ato; 2) a qualificadora do crime de roubo pelo uso da arma de fogo não pode subsistir, uma vez que não há perícia da arma juntada nos autos, logo não há materialidade para sustentar a qualificadora, ante o fato de não ter sido apreendida a arma; 3) o denunciado não tinha dolo do roubo, somente cometendo o ato, pois precisava usar o celular para fazer uma ligação para sua mãe doente e estava voltando para devolver logo após, no momento em que foi preso em flagrante e 4) também não poderia ser recebida, pois o celular roubado possuía valor muito baixo sendo celular “comprado em camelô” do tipo “Smartphone Xing Ling”, custando somente cinquenta reais, devendo ser aplicado o princípio da insignificância. Como Promotor de Justiça, em resposta à defesa prévia apresentada e ao recebimento da denúncia, aponte a correta manifestação ministerial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denúncia deve ser integralmente recebida, não havendo qualquer reparação na peça acusatória, uma vez que realizou a grave ameaça contra duas vítimas, sendo irrelevante a juntada da perícia para configuração da qualificadora do uso de arma de fogo, e ainda que teve o elemento subjetivo específico de subtrair a coisa para si e, por fim, que o valor do bem subtraído não justifica a aplicação do princípio da insignificância, pois o ato foi praticado com grave ameaça e uso de arma de fogo."
+      },
+      {
+        "letra": "B",
+        "texto": "A denúncia deve ser parcialmente recebida, uma vez que deve ser acolhida a tese de crime único, afastando-se o concurso material de crimes, pois foi realizado somente um ato, bem como afastada a qualificadora, pois se verificou que realmente não foi juntada, na fase investigatória, a perícia da arma, que sequer foi apreendida, e mantido os demais termos da denúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "A denúncia não deve ser recebida, pois, como o denunciado estava indo devolver o celular furtado que era de baixo valor, não subsiste o crime de roubo, restando somente o crime de ameaça, que deve ser apurado perante o Juizado Especial Criminal."
+      },
+      {
+        "letra": "D",
+        "texto": "A denúncia deve ser parcialmente recebida, pois se verificou que realmente não foi juntada, na fase investigatória, a perícia da arma, que sequer foi apreendida, devendo ser afastada a qualificadora e mantidos os demais termos da denúncia."
+      },
+      {
+        "letra": "E",
+        "texto": "A denúncia deve ser parcialmente recebida, uma vez que o roubo praticado contra vítimas diferentes em um único contexto configura o concurso formal e não crime único, afastando-se o concurso material de crimes, pois foi realizado somente um ato, devendo-se manter os demais termos da denúncia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1945463",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado",
+      "Participação"
+    ],
+    "enunciado_principal": "Considerando as disposições relativas ao concurso de pessoas e de crimes, constantes do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Praticado o crime em coautoria, todos que concorreram à prática delitiva serão punidos de forma idêntica. Apenas ao que, comprovadamente, quis participar de crime menos grave, ser-lhe-á aplicada a pena deste."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime continuado só é reconhecido quando em causa crimes da mesma espécie, assim considerados os de idêntico tipo penal."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de concurso formal, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, as penas serão aplicadas cumulativamente."
+      },
+      {
+        "letra": "D",
+        "texto": "A participação, na modalidade de instigação, é punida, ainda que o crime não chegue a ser, ao menos, tentado."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de participação de menor importância, a critério do Juiz, a pena pode deixar de ser aplicada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1943265",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TJ-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Considere que, ao praticar roubo em um ônibus, o agente tenha submetido ao ato três vítimas, uma sucessivamente à outra, encerrando toda a sua ação ao saltar pela janela do veículo. Nesse caso, houve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo na forma de crime continuado."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso material heterogêneo de crimes."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo na forma de crime único."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso material homogêneo de crimes."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal de crimes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1900321",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: SERES-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Quando o agente, com uma única ação dolosa, pratica dois ou mais crimes, mas cada qual resultante de desígnio autônomo, ocorre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso material homogêneo de crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal próprio de crimes."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal impróprio de crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "crime continuado."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso material heterogêneo de crimes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1899397",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Igor, inconformado por saber que seu amigo Silvio teria trocado mensagens de cunho sexual com sua esposa, decide matá-lo. Para tanto, espera Silvio na saída do trabalho e, da calçada, efetua um único disparo com sua pistola na direção de Silvio. Após atingir Silvio e causar a sua morte, o projétil também atinge Roberto, que passava pelo local e não tinha nenhuma relação com o autor ou a vítima. Roberto sofre apenas lesão corporal, visto que foi atingido de raspão. Igor é preso em flagrante e indiciado pela prática dos crimes de Homicídio qualificado (Art. 121 §2º do Código Penal - pena 12 a 30 anos de reclusão) e lesão corporal culposa (Art. 129 §6º do Código Penal – pena de 2 meses a 1 ano de detenção). Com relação à modalidade de concurso de crime presente na hipótese e o método a ser empregado é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Igor responderá pelos dois crimes na modalidade do crime continuado, previsto no Art. 71 do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "Igor responderá pelos dois crimes em concurso formal perfeito, previsto na primeira parte do Art. 70 do Código Penal, aplicando-se a pena do crime mais grave (homicídio qualificado) com o aumento de pena em 1/6."
+      },
+      {
+        "letra": "C",
+        "texto": "Igor responderá pelos dois crimes em concurso formal imperfeito, em razão da presença dos desígnios autônomos, previsto na parte final do Art. 70 do Código Penal, somando-se as penas dos dois crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "Igor responderá pelos dois crimes na modalidade do concurso material, previsto no artigo 69 do Código Penal."
+      },
+      {
+        "letra": "E",
+        "texto": "Igor responderá pelos dois crimes na forma do concurso material benéfico, previsto no parágrafo único do Art. 70 do Código Penal, uma vez que o emprego da exasperação acarretará pena maior do que o somatório das penas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1893448",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Crimes contra a dignidade sexual",
+      "Estupro"
+    ],
+    "enunciado_principal": "Na hipótese de um agente ter praticado um crime de estupro e um crime de atentado violento ao pudor, contra a mesma vítima e no mesmo contexto fático, a partir do advento da Lei nº 12.015/2009, deverá responder por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "D",
+        "texto": "continuidade delitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "crime único."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1886831",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "O roubo perpetrado contra diversas vítimas em um único evento, estando comprovados os desígnios autônomos do autor do fato, configura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime único."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "crime continuado."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso material."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso formal próprio."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1873827",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Calíope, pretendendo matar Erato, saca uma arma de fogo e efetua disparos contra seu desafeto, atingindo-o e também a Euterpe, que passava pelo local. As duas pessoas alvejadas morrem em razão dos ferimentos sofridos. Na hipótese, é correto afirmar que haverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime único;"
+      },
+      {
+        "letra": "B",
+        "texto": "concurso material;"
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal perfeito;"
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal imperfeito;"
+      },
+      {
+        "letra": "E",
+        "texto": "crime continuado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1869772",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "De acordo com a orientação dos Tribunais Superiores, quando o agente rouba a agência dos Correios e, durante a ação, desarma um vigilante e se apropria de sua arma de fogo, deverá ser reconhecida a hipótese de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso material;"
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal próprio;"
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal impróprio;"
+      },
+      {
+        "letra": "D",
+        "texto": "continuidade delitiva."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2184672",
+    "metadata": "Ano: 2021 | Banca: IBGP | Órgão: SEJUSP-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "De acordo com o Direito Penal, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais."
+      },
+      {
+        "letra": "B",
+        "texto": "Em relação ao concurso formal próprio, o Código Penal adotou o sistema da exasperação, aplicando-se a pena de qualquer dos crimes, se idênticos, ou então a mais grave, aumentada, em qualquer caso, de um sexto até dois terços."
+      },
+      {
+        "letra": "C",
+        "texto": "Aos crimes conexos e aos crimes plurilocais, quanto ao lugar do crime, não se aplica a teoria da ubiquidade."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de catorze anos, sendo irrelevante eventual consentimento da vítima para a prática do ato, sua experiência sexual anterior ou existência de relacionamento amoroso com o agente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1995554",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado",
+      "Punibilidade no concurso de pessoas",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto"
+    ],
+    "enunciado_principal": "Sobre o Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do concurso de pessoas, adotou-se, como regra, a teoria monista."
+      },
+      {
+        "letra": "B",
+        "texto": "Extingue-se a punibilidade pela anistia, graça ou indulto."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o sistema do cúmulo material, aplica-se ao réu o somatório das penas de cada uma das infrações penais pelas quais foi condenado."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplica-se ao concurso formal perfeito o sistema da exasperação."
+      },
+      {
+        "letra": "E",
+        "texto": "Com relação ao crime continuado, adota-se o sistema do cúmulo material."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1865578",
+    "metadata": "Ano: 2021 | Banca: IV - UFG | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "O crime é um fenômeno complexo e nem sempre é praticado por uma só pessoa ou isoladamente. Assim, o direito penal, enquanto ramo do direito que tutela os bens jurídicos mais importantes, deve conter as normas para dirimir dúvidas acerca de concursos de crimes e concurso de pessoas. Sobre este tema, no Brasil, sabe-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se uma pessoa dispara arma de fogo com o objetivo de acertar uma outra, mas, por erro, também atinge culposamente uma terceira pessoa, levando as duas a óbito, haverá concurso formal de crimes, classificado, também, como homogêneo e próprio."
+      },
+      {
+        "letra": "B",
+        "texto": "o Código Penal adota a teoria do domínio do fato, conhecida pelo seu uso durante o caso do “mensalão”; a teoria diferencia o autor do partícipe por meio da análise de quem controla finalisticamente o fato, podendo ser aplicada em delitos dolosos e culposos."
+      },
+      {
+        "letra": "C",
+        "texto": "a continuidade delitiva entre roubo e extorsão é possível, assim como é possível a continuidade delitiva entre roubo e latrocínio, desde que tenha o elo de continuidade, pouco importando se protegem o mesmo bem jurídico tutelado."
+      },
+      {
+        "letra": "D",
+        "texto": "o nome de conivência ou participação negativa é atribuído quando o induzimento, instigação ou auxílio que tinha a obrigação de impedir o resultado, não a impediu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1825556",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: A.A. descobriu que seus sócios, B.B. e C.C., desviaram recursos substanciais da empresa para contas bancárias de familiares destes. Com o propósito de se vingar, A.A. chamou os sócios B.B. e C.C. para uma reunião entre os três. Anteriormente, A.A. havia envenenado o café que B.B. e C.C. sempre consumiam nessas ocasiões, sendo que A.A. não tomava café. B.B. e C.C. tomaram o café e morreram em decorrência da ingestão do veneno. A partir das noções sobre o concurso de crimes, é correto afirmar que A.A. cometeu dois crimes de homicídio qualificado em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "continuidade delitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "continuidade delitiva especial."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "concurso material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1810026",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Kátia, objetivando a morte de Dante e Getúlio, ateia fogo no carro em que estavam as vítimas; ambos morreram carbonizados. Relativamente à conduta de Kátia, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Kátia agiu em concurso material de delitos, e as penas deverão ser somadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Kátia agiu em continuidade delitiva e será aplicada a maior das penas, se diferentes, ou qualquer uma, se iguais, com aumento de 1/6 a 2/3."
+      },
+      {
+        "letra": "C",
+        "texto": "Kátia agiu em concurso formal de delitos, e as penas deverão ser somadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Kátia agiu em concurso formal de delitos e será aplicada a maior das penas, se diferentes, ou qualquer uma, se iguais, com aumento de 1/6 à metade."
+      },
+      {
+        "letra": "E",
+        "texto": "Kátia agiu em concurso material de delitos e será aplicada a maior das penas, se diferentes, ou qualquer uma, se iguais, com aumento de 1/6 à metade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1770437",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Victor abordou um grupo de três pessoas que estava no interior de um coletivo e, mediante grave ameaça, subtraiu os pertences que elas carregavam. Diante dos fatos narrados, considerando o instituto do concurso de crimes e a jurisprudência dos Tribunais Superiores, Victor praticou:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "três crimes de roubo, em concurso material, devendo ter as penas dos crimes somadas;"
+      },
+      {
+        "letra": "B",
+        "texto": "três crimes de roubo, em concurso formal impróprio, aplicando-se a regra da exasperação;"
+      },
+      {
+        "letra": "C",
+        "texto": "três crimes de roubo, em concurso formal próprio, devendo ter a pena de um deles aumentada;"
+      },
+      {
+        "letra": "D",
+        "texto": "três crimes de roubo na forma continuada, devendo ter a pena de um deles aumentada;"
+      },
+      {
+        "letra": "E",
+        "texto": "um único crime, devendo responder por roubo simples."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1761802",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto"
+    ],
+    "enunciado_principal": "Referente ao Direito Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São exemplos de crimes que não admitem a tentativa: os preterdolosos, os unissubsistentes, os omissivos próprios e os de perigo concreto."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes próprios são incompatíveis com a coautoria, haja vista que são delitos em que o tipo penal exige uma situação de fato ou de direito diferenciada por parte do sujeito ativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um terço até a metade."
+      },
+      {
+        "letra": "D",
+        "texto": "O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais."
+      },
+      {
+        "letra": "E",
+        "texto": "Em relação ao concurso formal próprio, o Código Penal adotou o sistema da exasperação, aplicando-se a pena de qualquer dos crimes, se idênticos, ou então a mais grave, aumentada, em qualquer caso, de um sexto até dois terços."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1759338",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Penas privativas de liberdade",
+      "Terceira fase da dosimetria"
+    ],
+    "enunciado_principal": "Bruno foi condenado em primeira instância pela prática do crime de roubo circunstanciado pelo concurso de agentes e emprego de arma de fogo (Art. 157, §2º, II e §2º-A, I do Código Penal) em concurso material com o crime de corrupção de menores (Art. 244-B da Lei nº 8.069/1990), cometido em 2019. O magistrado fixou a pena base do crime de roubo no mínimo legal, procedeu ao aumento de 1/3 pelo concurso de duas pessoas e, em seguida, aumentou em 2/3 pelo emprego de arma de fogo. Por fim, aplicou a regra do concurso material entre os crimes de roubo e corrupção de menores, porquanto o acusado, mediante mais de uma ação, praticou dois crimes de espécies distintas, que ofenderam bens jurídicos diversos, revelando desígnios autônomos nas ações de subtrair coisa alheia móvel e corromper menor de 18 anos. Analisando o caso à luz da atual jurisprudência do Superior Tribunal de Justiça, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a incidência cumulativa das causas de aumento do crime de roubo decorre de previsão legal, de modo que deve ser aplicada conforme a sentença; quanto ao concurso de crimes, deve ser reconhecido o crime único, eis que num mesmo contexto fático, com unidade de conduta e fim, só se vislumbra uma ação punível;"
+      },
+      {
+        "letra": "B",
+        "texto": "a incidência cumulativa das causas de aumento do crime de roubo não é possível se a fundamentação do julgador fizer remissão à descrição típica das majorantes e à afirmação de serem circunstâncias distintas; quanto ao concurso de crimes, deve ser reconhecido o concurso formal entre os de roubo e corrupção de menores porque este independe da comprovação da efetiva corrupção do menor envolvido;"
+      },
+      {
+        "letra": "C",
+        "texto": "a incidência cumulativa das causas de aumento do crime de roubo, conforme a sentença, não é possível porque caberia ao juiz fundamentar concretamente a opção pela cumulação; quanto ao concurso de crimes, deve ser reconhecido o concurso formal entre os de roubo e corrupção de menores porque, mediante uma única ação, o acusado praticou ambos os delitos, tendo a corrupção se dado em razão da prática do delito patrimonial;"
+      },
+      {
+        "letra": "D",
+        "texto": "a incidência cumulativa das causas de aumento do crime de roubo, conforme a sentença, é possível, eis que o disposto no parágrafo único do Art. 68 do Código Penal (“No concurso de causas de aumento ou diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua”) constitui uma faculdade do julgador e não um dever legal; quanto ao concurso de crimes, deve ser reconhecido o concurso formal entre os de roubo e corrupção de menores porque este é crime formal;"
+      },
+      {
+        "letra": "E",
+        "texto": "a incidência cumulativa das causas de aumento do crime de roubo, conforme a sentença, não é possível porque, na hipótese de concurso homogêneo de causas de aumento de pena da Parte Especial do Código Penal, devem elas refletir-se, separadamente, sobre a pena base, como se não existisse anterior causa de aumento; quanto ao concurso de crimes, deve ser reconhecido o concurso formal entre os de roubo e corrupção de menores, eis que o juiz não fundamentou de forma concreta a autonomia das condutas ou a precedência de uma em relação à outra."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1744091",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Observe as afirmações que tratam do concurso de crimes: I) O concurso formal se configura quando por meio de uma única ação ou omissão o agente pratica dois ou mais crimes, não importando se da mesma espécie ou não. II) O concurso formal enseja a aplicação da pena mais grave dentre as infrações penais praticadas, que deve ser majorada de 1/6 a 1/2, estando sempre descartada a utilização do sistema do cúmulo material. III) A pena aplicada a crimes praticados em continuidade delitiva jamais pode ultrapassar aquela que seria imposta ao agente caso tivesse praticado os mesmos crimes em concurso material. IV) A continuidade delitiva somente se configura quando os crimes praticados são da mesma espécie. V) Nos casos de continuidade delitiva, a pena de um dos crimes, se idênticas, ou a mais grave, se diversas, somente pode ser majorada até 2/3, jamais comportando majoração superior. Assinale a alternativa que aponta os itens que contêm SOMENTE afirmações verdadeiras:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III, IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "I e II."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1149282",
+    "metadata": "Ano: 2020 | Banca: IBFC | Órgão: TRE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Por concurso de crimes se entende a prática de duas ou mais infrações penais, mediante a unidade ou pluralidade de condutas. Quanto às espécies do referido instituto, analise as afirmativas abaixo: I. Segundo jurisprudência dos tribunais superiores, não há continuidade delitiva entre os crimes de roubo e extorsão, ainda que praticados em conjunto, uma vez que os referidos crimes, apesar de serem da mesma natureza, são de espécies diversas. II. Ocorre concurso material quando o agente, mediante uma só ação, pratica crimes de roubo contra vítimas diferentes, ainda que da mesma família, eis que caracterizada a violação a patrimônios distintos. III. Segundo decisão do Superior Tribunal de Justiça, os desígnios autônomos que caracterizam o concurso formal próprio ou perfeito referem-se a qualquer forma de dolo, direto ou eventual. IV. Dentre as espécies de crime continuado, o parágrafo único do artigo 71 do Código Penal prevê o crime continuado qualificado, segundo a doutrina, o qual se verifica nos crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmativas I, III e IV estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmativas I e IV estão corretas"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmativas II e III estão corretas"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a afirmativa I está correta"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1119696",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "O concurso formal de crimes ocorre quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o agente pratica dois ou mais crimes mediante uma só ação ou omissão."
+      },
+      {
+        "letra": "B",
+        "texto": "as circunstâncias pessoais do crime se comunicam aos coautores."
+      },
+      {
+        "letra": "C",
+        "texto": "a sentença aplica pena privativa de liberdade e pena de multa para o mesmo crime."
+      },
+      {
+        "letra": "D",
+        "texto": "praticam-se dois ou mais crimes, mediante mais de uma ação ou omissão."
+      },
+      {
+        "letra": "E",
+        "texto": "um crime é praticado por duas ou mais pessoas previamente ajustadas para tanto."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1109708",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "João, com 22 anos, praticou um crime de roubo na companhia de José. Este ˙último possuía 17 anos ao tempo do crime. Apurou-se que João já havia praticado outros três crimes de roubo e um de tráfico de drogas. José também já havia praticado diversos roubos e um ato infracional análogo ao crime de homicídio (ficou internado anteriormente por seis meses). Provado o fato durante a instrução processual criminal quanto a João, deverá o magistrado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condenar o acusado por crime de roubo majorado pelo concurso de agentes e corrupção de menor, em concurso formal de infrações, considerando que, conforme entendimento sumulado, o crime do artigo 244-B do Estatuto da Criança e do Adolescente não depende de prova da efetiva corrupção do menor (crime formal)."
+      },
+      {
+        "letra": "B",
+        "texto": "Para evitar o bis in idem, condenar o acusado por crime de roubo simples e de corrupção de menor em concurso material de infrações, considerando que, conforme entendimento sumulado, o crime do artigo 244- B do Estatuto da Criança e do Adolescente não depende de prova da efetiva corrupção do menor (crime instantâneo de mera conduta)."
+      },
+      {
+        "letra": "C",
+        "texto": "Condenar o acusado por crime de roubo majorado pelo concurso de agentes, absolvendo-o da corrupção de menor já que, conforme entendimento majoritário nos tribunais superiores, o crime do artigo 244-B do Estatuto da Criança e do Adolescente depende de prova da efetiva corrupção do menor (crime material)."
+      },
+      {
+        "letra": "D",
+        "texto": "Condenar o acusado por crime de roubo majorado pelo concurso de agentes, absolvendo-o da corrupção de menor j· que, conforme entendimento majoritário nos tribunais superiores, o crime do artigo 244-B do Estatuto da Criança e do Adolescente independe de prova da efetiva corrupção do menor (crime de mera conduta)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1062151",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Julgue o próximo item, relativos a pena, sua aplicação e a medidas de segurança.No concurso formal, caso o agente tenha praticado dois crimes mediante uma ação dolosa, devem-se aplicar cumulativamente as penas se os crimes concorrentes resultarem de desígnios autônomos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1036622",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Quanto ao concurso formal,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a pena poderá exceder a que seria cabível pela regra do concurso material, se a ação ou omissão é dolosa e os crimes concorrentes resultarem de desígnios autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "aplicável a suspensão condicional do processo em relação às infrações penais cometidas em concurso formal impróprio ou imperfeito, uma vez que se considera a pena de cada uma, isoladamente, ainda que a somatória ultrapasse o limite de um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "as penas de multa são aplicadas distinta e integralmente no caso de concurso formal impróprio ou imperfeito, incidindo a extinção da punibilidade sobre a pena privativa de liberdade de cada crime, isoladamente."
+      },
+      {
+        "letra": "D",
+        "texto": "há concurso formal próprio quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes da mesma espécie, aplicando-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto a dois terços."
+      },
+      {
+        "letra": "E",
+        "texto": "a pena pode ser aumentada até o triplo no caso de concurso formal impróprio ou imperfeito, considerando o Juiz a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias dos crimes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1017684",
+    "metadata": "Ano: 2019 | Banca: IDIB | Órgão: Prefeitura de Petrolina - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "O Código Penal trouxe diversas regras sobre o concurso material ou formal de crimes, orientando o juiz no momento de aplicação da pena. Sobre o tema em questão, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de até dois terços"
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de aplicação cumulativa de penas de detenção e de reclusão, executa-se primeiro aquela."
+      },
+      {
+        "letra": "C",
+        "texto": "No concurso formal, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido o agente, se a ação ou omissão, dolosa ou culposa, resultar de desígnios autônomos."
+      },
+      {
+        "letra": "D",
+        "texto": "No concurso de crimes, as penas de multa são aplicadas distinta e integralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso material, aplica-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até dois terços."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1008758",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Para a configuração do concurso formal de delitos (art. 70 do CP), e a aplicação da pena com a causa de aumento correspondente, a conduta realizada não pode ser praticada na forma de “dolo específico”, sendo portanto admissível somente o “dolo genérico”.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "987311",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Mara, pretendendo tirar a vida de Ana, ao avistá-la na companhia da irmã, Sandra, em um restaurante, ainda que consciente da possibilidade de alvejar Sandra, efetuou um disparo, que alvejou letalmente Ana e feriu gravemente Sandra. Nessa situação hipotética, assinale a opção correta relativa ao instituto do erro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Devido à aberratio ictus, Mara responderá somente pelo homicídio de Ana, visto que o dolo estava direcionado a esta, havendo absorção do crime de lesão corporal cometido contra Sandra."
+      },
+      {
+        "letra": "B",
+        "texto": "Mara responderá por homicídio doloso consumado em relação à Ana e por tentativa de homicídio em relação à irmã desta."
+      },
+      {
+        "letra": "C",
+        "texto": "Em concurso formal imperfeito, Mara responderá pelo homicídio de Ana e pela lesão corporal de Sandra."
+      },
+      {
+        "letra": "D",
+        "texto": "Mara incidiu em delito putativo por erro de tipo em unidade complexa."
+      },
+      {
+        "letra": "E",
+        "texto": "Excluído o dolo e permitida a punição por crime culposo, se essa modalidade for prevista em lei, Mara terá incidido em erro de tipo essencial escusável contra a irmã de Ana."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "984656",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Considerada a hipótese de reconhecimento probatório de um agente ter praticado um roubo com emprego de arma de fogo contra duas vítimas que caminhavam na rua e, posteriormente, passados três meses do crime anteriormente noticiado, em cidade diversa daquela onde ocorrera o crime anterior, veio a praticar roubo simples contra vítima diversa da anterior, a fixação da pena deverá observar o concurso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formal pela primeira conduta e concurso material entre esta e a segunda."
+      },
+      {
+        "letra": "B",
+        "texto": "formal pelas duas condutas."
+      },
+      {
+        "letra": "C",
+        "texto": "material na primeira conduta e formal entre esta e a última."
+      },
+      {
+        "letra": "D",
+        "texto": "material na primeira conduta e crime continuado entre esta e a segunda."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "976004",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "O crime de porte de arma de fogo é absorvido pelo crime de roubo quando estiver caracterizada a dependência ou subordinação entre as duas condutas. Para essa absorção, ainda, é necessário que os delitos sejam praticados no mesmo contexto fático. O enunciado refere-se ao",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso formal de crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "crime continuado."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso material de crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "crime de mãos próprias."
+      },
+      {
+        "letra": "E",
+        "texto": "princípio da consunção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1154437",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "O agente, movido pelo desejo de vingança, decidiu amarrar quatro pessoas no interior de um automóvel, para depois atear fogo no veículo, o que resultou na morte de todas as vítimas. A hipótese narrada é denominada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso material homogêneo."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso material heterogêneo."
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "crime continuado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1035532",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Pretendendo matar seus dois irmãos Mévio e Caio e, com isso, garantir-se como único herdeiro de seus ricos pais, Tício se aproveita do fato de Mévio e Caio estarem enfileirados e efetua um único disparo de fuzil em direção a estes, sabendo que, pelo potencial lesivo do material bélico, aquele único tiro seria suficiente para causar a morte dos dois colaterais, o que efetivamente ocorre. Descobertos os fatos, caberá ao Promotor de Justiça oferecer denúncia contra Tício pela prática de dois crimes de homicídio qualificado em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso material, diante dos dois resultados mortes, devendo as penas serem somadas;"
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal próprio, devendo a pena de um deles (mais grave) ser aumentada;"
+      },
+      {
+        "letra": "C",
+        "texto": "concurso formal impróprio, devendo a pena de um deles (a mais grave) ser aumentada;"
+      },
+      {
+        "letra": "D",
+        "texto": "concurso formal impróprio, devendo as penas serem somadas;"
+      },
+      {
+        "letra": "E",
+        "texto": "continuidade delitiva, devendo a pena de um deles (a mais grave) ser aumentada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "951031",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Entende-se por “concurso material benéfico” a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "limitação de tempo de cumprimento de pena em 30 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "aplicação da regra do concurso material para beneficiar o coautor ou partícipe."
+      },
+      {
+        "letra": "C",
+        "texto": "regra estabelecida em lei pela qual a pena aplicada pelo concurso formal não poderá superar a pena aplicada pelo concurso material."
+      },
+      {
+        "letra": "D",
+        "texto": "extensão ao coautor da condição pessoal que se afigurar elementar do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "diminuição de pena para determinados crimes materiais."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "932920",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior.Elton, pretendendo matar dois colegas de trabalho que exerciam suas atividades em duas salas distintas da dele, inseriu substância tóxica no sistema de ventilação dessas salas, o que causou o óbito de ambos em poucos minutos. Nessa situação, Elton responderá por homicídio doloso em concurso formal imperfeito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "927248",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "“A e B, imputáveis, resolvem cometer um roubo em um estabelecimento comercial na companhia do menor M, mediante emprego de um revólver eficaz e completamente municiado. Na ocasião programada, A conduz os demais comparsas e estaciona em local estratégico próximo ao estabelecimento comercial para facilitar a fuga e dificultar que testemunhas anotem a placa do veículo. B e M descem do veículo, entram no estabelecimento comercial perto do horário do encerramento e anunciam o assalto. A vítima V reage e entra em luta corporal com os agentes. Para pôr fim à briga, M efetua três disparos de arma de fogo e foge, em seguida, na companhia de B sem nada subtrair do estabelecimento comercial. V morre em função dos disparos de arma de fogo que lhe atingiram. B e M entram rapidamente no veículo conduzido por A, que empreende rápida fuga do local.” Sobre a punibilidade de A, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responde por latrocínio consumado em concurso formal com corrupção de menor, sem incidência da causa de diminuição de pena da participação de menor importância."
+      },
+      {
+        "letra": "B",
+        "texto": "A responde por roubo majorado pelo concurso de agentes e pelo emprego de arma de fogo em concurso formal com corrupção de menor, já que houve um excesso por parte do menor M em relação ao plano inicial, excesso que não deve ser imputado a A."
+      },
+      {
+        "letra": "C",
+        "texto": "A responde por roubo majorado pelo concurso de agentes e pelo emprego de arma de fogo, com a incidência da causa de diminuição de pena prevista no art. 29, §1°, do Código Penal, em função da participação de menor importância, em concurso material com corrupção de menor."
+      },
+      {
+        "letra": "D",
+        "texto": "A responde por latrocínio tentado (artigo 157, §3°, parte final, combinado com artigo 14, inciso II, ambos do Código Penal) em concurso material com corrupção de menor, na medida em que não houve a consumação do crime de latrocínio em virtude de não ter havido a subtração de coisa alheia móvel."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "905937",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Tendo em vista as normas referentes ao concurso de crimes, previstas no Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime continuado, que se caracteriza quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, aplicar-se-á a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de 1/6 (um sexto) a 2/3 (dois terços)."
+      },
+      {
+        "letra": "B",
+        "texto": "No concurso formal, que se caracteriza quando o agente, mediante duas ou mais ações, pratica 2 (dois) ou mais crimes, aplicar-se-á a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de 1/6 (um sexto) até a metade."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime continuado, tratando-se de crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, será aumentada, até o dobro."
+      },
+      {
+        "letra": "D",
+        "texto": "No concurso material, que se caracteriza quando o agente, mediante uma só ação ou omissão, pratica 2 (dois) ou mais crimes, aplicar-se-á a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de 1/6 (um sexto) até a metade."
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso formal, que se caracteriza quando o agente, mediante uma só ação ou omissão, pratica 2 (dois) ou mais crimes, aplicar-se-á a pena dos crimes, cumulativamente, se se tratar de ação ou omissão dolosa e os crimes concorrentes resultem de desígnios autônomos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "905795",
+    "metadata": "Ano: 2018 | Banca: FUMARC | Órgão: PC-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Com relação ao concurso de crimes, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se admite a aplicação da suspensão condicional do processo ao crime continuado."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso hipotético em que Gioconda, ao dirigir seu automóvel de maneira imprudente, perde o controle do carro, matando três pessoas e lesionando gravemente outras cinco, deve ser reconhecido o concurso formal próprio de crimes pelo qual lhe será aplicada somente uma pena, a mais grave, aumentada de um sexto até a metade."
+      },
+      {
+        "letra": "C",
+        "texto": "No concurso de crimes, a aplicação da pena de multa observa as regras pertinentes à modalidade de concurso que incide no caso concreto."
+      },
+      {
+        "letra": "D",
+        "texto": "No concurso formal, aplica-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até a metade, ainda que os crimes concorrentes resultem de desígnios autônomos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "904463",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Inconformado com o fim do casamento que mantinha com Marisa, João passa a persegui-la todos os dias. Certo dia, sabendo que a ex-mulher iria a uma festa na casa de amigos, João invade o local e, ao avistar Marisa, nos fundos da casa, atira com seu revólver calibre 38. O disparo fere Marisa no braço esquerdo, de raspão, mas atinge letalmente Leonardo, que estava logo atrás da mulher no momento do disparo e não havia sido visto pelo atirador. Nesse caso, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação se amolda ao que a lei prevê como concurso formal (art. 70 do CP) e João estará sujeito às penas previstas para o homicídio qualificado como se praticado contra a mulher por razões da condição de sexo feminino (art. 121, § 2° , VI, c/c art. 121, § 2° -A, I, do CP), aumentada de um sexto até metade, nos termos do art. 70 c/c art. 73 do CP."
+      },
+      {
+        "letra": "B",
+        "texto": "Se está diante de uma tentativa de homicídio e um homicídio consumado praticados em concurso material, aplicando-se ao autor, cumulativamente, as penas privativas de liberdade aplicáveis a cada um dos crimes, conforme art. 69 do CP."
+      },
+      {
+        "letra": "C",
+        "texto": "Se está diante de conduta que se amolda ao conceito de crime continuado, podendo-se aplicar a pena conforme disposto no art. 71, parágrafo único, do CP − a mais grave, aumentada até o triplo."
+      },
+      {
+        "letra": "D",
+        "texto": "Se está diante de conduta que se amolda ao conceito de crime continuado, aplicando-se a pena conforme disposto no art. 71, caput, do CP − a mais grave, aumentada de um sexto a dois terços."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação se amolda ao que a lei prevê como concurso formal (art. 70 do CP) e a João será aplicada pena em virtude da prática de homicídio tentado contra a mulher, qualificado por razões da condição de sexo feminino (art. 121, § 2° , VI, c/c art. 121, § 2° -A, I, do CP), somada àquela aplicada em razão do homicídio consumado contra o homem, nos termos do art. 70 (parte final) c/c art. 73 do CP."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "897325",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: PC-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades"
+    ],
+    "enunciado_principal": "Amâncio planejava matar a companheira Inocência, porque não aceitava a separação do casal proposta por ela, e acreditava estar sendo traído. No dia do crime, esperou Inocência na saída do trabalho e, quando essa apareceu na via pública, fazendo-se acompanhar por Bravus, seu colega, efetuou um disparo de arma de fogo contra ela, com intenção de matá-la, atingindo-a fatalmente. Bravus também acabou sendo atingido, de raspão, pelo disparo, e restou lesionado levemente, em um dos braços. Nessa situação hipotética, analise as seguintes assertivas: I. Será pertinente o reconhecimento da qualificadora do feminicídio. II. Em relação à pluralidade de crimes, será reconhecido um concurso formal próprio heterogêneo. III. Supondo que Amâncio seja condenado por homicídio qualificado e lesão corporal leve, à pena de 12 anos de reclusão para o homicídio e 3 meses de detenção para a lesão corporal, o juiz somará as penas, aplicando a regra do cúmulo material benéfico. IV. Caso, na mesma situação fática, ao invés de Bravus, Inocência estivesse acompanhada da filha do casal, a pena seria aumentada de 1/3 até a 1/2, por ter sido o crime praticado na presença de descendente. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "896381",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Dosimetria"
+    ],
+    "enunciado_principal": "É certo afirmar: I. A finalidade do conceito analítico do crime é a análise dos seus caracteres e elementos, por isso seu foco são os elementos ou requisitos do delito, onde é entendido como conduta típica, antijurídica e culpável (conceito tripartido, teoria clássica ou tridimensional), ou apenas conduta típica e antijurídica, ou ainda, como fato típico, antijurídico e punível abstratamente. II. Trata-se de concurso formal quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido. No caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro aquela. III. Na fixação da pena de multa o juiz deve atender, principalmente, à situação social do réu. IV. A continuidade temporal e espacial não é um requisito invariável do delito continuado, mas pode ser um indício da continuidade. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "886780",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características"
+    ],
+    "enunciado_principal": "Quando o agente, mediante mais de 1 (uma) ação ou omissão, pratica 2 (dois) ou mais crimes, verifica-se o instituto do concurso de crimes, que pode ser formal ou material, a depender da unidade ou da pluralidade de condutas. Sobre o tema, o Código Penal estabelece que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na hipótese de concurso material, quando ao agente tiver sido aplicada pena privativa de liberdade, não suspensa, por um dos crimes, para os demais crimes será cabível a substituição de pena privativa de liberdade por pena restritiva de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "na hipótese de concurso formal imperfeito ou impróprio, aplica-se o sistema de exasperação da pena, independentemente da quantidade de condenação."
+      },
+      {
+        "letra": "C",
+        "texto": "quando forem aplicadas penas restritivas de direitos, será possível ao condenado cumpri-lás de forma simultânea, desde que compatíveis entre si."
+      },
+      {
+        "letra": "D",
+        "texto": "se entende por concurso formal próprio ou perfeito aquele em que o agente pratica mais de uma conduta, mas na presença de desígnios autônomos, ou seja, a vontade de atingir mais de um resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "no caso de concurso material, sendo o agente condenado cumulativamente a pena de reclusão e detenção, executa-se primeiro a de detenção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "878468",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável",
+      "Corrupção de menores"
+    ],
+    "enunciado_principal": "Valter, 30 anos, foi denunciado pela prática de crime de estupro de vulnerável (Art. 217-A, §1º do CP – pena: 8 a 15 anos de reclusão) e corrupção de menores (Art. 244-B, Lei nº 8.069/90 – pena: 1 a 4 anos de reclusão) em concurso formal de delitos, pois, segundo consta da denúncia, na companhia de seu sobrinho de 16 anos, teria praticado conjunção carnal com vítima de 22 anos que possuía deficiência mental e não podia oferecer resistência. Consta do procedimento a informação de que o adolescente responderia a outra ação socioeducativa pela suposta prática de ato infracional. Os fatos são integralmente confirmados durante a instrução, de modo que o Ministério Público requer a condenação nos termos da denúncia. A defesa, porém, requer a absolvição do crime de corrupção de menores e aplicação da pena mínima do estupro. Considerando as informações narradas e que não há circunstância a justificar a aplicação da pena de qualquer dos crimes, em caso de condenação, acima do mínimo legal, no momento da sentença:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deverá ser reconhecida a corrupção de menores, diante do passado infracional do adolescente, afastando-se o concurso de crimes;"
+      },
+      {
+        "letra": "B",
+        "texto": "deverá ser reconhecida a corrupção de menores, não havendo, porém, quaisquer consequências na aplicação da pena, já que o crime de estupro é mais grave;"
+      },
+      {
+        "letra": "C",
+        "texto": "não deverá ser reconhecida a corrupção de menores, que resta configurada quando o agente pratica crime com menor de 14 anos, afastando-se o concurso de crimes;"
+      },
+      {
+        "letra": "D",
+        "texto": "deverá ser reconhecida a corrupção de menores e, aplicando-se a pena mínima do crime de estupro de vulnerável, diante do concurso formal, deverá, no caso, ser aplicada a regra da exasperação;"
+      },
+      {
+        "letra": "E",
+        "texto": "deverá ser reconhecida a corrupção de menores e, aplicando-se a pena mínima do crime de estupro de vulnerável, diante do concurso formal, deverá, no caso, ser aplicada a regra da cumulação de penas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "878232",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a incolumidade pública"
+    ],
+    "enunciado_principal": "De acordo com o entendimento do STJ, assinale a opção correta a respeito dos crimes previstos na legislação extravagante.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A configuração do crime de transporte de carga tóxica em desacordo com as determinações legais e regulamentares depende da ocorrência de lesão efetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "A prática de furto por adulto com a participação de dois adolescentes enseja a condenação por dois crimes de corrupção de menores, em concurso formal com o crime contra o patrimônio."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte de granadas de gás lacrimogêneo configura crime de porte de artefato explosivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A extinção da punibilidade do crime antecedente por prescrição impede a punição do crime de lavagem de dinheiro."
+      },
+      {
+        "letra": "E",
+        "texto": "O indivíduo que, em estado de embriaguez, comete homicídio culposo no trânsito deve responder pelas duas condutas de forma autônoma e em concurso material."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "844168",
+    "metadata": "Ano: 2017 | Banca: INSTITUTO AOCP | Órgão: SEJUS - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Substituição - Concessão."
+    ],
+    "enunciado_principal": "A respeito das penas e de sua aplicação, assinale a alternativa correta, nos termos dos artigos 32 a 52, do Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Código Penal adota o sistema bifásico de aplicação da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de reclusão deve ser cumprida em regime fechado, semiaberto ou aberto; a de detenção, em regime semiaberto, ou aberto, salvo necessidade de transferência a regime fechado."
+      },
+      {
+        "letra": "C",
+        "texto": "As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando aplicada pena privativa de liberdade não superior a dois anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se, sempre, cumulativamente, as penas privativas de liberdade em que haja incorrido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "844074",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Aborto"
+    ],
+    "enunciado_principal": "Determinado indivíduo, sabendo que Dorotéia estava grávida, e assumindo conscientemente qualquer consequência que disso pudesse advir, desferiu nela golpes de faca na nuca, matando-a, e provocando também a morte do feto em face do aborto. Nesse caso, conforme jurisprudência consolidada no STJ, é correto afirmar que a hipótese é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "homicídio e aborto provocado por terceiro, sendo que as penas devem ser aplicadas cumulativamente, em decorrência do concurso formal próprio."
+      },
+      {
+        "letra": "B",
+        "texto": "duplo homicídio, caracterizando-se o concurso material, sendo que as penas devem ser somadas."
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio e aborto provocado por terceiro, devendo ser aplicada a pena mais grave, aumentada de 1/6 a 2/3, pela regra da continuidade delitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "homicídio e aborto provocado por terceiro, aplicando-se a pena nos moldes preconizados para o concurso formal imperfeito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "843967",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Erro de tipo acidental",
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Durante discussão acontecida na Câmara Municipal de uma cidadezinha do interior, o vereador “A” dispara um tiro contra o vereador “B” com a intenção de matá-lo, porém causa-lhe apenas lesão corporal. Ocorre que o mesmo projétil que atravessou o ombro de “B”, atingiu o tórax do presidente da Câmara “C”, causando-lhe a morte, resultado não pretendido por “A”. É correto afirmar que, nesse caso hipotético, houve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aberratio ictus, aplicando-se a regra do concurso formal próprio.."
+      },
+      {
+        "letra": "B",
+        "texto": "aberratio criminis, aplicando-se a regra do concurso formal imperfeito."
+      },
+      {
+        "letra": "C",
+        "texto": "erro na execução, aplicando-se a regra do concurso formal impróprio."
+      },
+      {
+        "letra": "D",
+        "texto": "erro in personae, aplicando-se a regra do concurso formal perfeito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "843714",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Segundo o colhido nos autos de Inquérito Policial, o agente, professor de escola pública, praticou atos libidinosos diversos de conjunção carnal com cinco alunas da 4ª série. Consoante restou apurado, lecionando para crianças de até 11 anos, o agente aproveitou-se do cargo para, em dias distintos na mesma semana, praticar atos libidinosos com as menores. Em seu interrogatório declarou com detalhes o modus operandi sendo que, com o pretexto de corrigir o dever de casa das estudantes, convidava cada qual em um dia da semana ao fundo da sala e, longe da vista dos demais, praticava os atos libidinosos para satisfazer sua lascívia. Após as repugnantes práticas, as menores eram ameaçadas de reprovação caso contassem o ocorrido aos pais. No relatório final, o Delegado de Polícia opinou pela ocorrência de violação ao disposto no tipo penal de estupro de vulnerável, previsto no artigo 217-A do Estatuto Penal. Considerando o posicionamento do Superior Tribunal de Justiça sobre concurso de crimes, é correto afirmar que a exordial deverá contemplar, especificamente no caso proposto,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prática dos crimes sexuais em continuidade específica."
+      },
+      {
+        "letra": "B",
+        "texto": "a prática dos crimes sexuais em concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "a prática dos crimes sexuais em concurso formal próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "a prática dos crimes sexuais em concurso formal impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "a prática dos crimes sexuais em continuidade comum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "840606",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "No concurso de crimes, cuidando-se de infrações de espécies diversas cometidos por condutas distintas, ambas com violência física real, dos institutos legais abaixo em princípio pode-se postular em favor do imputado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso formal heterogêneo."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "crime continuado genérico."
+      },
+      {
+        "letra": "D",
+        "texto": "crime continuado específico."
+      },
+      {
+        "letra": "E",
+        "texto": "prescrição isoladamente considerada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "826723",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Quanto ao concurso de crimes, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "há concurso formal próprio quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicando-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto a dois terços, considerado o número de infrações cometidas."
+      },
+      {
+        "letra": "B",
+        "texto": "há concurso formal impróprio ou imperfeito quando a ação ou omissão, dolosa ou culposa, resultar de desígnios autônomos, hipótese em que a pena será aplicada pela regra do concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "nos crimes dolosos, cometidos com violência ou grave ameaça contra a mesma vítima, poderá o juiz, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo."
+      },
+      {
+        "letra": "D",
+        "texto": "no crime continuado comum, aplica-se a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços, considerado o número de infrações cometidas, incidindo a extinção da punibilidade sobre a pena de cada uma, isoladamente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "818950",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Sobre unidade e pluralidade de crimes, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Com dolo de homicídio, A desfere disparo de arma de fogo contra o desafeto B, mas por erro nos meios de execução, atinge o policial civil C, produzindo-lhe a morte: A responde por prática de homicídio qualificado por ter sido cometido contra agente integrante de órgão da segurança pública (CP, art. 121, § 2º, inciso VII)."
+      },
+      {
+        "letra": "B",
+        "texto": "A é condenado à pena de 8 (oito) anos de reclusão, por prática do crime de extorsão mediante sequestro (CP, art. 159), e à pena de 1 (um) ano de reclusão, por prática do crime de corrupção de menores (Lei nº 8.069/90, art. 244-B), realizados em concurso formal: pela regra prevista no art. 70, parágrafo único, do Código Penal, deve ser aplicado o princípio da cumulação entre os crimes, resultando na pena final de 9 (nove) anos de reclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de homicídio qualificado por motivo torpe (CP, art. 121, § 2º, inciso I), praticado contra vítimas diferentes, em tese admite aplicação da regra do crime continuado específico (CP, art. 71, parágrafo único), cuja pena deve ser medida pelo princípio da exasperação."
+      },
+      {
+        "letra": "D",
+        "texto": "A, em ação única, realiza sabotagem no elevador utilizado por B e C, com a finalidade de matar ambos, o que efetivamente ocorre em razão de queda abrupta de grande altura: pela regra prevista no art. 70, caput, última parte, do Código Penal, a pena a ser aplicada deve seguir o princípio da cumulação entre os homicídios."
+      },
+      {
+        "letra": "E",
+        "texto": "Por aplicação do princípio da subsidiariedade formal, o crime de exposição a perigo (CP, art. 132) é subsidiário em relação ao crime de lesões corporais graves (CP, art. 129, § 1º); por aplicação do princípio da consunção, o crime de homicídio (CP, art. 121) absorve o crime de porte ilegal de arma de fogo (Lei nº 10.826/03, art. 14), utilizada especialmente para a prática homicida, no mesmo contexto fático."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "797809",
+    "metadata": "Ano: 2017 | Banca: NUCEPE | Órgão: SEJUS-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Marque a alternativa CORRETA em relação ao concurso de crimes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre o concurso material, quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido."
+      },
+      {
+        "letra": "B",
+        "texto": "Há concurso formal, quando o agente, mediante duas ou mais ações, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de 1/6 (um sexto) até 1/2 (metade)."
+      },
+      {
+        "letra": "C",
+        "texto": "Há crime continuado quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subsequentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de 1/6 (um sexto) a 2/3 (dois terços)."
+      },
+      {
+        "letra": "D",
+        "texto": "No concurso de crimes, as penas de multa são aplicadas distinta e integralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando, por acidente ou erro no uso dos meios de execução, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa, responde como se tivesse praticado o crime contra esta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1328421",
+    "metadata": "Ano: 2016 | Banca: TJ-AC | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Em se tratando de concurso formal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplica-se a mais grave das penas cabíveis, ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplica-se a mais grave das penas cabíveis, ou, se iguais, somente uma delas, mas aumentada, em qualquer caso de um terço até metade."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplica-se a mais grave das penas cabíveis, ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um a dois terços."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplica-se a mais grave das penas cabíveis, ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto a três quintos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "713829",
+    "metadata": "Ano: 2016 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Lei penal no espaço",
+      "Conduta: ação / omissão",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“X” cai num poço e grita por socorro. “Y”, que caminhava nas imediações e nenhum vínculo possuía com “X”, ao ouvir seus gritos, prepara-se para estender uma corda, mas, ao reconhecê-lo neste tempo como um inimigo mortal, recolhe-a antes que “X” a segurasse, vindo este a morrer devido à falta de socorro, por afogamento. Nessas circunstâncias, “Y” responderá por homicídio."
+      },
+      {
+        "letra": "B",
+        "texto": "Para roubar um banco, “A” amarra “B” pelos pulsos e pernas, sendo este o gerente do estabelecimento. Tortura-o para que diga o segredo do cofre. “B”, vencido pela dor e pelo medo, acaba revelando o número da combinação, o cofre é aberto, e o roubo é consumado. Houve, no caso, em relação ao gerente, coação física absoluta excludente da tipicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Em comprovado surto epilético, “A” desfere violento golpe no ventre de mulher grávida, matando-a. Do evento, também resulta a interrupção da gravidez e a morte do feto. Haveria, neste caso, se “A” não soubesse do estado gravídico da vítima, apenas crime de homicídio."
+      },
+      {
+        "letra": "D",
+        "texto": "Caracteriza hipótese de concurso formal, com aplicação da mais grave das penas, quando “A”, com uma única conduta, desdobrada em atos de efetuar disparos de arma de fogo, em face de desígnios autônomos, mata o vigilante “B” e a atendente “C” do estabelecimento comercial em que pretende cometer subtração de bens."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao episódio de violência física protagonizado pelo companheiro, em Nova York, EUA, contra a modelo Luísa Brunet, a extraterritorialidade da lei brasileira é condicionada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "625067",
+    "metadata": "Ano: 2016 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crimes contra a administração pública",
+      "Corrupção ativa",
+      "Legislação Penal Especial",
+      "Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990"
+    ],
+    "enunciado_principal": "Relativamente ao concurso de crimes, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não pode haver concurso material, ou formal, entre os crimes de cartel e corrupção ativa;"
+      },
+      {
+        "letra": "B",
+        "texto": "Entre o crime tributário a falsidade documental intentada para sua prática, há concurso material;"
+      },
+      {
+        "letra": "C",
+        "texto": "Entre o crime tributário a falsidade documental intentada para sua prática, há concurso formal;"
+      },
+      {
+        "letra": "D",
+        "texto": "Em regra, o cartel afasta a corrupção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "620606",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Legislação Penal Especial",
+      "Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+    ],
+    "enunciado_principal": "Ainda com referência à situação hipotética descrita no texto anterior e a aspectos legais a ela pertinentes, assinale a opção correta com respaldo na jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Além dos crimes de homicídio, Júlio responderá em concurso material pelo crime de posse irregular de arma de fogo, uma vez que, ao mantê-la guardada em sua residência durante mais de dois meses, já havia consumado esse crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Opera-se o fenômeno da consunção entre o ato de possuir arma de fogo sem autorização legal e o ato dispará-la com ânimo de matar, uma vez que o crime mais grave sempre absorve o menos grave."
+      },
+      {
+        "letra": "C",
+        "texto": "O fato de Júlio possuir guardado na sua casa, fora do alcance de crianças, um revólver municiado constitui ante factum não punível em relação ao homicídio posteriormente praticado."
+      },
+      {
+        "letra": "D",
+        "texto": "Laura também deverá responder pelo fato de haver escondido o revólver dentro da residência, sabendo ou devendo saber ser proibido deter sua posse sem licença da autoridade competente."
+      },
+      {
+        "letra": "E",
+        "texto": "O fato de possuir um revólver guardado em casa e posteriormente utilizá-lo para praticar homicídio pode caracterizar continuidade delitiva."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "595638",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Sanções penais",
+      "Modalidades de sanções penais"
+    ],
+    "enunciado_principal": "Acerca da jurisprudência sumulada do STJ em matéria penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O delito de corromper menor de dezoito anos, com ele praticando infração penal ou induzindo-o a praticá-la, é crime formal, cuja configuração independe da prova de efetiva corrupção do menor."
+      },
+      {
+        "letra": "B",
+        "texto": "O reconhecimento do privilégio previsto para o furto simples nos casos de crime de furto qualificado é inadmissível, mesmo que o criminoso seja primário, a coisa furtada seja de pequeno valor e a qualificadora seja de ordem objetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível a fixação de pena substitutiva prevista no art. 44 do CP, como condição especial ao regime aberto, nos termos da súmula 493."
+      },
+      {
+        "letra": "D",
+        "texto": "Por adequação social, nos termos da súmula 502, ainda que presentes a materialidade e a autoria, nos termos da, súmula 502, a conduta de expor à venda CDs e DVDs piratas, não tipifica o crime em relação ao direito autoral previsto no art. 184, § 2.º, do CP."
+      },
+      {
+        "letra": "E",
+        "texto": "A causa de aumento de pena pelo concurso de agentes, prevista para o crime de roubo, é aplicável para o crime de furto qualificado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "595627",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Primeira fase da dosimetria",
+      "Segunda fase da dosimetria.",
+      "Terceira fase da dosimetria"
+    ],
+    "enunciado_principal": "Considerando as orientações legais relativas a aplicação de penas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Havendo concurso formal de delitos, em que o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicar-se-á a pena privativa de liberdade mais grave, ou, se as penas forem iguais, aplicar-se-á apenas uma delas, majorada, em qualquer caso, de um sexto até metade, sem prejuízo de eventual cumulação de penas, nas situações em que a ação ou a omissão for dolosa, e os crimes resultarem de desígnios autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "As agravantes e as atenuantes previstas no CP são numerus clausus, ou seja, não é possível invocar circunstância atenuante ou agravante que não tenha sido expressamente prevista no texto legal."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de concurso material de delitos, quando os crimes forem praticados, mediante mais de uma ação ou omissão, e resultarem na aplicação cumulativa de penas de reclusão e detenção, o agente deverá cumprir, primeiramente, a pena de detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente, condenado por sentença transitada em julgado pela prática de crime de motim, será considerado reincidente, em caso de sentença condenatória por crime de furto."
+      },
+      {
+        "letra": "E",
+        "texto": "Se, no curso do prazo, o agente cometer novo crime doloso ou culposo, a suspensão condicional da pena deverá ser revogada; no entanto, se o beneficiado for condenado, irrecorrivelmente, por contravenção penal à pena privativa de liberdade, a revogação será facultativa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "588017",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Em cada uma das seguintes opções, é apresentada uma situação hipotética relativa ao concurso de crimes, seguida de uma assertiva a ser julgada. Assinale a opção que apresenta assertiva correta de acordo com a legislação penal e a jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No interior de um ônibus coletivo, Sérgio subtraiu, com o emprego de grave ameaça, os aparelhos celulares de cinco passageiros, além do dinheiro que o cobrador portava. Nessa situação, como houve a violação de patrimônios distintos, Sérgio praticou o crime de roubo simples em concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "Plínio praticou um crime de latrocínio (previsto no art. 157, § 3.º, parte final, do CP) no qual houve uma única subtração patrimonial, com desígnios autônomos e com dois resultados mortes (vítimas). Nessa situação, Plínio praticou o crime de latrocínio em concurso formal impróprio, disposto no art. 70, caput, parte final, do CP, no qual se aplica a regra do concurso material, de forma que as penas devem ser aplicadas cumulativamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Túlio, em um mesmo contexto fático, praticou, com uma menor impúbere de treze anos de idade, sexo oral (felação), além de cópula anal e conjunção carnal. Nessa situação, Túlio perpetrou o crime de estupro de vulnerável em concurso material."
+      },
+      {
+        "letra": "D",
+        "texto": "Zélio foi condenado pela prática de crimes de roubo e corrupção de menores em concurso formal, cometidos em continuidade delitiva. Nessa situação, na dosimetria da pena aplicar-se-ão cumulativamente as regras do concurso formal (art. 70 do CP) e da continuidade delitiva (art. 71 do CP)."
+      },
+      {
+        "letra": "E",
+        "texto": "Múcio, mediante grave ameaça exercida com o emprego de arma de fogo, subtraiu bens pertencentes a Bruna e, ainda, exigiu dela a entrega de cartão bancário e senha para a realização de saques. Nessa situação, Múcio praticou, em concurso formal, os crimes de roubo circunstanciado e extorsão majorada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "577643",
+    "metadata": "Ano: 2015 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Sobre o concurso de crimes e o crime continuado, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre o concurso material homogêneo quando os crimes praticados em concurso são da mesma espécie."
+      },
+      {
+        "letra": "B",
+        "texto": "No concurso material de crimes, o cálculo do prazo prescricional se dá com base na soma das penas referentes aos delitos."
+      },
+      {
+        "letra": "C",
+        "texto": "No concurso formal impróprio de crimes, o juiz aplica uma só pena, se idênticas as penas previstas para os crimes, ou a maior pena, quando não idênticas, aumentadas de um sexto até a metade."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a configuração do crime continuado, prepondera na doutrina e na jurisprudência o entendimento de que são “crimes da mesma espécie\" aqueles que ofendem o mesmo bem jurídico, não se exigindo a sua previsão no mesmo tipo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se o crime continuado, desde que presentes os requisitos do art. 71 do Código Penal, ainda que o agente faça do crime um estilo de vida (habitualidade criminosa)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "532418",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Cada uma das próximas opções apresenta uma situação hipotética, seguida de uma assertiva a ser julgada à luz do CP, da Lei de Juizados Especiais (Lei n.º 9.099/1995) e da legislação penal especial. Assinale a opção que apresenta a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O policial civil Cristiano, durante o expediente de trabalho, algemou e conduziu Orlando a uma viatura, mediante ameaça com emprego de arma de fogo, e o manteve detido no veículo por oito horas devido ao fato de, anteriormente, eles terem tido um desentendimento. Nessa situação, a conduta de Cristiano caracterizou crime de constrangimento ilegal."
+      },
+      {
+        "letra": "B",
+        "texto": "Wesley foi preso em flagrante porque estava pescando em um local que, conforme prévia regulamentação do órgão competente, era interditado para a pesca. Nessa situação, o crime descrito constitui delito de menor potencial ofensivo, razão por que, caso preencha os requisitos subjetivos exigidos, Wesley poderá ser beneficiado pela transação penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Téo, réu primário e sem quaisquer antecedentes, foi preso em flagrante por ter cometido o delito de furto simples. Nessa situação, como o crime de furto não é de competência do juizado especial criminal, Téo não poderá ser beneficiado pela suspensão condicional do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Gabriel estava recolhendo, em via pública, apostas de transeuntes para o jogo de azar conhecido como jogo do bicho e, imediatamente após anotar a aposta realizada por Ângelo, foi abordado por policiais. Nessa situação, a conduta de Gabriel é tipificada como contravenção penal, ao passo que a conduta de Ângelo é caracterizada como atípica."
+      },
+      {
+        "letra": "E",
+        "texto": "Januário, maior e capaz, burlou, juntamente com José e Ricardo, ambos menores de dezoito anos, todos com unidade de desígnios, a vigilância de uma loja de departamentos e dela subtraíram, em horário comercial, três aparelhos de DVD novos. Os três foram presos em flagrante, na residência de José, duas horas depois de terem cometido o delito. Nessa situação, se ausentes quaisquer excludentes e comprovados os fatos, Januário deverá ser condenado por crime de furto qualificado e dois delitos de corrupção de menores, todos em concurso formal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "530899",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Na hipótese de concurso de pessoas instantâneo, entre um adulto e um adolescente, para a prática de roubo, sem que o adulto esteja animado por desígnio autônomo para corromper especificamente o adolescente para a prática do roubo, estabelece-se entre os delitos de roubo e corrupção de menores a seguinte modalidade de concurso de crimes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há concurso de crimes entre os delitos de roubo e corrupção de menores."
+      },
+      {
+        "letra": "B",
+        "texto": "Concurso formal impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "Concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "Concurso material."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime continuado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "512254",
+    "metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Com relação aos elementos do conceito analítico de infração penal, ao concurso de crimes, à causalidade no direito penal e à Lei n.º 9.605/1998, que dispõe sobre os crimes contra o meio ambiente, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O erro de tipo permissivo afasta a punição pela denominada culpa imprópria."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos termos da Lei n.º 9.605/1998, que dispõe sobre os crimes contra o meio ambiente, constitui causa especial de aumento de pena o fato de o agente ter praticado crime ambiental em unidade de conservação ambiental."
+      },
+      {
+        "letra": "C",
+        "texto": "Na teoria da imputação objetiva, o resultado será objetivamente imputável ao autor se, uma vez hipoteticamente eliminada a sua conduta, o resultado não se concretizar."
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme a doutrina majoritária, o consentimento do ofendido configura causa supralegal de exclusão da culpabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso formal impróprio, por haver desígnios autônomos, as penas dos crimes em concurso serão cumuladas, ainda que os diferentes resultados tenham sido praticados mediante uma só ação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "511210",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "No concurso formal,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplica-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até a metade, ainda que os crimes concorrentes resultem de desígnios autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "a pena poderá exceder a que seria cabível pela regra do concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "o agente, mediante uma só ação ou omissão, desde que necessariamente dolosa, pratica dois ou mais crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "a pena de multa deverá receber o mesmo acréscimo imposto à pena privativa de liberdade."
+      },
+      {
+        "letra": "E",
+        "texto": "aplicável a suspensão condicional do processo, se- gundo entendimento sumulado, quando a pena mínima cominada, seja pelo somatório, seja pela incidência da majorante, não ultrapassar o limite de 1 (um) ano."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "476020",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "A previsão legal do Código Penal acerca do concurso formal de crimes dispõe que: “Quando o agente, ______ , pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é ________ e os crimes concorrentes resultam de desígnios autônomos”.Assinale a alternativa que preenche, correta e respectivamente, o enunciado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mediante mais de uma ação ou omissão … culposa"
+      },
+      {
+        "letra": "B",
+        "texto": "mediante mais de uma ação ou omissão … dolosa"
+      },
+      {
+        "letra": "C",
+        "texto": "mediante uma só ação ou omissão … culposa"
+      },
+      {
+        "letra": "D",
+        "texto": "mediante uma ou mais de uma ação ou omissão … culposa"
+      },
+      {
+        "letra": "E",
+        "texto": "mediante uma só ação ou omissão … dolosa"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "467361",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Com relação ao concurso de crimes, julgue o seguinte item.O concurso formal próprio distingue-se do concurso formal impróprio pelo elemento subjetivo do agente, ou seja, pela existência ou não de desígnios autônomos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "464479",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Sobre o concurso material de crimes, o Código Penal estabelece que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido."
+      },
+      {
+        "letra": "B",
+        "texto": "quando o agente, mediante uma só omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido."
+      },
+      {
+        "letra": "C",
+        "texto": "quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até dois terços"
+      },
+      {
+        "letra": "D",
+        "texto": "quando o agente, mediante uma só ação, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido."
+      },
+      {
+        "letra": "E",
+        "texto": "quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464369",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. Trata-se da definição legal do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso formal."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso material benéfico."
+      },
+      {
+        "letra": "D",
+        "texto": "princípio da consunção"
+      },
+      {
+        "letra": "E",
+        "texto": "crime continuado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1396113",
+    "metadata": "Ano: 2014 | Banca: ESMARN | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Acerca do concurso de crimes, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O concurso formal próprio é causa de aumento de pena e incide na terceira fase de aplicação da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença, quando aplica a pena em concurso material de crimes, não precisa especificar qual a forma de concurso que está reconhecendo."
+      },
+      {
+        "letra": "C",
+        "texto": "É caso de concurso material de crimes quando o agente, mediante uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicando-se cumulativamente as penas privativas de liberdade em que haja incorrido."
+      },
+      {
+        "letra": "D",
+        "texto": "No concurso material, a suspensão condicional do processo somente é admissível quando a somatória das penas impostas ao acusado preencha os pressupostos do art. 89 da Lei. 9.099/05, de modo que o total das penas mínimas deve ser igual ou inferior a 2 (dois) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "Imperfeito ou impróprio corresponde à modalidade de concurso formal que se verifica quando a conduta culposa do agente e os crimes concorrentes derivam de desígnios autônomos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1039978",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "A pena, no concurso formal imperfeito de crimes, onde há desígnios autônomos do agente em ação ou omissão dolosa, deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aumentada do dobro."
+      },
+      {
+        "letra": "B",
+        "texto": "aumentada de 1/3 (um terço) a 1/2 (metade)."
+      },
+      {
+        "letra": "C",
+        "texto": "aumentada de 1/6 (um sexto) a 1/2 (metade)."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicada cumulativamente, consoante a regra do artigo 69 do CP."
+      },
+      {
+        "letra": "E",
+        "texto": "aumentada de 1/6 (um sexto) a 2/3 (dois terços)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "518550",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Em relação ao concurso de crimes, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No concurso formal perfeito, aplica-se ao agente a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade."
+      },
+      {
+        "letra": "B",
+        "texto": "No concurso material, aplica-se a regra da cumulação das penas."
+      },
+      {
+        "letra": "C",
+        "texto": "No concurso formal heterogêneo, uma só ação dá causa a diversos crimes de natureza diversa como, por exemplo, lesão corporal e homicídio."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é admitido, no ordenamento jurídico brasileiro, o reconhecimento do crime continuado entre infrações da mesma espécie, praticadas em condições de tempo e de lugar semelhantes, sob o mesmo modo de agir, contra vítimas diferentes, cometidas com violência ou grave ameaça à pessoa."
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso formal imperfeito, aplicam-se ao agente as penas cumulativamente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "463532",
+    "metadata": "Ano: 2014 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há concurso formal quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não. É possível o concurso formal entre delitos dolosos e culposos, sendo indiferente a natureza dos delitos perpetrados. Há concurso formal perfeito quando existe unidade de desígnio e ocorre o concurso formal impróprio quando a ação ou omissão é unicamente dolosa e os crimes resultam de desígnios autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime continuado é uma espécie do concurso de crimes. Pela teoria unidade, adotada pelo Código Penal, os vários crimes constituem crime único, sendo elos da mesma corrente. Há reprovação por um único crime, com a pena agravada, em razão da lesão unívoca do bem jurídico"
+      },
+      {
+        "letra": "C",
+        "texto": "Pela teoria da ficção, sustentada por Carrara, há uma criação legal no crime continuado, já que existem diversos delitos na continuidade e não crime único"
+      },
+      {
+        "letra": "D",
+        "texto": "O benefício da suspensão condicional do processo, no caso de concurso de crimes, não é aplicável se o somatório das penas ou incidência de majorante ultrapassar o limite mínimo de 01 (um) ano"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "413335",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "No cômputo da pena, estima-se o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acréscimo decorrente da continuidade genérica à vista da gravidade das circunstâncias judiciais verificadas."
+      },
+      {
+        "letra": "B",
+        "texto": "abatimento decorrente da semi-imputabilidade à vista da perspectiva de cura do quadro médico-psiquiátrico do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "abatimento decorrente da tentativa à vista da aptidão concreta da conduta para ofender o bem jurídico tutelado."
+      },
+      {
+        "letra": "D",
+        "texto": "acréscimo decorrente do concurso formal heterogêneo à vista do número de infrações praticadas."
+      },
+      {
+        "letra": "E",
+        "texto": "acréscimo decorrente do concurso formal homogêneo à vista da identidade objetivo-subjetiva das infrações praticadas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "393348",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Noções gerais de Concursos de Pessoas",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Crimes contra a dignidade sexual",
+      "Corrupção de menores"
+    ],
+    "enunciado_principal": "Carlos, Maurício, Alexandre, todos maiores de idade, e o adolescente José planejaram, de comum acordo e agindo em unidade de desígnios, subtrair aparelhos eletrônicos da casa de Gabriel. O quarteto dividiu-se, então, da seguinte forma: Carlos e Maurício permaneceram de vigia, dentro de um automóvel, nas cercanias da referida residência, enquanto Alexandre e José se incumbiram da tarefa de consumar a subtração dos equipamentos. Ao chegarem à porta da garagem da casa, esses dois últimos avistaram e renderam Marcelo, amigo de Gabriel que ali estacionava seu veículo. A rendição ocorreu com o uso de arma de fogo de propriedade de Alexandre, a qual fora por ele ocultada de todos os demais comparsas. Em seguida, os dois criminosos entraram na residência, renderam, também, seu proprietário e iniciaram a movimentação dos aparelhos eletrônicos em direção ao carro do grupo. Quando todo o material desejado havia sido subtraído, o grupo viu-se impossibilitado, por razões técnicas, de dar partida no veículo e fugiu do local sem levar nenhum objeto. Avisada por vizinhos, a polícia chegou rapidamente ao local, prendendo os bandidos após breve perseguição a pé.Com base nessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos e Maurício concorreram para dois crimes de tentativa de roubo praticados por Alexandre; contudo, como quiseram participar de crime menos grave, a pena de ambos poderá ser diminuída até metade, já que foi previsível o resultado mais grave."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a jurisprudência do Superior Tribunal de Justiça (STJ), a punição de Carlos, Maurício e Alexandre pelo crime de corrupção de menores dependerá da prova da efetiva corrupção de José."
+      },
+      {
+        "letra": "C",
+        "texto": "Carlos e Maurício praticaram dois crimes de roubo consumado, qualificado pelo concurso de agentes, e um de corrupção de menores, devendo a pena imposta ser acrescida de um quinto em razão do concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "Alexandre praticou dois crimes de tentativa de roubo circunstanciado pelo emprego de arma, concurso de agentes e restrição de liberdade das vítimas, um delito de corrupção de menores e um crime de porte ilegal de arma de fogo, devendo sua pena ser acrescida de um quarto em razão do concurso formal."
+      },
+      {
+        "letra": "E",
+        "texto": "Carlos, Maurício e Alexandre praticaram dois crimes de tentativa de roubo circunstanciado pelo emprego de arma, concurso de agentes e restrição de liberdade das vítimas, em concurso formal com o crime de corrupção de menores, devendo suas penas serem acrescidas de metade em razão do concurso formal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "381222",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Acerca dos princípios do direito penal, do concurso de crimes, da suspensão condicional do processo e da execução da pena, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o disposto na LEP, não é possível o cumprimento da pena privativa de liberdade em local diverso daquele em que tenham ocorrido a perpetração e a consumação do crime"
+      },
+      {
+        "letra": "B",
+        "texto": "É vedado ao juiz fixar a mesma pena base aos corréus, sob pena de violação ao princípio da individualização da pena, ainda que as circunstâncias judiciais sejam comuns"
+      },
+      {
+        "letra": "C",
+        "texto": "Suponha que um indivíduo danifique um telefone público, ocasionando à concessionária prejuízo da ordem de R$ 137,00. Nessa situação, segundo a jurisprudência do STF, é materialmente atípica a conduta do agente, dada a mínima ofensividade da infração e do reduzido grau de reprovabilidade do comportamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo a jurisprudência dominante, em se tratando de concurso formal de dois delitos, a pena deve ser aumentada em um sexto"
+      },
+      {
+        "letra": "E",
+        "texto": "Considere que João tenha sido condenado por furto privilegiado e, na sentença, o juiz tenha substituído a pena privativa de liberdade por pena de multa. Nessa situação, caso João seja réu em outra ação penal, ele não poderá ser beneficiado com a suspensão condicional da pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "435951",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: MPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Uma vez reconhecido o concurso formal de crimes, será afinal aplicada pena privativa de liberdade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aquém daquela mais grave isoladamente aplicável por qualquer dos crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "aquém daquela menos grave isoladamente aplicável por qualquer dos crimes."
+      },
+      {
+        "letra": "C",
+        "texto": "igual à pena mais grave isoladamente aplicável por qualquer dos crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "além daquela mais grave e até a somatória aritmética das penas isoladamente aplicáveis aos crimes."
+      },
+      {
+        "letra": "E",
+        "texto": "além da somatória aritmética das penas isoladamente aplicáveis aos crimes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "354667",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: SEGESP-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Acerca de aplicação da lei penal, concurso de crimes e culpabilidade, julgue os próximos itens.Se uma pessoa com um único disparo de arma de fogo matar duas pessoas, poderá responder por concurso formal impróprio de crimes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "353229",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Considere que, logo após subtrair, dentro de um ônibus, a carteira de Manoel, sem que este perceba o fato, Jonas se dirija para o fundo do veículo, onde, mediante ameaça com uma faca, subtraia o celular de Paula e a carteira de seu namorado, Pedro. Nessa situação hipotética, Jonas pratica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto em continuidade delitiva com roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo continuado."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo, dada a progressão criminosa."
+      },
+      {
+        "letra": "D",
+        "texto": "furto em concurso material com roubos em concurso formal."
+      },
+      {
+        "letra": "E",
+        "texto": "furto em concurso formal com roubo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "350912",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Julgue o item abaixo, referente à situação hipotética acima descrita.Na situação em apreço, consoante a jurisprudência do STF, configurou-se o concurso formal de crimes, pois, com uma única ação, José atingiu o patrimônio de duas vítimas diferentes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "348178",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Acerca do concurso de crimes, do concurso de pessoas e das causas de exclusão da ilicitude, julgue o item que se segue. Considere a seguinte situação hipotética. Juca, maior, capaz, na saída de um estádio de futebol, tendo encontrado diversos desafetos embarcados em um veículo de transporte regular, aproveitou-se da oportunidade e lançou uma única bomba incendiária contra o automóvel, causando graves lesões em diversas vítimas e a morte de uma delas. Nesse caso, Juca será apenado com base no concurso formal imperfeito ou impróprio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "346564",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: BACEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "No que se refere a concurso de crimes e a concurso de pessoas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente que, mediante uma só conduta, praticar crimes contra a ordem tributária e de relações de consumo a fornecedor deverá responder em concurso ideal heterogêneo de crimes, aplicando-se a pena do crime mais grave, acrescida de um sexto até a metade."
+      },
+      {
+        "letra": "B",
+        "texto": "A gestão fraudulenta de instituição financeira e o exercício de atividade de câmbio sem a devida autorização do BACEN configuram crimes contra o sistema financeiro nacional, mas, por serem classificados como habituais e formais, são incompatíveis entre si, o que exclui a possibilidade de concurso formal."
+      },
+      {
+        "letra": "C",
+        "texto": "Pela teoria monista, adotada de forma irrestrita no Brasil, cada coautor deve responder por sua própria conduta, cujos contornos devem ser retirados da intenção de cada um."
+      },
+      {
+        "letra": "D",
+        "texto": "As hipóteses de coação moral irresistível e obediência hierárquica são de autoria mediata, e, por suas naturezas e consequências, excluem a ilicitude da conduta."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com a teoria da ficção jurídica, adotada no direito penal brasileiro, o concurso continuado de crimes configura-se pela pluralidade de condutas e de crimes da mesma espécie, condições subjetivas semelhantes e unidade de desígnio entre os agentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "332053",
+    "metadata": "Ano: 2013 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Erro do tipo essencial",
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado",
+      "Penas privativas de liberdade",
+      "Modalidades das Penas privativas de liberdade"
+    ],
+    "enunciado_principal": "APESAR DA DENOMINAÇÃO “CONCURSO DE CRIMES”, O LEGISLADOR TRATA DESTA MATÉRIA NA PARTE PERTINENTE A APLICAÇÃO DA PENA. DESSE MODO, OS ARTS. 69 A 76, DO CÓDIGO PENAL, DISCIPLINAM A APLICAÇÃO OU A EXECUÇÃO DA SANÇÃO PENAL RELATIVAMENTE AOS INSTITUTOS DO CONCURSO MATERIAL, CONCURSO FORMAL, CRIME CONTINUADO, ERRO NA EXECUÇÃO, RESULTADO DIVERSO DO PRETENDIDO, LIMITE MÁXIMO E UNIFICAÇÃO DO TEMPO DE CUMPRIMENTO DE PENA. SENDO ASSIM, ASSINALE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No concurso formal, homogêneo ou heterogêneo, há unidade de conduta e pluralidade de resultados. O concurso formal divide-se em perfeito ou próprio e imperfeito ou impróprio. Em quaisquer dos casos, aplica-se, sempre, a mais grave das penas ou, se iguais, somente uma delas, aumentada de um sexto até metade."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime continuado, homogêneo ou heterogêneo, há pluralidade de condutas e pluralidade de resultados, praticados nas mesmas condições de tempo, lugar, maneira de execução e outras semelhantes, o que faz com que os crimes subsequentes sejam havidos como continuação do primeiro, aplicando-se, assim, a pena de um só dos crimes, se iguais, ou a mais grave, se diversos, aumentada de um sexto a dois terços."
+      },
+      {
+        "letra": "C",
+        "texto": "No erro na execução ou aberratio ictus, com unidade simples, o agente, por acidente ou erro no uso dos meios de execução, atinge pessoa diversa daquela que pretendia ofender. A rigor, cuida- se de concurso formal entre um crime tentado ou consumado, de um lado, e um crime culposo, do outro. No entanto, o Código determina que só seja aplicada a pena referente ao primeiro crime, considerando-se, porém, as condições ou qualidades da pessoa que pretendia atingir."
+      },
+      {
+        "letra": "D",
+        "texto": "Em atenção ao princípio constitucional da vedação de pena de caráter perpétuo, o Código Penal determina que o tempo máximo de cumprimento das penas privativas de liberdade não pode ser superior a trinta anos. Na hipótese de condenações cuja soma seja superior a trinta anos, devem ser elas unificadas para atender àquele limite máximo, sendo tal unificação válida para a concessão de benefícios, como livramento condicional ou progressão de regime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "303088",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Penas privativas de liberdade",
+      "Primeira fase da dosimetria",
+      "Segunda fase da dosimetria.",
+      "Fixação do regime inicial da pena privativa de liberdade"
+    ],
+    "enunciado_principal": "A respeito de aspectos diversos relacionados às penas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No concurso formal perfeito, ou próprio, de crimes, a pena de multa é resultado da pena mais grave, aumentada de um sexto até a metade."
+      },
+      {
+        "letra": "B",
+        "texto": "Para agravar a pena, o juiz poderá, em decisão fundamentada, aplicar ao crime de furto qualificado pelo concurso de pessoas a causa especial de aumento relativa ao concurso de pessoas que se encontra prevista no crime de roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "A existência de ações penais em curso, e não de inquéritos policiais, pode ser utilizada como critério de aumento da pena- base na primeira fase de aplicação da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "A confissão espontânea e a menoridade relativa são circunstâncias atenuantes preponderantes e que, por tal motivo, podem servir de fundamento à redução da pena-base abaixo do grau mínimo previsto em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz pode aplicar o regime semiaberto ao condenado a pena igual ou inferior a quatro anos, se forem favoráveis as circunstâncias judiciais, ainda que a reincidência se opere em crime específico."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "302504",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Em relação ao concurso de crimes, verifica-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a teoria subjetiva foi adotada pelo Código Penal ao tratar do concurso formal."
+      },
+      {
+        "letra": "B",
+        "texto": "a lei penal mais grave não se aplica ao crime continuado, se a sua vigência é anterior à cessação da continuidade."
+      },
+      {
+        "letra": "C",
+        "texto": "a existência do concurso de crimes não interfere na aplicação do instituto da transação penal."
+      },
+      {
+        "letra": "D",
+        "texto": "no concurso formal perfeito o sistema adotado pelo Código Penal foi o da exasperação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "829720",
+    "metadata": "Ano: 2012 | Banca: COPEVE-UFAL | Órgão: MPE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Assinale a opção incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No concurso ideal impróprio, aplica-se o sistema do cúmulo material."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime continuado, aplica-se o sistema da exasperação."
+      },
+      {
+        "letra": "C",
+        "texto": "Há concurso formal quando existe unidade de conduta e pluralidade de crimes."
+      },
+      {
+        "letra": "D",
+        "texto": "Há concurso material quando existe pluralidade de condutas e pluralidade de crimes."
+      },
+      {
+        "letra": "E",
+        "texto": "Há crime continuado quando existe pluralidade de condutas e pluralidade de quaisquer crimes, os quais, todavia, devem ser compreendidos como uma continuação do primeiro por circunstância de tempo, lugar, modo de execução e outras semelhantes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "286577",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Legislação Penal Especial",
+      "Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+    ],
+    "enunciado_principal": "Silas e Ezequiel, maiores e capazes, renderam e imobilizaram, no período noturno, o único agente de segurança de uma instituição bancária privada da cidade de Tobias Barreto S SE. Utilizando armas de brinquedo, mediante grave ameaça, subtraíam a arma do vigilante e usaram dinamite para explodir dois caixas eletrônicos da agência, o que causou significativos estragos ao edifício. Após a explosão, a dupla subtraiu a quantia de seis mil reais e fugiu. Com base no que dispõem o CP e o Estatuto do Desarmamento acerca dos crimes contra o patrimônio e contra a incolumidade pública, bem como no entendimento doutrinário e jurisprudencial a respeito da matéria, assinale a opção correta a respeito da situação hipotética acima apresentada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No caso, incide o princípio da consunção, dada a caracterização do crime roubo qualificado pelo porte e emprego de explosivo, em concurso formal com o crime de dano qualificado."
+      },
+      {
+        "letra": "B",
+        "texto": "O porte e o emprego de armas de brinquedo pelos agentes caracterizaram conduta atípica, devendo eles responder apenas pelo delito de roubo simples."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta dos agentes configurou roubo qualificado, dada a presença de duas causas de aumento de pena: a prática da infração durante o período de repouso noturno e o concurso de agentes."
+      },
+      {
+        "letra": "D",
+        "texto": "As condutas descritas amoldam-se aos tipos penais de roubo qualificado pelo concurso de pessoas, em concurso formal com o crime de emprego de artefato explosivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Os agentes devem ser responsabilizados pelo crime de roubo na forma simples, em concurso material com o crime de perigo comum pelo uso de explosivo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "286031",
+    "metadata": "Ano: 2012 | Banca: FGV | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Com relação a concurso de crimes, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Código Penal trata da matéria no Título DAS PENAS, apesar da relevância da análise da conduta criminosa quando do exame da forma aplicável à espécie."
+      },
+      {
+        "letra": "B",
+        "texto": "No concurso material é adotado o sistema do cúmulo material, enquanto no concurso formal e no crime continuado é adotado o sistema da exasperação."
+      },
+      {
+        "letra": "C",
+        "texto": "Na hipótese do concurso formal, a pena final não poderá exceder aquela que seria cabível pela regra do concurso material."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime continuado tem como requisitos a pluralidade de condutas e de crimes da mesma espécie, além de condições objetivas de tempo, lugar, maneira de execução e outras semelhantes, bem como unidade de desígnios, devendo ser havidos os crimes subsequentes como continuação do primeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado, se a sua vigência é anterior à cessão da continuidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "286029",
+    "metadata": "Ano: 2012 | Banca: FGV | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Legislação Penal Especial",
+      "Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+    ],
+    "enunciado_principal": "No curso de uma investigação policial, Júlio é flagrado com uma bolsa contendo várias armas e munições, algumas de uso permitido e outras de uso restrito, sem autorização legal para portá-las. Certamente ele iria utilizá-las na prática de um roubo, estando inclusive na porta de um estabelecimento comercial, aguardando a chegada do empregado que iria abri-lo. Diante deste quadro, foi encaminhado à delegacia própria, vindo o laudo confirmando a potencialidade ofensiva das armas. Com base no exposto, Júlio deverá responder",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pela prática dos injustos dos artigos 14 (porte de arma de uso permitido) e 16 (porte de arma de uso restrito) da Lei n. 10.826/03, na forma do artigo 70 do CP (concurso formal), e 157, § 2º, I, c/c 14, II, do CP (roubo majorado pelo emprego de arma na forma tentada)."
+      },
+      {
+        "letra": "B",
+        "texto": "pela prática dos injustos dos artigos 14 (porte de arma de uso permitido) e 16 (porte de arma de uso restrito) da Lei n. 10.826/03, na forma do artigo 69 do CP (concurso material)."
+      },
+      {
+        "letra": "C",
+        "texto": "pela prática do injusto do artigo 16 (porte de arma de uso restrito) da Lei n. 10.826/03."
+      },
+      {
+        "letra": "D",
+        "texto": "pela prática dos injustos dos artigos 14 (porte de arma de uso permitido) e 16 (porte de arma de uso restrito) da Lei n. 10.826/03, na forma do artigo 70 do CP (concurso formal)."
+      },
+      {
+        "letra": "E",
+        "texto": "pela prática dos injustos dos artigos 14 (porte de arma de uso permitido) e 16 (porte de arma de uso restrito) da Lei n. 10.826/03, na forma do artigo 69 do CP (concurso material), e 157, § 2º, I, c/c 14, II, do CP (roubo majorado pelo emprego de arma na forma tentada)."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "275093",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Em relação ao concurso de crimes, o Código Penal (CP) adota o sistema do cúmulo material e o da exasperação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "274981",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal"
+    ],
+    "enunciado_principal": "Há concurso material, pois, com uma única conduta, Reginaldo cometeu dois crimes distintos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "242156",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Concurso formal",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Em relação ao concurso de crimes ou infrações, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente que investe com seu veículo automotor dolosamente em direção a um desafeto atingindo-o, mas acaba por lesionar culposamente também um terceiro, incorre em hipótese de concurso formal imperfeito ou impróprio."
+      },
+      {
+        "letra": "B",
+        "texto": "As eventuais penas de multa serão aplicadas distinta e integralmente, não observando o mesmo critério aplicado para a pena privativa de liberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "Com o advento da Lei no 12.015/09, que alterou o título relativo aos crimes contra a dignidade sexual, se acentuou a possibilidade de revisão das condenações pela prática de estupro e atentado violento ao pudor praticados em condições semelhantes de tempo, lugar ou maneira de execução, em que houve aplicação do cúmulo material."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a aplicação do critério do concurso formal redundar em pena superior àquela que seria aplicável na hipótese de reconhecimento do concurso material, as penas relativas aos crimes devem ser somadas."
+      },
+      {
+        "letra": "E",
+        "texto": "Diz-se que a unicidade de condutas no caso de crime continuado é ficção jurídica inspirada em motivos de política criminal, uma vez que se reveste de culpabilidade menos acentuada, em razão da repetição da conduta que arrefeceria a consciência do ilícito."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

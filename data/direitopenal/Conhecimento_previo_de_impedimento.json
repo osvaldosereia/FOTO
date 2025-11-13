@@ -1,0 +1,70 @@
+[
+  {
+    "id": "620611",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lesões corporais",
+      "Crimes contra o respeito aos mortos",
+      "Crimes contra a família",
+      "Conhecimento prévio de impedimento",
+      "Legislação Penal Especial",
+      "Crimes Resultantes de Preconceito de Raça ou Cor – Lei nº 7.716 de 1989"
+    ],
+    "enunciado_principal": "Assinale a opção correta em relação a tipos penais diversos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o dolo qualifica os crimes contra a incolumidade pública, se estes resultam em lesão corporal ou morte de pessoa."
+      },
+      {
+        "letra": "B",
+        "texto": "Não constitui crime vilipendiar as cinzas de um cadáver, sendo tal conduta atípica por ausência de previsão legal."
+      },
+      {
+        "letra": "C",
+        "texto": "Se três indivíduos, mediante grave ameaça contra pessoa e com emprego de arma de fogo, renderem o motorista e os agentes de segurança de um carro-forte e subtraírem todo o dinheiro nele transportado, haverá apenas duas causas especiais de aumento de pena: o concurso de duas ou mais pessoas e o emprego de arma de fogo."
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuir símbolos ou propaganda que utilizem a cruz suástica ou gamada para fins de divulgação do nazismo é uma conduta típica prevista em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "Pratica crime previsto no CP aquele que contrai casamento conhecendo a existência de impedimento que lhe cause a nulidade absoluta ou relativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1189159",
+    "metadata": "Ano: 2012 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Bigamia",
+      "Induzimento a erro essencial e ocultação de impedimento",
+      "Conhecimento prévio de impedimento"
+    ],
+    "enunciado_principal": "Acerca das disposições do Código Penal sobre os crimes contra a família, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de bigamia poderá ser considerado inexistente caso seja anulado por qualquer motivo o primeiro casamento, ou o outro por motivo que não a bigamia."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos casos de induzimento a erro essencial e ocultação de impedimento, a ação penal depende de queixa do contraente enganado e somente pode ser intentada depois de transitar em julgado a sentença que, por motivo de erro ou impedimento, anule o casamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma das formas de cometimento do crime de estelionato é aquela que ocorre quando há simulação de casamento mediante engano de outra pessoa."
+      },
+      {
+        "letra": "D",
+        "texto": "Contrair casamento, conhecendo a existência de impedimento que lhe cause a nulidade absoluta, somente será considerado crime caso o impedimento não seja dirimível."
+      }
+    ],
+    "gabarito": "A"
+  }
+]
