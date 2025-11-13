@@ -110,7 +110,7 @@
             color: white;
         }
         
-        /* (NOVO) Estilo para o contador dentro do botão */
+        /* Estilo para o contador dentro do botão */
         .filtro-btn .contador {
             margin-left: 0.375rem; /* ml-1.5 */
             font-size: 0.75rem; /* text-xs */
@@ -208,12 +208,6 @@
 
     </div>
 
-    <button id="btnTopo" title="Voltar ao topo" class="hidden fixed bottom-6 right-6 p-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-all duration-300 z-50">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
-            <path fill-rule="evenodd" d="M10 17a.75.75 0 0 1-.75-.75V5.56l-2.72 2.72a.75.75 0 0 1-1.06-1.06l4-4a.75.75 0 0 1 1.06 0l4 4a.75.75 0 1 1-1.06 1.06l-2.72-2.72v10.69A.75.75 0 0 1 10 17Z" clip-rule="evenodd" />
-        </svg>
-    </button>
-    
     <div id="toastContainer">
         </div>
 
@@ -241,7 +235,7 @@
         const btnBuscarQuestao = document.getElementById('btnBuscarQuestao'); 
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
-        const btnTopo = document.getElementById('btnTopo');
+        // const btnTopo = document.getElementById('btnTopo'); // REMOVIDO
         const toastContainer = document.getElementById('toastContainer');
         
         // Referências aos Filtros
@@ -250,7 +244,7 @@
         const btnFiltroErrei = document.getElementById('btnFiltroErrei');
         const btnFiltroAcertei = document.getElementById('btnFiltroAcertei');
         
-        // (NOVAS) Referências aos contadores dos filtros
+        // Referências aos contadores dos filtros
         const countNaoRespondi = document.getElementById('countNaoRespondi');
         const countErrei = document.getElementById('countErrei');
         const countAcertei = document.getElementById('countAcertei');
@@ -289,13 +283,7 @@
             btnFiltroErrei.addEventListener('click', () => setFiltro('errado'));
             btnFiltroAcertei.addEventListener('click', () => setFiltro('correto'));
             
-            window.addEventListener('scroll', () => {
-                if (window.scrollY > 300) { btnTopo.classList.remove('hidden'); } 
-                else { btnTopo.classList.add('hidden'); }
-            });
-            btnTopo.addEventListener('click', () => {
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            });
+            // ### LISTENER DE SCROLL E CLICK DO BTNTOPO (REMOVIDOS) ###
             
             atualizarEstadoBotaoBuscar();
         }
@@ -467,7 +455,7 @@
             divStatus.textContent = 'Seleção alterada. Clique em "Buscar Questão".';
             divStatus.classList.remove('hidden');
             
-            atualizarContadoresFiltros(); // (NOVO) Limpa os contadores
+            atualizarContadoresFiltros(); 
         }
         
         // --- Funções de Carregamento e Navegação ---
@@ -525,7 +513,7 @@
                 }
                 
                 divFiltros.classList.remove('hidden'); 
-                atualizarContadoresFiltros(); // (NOVO) Chama a atualização dos contadores
+                atualizarContadoresFiltros(); 
                 setFiltro('nao-respondi', true); 
 
             } catch (error) {
@@ -541,10 +529,6 @@
         
         // --- Sistema de Filtros ---
 
-        /**
-         * (NOVA FUNÇÃO)
-         * Atualiza os números (contagem) dentro dos botões de filtro.
-         */
         function atualizarContadoresFiltros() {
             if (questoesCarregadas.length === 0) {
                 countNaoRespondi.textContent = '';
@@ -597,7 +581,6 @@
                 }
                 
             } else {
-                // Navega pelo *histórico* para 'correto' ou 'errado'
                 for (let i = indiceHistorico + 1; i < historicoNavegacao.length; i++) {
                     if (historicoNavegacao[i].status === filtroAtivo) {
                         questaoEncontrada = historicoNavegacao[i];
@@ -745,9 +728,6 @@
             return card;
         }
         
-        /**
-         * (MODIFICADA) Agora atualiza o STATUS da questão e o CONTADOR.
-         */
         function verificarResposta(card, alternativaSelecionada) {
             if (card.dataset.respondida) return; 
             card.dataset.respondida = 'true';
@@ -759,7 +739,7 @@
             if (perguntaAtual) {
                 perguntaAtual.status = acertou ? 'correto' : 'errado';
                 perguntaAtual.respostaUsuario = letraSelecionada;
-                atualizarContadoresFiltros(); // (NOVO) Atualiza os contadores
+                atualizarContadoresFiltros(); 
             }
             
             pintarCorrecao(card, gabarito, letraSelecionada);
@@ -811,8 +791,9 @@
             const promptsAI = [
                 { texto: "Comentário", prompt: "Comente o gabarito e fundamente sua explicação com embasamento jurídico detalhado, citando artigos de leis se possível. Explique por que a alternativa correta está certa e as outras estão erradas. Utilize uma linguagem formal e didática." },
                 { texto: "Glossário", prompt: "Extraia os principais termos jurídicos ou conceitos complexos presentes no enunciado e nas alternativas. Para cada termo, forneça uma definição clara e concisa em formato de glossário." },
-                { texto: "Dicas", prompt: "Com base no tema desta questão, forneça 3 a 5 dicas estratégicas e 'bizus' para NÃO cair em pegadinhas comuns da banca. Foque em erros frequentes que os candidatos cometem relacionados a este tema e como acertar as questões." },
-                { texto: "Vídeoaula", prompt: "Sugira até 3 vídeos aulas do YouTube que abordem o tema desta questão. Forneça os títulos dos vídeos e os links diretos para cada um. Priorize vídeos de canais renomados e com boa didática." }
+                { texto: "Dicas", prompt: "Com base no tema desta questão, forneça dicas entratégicas estratégicas e 'bizus' para NÃO cair em pegadinhas comuns de prova de concurso." },
+                { texto: "Perguntas", prompt: "Com base no tema desta questão, crie perguntas que o estudante de direito precisa saber respondar. Responda todas elas de forma objetiva." },
+                { texto: "Videoaula", prompt: "Encontre 3 videosaulas do YouTube que abordem o tema desta questão. Forneça os títulos dos vídeos e os links diretos para cada um. Priorize vídeos de canais renomados e com boa didática." }
             ];
             promptsAI.forEach(promptInfo => {
                 const btn = document.createElement('button');
