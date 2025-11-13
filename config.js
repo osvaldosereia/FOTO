@@ -9,7 +9,7 @@
  * ... e será exibido no menu como "A norma penal".
  */
 const dbDisciplinas = {
-    "direito-penal": {
+    "direitopenal": {
         nome: "Direito Penal",
         temas: [
             // Lista de temas (subcategorias) corrigida
