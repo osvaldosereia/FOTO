@@ -70,34 +70,46 @@
         .alternativa-item.gabarito-correto { background-color: #D1FAE5; border-color: #34D399; }
         
         /* --- ESTILOS BOTÕES IA (MANTIDOS) --- */
-        input[type='number']::-webkit-inner-spin-button,
-        input[type='number']::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
         .sub-buttons-container { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
         .sub-buttons-container.expanded { max-height: 300px; transition: max-height 0.3s ease-in; }
         
         /* ### CSS: Estilo do Toast ### */
         .toast {
-            position: fixed;
-            top: 1.25rem; /* 20px */
-            right: 1.25rem; /* 20px */
-            z-index: 100;
-            padding: 0.75rem 1.25rem; /* 12px 20px */
-            border-radius: 0.375rem; /* rounded-md */
+            position: fixed; top: 1.25rem; right: 1.25rem; z-index: 100;
+            padding: 0.75rem 1.25rem; border-radius: 0.375rem;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
-            color: white;
-            font-weight: 500;
-            /* Animação */
-            transform: translateX(120%);
-            opacity: 0;
+            color: white; font-weight: 500;
+            transform: translateX(120%); opacity: 0;
             transition: transform 0.3s ease-out, opacity 0.3s ease-out;
         }
-        .toast.show {
-            transform: translateX(0);
-            opacity: 1;
+        .toast.show { transform: translateX(0); opacity: 1; }
+        .toast.bg-success { background-color: #16A34A; }
+        .toast.bg-error { background-color: #DC2626; }
+        .toast.bg-info { background-color: #2563EB; }
+
+        /* ### NOVO CSS: Estilo dos Botões de Filtro ### */
+        .filtro-btn {
+            background-color: #F3F4F6; /* bg-gray-100 */
+            color: #374151; /* text-gray-700 */
+            transition: all 0.2s ease-in-out;
         }
-        .toast.bg-success { background-color: #16A34A; /* green-600 */ }
-        .toast.bg-error { background-color: #DC2626; /* red-600 */ }
-        .toast.bg-info { background-color: #2563EB; /* blue-600 */ }
+        .filtro-btn.ativo {
+            font-weight: 600; /* semibold */
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+        }
+        /* Cores específicas do filtro ativo */
+        .filtro-btn.ativo.filtro-nao-respondi {
+            background-color: #3B82F6; /* bg-blue-500 */
+            color: white;
+        }
+        .filtro-btn.ativo.filtro-errado {
+            background-color: #EF4444; /* bg-red-500 */
+            color: white;
+        }
+        .filtro-btn.ativo.filtro-correto {
+            background-color: #22C55E; /* bg-green-500 */
+            color: white;
+        }
         
     </style>
 </head>
@@ -167,14 +179,14 @@
             </div>
         </section>
 
-        <section id="divAcoes" class="hidden mb-6 p-4 bg-white rounded-lg shadow-sm flex flex-col sm:flex-row gap-3 justify-center">
-            <button id="btnAcaoNova" class="px-5 py-2 font-medium text-white bg-blue-600 rounded-md hover:bg-blue-700 transition-colors w-full sm:w-auto">
-                Nova Questão
+        <section id="divFiltros" class="hidden mb-6 p-4 bg-white rounded-lg shadow-sm flex flex-col sm:flex-row gap-3 justify-center">
+            <button id="btnFiltroNaoRespondi" class="filtro-btn filtro-nao-respondi px-5 py-2 font-medium rounded-md w-full sm:w-auto">
+                Não Respondi
             </button>
-            <button id="btnAcaoErrei" class="px-5 py-2 font-medium text-white bg-red-500 rounded-md hover:bg-red-600 transition-colors w-full sm:w-auto">
+            <button id="btnFiltroErrei" class="filtro-btn filtro-errado px-5 py-2 font-medium rounded-md w-full sm:w-auto">
                 Errei
             </button>
-            <button id="btnAcaoAcertei" class="px-5 py-2 font-medium text-white bg-green-600 rounded-md hover:bg-green-700 transition-colors w-full sm:w-auto">
+            <button id="btnFiltroAcertei" class="filtro-btn filtro-correto px-5 py-2 font-medium rounded-md w-full sm:w-auto">
                 Acertei
             </button>
         </section>
@@ -224,22 +236,28 @@
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
         const btnTopo = document.getElementById('btnTopo');
-        const divAcoes = document.getElementById('divAcoes');
-        const btnAcaoNova = document.getElementById('btnAcaoNova');
-        const btnAcaoErrei = document.getElementById('btnAcaoErrei');
-        const btnAcaoAcertei = document.getElementById('btnAcaoAcertei');
         const toastContainer = document.getElementById('toastContainer');
+        
+        // (NOVAS) Referências aos Filtros
+        const divFiltros = document.getElementById('divFiltros');
+        const btnFiltroNaoRespondi = document.getElementById('btnFiltroNaoRespondi');
+        const btnFiltroErrei = document.getElementById('btnFiltroErrei');
+        const btnFiltroAcertei = document.getElementById('btnFiltroAcertei');
 
         // --- 3. Estado da Aplicação ---
         let estadoSelect = {
             disciplina: { chave: null, nome: null, listaCompleta: [] },
             tema: { chavesSelecionadas: [], nomesSelecionados: [], listaCompleta: [], listaFiltrada: [] }
         };
-        let questoesCarregadas = []; 
-        let historicoNavegacao = []; 
-        let indiceHistorico = -1; 
-        let perguntaAtual = null; 
+        
+        let questoesCarregadas = []; // O "bolo" de questões
+        let historicoNavegacao = []; // Questões vistas, com status
+        let indiceHistorico = -1; // Posição atual no historicoNavegacao
+        let perguntaAtual = null; // Objeto da questão atual
         let isLoading = false; 
+        
+        // (NOVO) Estado dos Filtros
+        let filtroAtivo = 'nao-respondi'; // 'nao-respondi', 'errado', 'correto'
 
         // --- 4. Funções Principais ---
 
@@ -255,13 +273,11 @@
             setupCustomSelectListeners();
 
             btnBuscarQuestao.addEventListener('click', buscarQuestoes);
-            btnAcaoNova.addEventListener('click', mostrarNovaQuestaoAleatoria);
-            btnAcaoErrei.addEventListener('click', () => {
-                showToast('Status "Errei" registado.', 'error');
-            });
-            btnAcaoAcertei.addEventListener('click', () => {
-                showToast('Status "Acertei" registado.', 'success');
-            });
+            
+            // (NOVOS) Listeners dos Filtros
+            btnFiltroNaoRespondi.addEventListener('click', () => setFiltro('nao-respondi'));
+            btnFiltroErrei.addEventListener('click', () => setFiltro('errado'));
+            btnFiltroAcertei.addEventListener('click', () => setFiltro('correto'));
             
             window.addEventListener('scroll', () => {
                 if (window.scrollY > 300) { btnTopo.classList.remove('hidden'); } 
@@ -290,7 +306,6 @@
             });
             selectTemaSearch.addEventListener('input', (e) => {
                 const termo = e.target.value.toLowerCase();
-                // (MODIFICADO) A busca agora também troca '_' por ' ' para corresponder ao nome formatado
                 estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => 
                     tema.nome.toLowerCase().includes(termo.replace(/_/g, ' '))
                 );
@@ -338,38 +353,19 @@
 
         // --- Funções de Seleção (Subcategoria/Tema) ---
         
-        /**
-         * (FUNÇÃO MODIFICADA)
-         * Transforma uma chave-de-arquivo (com _) em um nome legível (com espaço).
-         * Ex: "Abandono_de_funcao" se torna "Abandono de funcao"
-         * Ex: "A_norma_penal" se torna "A norma penal"
-         */
         function formatarChaveParaNome(chave) {
             if (!chave) return '';
-            // Troca todos os '_' por ' '
             let nome = chave.replace(/_/g, ' ');
-            
-            // Tenta capitalizar de forma inteligente (ex: "lei nº 123" -> "Lei nº 123")
-            // Capitaliza a primeira letra e letras após ' ('.
-            // Esta é uma lógica simples e pode não ser perfeita para todos os casos,
-            // mas é melhor que nada.
             try {
                  nome = nome.charAt(0).toUpperCase() + nome.slice(1).toLowerCase();
-                 // Capitaliza após parênteses (ex: (bullying) -> (Bullying))
                  nome = nome.replace(/ \(/g, ' (').replace(/\((\w)/, (match, p1) => `(${p1.toUpperCase()}`);
-                 // Capitaliza após hífens curtos (ex: - Nocoes -> - Noções)
                  nome = nome.replace(/- (\w)/, (match, p1) => `- ${p1.toUpperCase()}`);
             } catch (e) {
-                 // Se algo falhar, apenas retorna o nome com espaços
                  return chave.replace(/_/g, ' ');
             }
             return nome;
         }
 
-        /**
-         * (FUNÇÃO MODIFICADA)
-         * Popula o dropdown de Temas lendo o NOVO config.js (que é um array).
-         */
         function popularTemas() {
             const disciplinaKey = estadoSelect.disciplina.chave;
             const temasArray = dbDisciplinas[disciplinaKey]?.temas || []; 
@@ -377,8 +373,7 @@
             estadoSelect.tema.listaCompleta = [];
             
             for (const chave of temasArray) { 
-                // Gera o nome de exibição automaticamente a partir da chave
-                const nomeFormatado = formatarChaveParaNome(chave); // <-- CORRIGIDO
+                const nomeFormatado = formatarChaveParaNome(chave);
                 estadoSelect.tema.listaCompleta.push({ chave: chave, nome: nomeFormatado });
             }
             
@@ -398,7 +393,7 @@
                 optionEl.className = 'custom-select-option multi-select'; 
                 optionEl.textContent = tema.nome;
                 optionEl.dataset.value = tema.chave;
-                optionEl.dataset.nome = tema.nome; // Usa o nome formatado
+                optionEl.dataset.nome = tema.nome;
                 if (estadoSelect.tema.chavesSelecionadas.includes(tema.chave)) {
                     optionEl.classList.add('multi-selected');
                 }
@@ -453,11 +448,12 @@
         
         function resetarEstadoEstudo() {
             divQuestoes.innerHTML = ''; 
-            divAcoes.classList.add('hidden');
+            divFiltros.classList.add('hidden'); // Esconde filtros
             questoesCarregadas = [];
             historicoNavegacao = [];
             indiceHistorico = -1;
             perguntaAtual = null;
+            filtroAtivo = 'nao-respondi'; // Reseta filtro
             divStatus.textContent = 'Seleção alterada. Clique em "Buscar Questão".';
             divStatus.classList.remove('hidden');
         }
@@ -494,8 +490,6 @@
             isLoading = true; 
             atualizarEstadoBotaoBuscar(); 
 
-            // Esta é a linha que carrega os ficheiros.
-            // Ela usa a 'chave' do config.js, que agora é "Abandono_de_funcao".
             const urls = chavesSelecionadas.map(chave => `data/${disciplinaKey}/${chave}.json`);
             
             try {
@@ -508,15 +502,20 @@
                 }));
                 const arraysDeQuestoes = await Promise.all(promises);
                 
-                // O seu JSON (ex: abandono_moral.json) é um [ { ... } ]
-                // Esta linha concatena todos os arrays num só
+                // Limpa e preenche o "bolo" de questões
                 questoesCarregadas = [].concat(...arraysDeQuestoes);
+                // (NOVO) Adiciona o estado inicial a cada questão
+                questoesCarregadas.forEach(q => {
+                    q.status = 'nao-respondi'; // 'nao-respondi', 'correto', 'errado'
+                    q.respostaUsuario = null; // Guarda a resposta dada
+                });
                 
                 if (questoesCarregadas.length === 0) {
                     throw new Error("Nenhuma questão foi encontrada para as subcategorias selecionadas.");
                 }
-                divAcoes.classList.remove('hidden');
-                mostrarNovaQuestaoAleatoria();
+                
+                divFiltros.classList.remove('hidden'); // Mostra os botões de filtro
+                setFiltro('nao-respondi', true); // Ativa o filtro padrão e busca a primeira questão
 
             } catch (error) {
                 console.error("Erro ao carregar questões:", error);
@@ -529,49 +528,137 @@
             }
         }
         
-        function mostrarNovaQuestaoAleatoria() {
-            if (questoesCarregadas.length === 0) {
-                divStatus.textContent = 'Não há questões carregadas. Clique em "Buscar Questão".';
-                divStatus.classList.remove('hidden');
-                return;
+        // --- (NOVO) Sistema de Filtros ---
+
+        /**
+         * Define o filtro ativo e busca a primeira questão correspondente.
+         * @param {string} novoFiltro - 'nao-respondi', 'errado', 'correto'
+         * @param {boolean} [forcarBusca=true] - Se deve buscar a próxima questão
+         */
+        function setFiltro(novoFiltro, forcarBusca = true) {
+            filtroAtivo = novoFiltro;
+            indiceHistorico = -1; // Reseta a navegação para começar do início da lista
+            
+            // Atualiza o estilo dos botões
+            btnFiltroNaoRespondi.classList.toggle('ativo', novoFiltro === 'nao-respondi');
+            btnFiltroErrei.classList.toggle('ativo', novoFiltro === 'errado');
+            btnFiltroAcertei.classList.toggle('ativo', novoFiltro === 'correto');
+            
+            if (forcarBusca) {
+                buscarProximaQuestao();
             }
-            
-            const questaoSorteada = questoesCarregadas[Math.floor(Math.random() * questoesCarregadas.length)];
-            
-            if (indiceHistorico < historicoNavegacao.length - 1) {
-                historicoNavegacao = historicoNavegacao.slice(0, indiceHistorico + 1);
-            }
-            
-            historicoNavegacao.push(questaoSorteada);
-            indiceHistorico = historicoNavegacao.length - 1;
-            perguntaAtual = questaoSorteada;
-            
-            exibirQuestao(perguntaAtual, indiceHistorico);
         }
         
-        function navegarHistorico(direcao) {
-            if (direcao === 'anterior') {
+        /**
+         * (NOVA) Busca a PRÓXIMA questão que corresponde ao filtroAtivo.
+         */
+        function buscarProximaQuestao() {
+            let questaoEncontrada = null;
+            
+            if (filtroAtivo === 'nao-respondi') {
+                // Filtra o "bolo" para achar questões ainda não respondidas
+                const poolNaoRespondidas = questoesCarregadas.filter(q => q.status === 'nao-respondi');
+                
+                if (poolNaoRespondidas.length === 0) {
+                    showToast("Você respondeu todas as questões!", 'success');
+                    divQuestoes.innerHTML = '';
+                    divStatus.textContent = 'Parabéns! Você respondeu todas as questões deste conjunto.';
+                    divStatus.classList.remove('hidden');
+                    return;
+                }
+                // Pega uma aleatória do pool
+                questaoEncontrada = poolNaoRespondidas[Math.floor(Math.random() * poolNaoRespondidas.length)];
+                
+                // Encontra o índice real desta questão no histórico (ou adiciona)
+                indiceHistorico = historicoNavegacao.indexOf(questaoEncontrada);
+                if (indiceHistorico === -1) {
+                    historicoNavegacao.push(questaoEncontrada);
+                    indiceHistorico = historicoNavegacao.length - 1;
+                }
+                
+            } else {
+                // Navega pelo *histórico* para 'correto' ou 'errado'
+                for (let i = indiceHistorico + 1; i < historicoNavegacao.length; i++) {
+                    if (historicoNavegacao[i].status === filtroAtivo) {
+                        questaoEncontrada = historicoNavegacao[i];
+                        indiceHistorico = i;
+                        break;
+                    }
+                }
+                
+                if (!questaoEncontrada) {
+                    const msg = filtroAtivo === 'errado' ? 'Fim da revisão de erros.' : 'Fim da revisão de acertos.';
+                    showToast(msg, 'info');
+                    // (Opcional) Poderia voltar ao início: setFiltro(filtroAtivo, true);
+                    return;
+                }
+            }
+            
+            perguntaAtual = questaoEncontrada;
+            exibirQuestao(perguntaAtual, indiceHistorico);
+        }
+
+        /**
+         * (NOVA) Busca a questão ANTERIOR que corresponde ao filtroAtivo.
+         */
+        function buscarQuestaoAnterior() {
+            let questaoEncontrada = null;
+
+            if (filtroAtivo === 'nao-respondi') {
+                // "Anterior" não faz muito sentido no modo aleatório "não-respondi"
+                // Mas podemos navegar pelo histórico de visualização
                 if (indiceHistorico > 0) {
                     indiceHistorico--;
-                    perguntaAtual = historicoNavegacao[indiceHistorico];
-                    exibirQuestao(perguntaAtual, indiceHistorico);
+                    questaoEncontrada = historicoNavegacao[indiceHistorico];
                 }
-            } else if (direcao === 'proximo') {
-                if (indiceHistorico < historicoNavegacao.length - 1) {
-                    indiceHistorico++;
-                    perguntaAtual = historicoNavegacao[indiceHistorico];
-                    exibirQuestao(perguntaAtual, indiceHistorico);
-                } else {
-                    mostrarNovaQuestaoAleatoria();
+            } else {
+                // Navega para trás no histórico buscando pelo filtro
+                for (let i = indiceHistorico - 1; i >= 0; i--) {
+                    if (historicoNavegacao[i].status === filtroAtivo) {
+                        questaoEncontrada = historicoNavegacao[i];
+                        indiceHistorico = i;
+                        break;
+                    }
                 }
+            }
+
+            if (questaoEncontrada) {
+                perguntaAtual = questaoEncontrada;
+                exibirQuestao(perguntaAtual, indiceHistorico);
+            } else {
+                showToast("Você está no início da lista.", 'info');
             }
         }
 
+        /**
+         * (MODIFICADA) Navegar agora usa as novas funções de busca com filtro.
+         */
+        function navegarHistorico(direcao) {
+            if (direcao === 'anterior') {
+                buscarQuestaoAnterior();
+            } else if (direcao === 'proximo') {
+                buscarProximaQuestao();
+            }
+        }
+
+        // --- Funções de Exibição da Questão ---
+
+        /**
+         * (MODIFICADA) Agora exibe a questão e PINTA se ela já foi respondida.
+         */
         function exibirQuestao(questao, indice) {
             divStatus.classList.add('hidden');
             divQuestoes.innerHTML = '';
+            
             const elementoQuestao = criarElementoQuestao(questao, indice);
             divQuestoes.appendChild(elementoQuestao);
+            
+            // (NOVO) Se a questão já tem um status, mostra a resposta anterior
+            if (questao.status !== 'nao-respondi') {
+                pintarCorrecao(elementoQuestao, questao.gabarito, questao.respostaUsuario);
+                elementoQuestao.dataset.respondida = 'true';
+            }
+            
             elementoQuestao.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
 
@@ -652,11 +739,23 @@
             return card;
         }
         
+        /**
+         * (MODIFICADA) Agora atualiza o STATUS da questão no objeto.
+         */
         function verificarResposta(card, alternativaSelecionada) {
             if (card.dataset.respondida) return; 
             card.dataset.respondida = 'true';
+            
             const gabarito = card.dataset.gabarito;
             const letraSelecionada = alternativaSelecionada.dataset.letra;
+            const acertou = (gabarito === letraSelecionada);
+            
+            // (NOVO) Atualiza o objeto da questão no histórico
+            if (perguntaAtual) {
+                perguntaAtual.status = acertou ? 'correto' : 'errado';
+                perguntaAtual.respostaUsuario = letraSelecionada;
+            }
+            
             pintarCorrecao(card, gabarito, letraSelecionada);
         }
 
@@ -685,6 +784,9 @@
 
         // --- Funções de Criação de UI (Botões IA e Nav) ---
 
+        /**
+         * (MODIFICADA) Os botões Anterior/Próximo agora chamam a nova função.
+         */
         function criarBotoesIAeNav(questao, indice) {
             const mainContainer = document.createElement('div');
             mainContainer.className = 'ai-nav-container mt-5 pt-4 border-t border-gray-100 flex flex-col sm:flex-row justify-between items-center gap-4';
@@ -724,12 +826,17 @@
             const btnAnterior = document.createElement('button');
             btnAnterior.className = 'flex-1 sm:flex-auto px-4 py-2 text-sm font-medium bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-colors disabled:opacity-50 disabled:cursor-not-allowed';
             btnAnterior.innerHTML = `<span class="hidden sm:inline">Anterior</span><span class="sm:hidden">&lt;</span>`;
+            // (MODIFICADO) Chama a nova função de navegação
             btnAnterior.addEventListener('click', () => navegarHistorico('anterior'));
-            btnAnterior.disabled = (indice <= 0); 
+            // (MODIFICADO) A lógica de desabilitar é mais complexa, vamos simplificar por agora
+            // btnAnterior.disabled = (indice <= 0); 
+            
             const btnProximo = document.createElement('button');
             btnProximo.className = 'flex-1 sm:flex-auto px-4 py-2 text-sm font-medium bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors';
             btnProximo.innerHTML = `<span class="hidden sm:inline">Próximo</span><span class="sm:hidden">&gt;</span>`;
+            // (MODIFICADO) Chama a nova função de navegação
             btnProximo.addEventListener('click', () => navegarHistorico('proximo'));
+
             navContainer.appendChild(btnAnterior);
             navContainer.appendChild(btnProximo);
             mainContainer.appendChild(navContainer);
