@@ -1,0 +1,666 @@
+[
+  {
+    "id": "2543900",
+    "metadata": "Ano: 2024 | Banca: SEAD-GO | Órgão: SEAD-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "De acordo com a Lei de Execução Penal, a remissão da pena, por trabalho ou estudo, de parte do tempo de execução da pena poderá ocorrer no cumprimento de: 1. regime aberto. 2. regime semiaberto. 3. regime fechado. 4. penas restritivas de direito. Assinale a alternativa que indica todas as afirmativas corretas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São corretas apenas as afirmativas 1 e 3."
+      },
+      {
+        "letra": "B",
+        "texto": "São corretas apenas as afirmativas 2 e 3."
+      },
+      {
+        "letra": "C",
+        "texto": "São corretas apenas as afirmativas 3 e 4."
+      },
+      {
+        "letra": "D",
+        "texto": "São corretas apenas as afirmativas 1, 2 e 3."
+      },
+      {
+        "letra": "E",
+        "texto": "São corretas apenas as afirmativas 2, 3 e 4."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2522207",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "Em relação à remição pela leitura, analise as assertivas abaixo: I. Apesar de ausência de previsão expressa na lei, a remição pela leitura é regulamentada por resolução do CNJ. II. A pessoa privada de liberdade pode remir até 60 dias por ano pela leitura. III. Cada livro lido equivale à remição de quadro dias de pena. IV. As obras literárias devem ser da literatura clássica brasileira, sendo vedadas leituras de letras de música e outras formas de expressão literária. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I, II e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2271453",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Vitor Rafael cumpria pena privativa de liberdade em regime fechado em unidade prisional que não tem escola instalada. Tratando-se de uma das poucas pessoas presas com o Ensino Médio completo, dava aulas aos companheiros de cárcere não alfabetizados. Além disso, dedicava-se aos estudos por conta própria, visando à aprovação no Exame Nacional do Ensino Médio (Enem), além de trabalhar na biblioteca da unidade prisional, estimulando a leitura da população prisional. Durante a fase mais dura da pandemia de Covid-19, as atividades laborativas de Vitor Rafael foram suspensas com o fechamento da biblioteca, razão pela qual ele intensificou os estudos e logrou êxito em ser aprovado nas cinco áreas do conhecimento do Enem. Considerando as posições do Superior Tribunal de Justiça sobre o instituto da remição de pena, é correto afirmar que Vitor Rafael:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deixou de remir parte da pena pelo estudo por já ter concluído o Ensino Médio, mas remiu parte da pena pelo trabalho, mesmo sem trabalhar, durante o período de não funcionamento da biblioteca;"
+      },
+      {
+        "letra": "B",
+        "texto": "remiu cem dias da pena pela aprovação no Enem, sem qualquer acréscimo, e remiu parte da pena pelo trabalho, mesmo sem trabalhar, durante o período de não funcionamento da biblioteca;"
+      },
+      {
+        "letra": "C",
+        "texto": "remiu cem dias da pena pela aprovação no Enem, sem qualquer acréscimo, mas deixou de remir parte da pena pelo trabalho, no período de suspensão das atividades da biblioteca, pois não foi impossibilitado de trabalhar por acidente;"
+      },
+      {
+        "letra": "D",
+        "texto": "remiu cem dias da pena pela aprovação no Enem, devendo ser acrescido 1/3 aos dias remidos, e deixou de remir parte da pena pelo trabalho, no período de suspensão das atividades da biblioteca, pois não se admite a remição ficta;"
+      },
+      {
+        "letra": "E",
+        "texto": "remiu cem dias da pena pela aprovação no Enem, devendo ser acrescido 1/3 aos dias remidos, além de ter remido parte da pena pelo trabalho, mesmo sem trabalhar, durante o período de não funcionamento da biblioteca."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2115906",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "O preso impossibilitado, por acidente, de prosseguir no trabalho continuará a ser beneficiado com a remição da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1952900",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Com relação ao trabalho durante a execução da pena em regime fechado, o condenado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não poderá exercê-lo fora do estabelecimento, até cumprir metade da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas poderá exercê-lo dentro do estabelecimento penal."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá exercê-lo fora do estabelecimento, mas apenas em serviços ou obras públicas."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá exercê-lo fora do estabelecimento, em serviços ou obras públicas ou em entidades privadas."
+      },
+      {
+        "letra": "E",
+        "texto": "apenas poderá exercê-lo dentro do estabelecimento penal, após o cumprimento de 1/6 da pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1938063",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre a remição de pena, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A remição por estudo será deferida na proporção de 1 (um) dia de pena a cada 12 (doze) horas de estudo, divididas em, pelo menos, 3 (três) dias, desde que as atividades sejam realizadas de forma presencial."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se aplica o acréscimo de 1/3, previsto no art. 126, § 5º da LEP, na hipótese de conclusão de nível superior antes do início de cumprimento de pena pelo condenado, conforme entendimento predominante do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "A atividade laborativa externa realizada durante o cumprimento de pena em regime fechado ou semiaberto não poderá ser considerada para fins de remição."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos termos do art. 128, da LEP, o tempo remido deverá ser abatido do total da pena imposta e não acrescido ao tempo de pena já cumprido."
+      },
+      {
+        "letra": "E",
+        "texto": "O preso impossibilitado de prosseguir no trabalho, em razão de acidente, não terá mais direito ao benefício da remição, uma vez que não conseguirá comprovar a carga de trabalho cumprida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1870426",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Assinale a opção correta, conforme a jurisprudência do STJ acerca da execução da pena.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para fins de detração da pena, não é possível considerar o tempo em que o preso ficou submetido à medida cautelar de recolhimento noturno, aos finais de semana e em dias não úteis, ainda que em monitoramento eletrônico."
+      },
+      {
+        "letra": "B",
+        "texto": "A ausência de estabelecimento adequado para cumprimento de pena no regime semiaberto não permite a prisão domiciliar."
+      },
+      {
+        "letra": "C",
+        "texto": "A unificação de penas enseja a alteração da data-base para concessão de novos benefícios executórios."
+      },
+      {
+        "letra": "D",
+        "texto": "A prática de falta grave interrompe o prazo para o livramento condicional, porém, em se tratando de comutação da pena ou indulto, tal interrupção não ocorre de forma automática."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível a remição parcial do tempo de execução da pena, caso o condenado desempenhe atividade laborativa extramuros, regra que vale tanto para o regime fechado quanto para o regime semiaberto de cumprimento da pena."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1860078",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "Com referência à execução penal, julgue o item subsequente. De acordo com o STF, na hipótese de um apenado, por determinação da direção do presídio, trabalhar 4 horas diárias, esse período deverá ser computado para fins de remição da pena, sob pena de ofensa aos princípios da segurança jurídica e da proteção da confiança.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1785362",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre a remição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É incabível a remição ficta no direito brasileiro, entendida como aquela que gera desconto de pena sem que se tenha efetivamente trabalhado ou estudado."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de conclusão do ensino médio, acresce-se um terço aos dias remidos."
+      },
+      {
+        "letra": "C",
+        "texto": "É medida da execução penal, ou seja, destinada a presos condenados e, por isso, o tempo de trabalho ou estudo do preso provisório não gera desconto de pena."
+      },
+      {
+        "letra": "D",
+        "texto": "É instituto destinado à vida no cárcere, cabível apenas nos regimes fechado e semiaberto."
+      },
+      {
+        "letra": "E",
+        "texto": "Pode ser vedada em caso de exame criminológico desfavorável, embora este não possa por si só determinar a perda de dias já remidos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1781547",
+    "metadata": "Ano: 2021 | Banca: AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Remição de pena",
+      "Modalidades das Penas privativas de liberdade"
+    ],
+    "enunciado_principal": "Referente às penas e às medidas de segurança, analise as assertivas e assinale a alternativa que aponta as corretas. I. Aplicada a pena privativa de liberdade de quatro meses de detenção, caso estejam presentes os requisitos dispostos no art. 44, do Código Penal, o juiz poderá substituí-la por uma restritiva de direitos na modalidade de prestação de serviços à comunidade, que terá, em regra, igual tempo de cumprimento, ou por uma multa. II. A pena de multa deve ser calculada em dias-multa e varia de 10 a 360 dias-multa. O número de dias-multa a ser fixado na sentença leva em consideração a situação econômica do apenado. III. O Código Penal brasileiro dispõe sobre o trabalho externo do preso, em regime fechado, e fixa regras para o trabalho em obras públicas ou privadas, incluindo as empresas privadas. Nesses casos, a cada três dias trabalhados, o condenado poderá remir um dia de sua pena. IV. Enquanto a pena funda-se no juízo de culpabilidade, a medida de segurança funda-se na periculosidade do agente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I, II e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1154121",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Remição de pena",
+      "Modalidades das Penas Restritivas de Direito",
+      "Suspensão condicional da pena. Concessão."
+    ],
+    "enunciado_principal": "Acerca de penas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O trabalho do preso servirá tão somente a sua remissão na pena."
+      },
+      {
+        "letra": "B",
+        "texto": "A reclusão e a detenção são consideradas penas restritivas de direito."
+      },
+      {
+        "letra": "C",
+        "texto": "A execução da pena privativa de liberdade não superior a dois anos poderá ser suspensa por dois a quatro anos."
+      },
+      {
+        "letra": "D",
+        "texto": "É obrigatório o cumprimento da pena de reclusão em regime fechado ou semiaberto."
+      },
+      {
+        "letra": "E",
+        "texto": "O condenado a pena igual ou inferior a quatro anos poderá, desde o início, cumpri-la em regime aberto, ainda que seja reincidente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "832346",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário",
+      "Remição de pena",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Legislação Penal Especial",
+      "Lei de Crimes Hediondos – Lei nº 8.072 de 1990",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984",
+      "Reincidência"
+    ],
+    "enunciado_principal": "NÃO sofrem influência da reincidência e da hediondez do crime na execução penal os seguintes direitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comutação e saída temporária."
+      },
+      {
+        "letra": "B",
+        "texto": "Indulto e autorização de saída."
+      },
+      {
+        "letra": "C",
+        "texto": "Progressão de regime e saída temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "Livramento condicional e remição."
+      },
+      {
+        "letra": "E",
+        "texto": "Remição e permissão de saída."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "800699",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Considerando a Lei de Execução Penal e a jurisprudência dos tribunais superiores sobre a remição, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O trabalho do preso cautelar não pode ser computado para fins de remição."
+      },
+      {
+        "letra": "B",
+        "texto": "É impossível a cumulação da remição por estudo e por trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "O trabalho intramuros é o único passível de remição."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há previsão legal de remição para o sentenciado em regime aberto."
+      },
+      {
+        "letra": "E",
+        "texto": "O aproveitamento escolar insatisfatório não impede a remição por estudo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "785440",
+    "metadata": "Ano: 2017 | Banca: IBADE | Órgão: SEJUDH - MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre remição, leia as afirmativas. I. A possibilidade de remição de dias de pena por meio da leitura se trata de analogia in bonam partem da remição por estudo, expressamente prevista no art. 126 da Lei de Execuções Penais II. O fato de o estabelecimento penal assegurar acesso a atividades laborais e à educação formal, não impede que se obtenha também a remição pela leitura, que é atividade complementar, mas não subsidiária, podendo ocorrer concomitantemente, havendo compatibilidade de horários. III. A remição não ocorre na razão dos dias efetivamente trabalhados - e sim das horas laboradas sendo que a contagem de tempo deverá ser efetuada conforme o binômio 1 dia de pena/3 dias trabalhados. IV. Com efeito, muito embora a remição da pena pelo trabalho seja um direito do condenado, é necessário que sejam observados os parâmetros ditados pela norma, que são 24 horas trabalhadas, com a remição de 1 dia a cada 3 de trabalho. Está correto apenas o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "588037",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Remição de pena",
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Com referência à remição, assinale a opção correta segundo a LEP e o entendimento do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A LEP autoriza a remição do remanescente da pena aos reeducandos em regime aberto."
+      },
+      {
+        "letra": "B",
+        "texto": "A remição da pena pelo trabalho é realizada à razão de um dia de pena a cada três dias de trabalho, cuja jornada diária não seja inferior a seis nem superior a oito horas, o que impõe, para fins de cálculo, a soma das horas e não a consideração dos dias efetivamente trabalhados."
+      },
+      {
+        "letra": "C",
+        "texto": "O tempo remido será computado para a concessão do livramento condicional e do indulto."
+      },
+      {
+        "letra": "D",
+        "texto": "A LEP autoriza a remição do remanescente da pena aos reeducandos em regime fechado, não sendo facultada a concessão do benefício nos casos em que a pena estiver sendo cumprida em regime semiaberto."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao condenado que cumpre pena em regime fechado é vedado remir parte da reprimenda pela frequência a curso de ensino regular ou de educação profissional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "331652",
+    "metadata": "Ano: 2013 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "Acerca da remição de pena, indique a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É facultativo o trabalho ao condenado, por contravenção penal, à pena de prisão simples que não excede a 1 (um) mês;"
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de falta grave, o juiz poderá revogar até 2/3 (dois terços) do tempo remido, recomeçando a contagem a partir da data da infração disciplinar;"
+      },
+      {
+        "letra": "C",
+        "texto": "O preso que trabalhar e estudar, cumulativamente, atendendo-se à carga horária, diária e legal, tanto para o trabalho como para o estudo, poderá reduzir o total de 1 (um) dia de sua pena, a cada 3 (três) dias de estudo e trabalho concomitantes;"
+      },
+      {
+        "letra": "D",
+        "texto": "O condenado que cumpre pena em regime aberto somente pode remir parte do tempo de execução de pena por meio do estudo, mas não pelo trabalho;"
+      },
+      {
+        "letra": "E",
+        "texto": "A metodologia de ensino à distância não é admitida como forma de remição por estudo, eis que se exige, da unidade de ensino, a declaração da respectiva frequência e aproveitamento escolar do apenado, como forma de comprovação das atividades."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "326097",
+    "metadata": "Ano: 2012 | Banca: MPE-MT | Órgão: MPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "Consoante entendimento do Superior Tribunal de Justiça, analise as assertivas abaixo. I - Não se admite a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos ainda que favoráveis as circunstâncias judiciais. II - Não é cabível a suspensão condicional do processo na desclassificação do crime e na procedência parcial da pretensão punitiva. III - A frequência a curso de ensino formal é causa de remição de parte do tempo de execução de pena sob regime fechado ou semiaberto. IV - É admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal. V - A falta grave interrompe o prazo para obtenção de livramento condicional. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "V, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "286524",
+    "metadata": "Ano: 2012 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "A respeito da remição de pena, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O condenado que cumpre pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução de pena, sendo que, em caso de prática de falta grave, o juiz poderá revogar até um terço do tempo remido, recomeçando a contagem a partir da data da publicação desta decisão;"
+      },
+      {
+        "letra": "B",
+        "texto": "Caberá ao juízo, discricionariamente, atendendo ao princípio de reintegração social do condenado, estabelecer o quantum a ser acrescido ao tempo já remido por horas de estudo, em caso de conclusão do ensino fundamental com certificação pelo órgão competente do sistema de educação;"
+      },
+      {
+        "letra": "C",
+        "texto": "Se o preso não pôde iniciar a frequência ao trabalho, devido a ferimentos incapacitantes que sofreu durante uma rebelião, a qual não deu causa, terá direito à remição, tendo como base de cálculo o tempo de internação hospitalar;"
+      },
+      {
+        "letra": "D",
+        "texto": "O apenado que usufrui liberdade condicional poderá remir parte do período de prova pela frequência a curso de educação profissional;"
+      },
+      {
+        "letra": "E",
+        "texto": "O tempo de remição decorrente do trabalho não pode ser somado ao tempo de remição em decorrência da frequência a curso de ensino regular."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "234832",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "O condenado que cumpre pena em regime aberto ou semiaberto poderá remir a pena pela frequência a curso de ensino regular ou de educação profissional. Caso o condenado conclua o ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação, o tempo a remir em função das horas de estudo será acrescido de um terço",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "198456",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: MPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Remição de pena"
+    ],
+    "enunciado_principal": "No que concerne à remição pelo estudo, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a contagem de tempo será feita à razão de um dia de pena a cada oito horas de frequência escolar, divididas, no mínimo, em três dias."
+      },
+      {
+        "letra": "B",
+        "texto": "as correspondentes atividades somente poderão ser desenvolvidas de forma presencial."
+      },
+      {
+        "letra": "C",
+        "texto": "o tempo remido será considerado como pena cumprida, para todos os efeitos."
+      },
+      {
+        "letra": "D",
+        "texto": "inaplicável às hipóteses de prisão cautelar."
+      },
+      {
+        "letra": "E",
+        "texto": "o juiz, em caso de falta grave, poderá revogar até metade do tempo remido."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

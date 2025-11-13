@@ -1,0 +1,705 @@
+[
+  {
+    "id": "2380859",
+    "metadata": "Ano: 2024 | Banca: IDHTEC | Órgão: Câmara de Itapissuma - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Peculato",
+      "Peculato mediante erro de outrem",
+      "Inserção de dados falsos em sistema de informações",
+      "Modificação ou alteração não autorizada de sistemas de informações",
+      "Extravio, sonegação ou inutilização de livro ou documento",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Condescendência criminosa",
+      "Advocacia administrativa",
+      "Violência arbitrária",
+      "Abandono de função",
+      "Exercício funcional ilegalmente antecipado ou prolongado",
+      "Violação de sigilo funcional",
+      "Violação de sigilo de proposta de concorrência"
+    ],
+    "enunciado_principal": "Compreende o conjunto de crimes presentes na alternativa correta, aqueles que são tipificados no Capítulo I - Dos crimes praticados por funcionário público contra a administração em geral - Título XI - Dos crimes contra a administração pública, do Decreto-lei no 2.848, de 7 de dezembro de 1940 (consideradas posteriores modificações por força de lei). Assinale a alternativa que dispõe todos os crimes tipificados no capítulo mencionado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peculato culposo; Peculato mediante erro de outrem; Inserção de dados falsos em sistema de informações; Modificação ou alteração não autorizada de sistema de informações; Extravio, sonegação ou inutilização de livro ou documento; Emprego irregular de verbas ou rendas públicas; falta ao trabalho sem justificativa; Concussão; Deslealdade para com a chefia imediata e outros servidores; Facilitação de contrabando ou descaminho; Prevaricação; Condescendência criminosa; Advocacia administrativa; Violência arbitrária; Abandono de função; Exercício funcional ilegalmente antecipado ou prolongado; Violação de sigilo funcional; Violação do sigilo de proposta de concorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "Peculato culposo; Peculato mediante erro de outrem; Inserção de dados falsos em sistema de informações; Modificação ou alteração não autorizada de sistema de informações; Extravio, sonegação ou inutilização de livro ou documento; Emprego irregular de verbas ou rendas públicas; Concussão; Corrupção passiva; Facilitação de contrabando ou descaminho; Prevaricação; Condescendência criminosa; Advocacia administrativa; Violência arbitrária; formação de quadrilha; Exercício funcional ilegalmente antecipado ou prolongado; Violação de sigilo funcional; Violação do sigilo de proposta de concorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "Peculato culposo; Peculato mediante erro de outrem; Inserção de dados falsos em sistema de informações; Modificação ou alteração não autorizada de sistema de informações; Extravio, sonegação ou inutilização de livro ou documento; Emprego irregular de verbas ou rendas públicas; Concessão a terceiros; Corrupção passiva; Uso de carro oficial para fins privados; Prevaricação; Condescendência criminosa; Advocacia administrativa; Violência arbitrária; Abandono de função; Exercício funcional ilegalmente antecipado ou prolongado; Violação de sigilo funcional; Violação do sigilo de proposta de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "Peculato culposo; Peculato mediante erro de outrem; Inserção de dados falsos em sistema de informações; Modificação ou alteração não autorizada de sistema de informações; Assassinato; sonegação ou inutilização de livro ou documento; Emprego irregular de verbas ou rendas públicas; Concussão; Corrupção passiva; Facilitação de contrabando ou descaminho; Prevaricação; Condescendência criminosa; Advocacia administrativa regular; Violência arbitrária; Assassinato; Exercício funcional ilegalmente antecipado ou prolongado; Violação de sigilo privado; Violação do sigilo de proposta de concorrência."
+      },
+      {
+        "letra": "E",
+        "texto": "Peculato culposo; Peculato mediante erro de outrem; Inserção de dados falsos em sistema de informações; Modificação ou alteração não autorizada de sistema de informações; Extravio, sonegação ou inutilização de livro ou documento; Emprego irregular de verbas ou rendas públicas; Concussão; Corrupção passiva; Facilitação de contrabando ou descaminho; Prevaricação; Condescendência criminosa; Advocacia administrativa; Violência arbitrária; Abandono de função; Exercício funcional ilegalmente antecipado ou prolongado; Violação de sigilo funcional; Violação do sigilo de proposta de concorrência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2162298",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de São Cristóvão - SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária",
+      "Resistência",
+      "Desobediência",
+      "Exercício arbitrário das próprias razões"
+    ],
+    "enunciado_principal": "Diego, com o objetivo de impedir a execução de uma ordem judicial, ameaçou e agrediu um oficial de justiça que se encontrava em sua residência para realizar uma intimação. Nessa situação hipotética, Diego praticou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "violência arbitrária."
+      },
+      {
+        "letra": "B",
+        "texto": "desobediência."
+      },
+      {
+        "letra": "C",
+        "texto": "exercício arbitrário das próprias razões."
+      },
+      {
+        "letra": "D",
+        "texto": "resistência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1258234",
+    "metadata": "Ano: 2020 | Banca: INSTITUTO AOCP | Órgão: Prefeitura de Novo Hamburgo - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Está prevista como crime a conduta de “Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário.”. Diante do exposto, assinale a alternativa que apresenta o crime a que o funcionário público estará sujeito ao cometer tal conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condescendência criminosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Advocacia administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Violência arbitrária."
+      },
+      {
+        "letra": "D",
+        "texto": "Prevaricação."
+      },
+      {
+        "letra": "E",
+        "texto": "Corrupção passiva."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2008688",
+    "metadata": "Ano: 2019 | Banca: IMA | Órgão: Prefeitura de Paço do Lumiar - MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Prevaricação",
+      "Condescendência criminosa",
+      "Advocacia administrativa",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente, caracteriza, segundo dispõe o art. 320 do Código Penal, o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevaricação."
+      },
+      {
+        "letra": "B",
+        "texto": "Condescendência criminosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Violência arbitrária."
+      },
+      {
+        "letra": "D",
+        "texto": "Advocacia administrativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1797959",
+    "metadata": "Ano: 2019 | Banca: CETAP | Órgão: Prefeitura de Ananindeua - PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "O crime de Violência arbitrária tipificado no art. 322 consiste em praticar violência, no exercício de função ou a pretexto de exercê-la. Qual a pena aplicada a esse crime?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reclusão, de um a três anos e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "detenção, de 3 (três) mesesa1 (um) ano."
+      },
+      {
+        "letra": "C",
+        "texto": "detenção, de quinze dias a um mês, ou multa."
+      },
+      {
+        "letra": "D",
+        "texto": "detenção, de seis meses a três anos, além da pena correspondente à violência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1624850",
+    "metadata": "Ano: 2019 | Banca: ADVISE | Órgão: Prefeitura de Juarez Távora - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Prevaricação",
+      "Condescendência criminosa",
+      "Advocacia administrativa",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Adriano, diretor de penitenciária, deixou de cumprir seu dever de vedar aos presos o acesso a aparelho telefônico. De acordo com o Código Penal, Adriano praticou o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condescendência criminosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Advocacia administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "Violência arbitrária."
+      },
+      {
+        "letra": "E",
+        "texto": "Desvio de função."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1049636",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Arujá - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Advocacia administrativa",
+      "Violência arbitrária",
+      "Violação de sigilo funcional"
+    ],
+    "enunciado_principal": "Caio, funcionário público encarregado da cobrança de tributos, em razão do inadimplemento contumaz da empresa “Pão de Mel”, ficou um dia inteiro com um megafone dizendo que a empresa e seus sócios eram caloteiros e não pagavam seus débitos. A conduta de Caio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prática do crime de excesso de exação."
+      },
+      {
+        "letra": "B",
+        "texto": "lícita, tendo em vista que, como funcionário público, deve empregar todos os meios para incentivar o pagamento de tributos pelos devedores do fisco."
+      },
+      {
+        "letra": "C",
+        "texto": "prática do crime de advocacia administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "prática do crime de violência arbitrária."
+      },
+      {
+        "letra": "E",
+        "texto": "prática do crime de violação de sigilo profissional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1041769",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Campinas - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Prevaricação",
+      "Violência arbitrária",
+      "Exercício funcional ilegalmente antecipado ou prolongado"
+    ],
+    "enunciado_principal": "O funcionário público que, na cobrança de contribuição social devida, emprega meio vexatório ou gravoso, em tese,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pratica o crime de prevaricação."
+      },
+      {
+        "letra": "B",
+        "texto": "não pratica qualquer crime."
+      },
+      {
+        "letra": "C",
+        "texto": "pratica o crime de excesso de exação."
+      },
+      {
+        "letra": "D",
+        "texto": "pratica o crime de exercício funcional ilegalmente antecipado."
+      },
+      {
+        "letra": "E",
+        "texto": "pratica o crime de violência arbitrária."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1027459",
+    "metadata": "Ano: 2019 | Banca: IF-MT | Órgão: IF-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Facilitação de contrabando ou descaminho",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Analise a situação hipotética: servidora pública Ana das Flores, ocupante do cargo de fiscal de tributos, exige tributo indevido, e, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza. Assinale a alternativa CORRETA que corresponde ao crime praticado por Ana das Flores.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Concussão e excesso de exação."
+      },
+      {
+        "letra": "B",
+        "texto": "Facilitação de contrabando ou descaminho."
+      },
+      {
+        "letra": "C",
+        "texto": "Excesso de exação."
+      },
+      {
+        "letra": "D",
+        "texto": "Corrupção passiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Violência arbitrária."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1701618",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: Câmara de Salvador - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária",
+      "Resistência",
+      "Desobediência",
+      "Desacato"
+    ],
+    "enunciado_principal": "Caio, funcionário da ouvidoria de determinado órgão público, no exercício de suas funções, é surpreendido por João, totalmente insatisfeito com a demora em seu atendimento. Quando chega a sua vez de ser atendido, João passa a afirmar, na frente de diversas pessoas, que Caio é um “incompetente”, que “certamente teria retardo mental” e que explicaria suas necessidades “com bastante calma para que até uma pessoa como Caio pudesse entender”. Caio, então, sentindo-se humilhado, informa o fato a Policiais Militares que faziam a segurança em frente ao órgão em que exercia suas funções. Considerando apenas as informações narradas, a conduta de João, de acordo com as previsões do Código Penal, configura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "resistência;"
+      },
+      {
+        "letra": "B",
+        "texto": "desobediência;"
+      },
+      {
+        "letra": "C",
+        "texto": "desacato;"
+      },
+      {
+        "letra": "D",
+        "texto": "violência arbitrária;"
+      },
+      {
+        "letra": "E",
+        "texto": "atipicidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "721128",
+    "metadata": "Ano: 2015 | Banca: SEGPLAN-GO | Órgão: SEAP-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Inserção de dados falsos em sistema de informações",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "O Capítulo I, do Título XI – Dos crimes contra a administração pública, trata dos crimes praticados por funcionário público contra a administração em geral, assim sendo, entende-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corrupção passiva - Facilitar, com infração de dever funcional, a prática de contrabando ou descaminho."
+      },
+      {
+        "letra": "B",
+        "texto": "Inserção de dados falsos em sistema de informações - Dar às verbas ou rendas públicas aplicação diversa da estabelecida em lei."
+      },
+      {
+        "letra": "C",
+        "texto": "Concussão - Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "Violência arbitrária - Abandonar cargo público, fora dos casos permitidos em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "Prevaricação - Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "598638",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Violência arbitrária",
+      "Abandono de função",
+      "Violação de sigilo funcional"
+    ],
+    "enunciado_principal": "NÃO constitui crime praticado por funcionário público contra a administração em geral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "excesso de exação;"
+      },
+      {
+        "letra": "B",
+        "texto": "violência arbitrária;"
+      },
+      {
+        "letra": "C",
+        "texto": "abandono de função;"
+      },
+      {
+        "letra": "D",
+        "texto": "corrupção ativa;"
+      },
+      {
+        "letra": "E",
+        "texto": "violação de sigilo funcional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "591362",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade ideológica",
+      "Crimes contra a administração pública",
+      "Violência arbitrária",
+      "Resistência",
+      "Desobediência",
+      "Legislação Penal Especial",
+      "Lei do Abuso de Autoridade – Lei nº 4.898 de 1965 e Lei n° 13.869 de 2019"
+    ],
+    "enunciado_principal": "Nessa situação hipotética, Marcelo cometeu os crimes de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abuso de autoridade e falsidade ideológica, e José praticou o crime de desobediência."
+      },
+      {
+        "letra": "B",
+        "texto": "abuso de autoridade e falsificação de documento público, e José cometeu o crime de desobediência."
+      },
+      {
+        "letra": "C",
+        "texto": "abuso de autoridade e falsidade ideológica, e José cometeu o delito de resistência."
+      },
+      {
+        "letra": "D",
+        "texto": "violência arbitrária e falsidade ideológica, e José praticou o delito de desobediência."
+      },
+      {
+        "letra": "E",
+        "texto": "violência arbitrária e falsificação de documento público, e José praticou a infração penal de resistência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "578649",
+    "metadata": "Ano: 2015 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: Câmara Municipal do Rio de Janeiro",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Praticar violência, no exercício de função ou a pretexto de exercê-la, é tipo penal punido com a seguinte pena:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reclusão, de um a cinco anos"
+      },
+      {
+        "letra": "B",
+        "texto": "reclusão, de três a seis meses"
+      },
+      {
+        "letra": "C",
+        "texto": "detenção, de um a quatro anos"
+      },
+      {
+        "letra": "D",
+        "texto": "detenção, de seis meses a três anos"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "510212",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: Prefeitura de Goianésia - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Conforme tipificado no Código Penal, o agente que exige, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, pratica o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão."
+      },
+      {
+        "letra": "B",
+        "texto": "corrupção passiva."
+      },
+      {
+        "letra": "C",
+        "texto": "prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "violência arbitrária."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "353302",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Condescendência criminosa",
+      "Advocacia administrativa",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "De um lado, “solicitar” ou “receber” e, de outro lado, “exigir” compõem núcleos opostos que, respectivamente, diferenciam, entre si, duas importantes e recorrentes figuras penais, ambas cometidas por funcionários públicos. Embora, nesse ponto, substancialmente diversas, no mais, mostram-se apenas aparentemente próximas uma da outra. São elas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prevaricação e violência arbitrária."
+      },
+      {
+        "letra": "B",
+        "texto": "condescendência criminosa e excesso de exação."
+      },
+      {
+        "letra": "C",
+        "texto": "advocacia administrativa e corrupção."
+      },
+      {
+        "letra": "D",
+        "texto": "peculato culposo e peculato doloso."
+      },
+      {
+        "letra": "E",
+        "texto": "corrupção passiva e concussão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "761996",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: COREN-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "O funcionário público que exige para si, em razão de sua função, vantagem indevida comete o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "peculato."
+      },
+      {
+        "letra": "B",
+        "texto": "corrupção passiva."
+      },
+      {
+        "letra": "C",
+        "texto": "prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "concussão."
+      },
+      {
+        "letra": "E",
+        "texto": "violência arbitrária."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "543352",
+    "metadata": "Ano: 2013 | Banca: IF-PB | Órgão: IF-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Extravio, sonegação ou inutilização de livro ou documento",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra a Administração Pública, segundo o Código Penal Brasileiro, nos seus arts. 312 ao 327, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se peculato, apropriar-se o funcionário público, de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio."
+      },
+      {
+        "letra": "B",
+        "texto": "Considera-se extravio, sonegação ou inutilização de livro ou documento extraviar livro oficial ou qualquer documento de que tem a guarda em razão do cargo; sonegá-lo ou inutilizá-lo, total ou parcialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se corrupção passiva, exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se prevaricação, retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal."
+      },
+      {
+        "letra": "E",
+        "texto": "Considera-se violência arbitrária, praticar violência, no exercício de função ou a pretexto de exercê-la."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "377574",
+    "metadata": "Ano: 2013 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: Prefeitura de Rio de Janeiro - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária",
+      "Resistência",
+      "Desobediência",
+      "Desacato"
+    ],
+    "enunciado_principal": "Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio, configura o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desobediência"
+      },
+      {
+        "letra": "B",
+        "texto": "desacato"
+      },
+      {
+        "letra": "C",
+        "texto": "resistência"
+      },
+      {
+        "letra": "D",
+        "texto": "violência arbitrária"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1664504",
+    "metadata": "Ano: 2012 | Banca: FDC | Órgão: Prefeitura de Belo Horizonte - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Violência arbitrária"
+    ],
+    "enunciado_principal": "Pedro, servidor de temperamento difícil, no horário de seu expediente, acaba praticando violência por interpretar de forma ofensiva, equivocadamente, uma instrução de seu chefe. Diante disso, Pedro está sujeito, além da pena correspondente à violência, à detenção pelo período de seis meses a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nove meses"
+      },
+      {
+        "letra": "B",
+        "texto": "um ano"
+      },
+      {
+        "letra": "C",
+        "texto": "dois anos"
+      },
+      {
+        "letra": "D",
+        "texto": "três anos"
+      },
+      {
+        "letra": "E",
+        "texto": "quatro anos"
+      }
+    ],
+    "gabarito": "D"
+  }
+]

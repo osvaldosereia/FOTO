@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2221682",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Crimes contra a dignidade sexual",
+      "Favorecimento da prostituição ou outra forma de exploração sexual",
+      "Rufianismo",
+      "Tráfico de Pessoas",
+      "Promoção de migração ilegal"
+    ],
+    "enunciado_principal": "Orlando e Frederico intermediaram a ida para Amsterdã de três mulheres, maiores de idade, que estavam insatisfeitas com os rendimentos econômicos no Brasil, para trabalhar como profissionais do sexo. Não existiu nenhuma violência ou fraude e houve o pagamento do valor acordado pela intermediação. Nos termos da legislação brasileira, tal situação fática configura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fato atípico;"
+      },
+      {
+        "letra": "B",
+        "texto": "crime de tráfico de pessoas (Art. 149-A do CP);"
+      },
+      {
+        "letra": "C",
+        "texto": "crime de rufianismo (Art. 230 do CP);"
+      },
+      {
+        "letra": "D",
+        "texto": "crime de favorecimento da prostituição (Art. 228 do CP);"
+      },
+      {
+        "letra": "E",
+        "texto": "crime de promoção de migração ilegal (Art. 232-A do CP)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1933400",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a dignidade sexual",
+      "Promoção de migração ilegal"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito dos crimes contra a dignidade sexual.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo o atual Código Penal, constitui crime contra a dignidade sexual o aliciamento de pessoa, mediante abuso, para fim de exploração sexual."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há crime quando o agente transmite e divulga cenas pornográficas que envolvam pessoa com 16 anos de idade, devidamente identificada, no caso de se destinarem a fins acadêmicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui crime a filmagem de conteúdo com ato libidinoso, de caráter íntimo e privado, sem autorização dos participantes, não havendo delito quando se tratar de mera montagem de cena de nudez, ainda que sem o consentimento dos participantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de delito de satisfação de lascívia mediante a presença de adolescente, previsto no Código Penal, a prática de conjunção carnal, na presença de uma pessoa com 16 anos, com o objetivo de saciar a própria lascívia."
+      },
+      {
+        "letra": "E",
+        "texto": "Inclui-se entre os crimes contra a dignidade sexual, descrito no Código Penal, a promoção, por qualquer meio, de entrada ilegal de brasileiro em país estrangeiro, com a finalidade de obtenção de vantagem econômica."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

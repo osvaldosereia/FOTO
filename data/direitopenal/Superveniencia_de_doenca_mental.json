@@ -1,0 +1,311 @@
+[
+  {
+    "id": "2312113",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "Em ação penal na qual Bianca responde pelo crime de furto, cujas penas cominadas são de reclusão, de 1 a 4 anos, e multa, consta dos autos laudo de exame de sanidade mental da ré, o qual conclui que, ao tempo do crime, ela, por perturbação da saúde mental, não possuía capacidade plena de autodeterminação, necessitando de tratamento curativo. Diante do caso narrado, à luz da jurisprudência do Superior Tribunal de Justiça sobre o tema, o juiz deverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "condenar a ré, reduzindo a pena de reclusão, mas não a de multa, de um a dois terços;"
+      },
+      {
+        "letra": "B",
+        "texto": "absolver a ré, aplicando medida de segurança de internação em hospital de custódia e tratamento psiquiátrico;"
+      },
+      {
+        "letra": "C",
+        "texto": "condenar a ré, substituindo a pena de reclusão por medida de segurança de internação em hospital de custódia e tratamento psiquiátrico;"
+      },
+      {
+        "letra": "D",
+        "texto": "absolver a ré, aplicando medida de segurança de internação em hospital de custódia e tratamento psiquiátrico ou de submissão a tratamento ambulatorial;"
+      },
+      {
+        "letra": "E",
+        "texto": "condenar a ré, substituindo a pena de reclusão por medida de segurança de internação em hospital de custódia e tratamento psiquiátrico ou de submissão a tratamento ambulatorial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2207116",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Conceito de Medida de Segurança",
+      "Distinções entre a pena e a medida de segurança",
+      "Espécies de Medida de Segurança",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "No que diz respeito ao direito penal, julgue o item a seguir.A liberação do preso internado em hospital de custódia será sempre condicional, devendo ser restabelecida a situação anterior se o agente, antes do decurso de um ano, praticar fato indicativo de persistência de sua periculosidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1173714",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Prazo de duração",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "Com relação às medidas de segurança, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desinternação do agente, constatada a cessação da periculosidade, será sempre condicional. Restabelece-se a situação anterior se o agente, antes do decurso de 01 (um) ano, pratica fato que indique persistir a periculosidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O ordenamento brasileiro, no que diz respeito às medidas de segurança, adotou o sistema do duplo binário, aplicando-se ao semi-imputável pena ou medida de segurança."
+      },
+      {
+        "letra": "C",
+        "texto": "A medida de segurança, a despeito de não ter prazo de duração determinado, não pode ter duração inferior a 03 (três) anos."
+      },
+      {
+        "letra": "D",
+        "texto": "O exame pericial para verificar a cessação ou não da periculosidade do agente será realizado a cada 03 (três) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A medida de segurança se impõe ainda que extinta a punibilidade do agente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "839103",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PCA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Penas privativas de liberdade",
+      "Medida de segurança",
+      "Superveniência de doença mental",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984",
+      "Modalidades de sanções penais",
+      "Modalidades das Penas privativas de liberdade"
+    ],
+    "enunciado_principal": "Estabelece a Lei de Execução Penal que, durante a execução da pena, sobrevindo doença mental no condenado,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá ter a pena diminuída de 1/3 a 2/3."
+      },
+      {
+        "letra": "B",
+        "texto": "terá a sua pena substituída por medida de segurança."
+      },
+      {
+        "letra": "C",
+        "texto": "será internado em Hospital de Custódia e Tratamento Psiquiátrico."
+      },
+      {
+        "letra": "D",
+        "texto": "terá o restante da pena remida e deverá submeter-se a tratamento psiquiátrico ambulatorial."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá ser submetido a perícia médico-legal para apurar a sua periculosidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "819014",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Superveniência de doença mental",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre a superveniência de doença mental ao apenado na fase de execução de pena, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobrevinda doença mental ao réu depois da sentença condenatória, haja vista exceção expressa no CPP, pode ser decretada pelo juízo da causa, ao constatar a enfermidade do apenado em oitiva, a sua remoção provisória para hospital de custódia e tratamento psiquiátrico, sem prejuízo de revisão da decisão judicial em sede de recurso, pendente de exame."
+      },
+      {
+        "letra": "B",
+        "texto": "Pela Lei de Execução Penal, atestada em perícia médica o leve grau da enfermidade do apenado, mesmo não tendo sido feita a conversão da pena em medida de segurança, poderá ser determinado pelo juízo o tratamento ambulatorial na própria unidade penitenciária, em vez de ser decretada a internação em hospital de custódia."
+      },
+      {
+        "letra": "C",
+        "texto": "Em qualquer circunstância, a remoção do apenado para hospital de custódia e tratamento psiquiátrico poderá ser determinada provisoriamente pelo diretor do estabelecimento penal, comunicando-se imediatamente ao juiz, que em face da perícia médica, ratificará ou revogará a medida, na forma de regras do CPP não revogadas pela reforma legislativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Suspensa a execução da pena em virtude de superveniência de doença mental do apenado, aplicada a medida de segurança, prevalecem as normas desta até o fim da execução, mesmo que antes do término do tempo de pena ocorra a cura da enfermidade, atestada em perícia."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz da execução poderá, com base em perícia médica, determinar o internamento em hospital de custódia e tratamento psiquiátrico ou, a conversão da pena em medida de segurança, acaso sobrevinda a doença mental ao apenado durante a execução."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "799970",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Espécies de Medida de Segurança",
+      "Prazo de duração",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "Acerca das medidas de segurança, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As medidas de segurança aplicam-se no caso de prática de contravenção prevista na Lei nº 3.688/41."
+      },
+      {
+        "letra": "B",
+        "texto": "O réu deve ser absolvido e aplicada medida de segurança, caso seja constatada a inimputabilidade por doença mental superveniente à prática do fato."
+      },
+      {
+        "letra": "C",
+        "texto": "As medidas de segurança de internação ou tratamento ambulatorial, quanto aos réus inimputáveis, são aplicáveis por prazo determinado de 01 a 03 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Após a aplicação de medida de segurança de tratamento ambulatorial poderá ser determinada a internação, no processo de execução, se o acusado praticar novo crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "808575",
+    "metadata": "Ano: 2016 | Banca: SUGEP - UFRPE | Órgão: UFRPE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "De acordo com o Artigo 41 do Código Penal, no que se refere à ocorrência de superveniência de doença mental, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um dos critérios é a existência de nexo de causalidade (critério biopsicológico)."
+      },
+      {
+        "letra": "B",
+        "texto": "Um critério é o aparecimento de sintomas psiquiátricos em um determinado indivíduo, em qualquer período após a prática de um ato criminoso."
+      },
+      {
+        "letra": "C",
+        "texto": "A positividade do exame de superveniência de doença mental, estabelecida antes do julgamento, culminará com a suspensão do processo indefinidamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caráter de urgência, os diretores das unidades prisionais podem remover os apenados que apresentarem superveniência de doença mental para os Hospitais de Custódia e Tratamento Psiquiátrico, mesmo sem ordem judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "Na situação em que for constatada doença mental, passível de se beneficiar com especial tratamento curativo, o examinando deverá ter sua pena substituída por Medida de Segurança."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "592484",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Distinções entre a pena e a medida de segurança",
+      "Prazo de duração",
+      "Superveniência de doença mental",
+      "Inimputabilidade decorrente de dependência química"
+    ],
+    "enunciado_principal": "Com relação à aplicação da pena, à medida de segurança e ao instituto da prescrição, julgue o item que se segue. Segundo o entendimento pacificado do STJ, a execução de medida de segurança perdurará enquanto não cessar a periculosidade do inimputável, sujeitando-se, independentemente do delito, ao tempo máximo de duração de trinta anos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "530193",
+    "metadata": "Ano: 2014 | Banca: SEGPLAN-GO | Órgão: SEAP-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "Quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juiz poderá determinar a substituição da pena por medida de segurança:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a requerimento do Ministério Público."
+      },
+      {
+        "letra": "B",
+        "texto": "de ofício ou a requerimento do Ministério Público ou da Defensoria Pública ou da autoridade administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "de ofício ou a requerimento do Ministério Público."
+      },
+      {
+        "letra": "D",
+        "texto": "a requerimento do Ministério Público ou da autoridade administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma das alternativas acima está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "530381",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Inimputabilidade por doença mental",
+      "Medida de segurança",
+      "Superveniência de doença mental"
+    ],
+    "enunciado_principal": "Marcos, de cinquenta anos de idade, com histórico bem documentado de esquizofrenia paranoide, assim que entrou em casa, após um dia de trabalho, encontrou a esposa com o amante e os matou com uma faca de cozinha. Após o crime, Marcos tentou esconder os corpos em um buraco cavado no jardim e eliminou os sinais de sangue do interior de sua residência.Tendo como referência a situação hipotética apresentada acima, julgue o seguinte item.Se for condenado e, durante o cumprimento da pena, ocorrer exacerbação de sintomas psicóticos, Marcos deverá ser submetido a exame de superveniência de doença mental e transferido para hospital de custódia e tratamento.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

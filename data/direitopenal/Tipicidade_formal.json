@@ -1,0 +1,956 @@
+[
+  {
+    "id": "3407465",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, com relação aos princípios do direito penal e à aplicação da legislação penal.Pelo princípio da adequação social, considera-se materialmente atípica a conduta geradora de ínfima lesão ao interesse tutelado pela norma.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3029591",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "João responde, em juízo, pela prática de um crime de competência da Justiça Federal. Deflagrada a audiência de instrução, após a oitiva da vítima e das testemunhas de acusação, Maria, arrolada pela defesa técnica, foi avisada pelo magistrado de que seria ouvida na qualidade de informante, e não na de testemunha, em razão da relação de amizade íntima com o réu. Finda a audiência, ficou evidenciado que Maria mentiu em diversas passagens das suas declarações, embora não tenha ocorrido qualquer prejuízo ao deslinde do processo, já que a sua versão restou isolada. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Maria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não responderá por qualquer crime, pois, apesar de a conduta ser formalmente típica, a versão da declarante, isolada nos autos, não prejudicou o deslinde do processo;"
+      },
+      {
+        "letra": "B",
+        "texto": "responderá pelo crime de favorecimento pessoal, com a incidência de uma causa de aumento de pena;"
+      },
+      {
+        "letra": "C",
+        "texto": "responderá pelo crime de falso testemunho, com a incidência de uma causa de aumento de pena;"
+      },
+      {
+        "letra": "D",
+        "texto": "responderá pelo crime de fraude processual, com a incidência de uma qualificadora;"
+      },
+      {
+        "letra": "E",
+        "texto": "não responderá por qualquer crime, em razão da atipicidade formal da conduta."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2503327",
+    "metadata": "Ano: 2024 | Banca: UniRV - GO | Órgão: UniRV - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Segundo Zaffaroni e Pierangeli, “a tipicidade penal implica a contrariedade com a ordem normativa, mas não implica a antijuridicidade (a contrariedade com a ordem jurídica), porque pode haver uma causa de justificação (um preceito permissivo) que ampare a conduta”. Desse modo, considerando que a tipicidade é a correspondência entre o fato praticado pelo agente e a descrição de cada infração contida na lei penal incriminadora, pode-se afirmar que a tipicidade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constitui elemento do fato típico."
+      },
+      {
+        "letra": "B",
+        "texto": "Decorre da antijuridicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Implica em antijuridicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Equivale à culpabilidade nos crimes culposos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2271434",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra o patrimônio",
+      "Dano"
+    ],
+    "enunciado_principal": "Tidão, primário, durante o cumprimento de pena privativa de liberdade decorrente de sentença penal condenatória transitada em julgado pela prática de roubo, rasga, em várias partes, o lençol que lhe foi fornecido pela Secretaria de Administração Penitenciária do Rio de Janeiro (Seap) com o intento de fazer um varal para que suas roupas lavadas pudessem secar com maior rapidez. O agente penitenciário de plantão, durante o confere diário do efetivo, ao adentrar a cela de Tidão percebe o dano causado ao item e comunica, imediatamente, à direção da unidade prisional. Com isso, o fato chega ao conhecimento do Ministério Público que oferece a peça vestibular acusatória por dano ao patrimônio público (Art. 163, parágrafo único, inciso III, do Código Penal), dando início à demanda penal. Considerando a doutrina pátria garantista sobre a teoria do crime e a jurisprudência ventilada no Supremo Tribunal Federal, é correto afirmar que Tidão deverá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "responsabilizado penalmente, considerando que seu comportamento se adequou formalmente aos elementos do Art. 163, parágrafo único, inciso III, do Código Penal. Além disso, embora Tidão tenha apenas inutilizado um lençol que lhe foi fornecido pelo Estado, considerando a Súmula 599 do Superior Tribunal de Justiça (“O princípio da insignificância é inaplicável aos crimes contra a administração pública”), não poderá ser utilizado o princípio da bagatela, observada, portanto, a tipicidade material;"
+      },
+      {
+        "letra": "B",
+        "texto": "absolvido sumariamente. Analisando o caso apresentado diante do conceito estratificado de infração penal, embora seu comportamento tenha se adequado aos elementos descritos abstratamente no Art. 163, parágrafo único, inciso III, do Código Penal, ele agiu acobertado pelo erro de proibição direto invencível, sendo gerada em seu favor a exclusão da culpabilidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "absolvido sumariamente. Analisando o caso apresentado diante do conceito estratificado de infração penal, constatase a atipicidade formal. Isso porque o crime de dano é considerado, segundo entendimento doutrinário defensivo, delito de intenção, não sendo observado, no caso apresentado, o elemento subjetivo especial do injusto expressamente previsto em lei. Além disso, também é motivo para sua absolvição a atipicidade material, pois, conforme precedentes do Supremo Tribunal Federal, tem-se a orientação de que o cometimento de conduta em prejuízo da administração pública não impede, a princípio, a incidência do princípio da bagatela, pois devem ser avaliadas as especificidades do caso concreto;"
+      },
+      {
+        "letra": "D",
+        "texto": "absolvido sumariamente. Analisando o caso apresentado diante do conceito estratificado de infração penal, embora sua conduta tenha se adequado formalmente aos elementos descritos abstratamente no Art. 163, parágrafo único, inciso III, do Código Penal, poderá, em sua defesa, ser utilizado o princípio da bagatela imprópria e a consequente atipicidade material, pois, conforme precedentes do Supremo Tribunal Federal, tem-se a orientação de que o cometimento de conduta em prejuízo da administração pública não impede, a princípio, a incidência do princípio da bagatela imprópria, pois devem ser avaliadas as especificidades do caso concreto;"
+      },
+      {
+        "letra": "E",
+        "texto": "absolvido sumariamente. Analisando o caso apresentado diante do conceito estratificado de infração penal, constatase a atipicidade formal. Isso porque o crime de dano é considerado, segundo entendimento doutrinário defensivo, delito de tendência, não sendo observado, no caso apresentado, o elemento implícito e subjetivo especial do injusto. Além disso, também é motivo para sua absolvição a atipicidade material, pois, conforme precedentes do Supremo Tribunal Federal, tem-se a orientação de que o cometimento de conduta em prejuízo da administração pública não impede, a princípio, a incidência do princípio da bagatela, pois devem ser avaliadas as especificidades do caso concreto."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1981460",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Tipicidade formal",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "O tipo penal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no crime omissivo próprio exige o comportamento ativo do agente de acordo com sua relação com o bem jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "representa um indício da culpabilidade segundo a teoria materialista objetiva do delito."
+      },
+      {
+        "letra": "C",
+        "texto": "tem sua primeira construção dogmática no finalismo de Hans Welzel."
+      },
+      {
+        "letra": "D",
+        "texto": "demanda o desvalor do resultado para sua existência como elemento do delito."
+      },
+      {
+        "letra": "E",
+        "texto": "é a estrutura legal que descreve o comportamento proibido, possuindo função de garantia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1911414",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: SEFAZ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Desdêmona é empresária e foi denunciada por sonegação de ICMS devido pela sua empresa, por não ter escriturado regularmente notas fiscais referentes às vendas feitas para determinado cliente. O valor total do ICMS sonegado é de R$ 9.000,00 (nove mil reais). A procuradoria fazendária daquele Estado da Federação não ajuizou ação de execução fiscal, pois esse valor sonegado fica aquém do patamar legal mínimo para tanto. Nessa hipótese, é correto afirmar que a conduta de Desdêmona é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "típica."
+      },
+      {
+        "letra": "B",
+        "texto": "atípica por erro de tipo."
+      },
+      {
+        "letra": "C",
+        "texto": "atípica pela insignificância."
+      },
+      {
+        "letra": "D",
+        "texto": "atípica pela adequação social."
+      },
+      {
+        "letra": "E",
+        "texto": "atípica pois é autolesiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1865576",
+    "metadata": "Ano: 2021 | Banca: IV - UFG | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Corrupção ativa"
+    ],
+    "enunciado_principal": "Leia o texto a seguir, em que o mote é a corrupção sindrômica, que engloba a corrupção sistêmica: motivo do protesto do manifestante; e a corrupção endêmica: praticada pelo manifestante.De acordo com o texto apresentado, considere a questão penal que envolve o tema e que o funcionário público refutou o suborno. Neste caso, o manifestante",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "praticou o crime de corrupção ativa tentada, uma vez que a finalidade, obtenção de omissão de ato de ofício, não foi atingida."
+      },
+      {
+        "letra": "B",
+        "texto": "não praticou crime algum, uma vez que o crime de corrupção ativa é material e não admite tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "praticou crime de corrupção ativa e terá sua pena aumentada de dois terços, em razão do não recebimento da vantagem indevida pelo funcionário público."
+      },
+      {
+        "letra": "D",
+        "texto": "praticou corrupção ativa, que independe da ocorrência da corrupção passiva para a sua consumação, ato classificado como crime formal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1828386",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Acerca de crimes contra a pessoa, julgue o item a seguir.Para fins de tipificação penal, admite-se a possibilidade de incidência da qualificadora do motivo torpe em caso de crime de feminicídio, visto que este possui natureza objetiva na qualificadora do crime de homicídio, não havendo, com as incidências, bis in idem.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1138160",
+    "metadata": "Ano: 2020 | Banca: FCC | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental"
+    ],
+    "enunciado_principal": "Em relação à tipicidade penal, correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é excluída pelos chamados princípios da insignificância e adequação social, ausentes tipicidade formal e material, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "o consentimento do ofendido, às vezes, pode afastar a própria tipicidade da conduta e, em outras, constituir causa supralegal de exclusão da ilicitude, segundo entendimento doutrinário."
+      },
+      {
+        "letra": "C",
+        "texto": "o erro sobre elemento do tipo exclui o dolo e, por isso, incide sobre a ilicitude do comportamento, refletindo na culpabilidade, de modo a excluí-la ou atenuá-la."
+      },
+      {
+        "letra": "D",
+        "texto": "é afastada nas hipóteses de crime impossível e arrependimento posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "o dolo, segundo a teoria finalista, constitui elemento normativo do tipo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "978057",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Antijuridicidade",
+      "Noções Gerais Antijuridicidade"
+    ],
+    "enunciado_principal": "João subtrai para si um pacote de bolachas no valor de R$ 10,00 de um grande supermercado e o fato se encaixa formalmente no art. 155 do Código Penal. Em virtude da inexpressividade da lesão causada ao patrimônio da vítima e pelo desvalor da conduta, incide o princípio da insignificância que tem sido aceito pela doutrina e por algumas decisões judiciais como excludente de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "punibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "tipicidade material."
+      },
+      {
+        "letra": "C",
+        "texto": "culpabilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "ilicitude formal."
+      },
+      {
+        "letra": "E",
+        "texto": "executividade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "973950",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Tipicidade formal",
+      "Noções Gerais da Culpabilidade"
+    ],
+    "enunciado_principal": "“Mas o que possibilita a ‘visão científica no Direito Penal’? O conceito de crime, mais especificamente um conceito denominado analítico, porquanto ‘analisa’ o crime em partes. É este, na verdade, o conceito mais importante do Direito Penal” (BACILA, 2011). Com base no texto, assinale a alternativa que apresenta o elemento do conceito analítico de crime que descreve a conduta proibida pela norma penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imputabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Culpabilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Tipo subjetivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Tipo objetivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Potencial conhecimento do ilícito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "952584",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Considerando-se o conceito analítico de crime, exclui-se a conduta quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presente coação moral irresistível."
+      },
+      {
+        "letra": "B",
+        "texto": "presentes caso fortuito e força maior."
+      },
+      {
+        "letra": "C",
+        "texto": "presente doença mental do agente da conduta."
+      },
+      {
+        "letra": "D",
+        "texto": "presente coação física, seja resistível, seja irresistível."
+      },
+      {
+        "letra": "E",
+        "texto": "presente embriaguez preordenada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "926911",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a administração pública",
+      "Extravio, sonegação ou inutilização de livro ou documento",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Funcionário da Assembleia Legislativa recebeu procedimento que versava sobre a edição de lei estadual de grande relevância. Ciente da controvérsia e da grande pressão que existia contrária à edição da inovação legislativa, resolveu esconder o procedimento entre sua mesa e a parede, no chão, para que ninguém soubesse que estava com o documento para apresentação de parecer. Ocorre que o funcionário, por descuido, veio a derrubar café no documento, tornando-o totalmente inutilizável e gerando prejuízos ao andamento do procedimento. Considerando apenas as informações narradas, é correto afirmar que a conduta do funcionário é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica, não configurando crime."
+      },
+      {
+        "letra": "B",
+        "texto": "típica, ilícita e culpável, configurando crime de “extravio, sonegação ou inutilização de livro ou documento”, previsto no Art. 314 do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "típica, ilícita, mas não culpável, não configurando crime."
+      },
+      {
+        "letra": "D",
+        "texto": "típica, ilícita e culpável, configurando o crime de “subtração ou inutilização de livro ou documento”, prevista no Art. 337 do Código Penal."
+      },
+      {
+        "letra": "E",
+        "texto": "típica, mas não ilícita, não configurando crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "917864",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Tipicidade formal",
+      "Antijuridicidade",
+      "Noções Gerais Antijuridicidade"
+    ],
+    "enunciado_principal": "Durante uma tragédia causada pela natureza, Júlio, que caminhava pela rua, é arrastado pela força do vento e acaba se chocando com uma terceira pessoa, que, em razão do choque, cai de cabeça ao chão e vem a falecer. Sobre a consequência jurídica do ocorrido, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a tipicidade do fato restou afastada por ausência de tipicidade formal, apesar de haver conduta por parte de Júlio;"
+      },
+      {
+        "letra": "B",
+        "texto": "a tipicidade do fato restou afastada, tendo em vista que não houve conduta penal por parte de Júlio;"
+      },
+      {
+        "letra": "C",
+        "texto": "o fato é típico, ilícito e culpável, mas Júlio será isento de pena em razão da ausência de conduta;"
+      },
+      {
+        "letra": "D",
+        "texto": "a conduta praticada por Júlio, apesar de típica e ilícita, não é culpável, devendo esse ser absolvido;"
+      },
+      {
+        "letra": "E",
+        "texto": "a conduta praticada por Júlio, apesar de típica, não é ilícita, devendo esse ser absolvido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "913048",
+    "metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Resultado",
+      "Nexo de causalidade",
+      "Tipicidade formal",
+      "Tipicidade conglobante",
+      "Antijuridicidade",
+      "Noções Gerais Antijuridicidade"
+    ],
+    "enunciado_principal": "São elementos do fato típico, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "tipicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "nexo causal."
+      },
+      {
+        "letra": "E",
+        "texto": "antijuricidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "904145",
+    "metadata": "Ano: 2018 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Tipicidade formal",
+      "Noções Gerais da Culpabilidade"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir acerca da tipicidade, ilicitude, culpabilidade e punibilidade. I - Não há crime quando o agente pratica o fato em estado de necessidade. II - Extingue-se a punibilidade pelo casamento do agente com a vítima, nos crimes contra a dignidade sexual. III - Tipicidade é a conduta típica realizada. IV - Para ser culpável, o agente deverá ser imputável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente estão corretos os itens I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente estão corretos os itens I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente estão corretos os itens I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente estão corretos os itens II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "886225",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O bem jurídico não se confunde com o objeto da ação, pois não pode ser entendido no sentido puramente material, como se fosse uma pessoa ou coisa, mas no sentido da característica dessa pessoa e de suas relações."
+      },
+      {
+        "letra": "B",
+        "texto": "O dever de cuidado deve ser determinado de acordo com a situação jurídica e social de cada homem e se trata de um componente normativo do tipo objetivo culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "É por intermédio do elemento sociológico que o intérprete conhece melhor a norma em função das condições e das circunstâncias, que no passado determinaram a sua elaboração."
+      },
+      {
+        "letra": "D",
+        "texto": "O tipo é a fórmula legal que permite averiguar a tipicidade da conduta, ou seja, não se deve confundir o tipo com a tipicidade."
+      },
+      {
+        "letra": "E",
+        "texto": "As alternativas “a”, “b” e “d” estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "853648",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TST",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a administração pública",
+      "Resistência",
+      "Desobediência",
+      "Desacato"
+    ],
+    "enunciado_principal": "Marcelino, dirigindo seu veículo, é abordado por policiais militares que o vistoriaram e nada encontraram de irregular, nem com a documentação do veículo, tampouco com os documentos pessoais, os quais estavam plenamente válidos. Apenas por precaução, os policiais o convidaram para ir à Delegacia de Polícia para fazer uma melhor averiguação de sua vida pregressa já que não simpatizaram com ele. Marcelino se recusa a acompanhá-los e, os policiais o alertam que o conduzirão à força, caso ele não concorde. No entanto, ele novamente não aceita acompanhá-los resistindo à ordem. A conduta de Marcelino",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "configura crime de desacato e de resistência."
+      },
+      {
+        "letra": "B",
+        "texto": "configura crime de resistência, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "configura crime de resistência e de desobediência."
+      },
+      {
+        "letra": "D",
+        "texto": "configura crime de desacato e de desobediência."
+      },
+      {
+        "letra": "E",
+        "texto": "não configura crime."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "628797",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Sobre tipicidade, considere as afirmações abaixo. I - Tipicidade conglobante (antinormatividade) é a comprovação de que a conduta legalmente típica está também proibida pela norma, o que se obtém desentranhando o alcance dessa norma proibitiva conglobada com as demais disposições do ordenamento jurídico. II - Tipicidade legal é a individualização que a lei faz da conduta, mediante o conjunto dos elementos descritivos e valorativos (normativos) de que se vale o tipo legal. III - Tipicidade, para a teoria indiciária, é uma presunção iuris et iuris da normatividade da licitude. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "465964",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a honra",
+      "Injúria"
+    ],
+    "enunciado_principal": "Jean, valendo-se de sua conta no Twitter, publicou declaração de natureza discriminatória em relação aos homossexuais, de forma genérica. Tal ação configura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta atípica;"
+      },
+      {
+        "letra": "B",
+        "texto": "crime de injúria;"
+      },
+      {
+        "letra": "C",
+        "texto": "crime de injúria racial;"
+      },
+      {
+        "letra": "D",
+        "texto": "crime de preconceito de raça, cor, etnia ou religião;"
+      },
+      {
+        "letra": "E",
+        "texto": "crime de manifestação de ódio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "472918",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Conceitos e caracteres",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "No que diz respeito a noções gerais aplicadas no âmbito do direito penal, julgue o próximo item.Conforme jurisprudência assente do STF, o princípio da insignificância descaracteriza a tipicidade penal em seu caráter material.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1638727",
+    "metadata": "Ano: 2013 | Banca: PUC-PR | Órgão: TCE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Teoria Geral do Delito",
+      "Sistemas penais",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Marque a alternativa CORRETA segundo a evolução da Teoria do Tipo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria dos elementos negativos do tipo, ainda que não defendida por Edmund Mezger, além de incluir as causas de justificação no próprio tipo, pressupõe a existência de uma antijuridicidade penal distinta da antijuridicidade geral."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a fase da independência, que teve como maior idealizador Max Ernest Mayer, a tipicidade era compreendida com um caráter indiciário da antijuridicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Para a fase da ratio essendi da antijuridicidade, que teve como maior idealizador Edmund Mezger, a tipicidade é totalmente desvinculada da ilicitude, ou seja, a tipicidade é neutra, avalorada em relação à tipicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Com o surgimento do finalismo, o tipo sofreu forte mudança estrutural no que se refere ao dolo e à culpa, notadamente porque estes dois elementos passaram a integrar a culpabilidade. Segundo Hans Welzel, principal idealizador, a culpabilidade seria ou dolosa ou culposa."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo entendimento dos doutrinadores brasileiros acerca da evolução da teoria do tipo, a concepção que mais se adapta ao direito penal pátrio é a de Hans Wezel, precursor do finalismo, para o qual a tipicidade é ratio essendi da antijuridicidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "470156",
+    "metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "A norma penal",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Sobre a inexistência no Direito brasileiro da previsão de certas condutas criminosas, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há previsão de que o Incesto praticado entre maiores de idade seja fato punível."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há Lei que tipifique o Terrorismo (ainda que na Lei dos Crimes Hediondos, e em outras normas, haja menção a terrorismo ou a atos de terrorismo)."
+      },
+      {
+        "letra": "C",
+        "texto": "Não está descrito no Código Penal o Bullying como conduta específica."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há no Direito brasileiro a punição ao Genocídio (ainda que o delito tenha sido arrolado na Lei dos Crimes Hediondos)."
+      },
+      {
+        "letra": "E",
+        "texto": "Não está prevista de forma específica a prática de Crime Contra a Humanidade (e a aprovação e promulgação do Estatuto de Roma, em que está previsto esse delito, não possui o condão de introduzir em nosso país a criminalização dessa conduta)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "359572",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a organização do trabalho"
+    ],
+    "enunciado_principal": "Estudantes universitários, em greve por melhores condições de ensino, invadiram e depredaram severamente o prédio da reitoria. Foram afinal condenados como incursos nas penas do artigo 200 do Código Penal, posto que, no curso de seu movimento grevista, praticaram violência contra coisa. Com base nesses dados, cabe dizer que a sentença condenatória deve ser reformada, uma vez que a conduta dos réus NÃO foi;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "típica."
+      },
+      {
+        "letra": "B",
+        "texto": "voluntária."
+      },
+      {
+        "letra": "C",
+        "texto": "consciente."
+      },
+      {
+        "letra": "D",
+        "texto": "culposa."
+      },
+      {
+        "letra": "E",
+        "texto": "culpável."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "348144",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: MPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "A ideia de insignificância penal centra-se no conceito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formal de crime."
+      },
+      {
+        "letra": "B",
+        "texto": "material de crime."
+      },
+      {
+        "letra": "C",
+        "texto": "analítico de crime."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiário de crime."
+      },
+      {
+        "letra": "E",
+        "texto": "aparente de crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "345746",
+    "metadata": "Ano: 2013 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de evasão de divisas, na modalidade de efetuação de operação de câmbio não autorizada é delito formal, sendo desnecessária a efetiva saída de numerário do país para sua consumação, embora seja imprescindível que a evasão seja o escopo da operação cambial."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime previsto no art.89 da Lei 8.666/93, segundo a jurisprudência do STJ, independe de dolo específico de causar dano à Administração Pública, uma vez que o delito protege a moralidade administrativa e não apenas a integridade do patrimônio público."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que apanhar espécimes da fauna silvestre, nativos ou em rota migratória, sem licença ou permissão, terá pena agravada se o crime for praticado durante a noite, podendo o juiz, em caso de guarda doméstica de espécie não considerada ameaçada de extinção, deixar de aplicar a pena."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos termos da jurisprudência do STF e do STJ, o princípio da ampla defesa não alcança aquele que se atribui falsa identidade perante a autoridade policial para ocultar antecedentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando o agente pratica o crime antes do advento de novo texto legal é admissível a aplicação de dispositivos da nova lei em conjunto com outros daquela vigente à época dos fatos, desde que ambos sejam favoráveis ao réu."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "243880",
+    "metadata": "Ano: 2012 | Banca: TRT 15R | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Aponte a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tipicidade diz respeito à subsunção perfeita da conduta praticada pelo agente ao modelo abstrato previsto na lei penal, isto é, a um tipo penal incriminador. A tipicidade penal é formada, .ainda, pela conjugação da tipicidade formal (ou legal) com a tipicidade conglobante."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tipos penais derívados que, em virtudede de determinadas circunstâncias, podem aumentar ou diminuir a reprimenda, são apenas os privilegiados."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o agente atua com dolo na conduta e dolo quanto ao resultado qualificador, diz-se crime preterdoloso; quando o agente atua com dolo na conduta e culpa com relação ao resultado diz-se crime qualificado pelo resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime multitudinário e o cometido por uma multidão delinquente, geralmente, numa situação de tumulto. E a jurisprudência do STF vem se orientando no sentido de que não é admitida a narração genérica dos fatos, sem discriminação da conduta específica de cada denunciado."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualquer pessoa pode ser sujeito passivo do crime político."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "215765",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TCE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Denomina-se tipicidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a desconformidade do fato com a ordem jurídica considerada como um todo."
+      },
+      {
+        "letra": "B",
+        "texto": "a adequação do fato concreto com a descrição do fato delituoso contida na lei penal."
+      },
+      {
+        "letra": "C",
+        "texto": "o nexo material entre a conduta do agente e o resultado lesivo."
+      },
+      {
+        "letra": "D",
+        "texto": "o nexo subjetivo entre a intenção do agente e o resultado lesivo."
+      },
+      {
+        "letra": "E",
+        "texto": "a correspondência entre o resultado e a possibilidade de previsão de sua ocorrência por parte do agente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "273821",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal"
+    ],
+    "enunciado_principal": "Para a doutrina, a tipicidade é a conformação do fato praticado pelo agente com a descrição abstrata prevista na lei penal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "id": "3171401",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regressão de regime penitenciário"
+    ],
+    "enunciado_principal": "Mário, líder de uma organização criminosa que atua em todo o Estado de Minas Gerais, cumpre pena, em definitivo, pela prática de diversos delitos, cujas sanções somadas totalizam 92 anos de reclusão. Sendo assim, o apenado, em conversa com seu advogado, buscou informações sobre os limites das penas no Brasil, recebendo a adequada consultoria jurídica. Registre-se que todas as condenações, transitadas em julgado, são frutos de condutas praticadas nos anos de 2021 e 2022. De acordo com a narrativa e considerando as disposições do Código Penal, analise as afirmativas a seguir. I. O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 anos. II. Quando o agente for condenado a penas privativas de liberdade, cuja soma seja superior a 40 anos, elas devem ser unificadas para atender ao limite máximo disposto em lei. III. Sobrevindo condenação por fato posterior ao início do cumprimento da pena, far-se-á nova unificação, desprezando-se, para esse fim, o período de pena já cumprido. Nesse cenário, considerando as disposições do Código Penal, está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2522200",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Regressão de regime penitenciário",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "Márcio é pessoa em situação de rua e está cumprindo pena em regime semiaberto harmonizado (com uso de tornozeleira eletrônica). Em razão das dificuldades de carregar a bateria do equipamento de monitoração na rua, Márcio é regredido cautelarmente de regime. Em audiência de justificativa, aponta todas as dificuldades de carregar a bateria nas ruas e seu desejo de conseguir acabar de cumprir sua pena. O juiz, entendendo que o fim de bateria equivale à fuga, regride definitivamente Márcio de regime. Acerca do tema, a decisão do magistrado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não merece reparos, tendo em vista que a jurisprudência do TJ/PR é realmente no sentido de que o fim de bateria equivale à fuga e que a situação pessoal do apenado não deve ser levada em consideração, sob pena de ferir o princípio da impessoalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Merece reparos, pois o fim de bateria é uma falta média, e faltas médias não podem levar à regressão do regime."
+      },
+      {
+        "letra": "C",
+        "texto": "Merece reparos tendo em vista que, apesar do fim de bateria, no entendimento do TJ/PR, equivaler à fuga, deve-se evitar o uso de tornozeleiras eletrônicas por pessoas em situação de rua."
+      },
+      {
+        "letra": "D",
+        "texto": "Merece reparos tendo em vista que, além do fim da bateria, no entendimento do TJ/PR, não equivaler à fuga, a condição de pessoa em situação de rua impede o cumprimento de pena por meio do uso de tornozeleiras eletrônicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Merece reparos, pois o fim de bateria é uma falta leve, e faltas leves não podem levar à regressão de regime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2113553",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regressão de regime penitenciário",
+      "Pena de multa"
+    ],
+    "enunciado_principal": "O inadimplemento da pena de multa cumulativamente imposta pode gerar a regressão de regime da pena privativa de liberdade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2073364",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Primeira fase da dosimetria",
+      "Segunda fase da dosimetria.",
+      "Terceira fase da dosimetria",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário"
+    ],
+    "enunciado_principal": "Mateus foi condenado por roubo simples à pena de 10 (dez) anos de reclusão e iniciou o cumprimento de pena em regime fechado na penitenciária de Goiânia-GO. Durante seu estágio no presídio, foi pego com grande quantidade de cocaína dentro de sua cela e foi processado por tráfico de drogas e condenado à pena de 9 (nove) anos de reclusão. Ao iniciar o cumprimento da segunda pena recebida, o juízo da execução penal deverá considerar qual percentual como tempo de progressão penal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça."
+      },
+      {
+        "letra": "B",
+        "texto": "25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça."
+      },
+      {
+        "letra": "C",
+        "texto": "40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário específico."
+      },
+      {
+        "letra": "D",
+        "texto": "30% (trinta por cento), se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça."
+      },
+      {
+        "letra": "E",
+        "texto": "60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1938392",
+    "metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regressão de regime penitenciário",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "A Lei 13.964/2019 alterou o regime de progressão de cumprimento de pena (transferência para um regime menos rigoroso) disposto na Lei de Execução Penal – 7.210/84. De acordo com o novo regramento legal disposto na Lei de Execução Penal, é incorreto afirmar em relação à progressão de regime que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão."
+      },
+      {
+        "letra": "B",
+        "texto": "o preso poderá progredir de regime se tiver cumprido ao menos 70% (setenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado."
+      },
+      {
+        "letra": "C",
+        "texto": "a decisão do juiz que determinar a progressão de regime será sempre motivada e precedida de manifestação do Ministério Público e do defensor, procedimento que também será adotado na concessão de livramento condicional, indulto e comutação de penas, respeitados os prazos previstos nas normas vigentes."
+      },
+      {
+        "letra": "D",
+        "texto": "o preso poderá progredir de regime se tiver cumprido ao menos 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "895211",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Inimputabilidade por doença mental",
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário",
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Legislação Penal Especial",
+      "Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990"
+    ],
+    "enunciado_principal": "Assinale a opção INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conforme o Código Penal é isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da prolação da sentença penal condenatória, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Extrai-se do art. 33 do Código Penal que pena de reclusão deve ser cumprida em regime fechado ou semi-aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o Superior Tribunal de Justiça o fornecimento de informações sobre movimentação bancária de contribuintes, pelas instituições financeiras, diretamente ao Fisco, sem prévia autorização judicial, com o consequente oferecimento de denúncia com base em tais informações, caracteriza crime contra a ordem tributária, Art. 1º, II E V, da Lei 8.137/90."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma das formas de interrupção da prescrição que consta do Código Penal é pela publicação da sentença ou acórdão condenatórios recorríveis. Assim pode-se afirmar que O acórdão que confirma a condenação, mas majora ou reduz a pena, constitui novo marco interruptivo da prescrição."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "854374",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regressão de regime penitenciário",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir.Situação hipotética: Pedro, no curso da execução da pena privativa de liberdade à qual fora condenado, praticou fato definido como crime doloso. Assertiva: Nessa situação, Para fins de regressão de regime prisional, o reconhecimento de falta grave decorrente da prática do referido crime independe do trânsito em julgado de sentença condenatória no processo penal instaurado para a apuração do fato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "832346",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário",
+      "Remição de pena",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Legislação Penal Especial",
+      "Lei de Crimes Hediondos – Lei nº 8.072 de 1990",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984",
+      "Reincidência"
+    ],
+    "enunciado_principal": "NÃO sofrem influência da reincidência e da hediondez do crime na execução penal os seguintes direitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comutação e saída temporária."
+      },
+      {
+        "letra": "B",
+        "texto": "Indulto e autorização de saída."
+      },
+      {
+        "letra": "C",
+        "texto": "Progressão de regime e saída temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "Livramento condicional e remição."
+      },
+      {
+        "letra": "E",
+        "texto": "Remição e permissão de saída."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "819011",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "O sentenciado Afonso Garante, que cumpria pena em regime semiaberto, empreendeu fuga da Colônia Penal Agrícola, resultando na regressão do regime prisional. O juiz da execução proferiu decisão nos seguintes termos: “O apenado fora sancionado com falta grave consubstanciada em fuga, através de procedimento disciplinar administrativo, com observância do contraditório e ampla defesa. Assim, entendo desnecessária nova oitiva em juízo e homologo a falta grave. Com isso, nos termos do inciso I do artigo 118 da LEP, regrido o sentenciado para o regime fechado, devendo ser considerada como data base para nova progressão de regime a data da sua recaptura, por se tratar de infração disciplinar de natureza permanente.”As soluções apresentadas pelo magistrado, consideradas isoladamente – referentes à dispensa da oitiva judicial do apenado e à interrupção do prazo para progressão – na decisão, foram corretas? Analise as assertivas abaixo e responda: I) Não, porque a audiência de justificação para prévia oitiva do condenado se constitui em exigência obrigatória na regressão definitiva ao regime mais severo, nos termos da Lei de Execução Penal. II) Sim, pois se inexiste dúvida sobre a falta grave, a oitiva em juízo se constituiria em medida procrastinatória, apenas repetindo o procedimento já realizado na via administrativa. III) Não, porque não deve existir alteração da data base para nova progressão, na medida em que o sentenciado foi recapturado e não houve a prática de novo crime durante o período em que ficou foragido. IV) Sim, porque a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, nos termos de entendimento sumular do STJ. V) Não, pois a fuga não se constitui em falta grave e, portanto, não pode gerar regressão de regime e interrupção da contagem do prazo para a progressão de regime de cumprimento de pena.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas I e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a assertiva II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a assertiva V está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "498736",
+    "metadata": "Ano: 2015 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Progressão de regime penitenciário",
+      "Regressão de regime penitenciário"
+    ],
+    "enunciado_principal": "EM TEMA DE SANÇÕES PENAIS ASSINALE A ALTERNATIVA INCORRETA, CONSOANTE JURISPRUDÊNCIA SUMULADA DO STF:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite-se a progressão de regime de cumprimento de pena ou a aplicação imediata de regime menos severo nela determinada, antes do trânsito em julgado da sentença condenatória;"
+      },
+      {
+        "letra": "B",
+        "texto": "Impede a progressao de regime de execução da pena, fixada em sentença não transitada em julgado, o fato de o réu se encontrar em prisao especial;"
+      },
+      {
+        "letra": "C",
+        "texto": "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada;"
+      },
+      {
+        "letra": "D",
+        "texto": "A imposição de regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "368519",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Regressão de regime penitenciário",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Quanto ao regime de cumprimento de pena, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é ilegal a fixação de regime fechado quando a pena é fixada em patamar inferior a oito anos e existirem circunstâncias judiciais desfavoráveis contra o paciente ou fatos concretos a justificar a decisão."
+      },
+      {
+        "letra": "B",
+        "texto": "revela-se incabível a imposição de regime inicial fechado em condenações por tráfico de drogas, para o cumprimento de pena inferior a oito anos, mesmo que desfavoráveis as circunstâncias judiciais elencadas no Art. 59 do CP."
+      },
+      {
+        "letra": "C",
+        "texto": "a fuga do condenado justifica a regressão cautelar para o regime fechado, havendo necessidade de se acenar com a oitiva prévia que será exigida para a regressão definitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "para definir o novo regime de cumprimento de pena, considerado aquele alusivo à execução em curso, soma-se a pena imposta na condenação superveniente, podendo o resultado implicar a regressão."
+      },
+      {
+        "letra": "E",
+        "texto": "configura constrangimento ilegal o fato de o Juízo da execução afastar a eficácia de ato referente à progressão no cumprimento da pena quando cometida falta grave, estando em curso o processo administrativo penal para a respectiva elucidação."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

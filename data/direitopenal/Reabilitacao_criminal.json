@@ -1,0 +1,494 @@
+[
+  {
+    "id": "3390859",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "Joel, servidor do Detran, foi condenado definitivamente à pena de 3 anos de reclusão substituída por duas restritivas de direito e multa, pela prática do crime de peculato. A sentença condenatória impôs, como efeito, a perda do cargo público e foi silente quanto à obrigação de indenizar o dano causado. Em 10/12/2023, o Juízo da Execução declarou extinta a punibilidade. Joel, interessado em se reabilitar, procurou a Defensoria Pública. A respeito desse instituto, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A despeito da não imposição expressa pela sentença condenatória, a reabilitação dependerá do ressarcimento do dano causado."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipossuficiência econômica de Joel não afasta a exigência de ressarcimento do dano causado, para obtenção da reabilitação."
+      },
+      {
+        "letra": "C",
+        "texto": "O pedido de reabilitação será cabível se transcorridos três anos da declaração de extinção da punibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Joel, deferido o pedido de reabilitação, será reintegrado ao cargo público que ocupava."
+      },
+      {
+        "letra": "E",
+        "texto": "Deferido o pedido de reabilitação, o Juiz não poderá, de ofício, revogar o benefício, caso Joel seja condenado como reincidente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2394773",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: MPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "Tendo em conta os preceitos relacionados à pena (espécies, aplicação, reabilitação) constantes do Código Penal e a sua execução, constantes da Lei de Execução Penal, com base na jurisprudência atual do Superior Tribunal de Justiça, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tício, decorrido 2 (dois) anos do dia em que terminou de cumprir a pena a que foi condenado, tendo firmado acordo de não persecução penal por crime diverso, praticado neste interregno, poderá ter o pedido de reabilitação indeferido, por mau comportamento público e privado."
+      },
+      {
+        "letra": "B",
+        "texto": "Tício, condenado por crime de roubo qualificado, embora reincidente, não teve a condição reconhecida na sentença, circunstância que obsta que o Juízo da Execução a utilize para fins de análise da concessão de benefícios."
+      },
+      {
+        "letra": "C",
+        "texto": "Tício, condenado por crime de roubo, com simulacro de arma de fogo, a 4 anos de reclusão, conforme o art. 44, inciso I, do CP, poderá ter a pena privativa de liberdade substituída por restritiva de direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Mévio, condenado em continuidade delitiva, pela prática de crime de apropriação indébita previdenciária, por cinco vezes, terá a incidência da fração de aumento da metade."
+      },
+      {
+        "letra": "E",
+        "texto": "Caio, condenado pelo crime de tortura (art. 1o , inciso II, da Lei no 9.455/97), pela submissão do filho com deficiência mental, cuja guarda detém, a atos de violência como forma de castigo, não terá a pena agravada, pela circunstância de o crime ter sido praticado em detrimento de descendente (art. 61, II, e), do CP)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2211472",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Competência e procedimento",
+      "Revogação"
+    ],
+    "enunciado_principal": "A respeito dos efeitos da condenação e da reabilitação previstos no CP, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O autor do delito terá direito à reabilitação apenas após cinco anos do cumprimento da pena ou da extinção da punibilidade por qualquer motivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Os efeitos secundários da condenação são afetados pela concessão do indulto."
+      },
+      {
+        "letra": "C",
+        "texto": "Consoante entendimento do STJ, o direito ao esquecimento é inaplicável na seara criminal."
+      },
+      {
+        "letra": "D",
+        "texto": "A interdição temporária de direitos inclui-se no rol dos efeitos secundários da condenação elencados no CP."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo a jurisprudência do STF, para o reconhecimento de maus antecedentes, não se aplica o prazo quinquenal de prescrição da reincidência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2144077",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Competência e procedimento",
+      "Revogação"
+    ],
+    "enunciado_principal": "Marx foi condenado à pena de reclusão de quatro anos pela prática de corrupção passiva, bem como foi decretada a perda de seu cargo público. Sua pena foi extinta em outubro de 2020. Em seguida, Marx se mudou para a Áustria, local de residência de seus pais. Em novembro de 2022, retornou ao Brasil com a pretensão de realizar novo concurso público, o que o motivou a requerer a sua reabilitação. Diante desses fatos, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a reabilitação poderá, também, atingir os efeitos da condenação relativos à perda do cargo público, sendo possível a reintegração de Marx na situação anterior;"
+      },
+      {
+        "letra": "B",
+        "texto": "a reabilitação deverá ser indeferida, uma vez que para ser requerida é necessário o decurso de cinco anos do dia em que foi extinta a pena, o que não ocorreu;"
+      },
+      {
+        "letra": "C",
+        "texto": "o fato de Marx ter se mudado para a Áustria o impede de ter a reabilitação deferida em novembro de 2022, em razão da ausência de domicílio no Brasil;"
+      },
+      {
+        "letra": "D",
+        "texto": "poderá haver deferimento da reabilitação na hipótese de Marx ter ressarcido o dano causado pelo crime e desde que tenha dado, durante o período de dois anos, demonstração efetiva e constante de bom comportamento público e privado;"
+      },
+      {
+        "letra": "E",
+        "texto": "a reabilitação eventualmente deferida poderá ser revogada caso Marx seja condenado, por decisão definitiva, à pena privativa de liberdade ou de multa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110705",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Competência e procedimento"
+    ],
+    "enunciado_principal": "Quais são os efeitos da reabilitação e condições para seu requerimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sigilo dos registros do processo e condenação, devendo ser requerida no prazo de 2 (dois) anos da extinção da pena, acarretando a reintegração do condenado ao cargo, função pública ou mandato eletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Sigilo dos registros do processo e condenação, sem interferência no prazo de 02 (dois) anos do dia que julgada extinta, por sentença, a pena imposta."
+      },
+      {
+        "letra": "C",
+        "texto": "Sigilo dos registros do processo e da condenação, devendo ser requerida no prazo de 02 (dois) anos da data da extinção ou cumprimento da pena, sob pena de preclusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Sigilo dos registros do processo e condenação, e decurso do prazo de 02 (dois) anos do dia em que extinta ou cumprida a pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1900355",
+    "metadata": "Ano: 2022 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "Com a reforma de 1984 do Código Penal, a reabilitação passou a ser considerada medida jurídica de política criminal, que visa à reinserção social do condenado. Em relação a esse instituto, é incorreto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a reabilitação não exclui a possibilidade de o réu ser considerado reincidente caso venha a cometer novo delito, já que a concessão dessa medida não extingue a condenação anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "negada a reabilitação, esta poderá ser novamente requerida no prazo de 02 (dois) anos, cujo pedido deve estar instruído com os elementos comprobatórios dos requisitos necessários."
+      },
+      {
+        "letra": "C",
+        "texto": "a prescrição da pretensão punitiva não permite a reabilitação, enquanto que a prescrição da pretensão executória autoriza sua aplicação."
+      },
+      {
+        "letra": "D",
+        "texto": "a reabilitação pode atingir alguns efeitos extrapenais específicos da condenação como a perda de cargo, função pública ou mandato eletivo, vedada, porém, a reintegração ao estado anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "a reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, à pena que não seja de multa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1837912",
+    "metadata": "Ano: 2021 | Banca: MPM | Órgão: MPM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "QUANTO À REABILITAÇÃO, ASSINALE A OPÇÃO CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser proposta no juízo da condenação, decorridos 2 anos da data em que for extinta a pena principal ou terminar a sua execução, ou do prazo final do sursis ou do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "Decretada a reabilitação pelo juízo de 1º grau, o próprio magistrado deve promover recurso ex officio para a instância ad quem."
+      },
+      {
+        "letra": "C",
+        "texto": "Concedida reabilitação por sentença irrecorrível, não caberá sua revogação, mesmo que o reabilitado seja condenado ao cumprimento de pena privativa de liberdade."
+      },
+      {
+        "letra": "D",
+        "texto": "Indeferido o pedido de reabilitação, o condenado poderá renová-lo a qualquer tempo, independentemente dos motivos da decisão negativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1296332",
+    "metadata": "Ano: 2020 | Banca: GUALIMP | Órgão: Prefeitura de Areal - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos"
+    ],
+    "enunciado_principal": "Segundo a teoria penal, a pena tem, além do punitivo, o caráter pedagógico, este que é obliterado no desenvolvimento das relações de poder, em um Estado onde o imperativo moral é o vigiar e o punir. Assim sendo, sobre a reabilitação do Código Penal é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação."
+      },
+      {
+        "letra": "B",
+        "texto": "A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for iniciada."
+      },
+      {
+        "letra": "C",
+        "texto": "Negada a reabilitação, poderá ser requerida, a qualquer tempo, desde que o pedido seja instruído com novos elementos comprobatórios dos requisitos necessários."
+      },
+      {
+        "letra": "D",
+        "texto": "A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1048829",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Revogação"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, é incorreto afirmar sobre o instituto da reabilitação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação."
+      },
+      {
+        "letra": "B",
+        "texto": "A reabilitação poderá ser requerida, decorridos 5 (cinco) anos do dia em que for extinta, de qualquer modo. a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação."
+      },
+      {
+        "letra": "C",
+        "texto": "A impossibilidade de ressarcimento do dano causado pelo crime não impede a obtenção do benefício, desde que o condenado comprove a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida."
+      },
+      {
+        "letra": "D",
+        "texto": "A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "822981",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos"
+    ],
+    "enunciado_principal": "Acerca da concessão da reabilitação, considere: I. Ter domicílio no país pelo prazo de quatro anos. II. No cômputo do prazo de sursis não ter havido revogação. III. Ter demonstrado efetiva e constantemente bom comportamento público e privado. IV. Condenação a pena superior a dois anos, no caso de pena privativa de liberdade. V. Ter ressarcido o dano causado ou demonstrado a impossibilidade absoluta de fazê-lo. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "795676",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Competência e procedimento",
+      "Revogação"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabilitação pode ser requerida após o decurso de dois anos do dia em que for extinta de qualquer modo a pena, seja o condenado reincidente ou não."
+      },
+      {
+        "letra": "B",
+        "texto": "O juízo competente para processar a reabilitação é o juízo das execuções penais."
+      },
+      {
+        "letra": "C",
+        "texto": "Na hipótese de não haver renúncia da vítima ou novação da dívida, é condição para reabilitação a prova de haver ressarcido o dano causado pelo crime ou demonstrar a impossibilidade de fazê-lo."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma vez negada a reabilitação não há prazo mínimo para renovação do pedido."
+      },
+      {
+        "letra": "E",
+        "texto": "A revogação de reabilitação pode ser decretada pelo juiz de ofício, ou a requerimento do Ministério Público."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "634719",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO CIDADES | Órgão: Prefeitura de Itauçu - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos"
+    ],
+    "enunciado_principal": "Analise as alternativas abaixo e marque a CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A execução da pena privativa de liberdade, não superior a quatro anos, poderá ser suspensa, por quatro a seis anos, desde que o condenado seja maior de oitenta anos de idade, ou razões de saúde justifiquem a suspensão."
+      },
+      {
+        "letra": "B",
+        "texto": "Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir no mesmo tipo de crime."
+      },
+      {
+        "letra": "C",
+        "texto": "A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado: tenha tido domicílio no País no prazo acima referido, tenha dado, durante esse tempo, demonstração efetiva e constante de bom comportamento público e privado e tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida."
+      },
+      {
+        "letra": "D",
+        "texto": "A desinternação, ou a liberação, será sempre condicional devendo ser restabelecida a situação anterior se o agente, antes do decurso de 6 (seis) meses, pratica fato indicativo de persistência de sua periculosidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "512633",
+    "metadata": "Ano: 2015 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "O efeito civil da condenação referente à “incapacidade para o exercício do pátrio poder”:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é sempre permanente com relação à vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser recuperado em relação a todos os filhos, inclusive a vítima, por meio de deferimento da reabilitação."
+      },
+      {
+        "letra": "C",
+        "texto": "tratando-se de crime sexual praticado contra filha, só pode ser recuperado por meio de deferimento da reabilitação em relação aos filhos homens, nunca em relação à vítima e demais filhas mulheres."
+      },
+      {
+        "letra": "D",
+        "texto": "tratando-se de crime apenado com detenção, tal efeito civil da condenação tem caráter de mera suspensão do pátrio poder, devendo ser imposto pelo Juiz com prazo determinado e somente em relação à vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "tratando-se de crime apenado com detenção, tal efeito civil tem o caráter de mera suspensão do pátrio poder, por isso que é imposto pelo Juiz por prazo determinado e em relação a todos os filhos do agente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1186720",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal",
+      "Pressupostos"
+    ],
+    "enunciado_principal": "Julgue o item que se segue de acordo com a jurisprudência do STF. Considere a seguinte situação hipotética. João cumpriu pena pela prática de roubo e, decorridos dois anos do dia em que foi extinta a pena, ele pleiteou, por meio de seu advogado, sua reabilitação. Nessa situação, para ter seu pedido deferido, João deverá, necessariamente, ressarcir o dano causado pelo crime, demonstrar a absoluta impossibilidade de fazê-lo ou exibir documento que comprove a renúncia da vítima ou a novação da dívida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "352900",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Reabilitação criminal"
+    ],
+    "enunciado_principal": "Julgue os itens seguintes, acerca da prescrição, da reabilitação e da imputabilidade. Considere a seguinte situação hipotética.João cumpriu pena pela prática de roubo e, decorridos dois anos do dia em que foi extinta a pena, ele pleiteou, por meio de seu advogado, sua reabilitação.Nessa situação, para ter seu pedido deferido, João deverá, necessariamente, ressarcir o dano causado pelo crime, demonstrar a absoluta impossibilidade de fazê-lo ou exibir documento que comprove a renúncia da vítima ou a novação da dívida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "291955",
+    "metadata": "Ano: 2011 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Reabilitação criminal",
+      "Pressupostos",
+      "Modalidades das Penas privativas de liberdade"
+    ],
+    "enunciado_principal": "Sobre o sistema penal brasileiro, considere as seguintes afirmativas: 1. As principais modalidades de pena são: privativa de liberdade, restritiva de direitos e medida de segurança. 2. As penas privativas de liberdade de reclusão e detenção podem ser cumpridas nos regimes fechado, semiaberto e aberto. 3. O pagamento da multa é destinado ao Fundo Penitenciário e não à vítima ou seus familiares. 4. A reabilitação é a suspensão de determinados efeitos da sentença condenatória após o decurso de dois anos contados a partir da extinção da pena. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 2 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 2, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

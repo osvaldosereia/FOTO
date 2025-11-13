@@ -1,0 +1,98 @@
+[
+  {
+    "id": "3117545",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Perseguição",
+      "Violência Psicológica Contra a Mulher"
+    ],
+    "enunciado_principal": "O Código Penal foi parcialmente modificado, em 2021, para a inclusão dos crimes de perseguição e violência psicológica contra a mulher. Acerca dos citados crimes, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ambos os crimes são próprios em relação ao sujeito ativo;"
+      },
+      {
+        "letra": "B",
+        "texto": "o sujeito passivo, nos dois crimes, somente pode ser mulher;"
+      },
+      {
+        "letra": "C",
+        "texto": "ambos os crimes são de ação penal pública condicionada a representação da vítima;"
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de perseguição é material, ao passo que o de violência psicológica contra a mulher é formal;"
+      },
+      {
+        "letra": "E",
+        "texto": "o crime de perseguição é habitual, enquanto o de violência psicológica contra a mulher não exige a reiteração da conduta criminosa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2553239",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Violência Psicológica Contra a Mulher"
+    ],
+    "enunciado_principal": "Causar dano emocional à mulher, que a prejudique e perturbe seu pleno desenvolvimento ou que vise degradá-la ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação, configura crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "violência psicológica contra a mulher, definido no artigo 147-B do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "intimidação sistemática contra a mulher, definido no artigo 146-A do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "constrangimento ilegal qualificado contra mulher, definido no artigo 146 do Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "perseguição, definido no artigo 147-A do Código Penal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2307713",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Violência Psicológica Contra a Mulher"
+    ],
+    "enunciado_principal": "A conduta de causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento, mediante humilhação e manipulação, causando prejuízo à sua saúde psicológica e autodeterminação,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "configura crime de perseguição."
+      },
+      {
+        "letra": "B",
+        "texto": "não configura crime, tendo em vista que não é possível aferir o dano emocional."
+      },
+      {
+        "letra": "C",
+        "texto": "configura crime de constrangimento ilegal."
+      },
+      {
+        "letra": "D",
+        "texto": "configura crime de ameaça."
+      },
+      {
+        "letra": "E",
+        "texto": "configura crime de violência psicológica contra a mulher."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

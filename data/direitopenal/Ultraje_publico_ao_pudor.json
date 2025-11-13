@@ -1,0 +1,76 @@
+[
+  {
+    "id": "2183245",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a dignidade sexual",
+      "Estupro de vulnerável",
+      "Ultraje público ao pudor",
+      "Importunação Sexual"
+    ],
+    "enunciado_principal": "Luiz, maior e capaz, conheceu uma adolescente de 12 anos de idade, tendo conhecimento dessa informação. Após semanas de conversas, Luiz e a adolescente começaram a namorar, com a concordância dos genitores da infante. Após alguns meses, vizinhos descobriram os fatos e deram ciência às autoridades competentes. Durante as investigações, a adolescente narrou que não praticou conjunção carnal com Luiz, mas apenas outros atos, como beijos e carícias recíprocas nas partes íntimas. Disse, ainda, que todos os atos foram consentidos. Nesse cenário, considerando as disposições do Código Penal e a jurisprudência dominante do Superior Tribunal de Justiça, é correto afirmar que Luiz:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "responderá pelo crime de estupro de vulnerável, considerando que o consentimento da vítima, na espécie, é penalmente irrelevante;"
+      },
+      {
+        "letra": "B",
+        "texto": "responderá pelo crime de atentado violento ao pudor, considerando que o consentimento da vítima, na espécie, é penalmente irrelevante;"
+      },
+      {
+        "letra": "C",
+        "texto": "não responderá por qualquer crime, considerando que havia o consentimento expresso dos genitores da infante, seus representantes legais;"
+      },
+      {
+        "letra": "D",
+        "texto": "responderá pelo crime de importunação sexual, considerando que o consentimento da vítima, na espécie, é penalmente irrelevante;"
+      },
+      {
+        "letra": "E",
+        "texto": "não responderá por qualquer crime, considerando que havia o consentimento expresso da vítima."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "516661",
+    "metadata": "Ano: 2015 | Banca: CEFET-BA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a dignidade sexual",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção ativa em transação comercial internacional. Tráfico de influência em transação comercial internacional",
+      "Ultraje público ao pudor",
+      "Disposições Gerais dos crimes contra a liberdade sexual e dos crimes sexuais contra vulneráveis"
+    ],
+    "enunciado_principal": "Analise as seguintes assertivas acerca dos crimes contra a dignidade sexual e contra a Administração Pública: I – O crime de estupro é um crime bipróprio e prevê aumento de pena se praticado contra pessoa do sexo masculino com idade de 15 (quinze) anos. II – O Código Penal estabelece como regra para os contra a liberdade sexual a ação penal pública condicionada. III – Os crimes de concussão, corrupção passiva e prevaricação são crimes formais e podem ser praticados por funcionário público, mesmo antes da assunção em sua função. IV – A consumação do crime de ato obsceno está caracterizada independentemente da presença de outras pessoas no local da prática do ato. V – O crime de tráfico de influência pode ser praticado por funcionário público ou particular, não sendo coautor ou partícipe o sujeito que “comprou” o prestígio anunciado. Estão CORRETAS as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, IV e V."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

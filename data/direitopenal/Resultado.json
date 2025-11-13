@@ -1,0 +1,795 @@
+[
+  {
+    "id": "2073265",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Lei penal no espaço",
+      "Resultado"
+    ],
+    "enunciado_principal": "Considera-se praticado o crime no ______ em que ocorreu a ______, no todo ou em parte, bem como ______ se produziu ou deveria produzir-se o resultado. Considera-se praticado o crime no ______ da ação ou omissão, ainda que outro seja o ______ do resultado. As expressões que preenchem, correta e respectivamente, as lacunas são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "país ... ação ... onde ... momento ... momento"
+      },
+      {
+        "letra": "B",
+        "texto": "dia ... ação ou omissão ... no dia em que ... local ... lugar"
+      },
+      {
+        "letra": "C",
+        "texto": "momento ... ação ... no momento em que ... lugar ... local"
+      },
+      {
+        "letra": "D",
+        "texto": "lugar ... ação ou omissão ... onde ... momento ... momento"
+      },
+      {
+        "letra": "E",
+        "texto": "instante ... conduta ... no momento em que ... local ... local"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2006440",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Resultado",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais"
+    ],
+    "enunciado_principal": "Quanto ao desvalor da ação e ao desvalor do resultado no Direito Penal, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O desvalor da ação e o desvalor do resultado podem servir de fundamento para as condições objetivas de punibilidade por parte minoritária da doutrina penal, que entende que o desvalor do resultado, nos crimes de imprudência, constitui elemento fora do injusto penal, uma vez que a norma implícita no tipo penal somente pode proibir ações e nunca resultados típicos."
+      },
+      {
+        "letra": "B",
+        "texto": "O injusto penal, nos crimes de mera conduta, em que o legislador descreve somente o comportamento do agente, sem se preocupar com o resultado, depende de uma função seletiva, destacando determinadas condutas como intoleráveis para o Direito Penal e aquelas ações que produzem lesões aos bens jurídicos tutelados, e somente estará plenamente constituído o injusto em tais crimes quando, ao desvalor da ação, acrescentar-se o desvalor do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de perigo abstrato exige uma materialidade, mas não um desvalor de resultado, consubstanciada na periculosidade do comportamento — que não se confunde com a exigência de lesão nem de perigo concreto. O reconhecimento dessa materialidade é a única forma de compatibilizar a técnica legislativa de descrição de uma mera conduta típica com o princípio de exclusiva proteção aos bens jurídicos, consagrado pela dogmática penal, caracterizando o injusto penal."
+      },
+      {
+        "letra": "D",
+        "texto": "O STJ entendia que o crime de furto privilegiado qualificado não era permitido ante o fato de que qualificadora encerrava, em si mesma, grande carga de desvalor da conduta, não havendo, pois, como preponderar o desvalor do resultado, contudo mudou o posicionamento para seguir o STF, em razão de determinadas qualificadoras, mormente as de natureza objetiva."
+      },
+      {
+        "letra": "E",
+        "texto": "A punibilidade nos crimes culposos vindica uma conexão interna entre o desvalor da ação e o desvalor do resultado, em que o desvalor da ação se constata pela inobservância do cuidado objetivo devido e o desvalor do resultado pela lesão ou perigo concreto de lesão para o bem jurídico, todavia tem como elemento decisivo da ilicitude do fato culposo não propriamente o resultado lesivo causado pelo agente, mas o desvalor da ação que praticou."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1845143",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Na hipótese de réu condenado por crime de homicídio doloso, tendo sido reconhecidas duas qualificadoras, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma qualificará o delito e a outra poderá ser usada para elevar a pena como agravante, se prevista no rol legal (artigo 61, CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "uma qualificará o delito e a outra poderá ser usada para majorar a pena-base e também como agravante, se prevista no rol legal (artigo 61, do CP)."
+      },
+      {
+        "letra": "C",
+        "texto": "uma qualificará o delito e a outra poderá ser usada como causa de aumento de pena."
+      },
+      {
+        "letra": "D",
+        "texto": "uma qualificará o delito e a outra poderá ser usada para elevar a pena como agravante em qualquer hipótese."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1771667",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado"
+    ],
+    "enunciado_principal": "Lidiane, exímia nadadora, convida sua amiga Karen para realizarem a travessia a nado de um rio, afirmando que poderia socorrê-la caso tivesse qualquer dificuldade. Durante a travessia, Karen e Lidiane foram pegas por um forte redemoinho que as puxou para o fundo do rio. Lidiane conseguiu escapar, mas, em razão da forte correnteza, não conseguiu salvar Karen, que veio a falecer por afogamento. Considerando o fato acima narrado, Lidiane:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será responsabilizada pelo homicídio de Karen por omissão imprópria, visto que criou a situação de perigo e assumiu a posição de garantidora;"
+      },
+      {
+        "letra": "B",
+        "texto": "assumiu a função de garantidora, devendo responder pela omissão de socorro com resultado morte;"
+      },
+      {
+        "letra": "C",
+        "texto": "assumiu a função de garantidora, mas não responderá pela morte de Karen, pois estava impossibilitada de agir;"
+      },
+      {
+        "letra": "D",
+        "texto": "não será responsabilizada pela morte de Karen, visto que não possuía o dever de agir;"
+      },
+      {
+        "letra": "E",
+        "texto": "não assumiu a função de garantidora, devendo, contudo, responder pelo crime de omissão de socorro com resultado morte."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1092623",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Resultado"
+    ],
+    "enunciado_principal": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. A afirmação: “o dever de agir incumbe a quem, com seu comportamento anterior, criou o risco da ocorrência do resultado”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "está expressamente prevista no CP."
+      },
+      {
+        "letra": "B",
+        "texto": "é a expressão supralegal da teoria da “imputação objetiva”."
+      },
+      {
+        "letra": "C",
+        "texto": "é a expressão supralegal da teoria da “cegueira deliberada”."
+      },
+      {
+        "letra": "D",
+        "texto": "deriva de construção jurisprudencial consolidada em súmula de Tribunal Superior."
+      },
+      {
+        "letra": "E",
+        "texto": "admite a aplicação da responsabilidade objetiva no Direito Penal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "932843",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado",
+      "Consumação e tentativa"
+    ],
+    "enunciado_principal": "A fim de garantir o sustento de sua família, Pedro adquiriu 500 CDs e DVDs piratas para posteriormente revendê-los. Certo dia, enquanto expunha os produtos para venda em determinada praça pública de uma cidade brasileira, Pedro foi surpreendido por policiais, que apreenderam a mercadoria e o conduziram coercitivamente até a delegacia. Com referência a essa situação hipotética, julgue o item subsequente. Se a conduta de Pedro não se consumar em razão de circunstâncias alheias à sua vontade, ele responderá pelo crime tentado, para o que está prevista a pena correspondente ao crime consumado diminuída de um a dois terços.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "927246",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado"
+    ],
+    "enunciado_principal": "Fulano, querendo matar Beltrano, efetua um disparo de revólver contra este, mas erra o alvo, vindo a atingir Sicrano, ferindo este último levemente no braço. Nessa situação hipotética, conforme legislação aplicável ao caso, Fulano deverá responder por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "homicídio tentado contra Sicrano."
+      },
+      {
+        "letra": "B",
+        "texto": "homicídio tentado contra Beltrano."
+      },
+      {
+        "letra": "C",
+        "texto": "lesões corporais leves contra Sicrano."
+      },
+      {
+        "letra": "D",
+        "texto": "lesões corporais culposas contra Sicrano."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "913048",
+    "metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Resultado",
+      "Nexo de causalidade",
+      "Tipicidade formal",
+      "Tipicidade conglobante",
+      "Antijuridicidade",
+      "Noções Gerais Antijuridicidade"
+    ],
+    "enunciado_principal": "São elementos do fato típico, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "tipicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "nexo causal."
+      },
+      {
+        "letra": "E",
+        "texto": "antijuricidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "904762",
+    "metadata": "Ano: 2018 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Resultado",
+      "Nexo de causalidade",
+      "Consumação e tentativa"
+    ],
+    "enunciado_principal": "Leia as afirmações abaixo e, ao final, indique a alternativa CORRETA:I. O crime somente se consuma quando nele se reúnem todos os elementos de sua definição legal. II. O agente que, voluntariamente, desiste de prosseguir na execução do crime não responde pelos atos já praticados. III. A tentativa não é punível quando o crime não se consuma por ineficácia absoluta do meio ou por absoluta impropriedade do objeto. IV. O erro sobre a identidade da pessoa contra a qual o crime é praticado isenta de pena o agente, se o erro é inevitável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmações III e IV estão certas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmações I e II estão certas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmações I e III estão certas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmações II e IV estão certas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "841991",
+    "metadata": "Ano: 2017 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Tipo Penal Culposo",
+      "Resultado",
+      "Consumação e tentativa",
+      "Antijuridicidade",
+      "Legítima defesa",
+      "Erro de tipo acidental",
+      "Noções Gerais Antijuridicidade",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "\"A\" dispara dois tiros contra \"B\" que acabara de agredir violentamente seu marido. Entretanto, diante da imperícia de \"A\" no manuseio da arma de fogo, o tiro atinge \"C\", uma senhora de 80 anos, que vem a falecer. A esse respeito, é correto afirmar que \"A\"",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "praticou o homicídio sob o abrigo da legítima defesa putativa de terceiro, excludente da ilicitude."
+      },
+      {
+        "letra": "B",
+        "texto": "responderá por tentativa de homicídio privilegiado."
+      },
+      {
+        "letra": "C",
+        "texto": "responderá por homicídio privilegiado consumado."
+      },
+      {
+        "letra": "D",
+        "texto": "responderá por tentativa de homicídio privilegiado contra \"B\" e homicídio culposo contra \"C\"."
+      },
+      {
+        "letra": "E",
+        "texto": "responderá por homicídio privilegiado consumado contra \"B\", qualificado por ser a vítima maior de 60 anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "839109",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PCA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Tipo Penal Culposo",
+      "Resultado",
+      "Erro de tipo acidental",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Lesão corporal leve e culposa",
+      "Lesões corporais qualificadas"
+    ],
+    "enunciado_principal": "Após uma discussão em um bar, Pedro decide matar Roberto. Para tanto, dirige-se até sua residência onde arma-se de um revólver. Ato contínuo, retorna ao estabelecimento e efetua um disparo em direção a Roberto. Contudo, erra o alvo, atingindo Antonio, balconista que ali trabalhava, ferindo-o levemente no ombro. Diante do caso hipotético, Pedro praticou, em tese, o(s) crime(s) de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão corporal leve."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão corporal culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio tentado e lesão corporal leve."
+      },
+      {
+        "letra": "D",
+        "texto": "lesão corporal culposa e tentativa de homicídio."
+      },
+      {
+        "letra": "E",
+        "texto": "homicídio na forma tentada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "773154",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Resultado",
+      "Noções gerais de Concursos de Pessoas",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Álvaro e Samuel assaltaram um banco utilizando arma de fogo. Sem ter ferido ninguém, Álvaro conseguiu fugir. Samuel, nervoso por ter ficado para trás, atirou para cima e acabou atingindo uma cliente, que faleceu. Dias depois, enquanto caminhava sozinho pela rua, Álvaro encontrou um dos funcionários do banco e, tendo sido por ele reconhecido como um dos assaltantes, matou-o e escondeu seu corpo. Acerca dessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Álvaro cometeu os crimes de roubo qualificado e homicídio simples."
+      },
+      {
+        "letra": "B",
+        "texto": "Samuel cometeu os crimes de roubo simples e homicídio culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "Álvaro cometeu os crimes de roubo e homicídio qualificados."
+      },
+      {
+        "letra": "D",
+        "texto": "Álvaro cometeu o crime de homicídio qualificado e será responsabilizado pelo resultado morte ocorrido durante o roubo."
+      },
+      {
+        "letra": "E",
+        "texto": "Álvaro e Samuel cometeram o crime de roubo qualificado pelo resultado morte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "723936",
+    "metadata": "Ano: 2016 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Resultado",
+      "Crimes contra o patrimônio",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "O delito de extorsão mediante sequestro pode ser classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Delito de tendência interna transcendente peculiar;"
+      },
+      {
+        "letra": "B",
+        "texto": "Delito de tendência interna transcendente de resultado separado;"
+      },
+      {
+        "letra": "C",
+        "texto": "Delito de tendência interna transcendente incompleto de dois atos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Delito de tendência interna peculiar de resultado separado;"
+      },
+      {
+        "letra": "E",
+        "texto": "Delito de tendência interna peculiar incompleto de dois atos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "628803",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Resultado",
+      "Nexo de causalidade",
+      "Antijuridicidade",
+      "Legítima defesa",
+      "Erro de tipo acidental",
+      "Descriminantes Putativas"
+    ],
+    "enunciado_principal": "Sobre a aplicação dos elementos da teoria geral do delito, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adamastor, tomado por ciúmes e agindo com animus necandi, desferiu três disparos de arma de fogo calibre .38 contra Bento, que atualmente namora sua ex-companheira Catarina. O primeiro tiro atingiu a região lateral esquerda do pescoço da vítima, enquanto os demais se alojaram na região inferior de sua perna esquerda, próximo ao joelho. Logo após os disparos, contudo, o próprio autor, assustado com o desfecho de sua ação, contatou o SAMU e o Hospital de Pronto Socorro, a fim de que a vítima fosse socorrida e recebesse atendimento médico de urgência, o que efetivamente veio a ocorrer em face do pronto atendimento de uma ambulância. Em que pese não ter corrido risco de vida, Bento recebeu alta médica após permanecer internado durante 45 dias. Pelo exposto, é correto tipificar a conduta de Adamastor como um crime de lesão corporal grave."
+      },
+      {
+        "letra": "B",
+        "texto": "O erro quanto à pessoa e o erro na execução do crime fazem com que o agente responda pelos resultados típicos alcançados, não sendo levadas em consideração as condições e características das vítimas que efetivamente pretendia atingir."
+      },
+      {
+        "letra": "C",
+        "texto": "A legítima defesa putativa própria caracteriza-se por uma intepretação equivocada do agente em relação às circunstâncias reais de uma determinada situação fática, fazendo-o acreditar que está sofrendo (ou na iminência de sofrer) uma agressão injusta, e seu reconhecimento tem como consequência legal o afastamento da ilicitude da conduta, ainda que tal equívoco interpretativo decorra de culpa do próprio agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando reconhecido que a conduta delitiva decorre de coação irresistível ou do cumprimento de ordem de superior hierárquico não manifestamente ilegal, o agente que a praticou terá sua pena diminuída de um sexto a um terço."
+      },
+      {
+        "letra": "E",
+        "texto": "Reconhecida a intenção do coautor de participar de crime menos grave, o juiz deverá aplicar-lhe a pena em relação ao mesmo crime dos demais acusados, diminuindo-a, todavia, de um sexto até a metade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2770582",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Tipo Penal Culposo",
+      "Resultado"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os crimes dispostos na parte especial de Código Penal preveem a forma dolosa e culposa do delito."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime culposo admite a figura da tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito brasileiro não reconhece a figura da culpa imprópria."
+      },
+      {
+        "letra": "D",
+        "texto": "O dolo eventual não é admitido no direito brasileiro."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de lesão corporal seguido do resultada morte, disposto no artigo 129, § 3º, do Código Penal, é exemplo de crime preterdoloso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "463534",
+    "metadata": "Ano: 2014 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Resultado"
+    ],
+    "enunciado_principal": "Após uma violenta discussão, A resolve matar B afogado e joga seu desafeto de cima de uma ponte. B acaba por morrer após bater a cabeça no pilar da ponte e não por afogamento. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A deve responder dolosamente pela morte de B, já que o resultado concreto (realização do perigo) corresponde à realização do plano do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "A deve responder culposamente, tratando-se o resultado de um desvio causal regular e previsível, incompatível com o dolo do autor (representação do resultado como ocorreu)."
+      },
+      {
+        "letra": "C",
+        "texto": "A deve responder dolosamente, já que o resultado é causa superveniente relativamente independente da conduta do autor, tendo esta produzido o resultado “por si só”. A doutrina chama a hipótese de “troca de dolo”, constituindo a situação uma mudança do objeto do dolo."
+      },
+      {
+        "letra": "D",
+        "texto": "A deve responder culposamente, já que sua conduta foi imprudente (culpa consciente). Trata-se na hipótese do chamado aberratio causae ou “culpa geral”."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "463522",
+    "metadata": "Ano: 2014 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Resultado",
+      "Imputação objetiva",
+      "Consumação e tentativa"
+    ],
+    "enunciado_principal": "Considerando que o fato típico constitui o elemento estrutural inicial do delito, indique a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações em curto-circuito e nos atos reflexos inexiste conduta por ausência de voluntariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "João Cruel, com a finalidade de matar seu inimigo José Mala, ministra veneno em coquetel mesmo sabendo que a referida bebida seria servida a todos os convidados de uma festa, o que de fato ocorreu, vindo, diante disso, a matar o seu inimigo e aos demais convidados que ingeriram tal bebida; entretanto, uma das convidadas estava grávida, de maneira que da sua morte decorreu necessariamente o aborto. Conforme ensinamento do Promotor de Justiça Marcelo André de Azevedo, neste caso, tendo João Cruel consciência do estado de gravidez, estaria configurado também o dolo direto de terceiro grau"
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo Claus Roxin é perfeitamente possível a conciliação entre a teoria da imputação objetiva e a teoria conditio sine qua non, exercendo aquela uma moderação na relação de causalidade material."
+      },
+      {
+        "letra": "D",
+        "texto": "A tentativa inqualificada ocorre na hipótese de desistência voluntária justamente pelo fato do agente deixar de prosseguir nos atos executórios, evitando, assim, a consumação do crime por vontade própria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "419834",
+    "metadata": "Ano: 2014 | Banca: ACAFE | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Resultado",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo resultado que agrava especialmente a pena, só responde o agente que não o houver causado ao menos culposamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços."
+      },
+      {
+        "letra": "C",
+        "texto": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo e não permite a punição por crime culposo."
+      },
+      {
+        "letra": "D",
+        "texto": "É passível de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima. Haverá isenção de pena quando o erro deriva de culpa e o fato é punível como crime culposo."
+      },
+      {
+        "letra": "E",
+        "texto": "Não responde pelo crime o terceiro que determina o erro sobre elemento constitutivo do tipo legal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "417893",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado",
+      "Nexo de causalidade",
+      "Crime preterdoloso",
+      "Concurso de crimes",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Em relação ao direito penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A continuidade delitiva ocorre quando o agente praticar dois ou mais crimes de mesma natureza em condições que possibilitem que os delitos subsequentes sejam tidos como continuação do primeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "A espécie de dolo envolvido não influencia a classificação dos crimes segundo o resultado, pois crimes materiais ou formais podem ter como móvel tanto o dolo genérico quanto o específico."
+      },
+      {
+        "letra": "C",
+        "texto": "Em se tratando de crime de omissão de socorro, caracteriza arrependimento posterior o fato de a vítima receber tratamento médico custeado pelo autor."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com a teoria da equivalência dos antecedentes, nem todos os antecedentes do resultado podem ser considerados na relação de causalidade, já que as causas relativamente independentes da conduta excluem o nexo de causalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo a teoria da equivalência dos antecedentes, o agente que esteja diante de causa preexistente absolutamente independente e já a conheça ou, embora não a conheça, possa prevê-la, responde pelo resultado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "409963",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: TRE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado",
+      "Consumação e tentativa"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida até um terço."
+      },
+      {
+        "letra": "B",
+        "texto": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa."
+      },
+      {
+        "letra": "C",
+        "texto": "Diz-se o crime tentado, quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "400879",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Resultado",
+      "Arrependimento posterior"
+    ],
+    "enunciado_principal": "Acerca do arrependimento posterior, da culpa, dos crimes qualificados pelo resultado, das excludentes de ilicitude e das excludentes de culpabilidade, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a doutrina majoritária, aquele que, para salvar-se de perigo iminente, sacrifica direito de outrem não atua em estado de necessidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O instituto do arrependimento posterior pode ser aplicado ao crime de lesão corporal culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito penal admite a compensação de culpas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todo crime qualificado pelo resultado é um crime preterdoloso."
+      },
+      {
+        "letra": "E",
+        "texto": "A coação física irresistível é capaz de excluir a culpabilidade pelo cometimento de um crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "407318",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Resultado",
+      "Crimes contra a administração pública"
+    ],
+    "enunciado_principal": "Quanto à classificação doutrinária dos crimes e suas consequências jurídicas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O resultado típico dos crimes comissivos por omissão pode ser atribuído a qualquer pessoa, e não apenas aos indivíduos que tenham a obrigação jurídica de evitar o resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratando-se de crime funcional próprio, se o agente não for funcionário público, operará uma atipicidade relativa, enquadrando-se o fato em outro tipo legal."
+      },
+      {
+        "letra": "C",
+        "texto": "Em se tratando de crime plurissubjetivo, não se admite concurso eventual, já que só pode ser praticado por dois ou mais agentes em concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se o sequestro um crime instantâneo de efeito permanente, já que seu momento consumativo é instantâneo, mas seus efeitos perduram no tempo."
+      },
+      {
+        "letra": "E",
+        "texto": "A tentativa de crime preterdoloso é aceitável tanto pela doutrina quanto pela jurisprudência, porquanto, apesar de o agente não desejar o resultado agravador, sua conduta inicial é sempre dolosa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "404138",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Resultado"
+    ],
+    "enunciado_principal": "Considerando a teoria geral do delito, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se determinada pessoa, em decorrência de discussão em fila de hospital onde espera atendimento por ter sido agredida com um soco, acaba agredida por outro paciente e, por isso, perde um dente, deve o autor da primeira agressão responder pela prática do crime de lesão corporal agravado pelo resultado perda do dente, já que a segunda agressão ocorreu apenas porque a vítima já havia sido por ele agredida."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a teoria da imputação objetiva, a criação de um risco proibido é suficiente para se atribuir ao agente o tipo incriminador, ainda que o resultado não decorra diretamente desse risco."
+      },
+      {
+        "letra": "C",
+        "texto": "Classifica-se como crime de mão própria a ação de exigir de outrem vantagem indevida se o agente for funcionário público e, no momento da prática do ato, estiver no exercício de sua função."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a configuração do crime de desobediência, não é necessário o resultado naturalístico."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que, tendo obrigação de evitar o resultado, não o faz responderá pela prática de crime omissivo próprio."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

@@ -1,0 +1,675 @@
+[
+  {
+    "id": "3179520",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "Sobre o Regime Disciplinar Diferenciado, segundo a legislação aplicável, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tem duração de 2 anos, prorrogáveis uma única vez, por igual período."
+      },
+      {
+        "letra": "B",
+        "texto": "É cabível para membro de associação criminosa, independentemente de cometimento de falta grave."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as entrevistas são monitoradas."
+      },
+      {
+        "letra": "D",
+        "texto": "É cumprido sempre em estabelecimento penitenciário federal."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é cabível em caso de prisão cautelar."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2522200",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Regressão de regime penitenciário",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "Márcio é pessoa em situação de rua e está cumprindo pena em regime semiaberto harmonizado (com uso de tornozeleira eletrônica). Em razão das dificuldades de carregar a bateria do equipamento de monitoração na rua, Márcio é regredido cautelarmente de regime. Em audiência de justificativa, aponta todas as dificuldades de carregar a bateria nas ruas e seu desejo de conseguir acabar de cumprir sua pena. O juiz, entendendo que o fim de bateria equivale à fuga, regride definitivamente Márcio de regime. Acerca do tema, a decisão do magistrado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não merece reparos, tendo em vista que a jurisprudência do TJ/PR é realmente no sentido de que o fim de bateria equivale à fuga e que a situação pessoal do apenado não deve ser levada em consideração, sob pena de ferir o princípio da impessoalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Merece reparos, pois o fim de bateria é uma falta média, e faltas médias não podem levar à regressão do regime."
+      },
+      {
+        "letra": "C",
+        "texto": "Merece reparos tendo em vista que, apesar do fim de bateria, no entendimento do TJ/PR, equivaler à fuga, deve-se evitar o uso de tornozeleiras eletrônicas por pessoas em situação de rua."
+      },
+      {
+        "letra": "D",
+        "texto": "Merece reparos tendo em vista que, além do fim da bateria, no entendimento do TJ/PR, não equivaler à fuga, a condição de pessoa em situação de rua impede o cumprimento de pena por meio do uso de tornozeleiras eletrônicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Merece reparos, pois o fim de bateria é uma falta leve, e faltas leves não podem levar à regressão de regime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2449097",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "João, integrante da facção criminosa “ABC”, durante o cumprimento de pena pela prática do crime de homicídio qualificado, é informado de que será incluído no regime disciplinar diferenciado (RDD), em observância às formalidades legais. Muito preocupado com as restrições que lhe serão impostas, João pergunta a diversas pessoas sobre as peculiaridades do RDD. Considerando as disposições da Lei nº 7.210/1984, é característica do regime disciplinar diferenciado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as visitas quinzenais, de duas pessoas por vez, a serem realizadas em instalações equipadas para impedir o contato físico e a passagem de objetos, por pessoa da família ou, no caso de terceiro, autorizado judicialmente, com duração de duas horas;"
+      },
+      {
+        "letra": "B",
+        "texto": "a vedação ao comparecimento presencial do preso em audiências judiciais, garantindo-se os equipamentos necessários para que o acautelado participe do ato por videoconferência;"
+      },
+      {
+        "letra": "C",
+        "texto": "as entrevistas monitoradas, inclusive aquelas com o defensor do preso, em instalações equipadas para impedir o contato físico e a passagem de objetos, salvo expressa autorização judicial em contrário;"
+      },
+      {
+        "letra": "D",
+        "texto": "a saída da cela por duas horas diárias para banho de sol, em grupos de até cinco presos, desde que não haja contato com outros acautelados do mesmo grupo criminoso;"
+      },
+      {
+        "letra": "E",
+        "texto": "duração máxima de dois anos, admitindo-se uma prorrogação, por igual período, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2414820",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Tendo como base a Lei nº 7.210/1984, e as alterações realizadas com o advento do pacote anticrime, tem-se, que no Regime Disciplinar Diferenciado (RDD), passou a existir o direito do preso à saída da cela por duas horas diárias para banho de sol, em grupos de até três presos, desde que não haja contato com presos do mesmo grupo criminoso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2339508",
+    "metadata": "Ano: 2023 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "Considere as seguintes afirmações. I - Aplicam-se aos presos provisórios as disposições da lei de execuções penais, vedada, todavia, a progressão do regime prisional antes do trânsito em julgado da condenação para ambas as partes. II - Segundo entendimento do Supremo Tribunal Federal, a falta de vaga em colônia penal obriga a imediata concessão de prisão domiciliar com monitoramento eletrônico, uma vez que ao condenado não se impõe o dever de cumprir a pena em regime mais gravoso que aquele estabelecido na sentença. III - O benefício da detração deve ser reconhecido desde logo pelo juiz de conhecimento quando para beneficiar o réu em relação ao regime inicial de cumprimento da pena. IV - Das decisões do juiz de execução cabe agravo sem efeito suspensivo, que deve ser interposto no prazo de 5 (cinco) dias, acompanhado de razões, diretamente no Tribunal competente. V - Aplica-se o regime disciplinar diferenciado (RDD) aos presos provisórios ou condenados que apresentem alto risco para a ordem e a segurança do estabelecimento penal de origem ou a sociedade. Quais afirmações estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmações está correta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1927543",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre o regime disciplinar diferenciado, considere: I. Duração máxima de trezentos e sessenta dias, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie, até o limite de um sexto da pena aplicada. II. Visitas quinzenais, de 2 pessoas por vez, a serem realizadas em instalações equipadas para impedir o contato físico e a passagem de objetos, por pessoa da família ou, no caso de terceiro, autorizado judicialmente, com duração de 2 horas. III. Entrevistas sempre monitoradas, exceto aquelas com seu defensor, em instalações equipadas para impedir o contato físico e a passagem de objetos, salvo expressa autorização judicial em contrário. IV. Direito do preso à saída da cela por 2 horas diárias para banho de sol, em grupos de até 2 presos, desde que não haja contato com presos do mesmo grupo criminoso. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "951035",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "O Diretor do Presídio “A” oficia ao Juiz de Direito da Vara das Execuções Criminais da comarca local, informando que João, preso em referido estabelecimento, faz parte de organização criminosa e requerendo a sua inclusão no Regime Disciplinar Diferenciado. Nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se o juiz determinar a inclusão de João no Regime Disciplinar Diferenciado, o período de inclusão poderá ser de até 1 (um) ano renovado por mais 1 (um) ano desde que não ultrapasse um sexto da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "o juiz não poderia determinar a inclusão de João no Regime Disciplinar Diferenciado se João fosse preso provisório."
+      },
+      {
+        "letra": "C",
+        "texto": "o juiz somente poderá determinar a inclusão de João no Regime Disciplinar Diferenciado após a manifestação do Ministério Público e da Defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá o Juiz determinar imediatamente, de forma fundamentada, a inclusão de João no Regime Disciplinar Diferenciado."
+      },
+      {
+        "letra": "E",
+        "texto": "o Diretor do Presídio poderia determinar a inclusão de João no Regime Disciplinar Diferenciado desde que o Juiz homologasse a sua decisão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "843758",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Livramento condicional",
+      "Condições a serem impostas no curso do benefício",
+      "Causas e consequências da revogação do benefício",
+      "Prorrogação do período de prova",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Conforme a Lei n° 7.210, de 11 de julho de 1984, que institui a Lei de Execução Penal, e entendimento dos Tribunais Superiores, a respeito da execução penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de acordo com o entendimento sumulado do Superior Tribunal de Justiça, a falta grave interrompe o prazo para a obtenção de livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "a remição é instituto que se aplica a presos em regime fechado ou semiaberto, não havendo autorização legal para ser concedida aos condenados em regime aberto."
+      },
+      {
+        "letra": "C",
+        "texto": "nas duas espécies de autorizações de saída, previstas na Lei de Execução Penal vigente, é medida obrigatória a vigilância direta do preso, podendo o juiz determinar a fiscalização por meio de monitoramento eletrônico."
+      },
+      {
+        "letra": "D",
+        "texto": "o regime disciplinar diferenciado, conforme previsão na Lei de Execução Penal vigente, será aplicado por prévio e fundamentado despacho do juiz competente, e dependerá de requerimento circunstanciado elaborado pelo diretor do estabelecimento prisional, delegado de polícia ou Ministério Público."
+      },
+      {
+        "letra": "E",
+        "texto": "a pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo artigo 75 do Código Penal vigente, não é considerada para a concessão do livramento condicional ou regime mais favorável de execução."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "828197",
+    "metadata": "Ano: 2017 | Banca: IDECAN | Órgão: SEAP-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Assinale, a seguir, a alternativa que contenha uma característica INCORRETA do regime disciplinar diferenciado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recolhimento em cela individual."
+      },
+      {
+        "letra": "B",
+        "texto": "O preso terá direito à saída da cela por duas horas semanais para banho de sol."
+      },
+      {
+        "letra": "C",
+        "texto": "Visitas semanais de duas pessoas, sem contar as crianças, com duração de duas horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Duração máxima de trezentos e sessenta dias, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie, até o limite de um sexto da pena aplicada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "823000",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "O regime disciplinar diferenciado, de cumprimento da pena, apresenta as seguintes características: I. duração máxima de trezentos e sessenta dias, até o limite de um sexto da pena aplicada. II. recolhimento em cela individual.III. visitas semanais de duas pessoas, sem contar as crianças, com duração de duas horas. IV. o preso terá direito à saída da cela por 2 horas diárias para banho de sol. V. não poderá abrigar presos provisórios. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e V."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "708457",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "De acordo com a LEP, se determinado preso provisório cometer crime doloso após o encarceramento, ele estará sujeito ao regime disciplinar diferenciado, sem prejuízo da sanção penal,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mediante decisão da autoridade administrativa competente, independentemente da manifestação do juiz competente."
+      },
+      {
+        "letra": "B",
+        "texto": "por decisão da autoridade administrativa competente, precedida da manifestação do MP e da defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "caso o novo ato cometido, previsto como crime doloso, seja punível com reclusão."
+      },
+      {
+        "letra": "D",
+        "texto": "que poderá limitar o número de pessoas e a duração das visitas semanais."
+      },
+      {
+        "letra": "E",
+        "texto": "depois de transitar em julgado eventual decisão condenatória do crime que motivou a sua prisão, pois, como preso provisório, ele não pode ser sujeito ao referido regime."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "708450",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "José subverteu a disciplina interna do estabelecimento prisional por ter praticado ato previsto como crime. Nessa situação hipotética, de acordo com o que prevê a LEP relativamente ao RDD,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o RDD poderá ser aplicado a José pelo diretor do estabelecimento prisional, que, na decisão, deverá considerar o comportamento de José e os motivos de sua prisão."
+      },
+      {
+        "letra": "B",
+        "texto": "a submissão de José ao RDD ocorrerá se o crime praticado por ele for tipificado na modalidade dolosa ou culposa, que cause dano ao patrimônio ou à integridade física de outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "para que José seja submetido ao RDD, o crime por ele cometido deve ser doloso e ter sido praticado com violência ou grave ameaça a pessoa, hipótese que configura falta grave."
+      },
+      {
+        "letra": "D",
+        "texto": "não será admitida a aplicação do RDD a José se ele for um preso provisório, uma vez que a LEP prevê ser requisito para esse regime o trânsito em julgado da sentença penal condenatória."
+      },
+      {
+        "letra": "E",
+        "texto": "se for submetido ao RDD, José ficará recolhido em cela individual, terá direito a visitas semanais e poderá sair da cela diariamente para banho de sol."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "634560",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: SEGEP-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Acerca do regime disciplinar diferenciado e de acordo com o disposto no art. 52 da Lei n° 7.210/1984, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caso a conduta do preso implique sujeição ao regime disciplinar diferenciado, será relevada a caracterização de falta grave, para que não haja dupla punição pelo mesmo fato."
+      },
+      {
+        "letra": "B",
+        "texto": "o regime disciplinar diferenciado tem duração máxima e improrrogável de trezentos e sessenta e cinco dias."
+      },
+      {
+        "letra": "C",
+        "texto": "o preso condenado, caso apresente alto risco para a segurança do estabelecimento penal, poderá ser encaminhado ao regime disciplinar diferenciado, o que não ocorre com o preso provisório."
+      },
+      {
+        "letra": "D",
+        "texto": "o regime disciplinar diferenciado, em que o preso tem direito a visitas semanais de duas pessoas, sem contar as crianças, poderá abrigar presos provisórios."
+      },
+      {
+        "letra": "E",
+        "texto": "a prática de crime doloso pelo preso condenado, além de implicar falta grave, automaticamente determina sujeição ao regime disciplinar diferenciado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "452697",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Segundo a Lei De Execuções Penais (Lei n° 7.210/84), são características do Regime Disciplinar Diferenciado, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duração máxima de trezentos e sessenta dias, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie, até o limite de um sexto da pena aplicada."
+      },
+      {
+        "letra": "B",
+        "texto": "Direito à saída da cela por duas horas diárias para banho de sol."
+      },
+      {
+        "letra": "C",
+        "texto": "Necessidade do trânsito em julgado da sentença condenatória para aplicação da medida."
+      },
+      {
+        "letra": "D",
+        "texto": "Recolhimento em cela individual."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "432707",
+    "metadata": "Ano: 2014 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre o regime disciplinar diferenciado, aponte a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O regime disciplinar diferenciado terá duração máxima de trezentos e sessenta dias, sem prejuízo da repetição da sanção por nova falta grave, de qualquer espécie, até o limite de um sexto da pena aplicada;"
+      },
+      {
+        "letra": "B",
+        "texto": "Por meio de ato motivado, o diretor do estabelecimento prisional poderá determinar a inclusão do preso no regime disciplinar diferenciado, não se prescindindo da posterior homologação judicial;"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente estará sujeito ao regime disciplinar diferenciado o condenado sob o qual recaiam fundadas suspeitas de envolvimento ou participação, a qualquer título, em organizações criminosas quadrilha ou bando;"
+      },
+      {
+        "letra": "D",
+        "texto": "A prática de fato previsto como crime doloso constitui falta grave e, quando ocasione subversão da ordem ou da disciplina internas , sujeita o condenado, sem prejuízo da sanção penal, ao regime disciplinar diferenciado;"
+      },
+      {
+        "letra": "E",
+        "texto": "O preso submetido ao regime disciplinar diferenciado não terá direito a visitas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "418348",
+    "metadata": "Ano: 2014 | Banca: MPE-MG | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Sobre o regime disciplinar diferenciado, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poderá abrigar condenados, nacionais ou estrangeiros, que apresentem alto risco para a ordem e a segurança do estabelecimento penal ou da sociedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Está sujeito o condenado sob o qual recaiam fundadas suspeitas de envolvimento ou participação, a qualquer título, em organizações criminosas."
+      },
+      {
+        "letra": "C",
+        "texto": "È aplicável ao preso provisório que pratique fato previsto como crime doloso e que ocasione subversão da ordem e disciplina internas, sem prejuízo da sanção penal."
+      },
+      {
+        "letra": "D",
+        "texto": "Tem duração máxima de 360 (trezentos e sessenta) dias, sem prejuízo de repetição por nova falta grave, até o limite de 1/4 (um quarto) da pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "409256",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "Com relação ao regime disciplinar diferenciado, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "consiste em um rigoroso regime de cumprimento de pena."
+      },
+      {
+        "letra": "B",
+        "texto": "a previsão legal do instituto encontra-se no Código Penal, havendo divergências sobre sua constitucionalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "sua previsão legal decorre das modificações introduzidas na Lei de Execução Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "se trata de uma sanção disciplinar destinada apenas aos presos condenados."
+      },
+      {
+        "letra": "E",
+        "texto": "se trata de um incidente no cumprimento da pena, devidamente previsto na Lei de Execução Penal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "255260",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: MPE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "O Regime Disciplinar Diferenciado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode ser imposto quando o preso praticar fato previsto como crime doloso, ainda que não ocasione subversão da ordem ou disciplina internas."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ultrapassar o limite de 1/6 (um sexto) da pena aplicada."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode ser imposto ao preso provisório."
+      },
+      {
+        "letra": "D",
+        "texto": "permite visitas semanais de duas pessoas, aí incluídas crianças, com duração de duas horas."
+      },
+      {
+        "letra": "E",
+        "texto": "não pode ser imposto ao preso estrangeiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "244178",
+    "metadata": "Ano: 2012 | Banca: CEPERJ | Órgão: SEAP-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado"
+    ],
+    "enunciado_principal": "No regime disciplinar diferenciado, concorre a seguinte característica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "duração máxima de setecentos e vinte dias"
+      },
+      {
+        "letra": "B",
+        "texto": "recolhimento em cela coletiva"
+      },
+      {
+        "letra": "C",
+        "texto": "visita semanal proibida"
+      },
+      {
+        "letra": "D",
+        "texto": "direito à saída da cela por 2 horas diárias para banho de sol"
+      },
+      {
+        "letra": "E",
+        "texto": "repetição do regime por nova falta grave não é possível"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "205296",
+    "metadata": "Ano: 2011 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Inimputabilidade por doença mental",
+      "Penas privativas de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Legislação Penal Especial",
+      "Lei de Tóxicos – Lei nº 11.343 de 2006"
+    ],
+    "enunciado_principal": "Marque a alternativa correta acerca das seguintes questões, referentes às consequências jurídicas do injusto penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conforme entendimento consolidado no Tribunal de Justiça do Distrito Federal, o condenado a pena de reclusão pela prática de crime de tráfico de entorpecentes poderá cumpri-la, desde logo, em regime aberto, dada a inconstitucionalidade do artigo 44 da Lei nº 11.343/2006."
+      },
+      {
+        "letra": "B",
+        "texto": "Condenado o réu a penas de três anos de reclusão e de dois anos de detenção, por reconhecimento do concurso material de crimes, ambas em regime aberto, necessariamente iniciará o cumprimento de sua sanção em regime semiaberto."
+      },
+      {
+        "letra": "C",
+        "texto": "O semi-imputável, como regra, possui capacidade penal plena, merecendo redução de sua reprimenda como medida de política criminal, sem prejuízo de sua internação para tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O regime disciplinar diferenciado terá prazo máximo de 360 (trezentos e sessenta dias), prorrogável uma única vez quando demonstrado o envolvimento do condenado em organizações criminosas."
+      },
+      {
+        "letra": "E",
+        "texto": "Na ótica do Superior Tribunal de Justiça, a prática de faltas graves, na medida em que não interrompe o prazo para obtenção de livramento condicional, não pode ser óbice à concessão do benefício."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

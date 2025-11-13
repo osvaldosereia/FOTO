@@ -1,0 +1,204 @@
+[
+  {
+    "id": "3441536",
+    "metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Resistência",
+      "Reingresso de estrangeiro expulso",
+      "Comunicação falsa de crime ou de contravenção. Autoacusação falsa",
+      "Favorecimento pessoal",
+      "Arrebatamento de Presos. Motim de Presos"
+    ],
+    "enunciado_principal": "São crimes contra a Administração da Justiça as seguintes condutas, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reingressar no território nacional o estrangeiro que dele foi expulso."
+      },
+      {
+        "letra": "B",
+        "texto": "auxiliar a subtrair-se à ação de autoridade pública autor de crime a que é cominada pena de reclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "amotinarem-se presos, perturbando a ordem ou disciplina da prisão."
+      },
+      {
+        "letra": "D",
+        "texto": "opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio."
+      },
+      {
+        "letra": "E",
+        "texto": "acusar-se, perante a autoridade, de crime inexistente ou praticado por outrem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "854362",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Reingresso de estrangeiro expulso"
+    ],
+    "enunciado_principal": "Com referência a essa situação hipotética, julgue o item a seguir.Michael praticou o crime de reingresso de estrangeiro expulso: a sua permanência em território nacional, de acordo com o Código Penal, é equiparada a reingresso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "677825",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TCE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Reingresso de estrangeiro expulso"
+    ],
+    "enunciado_principal": "Julgue o próximo item, de acordo com a jurisprudência e a legislação brasileira em vigor.O delito de reingresso de estrangeiro expulso não é classificado como delito de mão-própria, uma vez que admite participação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "531760",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Câmara Municipal de Itatiba - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Facilitação de contrabando ou descaminho",
+      "Corrupção ativa",
+      "Reingresso de estrangeiro expulso"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pratica o crime de contrabando aquele que ilude, no todo ou em parte, o pagamento de direito ou imposto devido pela entrada, saída ou consumo de mercadoria."
+      },
+      {
+        "letra": "B",
+        "texto": "O estrangeiro que tenha sido expulso do território nacional e nele reingresse pratica crime contra a administração da Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de resistência se configura com a oposição mediante violência ou ameaça à execução de ato legal ou ilegal praticado por funcionário público competente para executá-lo."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se funcionário público, para os efeitos penais, apenas quem exerce cargo, emprego ou função pública de forma efetiva e mediante remuneração."
+      },
+      {
+        "letra": "E",
+        "texto": "O funcionário público que exige para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida pratica o crime de corrupção ativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "313308",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Reingresso de estrangeiro expulso",
+      "Comunicação falsa de crime ou de contravenção. Autoacusação falsa",
+      "Falso Testemunho ou Falsa Perícia. Corrupção Ativa de Testemunha ou Perito",
+      "Exercício arbitrário das próprias razões",
+      "Favorecimento pessoal"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito dos crimes contra a administração da justiça.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Responderá pelo crime de exercício arbitrário das próprias razões o indivíduo que cortar, até o limite divisório de seu terreno, ramos de árvore plantada no imóvel vizinho que invadam seu terreno, devendo a questão ser resolvida perante o juízo cível competente."
+      },
+      {
+        "letra": "B",
+        "texto": "O indivíduo que emprestar motocicleta de sua propriedade para que o irmão cometa o crime de furto em uma agência bancária, de modo a auxiliá-lo na fuga, será beneficiado, na ação penal movida por favorecimento pessoal, com a isenção de pena, não respondendo, portanto, por sua conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de reingresso de estrangeiro expulso não se consuma caso a autoridade competente impeça a entrada no território nacional daquele que se encontre na fila de atendimento após o desembarque da aeronave civil de voo comercial regular, respondendo o agente, nesse caso, pela tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O fato de o intérprete nomeado dolosamente calar a verdade perante juízo arbitral configura crime de falso testemunho ou falsa perícia, sendo o agente punido mesmo que seja substituído por profissional que atue com maior zelo na causa."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que, tendo visto determinada pessoa na posse de veículo automotor furtado, informa à autoridade policial ser essa pessoa o autor do crime de furto pratica o crime de comunicação falsa de crime se restar provado que, de fato, tal pessoa era autora de crime de receptação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "294907",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Facilitação de contrabando ou descaminho",
+      "Reingresso de estrangeiro expulso"
+    ],
+    "enunciado_principal": "É certo afirmar: I. Nos crimes praticados por funcionário público contra a administração em geral, o sujeito ativo é somente o funcionário público. II. No crime de facilitação de contrabando ou descaminho, o objeto material é a mercadoria contrabandeada ou o imposto não recolhido, respectivamente. III. Disparar arma de fogo em via pública se constituí em contravenção penal. IV. O crime de reingresso de estrangeiro expulso admite tentativa. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e III estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "236066",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Reingresso de estrangeiro expulso"
+    ],
+    "enunciado_principal": "Em cada um dos itens de 92 a 95 é apresentada uma situação hipotética, acerca dos crimes contra a pessoa, contra o patrimônio, contra a fé pública e contra a administração pública, seguida de uma assertiva a ser julgada. Juan, cidadão espanhol, que havia sido expulso do Brasil após cumprimento de pena por tráfico internacional de drogas, retornou ao país, sem autorização de autoridade competente, para visitar sua companheira e seu filho, nascido no curso do cumprimento da pena. Nessa situação, para que o simples reingresso de Juan ao Brasil configurasse crime, seria necessário que ele praticasse nova infração, de natureza dolosa, em território nacional.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

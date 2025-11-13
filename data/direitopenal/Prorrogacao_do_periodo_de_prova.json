@@ -1,0 +1,105 @@
+[
+  {
+    "id": "852801",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Causas e consequências da revogação do benefício",
+      "Prorrogação do período de prova"
+    ],
+    "enunciado_principal": "Celso, réu primário, condenado definitivamente por homicídio qualificado, conseguiu livramento condicional. Durante o cumprimento do livramento condicional, ele foi condenado novamente pelo crime de roubo, o qual havia sido praticado antes da vigência do benefício. A respeito dessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A situação de Celso enseja prorrogação imediata do período de prova do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "O livramento condicional não poderá ser novamente concedido a Celso, em razão da reincidência específica em crimes dolosos."
+      },
+      {
+        "letra": "C",
+        "texto": "As penas de Celso devem somar-se, para efeito do livramento, quando ocorrer o trânsito em julgado da sentença condenatória."
+      },
+      {
+        "letra": "D",
+        "texto": "O período em que Celso ficou em liberdade não será computado na pena."
+      },
+      {
+        "letra": "E",
+        "texto": "A nova condenação de Celso, independentemente do trânsito em julgado da sentença, resulta na revogação imediata do benefício de livramento condicional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "843758",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regime Disciplinar Diferenciado",
+      "Livramento condicional",
+      "Condições a serem impostas no curso do benefício",
+      "Causas e consequências da revogação do benefício",
+      "Prorrogação do período de prova",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Conforme a Lei n° 7.210, de 11 de julho de 1984, que institui a Lei de Execução Penal, e entendimento dos Tribunais Superiores, a respeito da execução penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de acordo com o entendimento sumulado do Superior Tribunal de Justiça, a falta grave interrompe o prazo para a obtenção de livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "a remição é instituto que se aplica a presos em regime fechado ou semiaberto, não havendo autorização legal para ser concedida aos condenados em regime aberto."
+      },
+      {
+        "letra": "C",
+        "texto": "nas duas espécies de autorizações de saída, previstas na Lei de Execução Penal vigente, é medida obrigatória a vigilância direta do preso, podendo o juiz determinar a fiscalização por meio de monitoramento eletrônico."
+      },
+      {
+        "letra": "D",
+        "texto": "o regime disciplinar diferenciado, conforme previsão na Lei de Execução Penal vigente, será aplicado por prévio e fundamentado despacho do juiz competente, e dependerá de requerimento circunstanciado elaborado pelo diretor do estabelecimento prisional, delegado de polícia ou Ministério Público."
+      },
+      {
+        "letra": "E",
+        "texto": "a pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo artigo 75 do Código Penal vigente, não é considerada para a concessão do livramento condicional ou regime mais favorável de execução."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "444789",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Prorrogação do período de prova"
+    ],
+    "enunciado_principal": "Após ter cumprido a metade da pena por crime não hediondo, um indivíduo reincidente obteve livramento condicional pelo período de cinco anos. Faltando dois anos para a reaquisição integral da liberdade, ele foi denunciado pela suposta prática de homicídio que teria sido praticado durante o período de prova do livramento condicional. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "haverá a revogação obrigatória e imediata do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "haverá a revogação facultativa do livramento condicional."
+      },
+      {
+        "letra": "C",
+        "texto": "ao final do livramento condicional em gozo, não ocorrendo decisão definitiva no novo processo, haverá extinção da pena pelo cumprimento."
+      },
+      {
+        "letra": "D",
+        "texto": "ao final do livramento condicional em gozo, não havendo decisão definitiva, deverá o livramento condicional ser prorrogado até o trânsito em julgado no novo processo."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

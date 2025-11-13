@@ -1,0 +1,736 @@
+[
+  {
+    "id": "2374454",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: DPE-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "De acordo com a teoria da Tipicidade Conglobante, defendida por Eugenio Raul Zaffaroni,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o princípio da adequação social permite a exclusão da tipicidade objetiva quando a conduta praticada estiver autorizada pela ordem jurídica como um todo, considerando-se os usos e costumes."
+      },
+      {
+        "letra": "B",
+        "texto": "o princípio da insignificância permite a exclusão da tipicidade subjetiva da conduta quando a ofensa ao bem jurídico tutelado pela norma penal for tão ínfima que não justifique a intervenção penal."
+      },
+      {
+        "letra": "C",
+        "texto": "a legítima defesa constitui um tipo penal permissivo, razão pela qual a conduta daquele que atua em legítima defesa real carece de tipicidade subjetiva, não sendo necessário perquirir sobre a antijuridicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "a conduta do oficial de justiça que, em cumprimento de ordem judicial, comparece à residência do devedor e sequestra seus bens é considerada penalmente atípica por não contrariar a ordem normativa como um todo."
+      },
+      {
+        "letra": "E",
+        "texto": "a tipicidade e a antijuridicidade constituem uma categoria única do conceito estratificado de delito, razão pela qual as causas de justificação são situações que excluem a própria tipicidade objetiva."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1894956",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Com relação a aspectos do direito penal, julgue o item a seguir.Pela teoria da tipicidade conglobante, a existência de estado de necessidade putativo afasta a tipicidade da conduta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1810035",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante",
+      "Antijuridicidade",
+      "Estrito cumprimento de dever legal e exercício regular de direito"
+    ],
+    "enunciado_principal": "Segundo a Teoria da Tipicidade Conglobante, aquele que atua em estrito cumprimento do dever legal ou no exercício regular do direito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pratica crime, pois, embora o fato seja típico, não há ilicitude na conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "não pratica crime, pois ausente a culpabilidade em decorrência da inexigibilidade de conduta diversa."
+      },
+      {
+        "letra": "C",
+        "texto": "pratica fato típico, ilícito, culpável, mas não punível por questões de política criminal."
+      },
+      {
+        "letra": "D",
+        "texto": "fica isento de pena por questões de política criminal."
+      },
+      {
+        "letra": "E",
+        "texto": "não pratica crime, pois o fato sequer seria típico, tendo em vista que o agente não atuou antinormativamente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "913048",
+    "metadata": "Ano: 2018 | Banca: UERR | Órgão: SETRABES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Resultado",
+      "Nexo de causalidade",
+      "Tipicidade formal",
+      "Tipicidade conglobante",
+      "Antijuridicidade",
+      "Noções Gerais Antijuridicidade"
+    ],
+    "enunciado_principal": "São elementos do fato típico, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "tipicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "nexo causal."
+      },
+      {
+        "letra": "E",
+        "texto": "antijuricidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "890897",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante",
+      "Antijuridicidade"
+    ],
+    "enunciado_principal": "Sabe-se que as atividades desportivas e médicas são fomentadas como “dever de Estado”, não só pela Constituição Federal como também por outros diplomas em vigor. É certo, outrossim, que de tais atividades podem acontecer lesões corporais até mesmo com resultado morte aos envolvidos, em vista dos riscos inerentes às próprias atividades. Nesse sentido, na esteira da doutrina de E. R. Zaffaroni e Nilo Batista, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos esportes arriscados, em regra, a aquiescência do esportista elimina a tipicidade conglobante nas condutas sistematicamente típicas (geralmente, culposas), eventualmente ocorrentes durante a prática esportiva, ainda que violadas as regras do jogo pelo autor."
+      },
+      {
+        "letra": "B",
+        "texto": "As cirurgias médicas com fins terapêuticos, fomentadas juridicamente que são pelo Estado, permitem a consideração conglobada da norma deduzida do tipo legal, qualquer que seja seu resultado sobre a saúde ou a vida do paciente, desde que o médico proceda segundo a lex artis."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas intervenções cirúrgicas sem finalidade terapêutica, a falta de consentimento do paciente torna típica a lesão; o erro sobre a normatividade da ação por parte do médico, seja por crer que o assentimento lhe fora concedido, seja por supor que poderia ter atuado sem ele, constitui erro de proibição."
+      },
+      {
+        "letra": "D",
+        "texto": "Na luta de boxe, por se tratar de atividade desportiva que contempla ab initio condutas subsumíveis ao tipo de lesões corporais dolosas, uma vez havendo infração das regras com causação de morte do adversário, será possível trabalhar o caso no modelo complexo do crime preterintencional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "865130",
+    "metadata": "Ano: 2017 | Banca: IESES | Órgão: IGP-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Tipicidade conglobante",
+      "Noções gerais de Concursos de Pessoas",
+      "Erro do tipo essencial"
+    ],
+    "enunciado_principal": "É certo afirmar: I. No concurso de pessoas as circunstâncias e as condições de caráter pessoal nunca se comunicam. II. Tipicidade conglobante é a comprovação de que a conduta legalmente típica está também proibida pela norma, o que se obtém desentranhando o alcance da norma proibitiva, conglobada com as restantes normas da ordem normativa. III. O sujeito ativo, geralmente, pode ser qualquer um, mas em certos tipos são exigidas características especiais no sujeito passivo. Quando qualquer um pode ser sujeito ativo, os tipos costumam enunciar “o que” ou “quem”. IV. O erro de tipo não afasta o dolo. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e III estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "628797",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Sobre tipicidade, considere as afirmações abaixo. I - Tipicidade conglobante (antinormatividade) é a comprovação de que a conduta legalmente típica está também proibida pela norma, o que se obtém desentranhando o alcance dessa norma proibitiva conglobada com as demais disposições do ordenamento jurídico. II - Tipicidade legal é a individualização que a lei faz da conduta, mediante o conjunto dos elementos descritivos e valorativos (normativos) de que se vale o tipo legal. III - Tipicidade, para a teoria indiciária, é uma presunção iuris et iuris da normatividade da licitude. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "532519",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Norma penal em branco é aquela cujo preceito secundário do tipo penal é estabelecido por outra norma legal, regulamentar ou administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da imputação objetiva consiste em destacar o resultado naturalístico como objeto do bem jurídico penalmente tutelado."
+      },
+      {
+        "letra": "C",
+        "texto": "Da Constituição Federal de 1988 pode-se extrair a garantia à sociedade pela aplicação do princípio da não fragmentariedade, consistente na proteção de todos os bens jurídicos e proteção dos interesses jurídicos."
+      },
+      {
+        "letra": "D",
+        "texto": "O Código Penal Brasileiro adotou a teoria do resultado para aferição do tempo do crime, conforme se depreende do art. 4o do mencionado Código."
+      },
+      {
+        "letra": "E",
+        "texto": "A tipicidade conglobante é um corretivo da tipicidade legal, posto que pode excluir do âmbito do típico aquelas condutas que apenas aparentemente estão proibidas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "467365",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante",
+      "Crimes contra o patrimônio",
+      "Furto"
+    ],
+    "enunciado_principal": "José, réu primário, após subtrair para si, durante o repouso noturno, mediante rompimento de obstáculo, um botijão de gás avaliado em R$ 50,00 do interior de uma residência habitada, foi preso em flagrante delito. Tendo como referência essa situação hipotética, julgue o item subsecutivo, com base na jurisprudência dominante dos tribunais superiores a respeito desse tema.O crime praticado por José é atípico em razão da incidência do princípio da insignificância.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "884474",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Tipicidade conglobante",
+      "Noções Gerais da Culpabilidade"
+    ],
+    "enunciado_principal": "O artigo 3º do Código Penal dispõe: “a lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência”. O referido artigo prevê o fenômeno da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coculpabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "tipicidade conglobante."
+      },
+      {
+        "letra": "C",
+        "texto": "retroatividade da lei."
+      },
+      {
+        "letra": "D",
+        "texto": "abolitio criminis."
+      },
+      {
+        "letra": "E",
+        "texto": "ultra-atividade da lei."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "432810",
+    "metadata": "Ano: 2014 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Segundo a teoria da tipicidade conglobante, o fato não é típico por falta de lesividade: 1. quando se cumpre um dever jurídico. 2. quando, para defender um bem ou valor próprio, o agente sacrifica bem ou valor alheios de menor magnitude. 3. quando se pratica uma ação fomentada pelo direito. 4. quando há o consentimento do titular do bem jurídico. 5. quando o agente pratica a conduta em legítima defesa putativa. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas 1, 2 e 4 são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 1, 2, 4 e 5 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas 3 e 5 são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "409252",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Assinale a alternativa com o nome e a nacionalidade do principal defensor da teoria da tipicidade conglobante.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nilo Batista, brasileiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Luigi Ferrajoli, italiano."
+      },
+      {
+        "letra": "C",
+        "texto": "Kai Ambos, alemão."
+      },
+      {
+        "letra": "D",
+        "texto": "Klaus Tiedemann, alemão."
+      },
+      {
+        "letra": "E",
+        "texto": "Eugenio Raúl Zaffaroni, argentino."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "402261",
+    "metadata": "Ano: 2014 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Segundo a teoria da tipicidade conglobante proposta por Eugenio Raúl Zaffaroni, quando um médico, em virtude de intervenção cirúrgica cardíaca por absoluta necessidade corta com bisturi a região torácica do paciente, é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "responde pelo crime de lesão corporal."
+      },
+      {
+        "letra": "B",
+        "texto": "não responde por nenhum crime, pois está albergado pela causa de exclusão de ilicitude do exercício regular de direito."
+      },
+      {
+        "letra": "C",
+        "texto": "não responde por nenhum crime, carecendo o fato de tipicidade, já que não podem ser consideradas típicas aquelas condutas toleradas ou mesmo incentivadas pelo ordenamento jurídico."
+      },
+      {
+        "letra": "D",
+        "texto": "não responde por nenhum crime, pois estará agindo em erro de tipo provocado por terceiro."
+      },
+      {
+        "letra": "E",
+        "texto": "não responde por nenhum crime, pois está albergado pela causa de exclusão de ilicitude do estado de necessidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "378659",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 18ª Região (GO)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "É causa de exclusão da tipicidade,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a insignificância do fato ou a sua adequação social, segundo corrente doutrinária e jurisprudencial."
+      },
+      {
+        "letra": "B",
+        "texto": "o erro inevitável sobre a ilicitude do fato."
+      },
+      {
+        "letra": "C",
+        "texto": "a coação moral irresistível."
+      },
+      {
+        "letra": "D",
+        "texto": "a não exigibilidade de conduta diversa."
+      },
+      {
+        "letra": "E",
+        "texto": "a obediência hierárquica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "362516",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "A assertiva: “a conduta expressa e previamente consagrada como um direito ou um dever será sempre atípica, pouco importando a subsunção formal ao tipo”, está relacionada com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A tipicidade concreta;"
+      },
+      {
+        "letra": "B",
+        "texto": "O erro de tipo;"
+      },
+      {
+        "letra": "C",
+        "texto": "O erro de proibição;"
+      },
+      {
+        "letra": "D",
+        "texto": "A tipicidade conglobante;"
+      },
+      {
+        "letra": "E",
+        "texto": "O erro de tipo permissivo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "423149",
+    "metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Relativamente ao princípio da insignificância, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da insignificância pode ser aplicado no plano abstrato."
+      },
+      {
+        "letra": "B",
+        "texto": "Possuindo o réu antecedente criminal não é possível a aplicação do princípio da insignificância."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da insignificância atua como instrumento de interpretação restritiva do tipo penal."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode se dizer que o fundamento teórico do princípio da insignificância reside no caráter retributivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo o Superior Tribunal de Justiça, em caso de apreensão de quantidade ínfima de cocaína é possível o trancamento da ação penal, com base no princípio da insignificância."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "348144",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: MPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "A ideia de insignificância penal centra-se no conceito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formal de crime."
+      },
+      {
+        "letra": "B",
+        "texto": "material de crime."
+      },
+      {
+        "letra": "C",
+        "texto": "analítico de crime."
+      },
+      {
+        "letra": "D",
+        "texto": "subsidiário de crime."
+      },
+      {
+        "letra": "E",
+        "texto": "aparente de crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "340788",
+    "metadata": "Ano: 2013 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Examine os itens seguintes, indicando o CORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da culpabilidade limita-se à impossibilidade de declaração de culpa sem o trânsito em julgado de sentença penal condenatória."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da legalidade impede a aplicação de lei penal ao fato ocorrido antes do início de sua vigência."
+      },
+      {
+        "letra": "C",
+        "texto": "Integram o núcleo do princípio da estrita legalidade os seguintes postulados: reserva legal, proibição de aplicação de pena em hipótese de lesões irrelevantes, proibição de analogia in malam partem."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação de pena aos inimputáveis, dada a sua incapacidade de sensibilização pela norma penal, viola o princípio da culpabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Os princípios da insignificância penal e da adequação social se identificam, ambos caracterizados pela ausência de preenchimento formal do tipo penal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "426535",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade conglobante",
+      "Concurso de crimes",
+      "Crime continuado"
+    ],
+    "enunciado_principal": "Considerando os temas relacionados ao tipo e à tipicidade penais, leia as proposições abaixo e, após, marque a única alternativa correta.I - O Supremo Tribunal Federal considera admissível continuidade delitiva entre roubo e furto porque são crimes da mesma natureza e da mesma espécie.II - O chamado princípio da insignificância tem sido aplicado no contexto da exclusão da tipicidade penal, sendo, porém, necessária a aferição da presença de certos vetores, tais como: a mínima ofensividade da conduta do agente; a nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada, tudo isso tendo como norte a formulação teórica atual que reconhece que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público.III - Há atipicidade da conduta, considerando-se o crime de falso testemunho, na hipótese de negativa em responder às perguntas formuladas em juízo quando, embora rotulado de testemunha, o comparecente, na verdade, encontra-se na condição de investigado, possuindo, por isso, direito constitucional ao silêncio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I é falso."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II é falso."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III é falso."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos os itens são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens são falsos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "283083",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "De acordo com o Glossário Jurídico do Supremo Tribunal Federal, “o princípio da insignificância tem o sentido de excluir ou de afastar a própria tipicidade penal, ou seja, não considera o ato praticado como um crime, por isso, sua aplicação resulta na absolvição do réu e não apenas na diminuição e substituição da pena ou não sua não aplicação”. Sobre o tema princípio da insignificância, assinale a resposta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Buscando sua origem, de acordo com certa vertente doutrinária, no Direito Romano, o princípio da insignificância vem sendo objeto de recorrentes decisões do STF, nas quais são estabelecidos dois parâmetros para sua determinação: reduzidíssimo grau de reprovabi l idade do compor tamento e inexpressividade da lesão jurídica provocada."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da insignificância, decorrência do caráter fragmentário do Direito Penal, tem base em uma orientação utilitarista, tem origem controversa, encontrando, na atual jurisprudência do STF, os seguintes requisitos de configuração: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada."
+      },
+      {
+        "letra": "C",
+        "texto": "Sua atual elaboração deita raízes na doutrina de Claus Roxin e, no Direito Penal brasileiro, consoante jurisprudência atual do STF, se limita à avaliação da inexpressividade da lesão jurídica provocada, ou seja, observa-se se a ofensa ao bem jurídico tutelado é relevante ou banal."
+      },
+      {
+        "letra": "D",
+        "texto": "Surgindo como uma consequência lógica do princípio da individualização das penas, a insignificância penal não aceita a periculosidade social da ação como parâmetro, de acordo com o posicionamento atual do STF, em razão da elevada abstração desse conceito, mas apresenta como requisi tos: a mínima ofensividade da conduta do agente; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada."
+      },
+      {
+        "letra": "E",
+        "texto": "Inserida no princípio da intervenção mínima, embora já mencionada anteriormente por Welzel como uma faceta do princípio da adequação social, a insignificância determina a inexistência do crime quando a conduta praticada apresentar a simultânea presença dos seguintes requisitos, exigidos pela atual jurisprudência do STF: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; a inexpressividade da lesão jurídica provocada; e a inexistência de um especial fim de agir."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "269826",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Tipicidade conglobante",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Inserção de dados falsos em sistema de informações"
+    ],
+    "enunciado_principal": "Com base no estabelecido no CP, bem como no entendimento dos tribunais superiores dos crimes contra a administração pública, assinale a opção correta com relação à situação hipotética acima e aos crimes contra a administração pública.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta dos agentes — funcionária e empresário — amolda- se, em face do princípio da especialidade, à figura típica doutrinariamente denominada peculato eletrônico."
+      },
+      {
+        "letra": "B",
+        "texto": "Consoante atual jurisprudência do STJ, admite-se a declaração da atipicidade material da conduta tanto da funcionária quanto do empresário em face da incidência do princípio da insignificância, dadas as condições pessoais dos agentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Haverá responsabilização dos agentes, em concurso material e de pessoas, pelos delitos de peculato e inserção de dados falsos no sistema de informações da prefeitura municipal."
+      },
+      {
+        "letra": "D",
+        "texto": "O empresário responderá somente pelo delito de peculato, visto que o crime de inserção de dados falsos no sistema de informações é crime próprio, de natureza personalíssima, sendo necessária à sua caracterização a presença de elemento normativo do tipo condição de funcionário autorizado."
+      },
+      {
+        "letra": "E",
+        "texto": "A restituição dos valores percebidos indevidamente extinguirá a punibilidade dos agentes caso ocorra antes do recebimento da peça acusatória; se for posterior a esta, a pena será reduzida pela metade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "243880",
+    "metadata": "Ano: 2012 | Banca: TRT 15R | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Aponte a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tipicidade diz respeito à subsunção perfeita da conduta praticada pelo agente ao modelo abstrato previsto na lei penal, isto é, a um tipo penal incriminador. A tipicidade penal é formada, .ainda, pela conjugação da tipicidade formal (ou legal) com a tipicidade conglobante."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tipos penais derívados que, em virtudede de determinadas circunstâncias, podem aumentar ou diminuir a reprimenda, são apenas os privilegiados."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o agente atua com dolo na conduta e dolo quanto ao resultado qualificador, diz-se crime preterdoloso; quando o agente atua com dolo na conduta e culpa com relação ao resultado diz-se crime qualificado pelo resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime multitudinário e o cometido por uma multidão delinquente, geralmente, numa situação de tumulto. E a jurisprudência do STF vem se orientando no sentido de que não é admitida a narração genérica dos fatos, sem discriminação da conduta específica de cada denunciado."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualquer pessoa pode ser sujeito passivo do crime político."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

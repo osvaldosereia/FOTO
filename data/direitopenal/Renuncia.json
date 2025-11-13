@@ -1,0 +1,632 @@
+[
+  {
+    "id": "1886822",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Decadência.",
+      "Perempção",
+      "Renúncia",
+      "Retratação do agente"
+    ],
+    "enunciado_principal": "Extinguem a punibilidade do agente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "renúncia e perempção na ação pública condicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "decadência e retratação na ação pública incondicionada."
+      },
+      {
+        "letra": "C",
+        "texto": "retratação e perdão aceito na ação pública condicionada."
+      },
+      {
+        "letra": "D",
+        "texto": "perdão aceito e perempção na ação privada propriamente dita."
+      },
+      {
+        "letra": "E",
+        "texto": "decadência e renúncia na ação privada subsidiária da pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1149347",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Renúncia",
+      "Perdão do ofendido"
+    ],
+    "enunciado_principal": "Acerca da ação penal, de causas de extinção da punibilidade e da imposição de medidas de segurança, julgue o item subsequente.Nos crimes de ação penal privada, a extinção da punibilidade pela renúncia e pelo perdão do ofendido está condicionada à aceitação do querelado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1143682",
+    "metadata": "Ano: 2020 | Banca: FEPESE | Órgão: Prefeitura de Itajaí - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Morte do agente",
+      "Anistia, graça e indulto",
+      "Renúncia"
+    ],
+    "enunciado_principal": "Considerando o disposto na legislação penal brasileira, extingue-se a punibilidade nas seguintes hipóteses: 1. pela morte do agente. 2. pela anistia, graça ou indulto. 3. pelo advento de lei que agrava o fato criminoso. 4. pela renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada. Assinale a alternativa que indica todas as afirmativas corretas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São corretas apenas as afirmativas 1, 2 e 3."
+      },
+      {
+        "letra": "B",
+        "texto": "São corretas apenas as afirmativas 1, 2 e 4."
+      },
+      {
+        "letra": "C",
+        "texto": "São corretas apenas as afirmativas 1, 3 e 4."
+      },
+      {
+        "letra": "D",
+        "texto": "São corretas apenas as afirmativas 2, 3 e 4."
+      },
+      {
+        "letra": "E",
+        "texto": "São corretas as afirmativas 1, 2, 3 e 4."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1142565",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Renúncia"
+    ],
+    "enunciado_principal": "A partir dessa situação hipotética, julgue o item a seguir.O crime praticado por Mário contra a moça admite a extinção da punibilidade pela prescrição e pela renúncia ao direito de queixa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1120093",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Renúncia"
+    ],
+    "enunciado_principal": "Antônia foi vítima de calúnia praticada por Francisca e Rita. Inconformada, Antônia, na mesma semana em que sofreu a calúnia, tomou as providências para que fosse proposta a ação penal cabível, mas o fez apenas contra Francisca, porque Rita era amiga de sua mãe.Nessa situação hipotética, ocorreu",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "retratação."
+      },
+      {
+        "letra": "B",
+        "texto": "renúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "perdão."
+      },
+      {
+        "letra": "D",
+        "texto": "perempção."
+      },
+      {
+        "letra": "E",
+        "texto": "decadência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1839457",
+    "metadata": "Ano: 2019 | Banca: GSA CONCURSOS | Órgão: Prefeitura de Jardinópolis - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Decadência.",
+      "Perempção",
+      "Renúncia",
+      "Perdão do ofendido",
+      "Retratação do agente"
+    ],
+    "enunciado_principal": "São causas de extinção de punibilidade, de acordo com as normas penais vigentes, exceto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pela prescrição, decadência ou perempção."
+      },
+      {
+        "letra": "B",
+        "texto": "Pela renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada."
+      },
+      {
+        "letra": "C",
+        "texto": "Pela embriaguez involuntária completa."
+      },
+      {
+        "letra": "D",
+        "texto": "Pela retratação do agente, nos casos em que a lei a admite."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1112742",
+    "metadata": "Ano: 2019 | Banca: CONSULPLAN | Órgão: MPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Decadência.",
+      "Renúncia"
+    ],
+    "enunciado_principal": "“A perda do direito de agir, pelo decurso de determinado lapso temporal, estabelecido em lei, provocando a extinção da punibilidade do agente.” O conceito apresentado por Guilherme Souza Nucci, em sua obra Curso de Direito Processual Penal, corresponde ao instituto da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Renúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "Preclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrição."
+      },
+      {
+        "letra": "D",
+        "texto": "Decadência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "950177",
+    "metadata": "Ano: 2018 | Banca: FEPESE | Órgão: PGE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Morte do agente",
+      "Anistia, graça e indulto",
+      "Abolitio criminis",
+      "Prescrição. Conceito e modalidades",
+      "Decadência.",
+      "Perempção",
+      "Renúncia",
+      "Perdão do ofendido",
+      "Retratação do agente",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "Nos termos do Código Penal, assinale a alternativa que contém todas as causas de extinção da punibilidade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Morte do agente; anistia, graça ou indulto; irretroatividade de lei que não mais considera o fato como criminoso; prescrição ou decadência; renúncia do direito de queixa; retratação do agente, nos casos em que a lei a admite; perdão judicial, nos casos previstos em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Morte do agente; anistia, graça ou indulto; retroatividade de lei que não mais considera o fato como criminoso; prescrição ou decadência; retratação do agente, nos casos em que a lei a admite; perdão judicial, nos casos previstos em lei."
+      },
+      {
+        "letra": "C",
+        "texto": "Morte do agente; retroatividade de lei que não mais considera o fato como criminoso; prescrição, decadência ou perempção; renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada; retratação do agente, nos casos em que a lei a admite; perdão judicial, nos casos previstos em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "Morte do agente; irretroatividade de lei que não mais considera o fato como criminoso; prescrição ou decadência; renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada; retratação do agente, nos casos em que a lei a admite; perdão judicial, nos casos previstos em lei."
+      },
+      {
+        "letra": "E",
+        "texto": "Morte do agente; anistia, graça ou indulto; retroatividade de lei que não mais considera o fato como criminoso; prescrição, decadência ou perempção; renúncia do direito de queixa ou pelo perdão aceito, nos crimes de ação privada; retratação do agente, nos casos em que a lei a admite; perdão judicial, nos casos previstos em lei."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "936128",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Conceito",
+      "Causas de extinção da punibilidade",
+      "Perempção",
+      "Renúncia",
+      "Perdão do ofendido"
+    ],
+    "enunciado_principal": "Considerando a jurisprudência dos tribunais superiores no que se refere a ação penal pública e privada, a crimes contra a fé pública e a crimes contra a ordem tributária, julgue o item seguinte.A renúncia, o perdão e a perempção extinguem a punibilidade na ação penal privada e na ação pública condicionada a representação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "883346",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Perempção",
+      "Renúncia"
+    ],
+    "enunciado_principal": "Julgue o item que se segue, acerca de extinção da punibilidade no direito penal brasileiro.Perempção e renúncia ao direito de queixa são causas de extinção da punibilidade relacionadas à ação penal privada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "866478",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Morte do agente",
+      "Anistia, graça e indulto",
+      "Renúncia",
+      "Retratação do agente"
+    ],
+    "enunciado_principal": "Com relação à punibilidade e às causas de sua extinção, julgue os itens a seguir. I A morte do agente extingue todos os efeitos penais, exceto a cobrança da pena de multa e da pena alternativa pecuniária, que poderão ser cobradas dos herdeiros. II O instrumento normativo para instrumentalizar o indulto e a anistia é o decreto presidencial; enquanto a graça é concedida por lei. III De acordo com o Código Penal, o recebimento de indenização pelo dano resultante do crime caracteriza renúncia tácita ao direito de prestar queixa. IV A retratação, prevista no Código Penal, é admitida nos casos de crimes contra a honra, mas apenas se tratar-se de calúnia e difamação, sendo inadmissível na injúria. V Em se tratando de crimes contra honra, o Código Penal prevê a possibilidade de retratação exclusivamente pessoal, ou seja, ela não se comunica aos demais ofensores. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e V."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "IV e V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "802880",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Morte do agente",
+      "Anistia, graça e indulto",
+      "Prescrição. Conceito e modalidades",
+      "Decadência.",
+      "Perempção",
+      "Renúncia"
+    ],
+    "enunciado_principal": "Com relação à extinção da punibilidade disposta no Código Penal Brasileiro, podemos extrair:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A extinção da punibilidade no direito penal brasileiro pode ocorrer em diversas hipóteses, dentre elas: morte do agente, perdão judicial, pela prescrição, decadência ou perempção e pela renúncia do direito de queixa nas ações privadas."
+      },
+      {
+        "letra": "B",
+        "texto": "A extinção da punibilidade somente se dá nos crimes de ações privadas quando o delito for de menor potencial ofensivo, previsto na Lei 9.099/95."
+      },
+      {
+        "letra": "C",
+        "texto": "Para que ocorra extinção da punibilidade nas ações penais condicionadas a representação é necessária a concordância das partes envolvidas e a homologação judicial do perdão."
+      },
+      {
+        "letra": "D",
+        "texto": "A extinção da punibilidade também poderá ocorrer na anistia, indulto e no Juízo de retratação promovido pelo juiz da causa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "620608",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Ação penal privada propriamente dita ou exclusiva",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Renúncia",
+      "Crimes contra a honra",
+      "Noções Gerais de Crimes Contra a Honra"
+    ],
+    "enunciado_principal": "Assinale a opção correta conforme a jurisprudência do STJ no âmbito penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mesmo sendo declarada a extinção da possibilidade em decorrência da prescrição da pretensão punitiva, o fato de o réu ter sido condenado justifica a avaliação negativa por maus antecedentes na dosimetria da pena por outro crime praticado posteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Se várias pessoas ofenderem a honra de alguém em rede social, cada qual fazendo comentários desairosos de forma autônoma, caberá ao ofendido ajuizar queixa-crime contra todos eles, em razão do princípio da indivisibilidade da ação penal, sob pena de se presumir renúncia tácita ao direito de queixa."
+      },
+      {
+        "letra": "C",
+        "texto": "Para que se tipifique o crime contra a honra, tem de haver dolo direto, não se configurando ele com o dolo eventual."
+      },
+      {
+        "letra": "D",
+        "texto": "Na tipificação do crime de perigo abstrato, não se dispensa prova de um dano efetivo a bem jurídico tutelado, ante os princípios que orientam a doutrina do direito penal mínimo."
+      },
+      {
+        "letra": "E",
+        "texto": "O motorista que apenas conduzir os agentes ao local onde estes praticarão um crime e ali permanecer, vigiando as imediações para alertar os comparsas sobre a eventual aproximação de outras pessoas, ou para lhes proporcionar a fuga, responderá por participação de menor importância."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "534574",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão executória",
+      "Decadência.",
+      "Perempção",
+      "Renúncia",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "Com base na jurisprudência do STJ e nas disposições legais acerca de causas extintivas da punibilidade, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admissível a extinção da punibilidade em razão da prescrição da pretensão punitiva com fundamento em pena hipotética."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença concessiva do perdão judicial obsta o cumprimento de pena privativa de liberdade, mas não extingue a punibilidade do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Mantém-se a punibilidade do condenado mesmo que haja indulto, visto que este benefício não alcança eventual pena de multa imposta concomitantemente à pena privativa de liberdade."
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme o CP, a decadência, a perempção e o livramento condicional são causas de extinção da punibilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A reincidência não influi no prazo da prescrição da pretensão punitiva, mas impõe a majoração do lapso prescricional no que se refere à prescrição executória."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "512409",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Causas de extinção da punibilidade",
+      "Renúncia",
+      "Modalidades das Penas privativas de liberdade",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Quanto às penas e à extinção da punibilidade, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constitui pena privativa de liberdade a limitação de fim de semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Para efeito de reincidência são considerados os crimes militares próprios e políticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A sentença que conceder perdão judicial não será considerada para efeitos de reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "O fato de receber o ofendido a indenização do dano causado pelo crime importa em renúncia tácita ao direito de queixa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2780444",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Renúncia",
+      "Perdão do ofendido",
+      "Retratação do agente"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, qual alternativa corresponde à causa de extinção da punibilidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pronúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "O recebimento da denúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "A retratação do agente, nos casos em que a lei a admite."
+      },
+      {
+        "letra": "D",
+        "texto": "A renúncia do direito de queixa ou perdão aceito, nos crimes de ação penal pública."
+      },
+      {
+        "letra": "E",
+        "texto": "A rejeição da denúncia."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1396114",
+    "metadata": "Ano: 2014 | Banca: ESMARN | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Anistia, graça e indulto",
+      "Perempção",
+      "Renúncia",
+      "Perdão do ofendido",
+      "Retratação do agente",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "Em relação às causas de extinção da punibilidade, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anistia, graça e indulto são modalidades de indulgência soberana emanadas de órgãos estranhos ao Poder Judiciário e, por concretizarem a renúncia do Estado ao direito de punir, dispensam o acolhimento posterior por decisão judicial, para acarretar a extinção da punibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O perdão do ofendido não é admissível fora do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos crimes de ação penal de iniciativa privada ou de ação penal pública condicionada à representação, de competência dos Juizados Especiais, a composição civil extingue a punibilidade do suposto autor do fator."
+      },
+      {
+        "letra": "D",
+        "texto": "A perempção é sanção que somente pode ocorrer antes da propositura da ação penal."
+      },
+      {
+        "letra": "E",
+        "texto": "O perdão judicial é ato exclusivo do Poder Judiciário e depende da aceitação do réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1039979",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Erro de tipo acidental",
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Abolitio criminis",
+      "Prescrição. Conceito e modalidades",
+      "Decadência.",
+      "Perempção",
+      "Renúncia"
+    ],
+    "enunciado_principal": "Assinale a alternativa que contém somente causas de extinção da punibilidade, de acordo com o artigo 107 do Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por erro sobre a pessoa; pela decadência ou pela retratação do agente, nos casos em que a lei admite."
+      },
+      {
+        "letra": "B",
+        "texto": "Pela morte do agente; por anistia ou por renúncia do direito de queixa nos crimes de ação privada."
+      },
+      {
+        "letra": "C",
+        "texto": "Pelo perdão judicial nos casos previstos em lei; pela perempção ou por legítima defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "Pela graça; pela prescrição ou por erro na execução."
+      },
+      {
+        "letra": "E",
+        "texto": "Pelo abolitio criminis; pela inimputabilidade penal ou por indulto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "302396",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Perempção",
+      "Renúncia",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "Sobre as causas extintivas da punibilidade, tem-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a sentença concessiva do perdão judicial é declaratória da extinção da punibilidade, não subsistindo qualquer efeito condenatório."
+      },
+      {
+        "letra": "B",
+        "texto": "a renúncia e a desistência são causas de extinção da punibilidade, diferenciando-se apenas quanto ao momento de seu exercício, já que a primeira ocorre depois do ajuizamento da ação penal, enquanto a segunda opera-se antes."
+      },
+      {
+        "letra": "C",
+        "texto": "a perempção opera-se quando o autor na ação penal privada subsidiária da pública deixa de promover o andamento do feito por mais de 30 (trinta) dias."
+      },
+      {
+        "letra": "D",
+        "texto": "a anistia é ato discricionário do presidente da república que tem por objeto crimes cuja sentença tenha transitado em julgado acarretando a extinção da pena imposta."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

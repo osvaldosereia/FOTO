@@ -1,0 +1,359 @@
+[
+  {
+    "id": "3291232",
+    "metadata": "Ano: 2025 | Banca: FAFIPA | Órgão: Prefeitura de Araucária - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Omissão de socorro",
+      "Maus tratos",
+      "Rixa"
+    ],
+    "enunciado_principal": "A respeito do que determina o Decreto-Lei nº 2.848/1940, Código Penal, especialmente acerca dos crimes contra a pessoa, considere as assertivas a seguir. I. Deixar de prestar assistência, quando possível fazê-lo sem risco pessoal, à criança abandonada ou extraviada, ou à pessoa inválida ou ferida, ao desamparo ou em grave e iminente perigo; ou não pedir, nesses casos, o socorro da autoridade pública: Pena - detenção, de um a seis meses, ou multa. II. Exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos, como condição para o atendimento médico-hospitalar emergencial: Pena – reclusão, de 3 (três) meses a 1 (um) ano, ou multa. III. Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina: Pena - detenção, de dois meses a um ano, ou multa. IV. Participar de rixa, salvo para separar os contendores: Pena - reclusão, de quinze dias a dois meses, ou multa. Está CORRETO o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2507087",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: AL-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Rixa"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito dos crimes contra a pessoa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os crimes contra a pessoa são de competência do Tribunal do Júri."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de infanticídio não admite concurso de pessoas, sendo realizado somente pela mulher."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de rixa é um crime contra a pessoa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de extorsão mediante sequestro é um crime contra a pessoa."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há crimes contra a pessoa punidos na forma culposa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2426938",
+    "metadata": "Ano: 2023 | Banca: CETAP | Órgão: FASEPA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Rixa"
+    ],
+    "enunciado_principal": "São crimes de periclitação da vida e saúde tipificados no Código Penal, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perigo de contágio venéreo."
+      },
+      {
+        "letra": "B",
+        "texto": "condicionamento de atendimento médico-hospitalar emergencial."
+      },
+      {
+        "letra": "C",
+        "texto": "rixa."
+      },
+      {
+        "letra": "D",
+        "texto": "maus-tratos."
+      },
+      {
+        "letra": "E",
+        "texto": "abandono de incapaz."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1617770",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Rixa"
+    ],
+    "enunciado_principal": "No que se refere a aspectos legais relacionados aos procedimentos policiais, julgue o item a seguir. Os participantes de uma rixa são simultaneamente sujeitos ativos e passivos uns em relação aos outros, pois o crime de rixa é plurissubjetivo, devendo ter, pelo menos, três contendores para ser caracterizado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1017687",
+    "metadata": "Ano: 2019 | Banca: IDIB | Órgão: Prefeitura de Petrolina - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Abandono de incapaz",
+      "Rixa",
+      "Crimes contra a inviolabilidade do domicílio"
+    ],
+    "enunciado_principal": "Com base no Código Penal, assinale abaixo a conduta típica que não se enquadra nos chamados crimes contra as pessoas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Participar de rixa, salvo para separar os contendores."
+      },
+      {
+        "letra": "B",
+        "texto": "Devassar indevidamente o conteúdo de correspondência fechada, dirigida a outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "Exigir ou receber, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra terceiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tácita de quem de direito, em casa alheia ou em suas dependências."
+      },
+      {
+        "letra": "E",
+        "texto": "Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1178803",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: SJDH-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Rixa"
+    ],
+    "enunciado_principal": "No que diz respeito a concurso de pessoas, assinale a opção correta de acordo com a doutrina e a jurisprudência dos tribunais superiores.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cooperação dolosamente distinta não permite a aplicação diferenciada de penas para aqueles que participam do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Só o servidor público pratica peculato, não podendo responder pelo crime o partícipe que não tenha a mesma condição pessoal."
+      },
+      {
+        "letra": "C",
+        "texto": "É absolutamente impossível o concurso de pessoas nos crimes culposos."
+      },
+      {
+        "letra": "D",
+        "texto": "Na sentença condenatória, o juiz deve sempre aplicar penas iguais para o autor, o coautor e o partícipe."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de rixa, por ser plurissubjetivo, só se realiza com a participação de três ou mais pessoas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "839600",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PC-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Rixa"
+    ],
+    "enunciado_principal": "João decide agredir fisicamente Pedro, seu desafeto, provocando-lhe vários ferimentos. Porém, durante a luta corporal, João resolve matar Pedro, realizando um disparo de arma de fogo contra a vítima, sem contudo, conseguir atingi-lo. A polícia é acionada, separando os contendores. Diante do caso hipotético, João responderá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas por lesões corporais."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas por tentativa de homicídio."
+      },
+      {
+        "letra": "C",
+        "texto": "por rixa e disparo de arma de fogo."
+      },
+      {
+        "letra": "D",
+        "texto": "por lesões corporais consumadas e disparo de arma de fogo."
+      },
+      {
+        "letra": "E",
+        "texto": "por lesões corporais consumadas e homicídio tentado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "561051",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Rixa"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a pessoa e o patrimônio, julgue o item que se segue.A coautoria é obrigatória no caso do crime de rixa, pois a norma incriminadora reclama como condição obrigatória do tipo a existência de, pelo menos, três pessoas, considerando irrelevante que um deles seja inimputável.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "420626",
+    "metadata": "Ano: 2014 | Banca: ACAFE | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Rixa",
+      "Crimes contra a honra",
+      "Calúnia",
+      "Crimes contra o patrimônio",
+      "Furto"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, analise as afirmações a seguir e assinale a alternativa correta.I - É considerado crime exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos como condição para o atendimento médico-hospitalar emergenciai.II - É considerado crime participar de rixa, salvo para separar os contendores. III - Comete o crime de calúnia quem difamar alguém, imputando-lhe fato ofensivo à sua reputação. IV - Comete o crime de furto quem subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as afirmações estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "419450",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PJC-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Rixa"
+    ],
+    "enunciado_principal": "Quanto ao crime de rixa previsto no artigo 137 do Código Penal (participar de rixa, salvo para separar os contendores), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é crime comum, de dano, comissivo por omissão, colet ivo, não transeunte como regra, unissubsistente, instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "é crime comum, de perigo, comissivo, coletivo, não transeunte como regra, plurissubsistente, instantâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "é crime próprio, de dano, comissivo, plurissubjetivo, transeunte como regra, plurissubsistente, permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime próprio, de perigo, comissivo por omissão, monossubjetivo, não transeunte como regra, unissubsistente, permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "é crime comum, de perigo, comissivo, monossubjetivo, transeunte como regra, plurissubsistente, instantâneo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "418094",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Rixa",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a pessoa e o patrimônio, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se, após passar horas em poder de assaltantes e sob a mira de uma arma, a vítima fornecer-lhes a senha para saque em caixas eletrônicos, estará caracterizado o roubo circunstanciado pela restrição da liberdade da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando do crime de extorsão mediante sequestro, será reduzida a pena do corréu que, agindo em concurso de agentes, denunciar o delito à autoridade competente, ainda que a delação não seja meio eficaz de facilitação da libertação da vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "A incidência da qualificadora consistente em emprego de arma independe da comprovação, por meio de apreensão e perícia, do grau de lesividade da arma utilizada na prática do crime de roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o porte ilegal de arma de fogo funcionar como crime meio para a prática do roubo, aplicar-se-á o princípio da subsidiariedade, respondendo o agente pela prática do crime fim."
+      },
+      {
+        "letra": "E",
+        "texto": "Se, em um jogo de futebol, as torcidas rivais se agredirem mutuamente e um dos contendores atingir, com o bastão de uma bandeira, a boca do adversário, causando-lhe lesões corporais graves, todos os envolvidos responderão pelo resultado mais gravoso, por se tratar do crime de rixa, em que se encontra presente o animus rixandi, ainda que o agressor seja prontamente identificado e preso em flagrante."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

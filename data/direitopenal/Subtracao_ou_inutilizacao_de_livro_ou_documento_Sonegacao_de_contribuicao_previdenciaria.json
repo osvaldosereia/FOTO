@@ -1,0 +1,978 @@
+[
+  {
+    "id": "3530119",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Em relação às condutas típicas previstas no Código Penal brasileiro e em leis específicas, julgue o item a seguir. Nos casos de condenação por sonegação de contribuição previdenciária, faculta-se ao juiz a aplicação apenas da pena de multa, desde que o agente tenha bons antecedentes e seja réu primário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3049956",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Macaé - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Thainá é empregada em uma grande sociedade empresária localizada em Mirante da Lagoa, bairro de Macaé/RJ. Thainá recebe R$2.500,00 mensais de salário, mas em sua CTPS o empregador anotou valor menor, de R$2.000,00 – ou seja, a empregada recebe R$500,00 oficiosamente (“por fora”). O recolhimento do INSS de Thainá é feito em relação ao valor anotado na carteira profissional. Considerando a situação retratada e a legislação em vigor, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há crime de apropriação indébita previdenciária."
+      },
+      {
+        "letra": "B",
+        "texto": "Há crime de sonegação de contribuição previdenciária."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há crime na hipótese apresentada, mas apenas irregularidade fiscal."
+      },
+      {
+        "letra": "D",
+        "texto": "Há crime de estelionato."
+      },
+      {
+        "letra": "E",
+        "texto": "Há crime de apropriação indébita."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3039641",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Nova Iguaçu - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Descaminho"
+    ],
+    "enunciado_principal": "Quanto aos crimes de descaminho, apropriação indébita previdenciária e sonegação de contribuição previdenciária previstos no Código Penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "constitui crime de descaminho importar ou exportar mercadoria proibida."
+      },
+      {
+        "letra": "B",
+        "texto": "constitui crime de sonegação de contribuição previdenciária deixar de repassar à previdência social as contribuições recolhidas dos contribuintes, no prazo e forma legal."
+      },
+      {
+        "letra": "C",
+        "texto": "no crime de apropriação indébita previdenciária, mesmo que o agente não tenha promovido o pagamento da contribuição social previdenciária, é facultado ao juiz aplicar somente a pena de multa, quando o agente for primário."
+      },
+      {
+        "letra": "D",
+        "texto": "a pena aplica-se em dobro se o crime de descaminho é praticado em transporte terrestre."
+      },
+      {
+        "letra": "E",
+        "texto": "no crime de sonegação de contribuição previdenciária é extinta a punibilidade se o agente, espontaneamente, declara e confessa as contribuições, e presta as informações devidas à previdência social, antes do início da ação fiscal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2373447",
+    "metadata": "Ano: 2024 | Banca: FUNCERN | Órgão: Prefeitura de Carnaúba dos Dantas - RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Segundo as disposições do Título XI do Código Penal, que versa sobre os crimes contra a Administração Pública, no crime de sonegação de contribuição previdenciária, é extinta a punibilidade, se o agente, espontaneamente, declara e confessa as contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "início da ação fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "oferecimento da denúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "recebimento da denúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "julgamento em primeiro grau de jurisdição."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2277476",
+    "metadata": "Ano: 2023 | Banca: OBJETIVA | Órgão: Prefeitura de Itabuna - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Sobre o crime de sonegação de contribuição previdenciária, assinalar a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É extinta a punibilidade se o agente, espontaneamente, declara e confessa as contribuições, as importâncias ou os valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, depois do início da ação fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o empregador não é pessoa jurídica e sua folha de pagamento mensal não ultrapassa R$ 1.510,00, o juiz poderá reduzir a pena de um terço até a metade ou aplicar apenas a de multa."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena é de reclusão, de 2 a 5 anos, e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela previdência social, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais."
+      },
+      {
+        "letra": "E",
+        "texto": "O valor de R$ 1.510,00 será reajustado nas mesmas datas e nos mesmos índices do reajuste dos benefícios da previdência social."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2202921",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "O crime do artigo 337 do CP tem como objeto material, ou seja, coisa que sofre a ação criminosa, “livro oficial, processo ou documento confiado à custódia de funcionário, em razão de ofício, ou de particular em serviço público.” É correto afirmar que o crime está configurado se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o objeto material for totalmente inutilizado, não se configurando se for parcialmente inutilizado."
+      },
+      {
+        "letra": "B",
+        "texto": "houver subtração, não se configurando em caso de inutilização."
+      },
+      {
+        "letra": "C",
+        "texto": "houver inutilização, não se configurando em caso de subtração, pois esta configura outro crime."
+      },
+      {
+        "letra": "D",
+        "texto": "o autor da ação criminosa for funcionário público, não se configurando se o autor não ostentar tal condição."
+      },
+      {
+        "letra": "E",
+        "texto": "houver subtração ou inutilização, sejam elas totais ou parciais."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2176723",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Tendo em conta o crime de inutilização de edital ou de sinal, previsto no artigo 336, do Código Penal, e o crime de subtração ou inutilização de livro ou documento, previsto no artigo 337, do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São crimes próprios de funcionários públicos, só podendo ser por eles praticados."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de inutilização de edital ou sinal será qualificado quando há violação de sinal empregado para cerrar objeto de interesse da justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "São crimes que inadmitem tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de subtração ou inutilização de livro ou documento restará caracterizado ainda que o documento inutilizado estiver confiado a particular, desde que em serviço público."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de subtração ou inutilização de livro ou documento, se parcial a inutilização do documento, será punido de forma diminuída."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1964863",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a previdência e a seguridade social, julgue o item seguinte. Ainda que um tributo previdenciário tenha sido efetivamente retido de um servidor municipal e não recolhido por sonegação, a conduta do prefeito pode ser considerada atípica se a denúncia deixar de descrever sua efetiva participação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1911417",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: SEFAZ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "João dos Santos é empresário e suprimiu contribuição previdenciária, ao omitir receitas auferidas e demais fatos geradores de contribuições sociais previdenciárias nos documentos comerciais e tributários da sua empresa. É correto afirmar que essa conduta caracteriza crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apropriação indébita previdenciária."
+      },
+      {
+        "letra": "B",
+        "texto": "sonegação de contribuição previdenciária."
+      },
+      {
+        "letra": "C",
+        "texto": "crime contra a ordem tributária."
+      },
+      {
+        "letra": "D",
+        "texto": "descaminho."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de documento público."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1624847",
+    "metadata": "Ano: 2019 | Banca: ADVISE | Órgão: Prefeitura de Juarez Távora - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Configura crime de “Sonegação de contribuição previdenciária” a conduta típica de suprimir ou reduzir contribuição social previdenciária e qualquer acessório, mediante as seguintes condutas: I – omitir de folha de pagamento da empresa ou de documento de informações previsto pela legislação previdenciária segurados empregado, empresário, trabalhador avulso ou trabalhador autônomo ou a este equiparado que lhe prestem serviços; II – deixar de lançar mensalmente nos títulos próprios da contabilidade da empresa as quantias descontadas dos segurados ou as devidas pelo empregador ou pelo tomador de serviços; III – omitir, total ou parcialmente, receitas ou lucros auferidos, remunerações pagas ou creditadas e demais fatos geradores de contribuições sociais previdenciárias.De acordo com o Código Penal, assinale a alternativa CORRETA sobre a extinção da punibilidade do referido crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não será extinta a punibilidade mesmo que o agente, espontaneamente, declare e confesse as contribuições, importâncias ou valores e preste as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal"
+      },
+      {
+        "letra": "B",
+        "texto": "A punibilidade será extinta por simples deliberação do juízo, inexistindo qualquer critério específico em lei para tal."
+      },
+      {
+        "letra": "C",
+        "texto": "Inexiste a figura da extinção da punibilidade no ordenamento jurídico brasileiro."
+      },
+      {
+        "letra": "D",
+        "texto": "A punibilidade será extinta se o agente negar a declaração das contribuições e se negar a prestar informações devidas."
+      },
+      {
+        "letra": "E",
+        "texto": "É extinta a punibilidade se o agente, espontaneamente, declara e confessa as contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1014931",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Corrupção ativa",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Descaminho"
+    ],
+    "enunciado_principal": "Marcelino assumiu recentemente o cargo de Técnico de Segurança e Transporte do TRF, e teve acesso a processo judicial do que ficou sob sua custódia. Verificou que a ação judicial foi movida contra um amigo da família, assim, retirou e destruiu uma página dos autos judiciais que continha informação essencial ao processo. Se o fato não constituir crime mais grave, de acordo com a legislação, Marcelino praticou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descaminho."
+      },
+      {
+        "letra": "B",
+        "texto": "inutilização de edital ou de sinal."
+      },
+      {
+        "letra": "C",
+        "texto": "impedimento, perturbação ou fraude de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "subtração ou inutilização de livro ou documento."
+      },
+      {
+        "letra": "E",
+        "texto": "corrupção ativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "992199",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Câmara de Serrana - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Inserção de dados falsos em sistema de informações",
+      "Usurpação de função pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Denunciação caluniosa",
+      "Favorecimento pessoal"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a administração pública, previstos no Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de inserção de dados falsos em sistema de informações (art. 313-A, do CP) não é próprio de funcionário público."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de usurpação de função pública (art. 328, do CP) somente se configura se o agente da usurpação aufere vantagem."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime de sonegação de contribuição previdenciária (art. 337-A), o perdão judicial da pena é obrigatório, caso o agente seja primário e de bons antecedentes, e as contribuições devidas de pequeno valor."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime de denunciação caluniosa (art. 339, do CP), haverá aumento da pena se o agente se utiliza de anonimato."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de favorecimento pessoal (art. 348, do CP) não se caracteriza se o auxílio é prestado a autor de crime apenado com detenção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "972048",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Roger, empresário, omitiu da folha de pagamento da sua empresa empregados segurados pelo INSS e suprimiu as respectivas contribuições sociais previdenciárias. Nesse caso, Roger cometeu crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contra a ordem tributária, previsto na Lei n.º 8.137/1990, para o qual é prevista a isenção da pena, desde que o agente seja primário e o valor das contribuições devidas seja inferior ao mínimo para o ajuizamento de execução fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "classificado como próprio e que configura norma penal em branco, uma vez que necessita de complementação pela legislação previdenciária."
+      },
+      {
+        "letra": "C",
+        "texto": "que admite a forma tentada e que se consuma a partir da apresentação da guia para recolhimento previdenciário emitida com dados incompletos."
+      },
+      {
+        "letra": "D",
+        "texto": "com isenção da pena ou, a critério do juiz, somente com pena de multa, caso o agente declare espontaneamente as contribuições devidas antes do início da execução fiscal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2000372",
+    "metadata": "Ano: 2018 | Banca: INDEPAC | Órgão: Câmara de Guarujá - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Contrabando",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Descaminho"
+    ],
+    "enunciado_principal": "Sobre os crimes contra a Administração Pública, assinale a alternativa que está de acordo com o entendimento do Superior Tribunal de Justiça.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A importação não autorizada de cigarros constitui o crime de contrabando, passível de aplicação do princípio da insignificância."
+      },
+      {
+        "letra": "B",
+        "texto": "É necessária a constituição definitiva do crédito tributário na esfera administrativa para a configuração dos crimes de contrabando e de descaminho."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de sonegação de contribuição previdenciária, previsto no art. 337-A do Código Penal, não exige dolo específico para a sua configuração."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de sonegação de contribuição previdenciária é de natureza formal e por isso não exige a constituição definitiva do débito tributário perante o âmbito administrativo para configurar-se como conduta típica."
+      },
+      {
+        "letra": "E",
+        "texto": "O pagamento ou o parcelamento dos débitos tributários extingue a punibilidade do crime de descaminho, tendo em vista a natureza material do delito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1271876",
+    "metadata": "Ano: 2018 | Banca: FAUEL | Órgão: IPRERINE - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Sobre a apropriação indébita previdenciária, assinale a alternativa INCORRETA, sabendo que ocorre quando deixa-se de repassar à previdência social as contribuições recolhidas dos contribuintes, no prazo e forma legal ou convencional: Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o pagamento das contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que, tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios."
+      },
+      {
+        "letra": "C",
+        "texto": "É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que, o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela previdência social, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais."
+      },
+      {
+        "letra": "D",
+        "texto": "É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que, a apropriação de coisa havida por erro ou falha de sistema."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "926911",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipicidade formal",
+      "Crimes contra a administração pública",
+      "Extravio, sonegação ou inutilização de livro ou documento",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Funcionário da Assembleia Legislativa recebeu procedimento que versava sobre a edição de lei estadual de grande relevância. Ciente da controvérsia e da grande pressão que existia contrária à edição da inovação legislativa, resolveu esconder o procedimento entre sua mesa e a parede, no chão, para que ninguém soubesse que estava com o documento para apresentação de parecer. Ocorre que o funcionário, por descuido, veio a derrubar café no documento, tornando-o totalmente inutilizável e gerando prejuízos ao andamento do procedimento. Considerando apenas as informações narradas, é correto afirmar que a conduta do funcionário é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica, não configurando crime."
+      },
+      {
+        "letra": "B",
+        "texto": "típica, ilícita e culpável, configurando crime de “extravio, sonegação ou inutilização de livro ou documento”, previsto no Art. 314 do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "típica, ilícita, mas não culpável, não configurando crime."
+      },
+      {
+        "letra": "D",
+        "texto": "típica, ilícita e culpável, configurando o crime de “subtração ou inutilização de livro ou documento”, prevista no Art. 337 do Código Penal."
+      },
+      {
+        "letra": "E",
+        "texto": "típica, mas não ilícita, não configurando crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "845509",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TST",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "José, 60 anos, gerente do empreendimento de construção Verbo, adotava a praxe empresarial de efetuar pagamento extra-folha (por fora) de parte dos salários dos empregados, com registro nos títulos de contabilidade da empresa e realização de recolhimentos previdenciários somente no que se refere aos valores consignados nos recibos principais. Verificado o panorama em ação trabalhista, o Juiz do Trabalho determinou o envio de ofício às esferas fiscal e criminal, para conhecimento e análise, sendo iniciada a ação fiscal, com notificação do lançamento do tributo. Nessa situação hipotética,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "haverá extinção de punibilidade se José, ainda que iniciada ação fiscal, efetuar a correção interna dos livros de contabilidade antes da sentença condenatória criminal."
+      },
+      {
+        "letra": "B",
+        "texto": "a idade de sessenta anos, na data de eventual sentença condenatória criminal, beneficiará José como circunstância atenuante da pena."
+      },
+      {
+        "letra": "C",
+        "texto": "as condutas protagonizadas por José, embora denotem irregularidades trabalhistas, não são previstas como tipos penais."
+      },
+      {
+        "letra": "D",
+        "texto": "há configuração da conduta típica prevista no art. 337-A, III, do Código Penal, consistente em sonegação de contribuição previdenciária."
+      },
+      {
+        "letra": "E",
+        "texto": "o crime de sonegação de contribuição previdenciária é de natureza formal, prescindindo de resultado para sua consumação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "833959",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: Câmara de Cotia - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Usurpação de função pública",
+      "Resistência",
+      "Corrupção ativa em transação comercial internacional. Tráfico de influência em transação comercial internacional",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Descaminho"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal Brasileiro, é correto afirmar, sobre os crimes praticados por particulares contra a Administração Pública, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime de usurpação de função pública somente se caracteriza se o agente usurpador obtém vantagem enquanto na função."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de resistência caracteriza-se pela oposição à execução de ato, ainda que ilegal, mediante violência ou grave ameaça, a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio."
+      },
+      {
+        "letra": "C",
+        "texto": "o crime de tráfico de influência caracteriza-se independentemente de o agente influir em ato praticado por funcionário público no exercício da função."
+      },
+      {
+        "letra": "D",
+        "texto": "no crime de sonegação de contribuição previdenciária, é extinta a punibilidade se o agente, espontaneamente, declara e confessa as contribuições e presta as informações devidas, antes do início da ação penal."
+      },
+      {
+        "letra": "E",
+        "texto": "a reinserção no território brasileiro de mercadoria destinada à exportação, em tese, caracteriza o crime de descaminho."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "690744",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Registro - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre o crime de sonegação de contribuição previdenciária, tipificado no artigo 337-A do Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Configura o crime a supressão ou redução da contribuição previdenciária e qualquer acessório, mediante a omissão total e não parcial, de receitas ou lucros auferidos, remunerações pagas ou creditadas e demais fatos geradores de contribuições sociais previdenciárias."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação penal para se apurar este crime é pública incondicionada, sendo de competência da Justiça Estadual."
+      },
+      {
+        "letra": "C",
+        "texto": "É extinta a punibilidade se o agente, espontaneamente, declara e confessa as contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de crime formal consumando-se com a efetiva supressão ou redução da contribuição social previdenciária."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o empregador não é pessoa jurídica e sua folha de pagamento mensal não ultrapassa a R$ 1.510,00 (um mil e quinhentos e dez reais), o juiz deverá reduzir a pena de um terço até a metade ou aplicar apenas a de multa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "650309",
+    "metadata": "Ano: 2016 | Banca: TRT 4º Região | Órgão: TRT - 4ª REGIÃO (RS)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a organização do trabalho",
+      "Crimes contra a dignidade sexual",
+      "Assédio sexual",
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Considere as assertivas abaixo sobre crimes em espécie. I - O crime de assédio sexual prescinde de prevalecer-se o agente de sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função. II - Constitui crime o recrutamento de trabalhadores, mediante fraude, com o fim de levá-los para território estrangeiro, exceto se para o trabalhador advier vantagem econômica. III - Constitui crime de sonegação de contribuição previdenciária deixar de lançar mensalmente nos títulos próprios da contabilidade da empresa as quantias descontadas dos segurados ou as devidas pelo empregador ou pelo tomador de serviços. Quais são corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1366536",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: Prefeitura de Arujá - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Deixar de lançar mensalmente nos títulos próprios da contabilidade da empresa as quantias descontadas dos segurados ou as devidas pelo empregador ou pelo tomador de serviços são condutas que caracterizam o crime de (art. 337-A)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falso reconhecimento de firma ou letra."
+      },
+      {
+        "letra": "B",
+        "texto": "subtração ou inutilização de livro ou documento."
+      },
+      {
+        "letra": "C",
+        "texto": "emissão de título ao portador sem permissão legal."
+      },
+      {
+        "letra": "D",
+        "texto": "sonegação de contribuição previdenciária."
+      },
+      {
+        "letra": "E",
+        "texto": "falsidade material de atestado ou certidão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "510213",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: Prefeitura de Goianésia - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Receptação",
+      "Crimes contra a administração pública",
+      "Contrabando",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, quem adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria de procedência estrangeira, desacompanhada de documentação legal, ou acompanhada de documentos que sabe serem falsos, incorre na mesma pena do crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "receptação qualificada."
+      },
+      {
+        "letra": "B",
+        "texto": "contrabando ou descaminho."
+      },
+      {
+        "letra": "C",
+        "texto": "impedimento, perturbação ou fraude de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "sonegação de contribuição previdenciária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "460221",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Com relação a crimes contra a pessoa, contra o patrimônio e contra a administração pública, julgue o item que segue.Considere a seguinte situação hipotética. Carlos praticou o crime de sonegação previdenciária, mas, antes do início da ação fiscal, confessou o crime e declarou espontaneamente os corretos valores devidos, bem como prestou as devidas informações à previdência social. Nessa situação, a atitude de Carlos ensejará a extinção da punibilidade, independentemente do pagamento dos débitos previdenciários.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "387859",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Em se tratando de crime de sonegação de contribuição previdenciária, comprovada a conduta típica, ilícita e culpável, deverá o juiz aplicar apenas a pena de multa ao agente, se este for primário e de bons antecedentes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "314251",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "O disciplinamento previsto no CP acerca da conduta de suprimir ou reduzir contribuição social previdenciária e qualquer acessório, mediante omissão total ou parcial de receitas ou lucros auferidos, remunerações pagas ou creditadas e demais fatos geradores de contribuições sociais previdenciárias, prevê a extinção da punibilidade do agente, mesmo sem o pagamento do tributo devido, desde que esse agente faça, espontaneamente, declaração acompanhada de confissão das contribuições, importâncias ou valores devidos, e que ele preste, ainda, todas as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "303086",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Facilitação de contrabando ou descaminho",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária",
+      "Denunciação caluniosa",
+      "Falso Testemunho ou Falsa Perícia. Corrupção Ativa de Testemunha ou Perito"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a administração pública, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime de sonegação de contribuição previdenciária, será extinta a punibilidade se o agente, espontaneamente, declarar e confessar as contribuições, importâncias ou valores e prestar informações devidas à previdência social, na forma definida em lei ou regulamento, após o início da ação fiscal e antes do oferecimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "O perito que fizer afirmação falsa em processo cível em que uma das partes seja o IBAMA responderá pelo crime de falsa perícia, que, no entanto, deixará de ser punível se, antes do trânsito em julgado da sentença no processo cível, citado perito retratar-se ou declarar a verdade."
+      },
+      {
+        "letra": "C",
+        "texto": "O diretor de presídio que não vedar ao preso o acesso a aparelho de comunicação que possibilite a este conversar apenas com outros presos no mesmo estabelecimento prisional não cometerá crime porque o que a lei penal veda é a comunicação do preso com o ambiente externo. Nessa situação, o diretor responderá apenas por infração administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime de descaminho, não se admite a incidência do princípio da insignificância, sob pena de isso facilitar a sonegação fiscal."
+      },
+      {
+        "letra": "E",
+        "texto": "Praticará o crime de denunciação caluniosa quem der causa à instauração de investigação policial contra alguém, imputando- lhe contravenção penal de que o sabe inocente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "352417",
+    "metadata": "Ano: 2012 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Corrupção passiva",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta, de acordo com o Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pratica crime de corrupção passiva o funcionário público que solicita, recebe ou exige, para si ou para outrem, direta ou indiretamente, em razão da função, vantagem indevida."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por funcionário público estrangeiro no exercício de suas funções, relacionado a transação comercial internacional, caracteriza o crime de corrupção passiva em transação comercial internacional."
+      },
+      {
+        "letra": "C",
+        "texto": "A reparação do dano causado constitui condição objetiva para a progressão de regime aos condenados por crime contra a Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se funcionário público estrangeiro, para os efeitos penais, quem, ainda que transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública em representações diplomáticas, entidades estatais ou paraestatais de país estrangeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "É extinta a punibilidade do crime de sonegação de contribuição previdenciária se o agente, espontaneamente, declara e confessa, até o término da ação fiscal, as contribuições, importâncias ou valores e presta as informações devidas à Previdência Social, na forma definida em lei ou regulamento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "295615",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Corrupção ativa",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "É certo afirmar:I. Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por ordem de funcionário público; violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para identificar ou cerrar qualquer objeto, constitui-se em crime de perturbação ou fraude de concorrência. II. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício se constitui em corrupção ativa. III. O crime de sonegação de contribuição previdenciária tem extinta a sua punibilidade se o agente, espontaneamente, declara e confessa as contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal. IV. Omitir informação às autoridades fazendárias, visando suprimir ou reduzir tributo, ou contribuição social e qualquer acessório, está tipificada como contravenção penal. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "286660",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: MPE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Por exigir a ocorrência de resultado para a consumação, é de natureza material o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "condescendência criminosa."
+      },
+      {
+        "letra": "B",
+        "texto": "concussão."
+      },
+      {
+        "letra": "C",
+        "texto": "prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "corrupção ativa."
+      },
+      {
+        "letra": "E",
+        "texto": "sonegação de contribuição previdenciária."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "248764",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 4ª REGIÃO (RS)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "No crime de sonegação de contribuição previdenciária, se o empregador não é pessoa jurídica e sua folha de pagamento mensal não ultrapassa determinado valor fixado em lei, reajustado pelos mesmos índices dos benefícios da previdência social, o juiz poderá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduzir a pena de um terço até dois terços."
+      },
+      {
+        "letra": "B",
+        "texto": "conceder perdão judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "absolver o acusado."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicar somente a pena de multa."
+      },
+      {
+        "letra": "E",
+        "texto": "deixar de aplicar a pena."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "263836",
+    "metadata": "Ano: 2011 | Banca: TRT 15R | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Comete o crime de sonegação de contribuição previdenciária quem suprime ou reduz contribuição previdenciária e qualquer acessório, mediante as seguintes condutas, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "omite da folha de pagamento valor do salário pago a empregado;"
+      },
+      {
+        "letra": "B",
+        "texto": "não informa à Previdência Social pagamento realizado a trabalhador avulso que lhe preste serviço;"
+      },
+      {
+        "letra": "C",
+        "texto": "não informa à Previdência Social pagamento realizado a trabalhador autônomo ou a este equiparado que lhe preste serviço;"
+      },
+      {
+        "letra": "D",
+        "texto": "não anota a Carteira de Trabalho e Previdência Social de empregado;"
+      },
+      {
+        "letra": "E",
+        "texto": "deixa de lançar mensalmente nos títulos próprios da contabilidade da empresa as quantias descontadas dos empregados."
+      }
+    ],
+    "gabarito": "D"
+  }
+]
