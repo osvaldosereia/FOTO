@@ -1,0 +1,767 @@
+[
+  {
+    "id": "3464356",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "Acerca dos atos administrativos, bem como do conceito, do objeto e das fontes do direito administrativo, julgue o item a seguir.A anulação é a supressão de um ato administrativo legítimo e eficaz, realizada pela administração pública por não mais lhe convir sua existência.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3417032",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "A partir da situação hipotética precedente, julgue o item a seguir. A administração é obrigada a anular o ato com vício formal, sendo vedada sua convalidação, segundo previsão da Lei n.º 9.784/1999.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3384774",
+    "metadata": "Ano: 2025 | Banca: INSTITUTO AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "De acordo com a legislação vigente, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A anulação de um ato administrativo ocorre quando o ato é inoportuno ou inconveniente, a critério da Administração Pública."
+      },
+      {
+        "letra": "B",
+        "texto": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé."
+      },
+      {
+        "letra": "C",
+        "texto": "A anulação de um ato administrativo ocorre quando o ato administrativo perde sua utilidade para o interesse público."
+      },
+      {
+        "letra": "D",
+        "texto": "A anulação de um ato administrativo ocorre quando a Administração Pública deseja modificar seu conteúdo por razões de conveniência."
+      },
+      {
+        "letra": "E",
+        "texto": "A anulação de um ato administrativo ocorre quando o ato administrativo não gera efeitos externos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3298352",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Câmara de Morrinhos - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "Havendo verificação de que um ato administrativo é eivado de vício de legalidade, a Administração Pública deverá promover a sua",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anulação, em regra, com efeitos ex tunc."
+      },
+      {
+        "letra": "B",
+        "texto": "revogação, em regra, com efeitos ex tunc."
+      },
+      {
+        "letra": "C",
+        "texto": "anulação, em regra, com efeitos ex nunc."
+      },
+      {
+        "letra": "D",
+        "texto": "revogação, em regra, com efeitos ex nunc."
+      },
+      {
+        "letra": "E",
+        "texto": "anulação ou revogação, a depender dos efeitos do ato que deseja gerar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3298349",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Câmara de Morrinhos - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto"
+    ],
+    "enunciado_principal": "A Lei nº 4.717/1965, que regula a ação popular, considera nulo o ato lesivo ao patrimônio das entidades que estão em seu âmbito de proteção se for praticado com omissão ou observância incompleta ou irregular de formalidades indispensáveis à sua existência ou seriedade. Na hipótese descrita, a nulidade se verifica em razão de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incompetência."
+      },
+      {
+        "letra": "B",
+        "texto": "vício de forma."
+      },
+      {
+        "letra": "C",
+        "texto": "ilegalidade do objeto."
+      },
+      {
+        "letra": "D",
+        "texto": "inexistência dos motivos."
+      },
+      {
+        "letra": "E",
+        "texto": "desvio de finalidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3295388",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "Considere ideias ligadas aos atos nulos e anuláveis: I. Se um ato contém vício insanável, a Administração pode invalidá-lo a qualquer tempo, sem gerar direito adquirido ao beneficiário de má-fé. II. O defeito sanável em ato anulável pode ser convalidado, desde que não acarrete prejuízo a terceiros ou afronta ao interesse público. III. Um ato inexistente decorre de ausência total de elemento essencial, não produzindo efeitos válidos nem suscetível de convalidação. IV. A anulação de ato legal implica reconhecimento do mérito administrativo insuficiente. Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3286147",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Conceito e classificação dos atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto"
+    ],
+    "enunciado_principal": "A Prefeitura de Serra Nova emitiu uma licença para funcionamento de um comércio, mas um erro foi identificado posteriormente: o servidor que assinou a licença não tinha competência para praticar esse ato. Diante dessa situação, o setor jurídico analisou o caso e concluiu que todos os outros requisitos legais estavam corretos, sendo possível corrigir o erro sem causar prejuízo a terceiros ou ao interesse público. Qual deve ser a decisão da Administração Pública nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anular a licença imediatamente, pois qualquer ato administrativo praticado por autoridade incompetente deve ser considerado nulo, mesmo que todos os outros requisitos estejam corretos"
+      },
+      {
+        "letra": "B",
+        "texto": "Revogar a licença, pois a Administração Pública tem total liberdade para extinguir atos administrativos, independentemente de sua legalidade ou do impacto para terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Convalidar o ato administrativo, corrigindo o vício de competência e garantindo validade à licença desde a sua emissão, pois não há prejuízo ao interesse público nem a terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "Substituir a licença por um novo ato administrativo, anulando a licença original e emitindo uma nova autorização, sem considerar os efeitos já produzidos pelo ato anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar o caso ao Poder Judiciário, pois apenas uma decisão judicial pode determinar se o ato deve ser mantido ou invalidado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3285389",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "A correção de atos administrativos com vícios sanáveis, desde que tais atos não acarretem lesão ao interesse público ou para terceiros pode ser realizado através de qual ato administrativo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Reconvenção."
+      },
+      {
+        "letra": "C",
+        "texto": "Convalidação."
+      },
+      {
+        "letra": "D",
+        "texto": "Revogação."
+      },
+      {
+        "letra": "E",
+        "texto": "Correção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3284051",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, acerca dos atos administrativos. A decadência administrativa pode ser considerada uma espécie de convalidação involuntária do ato administrativo defeituoso, em razão do decurso do tempo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3283642",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ICMBIO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "A partir da situação hipotética apresentada, julgue o item a seguir. A anulação do ato administrativo, conforme foi requerido por Caio, é uma forma de desfazer um ato válido, mas que não é mais conveniente, útil ou oportuno para a administração pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3282530",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: Prefeitura de Sinop - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Contratos Administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo",
+      "Conceito e Características"
+    ],
+    "enunciado_principal": "O ato administrativo é dotado dos atributos de perfeição, de validade e de eficácia. Um contrato administrativo, celebrado sem licitação, fora das hipóteses permitidas pela lei, que foi declarado nulo após três meses de execução, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imperfeito, válido e ineficaz"
+      },
+      {
+        "letra": "B",
+        "texto": "imperfeito, válido e eficaz"
+      },
+      {
+        "letra": "C",
+        "texto": "perfeito, inválido e eficaz"
+      },
+      {
+        "letra": "D",
+        "texto": "perfeito, válido e eficaz"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3254477",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "A Câmara Municipal de certo município recebeu uma denúncia anônima sobre pagamentos que estavam sendo efetuados pelo Poder Executivo Municipal à determinada construtora local – vencedora de regular processo licitatório – referentes a obras de compactação de estradas na área rural. Os serviços estavam sendo prestados, mas, com a posse do novo Prefeito, os pagamentos foram suspensos, pois o instrumento de contrato, obrigatório por lei, ou qualquer outro documento hábil a substituí-lo, não foi formalizado. A construtora reivindicou, junto ao Poder Executivo municipal, o pagamento dos valores devidos no montante de R$ 450.000,00, alegando ter firmado contrato verbal com a administração anterior. Os atos do prefeito anterior estão para ser convalidados pelo atual prefeito. No desempenho da função fiscalizadora do Poder Legislativo do município, foi solicitado ao consultor legislativo que opinasse sobre a possibilidade da convalidação do ato administrativo da administração anterior. Considerando o caso hipotético apresentado, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A não formalização do contrato é vício de forma, podendo ser convalidado, pois a forma não é essencial à validade do ato em questão."
+      },
+      {
+        "letra": "B",
+        "texto": "Nem todos os vícios são sanáveis; contudo, no caso sob análise, trata-se de vício de forma e todos os vícios de forma são passíveis de serem convalidados."
+      },
+      {
+        "letra": "C",
+        "texto": "A doutrina traz como sanáveis os vícios de competência e o caso sob análise é um exemplo típico de vício de competência, sendo, portanto, possível sua convalidação."
+      },
+      {
+        "letra": "D",
+        "texto": "Ato nulo não pode ser convalidado, sendo nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de prestação de serviços de pronto pagamento."
+      },
+      {
+        "letra": "E",
+        "texto": "A convalidação é perfeitamente cabível e aplicável ao caso, sendo o processo pelo qual a Administração Pública se utiliza para aproveitar atos administrativos com vícios sanáveis, de modo a confirmá-los no todo ou em parte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3242795",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "João, servidor público, praticou um ato administrativo com desvio de finalidade. Qual o destino do ato?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Será ratificado pela autoridade competente."
+      },
+      {
+        "letra": "B",
+        "texto": "Será revogado pela Administração por conveniência."
+      },
+      {
+        "letra": "C",
+        "texto": "Será convalidado, desde que haja interesse público."
+      },
+      {
+        "letra": "D",
+        "texto": "Será anulado devido à sua ilegalidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3220083",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Câmara de Itupeva - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "No que se refere aos atos administrativos, indique “V” para verdadeiro e “F” para falso e assinale a alternativa correta. ( ) A Administração deve anular seus próprios atos, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial. ( ) Os atos da administração, uma vez eivados de vícios que os tornem ilegais, serão anulados pela própria Administração Pública. ( ) Os atos nulos são aqueles que apresentam defeitos graves insuscetíveis de convalidação, os quais tornam obrigatória a sua anulação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V"
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, V"
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, F"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3213324",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "No que diz respeito ao sistema administrativo, aos atos administrativos, às parcerias público-privadas e ao tombamento, julgue o item a seguir.No Brasil, é adotado o sistema administrativo inglês, no qual todos os atos administrativos podem ser resolvidos pelo Poder Judiciário, cujas decisões gozam de definitividade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3262340",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Atributos do ato administrativo – presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir. I. A autoridade administrativa pode se utilizar de fundamentação per relationem nos processos administrativos. II. Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração. III. As empresas públicas e as sociedades de economia mista, quando exploradoras de atividade econômica, ainda que em regime concorrencial, estão dispensadas de motivar a demissão de seus empregados concursados. IV. Um dos atributos dos atos administrativos é a tipicidade, consistente na ideia de que tais atos são de caráter coercitivo aos administrados, devendo ser cumpridos em razão da supremacia do interesse público. Está correto o que se afirma apenas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3207230",
+    "metadata": "Ano: 2025 | Banca: Gama Consult | Órgão: Prefeitura de Cotriguaçu - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "Determine o efeito jurídico principal de um ato administrativo considerado nulo por vício de legalidade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produz efeitos válidos até sua revogação pelo Poder Público."
+      },
+      {
+        "letra": "B",
+        "texto": "É convalidado automaticamente, caso atenda ao interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "É desprovido de efeitos desde a sua origem, podendo ser anulado a qualquer tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "Permanece eficaz, salvo decisão judicial em sentido contrário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3179570",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Demais aspectos da lei 9.784/99"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No âmbito da Administração Federal direta e indireta, os processos administrativos de que resultem sanções poderão ser revistos, a pedido do interessado, no prazo máximo de 5 (cinco) anos da comunicação pessoal ou da publicação da penalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A motivação da decisão administrativa demonstrará a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, ônus que não se transmite à decisão jurisdicional que eventualmente a controle, diante da independência e harmonia dos Poderes."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressalvados os casos expressamente previstos em lei, é vedado à autoridade administrativa celebrar compromisso com os interessados, em situação contenciosa, inclusive no caso de expedição de licença."
+      },
+      {
+        "letra": "D",
+        "texto": "A decisão administrativa ou jurisdicional que decretar a invalidação de ato administrativo deverá indicar, de modo expresso, suas consequências jurídicas e administrativas e deverá ainda, quando for o caso, apontar as condições para que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos."
+      },
+      {
+        "letra": "E",
+        "texto": "Padece de nulidade absoluta a decisão administrativa que estabeleça interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, e prevendo regime de transição para que o novo dever ou condicionamento de direito sejam integralmente aplicados."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3172446",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "[Questão inédita] A convalidação pode ocorrer de 3 (três) maneiras. A convalidação quando um novo ato é editado retirando-se a parte do ato administrativo eivado de vício é chamada de convalidação mediante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ratificação."
+      },
+      {
+        "letra": "B",
+        "texto": "reforma."
+      },
+      {
+        "letra": "C",
+        "texto": "anulação."
+      },
+      {
+        "letra": "D",
+        "texto": "conversão."
+      },
+      {
+        "letra": "E",
+        "texto": "revogação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3172056",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caieiras - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades"
+    ],
+    "enunciado_principal": "O Município de Beta instaurou, em 1º de fevereiro de 2024, processo administrativo em virtude de ter recebido, na mesma data, manifestação oriunda de seu Controle Interno acerca de eventual invalidade de ato administrativo. Tendo sido garantido o exercício do contraditório e ampla defesa, aferiu-se, afinal, a invalidade do ato administrativo, proferindo-se o ato de anulação em 1.º de outubro de 2024. O destinatário do ato, Tício, terceiro de boa-fé, passou a sustentar, porém, não ser possível a decisão invalidatória, pois o ato invalidado foi proferido em 1º de março de 2019 e surtiu efeitos até 1ª de setembro de 2019. Acerca desta hipótese e considerando o disposto na Lei Federal n.º 9.784/1999, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ato administrativo de anulação é válido e tempestivo."
+      },
+      {
+        "letra": "B",
+        "texto": "o ato administrativo de anulação é válido e tempestivo, pois não há incidência de prazo decadencial para a Administração anular os seus atos benéficos, ainda que seu destinatário esteja de boa-fé."
+      },
+      {
+        "letra": "C",
+        "texto": "o ato administrativo de anulação é válido e tempestivo, não se sujeitando, de todo modo, a controle, pois que exarado sob competência discricionária."
+      },
+      {
+        "letra": "D",
+        "texto": "o ato administrativo de anulação é inválido, pois a Administração não pode anular seus próprios atos quando destes decorram efeitos favoráveis a destinatários de boa-fé."
+      },
+      {
+        "letra": "E",
+        "texto": "o ato administrativo de anulação é inválido e intempestivo, pois já houve o transcurso do prazo decadencial para a Administração anular seus atos de que decorram efeitos favoráveis para destinatários de boa-fé."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3163058",
+    "metadata": "Ano: 2025 | Banca: Instituto Darwin | Órgão: Prefeitura de Santa Cruz do Capibaribe - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "Após a expedição do Ato Administrativo X, diversos guardas municipais se sentiram prejudicados e resolveram se socorrer do Poder Judiciário. No processo judicial, após inúmeros recursos, o caso restou decidido definitivamente no sentido de que o Ato Administrativo X tinha sido ilegal, por não ter concedido prazo para a defesa administrativa dos guardas municipais. Nesse caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o Ato Administrativo X tem que ser anulado pela Administração."
+      },
+      {
+        "letra": "B",
+        "texto": "o Ato Administrativo X tem que ser revogado pela Administração."
+      },
+      {
+        "letra": "C",
+        "texto": "a Administração deverá reconhecer a prescrição do Ato Administrativo X."
+      },
+      {
+        "letra": "D",
+        "texto": "a Administração, após juízo de conveniência e oportunidade, poderá reabrir o prazo para a defesa administrativa dos guardas municipais, invalidando o Ato Administrativo X."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3154485",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Pedro Velho - RN",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "Sobre os atos administrativos, assinale a alternativa que melhor descreve sua classificação e invalidação, conforme a doutrina clássica de Hely Lopes Meirelles e os dispositivos legais aplicáveis:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ato administrativo discricionário, por sua natureza, não está sujeito ao controle do Poder Judiciário, sendo sua revisão restrita ao mérito pelo próprio administrador público."
+      },
+      {
+        "letra": "B",
+        "texto": "A invalidação de atos administrativos discricionários pode ser realizada pelo Poder Judiciário, com base na análise da conveniência e oportunidade de sua edição."
+      },
+      {
+        "letra": "C",
+        "texto": "Atos administrativos vinculados não podem ser anulados, salvo por vício de forma ou de competência, sendo vedada qualquer revisão baseada em legalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A revogação de atos administrativos discricionários ocorre quando constatados vícios de legalidade que impeçam a manutenção dos efeitos do ato."
+      },
+      {
+        "letra": "E",
+        "texto": "A invalidação do ato administrativo decorre de ilegalidade, enquanto a revogação decorre de juízo de conveniência e oportunidade do administrador público."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3271182",
+    "metadata": "Ano: 2024 | Banca: Ibest | Órgão: CRF-RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Controle da administração pública",
+      "Teoria das nulidades",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "Em um Estado Democrático de Direito, a atividade administrativa do Poder Público está submetida a amplo controle. Acerca do controle da administração pública, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o mandado de segurança pode substituir a ação popular."
+      },
+      {
+        "letra": "B",
+        "texto": "a declaração de nulidade dos atos administrativos deve ser realizada estritamente pelo Poder Judiciário."
+      },
+      {
+        "letra": "C",
+        "texto": "a controvérsia sobre matéria de direito impede concessão de mandado de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "o Brasil adotou o sistema francês do contencioso administrativo, sendo necessário o esgotamento desta via para encaminhamento do litígio ao Poder judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "o mandado de segurança não cabe contra lei em tese"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3248544",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Os atos administrativos devem obedecer a regras específicas para garantir sua validade, caso contrário, podem apresentar vícios que os tornam passíveis de invalidação. No entanto, dependendo do elemento afetado pelo vício, é possível sua correção. Nesse sentido, com base no arcabouço legal, é possível sanar o vício",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de forma, desde que realizado por algum Chefe de Poder."
+      },
+      {
+        "letra": "B",
+        "texto": "de competência, desde que não seja exclusiva de uma autoridade."
+      },
+      {
+        "letra": "C",
+        "texto": "de motivo, desde que o ato não prejudique terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "de objeto, desde não seja vedado expressamente por lei."
+      },
+      {
+        "letra": "E",
+        "texto": "de finalidade, desde que não se trate de abuso de poder."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3188727",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Câmara de Osasco - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Conceito e classificação dos atos administrativos",
+      "Teoria das nulidades",
+      "Extinção dos atos administrativos"
+    ],
+    "enunciado_principal": "Em relação à anulação e revogação dos atos administrativos marque (V) para as afirmativas verdadeiras e (F) para as falsas. ( ) O poder judiciário e a administração pública não deve de anular o ato administrativo eivado de ilegalidade. ( ) a anulação opera efeitos ex tunc, portanto, não retroage. ( ) Os atos que contenham vícios insanáveis devem ser convalidados. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, F"
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, F"
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, V"
+      }
+    ],
+    "gabarito": "D"
+  }
+]

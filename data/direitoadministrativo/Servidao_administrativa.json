@@ -1,0 +1,133 @@
+[
+  {
+    "id": "3295409",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Intervenção do estado na propriedade",
+      "Servidão administrativa"
+    ],
+    "enunciado_principal": "Servidões administrativas constituem uma forma de intervenção estatal na propriedade: I. Implicam o uso ou a passagem sobre imóvel alheio, preservando o domínio privado. II. Demandam lei autorizadora ou previsão em ato infralegal que justifique o interesse público. III. Geram perda total do bem ao particular, pois transferem o domínio à Administração. IV. Podem coexistir com direito de uso privado, desde que compatível com o interesse público. Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3272375",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Intervenção do estado na propriedade",
+      "Servidão administrativa",
+      "Noções gerais e desapropriação"
+    ],
+    "enunciado_principal": "Acerca da intervenção do Estado na propriedade privada, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A servidão administrativa é um modo de intervenção do Estado na propriedade privada que acarreta imposição ao proprietário do imóvel serviente de algumas restrições ao direito de uso e gozo da sua propriedade, em prol do interesse público coletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "A ocupação temporária é modalidade de intervenção do Estado na propriedade privada consistente na imposição de obrigação ao proprietário de suportar a utilização provisória do imóvel pelo poder público para realização de obras ou serviços de interesse coletivo, afetando o caráter exclusivo da propriedade, ensejando indenização, caso verificado prejuízo."
+      },
+      {
+        "letra": "C",
+        "texto": "A desapropriação, como ato de intervenção estatal na propriedade privada, é a forma mais drástica de manifestação do poder de império, sendo imprescindível a presença da justa indenização como pressuposto de admissibilidade do ato expropriatório, exceto nos casos de desapropriação-sanção."
+      },
+      {
+        "letra": "D",
+        "texto": "O tombamento provisório e os efeitos dele decorrentes se iniciam com publicação do decreto de intenções, procedida da notificação do proprietário, que poderá anuir à inscrição da coisa ou oferecer impugnação, e, por fim, o registro no Livro do Tombo e a homologação do ato, o que o torna definitivamente eficaz, salvo recurso provido."
+      },
+      {
+        "letra": "E",
+        "texto": "A indenização pela limitação administrativa advinda da criação de área non aedificandi somente é devida se imposta sobre imóvel urbano e desde que fique demonstrado o prejuízo causado ao proprietário da área."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3204832",
+    "metadata": "Ano: 2025 | Banca: CETREDE | Órgão: Prefeitura de São Benedito - CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Intervenção do estado na propriedade",
+      "Servidão administrativa"
+    ],
+    "enunciado_principal": "O município tem competência para legislar sobre restrições à atividade de construção no seu território (que implica restrição a direito de propriedade), pois cabe a ele estabelecer as linhas do plano urbanístico municipal. O direito real público que autoriza o Poder Público a usar a propriedade imóvel para permitir a execução de obras e serviços de interesse coletivo, caracteriza o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tombamento compulsório."
+      },
+      {
+        "letra": "B",
+        "texto": "desapropriação."
+      },
+      {
+        "letra": "C",
+        "texto": "limitação administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "requisição administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "servidão administrativa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3156542",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Morungaba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Intervenção do estado na propriedade",
+      "Servidão administrativa",
+      "Noções gerais e desapropriação"
+    ],
+    "enunciado_principal": "No que tange à desapropriação e à servidão, analise os itens a seguir e, ao final, assinale a alternativa correta: I – A lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos na Constituição Federal. II – O dono do prédio serviente poderá embaraçar o exercício legítimo da servidão. III – Será exigida autorização legislativa para a desapropriação dos bens de domínio dos Estados, dos Municípios e do Distrito Federal pela União e dos bens de domínio dos Municípios pelos Estados, sem exceções.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está correto."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas os itens II e III estão corretos."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "3542837",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos",
+      "Licitações e Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "À luz do disposto na Lei n.º 14.133/2021, julgue o item que se segue. Embora não se aplique à concessão e permissão de uso de bens públicos, a referida lei é aplicável à alienação e concessão de direito real de uso de bens.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3299635",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Câmara de Morrinhos - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Conceito, classificação, afetação e desafetação",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "O aniversário do município X é no dia 28 de fevereiro. A prefeita M.A.S decidiu realizar um show com o cantor G.L na praça municipal Y. Nesse dia, além do show, a prefeitura ofereceu várias atividades ligadas a cultura e lazer à população. A praça onde o evento é realizado é um bem público de uso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum do povo, tal como os veículos oficiais da administração pública."
+      },
+      {
+        "letra": "B",
+        "texto": "especial, uma vez que sua utilização é restrita a indivíduos especificamente selecionados para isso."
+      },
+      {
+        "letra": "C",
+        "texto": "comum do povo, por ser aberta à utilização de todos os membros da coletividade."
+      },
+      {
+        "letra": "D",
+        "texto": "especial, tal como imóveis onde estão instaladas repartições públicas."
+      },
+      {
+        "letra": "E",
+        "texto": "especial, porque se destina à utilização por toda a coletividade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3290889",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "Em conformidade com a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, na hipótese de iminente perigo público, e tendo em vista o atendimento de necessidades coletivas, urgentes e transitórias, caberia à autoridade municipal competente requisitar o uso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de bens de propriedade particular, mediante prévia e justa indenização em dinheiro, sendo vedada a requisição de bens públicos de titularidade de outros entes federativos."
+      },
+      {
+        "letra": "B",
+        "texto": "de bens públicos de titularidade de outros entes federativos, assegurada indenização ulterior, se houver dano, sendo vedada a requisição de bens de propriedade particular."
+      },
+      {
+        "letra": "C",
+        "texto": "tanto de bens de propriedade particular quanto de bens públicos de titularidade de outros entes federativos, assegurada, em ambos os casos, indenização ulterior, se houver dano."
+      },
+      {
+        "letra": "D",
+        "texto": "de bens de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano, sendo vedada a requisição de bens públicos de titularidade de outros entes federativos."
+      },
+      {
+        "letra": "E",
+        "texto": "tanto de bens de propriedade particular, mediante prévia e justa indenização em dinheiro, quanto de bens públicos de titularidade de outros entes federativos, assegurada indenização ulterior, se houver dano."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3290877",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "Suponha que o Município de São Paulo pretenda firmar com empresa do setor privado um contrato de concessão de uso de bem público, mais especificamente um parque urbano, com vistas à revitalização e melhoria do espaço público e das condições de utilização pela população, possibilitando a obtenção de receitas pela concessionária com a exploração de serviços acessórios e outras utilidades (estacionamento, quiosques, entre outros). Do ponto de vista do regime de utilização dos bens públicos, tal arranjo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é destinado a outorgar ao particular a utilização de um bem da Administração segundo a sua finalidade pública, o que não impede a outorga em caráter oneroso, mediante licitação e autorização legislativa."
+      },
+      {
+        "letra": "B",
+        "texto": "não se mostra adequado, eis que a concessão de uso de bem público não possui natureza contratual, sendo ato administrativo unilateral, vedado o estabelecimento de prazo determinado."
+      },
+      {
+        "letra": "C",
+        "texto": "transfere ao particular a prerrogativa de exploração econômica do bem, que passa a ser considerado privado a partir do pagamento de outorga ao poder público e reversível ao patrimônio público após decorrido o prazo da concessão."
+      },
+      {
+        "letra": "D",
+        "texto": "somente será possível mediante concessão de direito real de uso, condicionada a autorização legislativa, dispensando-se procedimento licitatório dado o caráter discricionário do vínculo,"
+      },
+      {
+        "letra": "E",
+        "texto": "importa tredestinação, com a transmutação da natureza do bem, que perde a característica de bem de uso comum do povo, passando a configurar bem de uso especial, o que autoriza a cobrança pelo uso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3236152",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Prefeitura de Nova Iguaçu - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Conceito, classificação, afetação e desafetação",
+      "Utilização dos bens públicos",
+      "Bens públicos em espécie"
+    ],
+    "enunciado_principal": "Os bens públicos podem ser classificados em bens de uso comum, bens de uso especial e bens dominicais, a partir da sua finalidade e destinação. Com base nas classificações, analise os casos a seguir. 1.Uma praça pública, aberta ao acesso irrestrito da população, utilizada frequentemente para eventos comunitários e lazer; 2.Um edifício utilizado como sede de um tribunal regional, destinado exclusivamente às atividades do Poder Judiciário; 3.Um terreno pertencente ao município, atualmente desocupado e sem destinação ou uso público específico; 4.Um veículo de uso exclusivo para emergências médicas, destinado ao transporte de pacientes entre unidades hospitalares da região. Classifique cada um dos casos apresentados com base nos tipos de bens públicos, levando em consideração os critérios de destinação, finalidade e possibilidade de alienação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1. Uso comum 2. Uso comum 3. Uso especial 4. Dominical."
+      },
+      {
+        "letra": "B",
+        "texto": "1. Dominical 2. Uso especial 3. Uso especial 4. Uso comum."
+      },
+      {
+        "letra": "C",
+        "texto": "1. Uso comum 2. Uso especial 3. Dominical 4. Uso especial."
+      },
+      {
+        "letra": "D",
+        "texto": "1. Uso especial 2. Uso especial 3. Uso comum 4. Dominical."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3217318",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "Com relação à delegação de serviço público, aos bens públicos, ao processo administrativo federal e aos atos de improbidade administrativa, julgue o item seguinte. Autorização de uso é o ato administrativo unilateral e discricionário pelo qual a administração pública consente, a título precário, que o particular se utilize de bem público com exclusividade, de forma gratuita ou onerosa, para fins não de utilidade pública, mas de interesse do particular.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3169781",
+    "metadata": "Ano: 2025 | Banca: AMAUC | Órgão: Prefeitura de Jaborá - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Responsabilidades do servidor",
+      "Utilização dos bens públicos",
+      "Improbidade administrativa - Lei nº 8.429 de 1992 e Lei nº 14.230 de 2021",
+      "Disposições gerais da Improbidade Administrativa",
+      "Atos de Improbidade Administrativa e suas Sanções"
+    ],
+    "enunciado_principal": "Durante uma palestra sobre ética no serviço público, o instrutor aborda a responsabilidade do servidor na preservação do patrimônio público. Avalie as afirmações abaixo e marque (V) verdadeiro ou (F) falso: (__)A utilização indevida de bens públicos pode configurar ato de improbidade administrativa. (__)O zelo pelo patrimônio público é uma obrigação do servidor. (__)O uso de veículos oficiais para transporte de familiares é permitido em casos de urgência pessoal. (__)Servidores podem ser responsabilizados administrativamente por danos causados ao patrimônio público. Marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, F, V."
+      },
+      {
+        "letra": "C",
+        "texto": "V, V, F, V."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, V, F."
+      },
+      {
+        "letra": "E",
+        "texto": "V, F, V, V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3169778",
+    "metadata": "Ano: 2025 | Banca: AMAUC | Órgão: Prefeitura de Jaborá - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "Durante um treinamento sobre ética profissional, os participantes discutem situações do cotidiano relacionadas ao uso de veículos oficiais. Avalie as afirmações abaixo e marque (V) verdadeiro ou (F) falso: (__)Veículos oficiais devem ser utilizados exclusivamente para fins de trabalho. (__)O motorista tem autonomia para decidir o itinerário do veículo oficial sem autorização prévia. (__)Utilizar o veículo para transporte de bens particulares configura desvio de finalidade. (__)A manutenção regular dos veículos oficiais é responsabilidade do órgão gestor. Marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V."
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, F, F."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, F, V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3169773",
+    "metadata": "Ano: 2025 | Banca: AMAUC | Órgão: Prefeitura de Jaborá - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Princípios da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime jurídico administrativo",
+      "Responsabilidades do servidor",
+      "Utilização dos bens públicos",
+      "Princípios - Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência"
+    ],
+    "enunciado_principal": "Durante um curso de ética no serviço público, os participantes discutem boas práticas no trato diário com colegas de trabalho e no atendimento ao público. Avalie as afirmações abaixo e marque (V) nas verdadeiras e (F) nas falsas: (__)Demonstrar respeito e cordialidade é essencial no trato com o público e colegas. (__)O servidor pode utilizar o veículo oficial para fins particulares, desde que com autorização verbal do superior imediato. (__)Atitudes que prejudiquem o patrimônio público podem configurar infração administrativa. (__)Hierarquia no serviço público deve ser respeitada, garantindo a organização e eficiência do trabalho. Marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, F, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V, F, F."
+      },
+      {
+        "letra": "E",
+        "texto": "V, F, F, V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3393387",
+    "metadata": "Ano: 2024 | Banca: OBJETIVA | Órgão: Prefeitura de Roque Gonzales - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "A respeito das iniciativas que prezam pelo patrimônio público, assinalar a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter o local público limpo e em boas condições de uso."
+      },
+      {
+        "letra": "B",
+        "texto": "Participar de ações de voluntariado para a manutenção e conservação de espaços públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Utilizar de recursos públicos para fins particulares."
+      },
+      {
+        "letra": "D",
+        "texto": "Colaborar com a fiscalização do uso correto de bens e espaços públicos, denunciando atividades irregulares."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3380644",
+    "metadata": "Ano: 2024 | Banca: HL | Órgão: Prefeitura de Iturama - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Bens Públicos na Administração Pública",
+      "Utilização dos bens públicos"
+    ],
+    "enunciado_principal": "Como é definido o ato administrativo unilateral que permite o uso privativo de um bem público para fins de interesse público, sendo a característica distintiva a precariedade e a possibilidade de ser gratuito ou oneroso? Além disso, como a natureza pública do bem é destinado ao uso coletivo, limita a autorização para fins exclusivamente privados.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Permissão de uso."
+      },
+      {
+        "letra": "B",
+        "texto": "Autorização de uso."
+      },
+      {
+        "letra": "C",
+        "texto": "Cessão de uso."
+      },
+      {
+        "letra": "D",
+        "texto": "A concessão de direito real de uso."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

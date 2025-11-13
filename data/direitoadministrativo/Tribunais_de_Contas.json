@@ -1,0 +1,790 @@
+[
+  {
+    "id": "3530360",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: MPE-PI",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "O prefeito do Município W celebrou com o Estado um convênio para repasse de verbas relacionadas à prestação de transporte escolar. Fiscalização do Tribunal de Contas do Estado, em sede de tomada de contas especial, constatou irregularidades na prestação de contas relativa ao convênio, aplicando sanção de multa ao prefeito, considerado pessoalmente responsável pelas irregularidades, à luz das circunstâncias do caso. No caso em questão, a aplicação da sanção é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "válida, mas depende de confirmação da Câmara Municipal."
+      },
+      {
+        "letra": "B",
+        "texto": "válida, pois tal julgamento é de competência do Tribunal de Contas do Estado."
+      },
+      {
+        "letra": "C",
+        "texto": "inválida, pois as contas do Prefeito somente podem ser julgadas pela Câmara Municipal respectiva."
+      },
+      {
+        "letra": "D",
+        "texto": "válida, mas depende de confirmação da Assembleia Legislativa."
+      },
+      {
+        "letra": "E",
+        "texto": "inválida, pois as contas do Prefeito somente podem ser julgadas pela Assembleia Legislativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3502233",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAU-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Acerca do controle, organização e responsabilização da administração pública, julgue o item a seguir. Os conselhos de fiscalização profissional não se submetem à fiscalização externa dos tribunais de contas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3469552",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Julgue o seguinte item, relativo a poderes administrativos, regime jurídico-administrativo e controle da administração pública. As decisões do Tribunal de Contas da União no controle externo da administração pública que resultem em imputação de débito ou multa têm eficácia de título executivo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3464368",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "No que concerne ao controle da administração pública e à improbidade administrativa, julgue o item subsequente.Caso verifique ilegalidade na execução de determinado contrato, o TCU deverá fixar prazo para que o órgão ou a entidade adote as providências necessárias ao exato cumprimento da lei e, não sendo tal prazo atendido, o referido contrato será sustado diretamente pelo Congresso Nacional.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3464367",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "No que concerne ao controle da administração pública e à improbidade administrativa, julgue o item subsequente.A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida somente pelo Congresso Nacional, com o auxílio do Tribunal de Contas da União, e pelo Poder Judiciário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3417130",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Acerca dos sistemas de controle jurisdicional da administração pública e do controle da atividade financeira do Estado, julgue o item que se segue.Decisões do tribunal de contas podem ser objeto de controle jurisdicional, mediante questionamento por particulares ou órgãos públicos perante o Poder Judiciário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3417125",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, relativo ao controle parlamentar. Os tribunais de contas podem realizar auditorias e inspeções nos órgãos públicos para verificar a legalidade e a economicidade da gestão dos recursos públicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3273989",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-AM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Sobre as características dos controles externos e internos na Administração Pública brasileira, analise as assertivas a seguir: I. Controle social é aquele exercido por um Poder ou um órgão estranho à Administração Pública, como o controle exercido pelo Poder Legislativo, que faz o controle político, e pelo Tribunal de Contas, responsável pelo controle financeiro. II. O controle interno, também conhecido como autocontrole, controle intraorgânico ou controle administrativo, é uma modalidade de controle exercido pela própria Administração, tendo como objetivo a verificação da oportunidade e do mérito do ato administrativo. III. Controle da Administração Pública é o conjunto de mecanismos jurídicos e administrativos por meio dos quais se exerce o poder de fiscalização e revisão da atividade administrativa em qualquer uma das esferas de poder. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3273469",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "A supervisão do uso de recursos públicos por entidades privadas é essencial para assegurar a adequada aplicação dos fundos destinados a essas organizações. Com base nas normativas e práticas atuais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é necessário realizar a fiscalização contínua dos recursos públicos destinados a entidades privadas, pois a transferência de recursos não demanda monitoramento constante, limitando-se a auditorias pontuais."
+      },
+      {
+        "letra": "B",
+        "texto": "A verificação do uso de recursos públicos por entidades privadas deve ocorrer exclusivamente durante o processo licitatório, sendo desnecessário qualquer acompanhamento após a execução dos contratos ou convênios."
+      },
+      {
+        "letra": "C",
+        "texto": "Entidades privadas que recebem recursos públicos devem seguir todas as exigências de transparência e prestação de contas, apresentando relatórios periódicos sobre a utilização dos recursos, os quais devem ser avaliados por auditores independentes."
+      },
+      {
+        "letra": "D",
+        "texto": "A supervisão dos recursos públicos repassados a entidades privadas pode ser realizada apenas pelos órgãos internos de controle dessas entidades, sem a necessidade de fiscalização por órgãos externos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3261619",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Sobre a fiscalização das empresas estatais pelo Estado e pela sociedade, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os órgãos de controle externo e interno da União fiscalizarão as empresas estatais, exceto aquelas domiciliadas no exterior."
+      },
+      {
+        "letra": "B",
+        "texto": "O grau de confidencialidade será atribuído pelas empresas estatais no ato de entrega dos documentos e das informações solicitados."
+      },
+      {
+        "letra": "C",
+        "texto": "As demonstrações contábeis auditadas da empresa estatal serão disponibilizadas no sítio eletrônico da empresa na internet, inclusive em formato eletrônico editável."
+      },
+      {
+        "letra": "D",
+        "texto": "As informações das empresas estatais relativas a licitações e contratos, inclusive aqueles referentes a bases de preços, constarão de bancos de dados eletrônicos atualizados."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3261349",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Contratos Administrativos",
+      "Tribunais de Contas",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "O cumprimento de diversos deveres pela Administração Pública (TCU) ocorre por meio de relações contratuais. A esse respeito, a jurisprudência do Tribunal de Contas da União tem servido como balizador da interpretação adequada acerca dos contratos administrativos. Nesse sentido, diante das posições da Corte de Contas Federal, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Não há direito líquido e certo à prorrogação de contrato celebrado com o poder público, mas sim mera expectativa de direito, uma vez que a decisão sobre a prorrogação do ajuste se insere no âmbito da discricionariedade da Administração Pública. ( ) As alterações do objeto contratado por empresa estatal devem estar embasadas em pareceres e estudos técnicos pertinentes, contemplando estudos de quantitativos e valores dos itens aditados, inclusive com pesquisas de mercado para justificar a economicidade do termo de aditamento contratual. ( ) A simples prorrogação da vigência de contratos de natureza continuada dispensa a obrigação de se perseguir novamente a situação mais vantajosa para a Administração. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, V."
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "F, F, V."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, F."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3241764",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "O controle externo da Administração Pública é exercido com o auxílio do Tribunal de Contas da União. Assinale a alternativa que apresenta uma de suas competências constitucionais, corretamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Analisar, sem julgar, as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público Federal, e as contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário público."
+      },
+      {
+        "letra": "B",
+        "texto": "Assinar prazo máximo de 15 dias para que o órgão ou entidade adote as providências necessárias ao exato cumprimento da Lei, se verificada ilegalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Apreciar as contas prestadas anualmente pelo Presidente da República, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, que estabelecerá, entre outras cominações, multa com efeito de confisco."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3231132",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "A respeito dos controles interno e externo das contas públicas, julgue o próximo item conforme a jurisprudência do STF. Quando o chefe do Poder Executivo municipal agir na qualidade de ordenador de despesas, competirá ao tribunal de contas do respectivo estado o julgamento de suas contas, de modo definitivo, sem participação posterior da câmara municipal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3228243",
+    "metadata": "Ano: 2025 | Banca: IBGP | Órgão: TJ-PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "O controle da administração pública é corolário do Estado Democrático de Direito, que impõe a submissão de todos, inclusive do próprio Estado e dos governantes, à legalidade. Assim, é necessária a organização de instrumentos jurídicos e administrativos para a fiscalização e garantia do adequado desempenho das funções estatais. A Constituição confiou importantes tarefas aos Tribunais de Contas com esse objetivo. Sobre o tema, com base na legislação vigente e na jurisprudência do Supremo Tribunal Federal, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao Tribunal de Contas da União, no âmbito de sua competência e jurisdição, assiste o poder regulamentar, podendo, em consequência, expedir atos e instruções normativas sobre matéria de suas atribuições e sobre a organização dos processos que lhe devam ser submetidos, obrigando ao seu cumprimento, sob pena de responsabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O Município prejudicado é o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal."
+      },
+      {
+        "letra": "C",
+        "texto": "É imprescritível a pretensão de ressarcimento ao erário, fundada em decisão de Tribunal de Contas."
+      },
+      {
+        "letra": "D",
+        "texto": "O Ministério Público de Contas não tem legitimidade para impetrar mandado de segurança em face de acórdão do Tribunal de Contas perante o qual atua."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3216112",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceitos iniciais de Direito Administrativo - Histórico, Funções de Estado e Fontes",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "O direito administrativo é um dos maiores representantes do chamado direito público, tendo como pedra de toque a busca pelo interesse público. A respeito dessa disciplina, marque V para as afirmativas verdadeiras e F para as falsas. ( ) O marco histórico do surgimento do direito administrativo remete ao final do período feudal, no século XV, quando surgiram importantes institutos próprios desse ramo, a exemplo dos bens públicos. ( ) Embora a lei em sentido formal continue tendo relevância ímpar para o direito administrativo, atualmente já se compreende uma concepção de uma legalidade ampliada, entendida como a necessidade de a atuação da administração estar pautada em todo o ordenamento jurídico e não exclusivamente nas leis. ( ) As decisões dos Tribunais de Contas possuem pouca relevância prática para a formação do direito administrativo, uma vez que são as Cortes que atuam em matérias específicas e cujas decisões não fazem coisa julgada. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, V."
+      },
+      {
+        "letra": "E",
+        "texto": "V, F, V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3213109",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Acerca do tema “Controle da Administração” é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O CNJ – Conselho Nacional de Justiça é considerado órgão de controle externo do Poder Judiciário."
+      },
+      {
+        "letra": "B",
+        "texto": "O controle interno não possui dever de colaboração frente aos órgãos de controle externo."
+      },
+      {
+        "letra": "C",
+        "texto": "A CF/1988 não previu acerca dos Tribunais de Contas Estaduais."
+      },
+      {
+        "letra": "D",
+        "texto": "Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União."
+      },
+      {
+        "letra": "E",
+        "texto": "É permitida a criação de Tribunais, Conselhos ou órgãos de Contas Municipais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3207373",
+    "metadata": "Ano: 2025 | Banca: Gama Consult | Órgão: Prefeitura de Cotriguaçu - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "O controle da administração pública é essencial para garantir a legalidade, a impessoalidade e a moralidade dos atos administrativos. Dentre os órgãos responsáveis pelo controle da administração, é aquele que exerce um controle externo e posterior sobre os atos administrativos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tribunal de Contas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ministério Público."
+      },
+      {
+        "letra": "C",
+        "texto": "Controladoria-Geral da União."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder Judiciário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3207226",
+    "metadata": "Ano: 2025 | Banca: Gama Consult | Órgão: Prefeitura de Cotriguaçu - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Defina o tipo de controle exercido pelo Tribunal de Contas da União (TCU) sobre a gestão pública, conforme o ordenamento jurídico brasileiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Controle preventivo realizado pela Administração Direta."
+      },
+      {
+        "letra": "B",
+        "texto": "Controle interno com função consultiva sobre as contas públicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Controle externo com caráter técnico e opinativo sobre a execução orçamentária."
+      },
+      {
+        "letra": "D",
+        "texto": "Controle externo fiscalizador e técnico sobre a aplicação de recursos públicos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3185460",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TCE-RR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Analise as assertivas a seguir, com relação às funções desempenhadas pelos Tribunais de Contas. I. A realização de inspeções e auditorias são exemplos de ações da função fiscalizadora. II. Ao receber denúncias formuladas por cidadãos, partidos políticos, associações ou sindicados, os tribunais exercem a função de ouvidoria. III. A função corretiva compreende, entre outras ações, a fixação de prazo para a adoção de medidas corretivas, em caso de ilegalidade. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3178824",
+    "metadata": "Ano: 2025 | Banca: MS CONCURSOS | Órgão: FCS - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "“A regulamentação e o controle do serviço público e de utilidade pública caberão sempre ao Poder Público, qualquer que seja a modalidade de sua prestação aos usuários”, como já ensinou o Mestre Hely Lopes Meirelles. Quanto ao controle, há o interno e o externo. Desta forma, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Congresso Nacional só pode fiscalizar e controlar seus próprios atos administrativos."
+      },
+      {
+        "letra": "B",
+        "texto": "O Tribunal de Contas da União é um órgão de fiscalização externa contábil, financeira, orçamentária, operacional e patrimonial da União."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração Pública indireta está sujeita apenas ao controle interno, exatamente por ser indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "O Tribunal de Contas de Minas Gerais exerce o controle e fiscalização, apenas dos atos administrativos estaduais."
+      },
+      {
+        "letra": "E",
+        "texto": "A Câmara de Vereadores pode fiscalizar os atos administrativos emanados do Poder Judiciário estadual."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3174665",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TCE-RR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "A sociedade de economia mista Alfa, vinculada ao Poder Executivo do Estado Sigma, que tem a maioria do capital social, explora atividade econômica em sentido estrito e possui uma subsidiária integral, Beta, que controla a sociedade por cotas de responsabilidade limitada Delta. Ao analisar a admissão de pessoal realizada por Delta, o Tribunal de Contas do Estado Sigma entendeu que seria necessária a observância da regra do concurso público, o que não ocorrera. Delta, por sua vez, defendia que não estava sujeita à exigência constitucional. Na situação descrita, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas Alfa, não as empresas estatais de segundo e terceiro graus, está sujeita à fiscalização do Tribunal de Contas."
+      },
+      {
+        "letra": "B",
+        "texto": "Alfa, Beta e Delta estão sujeitas à fiscalização do Tribunal de Contas e à exigência constitucional do concurso público."
+      },
+      {
+        "letra": "C",
+        "texto": "o fato de Alfa explorar atividade econômica em sentido estrito indica que não está sujeita à fiscalização do Tribunal de Contas."
+      },
+      {
+        "letra": "D",
+        "texto": "empresas subsidiárias e controladas não integram a administração pública indireta, logo, não estão sujeitas à exigência constitucional do concurso público."
+      },
+      {
+        "letra": "E",
+        "texto": "Beta e Gama estão sujeitas a regime de direito privado, com derrogações de direito público, limitando-se a fiscalização do Tribunal de Contas à verificação da ocorrência, ou não, de prejuízo ao erário na sua gestão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3166213",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Em relação a controle da administração pública, seus tipos e forma de execução, controle pelos tribunais de contas e contencioso administrativo, julgue o item subsecutivo.O controle realizado pelos tribunais de contas é classificado quanto ao poder, órgão ou autoridade que o exerce como controle externo, podendo ser associado às funções judicial ou administrativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3166210",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Em relação a controle da administração pública, seus tipos e forma de execução, controle pelos tribunais de contas e contencioso administrativo, julgue o item subsecutivo.Embora a função jurisdicional seja atribuída ao Poder Judiciário, os tribunais de contas possuem competência constitucional para realizar o julgamento das contas de administradores e responsáveis por bens e dinheiros públicos; essa competência caracteriza-se como um julgamento técnico e administrativo, em que o termo julgamento está associado ao exercício da jurisdição sobre contas dos gestores públicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3166209",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Em relação a controle da administração pública, seus tipos e forma de execução, controle pelos tribunais de contas e contencioso administrativo, julgue o item subsecutivo.Os tribunais de contas, no exercício de sua função de controle da administração pública, podem apreciar a legitimidade, a legalidade e a economicidade dos atos administrativos, com foco na fiscalização das atividades financeiras do Estado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3154420",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TCE-PI",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Considere os atores do Estado do Piauí listados a seguir. I. Fundação Pública Estadual de direito privado Alfa. II. Ministério Público do Estado do Piauí. III. Empresa Pública Federal Beta, sediada em Teresina/PI. IV. João, Secretário de Estado do Piauí, ordenador de despesas. V. Ordem dos Advogados do Brasil, seccional Piauí. Acerca da competência das Cortes de Contas, os atores que estão sujeitos ao controle externo exercido pelo Tribunal de Contas do Estado do Piauí são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III e V, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e V, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3529984",
+    "metadata": "Ano: 2024 | Banca: Instituto Fênix | Órgão: Prefeitura de São José do Cerrito - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "No âmbito do controle da Administração Pública, qual é a principal diferença entre controle interno e controle externo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle interno é exercido pelos cidadãos, enquanto o controle externo é realizado exclusivamente pelo Poder Executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O controle interno é realizado por órgãos da própria administração responsável pela atividade, enquanto o controle externo é exercido por entidades independentes, como os Tribunais de Contas."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle interno refere-se apenas à fiscalização financeira, e o controle externo abrange todos os aspectos administrativos."
+      },
+      {
+        "letra": "D",
+        "texto": "O controle externo é uma prerrogativa do Poder Judiciário, e o controle interno é exercido pelo Poder Legislativo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3225131",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: UNIFESP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Sobre controles interno e externo da Administração Pública brasileira, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fiscalização patrimonial das entidades da administração indireta é exercida pelo Congresso Nacional, mediante controle interno, e pelo sistema de controle externo do Poder Executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "as pessoas jurídicas de direito privado que utilizem, arrecadem, guardem, gerenciem ou administrem dinheiros, bens e valores públicos, diferentemente das pessoas jurídicas de direito público, devem prestar contas."
+      },
+      {
+        "letra": "C",
+        "texto": "o controle interno dos poderes da República, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União (TCU)."
+      },
+      {
+        "letra": "D",
+        "texto": "os Poderes Legislativo, Executivo e Judiciário devem manter, de forma integrada, sistema de controle externo com a finalidade de apoiar o controle interno no exercício de sua missão institucional."
+      },
+      {
+        "letra": "E",
+        "texto": "as contas prestadas pelo Presidente da República são apreciadas, e as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos são julgadas, em nível federal, pelo Tribunal de Contas da União (TCU)."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3170853",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Serviços Públicos",
+      "Delegação dos Serviços Públicos - Concessão e Permissão",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "A celebração de um contrato de concessão patrocinada com empresa privada, para exploração de serviço público de rodovias, que contemple expansão do modal de transporte e exploração de trecho já em funcionamento, enseja",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a possibilidade de controle por parte do Tribunal de Contas, tendo em vista que envolve o recebimento de recursos públicos, além da possibilidade de previsão de aporte."
+      },
+      {
+        "letra": "B",
+        "texto": "submissão e sub-rogação da concessionária nos poderes e prerrogativas do poder concedente para a prestação e exploração do serviço público, obrigando-se integralmente à prestação de contas."
+      },
+      {
+        "letra": "C",
+        "texto": "controle judicial da adequada execução, excluído o controle e a prestação de contas, no âmbito das Cortes de Contas, em face da natureza privada da concessionária."
+      },
+      {
+        "letra": "D",
+        "texto": "delegação do serviço público, o que exime a concessionária de prestação de contas aos órgãos de controle externo, submetendo-se às auditorias e controles internos do Poder Concedente."
+      },
+      {
+        "letra": "E",
+        "texto": "integral remuneração da concessionária por meio da exploração do próprio serviço público, não se admitindo participação de recursos públicos para compor o modelo econômico e a equação econômico-financeira do contrato."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

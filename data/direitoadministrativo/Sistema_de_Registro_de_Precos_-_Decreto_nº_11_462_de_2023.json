@@ -1,0 +1,68 @@
+[
+  {
+    "id": "3647502",
+    "metadata": "Ano: 2025 | Banca: IDECAN | Órgão: UFSBA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Sistema de Registro de Preços - Decreto nº 11.462 de 2023"
+    ],
+    "enunciado_principal": "Sabendo que a ata de registro de preços é um documento vinculativo e obrigacional, com característica de compromisso para futura contratação, no qual são registrados o objeto, os preços, os fornecedores, os órgãos participantes e as condições a serem praticadas, conforme as disposições contidas no edital da licitação, no aviso ou instrumento de contratação direta e nas propostas apresentadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O prazo de vigência da ata de registro de preços será de 2 (dois) anos e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo de vigência da ata de registro de preços será de 3 (três) anos e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo de vigência da ata de registro de preços será de 4 (quatro) anos e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo de vigência da ata de registro de preços será de 5 (cinco) anos e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3338942",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Sistema de Registro de Preços - Decreto nº 11.462 de 2023"
+    ],
+    "enunciado_principal": "Segundo o Decreto n.º 11.462/2023, o processo licitatório para registro de preços será realizado na modalidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "leilão ou credenciamento."
+      },
+      {
+        "letra": "B",
+        "texto": "leilão, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "concorrência ou pregão."
+      },
+      {
+        "letra": "D",
+        "texto": "pregão ou diálogo competitivo."
+      },
+      {
+        "letra": "E",
+        "texto": "concorrência ou concurso."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

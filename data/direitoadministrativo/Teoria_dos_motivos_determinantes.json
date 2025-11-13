@@ -1,0 +1,129 @@
+[
+  {
+    "id": "3464359",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria dos motivos determinantes",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto"
+    ],
+    "enunciado_principal": "Acerca dos atos administrativos, bem como do conceito, do objeto e das fontes do direito administrativo, julgue o item a seguir.A administração pública fica vinculada à motivação expressa no ato administrativo, ainda que este não precisasse ser motivado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3375677",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRM-MS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria dos motivos determinantes"
+    ],
+    "enunciado_principal": "Em relação aos atos administrativos, julgue o item a seguir. O administrador está vinculado aos motivos postos como fundamento para a prática do ato administrativo, seja vinculado seja discricionário, configurando vício de legalidade, justificando até mesmo o controle do Poder Judiciário, se forem inexistentes ou inverídicos, bem como se faltar adequação lógica entre as razões expostas e o resultado alcançado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3254478",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria dos motivos determinantes",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto"
+    ],
+    "enunciado_principal": "O consultor legislativo de determinada Câmara Municipal foi surpreendido por decisão do Presidente da Casa que determinou a imediata rescisão do contrato de locação do imóvel onde a Câmara de Vereadores funciona. Ao analisar a ordem formalizada, o consultor legislativo observou que continha, unicamente, os seguintes dizeres: “Determino a rescisão imediata do contrato de locação do imóvel onde atualmente funciona a Câmara de Vereadores”. Tendo por base, exclusivamente, as informações disponibilizadas anteriormente, quanto às condições de validade do ato administrativo, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em razão do poder discricionário da administração e o fato de o Presidente da Câmara ser o sujeito competente, o ato administrativo é perfeito e legal."
+      },
+      {
+        "letra": "B",
+        "texto": "A forma do ato administrativo é a maneira pela qual ele deve ser praticado. Sua inobservância pode gerar a sua nulidade. Por isso, a rescisão imediata do contrato de locação deve ser por meio de Decreto Legislativo."
+      },
+      {
+        "letra": "C",
+        "texto": "O objeto, que é o próprio conteúdo do ato administrativo sob análise, modifica uma relação jurídica preexistente; por isso, esse tipo de ato administrativo exige manifestação bilateral e aceitação das partes para ter validade."
+      },
+      {
+        "letra": "D",
+        "texto": "O motivo do ato administrativo é a razão pela qual foi praticado. Contudo, a simples rescisão de um contrato de locação não exige prévia motivação, restando perfeitamente legal e aplicável a decisão do Presidente da Câmara."
+      },
+      {
+        "letra": "E",
+        "texto": "O motivo do ato administrativo é pressuposto de fato e de direito, servindo-lhe de fundamento objetivo. Não se confunde, contudo, com a motivação que é o dever de exposição dos motivos, a demonstração de que os pressupostos de fato e de direito realmente existiram no caso concreto. Enfim, o ato do Presidente da Câmara carece de motivação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3247196",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Câmara de Princesa - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria dos motivos determinantes"
+    ],
+    "enunciado_principal": "A Teoria dos Motivos Determinantes tem origem no Direito Administrativo e está relacionada ao controle dos atos administrativos. Assinale a alternativa correspondente à Teoria dos Motivos Determinantes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Teoria dos Motivos Determinantes permite que a Administração modifique os motivos de um ato administrativo após sua prática para justificar sua validade."
+      },
+      {
+        "letra": "B",
+        "texto": "A Teoria dos Motivos Determinantes estabelece que a validade de um ato administrativo está vinculada aos motivos que foram declarados pela Administração para sua prática, de modo que, se esses motivos forem falsos, inexistentes ou ilegais, o ato pode ser anulado."
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo a Teoria dos Motivos Determinantes, a Administração Pública pode praticar atos administrativos sem necessidade de justificar seus motivos."
+      },
+      {
+        "letra": "D",
+        "texto": "A Teoria dos Motivos Determinantes se aplica apenas a atos discricionários e não tem qualquer relação com atos vinculados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3217446",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria dos motivos determinantes"
+    ],
+    "enunciado_principal": "No que se refere aos atos administrativos e à decadência administrativa, considerando, no que couber, a jurisprudência do STJ acerca dos temas, julgue o item seguinte. Ainda que se trate de ato administrativo discricionário, a motivação deve guardar correspondência com a realidade fática determinante da vontade administrativa, sob pena de nulidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "3286693",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "De acordo com a legislação vigente, o concurso, como modalidade de licitação, destina-se a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor."
+      },
+      {
+        "letra": "B",
+        "texto": "Contratação direta de serviços de engenharia, sem necessidade de licitação, desde que o valor não ultrapasse o limite estabelecido por lei."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquisição de bens e serviços comuns, independentemente da complexidade técnica, com base no menor preço."
+      },
+      {
+        "letra": "D",
+        "texto": "Seleção de empresas para execução de obras públicas, levando em consideração exclusivamente o direcionamento de menor preço."
+      },
+      {
+        "letra": "E",
+        "texto": "Contratação emergencial de serviços essenciais sem a exigência de critérios técnicos para avaliação das propostas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3285400",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Conforme previsão na Lei nº 14.133/2021 (Lei de Licitações e Contratos Administrativos), a modalidade de licitação modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pregão."
+      },
+      {
+        "letra": "B",
+        "texto": "Leilão."
+      },
+      {
+        "letra": "C",
+        "texto": "Diálogo Competitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Concurso."
+      },
+      {
+        "letra": "E",
+        "texto": "Concorrência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3285391",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Conforme previsão na Lei nº 14.133/2021 (Lei de Licitações e Contratos Administrativos), a modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diálogo Competitivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Concorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "Concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Leilão."
+      },
+      {
+        "letra": "E",
+        "texto": "Pregão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3217554",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF Farroupilha - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Segundo Andrade e Vergueiro (1996), as modalidades de compra que dizem respeito diretamente à aquisição de material bibliográfico são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Convite, tomada de preços e concorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "Tomada de preços, concurso e concorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "Concorrência, leilão e concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Convite, concurso e leilão."
+      },
+      {
+        "letra": "E",
+        "texto": "Convite, tomada de preços e concurso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3241184",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Associe as modalidades de licitação da primeira coluna com suas características na segunda coluna. Primeira coluna. 1.Concorrência. 2.Tomada de Preços. 3.Convite. 4.Leilão. Segunda coluna. (__) Utilizada para alienação de bens móveis e imóveis. (__) Exige prévio cadastramento de interessados. (__) É a modalidade mais ampla, permitindo maior concorrência. (__) Requer o envio de convites a pelo menos três participantes. Assinale a alternativa que apresenta a correta associação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 − 2 − 4 − 1."
+      },
+      {
+        "letra": "B",
+        "texto": "4 − 2 − 1 − 3."
+      },
+      {
+        "letra": "C",
+        "texto": "4 − 1 − 3 − 2."
+      },
+      {
+        "letra": "D",
+        "texto": "4 − 1 − 2 − 3."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3154488",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Pedro Velho - RN",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Sobre as modalidades de licitação e suas hipóteses de dispensa e inexigibilidade, conforme a Lei nº 8.666/1993, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A modalidade de convite é aplicável apenas para contratações com valores inferiores a R$150.000,00, sendo vedada sua utilização em casos de obras e serviços de engenharia."
+      },
+      {
+        "letra": "B",
+        "texto": "A inexigibilidade de licitação é permitida para aquisição de bens e serviços técnicos especializados, desde que sua singularidade seja comprovada por relatório técnico do órgão contratante."
+      },
+      {
+        "letra": "C",
+        "texto": "A dispensa de licitação em razão de urgência é limitada a contratações diretamente relacionadas a calamidades públicas previamente reconhecidas por decreto legislativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O pregão eletrônico pode ser utilizado para contratação de obras de engenharia, desde que os valores estejam dentro dos limites estabelecidos na Lei de Licitações e Contratos Administrativos."
+      },
+      {
+        "letra": "E",
+        "texto": "A inexigibilidade de licitação é aplicável em casos de inviabilidade de competição, como na contratação de serviços técnicos profissionais especializados, desde que comprovada a notória especialização do contratado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3470964",
+    "metadata": "Ano: 2024 | Banca: IASP | Órgão: Prefeitura de São Sebastião do Alto - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Qual modalidade de licitação é caracterizada pela disputa de técnicas e preços, após uma fase de qualificação técnica, segundo a Lei nº 8.666/93?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tomada de preços."
+      },
+      {
+        "letra": "B",
+        "texto": "Concorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "Concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Pregão."
+      },
+      {
+        "letra": "E",
+        "texto": "Convite."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3436428",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Previsto na Lei no 4.320, de 17 de março de 1964, o leilão é uma das modalidades de licitação. Sobre a modalidade leilão, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O leilão não poderá ser cometido a leiloeiro oficial."
+      },
+      {
+        "letra": "B",
+        "texto": "O leilão não poderá ser cometido a servidor designado pela autoridade competente da Administração."
+      },
+      {
+        "letra": "C",
+        "texto": "O leilão não exigirá registro cadastral prévio."
+      },
+      {
+        "letra": "D",
+        "texto": "O leilão terá fase de habilitação."
+      },
+      {
+        "letra": "E",
+        "texto": "Dentro da divulgação do edital do leilão, não deve conter o valor pelo qual o bem foi avaliado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3374243",
+    "metadata": "Ano: 2024 | Banca: GANZAROLI | Órgão: Prefeitura de Cumari - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "A licitação destina-se a garantir a observância do princípio constitucional da isonomia, a seleção da proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável e será processada e julgada em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo e dos que lhes são correlatos, especificados no Art. 3° da Lei 8.666/93. De acordo com a Lei de Licitações e Contratos do Brasil Existem várias modalidades de licitação no contexto de compras públicas. As modalidades de licitação mais comuns são?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compras, execução direta, execução indireta, dispensa e pregão."
+      },
+      {
+        "letra": "B",
+        "texto": "Concessão, aquisição, alienação, concurso e leilão."
+      },
+      {
+        "letra": "C",
+        "texto": "Concorrência, tomada de preços, convite e pregão."
+      },
+      {
+        "letra": "D",
+        "texto": "Concessão, tomada de preços, dispensa, leilão e concurso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3268740",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão",
+      "Procedimento licitatório e julgamento das propostas: edital, habilitação, classificação, homologação e adjudicação"
+    ],
+    "enunciado_principal": "Em relação à modalidade de licitação leilão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O leilão deverá ser homologado assim que for concluída a fase de lances, superada a fase recursal e efetivado o pagamento pelo licitante vencedor, na forma definida em edital."
+      },
+      {
+        "letra": "B",
+        "texto": "O edital do leilão será afixado em local de ampla circulação de pessoas na sede da Administração e não poderá ser divulgado por outros meios."
+      },
+      {
+        "letra": "C",
+        "texto": "O leilão poderá ser cometido a leiloeiro oficial, mas não a servidor designado pela autoridade competente da Administração."
+      },
+      {
+        "letra": "D",
+        "texto": "Se optar pela realização de leilão por intermédio de leiloeiro oficial, a Administração deverá selecioná‑lo mediante credenciamento ou licitação na modalidade leilão."
+      },
+      {
+        "letra": "E",
+        "texto": "O leilão exigirá registro cadastral prévio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3250207",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Entre as modalidades de licitação para compras na administração pública encontram-se a concorrência, o convite e a tomada de preços, dependendo do valor a ser contratado. Assinale a opção que lista essas modalidades em ordem crescente de limite de valor para contratação de compras e serviços.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "convite / tomada de preços / concorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "convite / concorrência / tomada de preços."
+      },
+      {
+        "letra": "C",
+        "texto": "concorrência / tomada de preços / convite."
+      },
+      {
+        "letra": "D",
+        "texto": "tomada de preços / convite / concorrência."
+      },
+      {
+        "letra": "E",
+        "texto": "tomada de preços / concorrência / convite."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3199281",
+    "metadata": "Ano: 2024 | Banca: ADM&TEC | Órgão: Prefeitura de São Luís do Quitunde - AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "De acordo com a Lei de Licitações e Contratos da Administração Pública, a empreitada por preço unitário consiste:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na contratação da execução da obra ou do serviço por preço certo de unidades determinadas."
+      },
+      {
+        "letra": "B",
+        "texto": "no regime de contratação de mão de obra para pequenos trabalhos por preço certo, com ou sem fornecimento de materiais."
+      },
+      {
+        "letra": "C",
+        "texto": "no regime de contratação em que, além do fornecimento do objeto, o contratado responsabiliza-se por sua operação, manutenção ou ambas, por tempo determinado."
+      },
+      {
+        "letra": "D",
+        "texto": "na contratação da execução da obra ou do serviço por preço certo e total."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3188713",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Câmara de Osasco - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Tipos e Modalidades – Concorrência, tomada de preços, convite, concurso e leilão"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta. Concorrência é modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maior preço"
+      },
+      {
+        "letra": "B",
+        "texto": "melhor técnica ou maior lance"
+      },
+      {
+        "letra": "C",
+        "texto": "técnica e preço"
+      },
+      {
+        "letra": "D",
+        "texto": "menor retorno econômico"
+      },
+      {
+        "letra": "E",
+        "texto": "menor desconto"
+      }
+    ],
+    "gabarito": "C"
+  }
+]
