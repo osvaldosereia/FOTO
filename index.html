@@ -209,14 +209,10 @@
         const MAX_SUBCATEGORIAS = 3;
 
         // --- 2. Referências aos Elementos do DOM ---
-        
-        // Dropdown Categoria (Disciplina)
         const customSelectDisciplina = document.getElementById('customSelectDisciplina');
         const selectDisciplinaBtn = document.getElementById('selectDisciplinaBtn');
         const selectDisciplinaValue = document.getElementById('selectDisciplinaValue');
         const selectDisciplinaList = document.getElementById('selectDisciplinaList');
-
-        // Dropdown Subcategoria (Tema)
         const customSelectTema = document.getElementById('customSelectTema');
         const selectTemaBtn = document.getElementById('selectTemaBtn');
         const selectTemaValue = document.getElementById('selectTemaValue');
@@ -224,29 +220,21 @@
         const selectTemaSearch = document.getElementById('selectTemaSearch');
         const selectTemaOptions = document.getElementById('selectTemaOptions');
         const multiSelectPins = document.getElementById('multiSelectPins'); 
-
-        // Botões e Divs Principais
         const btnBuscarQuestao = document.getElementById('btnBuscarQuestao'); 
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
         const btnTopo = document.getElementById('btnTopo');
-        
-        // Novos Botões de Ação
         const divAcoes = document.getElementById('divAcoes');
         const btnAcaoNova = document.getElementById('btnAcaoNova');
         const btnAcaoErrei = document.getElementById('btnAcaoErrei');
         const btnAcaoAcertei = document.getElementById('btnAcaoAcertei');
-        
-        // Referência do Toast
         const toastContainer = document.getElementById('toastContainer');
 
         // --- 3. Estado da Aplicação ---
-        
         let estadoSelect = {
             disciplina: { chave: null, nome: null, listaCompleta: [] },
             tema: { chavesSelecionadas: [], nomesSelecionados: [], listaCompleta: [], listaFiltrada: [] }
         };
-        
         let questoesCarregadas = []; 
         let historicoNavegacao = []; 
         let indiceHistorico = -1; 
@@ -302,8 +290,9 @@
             });
             selectTemaSearch.addEventListener('input', (e) => {
                 const termo = e.target.value.toLowerCase();
+                // (MODIFICADO) A busca agora também troca '_' por ' ' para corresponder ao nome formatado
                 estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => 
-                    tema.nome.toLowerCase().includes(termo)
+                    tema.nome.toLowerCase().includes(termo.replace(/_/g, ' '))
                 );
                 renderizarOpcoesTema();
             });
@@ -350,17 +339,31 @@
         // --- Funções de Seleção (Subcategoria/Tema) ---
         
         /**
-         * (NOVA FUNÇÃO AUXILIAR - ADICIONADA)
-         * Transforma uma chave-de-arquivo em um nome legível.
-         * Ex: "lei-penal-no-espaco" se torna "Lei Penal No Espaco"
+         * (FUNÇÃO MODIFICADA)
+         * Transforma uma chave-de-arquivo (com _) em um nome legível (com espaço).
+         * Ex: "Abandono_de_funcao" se torna "Abandono de funcao"
+         * Ex: "A_norma_penal" se torna "A norma penal"
          */
         function formatarChaveParaNome(chave) {
             if (!chave) return '';
-            // Separa por '-', capitaliza a primeira letra de cada parte, e junta com espaço
-            return chave
-                .split('-')
-                .map(palavra => palavra.charAt(0).toUpperCase() + palavra.slice(1))
-                .join(' ');
+            // Troca todos os '_' por ' '
+            let nome = chave.replace(/_/g, ' ');
+            
+            // Tenta capitalizar de forma inteligente (ex: "lei nº 123" -> "Lei nº 123")
+            // Capitaliza a primeira letra e letras após ' ('.
+            // Esta é uma lógica simples e pode não ser perfeita para todos os casos,
+            // mas é melhor que nada.
+            try {
+                 nome = nome.charAt(0).toUpperCase() + nome.slice(1).toLowerCase();
+                 // Capitaliza após parênteses (ex: (bullying) -> (Bullying))
+                 nome = nome.replace(/ \(/g, ' (').replace(/\((\w)/, (match, p1) => `(${p1.toUpperCase()}`);
+                 // Capitaliza após hífens curtos (ex: - Nocoes -> - Noções)
+                 nome = nome.replace(/- (\w)/, (match, p1) => `- ${p1.toUpperCase()}`);
+            } catch (e) {
+                 // Se algo falhar, apenas retorna o nome com espaços
+                 return chave.replace(/_/g, ' ');
+            }
+            return nome;
         }
 
         /**
@@ -369,15 +372,13 @@
          */
         function popularTemas() {
             const disciplinaKey = estadoSelect.disciplina.chave;
-            // 'temas' agora é esperado como um ARRAY de chaves, não um objeto
-            const temasArray = dbDisciplinas[disciplinaKey]?.temas || []; // <-- MUDANÇA
+            const temasArray = dbDisciplinas[disciplinaKey]?.temas || []; 
             
             estadoSelect.tema.listaCompleta = [];
             
-            // Loop por um array de chaves (ex: "conceitos", "norma-penal")
-            for (const chave of temasArray) { // <-- MUDANÇA
+            for (const chave of temasArray) { 
                 // Gera o nome de exibição automaticamente a partir da chave
-                const nomeFormatado = formatarChaveParaNome(chave); // <-- MUDANÇA
+                const nomeFormatado = formatarChaveParaNome(chave); // <-- CORRIGIDO
                 estadoSelect.tema.listaCompleta.push({ chave: chave, nome: nomeFormatado });
             }
             
@@ -493,14 +494,22 @@
             isLoading = true; 
             atualizarEstadoBotaoBuscar(); 
 
+            // Esta é a linha que carrega os ficheiros.
+            // Ela usa a 'chave' do config.js, que agora é "Abandono_de_funcao".
             const urls = chavesSelecionadas.map(chave => `data/${disciplinaKey}/${chave}.json`);
             
             try {
                 const promises = urls.map(url => fetch(url).then(res => {
-                    if (!res.ok) throw new Error(`Falha ao carregar ${url}`);
+                    if (!res.ok) {
+                        console.error(`Falha ao carregar ${url}. Status: ${res.status}`);
+                        throw new Error(`Falha ao carregar ${url}`);
+                    }
                     return res.json();
                 }));
                 const arraysDeQuestoes = await Promise.all(promises);
+                
+                // O seu JSON (ex: abandono_moral.json) é um [ { ... } ]
+                // Esta linha concatena todos os arrays num só
                 questoesCarregadas = [].concat(...arraysDeQuestoes);
                 
                 if (questoesCarregadas.length === 0) {
