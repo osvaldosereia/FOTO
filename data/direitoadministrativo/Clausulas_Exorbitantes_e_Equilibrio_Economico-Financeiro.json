@@ -1,0 +1,387 @@
+[
+  {
+    "id": "3299602",
+    "metadata": "Ano: 2025 | Banca: Prefeitura de Catas Altas - MG | Órgão: Prefeitura de Catas Altas - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Em relação a alterações de um contrato de execução de obra, assinale a afirmativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato poderá ser alterado, com as devidas justificativas, unilateralmente pela Administração, quando houver modificação do projeto ou das especificações, para melhor adequação técnica a seus objetivos."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas alterações unilaterais, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 60% (sessenta por cento) do valor inicial atualizado do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato poderá ser alterado, com as devidas justificativas, por acordo entre as partes, para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "A diferença percentual entre o valor global do contrato e o preço global de referência não poderá ser reduzida em favor do contratado em decorrência de aditamentos que modifiquem a planilha orçamentária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3296134",
+    "metadata": "Ano: 2025 | Banca: IVIN | Órgão: Prefeitura de Cajazeiras do Piauí - PI",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Ao firmar contrato com determinado Município, após vencer processo licitatório, o gestor de uma empresa percebeu que havia uma cláusula no instrumento que definia os riscos e as responsabilidades entre as partes, além de caracterizar o equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação. À esta cláusula, a Lei nº 14.133/21 dá o nome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Matriz de intercorrências."
+      },
+      {
+        "letra": "B",
+        "texto": "Matriz de riscos."
+      },
+      {
+        "letra": "C",
+        "texto": "Cláusula de reversão."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláusula de objeto."
+      },
+      {
+        "letra": "E",
+        "texto": "Cláusula de retomada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3274224",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-AM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Conceito e Características",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro"
+    ],
+    "enunciado_principal": "Nos contratos administrativos celebrados com a Administração Pública, existem prerrogativas que conferem ao Poder Público uma posição de superioridade em relação ao contratado, justificadas pela supremacia do interesse público sobre o privado. Essas prerrogativas, que são características dos contratos administrativos, são conhecidas pela teoria como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Princípios contratuais."
+      },
+      {
+        "letra": "B",
+        "texto": "Cláusulas exorbitantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Prerrogativas discricionárias."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláusulas compulsórias."
+      },
+      {
+        "letra": "E",
+        "texto": "Disposições excepcionais."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3262916",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Encontram-se legalmente estabelecidas ações para restabelecer o valor global necessário para a execução de contrato em casos de desequilíbrio econômico-financeiro resultante de diferentes circunstâncias. Essas ações se aplicam a convênios, acordos, ajustes e outros instrumentos similares celebrados por órgãos e entidades da administração pública. As ações propostas são, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rescisão unilateral do contrato por iniciativa da contratada."
+      },
+      {
+        "letra": "B",
+        "texto": "Aporte de novos recursos por parte da instituição concedente."
+      },
+      {
+        "letra": "C",
+        "texto": "Utilização de saldos de recursos ou rendimentos de aplicação financeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução das metas e das etapas, desde que não comprometa a fruição ou a funcionalidade do objeto pactuado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3262913",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro"
+    ],
+    "enunciado_principal": "É possível que a administração pública, mediante acordo com o contratado, restabeleça o equilíbrio econômico-financeiro do contrato, diante de fatos que inviabilizem a execução do contrato tal como pactuado e decorrentes das seguintes circunstâncias, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Força maior ou caso fortuito."
+      },
+      {
+        "letra": "B",
+        "texto": "Fatos previsíveis, de consequências calculáveis, que não impossibilite a entrega do produto ou serviço nas condições originalmente convencionadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Fato da administração, em que a execução de obras e de serviços de engenharia, for obstada pelo atraso na conclusão de procedimentos de desapropriação, desocupação, servidão administrativa ou licenciamento ambiental, por circunstâncias alheias ao contratado."
+      },
+      {
+        "letra": "D",
+        "texto": "Fato do príncipe, em que os preços contratados poderão ser alterados, para mais ou para menos, conforme o caso, se houver criação, alteração ou extinção de quaisquer tributos ou encargos legais após a data da apresentação da proposta, ou a superveniência de disposições legais com comprovada repercussão sobre os preços contratados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3261334",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Um contrato administrativo de prestação de serviços de saúde apresenta cláusulas de reajuste. Sabe-se que o gestor deverá considerar diversos fatores ao aplicar esse reajuste. Qual é a análise mais complexa a ser realizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplicar o reajuste de forma automática, sem necessidade de análise prévia, para evitar atrasos no pagamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar o reajuste com base apenas na inflação do período, sem considerar a qualidade dos serviços prestados."
+      },
+      {
+        "letra": "C",
+        "texto": "Rejeitar qualquer solicitação de reajuste, pois o contrato foi firmado com valores fixos e não pode ser alterado."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliar o impacto do reajuste no equilíbrio econômico-financeiro do contrato, considerando a variação dos custos dos insumos e a qualidade do serviço."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261331",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Durante a execução de um contrato administrativo, o contratado solicita a alteração do objeto do contrato em razão de mudanças nas condições de mercado. Qual é a análise correta que o gestor deve realizar antes de decidir sobre essa solicitação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consultar apenas o setor financeiro, já que a decisão envolve aspectos orçamentários."
+      },
+      {
+        "letra": "B",
+        "texto": "Negar a solicitação, uma vez que alterações no objeto são sempre consideradas ilegais segundo a legislação."
+      },
+      {
+        "letra": "C",
+        "texto": "Aceitar a solicitação de alteração imediatamente, pois mudanças de mercado justificam qualquer modificação contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "Verificar se a alteração do objeto se enquadra nas hipóteses legais previstas na Lei de Licitações e se não compromete o equilíbrio econômico-financeiro do contrato."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3242782",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro"
+    ],
+    "enunciado_principal": "Durante a execução de um contrato administrativo, a empresa contratada solicitou reajuste dos valores devido ao aumento inesperado de insumos. Tal pedido está amparado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na cláusula de equilíbrio econômico-financeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "na regra da mutabilidade dos contratos."
+      },
+      {
+        "letra": "C",
+        "texto": "no princípio da supremacia do interesse público."
+      },
+      {
+        "letra": "D",
+        "texto": "na discricionariedade administrativa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3207372",
+    "metadata": "Ano: 2025 | Banca: Gama Consult | Órgão: Prefeitura de Cotriguaçu - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro"
+    ],
+    "enunciado_principal": "A cláusula exorbitante é uma característica marcante dos contratos administrativos, conferindo à administração pública prerrogativas especiais em relação aos contratos privados. Assinale a alternativa que apresenta um exemplo de cláusula exorbitante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cláusula penal, que estabelece uma penalidade para o caso de descumprimento contratual."
+      },
+      {
+        "letra": "B",
+        "texto": "Cláusula de força maior, que exime as partes de responsabilidade em caso de ocorrência de eventos imprevisíveis e inevitáveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Cláusula de reajuste, que permite a atualização dos valores contratuais em função de índices econômicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláusula de alteração unilateral, que permite à administração pública modificar o contrato, desde que haja justificativa e não haja prejuízo ao contratado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3162710",
+    "metadata": "Ano: 2025 | Banca: FCPC | Órgão: UFC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Conceito e Características",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro"
+    ],
+    "enunciado_principal": "Os contratos e seus aditamentos deverão observar a forma escrita, ser publicados em sítio eletrônico oficial e deverão ser juntados ao processo que deu origem à contratação (Lei nº 14.133/2021). Além dessas formalidades, a Lei nº 14.133/2021 fixa um conjunto de cláusulas necessárias em todos os contratos, dentre as quais está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a matriz de risco, em todas as circunstâncias."
+      },
+      {
+        "letra": "B",
+        "texto": "o prazo para resposta ao pedido de repactuação de preços, quando for o caso."
+      },
+      {
+        "letra": "C",
+        "texto": "a legislação aplicável à execução do contrato, sem preocupação com os casos omissos."
+      },
+      {
+        "letra": "D",
+        "texto": "o objeto, seus elementos, suas características e as penalidades cabíveis, quando for o caso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3223278",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Spcine - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agências Reguladoras na Organização da Administração Pública",
+      "Parcerias público-privadas",
+      "Serviços Públicos",
+      "Autarquias",
+      "Delegação dos Serviços Públicos - Concessão e Permissão",
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "O Município X possui em sua estrutura uma agência reguladora cujo objetivo é regular e fiscalizar o cumprimento da legislação por empresas concessionárias de serviços públicos, nas hipóteses em que o poder público transferiu a execução dessas atividades à iniciativa privada, por meio de contratos de concessão e parcerias público- -privadas. Além disso, há a intenção de que a entidade passe também a fiscalizar os serviços públicos que são exercidos, no Município, por empresas estatais não monopolistas. Interessado em saber como funciona e quais são os limites legais para a ação desse tipo de autarquia, o Diretor de Regulação de uma empresa estatal pede uma reunião com o jurídico para tratar do assunto. Com base na situação hipotética, na legislação federal e na jurisprudência do Supremo Tribunal Federal, o advogado presente na reunião poderá afirmar de maneira correta que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as agências reguladoras são dotadas de independência, e é possível que o legislador, para assegurar a independência de seus funcionários, impeça os servidores titulares de cargo efetivo o exercício de outra atividade profissional, inclusive gestão operacional de empresa."
+      },
+      {
+        "letra": "B",
+        "texto": "não há problema jurídico em, por lei, o ente público conferir a uma agência reguladora a competência para fiscalizar também a empresa estatal, pois nas situações tratadas no enunciado a transferência do exercício do serviço público para a entidade privada se dá por delegação e, mesmo no caso da empresa estatal, é necessário que exista um contrato regulando a relação jurídica da empresa com o titular do serviço."
+      },
+      {
+        "letra": "C",
+        "texto": "o poder normativo conferido a essas agências reguladoras é amplo, pois é válido, nesse modelo, que a lei fixe apenas as finalidades, os objetivos e a estrutura da agência. Além disso, elas podem inovar na ordem jurídica caso haja expressa ou tácita de delegação no instrumento que a cria, bem como regular determinados assuntos com base em conceitos genéricos previstos na lei instituidora."
+      },
+      {
+        "letra": "D",
+        "texto": "em relação aos contratos de concessão e parceria público-privada, o poder de regular os serviços objeto da contratação é limitado e reduzido, pois os instrumentos contratuais preveem todas as condições que regerão a relação jurídica do ponto de vista técnico, no caderno de encargos do contrato, que somente poderá ser alterado se assegurada a preservação do equilíbrio econômico-financeiro do negócio."
+      },
+      {
+        "letra": "E",
+        "texto": "o poder de fiscalização e aplicação de sanção das agências reguladoras, em geral, é amplo, pois elas possuem a prerrogativa de definir que sanções podem ser aplicadas e de que maneira os processos sancionatórios deverão ser regulados, que precisarão respeitar aos princípios do direito administrativo sancionador."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3199270",
+    "metadata": "Ano: 2024 | Banca: INAZ do Pará | Órgão: Prefeitura de Capão Alto - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Qual é a definição de cláusulas exorbitantes em um contrato?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cláusulas que estabelecem prazos de pagamento flexíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Cláusulas que definem multas elevadas em caso de descumprimento do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "Cláusulas que determinam responsabilidades proporcionais entre as partes do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláusulas que conferem poderes excessivos a uma das partes do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "Cláusulas que preveem a rescisão do contrato em caso de atraso no pagamento."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

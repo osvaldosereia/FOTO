@@ -1,0 +1,432 @@
+[
+  {
+    "id": "3593407",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Prefeitura de Vermelho Novo - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Regime jurídico administrativo",
+      "Conceito e classificação dos atos administrativos",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "Raul, brasileiro, assim que fez 18 anos passou por todos os procedimentos legais necessários e tirou a Carteira Nacional de Habilitação (CNH) – nas categorias A e B, ficando qualificado para conduzir motocicletas e veículos automotores. Poucos dias após ter recebido sua habilitação, foi aprovada no Congresso Nacional uma alteração no Código de Trânsito, que passou a exigir 21 anos completos, para conseguir a habilitação para a condução de motocicletas. Nesse caso, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por ser um direito adquirido, a habilitação de Raul é válida e ele pode conduzir motocicletas."
+      },
+      {
+        "letra": "B",
+        "texto": "Por se tratar de coisa julgada, a habilitação de Raul é válida e ele pode conduzir motocicletas."
+      },
+      {
+        "letra": "C",
+        "texto": "Por ser um ato jurídico perfeito, a habilitação de Raul é válida e ele pode conduzir motocicletas."
+      },
+      {
+        "letra": "D",
+        "texto": "Por não ter 21 anos completos, a habilitação de Raul não é válida para motos, uma vez que se trata de direito discricionário revogado por lei."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3504782",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CREMESE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "À luz da Lei Federal nº 9.784/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, julgue o item seguinte.Os princípios da ampla defesa e do contraditório decorrem do princípio do devido processo legal em seu aspecto substancial ou material.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3440425",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Regime jurídico administrativo",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Princípios - Proporcionalidade, Razoabilidade, Motivação, Autotutela e Outros Princípios",
+      "Demais aspectos da lei 9.784/99"
+    ],
+    "enunciado_principal": "Relativamente ao controle da Administração é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada a boa-fé do administrado."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração pública pode declarar a revogação dos seus próprios atos eivados de nulidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se exercício do direito de revogar qualquer medida de autoridade administrativa que importe impugnação à validade do ato."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo quinquenal para a Administração anular os atos administrativos favoráveis aos destinatários é prescricional."
+      },
+      {
+        "letra": "E",
+        "texto": "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3440424",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Regime jurídico administrativo",
+      "Poderes da Administração",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia",
+      "Improbidade administrativa - Lei nº 8.429 de 1992 e Lei nº 14.230 de 2021",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Princípios - Proporcionalidade, Razoabilidade, Motivação, Autotutela e Outros Princípios",
+      "Demais aspectos da lei 9.784/99",
+      "Atos de Improbidade Administrativa e suas Sanções"
+    ],
+    "enunciado_principal": "Relativamente ao Direito Administrativo Sancionador e às recentes decisões do STJ sobre a matéria, a retroatividade da lei mais benéfica é aplicada da seguinte forma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplica-se ao Direito Administrativo Sancionador a retroatividade da lei posterior mais benéfica em idêntica extensão à novatio legis in mellius do direito penal."
+      },
+      {
+        "letra": "B",
+        "texto": "A penalidade administrativa deve se basear no princípio do tempus regit actum, salvo se houver previsão expressa de retroatividade da lei mais benéfica."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena administrativa minorada por lei posterior não pode ser aplicada a casos anteriores em nenhuma hipótese."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena administrativa reduzida por lei posterior pode ser aplicada a casos pretéritos somente se a conduta for tipificada na lei penal vigente."
+      },
+      {
+        "letra": "E",
+        "texto": "Em qualquer caso a penalidade administrativa minorada por lei posterior poderá ser aplicada a casos pretéritos à sua vigência, independentemente de previsão expressa, por força dos princípios implícitos do Direito Administrativo Sancionador."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3274025",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime jurídico administrativo",
+      "Estabilidade e vitaliciedade",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "Uma das alternativas abaixo NÃO corresponde a uma das condições para que o servidor público estável só perderá o cargo. Qual é esta alternativa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em virtude de sentença judicial transitada em julgado."
+      },
+      {
+        "letra": "B",
+        "texto": "Mediante processo administrativo em que lhe seja assegurada ampla defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "Em virtude de necessidade do órgão público."
+      },
+      {
+        "letra": "D",
+        "texto": "Mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3273986",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-AM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Início e interessados no processo administrativo, delegação e avocação de competências"
+    ],
+    "enunciado_principal": "Analise as seguintes asserções e a relação proposta entre elas, tendo como referência a Lei nº 9.784/1999, que regula o processo administrativo no âmbito da Administração Pública Federal: I. As organizações e associações representativas são legitimadas como interessadas no processo administrativo para a defesa de direitos e interesses individuais e coletivos. PORQUE II. Diferentemente do que ocorre no Direito Administrativo, a Administração Pública deve observar, no processo administrativo, apenas os princípios do contraditório, da ampla defesa e da legalidade. A respeito dessas asserções, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As asserções I e II são proposições falsas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3262018",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: AGEVAP - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "Em relação aos princípios administrativos, as decisões administrativas devem ser tomadas considerando a manifestação dos interessados. Trata-se do:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Princípio do contraditório."
+      },
+      {
+        "letra": "B",
+        "texto": "Princípio da ampla defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "Princípio da impessoalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Princípio da transparência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3261342",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Demais aspectos da lei 9.784/99"
+    ],
+    "enunciado_principal": "O processo administrativo pode ser compreendido como um conjunto concatenado de atos administrativos que visam ao alcance do interesse público, bem como à defesa dos administrados. Sobre a temática, a respeito do processo administrativo, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por impossibilitar o contraditório, é vedada a instauração de processo administrativo disciplinar com base em denúncia anônima."
+      },
+      {
+        "letra": "B",
+        "texto": "Em atenção à separação dos Poderes, a Lei do Processo Administrativo Federal – Lei nº 9.784/1999 é voltada somente para o Poder Executivo, devendo os Poderes Legislativo e Judiciário editarem suas próprias leis."
+      },
+      {
+        "letra": "C",
+        "texto": "Um dos princípios que regem os processos administrativos é o do informalismo procedimental, compreendido como a possibilidade de a Administração produzir provas de ofício de modo a buscar a verdade dos fatos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é mais compatível com a Constituição Federal de 1988 o instituto da “verdade sabida” na Administração, por meio da qual a autoridade hierárquica imediatamente aplica a sanção disciplinar quando surpreende o subordinado praticando uma infração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261332",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Contratos Administrativos",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Demais aspectos da lei 9.784/99",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Determinado servidor público responsável pela fiscalização de um contrato administrativo identificou diversas irregularidades na sua execução. Considerando os princípios da Administração Pública, qual procedimento ele deverá seguir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar as irregularidades apenas para o setor jurídico, sem tomar outras providências."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorar as irregularidades, pois a empresa contratada é de boa reputação e a fiscalização pode prejudicar a relação."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar sanções administrativas imediatamente, sem a necessidade de notificação, uma vez que as irregularidades são evidentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Elaborar um relatório detalhado das irregularidades e notificar o contratado, concedendo prazo para a regularização antes de aplicar sanções."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3216444",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Entidades Paraestatais ou Terceiro Setor",
+      "Organização da Administração Pública",
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "Determinado município firmou convênio com uma Organização Não Governamental (ONG) para a execução de um programa social voltado para a inclusão social de jovens em situação de vulnerabilidade. Durante a execução do convênio, a Administração Pública percebeu que a ONG não estava cumprindo as metas estabelecidas no contrato, além de apresentar irregularidades na prestação de contas, como a falta de documentos comprobatórios e a utilização inadequada dos recursos financeiros. Diante dessa situação, assinale a ação correta que a Administração Pública deverá tomar para garantir a legalidade e a eficiência na execução do convênio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter o convênio e apenas orientar a ONG sobre as irregularidades encontradas, permitindo que ela se ajuste."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorar as irregularidades, pois o convênio é um ato administrativo que não pode ser revogado sem justificativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar uma nova avaliação das metas do convênio, ajustando-as para que a ONG possa cumpri-las, sem penalidades."
+      },
+      {
+        "letra": "D",
+        "texto": "Encerrar o convênio imediatamente, sem qualquer comunicação à ONG, para evitar mais prejuízos à Administração Pública."
+      },
+      {
+        "letra": "E",
+        "texto": "Suspender o repasse de recursos e instaurar um processo administrativo para apurar as irregularidades, garantindo o direito à ampla defesa e ao contraditório."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3262341",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Regime jurídico administrativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "A Lei de Introdução às Normas do Direito Brasileiro (LINDB) serve de base para todo o ordenamento jurídico brasileiro, visando regular situações que confiram a segurança jurídica, a coerência e a estabilidade das normas, além de auxiliar na interpretação e aplicação das normas jurídicas. Considerando seus termos, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos."
+      },
+      {
+        "letra": "B",
+        "texto": "Em qualquer órgão ou Poder, a edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, poderá ser precedida de consulta pública para manifestação de interessados, preferencialmente por meio eletrônico, a qual será considerada na decisão."
+      },
+      {
+        "letra": "C",
+        "texto": "A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado, levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar a segurança jurídica na aplicação das normas é um objetivo a ser perseguido pelas autoridades públicas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas; com relação aos instrumentos citados, a LINDB prevê que apenas as súmulas administrativas terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3257687",
+    "metadata": "Ano: 2024 | Banca: IDECAN | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime jurídico administrativo",
+      "Provimento e vacância",
+      "Estabilidade e vitaliciedade",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica"
+    ],
+    "enunciado_principal": "Considerando os dispositivos legais referentes ao estágio probatório (arts. 30 a 34) da Lei Complementar nº 01/1991, que institui o Regime Jurídico único dos servidores públicos do município do Salvador, analise como os mecanismos de avaliação de desempenho podem impactar a estabilidade do servidor público e as possíveis consequências de uma avaliação inadequada e assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A avaliação final do servidor em estágio probatório, descrita no art. 32, §1º, deve ser promovida no 18º mês de estágio para a primeira investidura em cargo público municipal, ou no 4º mês para estagiários já servidores estáveis, e é crucial para determinar a continuidade ou exoneração do servidor, sendo necessária a apresentação de defesa em caso de recomendação de exoneração."
+      },
+      {
+        "letra": "B",
+        "texto": "A participação das entidades ou sindicatos representativos dos servidores no Comitê Técnico, conforme descrito no art. 32, §5º, depende exclusivamente da decisão do poder executivo, não sendo um requisito obrigatório, já que se trata de uma entidade parcial."
+      },
+      {
+        "letra": "C",
+        "texto": "A avaliação especial de desempenho, obrigatória e periódica, conforme descrita no art. 30, §2º, é um processo meramente formal que não impacta significativamente a decisão sobre a estabilidade do servidor, servindo apenas como um procedimento burocrático."
+      },
+      {
+        "letra": "D",
+        "texto": "A avaliação especial de desempenho realizada durante o estágio probatório, conforme descrita no art. 30, assegura que todos os servidores públicos nomeados para cargos de provimento efetivo automaticamente adquiram estabilidade após três anos, independentemente do resultado da avaliação."
+      },
+      {
+        "letra": "E",
+        "texto": "O servidor público em estágio probatório não pode se afastar do cargo para qualquer fim, exceto em casos de licença para tratamento de saúde, acidente em serviço, licença à gestante, lactante, adotante e licença paternidade, conforme descrito no art. 34, sendo que quaisquer outros afastamentos resultam na interrupção do estágio probatório."
+      }
+    ],
+    "gabarito": "X"
+  },
+  {
+    "id": "3223273",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Spcine - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime jurídico administrativo",
+      "Cargo, emprego, função",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Princípios - Proporcionalidade, Razoabilidade, Motivação, Autotutela e Outros Princípios"
+    ],
+    "enunciado_principal": "A respeito do regime constitucional do empregado público, com base na Constituição Federal e na jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A demissão de empregado público concursado deve ser precedida de processo administrativo, que assegure o respeito ao contraditório e à ampla defesa."
+      },
+      {
+        "letra": "B",
+        "texto": "A criação de emprego público deve ser precedida de determinação legislativa, enquanto a sua extinção pode se dar por decreto, caso esteja vago."
+      },
+      {
+        "letra": "C",
+        "texto": "A Justiça Comum é competente para julgar a abusividade de greve de empregado público vinculado à empresa estatal."
+      },
+      {
+        "letra": "D",
+        "texto": "A dispensa de empregados públicos concursados, vinculados a empresas prestadoras de serviço público, deve ser motivada e não precisará ser precedida de processo administrativo ou que a conduta se enquadre nas hipóteses de justa causa da legislação trabalhista."
+      },
+      {
+        "letra": "E",
+        "texto": "Os empregados públicos estão sujeitos à aposentadoria compulsória, mas não terão o seu vínculo de emprego automaticamente rompido, caso se aposentem por tempo de contribuição."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

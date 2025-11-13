@@ -1,0 +1,68 @@
+[
+  {
+    "id": "3241759",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Conceito, classificação, afetação e desafetação",
+      "Regime jurídico: prerrogativas e garantias",
+      "Bens públicos em espécie"
+    ],
+    "enunciado_principal": "O gerenciamento administrativo estatal implica no exercício do domínio sobre os bens existentes em seu território. Sobre esse tema, analise as afirmativas a seguir. I. O domínio público abrange apenas os bens das pessoas jurídicas de Direito Público Interno, excluindo bens de utilidade coletiva como águas, jazidas e florestas. II. O domínio público eminente é exercido exclusivamente sobre os bens particulares e não possui relação com a soberania interna do Estado. III. O domínio público inclui bens de utilidade coletiva que merecem proteção do Direito Público, como águas, jazidas e florestas. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3152844",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Bens Públicos na Administração Pública",
+      "Conceito, classificação, afetação e desafetação",
+      "Regime jurídico: prerrogativas e garantias",
+      "Aquisição e alienação dos bens públicos"
+    ],
+    "enunciado_principal": "Marlon, servidor público do Município Ômega, passou a exercer atribuições relacionadas à gestão dos bens públicos do referido ente federativo, razão pela qual teve que aprofundar os seus conhecimentos acerca do respectivo regime jurídico. Tendo em conta a classificação dos bens públicos e as peculiaridades do respectivo regime jurídico, à luz do ordenamento pátrio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os bens de dominicais são os únicos que podem ser usucapidos, mas são considerados inalienáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Os bens de uso comum do povo são imprescritíveis e inalienáveis, mas podem ser penhorados no âmbito da execução contra a Fazenda Pública."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os bens dominicais são considerados passíveis de alienação, preenchidos os demais requisitos legais, pois estão desafetados."
+      },
+      {
+        "letra": "D",
+        "texto": "Os bens de uso comum e os de uso especial podem ser usucapidos, sendo, no entanto, inviável a sua alienação enquanto mantida a respectiva destinação."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente os bens de uso comum do povo não podem usucapidos, considerando a sua especial afetação."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "id": "3515564",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Câmara de Dionísio Cerqueira - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "É a ação dos órgãos e das entidades da administração pública federal para atender, direta ou indiretamente, às demandas da sociedade relativas ao exercício de direito ou ao cumprimento de um dever. Fonte: Disponível em: https://www.gov.br/economia/pt-br/ assuntos/planejamento/cidadania-digital/arquivos/guia-deidentificacao-servicos_pcd.pdf O conceito acima refere-se à (ao):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "interesse coletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "cidadania."
+      },
+      {
+        "letra": "C",
+        "texto": "trabalho voluntário."
+      },
+      {
+        "letra": "D",
+        "texto": "serviço público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3296133",
+    "metadata": "Ano: 2025 | Banca: IVIN | Órgão: Prefeitura de Cajazeiras do Piauí - PI",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Acerca do estudo dos serviços públicos, é correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São, assim como o exercício do poder de polícia, uma atividade restritiva do âmbito de ação dos particulares."
+      },
+      {
+        "letra": "B",
+        "texto": "São obrigatoriamente prestados de forma direta pelo Estado."
+      },
+      {
+        "letra": "C",
+        "texto": "São necessariamente prestados sob regime de direito privado."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente podem ser titularizados por pessoa jurídica de direito público, independentemente de quem realize a prestação efetivamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Voltam-se a atender somente a interesses essenciais da sociedade, nunca secundários."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3286358",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "As atividades de interesse comum reguladas e/ou mantidas pelo poder público, compreendendo os sistemas saneamento ambiental, abastecimento de água, esgotamento sanitário, drenagem e resíduos sólidos de energia e iluminação pública, de circulação e transportes, de telecomunicações, de informação e atendimento às questões de interesse público, é denominada de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infraestrutura Urbana."
+      },
+      {
+        "letra": "B",
+        "texto": "Serviços Públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Gestão de Recursos Públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Atividades Sociais."
+      },
+      {
+        "letra": "E",
+        "texto": "Sistema de Utilidade Pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3285398",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Assinale a alternativa que não contempla um serviço público de caráter essencial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Abastecimento de água."
+      },
+      {
+        "letra": "C",
+        "texto": "Distribuição de energia elétrica."
+      },
+      {
+        "letra": "D",
+        "texto": "Telecomunicações."
+      },
+      {
+        "letra": "E",
+        "texto": "Transporte coletivo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3282542",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: Prefeitura de Sinop - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "O serviço público que se caracteriza por ser aquele que o Estado executa para compor melhor sua organização tem relação com o serviço que se denomina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "social"
+      },
+      {
+        "letra": "B",
+        "texto": "singular"
+      },
+      {
+        "letra": "C",
+        "texto": "administrativo"
+      },
+      {
+        "letra": "D",
+        "texto": "de utilidade pública"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3280114",
+    "metadata": "Ano: 2025 | Banca: AEVSF/FACAPE | Órgão: Prefeitura de Afrânio - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "O Caderno de Orientações Técnicas do CRAS (2009) dispõe sobre a sua funcionalidade, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma unidade da rede socioassistencial de proteção social básica."
+      },
+      {
+        "letra": "B",
+        "texto": "Possui as funções exclusivas de oferta pública do trabalho social com famílias do PAIF e de gestão territorial da rede socioassistencial de proteção social básica."
+      },
+      {
+        "letra": "C",
+        "texto": "O trabalho social com famílias do PAIF é desenvolvido pela equipe de referência do CRAS e a gestão territorial pelo coordenador do CRAS."
+      },
+      {
+        "letra": "D",
+        "texto": "As funções do CRAS não devem ser confundidas com as funções do órgão gestor da política de assistência social municipal ou do DF."
+      },
+      {
+        "letra": "E",
+        "texto": "Os CRAS são unidades estatais que têm por atribuições a organização da rede socioassistencial e oferta de serviços da proteção social básica."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3272365",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Princípios dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Sobre o saneamento básico, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os serviços públicos de saneamento básico serão prestados com base no princípio da integralidade, compreendida como o conjunto de atividades e componentes de cada um dos diversos serviços de saneamento que propicie à população o acesso a eles em conformidade com suas necessidades e maximize a eficácia das ações e dos resultados."
+      },
+      {
+        "letra": "B",
+        "texto": "Os recursos hídricos integram os serviços públicos de saneamento básico."
+      },
+      {
+        "letra": "C",
+        "texto": "Abrange serviços públicos, infraestruturas e instalações operacionais de esgotamento sanitário. É constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias à coleta, ao transporte, ao tratamento e à disposição final adequados dos esgotos sanitários, desde as ligações prediais até sua destinação final para produção de água de reúso ou seu lançamento de forma adequada no meio ambiente."
+      },
+      {
+        "letra": "D",
+        "texto": "A interrupção ou a restrição do fornecimento de água por inadimplência a estabelecimentos de saúde, a instituições educacionais e de internação coletiva de pessoas e a usuário residencial de baixa renda beneficiário de tarifa social deverá obedecer a prazos e critérios que preservem condições mínimas de manutenção da saúde das pessoas atingidas."
+      },
+      {
+        "letra": "E",
+        "texto": "A prestação dos serviços atenderá a requisitos mínimos de qualidade, incluindo a regularidade, a continuidade e aqueles relativos aos produtos oferecidos, ao atendimento dos usuários e às condições operacionais e de manutenção dos sistemas, de acordo com as normas regulamentares e contratuais."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3261548",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Delegação dos Serviços Públicos - Concessão e Permissão"
+    ],
+    "enunciado_principal": "Determinado ente federativo, entendendo que seria mais eficiente e melhor para o interesse público, pretende delegar a terceiros a execução de certos serviços públicos de sua titularidade. Assim, acerca do regime de concessão, autorização e permissão de serviços públicos, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A tarifa do serviço público concedido será fixada unilateralmente pelo poder concedente de modo a atender ao interesse público e a qualidade dos serviços."
+      },
+      {
+        "letra": "B",
+        "texto": "Incumbe ao poder público a prestação de serviços públicos diretamente ou, indiretamente, por meio de autorização, permissão ou concessão, sempre precedido de licitação nesses casos."
+      },
+      {
+        "letra": "C",
+        "texto": "A permissão de serviço público é a delegação, a título precário, mediante licitação, da prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que demonstre capacidade para seu desempenho, por sua conta e risco."
+      },
+      {
+        "letra": "D",
+        "texto": "Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, podendo haver a atenuação da responsabilidade, caso se apure a fiscalização exercida pelo órgão competente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3261406",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: AGEVAP - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Serviços Públicos",
+      "Consórcios públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "A Lei Estadual nº 10.843/2001 define as entidades públicas e privadas que poderão receber recursos hídricos do Fundo Estadual de Recursos Hídricos do Estado de São Paulo. Segundo essa lei, NÃO pode habilitar-se à obtenção de recursos, por intermédio de financiamento reembolsáveis ou não, os(as):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consórcios intermunicipais."
+      },
+      {
+        "letra": "B",
+        "texto": "Pessoas jurídicas de direito público."
+      },
+      {
+        "letra": "C",
+        "texto": "Concessionárias de serviços públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Entidades privadas com finalidades lucrativas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3260901",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: HEMOMINAS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "À luz da Resolução (RDC) nº 151, de 21 de agosto de 2001, que aprova o Regulamento Técnico sobre Níveis de Complexidade dos Serviços de Hemoterapia, que consta como anexo, afirma-se que os serviços de hemoterapia, por natureza de acordo, quando viabilizados por instituição da administração pública, direta ou indireta, integrante do SUS, quando ressarcido pelo SUS pelos custos de coleta, processamento, realização de testes de triagem do sangue e transfusão de hemocomponentes, com vedação de qualquer tipo de comercialização dos hemocomponentes, deverão ser classificados como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "público"
+      },
+      {
+        "letra": "B",
+        "texto": "privado"
+      },
+      {
+        "letra": "C",
+        "texto": "filantrópico"
+      },
+      {
+        "letra": "D",
+        "texto": "terceirizado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3215447",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "A respeito do conceito de serviço público, de seus elementos constitutivos e de seus princípios, julgue o item seguinte.Considera-se serviço público em sentido amplo as funções próprias desempenhadas pelos Poderes Legislativo e Judiciário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3208526",
+    "metadata": "Ano: 2025 | Banca: EDUCA | Órgão: Prefeitura de Pedras de Fogo - PB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Os serviços prestados pela administração pública ou por seus delegatórios, com base em regra, em normas de direito público, são para atender necessidades essências e secundarias da coletividade. Sobre a Competência dos Serviços Públicos, relacione: 1. Serviços Públicos Comuns. 2. Serviço Público Estadual 3. Serviço Público Municipal 4. Serviço Público Federal 5. Serviço Público Distrital ( )Titularidade da união, art. 21 da CF/88. ( )Titularidade do Estado, art. 25, §2º - ex expresso. ( )Titularidade do DF. ( )Titularidade dos municípios – art. 30 da CF/88. (ex: inciso V). ( )Art. 23 da CF/88 – cabe à União, Estados e Municípios. Assinale a sequência CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 – 2 – 5 – 3 – 1."
+      },
+      {
+        "letra": "B",
+        "texto": "1 – 4 – 2 – 5 – 3."
+      },
+      {
+        "letra": "C",
+        "texto": "3 – 1 – 2 – 4 – 5."
+      },
+      {
+        "letra": "D",
+        "texto": "4 – 3 – 5 – 2 – 1."
+      },
+      {
+        "letra": "E",
+        "texto": "5 – 3 – 2 – 1 – 4."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3199079",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: Prefeitura de Sinop - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Segundo Hely Lopes Meirelles, administração pública é todo o aparelhamento do Estado, preordenado à realização de seus serviços, visando à satisfação das necessidades:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "políticas"
+      },
+      {
+        "letra": "B",
+        "texto": "coletivas"
+      },
+      {
+        "letra": "C",
+        "texto": "individuais"
+      },
+      {
+        "letra": "D",
+        "texto": "partidárias"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3194006",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Santo Augusto - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Considerando as noções básicas de Direito Administrativo, analise a definição a seguir: [...] toda atividade de oferecimento de utilidade ou comodidade material destinada à satisfação da coletividade em geral, mas fruível singularmente pelos administrados, que o Estado assume como pertinente a seus deveres e presta por si mesmo ou por quem lhe faça as vezes, sob um regime de Direito Público – portanto, consagrador de prerrogativas de supremacia e de restrições especiais – instituído em favor dos interesses definidos como públicos no sistema normativo (Bandeira de Mello, 2016, p. 699). O trecho acima apresenta a definição de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Licitação."
+      },
+      {
+        "letra": "B",
+        "texto": "Direito Administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "Relação de administração."
+      },
+      {
+        "letra": "E",
+        "texto": "Direito Subjetivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3186398",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: CRBio - 5ª Região",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Os serviços públicos constituem um relevante objeto de estudo no Direito Administrativo, pois têm como finalidade primordial satisfazer as necessidades coletivas. Nesse sentido, acerca da classificação dos serviços públicos é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Serviço universal (uti universi) é aquele inquantificável, uma vez que indivisível, prestados a usuários indeterminados/indetermináveis e remunerados via impostos ou contribuições."
+      },
+      {
+        "letra": "B",
+        "texto": "Serviços exclusivos do Estado são aqueles que não podem ser transferidos à execução de terceiros, ou seja, o Estado deverá prestá-los."
+      },
+      {
+        "letra": "C",
+        "texto": "Serviço Singular (uti singuli) é aquele quantificável, uma vez que é divisível, prestado a usuários determinados/determináveis e remunerados via taxa, tarifa ou preço público."
+      },
+      {
+        "letra": "D",
+        "texto": "Os serviços públicos impróprios são aqueles que, atendendo a necessidades coletivas, o Estado assume como seus e os executa diretamente ou indiretamente (por meio de concessionários e permissionários)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3183863",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CFO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "A respeito dos serviços públicos, bem como suas formas de delegação, julgue o item seguinte.Os eventos culturais e desportivos que beneficiam a comunidade, embora sejam relevantes para eles, são considerados serviços não essenciais.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3171709",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Porto Alegre - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "No que concerne à participação dos usuários na gestão dos serviços públicos, analise as seguintes assertivas: I. O cidadão, usuário efetivo ou potencial de serviços públicos, participa do controle e fiscalização destes, ora de forma direta, ora de forma indireta (através de conselhos), mas esta sempre é uti cives, ou seja, ele participa como portador de um interesse geral, cuja finalidade é garantir a adequada prestação dos serviços. II. A participação dos usuários na execução da prestação de serviços públicos por concessionárias e permissionárias, exclusivamente, restringe-se à colaboração para o fim de assegurar a qualidade dos serviços prestados e o resguardo dos direitos dos usuários. III. Tradicionalmente, os serviços públicos submetem-se a um regime jurídico próprio, isto é, um conjunto de normas que impõem deveres e atribuem direitos tantos aos concessionários e permissionários quanto aos usuários. Daí a doutrina falar em princípios informativos dos serviços públicos, tais como a generalidade, a continuidade, a eficiência, a segurança, a cortesia e a modicicidade, todos reconduzíveis à expressão constitucional e infraconstitucional “serviço adequado”. IV. Na elaboração das normas das agências reguladoras de serviço público, os usuários somente podem participar via audiência ou consulta pública sobre minutas de atos normativos. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas II, III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3162714",
+    "metadata": "Ano: 2025 | Banca: FCPC | Órgão: UFC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Experiência do Usuário pode ser conceituada como o sentimento que a pessoa constrói ao interagir com uma organização, seus produtos e serviços, incluindo o momento em que o sujeito pensa em adquirir, solicitar ou mesmo procurar informações, até o atendimento após o serviço (Cleaver, Ana Julieta Teodoro et al. Pesquisa com usuários: como ouvir cidadãos e empresas para melhorar seus serviços. Módulo 1. A pesquisa com usuários de serviços públicos: conceitos fundamentais. Brasília: Enap, 2020). Nesse sentido, uma experiência ótima com os serviços públicos deve possibilitar ao usuário:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obtenção gratuita de todos os serviços desejados."
+      },
+      {
+        "letra": "B",
+        "texto": "Dedicação de tempo significativo, pois a prestação adequada do serviço demanda dispêndio de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Acesso a canais de comunicação para tirar dúvidas ou reclamar sobre a atuação do órgão no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Exigência de um conjunto amplo de documentos, inclusive os que já estão em posse do governo, em razão do sigilo que apresentam."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3160221",
+    "metadata": "Ano: 2025 | Banca: Wisdom | Órgão: Prefeitura de Herval D`Oeste - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Serviços públicos são atividades reguladas ou mantidas pelo poder público que visam atender necessidades essenciais da coletividade. I. Saúde, educação e transporte. II. Fornecimento de energia elétrica, água e telefonia III. Captação e tratamento de esgoto e lixo. Está correto que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, e II apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3585206",
+    "metadata": "Ano: 2024 | Banca: SELECON | Órgão: Prefeitura de Alto Araguaia - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Os serviços executados pela Administração Pública, com o intuito de melhor compor sua organização interna, têm classificação amparada no conceito de serviços:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sociais"
+      },
+      {
+        "letra": "B",
+        "texto": "coletivos"
+      },
+      {
+        "letra": "C",
+        "texto": "administrativos"
+      },
+      {
+        "letra": "D",
+        "texto": "de utilidade pública"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3298431",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Piúma - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Delegação dos Serviços Públicos - Concessão e Permissão"
+    ],
+    "enunciado_principal": "A concessão de serviços públicos é um mecanismo pelo qual o poder público delega a execução de determinados serviços a entidades privadas, garantindo que a população tenha acesso a esses serviços essenciais. Assim, avalie as proposições: I.A concessão de serviços públicos pode ser feita para realizar um serviço público, como o fornecimento de energia elétrica. II. O poder público, na qualidade de poder concedente, perde a prerrogativa de regularmentar, controlar e fiscalizar a atuação do delegatário. III.A concessão de serviços públicos é um contrato entre a administração pública e uma empresa pública, que transfere a execução de um serviço público à empresa. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a proposição II está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a proposição III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a proposição I está correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3283415",
+    "metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: MPE-PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos"
+    ],
+    "enunciado_principal": "A Constituição Federal determina que incumbe ao Poder Público, na forma da lei, direta ou indiretamente, a prestação de serviços públicos. Acerca da forma de prestação dos serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prestação de um serviço público pode ocorrer de forma descentralizada, quando, na estrutura de uma determinada entidade, existam órgãos dotados de competência específica para a prestação daquele serviço."
+      },
+      {
+        "letra": "B",
+        "texto": "A prestação de um serviço público pode ocorrer de forma desconcentrada centralizada, quando é realizada por órgãos integrantes da administração direta dotados de competência específica para a prestação do serviço."
+      },
+      {
+        "letra": "C",
+        "texto": "A prestação de um serviço público pode ocorrer de forma desconcentrada, quando a pessoa incumbida da sua prestação é uma pessoa diferente do ente federado a que a Constituição Federal atribui a titularidade do serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "São exemplos de serviços públicos descentralizados prestados pela administração direta a coleta e a gestão de resíduos sólidos, quando executadas diretamente pelos órgãos municipais."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese da denominada desconcentração por colaboração, a prestação de um serviço público é atribuída a um particular, isto é, a uma pessoa não integrante da administração pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3269345",
+    "metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Itaguara - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Desconcentração e Descentralização Administrativa"
+    ],
+    "enunciado_principal": "Ana, moradora de Itaguara, questionou a prefeitura sobre o papel do município em relação à coleta de lixo e saneamento básico, argumentando que esses serviços deveriam ser prestados pelo governo estadual. Com base na Lei Orgânica de Itaguara, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o governo federal tem competência para organizar serviços de coleta de lixo e saneamento básico."
+      },
+      {
+        "letra": "B",
+        "texto": "A coleta de lixo e o saneamento básico são de competência exclusiva do governo estadual."
+      },
+      {
+        "letra": "C",
+        "texto": "O município de Itaguara é responsável pela prestação de serviços públicos de interesse local, incluindo a coleta de lixo e saneamento básico."
+      },
+      {
+        "letra": "D",
+        "texto": "A competência para prestação desses serviços é dividida entre o município e a União, com prioridade para o governo federal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3269275",
+    "metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Volta Grande - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Princípios dos Serviços Públicos"
+    ],
+    "enunciado_principal": "O Sistema Único de Saúde (SUS) tem como objetivos e atribuições a promoção, proteção e recuperação da saúde da população. Qual das seguintes ações está incluída no campo de atuação do Sistema Único de Saúde (SUS)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Organização de eventos esportivos."
+      },
+      {
+        "letra": "B",
+        "texto": "Desenvolvimento de novos produtos tecnológicos para o setor privado."
+      },
+      {
+        "letra": "C",
+        "texto": "Fornecimento de equipamentos de entretenimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Fiscalização e inspeção de alimentos, água e bebidas para consumo humano."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3255573",
+    "metadata": "Ano: 2024 | Banca: IBAM | Órgão: Prefeitura de Guarulhos - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Serviços Públicos",
+      "Conceito e Classificação dos Serviços Públicos",
+      "Princípios dos Serviços Públicos"
+    ],
+    "enunciado_principal": "Considerando o disposto no Decreto 7508/11, avalie as assertivas a seguir quanto à sua veracidade. ( ) O acesso universal e igualitário às ações e aos serviços de saúde será ordenado pela atenção primária e deve ser fundado na avaliação da gravidade do risco individual e coletivo e no critério cronológico, observadas as especificidades previstas para pessoas com proteção especial, conforme legislação vigente. ( ) Mapa da Saúde corresponde à descrição geográfica da distribuição de recursos humanos e de ações e serviços de saúde ofertados pelo SUS e pela iniciativa privada, considerando-se a capacidade instalada existente, os investimentos e o desempenho aferido a partir dos indicadores de saúde do sistema. ( ) A seleção e a padronização de medicamentos indicados para atendimento de doenças ou de agravos no âmbito do SUS está compreendida na Relação Nacional de Ações e Serviços de Saúde − RENASES.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, V"
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, V"
+      },
+      {
+        "letra": "C",
+        "texto": "F, F, F"
+      },
+      {
+        "letra": "D",
+        "texto": "V, V, F"
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, V"
+      }
+    ],
+    "gabarito": "D"
+  }
+]

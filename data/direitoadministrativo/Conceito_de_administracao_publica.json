@@ -1,0 +1,125 @@
+[
+  {
+    "id": "3240089",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Rio Negro - PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Regime jurídico administrativo",
+      "Conceito de administração pública"
+    ],
+    "enunciado_principal": "Conforme a doutrina, assinalar a alternativa que representa o conceito de Administração Pública Extroversa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Significa o complexo das vinculações internas envolvendo agentes públicos, órgãos estatais e entidades administrativas."
+      },
+      {
+        "letra": "B",
+        "texto": "É o conjunto de relações jurídicas externas entre o poder público e os administrados."
+      },
+      {
+        "letra": "C",
+        "texto": "É o que corresponde aos organismos internacionais."
+      },
+      {
+        "letra": "D",
+        "texto": "É a maneira com que a administração lida com os estados do exterior."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3203947",
+    "metadata": "Ano: 2025 | Banca: Prefeitura de Catas Altas - MG | Órgão: Prefeitura de Catas Altas - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Regime jurídico administrativo",
+      "Conceito de administração pública"
+    ],
+    "enunciado_principal": "No seu sentido amplo, a administração pública engloba não apenas as atividades meramente administrativas do Estado, mas também as suas ______________. No sentido amplo, além das funções administrativas, a Administração pública elabora _____________ por meio dos órgãos do governo, estabelecendo diretrizes e programas de ação governamental, planos de atuação do governo e fixação das políticas públicas. No sentido estrito, a Administração pública restringe-se ao conjunto de órgãos e agentes estatais que exercem a atividade meramente administrativa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atividades políticas e políticas públicas."
+      },
+      {
+        "letra": "B",
+        "texto": "ações governamentais e conjunto de órgãos."
+      },
+      {
+        "letra": "C",
+        "texto": "decisões e plano de governo."
+      },
+      {
+        "letra": "D",
+        "texto": "Normas e atos de caráter administrativo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3171700",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Porto Alegre - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Regime jurídico administrativo",
+      "Conceito de administração pública"
+    ],
+    "enunciado_principal": "Em relação ao conceito de Administração Pública sob os aspectos orgânico, formal e material, analise as seguintes assertivas: I. Em sentido orgânico, a Administração Pública é caracterizada pelas pessoas políticas públicas, pelos órgãos do Executivo e pelas pessoas administrativas lato sensu, mas não por órgãos do Legislativo e do Judiciário. II. Em termos materiais, caracteriza a Administração Pública o poder de polícia, a administração ordenadora, a prestação de serviços públicos, a intervenção, o fomento, e a participação na atividade econômica privada. III. Quanto ao regime jurídico da Administração (conceito formal), descrito no art. 37, caput, da Constituição da República, o princípio da legalidade determina que a Administração somente poderá executar as leis elaboradas pelo Poder Legislativo. IV. O princípio da publicidade, entendido como dever de transparência, exterioriza a impessoalidade (na modalidade da imparcialidade). Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas III e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3231562",
+    "metadata": "Ano: 2024 | Banca: AMEOSC | Órgão: Prefeitura de Tunápolis - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Regime jurídico administrativo",
+      "Conceito de administração pública"
+    ],
+    "enunciado_principal": "O conceito de administração pública envolve a organização e o funcionamento estatal, com o objetivo de alcançar o interesse público. Dentro dessa perspectiva, considere as seguintes afirmativas sobre a administração pública: I.A administração pública direta compreende as autarquias, fundações públicas, empresas públicas e sociedades de economia mista, que são criadas para desempenhar funções de natureza técnica, científica ou econômica. II.A administração pública indireta é composta por ministérios, secretarias, e demais órgãos da União, dos Estados, do Distrito Federal e dos Municípios, responsáveis pela execução direta das políticas públicas. III.O conceito de administração pública envolve tanto o exercício da função administrativa pelo Estado quanto a prestação de serviços públicos delegados a particulares, como ocorre nos casos de concessão e permissão.Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a afirmativa III está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas II e III estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

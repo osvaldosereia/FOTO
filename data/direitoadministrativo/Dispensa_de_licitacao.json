@@ -1,0 +1,124 @@
+[
+  {
+    "id": "3299752",
+    "metadata": "Ano: 2025 | Banca: FUVEST | Órgão: USP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Dispensa de licitação"
+    ],
+    "enunciado_principal": "No âmbito da Lei nº 8.666/1993, em quais hipóteses a licitação pode ser dispensável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando há inviabilidade de competição."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando ocorre emergência ou calamidade pública, comprometendo a segurança de pessoas ou bens."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o objeto licitado é de baixo valor e não compromete o orçamento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando houver necessidade de adquirir bens de um fornecedor específico, independentemente de justificativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando a Administração desejar contratar diretamente empresas de sua preferência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3262621",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Dispensa de licitação",
+      "Inexigibilidade de licitação"
+    ],
+    "enunciado_principal": "A Hemobrás necessita adquirir certo equipamento. Efetuada a devida pesquisa de mercado, os funcionários responsáveis pelo processo de aquisição se defrontaram com as seguintes circunstâncias: • Existência de três diferentes representantes comerciais exclusivos, em território brasileiro, de três diferentes marcas de equipamentos similares que atendem às exigências da empresa; • Por se tratar de equipamentos muito específicos, além da aquisição será necessária a contratação de serviços técnicos especializados para manutenção preventiva e corretiva dos equipamentos; • Contratação de serviços para treinamento e aperfeiçoamento dos funcionários da empresa que trabalharão diretamente com os equipamentos a serem adquiridos; • Os três diferentes representantes comerciais anunciam que os equipamentos podem ser adquiridos isoladamente ou conjuntamente com os serviços de manutenção preventiva e corretiva e com os serviços de treinamento dos funcionários, de acordo com a necessidade e pelo tempo exigido pela empresa adquirente; • As condições de garantias, instalações, transporte e prazos de entregas são relativamente similares e atendem às exigências da empresa; • Os representantes comerciais exclusivos estão localizados em diferentes unidades da federação. Um deles se localiza a 340 km, outro a 2.660 Km e outro a 2.370 Km de distância da empresa. Considerando unicamente as informações disponibilizadas no caso hipotético e as disposições do Regulamento de Licitações e Contratos da Hemobrás, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As circunstâncias apresentadas evidenciam inviabilidade de competição, devendo ser adotada a inexigibilidade de licitação para aquisição do equipamento e dos serviços."
+      },
+      {
+        "letra": "B",
+        "texto": "Deverá ser adotado processo de contratação direta, dando especial atenção ao instrumento de formalização da demanda, de acordo com a política de compras e contratações da Hemobrás."
+      },
+      {
+        "letra": "C",
+        "texto": "Diante das circunstâncias apresentadas, é dispensável a realização de licitação para fornecimento do bem e dos serviços, pois ambos envolvem, cumulativamente, alta complexidade tecnológica, sendo exigível apenas autorização do dirigente máximo da empresa."
+      },
+      {
+        "letra": "D",
+        "texto": "Para aquisição do equipamento deverá ser adotado procedimento licitatório pertinente, em que serão utilizados, preferencialmente, editais padronizados. No que tange à contratação dos serviços, em sendo possível, deve ser adotada unidade de medida que permita a mensuração dos resultados para o pagamento da contratada, e que elimine a possibilidade de remunerar as empresas com base na quantidade de horas de serviço ou por postos de trabalho."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261326",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Dispensa de licitação"
+    ],
+    "enunciado_principal": "A Hemobrás necessita de um local para o armazenamento de insumos, o qual, por questões técnicas, deve obrigatoriamente estar próximo de um laboratório específico. Feita a análise das opções de imóveis na cidade e da proximidade do laboratório, foi identificado um imóvel, que está desocupado e atende a todas as questões técnicas necessárias à sua finalidade, a qual é precípua e emergencial por uma questão de saúde pública. O laudo sobre o imóvel corretamente feito indica que não existem outros imóveis na região que atendam à necessidade técnica para o armazenamento dos insumos e que esteja próximo do laboratório, informando que é, a princípio, a única opção viável para o armazenamento dos tais insumos. Para comprar o imóvel em questão, a Hemobrás:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não precisará fazer licitação, desde que o valor do imóvel não ultrapasse a R$ 1.000.000,00, que seja destinado ao atendimento de suas finalidades precípuas e exista laudo válido, indicando que apenas esse imóvel atende às especificações para a aquisição."
+      },
+      {
+        "letra": "B",
+        "texto": "Não precisará fazer licitação, sendo hipótese de dispensa de licitação, uma vez que o imóvel seja destinado ao atendimento de suas finalidades precípuas, quando as necessidades de instalação e localização condicionarem a escolha do imóvel, desde que o preço seja compatível com o valor de mercado, segundo avaliação prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode fazer a aquisição livre do imóvel, pois a instituição é regida por normas legais de direito privado, ainda que seja uma empresa pública, segundo seu ato de criação, Lei nº 10.972/2004, art. 1º. Desta feita, embora esteja sujeito a certas regras de direito público, a gestão do seu negócio, o qual abrange a compra e/ou locação de imóveis para sua atividade-fim, não estão sujeitas às regras de licitação."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve obrigatoriamente abrir processo licitatório, fazendo a indicação das características que o imóvel deve possuir. No caso, ainda que a única proposta que possa ser apresentada, a qual atenda à exigência do edital, seja relativa ao imóvel já identificado, sem que exista o processo licitatório, os princípios da publicidade, eficiência e livre concorrência não seriam observados, impedindo a aquisição do imóvel."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3283975",
+    "metadata": "Ano: 2024 | Banca: IDESG | Órgão: Prefeitura de Mantenópolis - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Dispensa de licitação",
+      "Inexigibilidade de licitação"
+    ],
+    "enunciado_principal": "Na dispensa, a licitação é materialmente possível, mas em regra inconveniente, enquanto na inexigibilidade, é inviável a própria competição. Considerando o que a Lei de Licitações dispõe, assinale a alternativa que apresenta um dos casos em que a licitação é inexigível:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contratação de serviços de publicidade para promoção de campanhas institucionais."
+      },
+      {
+        "letra": "B",
+        "texto": "Contratação de profissional do setor artístico consagrado pela crítica, desde que representado por empresário exclusivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquisição de imóveis disponíveis no mercado, sem necessidade de comprovação de singularidade ou exclusividade."
+      },
+      {
+        "letra": "D",
+        "texto": "Contratação de serviços técnicos especializados para o desenvolvimento de ações operacionais rotineiras e de baixa complexidade."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "id": "3294444",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: PC-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Qual o prazo de validação da certidão eletrônica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "60 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "45 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "90 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "15 dias."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3286145",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "A Prefeitura de Serra Branca publicou um decreto regulamentando o funcionamento do comércio local. No entanto, logo após sua edição, um grupo de comerciantes questionou sua validade, alegando que o decreto contrariava normas federais já existentes. Com base no conceito de validade dos atos administrativos e na doutrina de Hans Kelsen, qual é a principal característica de um ato administrativo válido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser editado em conformidade com o sistema jurídico vigente."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode contrariar normas superiores, desde que beneficie o interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode conter vícios, desde que tenha sido assinado por uma autoridade competente."
+      },
+      {
+        "letra": "D",
+        "texto": "Só pode ser considerado inválido se houver manifestação do Poder Judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "A validade de um ato administrativo independe de sua conformidade com a ordem jurídica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3284052",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, acerca dos atos administrativos. O ato administrativo perfeito é aquele que está em condições de produzir efeitos jurídicos, sendo um ato administrativo válido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3282530",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: Prefeitura de Sinop - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Contratos Administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo",
+      "Conceito e Características"
+    ],
+    "enunciado_principal": "O ato administrativo é dotado dos atributos de perfeição, de validade e de eficácia. Um contrato administrativo, celebrado sem licitação, fora das hipóteses permitidas pela lei, que foi declarado nulo após três meses de execução, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imperfeito, válido e ineficaz"
+      },
+      {
+        "letra": "B",
+        "texto": "imperfeito, válido e eficaz"
+      },
+      {
+        "letra": "C",
+        "texto": "perfeito, inválido e eficaz"
+      },
+      {
+        "letra": "D",
+        "texto": "perfeito, válido e eficaz"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3260895",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: HEMOMINAS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "O Governador do Estado de Minas Gerais pretende, mediante ato exclusivo do Poder Executivo do respectivo Estado, expedir Portaria para autorizar a criação de novos cargos que se integrarão às Secretarias do Estado de Educação e de Finanças. Nesse contexto, afirme-se com base nas regras previstas na Lei nº 869, de 05 de julho de 1952, que dispõe sobre o Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais, que o referido ato a ser praticado pelo referido Governador é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "legal"
+      },
+      {
+        "letra": "B",
+        "texto": "ilegal"
+      },
+      {
+        "letra": "C",
+        "texto": "constitucional"
+      },
+      {
+        "letra": "D",
+        "texto": "inconstitucional"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3254480",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Princípios - Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "O prefeito municipal, em primeira investidura, nomeou sua companheira, com a qual convive há cinco anos e tem dois filhos, para cargo de confiança na prefeitura. Alertado sobre vícios em seu ato, o qual é enquadrável como nepotismo, argumentou que os dois nunca oficializaram casamento ou união estável e que não conhece pessoa melhor e mais confiável para exercer o cargo. Além do mais, certificou-se, previamente, que inexiste lei municipal que proíba a nomeação da companheira para cargo comissionado. Considerando a situação hipotética e os princípios que regem a Administração Pública, analise as afirmativas a seguir. I. A vedação do nepotismo não exige a edição de lei formal para coibir a prática, pois decorre diretamente de afronta aos princípios contidos na Carta Magna. II. O conceito de parentesco para efeitos da verificação de ocorrência de nepotismo não se limita ao Código Civil, pois busca- -se a vigência absoluta do princípio da impessoalidade. Isso porque o problema não é definir quais são os parentes para efeitos civis, mas definir quais aquelas pessoas que, sob a classe de parentela, tendem a ser escolhidas, não por interesse público, mas por interesse de caráter pessoal. III. Quando o ato de nomeação para cargo comissionado tiver finalidade contrária ao interesse público, o ato deve ser invalidado, por violação ao princípio da moralidade administrativa e por estar caracterizada a sua ilegalidade, por desvio de finalidade. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3174772",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TCE-RR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Conceito e classificação dos atos administrativos",
+      "Atributos do ato administrativo – presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "No âmbito dos atributos dos atos administrativos existe aquele que costuma ser indicado como fundamento para a inversão do ônus da prova, no sentido de que caberá ao administrado demonstrar a ilegalidade do ato administrativo. Nesse contexto, o mencionado atributo é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presunção de veracidade, em razão do qual se presumem verdadeiros os fatos alegados pela Administração."
+      },
+      {
+        "letra": "B",
+        "texto": "autoexecutoriedade, que é condizente com a noção de que há conformidade do ato editado com os parâmetros estabelecidos em lei."
+      },
+      {
+        "letra": "C",
+        "texto": "imperatividade, segundo o qual a Administração pode levar a efeito as suas determinações sem a intervenção do Poder Judiciário."
+      },
+      {
+        "letra": "D",
+        "texto": "vinculação, considerando os parâmetros estabelecidos em lei para a definição do mérito administrativo."
+      },
+      {
+        "letra": "E",
+        "texto": "supremacia do interesse público, que, consoante explícito na Constituição, determina que a vontade da Administração deve prevalecer sobre a do administrado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3170017",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "No tocante aos princípios e aos poderes da administração pública, julgue o item a seguir.A omissão ou a observância incompleta ou irregular de formalidades indispensáveis à existência ou seriedade do ato administrativo configura o desvio de finalidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3164363",
+    "metadata": "Ano: 2025 | Banca: ACAFE | Órgão: Câmara de Caibi - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Ao revisar um ato administrativo da Câmara Municipal, o secretário legislativo identificou que faltava motivação explícita para a decisão tomada. Por que a motivação é essencial nos atos administrativos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Porque elimina a necessidade de análise por outros órgãos de controle."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque permite que a autoridade tome decisões sem explicação."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque garante transparência, justificando a legalidade e a finalidade do ato."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque facilita a aprovação automática de decisões pela população."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3162475",
+    "metadata": "Ano: 2025 | Banca: Unesc | Órgão: FESPORTE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Os atos administrativos são instrumentos essenciais para a concretização das atividades da administração pública. Eles possuem requisitos fundamentais que garantem sua validade e eficácia. Analise as afirmações a seguir e marque-as como Verdadeiras (V) ou Falsas (F): (__)Competência. (__)Forma. (__)Motivo. (__)Finalidade. Após análise, assinale a alternativa que apresenta a sequência correta dos itens acima, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V, V, V."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, F, F."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3298479",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Piúma - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Definições gerais, direitos e deveres dos administrados",
+      "Existência, Validade e Eficácia do Ato Administrativo",
+      "Demais aspectos da lei 9.784/99"
+    ],
+    "enunciado_principal": "A Lei nº 9.784, estabelece normas gerais sobre o processo administrativo no âmbito da Administração Pública Federal. Essa legislação é fundamental para assegurar a transparência, a eficiência e a equidade nas relações entre o Estado e os cidadãos. Com base nos dispositivos desta lei, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O administrado, dentre outros, tem o seguinte direito perante a Administração, sem prejuízo de outros que lhe sejam assegurados: fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei."
+      },
+      {
+        "letra": "B",
+        "texto": "A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos."
+      },
+      {
+        "letra": "C",
+        "texto": "O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos administrativos que neguem, limitem ou afetem direitos ou interesses não precisarão ser motivados."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3248761",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "No exercício de suas atribuições, Durvalina precisa apreciar diversos processos administrativos, há muito represados no órgão em que atua, os quais versam sobre a validade de atos administrativos. Diante dessa situação hipotética, à luz do disposto na Lei nº 9.784/99, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Administração tem o prazo de dez anos para revogar os atos administrativos eivados de nulidade insanável e o mesmo prazo para convalidar os vícios sanáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há prazo para a Administração exercer o direito de anular os atos eivados de vícios insanáveis, aplicando-se o prazo de cinco anos apenas para os defeitos sanáveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Na análise da validade de atos que gerem efeitos patrimoniais contínuos, o prazo decadencial de cinco anos deve ser contado do primeiro pagamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos que apresentam vícios insanáveis poderão ser convalidados pela própria Administração a qualquer tempo, ainda que importem em prejuízos a terceiros."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de o ato não apresentar vícios, ainda será possível à Administração promover a sua anulação em decorrência de motivo de conveniência e oportunidade, a qualquer tempo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3248544",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Teoria das nulidades",
+      "Requisitos do ato administrativo – competência, finalidade, forma, motivo e objeto",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Os atos administrativos devem obedecer a regras específicas para garantir sua validade, caso contrário, podem apresentar vícios que os tornam passíveis de invalidação. No entanto, dependendo do elemento afetado pelo vício, é possível sua correção. Nesse sentido, com base no arcabouço legal, é possível sanar o vício",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de forma, desde que realizado por algum Chefe de Poder."
+      },
+      {
+        "letra": "B",
+        "texto": "de competência, desde que não seja exclusiva de uma autoridade."
+      },
+      {
+        "letra": "C",
+        "texto": "de motivo, desde que o ato não prejudique terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "de objeto, desde não seja vedado expressamente por lei."
+      },
+      {
+        "letra": "E",
+        "texto": "de finalidade, desde que não se trate de abuso de poder."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3233122",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Um servidor público apresentou requerimento pleiteando a concessão de uma gratificação que entendia fazer jus, ante a comprovação de determinado tempo de serviço público. O requerimento ensejou a autuação de um processo administrativo, que tramitou pelos órgãos técnicos para que fossem colhidas as informações pertinentes, tendo a autoridade competente, ao final, indeferido o pedido. À decisão, entretanto, não foi publicada no Diário Oficial, tampouco dela foi cientificado o servidor. Passado tempo considerável, o servidor pediu vistas do processo, quando teve ciência da decisão e, então, apresentou recurso contra o indeferimento, alegando nulidade, por ausência de publicação do ato. À alegação do servidor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é procedente, tendo em vista que a ausência de publicação do ato impediu a formação do ato administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "não procede, caso o recurso tenha sido processado, pois não se caracterizou prejuízo ao servidor o que, embora não tenha sido intimado, teve êxito em exercer seu direito de recorrer."
+      },
+      {
+        "letra": "C",
+        "texto": "é procedente, cabendo-lhe a outorga da gratificação por meio de obrigação e fazer."
+      },
+      {
+        "letra": "D",
+        "texto": "não é procedente, tendo em vista que a publicidade é requisito de eficácia dos atos administrativos somente quando destinados a interessados externos Administração Pública."
+      },
+      {
+        "letra": "E",
+        "texto": "é procedente, tendo em vista que a publicidade & condição de vigência e validade do ato administrativo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3170463",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Conceito e classificação dos atos administrativos",
+      "Extinção dos atos administrativos",
+      "Existência, Validade e Eficácia do Ato Administrativo"
+    ],
+    "enunciado_principal": "Considere a seguinte situação hipotética: Zeus, servidor público federal, pretende extinguir determinado ato administrativo, por conter ilegalidade. Já Ares, também servidor público federal, pretende extinguir determinado ato administrativo válido por razões de conveniência e oportunidade. No caso narrado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zeus deverá anular o ato e Ares deverá revogar o ato; e ambas as medidas dar-se-ão com efeitos ex tunc."
+      },
+      {
+        "letra": "B",
+        "texto": "ambos os atos deverão ser revogados."
+      },
+      {
+        "letra": "C",
+        "texto": "Zeus deverá anular o ato, com efeitos ex nunc, e Ares deverá revogar o ato. com efeitos ex tunc."
+      },
+      {
+        "letra": "D",
+        "texto": "ambos os atos deverão ser anulados."
+      },
+      {
+        "letra": "E",
+        "texto": "Zeus deverá anular o ato, com efeitos ex tunc, e Ares deverá revogar o ato, com efeitos ex nunc."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

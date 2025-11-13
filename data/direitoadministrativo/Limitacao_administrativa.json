@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3242800",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Intervenção do estado na propriedade",
+      "Limitação administrativa"
+    ],
+    "enunciado_principal": "João possui um terreno em área urbana de Bebedouro que foi submetido a limitação administrativa, impedindo construções acima de dois andares. Essa medida é uma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "limitação administrativa, que não exige indenização, salvo em casos de dano efetivo."
+      },
+      {
+        "letra": "B",
+        "texto": "imposição do poder de polícia, que exige autorização judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "desapropriação indireta, sujeita a indenização."
+      },
+      {
+        "letra": "D",
+        "texto": "restrição inconstitucional aos direitos de propriedade."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

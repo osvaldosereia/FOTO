@@ -1,0 +1,273 @@
+[
+  {
+    "id": "3282627",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ICMBIO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Lucas, com sessenta e dois anos de idade, formalizou requerimento administrativo perante autoridade vinculada a uma autarquia federal. Dez dias após concluída a instrução do processo administrativo, como ainda não havia sido proferida a decisão do requerimento, Lucas interpôs recurso administrativo dirigido ao superior da autoridade a quem encaminhara o pedido e impetrou mandado de segurança sob a alegação de ilegalidade administrativa por omissão, já que não fora proferida decisão administrativa no prazo legal, especialmente por ser uma pessoa idosa. Com base na situação hipotética precedente e na lei que regula o processo administrativo no âmbito da administração pública, julgue o item seguinte. A interposição do recurso foi realizada conforme previsão legal, segundo a qual o recurso administrativo deverá ser dirigido à autoridade superior da que tenha praticado ou deveria ter praticado o ato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3274840",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Prefeitura de Itumbiara - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Segundo a Lei n° 9.784/1999, as decisões administrativas podem ser impugnadas por meio de recurso. Esse recurso pode ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impetrado por qualquer pessoa, no prazo de dez dias, contados em dias úteis, a partir da data de publicação da decisão em diário oficial do ente correspondente."
+      },
+      {
+        "letra": "B",
+        "texto": "interposto pelo interessado, no prazo de trinta dias, contados em dias contínuos, a partir da ciência ou divulgação oficial da decisão recorrida."
+      },
+      {
+        "letra": "C",
+        "texto": "interposto pela parte do processo, no prazo de dez dias, contados em dias contínuos, a partir da ciência ou divulgação oficial da decisão recorrida."
+      },
+      {
+        "letra": "D",
+        "texto": "impetrado por qualquer pessoa, no prazo de trinta dias, contados em dias contínuos, a partir da data de publicação da decisão em diário oficial do ente correspondente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3264421",
+    "metadata": "Ano: 2025 | Banca: UFSC | Órgão: UFSC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Início e interessados no processo administrativo, delegação e avocação de competências",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Acerca da Lei nº 9.784, de 29 de janeiro de 1999, que regula o processo administrativo no âmbito da Administração Pública Federal, analise as afirmativas a seguir e assinale a alternativa correta. I. Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhes sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial, como, por exemplo, a edição de atos de caráter normativo. II. É impedido de atuar em processo administrativo o servidor que esteja litigando administrativamente com o interessado ou respectivo cônjuge. III. Pode ser arguida a suspeição do servidor que tenha inimizade notória com parente de terceiro grau dos interessados, sendo que o indeferimento de alegação de suspeição poderá ser objeto de recurso, com efeito suspensivo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa II está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a afirmativa III está correta."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3224045",
+    "metadata": "Ano: 2025 | Banca: IBFC | Órgão: UFPB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Sobre os efeitos do recurso administrativo, assinale a alternativa correta de acordo com a Lei nº 9.784/1999.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há que se falar em efeitos do recurso administrativo, uma vez que ele não é previsto na Lei 9.784/1999"
+      },
+      {
+        "letra": "B",
+        "texto": "O recurso administrativo é dotado de efeito suspensivo em todos os casos"
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo disposição legal em contrário, o recurso não tem efeito suspensivo"
+      },
+      {
+        "letra": "D",
+        "texto": "O recurso será sempre conhecido pela autoridade superior, ainda que interposto intempestivamente"
+      },
+      {
+        "letra": "E",
+        "texto": "Como regra, é de 15 dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3195881",
+    "metadata": "Ano: 2025 | Banca: CEFET-MG | Órgão: CEFET-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Definições gerais, direitos e deveres dos administrados",
+      "Início e interessados no processo administrativo, delegação e avocação de competências",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Leia as afirmativas abaixo, que tratam do processo administrativo no âmbito da Administração Pública Federal, e preencha as lacunas. Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo máximo de _________, salvo se outro prazo for legalmente fixado. Concluída a instrução de processo administrativo, a Administração tem o prazo de até _________ para decidir, salvo prorrogação por igual período expressamente motivada. Salvo disposição legal específica, é de _________o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida. Assinale a alternativa que apresenta o preenchimento correto das lacunas, de acordo com os prazos previstos na Lei nº 9.784/1999, que regula o processo administrativo no âmbito da Administração Pública Federal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trinta dias; trinta dias; dez dias."
+      },
+      {
+        "letra": "B",
+        "texto": "dez dias; dez dias; dez dias."
+      },
+      {
+        "letra": "C",
+        "texto": "dez dias; trinta dias; trinta dias."
+      },
+      {
+        "letra": "D",
+        "texto": "dez dias; trinta dias; dez dias."
+      },
+      {
+        "letra": "E",
+        "texto": "trinta dias; trinta dias; trinta dias."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3185082",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRESS-PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Definições gerais, direitos e deveres dos administrados",
+      "Início e interessados no processo administrativo, delegação e avocação de competências",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Com base na lei do processo administrativo, julgue o item a seguir. No direito administrativo, a exemplo dos ramos processuais jurisdicionais, o processo corresponde à relação jurídica em contraditório, envolvendo um consenso entre a Administração Pública e o particular administrado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3177632",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "De acordo com o disposto na Lei nº 9.784/1999, que regula o processo administrativo no âmbito da Administração Pública Federal, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial."
+      },
+      {
+        "letra": "B",
+        "texto": "O indeferimento de alegação de suspeição poderá ser objeto de recurso, com efeito suspensivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico para decidir."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando dados, atuações ou documentos solicitados ao interessado forem necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela Administração para a respectiva apresentação implicará arquivamento do processo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3277373",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: MinC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "João ingressou com um processo administrativo junto à administração pública em âmbito federal. Contudo, após a tramitação regular do feito, a autoridade administrativa proferiu decisão desfavorável aos seus interesses. Em assim sendo, João pretende interpor recurso na esfera administrativa, com base em razões de legalidade e de mérito. De acordo com a narrativa e considerando as disposições da Lei nº 9.784/1999, analise as afirmativas a seguir: I. O recurso de João será dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de trinta dias, o encaminhará à autoridade superior. II. O recurso administrativo tramitará no máximo por duas instâncias administrativas, salvo disposição legal diversa. III. Salvo exigência legal, a interposição de recurso administrativo independe de caução. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3268747",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Demais aspectos da lei 9.784/99",
+      "Recursos Administrativos no Processo Administrativo"
+    ],
+    "enunciado_principal": "Com base na Lei nº 9.784/99, que regula o processo administrativo no âmbito da Administração Pública Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As regras de impedimento para atuar em um processo administrativo aplicam‑se apenas aos detentores de mandato eletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O impedimento de autoridade por inimizade notória com o cônjuge de um interessado deve ser arguido na primeira oportunidade que a parte se pronunciar nos autos, sob pena de indeferimento."
+      },
+      {
+        "letra": "C",
+        "texto": "A autoridade pode atuar em processo administrativo mesmo se tiver interesse direto na matéria, desde que declare tal interesse no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "O indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo."
+      },
+      {
+        "letra": "E",
+        "texto": "A omissão do dever de comunicar o impedimento só constitui falta grave quando o servidor tomar decisões relevantes no processo."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

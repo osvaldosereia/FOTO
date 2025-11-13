@@ -1,0 +1,862 @@
+[
+  {
+    "id": "3606475",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRP - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Com base nessa situação hipotética e nas regras aplicáveis ao regime de contratos administrativos da Lei nº 14.133/2021, julgue o item a seguir.Caso a Administração Pública entenda ser cabível a aplicação da sanção de multa, esta não poderá ser inferior a 0,5% nem superior a 30% do valor do contrato licitado ou celebrado, sendo que, da aplicação da referida sanção, caberá recurso no prazo de 15 dias úteis, a ser contado da data da intimação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3606474",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRP - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Com base nessa situação hipotética e nas regras aplicáveis ao regime de contratos administrativos da Lei nº 14.133/2021, julgue o item a seguir.O regime jurídico dos contratos administrativos confere à Administração a prerrogativa de aplicar sanções motivadas pela inexecução total ou parcial do contrato, sendo que o atraso injustificado na execução do contrato sujeitará o contratado à multa de mora, na forma prevista em edital ou em contrato, com as limitações estabelecidas em lei, exigindo‑se, previamente, a instauração de processo de responsabilização, nos termos da Lei nº 14.133/2021.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3582744",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Com base na situação hipotética apresentada e na legislação relacionada aos contratos administrativos, julgue o item a seguir.A rescisão unilateral do contrato pela administração pública deve ser precedida de processo administrativo, ainda que motivada pela inexecução das obrigações pela construtora.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3409261",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito de gestão de contratos administrativos. Na prestação de serviços de recepção e de apoio administrativo, os servidores estão impedidos de exercer o poder de mando sobre os empregados da contratada, devendo reportar-se somente ao preposto por ela estabelecido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3409260",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito de gestão de contratos administrativos. O redimensionamento do pagamento à contratada, com base nos indicadores de desempenho contratuais, deverá sempre ocorrer quando a contratada, sem justificativa, não produzir os resultados avençados ou não executar os serviços com a qualidade mínima exigida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3409259",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito de gestão de contratos administrativos. A fiscalização setorial limita-se aos aspectos técnicos, o que garante maior eficiência nos contratos cuja execução seja descentralizada em diferentes unidades administrativas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3409258",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito de gestão de contratos administrativos. Os eventos que exijam resolução e diligência que suplantem a competência do fiscal devem ser registrados e encaminhados ao gestor do contrato, para a adoção de medidas saneadoras.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3296697",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: CRMV-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Os contratos administrativos são acordos de vontades celebrados pela Administração Pública com pessoas físicas ou jurídicas, públicas ou privadas, com o objetivo de atender a interesses públicos. Esses contratos são regidos principalmente por normas de Direito Público. Nesse sentido, o regime jurídico dos contratos administrativos instituído pela Lei nº 14.133/2021, Lei de Licitações e Contratos Administrativos, confere à Administração, em relação a eles, as prerrogativas de, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado."
+      },
+      {
+        "letra": "B",
+        "texto": "Extingui-los, unilateralmente, em qualquer caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Fiscalizar sua execução."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar sanções motivadas pela inexecução total ou parcial do ajuste."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3295405",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Nos contratos administrativos, a inexecução pode gerar rescisão e aplicação de penalidades. Identifique o enunciado que exprime corretamente esse regime:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite plena liberdade do contratado para romper o acordo sem ônus se julgar o preço insuficiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Depende de sentença judicial para qualquer rescisão, afastando a competência administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Autoriza a Administração a rescindir unilateralmente, impondo sanções proporcionais ao descumprimento e assegurando contraditório."
+      },
+      {
+        "letra": "D",
+        "texto": "Veda a aplicação de multas, pois a supremacia do interesse público já é suficiente para coibir abusos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3280329",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Conceito e Características",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Acerca de gestão e fiscalização de contratos administrativos, julgue o item que se segue. O processo de gestão do contrato gera, como saída, uma solução que produz resultados que devem atender à necessidade que desencadeou a contratação, até que haja o encerramento ou a rescisão contratual.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3280328",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Acerca de gestão e fiscalização de contratos administrativos, julgue o item que se segue. Se, em determinado contrato no qual uma Instituição Científica, Tecnológica e de Inovação (ICT) é a contratante, for comprovado falha na fiscalização do cumprimento das obrigações do contratado em relação aos encargos trabalhistas e previdenciários resultantes da execução do contrato, então, em que se pese o contratado ser responsável pelos referidos encargos trabalhistas, nesse cenário a ICT poderá responder subsidiariamente pelos encargos trabalhistas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3274225",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-AM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "De acordo com a Lei nº 14.133/2021, a Administração Pública possui uma série de prerrogativas na gestão dos contratos administrativos, garantindo a adequada execução dos serviços e o interesse público. Assinale a alternativa que NÃO constitui uma prerrogativa da Administração na gestão desses contratos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fiscalizar sua execução."
+      },
+      {
+        "letra": "B",
+        "texto": "Extingui-los, unilateralmente, nos casos especificados nessa Lei."
+      },
+      {
+        "letra": "C",
+        "texto": "Modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocupar provisoriamente, em qualquer caso, bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplicar sanções motivadas pela inexecução total ou parcial do ajuste."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3262626",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Quanto às exigências legais a serem observadas pelas empresas públicas quando da contratação de parceria público-privada, analise as afirmativas a seguir. I. É inadmissível e, portanto, vedada a celebração de contrato administrativo de concessão, na modalidade patrocinada ou administrativa, cujo valor seja inferior a R$ 10.000.000,00 (dez milhões de reais), ou cujo período de prestação do serviço seja inferior a cinco anos ou que tenha como objeto único o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública. II. Existem diretrizes a serem seguidas, dentre as quais podem ser citadas: eficiência no cumprimento das missões de Estado e no emprego dos recursos da sociedade; respeito aos interesses e direitos dos destinatários dos serviços e dos entes privados incumbidos da sua execução; responsabilidade fiscal na celebração e execução das parcerias; transparência dos procedimentos e das decisões; repartição objetiva de riscos entre as partes; sustentabilidade financeira e vantagens socioeconômicas dos projetos de parceria. III. Antes da celebração do contrato, deverá ser constituída uma sociedade de propósito específico, incumbida de implantar e gerir o objeto da parceria. A sociedade de propósito específico não poderá, em qualquer hipótese, assumir a forma de companhia aberta. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3261616",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Licitação nas Empresas Estatais - Lei nº 13.303 de 2016 - Estatuto Jurídico da Empresa Pública e da Sociedade de Economia Mista"
+    ],
+    "enunciado_principal": "NÃO se refere a uma cláusula necessária nos contratos disciplinados pela Lei nº 13.303/2016:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O objeto e seus elementos característicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Processos operacionais internos do contratado."
+      },
+      {
+        "letra": "C",
+        "texto": "O regime de execução ou a forma de fornecimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Os casos de rescisão do contrato e os mecanismos para alteração de seus termos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3261349",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Contratos Administrativos",
+      "Tribunais de Contas",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "O cumprimento de diversos deveres pela Administração Pública (TCU) ocorre por meio de relações contratuais. A esse respeito, a jurisprudência do Tribunal de Contas da União tem servido como balizador da interpretação adequada acerca dos contratos administrativos. Nesse sentido, diante das posições da Corte de Contas Federal, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Não há direito líquido e certo à prorrogação de contrato celebrado com o poder público, mas sim mera expectativa de direito, uma vez que a decisão sobre a prorrogação do ajuste se insere no âmbito da discricionariedade da Administração Pública. ( ) As alterações do objeto contratado por empresa estatal devem estar embasadas em pareceres e estudos técnicos pertinentes, contemplando estudos de quantitativos e valores dos itens aditados, inclusive com pesquisas de mercado para justificar a economicidade do termo de aditamento contratual. ( ) A simples prorrogação da vigência de contratos de natureza continuada dispensa a obrigação de se perseguir novamente a situação mais vantajosa para a Administração. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, V."
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "F, F, V."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, F."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3261340",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Conceito e Características",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Determinado município decide fazer uma Parceria Público-Privada (PPP) para implementar projetos de infraestrutura. Para tanto, tomou as seguintes medidas; analise-as. I. Realizou licitação na modalidade concorrência de modo a poder firmar um contrato de concessão patrocinada, uma vez que, adicionalmente à tarifa cobrada dos usuários, haverá contraprestação pecuniária do parceiro público ao parceiro privado. II. O valor da concessão pretendida é de quinze milhões de reais, tendo sido previsto um prazo de vigência contratual de quarenta anos para que haja a amortização e permita a fixação de uma tarifa módica. III. Fixou-se no contrato de concessão a possibilidade de emissão de empenho em nome dos financiadores do projeto em relação às obrigações pecuniárias da Administração Pública. À luz do regime das Parcerias Público-Privadas (PPP) estão corretas as medidas constantes em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3261339",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Definições gerais, direitos e deveres dos administrados",
+      "Contratos Administrativos",
+      "Demais aspectos da lei 9.784/99",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Um gestor público está analisando a possibilidade de aplicar sanções administrativas a um contratado que não cumpriu as cláusulas do contrato. Sobre os princípios que deverão ser observados nesse processo, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aplicação de sanções deve observar os princípios da legalidade, proporcionalidade, ampla defesa e contraditório."
+      },
+      {
+        "letra": "B",
+        "texto": "As sanções podem ser aplicadas sem a necessidade de notificação prévia, pois a Administração tem autonomia total."
+      },
+      {
+        "letra": "C",
+        "texto": "As sanções devem ser aplicadas apenas em casos de descumprimento de prazos, sem considerar outras cláusulas contratuais."
+      },
+      {
+        "letra": "D",
+        "texto": "O gestor pode aplicar sanções de forma arbitrária, desde que a Administração considere que a conduta do contratado foi inadequada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3261336",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Um gestor público deverá decidir sobre a possibilidade de rescisão de um contrato administrativo. Acerca do fundamento legal que deve ser considerado para essa decisão, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A rescisão deve ocorrer apenas em casos de descumprimento de prazos de pagamento por parte do contratado."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma decisão unilateral que não precisa ser notificada ao contratado, pois a Administração tem total autonomia."
+      },
+      {
+        "letra": "C",
+        "texto": "A rescisão pode ser feita a qualquer momento, independentemente de justificativa, desde que haja interesse da Administração."
+      },
+      {
+        "letra": "D",
+        "texto": "A rescisão deve ser fundamentada em situações específicas, como inexecução total ou parcial do contrato, e deve seguir o devido processo legal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261335",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Contratos Administrativos",
+      "Responsabilidade do Estado por atos omissivos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Considere que certo servidor público está responsável pela fiscalização de um contrato de terceirização de serviços. Durante a execução, foram identificados danos a terceiros. Sobre a responsabilidade do contratado e da Administração Pública, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade é exclusiva do contratado, que deve arcar com todos os danos causados a terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade é compartilhada, mas a Administração Pública não pode ser responsabilizada em nenhum caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há responsabilidade, pois a execução do contrato é de inteira responsabilidade do contratado e a Administração não tem envolvimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração Pública também pode ser responsabilizada se houver falha na fiscalização do contrato e se os danos forem decorrentes de sua omissão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261333",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Considere que um gestor está avaliando a possibilidade de prorrogação de um contrato administrativo. Segundo a legislação vigente, e, ainda, os critérios necessários, é correto afirmar que essa prorrogação deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ser feita automaticamente, independentemente do desempenho do contratado."
+      },
+      {
+        "letra": "B",
+        "texto": "Ser feita apenas se houver um aumento no valor contratual, independentemente da execução."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorrer somente se o contratado solicitar, não sendo necessária a análise da Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Ser justificada com base na continuidade do interesse público, no cumprimento das obrigações contratuais e na conveniência administrativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3261332",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Contratos Administrativos",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Demais aspectos da lei 9.784/99",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Determinado servidor público responsável pela fiscalização de um contrato administrativo identificou diversas irregularidades na sua execução. Considerando os princípios da Administração Pública, qual procedimento ele deverá seguir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar as irregularidades apenas para o setor jurídico, sem tomar outras providências."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorar as irregularidades, pois a empresa contratada é de boa reputação e a fiscalização pode prejudicar a relação."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar sanções administrativas imediatamente, sem a necessidade de notificação, uma vez que as irregularidades são evidentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Elaborar um relatório detalhado das irregularidades e notificar o contratado, concedendo prazo para a regularização antes de aplicar sanções."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3216447",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Um servidor público foi designado para elaborar um relatório sobre a execução de determinado contrato de prestação de serviços de limpeza em prédios públicos. Ao realizar a análise, ele constatou que a empresa contratada não estava cumprindo as normas de segurança e saúde do trabalho, colocando em risco a integridade dos servidores e usuários dos prédios. Além disso, ele percebeu que a empresa não estava realizando os pagamentos devidos aos seus trabalhadores. Diante dessa situação, considerando sua responsabilidade e a legislação vigente, o servidor deverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar uma nova vistoria apenas após o término do contrato, para evitar conflitos com a empresa."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorar as irregularidades, pois a empresa já prestava serviços anteriormente e é conhecida pela administração."
+      },
+      {
+        "letra": "C",
+        "texto": "Propor a rescisão do contrato imediatamente, sem aguardar uma análise mais aprofundada das irregularidades."
+      },
+      {
+        "letra": "D",
+        "texto": "Comunicar a situação apenas verbalmente aos superiores, sem necessidade de formalização, para evitar burocracia."
+      },
+      {
+        "letra": "E",
+        "texto": "Elaborar um relatório detalhado sobre as irregularidades e encaminhá-lo à administração, para que sejam tomadas as devidas providências, incluindo a possibilidade de rescisão do contrato."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3299390",
+    "metadata": "Ano: 2025 | Banca: Prefeitura de Catas Altas - MG | Órgão: Prefeitura de Catas Altas - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Na hipótese de contratação de terceiros (empresa ou profissional) para assistir e subsidiar o fiscal do contrato de uma obra:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado."
+      },
+      {
+        "letra": "B",
+        "texto": "A empresa ou profissional contratado não assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas."
+      },
+      {
+        "letra": "C",
+        "texto": "A empresa ou profissional contratado poderá exercer atribuição própria e exclusiva de fiscal de contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "A empresa ou profissional contratado não poderá firmar termo de compromisso de confidencialidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3262326",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Durante uma análise de contratos administrativos, um gestor público se depara com cláusulas que preveem a possibilidade de rescisão unilateral. Essa rescisão pode ser motivada por diversas razões, como interesse público ou descumprimento contratual. Qual das afirmativas a seguir relacionadas reflete corretamente as condições para a rescisão unilateral de um contrato administrativo, segundo a legislação vigente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É permitida apenas em casos de inadimplemento, e deve ser precedida de notificação formal ao contratado."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve ser precedida de aviso prévio e, ainda, estar fundamentada em razões de interesse público, conforme previsão legal."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ocorrer a qualquer momento, desde que haja conveniência administrativa, sem necessidade de justificativa formal."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode ser realizada se o contrato tiver sido celebrado por tempo indeterminado, independentemente das condições contratuais."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3151131",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: Câmara de Calumbi - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "O controle da execução de contratos é uma tarefa que envolve a fiscalização e o acompanhamento do cumprimento do contrato, de acordo com as cláusulas e normas estabelecidas. I.A fiscalização da execução de contratos deve ser realizada por um representante da Administração Pública, designado pelo Ordenador de Despesas (OD). II.O profissional responsável pela execução de contratos deve garantir que o contrato seja cumprido de forma correta, verificando a prestação dos serviços e a alocação dos recursos. III.Para auxiliar o representante da Administração, não deve ser contratados terceiros para fornecer informações ainda que relevantes para não prejudicar o processo. Após análise, marque a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens II e III estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os itens I, II e III estão corretos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3357337",
+    "metadata": "Ano: 2024 | Banca: CETAP | Órgão: SEOP-PA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Sobre os contratos administrativos, leia os itens a seguir: I- Contratos relativos a direitos reais sobre imóveis serão formalizados por escritura pública lavrada em notas de tabelião, cujo teor deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial. II- Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato. III- O contratado terá direito à extinção do contrato diante da suspensão de execução, por ordem escrita da Administração, por prazo superior a 2 (dois) meses. IV- É dever da Administração, quando o convocado não assinar o termo de contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor. Estão corretos apenas os itens:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3329552",
+    "metadata": "Ano: 2024 | Banca: FIOCRUZ | Órgão: FIOCRUZ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "A Instrução Normativa nº 05/2017, que dispõe sobre as regras e diretrizes do procedimento de contratação de serviços sob o regime de execução indireta no âmbito da Administração Pública federal direta, autárquica e fundacional, trata, em seu texto, da vedação à contratação de serviços. Sobre este aspecto, ela disciplina que não serão objeto de execução indireta na Administração Pública federal direta, autárquica e fundacional, as atividades abaixo, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de apoio à fiscalização de contratos de serviços com regime de dedicação exclusiva de mão de obra, onde a realização de atos administrativos ou a tomada de decisão, por parte do contratado, é vedada."
+      },
+      {
+        "letra": "B",
+        "texto": "que envolvam a tomada de decisão."
+      },
+      {
+        "letra": "C",
+        "texto": "consideradas estratégicas para o órgão ou entidade, cuja terceirização possa colocar em risco o controle de processos e de conhecimentos e tecnologias."
+      },
+      {
+        "letra": "D",
+        "texto": "que compreendam posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle."
+      },
+      {
+        "letra": "E",
+        "texto": "inerentes às categorias funcionais abrangidas pelo plano de cargos do órgão ou entidade, salvo expressa disposição legal em contrário ou quando se tratar de cargo extinto, total ou parcialmente, no âmbito do quadro geral de pessoal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3268591",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Um dos tipos de extinção dos contratos administrativos tem, por efeito principal, a retirada de ato por motivo de inconveniência e inoportunidade administrativa. Assinale a alternativa que apresenta a correta denominação desse tipo de extinção.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cassação"
+      },
+      {
+        "letra": "B",
+        "texto": "revogação"
+      },
+      {
+        "letra": "C",
+        "texto": "caducidade"
+      },
+      {
+        "letra": "D",
+        "texto": "anulação"
+      },
+      {
+        "letra": "E",
+        "texto": "rescisão"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3231519",
+    "metadata": "Ano: 2024 | Banca: Ibest | Órgão: Prefeitura de Guaíba - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Contratos Administrativos",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "Nas disposições acerca da execução e inexecução dos contratos administrativos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a inexecução culposa do contrato administrativo pode ocorrer apenas quando o contratado age com dolo, não sendo configurada em casos de negligência."
+      },
+      {
+        "letra": "B",
+        "texto": "a teoria da imprevisão é aplicada quando eventos previsíveis e normais alteram as condições do contrato, permitindo a rescisão ou revisão contratual."
+      },
+      {
+        "letra": "C",
+        "texto": "o fato da Administração ocorre quando o contratado, por sua própria culpa, descumpre uma cláusula contratual, responsabilizando-se por todos os prejuízos causados à Administração."
+      },
+      {
+        "letra": "D",
+        "texto": "o fato do príncipe se refere a um ato lícito, de caráter geral, praticado pela Administração, que prejudica a execução do contrato e pode resultar em revisão ou rescisão contratual."
+      },
+      {
+        "letra": "E",
+        "texto": "a subcontratação pelo contratado é proibida em contratos administrativos, independentemente da autorização da Administração e da capacidade técnica do subcontratado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3223278",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Spcine - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agências Reguladoras na Organização da Administração Pública",
+      "Parcerias público-privadas",
+      "Serviços Públicos",
+      "Autarquias",
+      "Delegação dos Serviços Públicos - Concessão e Permissão",
+      "Contratos Administrativos",
+      "Cláusulas Exorbitantes e Equilíbrio Econômico-Financeiro",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade"
+    ],
+    "enunciado_principal": "O Município X possui em sua estrutura uma agência reguladora cujo objetivo é regular e fiscalizar o cumprimento da legislação por empresas concessionárias de serviços públicos, nas hipóteses em que o poder público transferiu a execução dessas atividades à iniciativa privada, por meio de contratos de concessão e parcerias público- -privadas. Além disso, há a intenção de que a entidade passe também a fiscalizar os serviços públicos que são exercidos, no Município, por empresas estatais não monopolistas. Interessado em saber como funciona e quais são os limites legais para a ação desse tipo de autarquia, o Diretor de Regulação de uma empresa estatal pede uma reunião com o jurídico para tratar do assunto. Com base na situação hipotética, na legislação federal e na jurisprudência do Supremo Tribunal Federal, o advogado presente na reunião poderá afirmar de maneira correta que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as agências reguladoras são dotadas de independência, e é possível que o legislador, para assegurar a independência de seus funcionários, impeça os servidores titulares de cargo efetivo o exercício de outra atividade profissional, inclusive gestão operacional de empresa."
+      },
+      {
+        "letra": "B",
+        "texto": "não há problema jurídico em, por lei, o ente público conferir a uma agência reguladora a competência para fiscalizar também a empresa estatal, pois nas situações tratadas no enunciado a transferência do exercício do serviço público para a entidade privada se dá por delegação e, mesmo no caso da empresa estatal, é necessário que exista um contrato regulando a relação jurídica da empresa com o titular do serviço."
+      },
+      {
+        "letra": "C",
+        "texto": "o poder normativo conferido a essas agências reguladoras é amplo, pois é válido, nesse modelo, que a lei fixe apenas as finalidades, os objetivos e a estrutura da agência. Além disso, elas podem inovar na ordem jurídica caso haja expressa ou tácita de delegação no instrumento que a cria, bem como regular determinados assuntos com base em conceitos genéricos previstos na lei instituidora."
+      },
+      {
+        "letra": "D",
+        "texto": "em relação aos contratos de concessão e parceria público-privada, o poder de regular os serviços objeto da contratação é limitado e reduzido, pois os instrumentos contratuais preveem todas as condições que regerão a relação jurídica do ponto de vista técnico, no caderno de encargos do contrato, que somente poderá ser alterado se assegurada a preservação do equilíbrio econômico-financeiro do negócio."
+      },
+      {
+        "letra": "E",
+        "texto": "o poder de fiscalização e aplicação de sanção das agências reguladoras, em geral, é amplo, pois elas possuem a prerrogativa de definir que sanções podem ser aplicadas e de que maneira os processos sancionatórios deverão ser regulados, que precisarão respeitar aos princípios do direito administrativo sancionador."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

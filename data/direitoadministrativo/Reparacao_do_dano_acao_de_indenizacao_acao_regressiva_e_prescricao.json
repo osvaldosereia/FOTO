@@ -1,0 +1,166 @@
+[
+  {
+    "id": "3592875",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição.",
+      "Previsão constitucional e elementos da responsabilidade civil objetiva do Estado"
+    ],
+    "enunciado_principal": "Matheus, particular, compareceu à sede da Comarca de Blumenau/SC, com o objetivo de participar de uma audiência de instrução no âmbito do Juizado Especial Cível. Enquanto aguardava para ingressar na sala onde o referido ato processual ocorreria, João, agente público estadual, que se encontrava laborando, derrubou, por negligência, café fervendo nos braços e pernas de Matheus, ensejando graves queimaduras. De acordo com a narrativa, analise as afirmativas a seguir. I. A responsabilidade civil do Estado de Santa Catarina é objetiva, à luz da teoria do risco administrativo. II. João responderá, subjetivamente, pelos danos causados ao particular. III. Matheus deverá propor a ação indenizatória, em litisconsórcio passivo necessário, em face do Estado de Santa Catarina e do agente público João. Nesse cenário, considerando as disposições da Constituição Federal e o entendimento doutrinário e jurisprudencial dominante, está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas;"
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas;"
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas;"
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas;"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3502232",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAU-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição."
+    ],
+    "enunciado_principal": "Acerca do controle, organização e responsabilização da administração pública, julgue o item a seguir. Caso um agente público cause, no exercício de suas funções, dano ao particular, admite-se, reconhecida a responsabilidade pelo prejuízo causado, o desconto de ofício, pela administração pública, das parcelas indenizatórias nos vencimentos do referido agente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3464360",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição.",
+      "Previsão constitucional e elementos da responsabilidade civil objetiva do Estado"
+    ],
+    "enunciado_principal": "Acerca do regime jurídico administrativo, dos poderes da administração pública e da responsabilidade civil do Estado, julgue o item que se segue.A administração pública somente terá direito de regresso contra o agente responsável pelo ato que ocasionou a responsabilidade civil do Estado quando demonstrar o dolo ou a culpa do agente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3298877",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Cerro Grande - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição."
+    ],
+    "enunciado_principal": "Carlos, com 16 anos de idade, foi atropelado por um veículo pertencente ao Município de Cerro Grande e sofreu alguns danos físicos. A vítima pretende ajuizar demanda indenizatória por danos morais em relação ao Município. Sobre o assunto, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos deverá ser representado por seus pais na referida demanda judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo prescricional para Carlos exercer a sua pretensão reparatória em relação ao Município é de três anos, mas somente começará a contar quando ele completar 18 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo prescricional para Carlos exercer a sua pretensão reparatória em relação ao Município é de três anos e já está em curso."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo prescricional para Carlos exercer a sua pretensão reparatória em relação ao Município é de cinco anos, mas somente começará a contar quando ele completar 18 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo prescricional para Carlos exercer a sua pretensão reparatória em relação ao Município é de cinco anos e já está em curso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3231100",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição."
+    ],
+    "enunciado_principal": "Acerca da responsabilidade civil do Estado, da organização administrativa e do processo administrativo, julgue o próximo item, consoante a jurisprudência dos tribunais superiores e a legislação em vigor. O STJ decidiu que a responsabilidade civil do Estado por danos morais e materiais decorrentes de atos de tortura contra opositores políticos ocorridos durante o regime militar prescreveria em vinte anos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3177196",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Reparação do dano, ação de indenização, ação regressiva e prescrição."
+    ],
+    "enunciado_principal": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros. Com base nessa informação, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em caso de danos a terceiros, a responsabilidade do Estado é objetiva, com base no risco administrativo, enquanto que, para propositura da ação de regresso, a responsabilidade do agente que causou o dano é subjetiva, sendo necessário comprovar que ele agiu com dolo ou culpa."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente público que, nessa qualidade cause danos a terceiros, responderá pessoalmente e objetivamente, na modalidade de risco integral, pelos danos causados."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade do Estado por atos omissivos será objetiva, na modalidade de risco integral."
+      },
+      {
+        "letra": "D",
+        "texto": "As pessoas jurídicas de direito privado que prestam serviços públicos serão responsáveis pelos danos causados a terceiros por seus agentes somente quando ficar comprovado que ele agiu com dolo."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade civil do Estado, fundamentada na teoria do risco administrativo, dispensa a análise da conduta do agente causador do dano, sendo devida mesmo quando a culpa for, exclusivamente, da vítima."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

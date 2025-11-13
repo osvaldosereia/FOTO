@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "3440425",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Regime jurídico administrativo",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Princípios - Proporcionalidade, Razoabilidade, Motivação, Autotutela e Outros Princípios",
+      "Demais aspectos da lei 9.784/99"
+    ],
+    "enunciado_principal": "Relativamente ao controle da Administração é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada a boa-fé do administrado."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração pública pode declarar a revogação dos seus próprios atos eivados de nulidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se exercício do direito de revogar qualquer medida de autoridade administrativa que importe impugnação à validade do ato."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo quinquenal para a Administração anular os atos administrativos favoráveis aos destinatários é prescricional."
+      },
+      {
+        "letra": "E",
+        "texto": "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3417128",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Acerca dos sistemas de controle jurisdicional da administração pública e do controle da atividade financeira do Estado, julgue o item que se segue.O controle da atividade financeira do Estado abrange a fiscalização da arrecadação de receitas, da execução de despesas, da gestão do patrimônio público e da dívida pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3417124",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No que se refere ao controle da administração pública, julgue o item a seguir. O controle da administração pública, em sua essência, visa garantir a conformidade dos atos administrativos com os princípios da legalidade, moralidade, impessoalidade, publicidade e eficiência, para a proteção do interesse público e dos direitos dos cidadãos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3417123",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No que se refere ao controle da administração pública, julgue o item a seguir. Os sistemas de controle interno de cada Poder da União (Executivo, Legislativo e Judiciário) são uniformes e seguem as mesmas diretrizes estabelecidas por um órgão centralizador para garantir a padronização dos procedimentos de fiscalização.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3417122",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No que se refere ao controle da administração pública, julgue o item a seguir. O controle interno da administração pública é exercido por órgãos externos e independentes, como os tribunais de contas, com o objetivo de assegurar a probidade na gestão dos recursos públicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3409249",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No que concerne ao controle da administração pública, julgue o item seguinte. O sistema de controle adotado no Brasil baseia-se na unidade de jurisdição, sendo atribuída apenas aos órgãos do Judiciário a prerrogativa de proferir decisões de caráter definitivo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3299638",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Câmara de Morrinhos - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Quanto à Administração, o controle pode ser por subordinação ou vinculação. Uma característica do controle por vinculação é ele ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pleno, pois abrange o mérito e a legalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "permanente, uma vez que pode ser exercido a qualquer tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "absoluto (presumido), porque independe de previsão legal."
+      },
+      {
+        "letra": "D",
+        "texto": "destinado a aferir o cumprimento do princípio da especialidade."
+      },
+      {
+        "letra": "E",
+        "texto": "sempre um controle interno."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3299628",
+    "metadata": "Ano: 2025 | Banca: IV - UFG | Órgão: Câmara de Morrinhos - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Considera-se como componentes dos controles internos: a) o ambiente de controle; b) avaliação de riscos; c) atividades de controle; d) informação e comunicação, e e) atividades de monitoramento. Sobre as atividades de controle, pode-se se afirmar que se trata do",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conjunto de ações destinadas a acompanhar e a avaliar a eficácia dos controles internos."
+      },
+      {
+        "letra": "B",
+        "texto": "conjunto de normas, processos e estruturas que fornecem a base para a condução do controle interno da organização."
+      },
+      {
+        "letra": "C",
+        "texto": "conjunto de ações estabelecidas por meio de políticas e de procedimentos, que auxiliam a Unidade Auditada a mitigar os riscos que possam comprometer o alcance dos objetivos e a salvaguarda de seus ativos."
+      },
+      {
+        "letra": "D",
+        "texto": "processo de obtenção e validação da consistência de informações sobre as atividades de controle interno e de compartilhamento que permite a compreensão da Unidade Auditada sobre as responsabilidades e a importância dos controles internos."
+      },
+      {
+        "letra": "E",
+        "texto": "processo dinâmico e interativo que visa a identificar, a analisar e a avaliar os riscos relevantes que possam comprometer a integridade da Unidade Auditada e o alcance das metas e dos objetivos institucionais."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3289693",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "Considere os seguintes procedimentos, I - Procedimentos adequados de seleção e formação dos titulares de cargos públicos que se considerem especialmente vulneráveis à corrupção, assim como, quando proceder, a rotação dessas pessoas em outros cargos. II - Procedimentos para aprovação da peça orçamentária e preservação da integridade dos livros e registros contábeis, financeiros ou outros documentos relacionados com os gastos e ingressos públicos, bem como para prevenir a falsificação desses documentos. III. Procedimentos ou regulamentações que permitam ao público em geral obter informações sobre a organização, o funcionamento e os processos de adoção de decisões, com o devido respeito à proteção da intimidade e dos documentos pessoais sobre as decisões e os atos jurídicos que incubam ao poder público. IV - Procedimentos ou regulamentações sobre livros e registros, divulgação de estados financeiros e normas de contabilidade e auditoria das empresas devem ser objeto de autorregulamentação. abstendo-se o poder público de estabelecer normas a esse respeito em razão do principio da livre iniciativa. São práticas que favorecem o combate á corrupção, em conformidade com o ordenamento jurídico, o que consta APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3278041",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Horizontina - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "A Constituição Federal estabelece que todo poder emana do povo, que o exerce diretamente ou por meio de representantes. Inicialmente, o controle social se qualifica como um mecanismo de controle da Administração Pública, comparando-o aos órgãos estatais de controle e examinando a relação jurídica entre eles. No que diz respeito ao controle social, analisar a sentença. O controle social e a participação popular se manifestam através das mesmas ações, como a fiscalização, o acompanhamento e a influência nas decisões da Administração Pública (1ª parte). O controle social da Administração Pública é realizado em complemento ao controle oficial, substituindo-o, a fim de fiscalizar os atos praticados pelo Poder Público no interesse da sociedade (2ª parte). A sentença está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Totalmente correta"
+      },
+      {
+        "letra": "B",
+        "texto": "Correta somente em sua 1ª parte."
+      },
+      {
+        "letra": "C",
+        "texto": "Correta somente em sua 2ª parte."
+      },
+      {
+        "letra": "D",
+        "texto": "Totalmente incorreta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3274070",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-AM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "Sobre as atribuições constitucionais do sistema de controle interno da administração pública, analise as assertivas abaixo: I. O controle interno busca exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União. II. O controle interno busca apoiar o controle externo no exercício de sua missão institucional. III. O controle interno busca assinar prazo para que o órgão ou entidade adote as providências necessárias ao exato cumprimento da lei, se verificada ilegalidade. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3273472",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Princípios da Administração Pública",
+      "Regime jurídico administrativo",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No âmbito do serviço público, compliance, integridade e ética são pilares notórios para uma gestão eficiente. Assinale a alternativa que expressa corretamente a relação entre esses conceitos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Integridade e ética são princípios individuais dos servidores, não sendo necessário incorporá-los às diretrizes organizacionais do setor público."
+      },
+      {
+        "letra": "B",
+        "texto": "No serviço público, compliance está relacionado à obediência a normas e regulamentos, enquanto a integridade e a ética orientam a atuação dos agentes públicos na promoção do interesse coletivo e da transparência."
+      },
+      {
+        "letra": "C",
+        "texto": "O objetivo do compliance no setor público é exclusivamente evitar sanções legais, sem conexão com a disseminação da cultura ética na gestão pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Compliance diz respeito somente ao cumprimento de normas internas, enquanto integridade e ética são valores subjetivos sem influência prática na administração pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3273471",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "As ferramentas para prevenção e detecção de irregularidades, monitoramento e avaliação de processos de controle interno na administração pública, visam à promoção de uma gestão pública responsável e confiável. A respeito desta temática, analise as afirmações abaixo: I.A implementação de programas de compliance, com a introdução de um código de ética, fortalece a cultura organizacional e a responsabilidade dentro do setor público; II.A participação da sociedade, por meio de conselhos de políticas públicas e audiências públicas, é uma ferramenta de controle social; III.A implementação de sistemas robustos de controle interno não tem impacto significativo na prevenção de erros, fraudes e desvios de recursos, pois não envolve políticas, procedimentos ou normas internas que não podem garantir a aderência às leis e regulamentos; Após análise, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os itens I, II e III estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão corretos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3273459",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A conformidade refere-se ao cumprimento das normas, leis e regulamentos que regem a administração pública. Analise os principais aspectos da conformidade e a relação com seus respectivos conceitos: I.Controle interno e auditoria: Monitoramento contínuo das atividades e despesas públicas. II.Regulação e normatização: Instrumento que assegura o direito da sociedade de acessar dados governamentais. III.Lei de Acesso à Informação: Adoção de diretrizes e flexibilização de normas para garantir a eficiência das ações governamentais. Após análise, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão corretos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3273453",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Palma Sola - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O acompanhamento das metas definidas e a análise da eficiência e eficácia na implementação dos programas governamentais são essenciais para assegurar a qualidade da administração pública. A respeito desses conceitos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mensuração dos programas governamentais deve ocorrer somente ao término do ciclo orçamentário, pois uma avaliação contínua pode causar impactos indevidos na execução."
+      },
+      {
+        "letra": "B",
+        "texto": "A eficiência na execução dos programas governamentais está unicamente vinculada ao atingimento dos resultados finais, sem considerar a utilização adequada dos recursos disponíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "O acompanhamento das metas possibilita adaptações e correções durante a implementação dos programas, garantindo maior compatibilidade com os objetivos estratégicos do governo."
+      },
+      {
+        "letra": "D",
+        "texto": "A eficácia diz respeito à proporção entre os insumos empregados e os bens ou serviços gerados, enquanto a eficiência verifica se as metas estabelecidas foram alcançadas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3271330",
+    "metadata": "Ano: 2025 | Banca: CEPS-UFPA | Órgão: UFOPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O artigo 16 da Instrução Normativa Conjunta MP/CGU Nº 01/2016 orienta que, na implementação e atualização do modelo de gestão de riscos, a alta administração, bem como seus servidores ou funcionários, deverão observar determinados componentes da estrutura de gestão de riscos. O trecho a seguir trata de um desses componentes: “tem como objetivo avaliar a qualidade da gestão de riscos e dos controles internos da gestão, por meio de atividades gerenciais contínuas e/ou avaliações independentes, buscando assegurar que estes funcionem como previsto e que sejam modificados apropriadamente, de acordo com mudanças nas condições que alterem o nível de exposição a riscos”. O trecho citado é considerado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "identificação de riscos."
+      },
+      {
+        "letra": "B",
+        "texto": "controle externo."
+      },
+      {
+        "letra": "C",
+        "texto": "controle interno."
+      },
+      {
+        "letra": "D",
+        "texto": "monitoramento."
+      },
+      {
+        "letra": "E",
+        "texto": "mitigação de riscos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3271311",
+    "metadata": "Ano: 2025 | Banca: CEPS-UFPA | Órgão: UFOPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O Decreto nº 9.203/2017 instituiu a Política de Governança da Administração Pública federal direta, autárquica e fundacional. A respeito do artigo 17, analise o trecho a seguir: “A alta administração das organizações da administração pública federal direta, autárquica e fundacional deverá estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e controles internos com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos que possam impactar a implementação da estratégia e a consecução dos objetivos da organização no cumprimento da sua missão institucional, observados os seguintes princípios:”. O artigo 17 considera um princípio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vedação de recusa de recebimento de requerimentos pelos serviços de protocolo, exceto quando o órgão ou a entidade for manifestamente incompetente."
+      },
+      {
+        "letra": "B",
+        "texto": "Manutenção de instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Promoção da participação do usuário na administração pública, em cooperação com outras entidades de defesa do usuário."
+      },
+      {
+        "letra": "D",
+        "texto": "Promoção da adoção de mediação e conciliação entre o usuário e o órgão ou a entidade pública, sem prejuízo de outros órgãos competentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecimento de controles internos proporcionais aos riscos, de maneira a considerar suas causas, fontes, consequências e impactos, observada a relação custo-benefício."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3271282",
+    "metadata": "Ano: 2025 | Banca: FADESP | Órgão: UNIFESSPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A Instrução Normativa Conjunta MP/CGU, nº 01/2016, preceitua que os órgãos e entidades do Poder Executivo Federal deverão adotar medidas para a sistematização de práticas relacionadas à gestão de riscos, aos controles internos e à governança. NÃO é(são) competência(s) do Comitê de Governança, Riscos e Controles",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "garantir que todas as decisões administrativas sejam tomadas com base na gestão de riscos, independentemente de outros fatores institucionais."
+      },
+      {
+        "letra": "B",
+        "texto": "institucionalizar estruturas adequadas de governança, gestão de riscos e controles internos."
+      },
+      {
+        "letra": "C",
+        "texto": "promover o desenvolvimento contínuo dos agentes públicos, incentivar a adoção de boas práticas de governança, de gestão de riscos e de controles internos."
+      },
+      {
+        "letra": "D",
+        "texto": "garantir a aderência às regulamentações, leis, códigos, normas e padrões, com vistas à condução das políticas e à prestação de serviços de interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "supervisionar o mapeamento e avaliação dos riscos-chave que podem comprometer a prestação de serviços de interesse público."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3263717",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Durante uma auditoria, foi constatado que determinada empresa não possui controles claros para prevenir conflitos de interesse em processos de compras, de forma que o responsável pelos pedidos de compra também detém a função de conferência das aquisições. A situação hipotética narrada evidencia fragilidade no seguinte princípio essencial de controle interno:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segregação de funções."
+      },
+      {
+        "letra": "B",
+        "texto": "Exclusividade nas decisões."
+      },
+      {
+        "letra": "C",
+        "texto": "Flexibilidade nos processos."
+      },
+      {
+        "letra": "D",
+        "texto": "Centralização de autoridade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3263667",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Em uma Prefeitura, a Controladoria-Geral identificou desafios que podem comprometer a execução de contratos administrativos, como fraudes em licitações, atrasos na entrega de obras e falhas na fiscalização de serviços terceirizados. Para evitar esses problemas, foram implementadas medidas preventivas, como auditorias internas periódicas, capacitação dos servidores e um sistema de monitoramento contínuo dos contratos. O processo adotado pela Prefeitura para antecipar, avaliar e mitigar fatores que possam comprometer a eficiência e a transparência da gestão pública é denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Auditoria independente."
+      },
+      {
+        "letra": "B",
+        "texto": "Controle externo."
+      },
+      {
+        "letra": "C",
+        "texto": "Gestão de riscos."
+      },
+      {
+        "letra": "D",
+        "texto": "Compliance público."
+      },
+      {
+        "letra": "E",
+        "texto": "Planejamento estratégico."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3262513",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Acerca dos propósitos e da abrangência da auditoria interna governamental, analise as afirmativas a seguir. I. A auditoria interna é subordinada diretamente ao chefe da organização, assegurando autonomia funcional e técnica. II. A abrangência da auditoria interna está limitada às áreas financeiras e orçamentárias da instituição. III. A auditoria interna tem como propósito principal a detecção de fraudes e irregularidades. IV. O auditor interno deve observar princípios éticos, como integridade, objetividade e confidencialidade, no exercício de sua função. Está correto o que se afirma apenas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3261329",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A Instrução Normativa Conjunta MP/CGU nº 01/2016, que dispõe sobre controles internos, gestão de riscos e governança no âmbito do Poder Executivo Federal, apresenta, em sua norma (art. 2º), uma série de conceitos. Dentre os conceitos apresentados expressamente na lei, o conceito de “governança” corresponde a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Declaração das intenções e diretrizes gerais de uma organização relacionada à gestão de riscos."
+      },
+      {
+        "letra": "B",
+        "texto": "Processo para identificar, avaliar, administrar e controlar potenciais eventos ou situações, para fornecer razoável certeza quanto ao alcance dos objetivos da organização."
+      },
+      {
+        "letra": "C",
+        "texto": "Combinação de processos e estruturas implantadas pela alta administração, para informar, dirigir, administrar e monitorar as atividades da organização, com o intuito de alcançar os seus objetivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Compreensão das as atividades de avaliação do cumprimento das metas previstas no plano plurianual, da execução dos programas de governo e dos orçamentos da União e de avaliação da gestão dos administradores públicos federais, utilizando como instrumentos a auditoria e a fiscalização, e tendo como órgão central a Controladoria-Geral da União. Não se confunde com os controles internos da gestão, de responsabilidade de cada órgão e entidade do Poder Executivo Federal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3256743",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRT - 10ª REGIÃO (DF e TO)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A respeito do processo administrativo federal, consoante a Lei n.º 9.784/1999, ao controle da administração pública, à responsabilidade civil do Estado, ao acesso à informação e ao previsto no Decreto n.º 9.830/2019, julgue o item a seguir.A tutela ministerial consiste no controle finalístico das entidades da administração pública indireta exercido pelo órgão da administração pública direta a que se subordinam em decorrência do poder hierárquico do ente político que as criou.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3241749",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "O controle interno ou externo da Administração Pública é essencial para garantir a legalidade da atuação estatal. Acerca do assunto, marque (V) para as afirmativas verdadeiras e (F) para as falsas. (__) O controle hierárquico ocorre quando um órgão superior exerce controle sobre um órgão hierarquicamente inferior, revisando os atos do órgão subordinado. (__) O controle finalístico utiliza a hierarquia como base para exercer o controle entre órgãos. (__) O controle posterior, também chamado de controle preventivo, ocorre antes da prática ou conclusão do ato administrativo. (__) O controle popular permite que cidadãos denunciem irregularidades perante o Tribunal de Contas da União ou proponham ações populares para anular atos lesivos ao patrimônio público. A sequência está correta em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F − F − V − V."
+      },
+      {
+        "letra": "B",
+        "texto": "V − V − V − V."
+      },
+      {
+        "letra": "C",
+        "texto": "V − F − F − F."
+      },
+      {
+        "letra": "D",
+        "texto": "V − F − F − V."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3212444",
+    "metadata": "Ano: 2025 | Banca: DECORP | Órgão: Prefeitura de Marechal Thaumaturgo - AC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo"
+    ],
+    "enunciado_principal": "Marque a alternativa correta sobre o controle da Administração Pública:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É permitido apenas em casos de atos discricionários da Administração."
+      },
+      {
+        "letra": "B",
+        "texto": "Não pode determinar a anulação de contratos administrativos."
+      },
+      {
+        "letra": "C",
+        "texto": "Restringe-se à análise da legalidade dos atos administrativos."
+      },
+      {
+        "letra": "D",
+        "texto": "Exige a prévia autorização do Ministério Público para ser efetivado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3290869",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No que concerne aos espectros de atuação dos controles interno e externo da Administração Pública, tem-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as decisões da instância máxima do controle interno no âmbito do Poder Executivo, assim como aquelas do Tribunal de Contas, possuem eficácia de título executivo quando importem aplicação de multa aos responsáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "o controle externo exercido pelo Tribunal de Contas não possui ingerência nos aspectos de eficiência da atuação de empresas públicas e sociedades de economia mista, os quais situam-se no âmbito do poder de tutela da Administração direta."
+      },
+      {
+        "letra": "C",
+        "texto": "o controle externo do Executivo, exercido pelo Poder Legislativo com o auxílio do Tribunal de Contas, é instância revisional do interno no que concerne ao exame das contas dos administradores públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "o controle interno restringe-se ao monitoramento e à avaliação do cumprimento das metas previstas no plano plurianual, da execução dos programas de governo e do orçamento."
+      },
+      {
+        "letra": "E",
+        "texto": "os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela deverão dar ciência ao Tribunal de Contas, sob pena de responsabilidade solidária."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3262331",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Hércules é servidor de determinada organização integrante do Poder Executivo Federal. Certo dia, recebe um memorando da autoridade máxima da entidade, informando que seria designado para compor um comitê específico que atuaria na segunda linha ou camada de defesa da organização, nos termos da Instrução Normativa Conjunta MP/CGU nº 01/2016. Considerando a informação mencionada, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A segunda linha ou camada corresponde às atividades do Sistema de Controle Interno relacionadas no art. 74 da Constituição Federal de 1988."
+      },
+      {
+        "letra": "B",
+        "texto": "O comitê mencionado no memorando cuidará das auditorias internas no âmbito da organização, sendo responsáveis por proceder à avaliação da operacionalização dos controles internos."
+      },
+      {
+        "letra": "C",
+        "texto": "Hércules comporá instância destinada à supervisão e monitoramento dos controles internos da gestão; tal instância também pode se constituir de órgãos como diretorias ou assessorias específicas para tratar de riscos."
+      },
+      {
+        "letra": "D",
+        "texto": "O servidor integrará e operacionalizará diretamente os controles internos da gestão, que visam propiciar o alcance dos objetivos da organização pública, no âmbito dos macroprocessos finalísticos e de apoio dos órgãos e entidades do Poder Executivo Federal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3194946",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: CRP - 3ª Região (BA)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A Controladoria de um estado identificou irregularidades na execução de um contrato público. O órgão de controle interno revisou processos preventivamente, enquanto o Tribunal de Contas realizou auditoria posterior. No âmbito da Administração Pública, o controle interno e o externo desempenham funções complementares no combate a irregularidades. Com base no exposto, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle interno compete exclusivamente ao Tribunal de Contas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o controle interno pode recomendar melhorias na gestão pública."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle interno atua preventivamente, enquanto o externo é corretivo."
+      },
+      {
+        "letra": "D",
+        "texto": "O controle externo é realizado exclusivamente pelos órgãos do Poder Executivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3178824",
+    "metadata": "Ano: 2025 | Banca: MS CONCURSOS | Órgão: FCS - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "“A regulamentação e o controle do serviço público e de utilidade pública caberão sempre ao Poder Público, qualquer que seja a modalidade de sua prestação aos usuários”, como já ensinou o Mestre Hely Lopes Meirelles. Quanto ao controle, há o interno e o externo. Desta forma, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Congresso Nacional só pode fiscalizar e controlar seus próprios atos administrativos."
+      },
+      {
+        "letra": "B",
+        "texto": "O Tribunal de Contas da União é um órgão de fiscalização externa contábil, financeira, orçamentária, operacional e patrimonial da União."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração Pública indireta está sujeita apenas ao controle interno, exatamente por ser indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "O Tribunal de Contas de Minas Gerais exerce o controle e fiscalização, apenas dos atos administrativos estaduais."
+      },
+      {
+        "letra": "E",
+        "texto": "A Câmara de Vereadores pode fiscalizar os atos administrativos emanados do Poder Judiciário estadual."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3166212",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Em relação a controle da administração pública, seus tipos e forma de execução, controle pelos tribunais de contas e contencioso administrativo, julgue o item subsecutivo.O sistema de jurisdição caracteriza-se pala existência de uma única ordem de jurisdição, que, apesar de ter as versões ordinária e administrativa, convergem para o julgamento de litígios que envolvem a administração pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3166211",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Em relação a controle da administração pública, seus tipos e forma de execução, controle pelos tribunais de contas e contencioso administrativo, julgue o item subsecutivo.O controle classificado como de ofício, exercido pelo órgão controlador, quando este entender conveniente, é o controle que se aplica quanto ao tempo, podendo ser prévio, concomitante ou subsequente, conforme o momento em que o gestor decide agir.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3164353",
+    "metadata": "Ano: 2025 | Banca: ACAFE | Órgão: Câmara de Caibi - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Durante uma reunião da Comissão de Fiscalização, foi solicitado ao secretário legislativo que identificasse uma ferramenta de controle interno. Qual das opções abaixo reflete corretamente esse tipo de controle?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Denúncia de irregularidades por cidadãos em audiências públicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Acompanhamento de despesas pela equipe administrativa da Câmara."
+      },
+      {
+        "letra": "C",
+        "texto": "Auditoria externa realizada pelo Tribunal de Contas."
+      },
+      {
+        "letra": "D",
+        "texto": "Julgamento das contas municipais pelo Poder Judiciário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3529984",
+    "metadata": "Ano: 2024 | Banca: Instituto Fênix | Órgão: Prefeitura de São José do Cerrito - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "No âmbito do controle da Administração Pública, qual é a principal diferença entre controle interno e controle externo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle interno é exercido pelos cidadãos, enquanto o controle externo é realizado exclusivamente pelo Poder Executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O controle interno é realizado por órgãos da própria administração responsável pela atividade, enquanto o controle externo é exercido por entidades independentes, como os Tribunais de Contas."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle interno refere-se apenas à fiscalização financeira, e o controle externo abrange todos os aspectos administrativos."
+      },
+      {
+        "letra": "D",
+        "texto": "O controle externo é uma prerrogativa do Poder Judiciário, e o controle interno é exercido pelo Poder Legislativo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3284146",
+    "metadata": "Ano: 2024 | Banca: IDESG | Órgão: Prefeitura de Mantenópolis - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Nos procedimentos de fiscalização urbana, o recurso administrativo é um instrumento utilizado pelo autuado para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar um novo prazo para a conclusão de uma obra irregular."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentar sua defesa contra o auto de infração e contestar a penalidade imposta."
+      },
+      {
+        "letra": "C",
+        "texto": "Requerer a fiscalização de outras obras vizinhas."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir a continuidade das obras durante a análise da infração pela autoridade fiscal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3272283",
+    "metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de Volta Grande - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "A nova Lei de Licitações nº 14.133/2021 introduziu alterações importantes no processo licitatório brasileiro, buscando maior eficiência, transparência e segurança jurídica nos contratos públicos. Um dos pontos centrais da nova legislação é a implementação de mecanismos de controle e gestão que visam garantir que os contratos atendam aos interesses da administração pública de forma eficaz e alinhada com os princípios constitucionais. Dentre as práticas previstas pela nova legislação, qual das alternativas a seguir corresponde corretamente a um dos novos mecanismos de controle?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei nº 14.133/2021 reforça a obrigatoriedade de planejamento prévio detalhado para todas as contratações, com a exigência de estudos técnicos que justifiquem a necessidade do contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "A nova lei elimina a obrigatoriedade de publicação dos contratos administrativos, permitindo que apenas o resultado final das licitações seja publicizado."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com a nova legislação, as licitações podem ser realizadas de forma presencial ou eletrônica, mas a modalidade presencial é prioritária para garantir maior controle sobre os processos."
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei nº 14.133/2021 permite a contratação direta, sem a necessidade de licitação, para compras de bens de consumo recorrentes, independentemente do valor total."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3269297",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Paraty - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Assinale a alternativa que identifica o instrumento de fiscalização utilizado para verificar detalhadamente a conformidade de uma entidade pública com as normas e regulamentos aplicáveis:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Levantamento"
+      },
+      {
+        "letra": "B",
+        "texto": "Monitoramento"
+      },
+      {
+        "letra": "C",
+        "texto": "Acompanhamento"
+      },
+      {
+        "letra": "D",
+        "texto": "Inspeção"
+      },
+      {
+        "letra": "E",
+        "texto": "Auditoria"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3269296",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Paraty - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O Plano Anual de Auditoria (PAA) deve incluir uma previsão realista das atividades de auditoria a serem realizadas no período. Entre os elementos obrigatórios que devem constar no PAA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Relação das ações de auditoria a serem realizadas, incluindo o tipo de auditoria, objeto, objetivo e datas previstas para início e conclusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Lista de despesas orçamentárias previstas para o próximo exercício financeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Relatório de auditorias concluídas no exercício anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a descrição do objeto de auditoria, sem necessidade de detalhar datas."
+      },
+      {
+        "letra": "E",
+        "texto": "Lista de auditorias a serem realizadas, sem a necessidade de indicar objetivos específicos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3269293",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Paraty - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Em relação à Governança Pública, qual das alternativas a seguir representa corretamente um de seus princípios:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Melhoria regulatória"
+      },
+      {
+        "letra": "B",
+        "texto": "Improviso na gestão"
+      },
+      {
+        "letra": "C",
+        "texto": "Concentração de decisões"
+      },
+      {
+        "letra": "D",
+        "texto": "Ausência de controle social"
+      },
+      {
+        "letra": "E",
+        "texto": "Isenção de prestação de contas"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3269292",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Paraty - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "No contexto da administração pública, o conceito de governança está relacionado à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Execução estrita do orçamento anual aprovado pelo legislativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade."
+      },
+      {
+        "letra": "C",
+        "texto": "Implementação de sistemas de controle interno para evitar fraudes e irregularidades, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade."
+      },
+      {
+        "letra": "D",
+        "texto": "Identificação e mitigação de riscos financeiros dentro de uma organização."
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecimento de processos administrativos rígidos para assegurar a conformidade com as normas jurídicas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3245012",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: SAAE de Aparecida - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "Sobre os controles interno e externo no setor público, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as ouvidorias compõem o sistema de controle interno."
+      },
+      {
+        "letra": "B",
+        "texto": "o controle externo das autarquias, a cargo dos tribunais de contas, será exercido com o auxílio do poder legislativo."
+      },
+      {
+        "letra": "C",
+        "texto": "a fiscalização contábil, financeira, orçamentária, operacional e patrimonial das autarquias cabe exclusivamente ao sistema de controle interno, quando este existir."
+      },
+      {
+        "letra": "D",
+        "texto": "os administradores e demais responsáveis por dinheiros, bens e valores públicos das autarquias têm as contas apreciadas, e não julgadas, pelo controle externo."
+      },
+      {
+        "letra": "E",
+        "texto": "as autarquias municipais possuem suas contas fiscalizadas periodicamente pelos tribunais de contas municipais, estes que estão presentes em todos os municípios brasileiros."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3230942",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CONFERE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "É a modalidade de controle exercida pela própria Administração Pública Federal sobre seus atos, tanto sob os aspectos de legalidade quanto de mérito (conveniência e oportunidade). É também conhecida como autotutela, visto que a Administração pode revisar, corrigir ou anular seus atos quando ilegais ou revogar por conveniência administrativa. Com base nessas informações, assinale a alternativa que apresenta a denominação da modalidade de controle descrita.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "controle parlamentar"
+      },
+      {
+        "letra": "B",
+        "texto": "controle jurisdicional"
+      },
+      {
+        "letra": "C",
+        "texto": "controle hierárquico"
+      },
+      {
+        "letra": "D",
+        "texto": "controle administrativo"
+      },
+      {
+        "letra": "E",
+        "texto": "controle finalístico"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3230940",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CONFERE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O controle na Administração Pública Federal pode ser conceituado como um poder‑dever de vigilância, exercido sobre sua atuação administrativa, por ela mesma ou por outros Poderes (e até mesmo pelos populares). A partir dessa informação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O controle judicial sobre os atos do Poder Executivo geralmente é prévio e incide, na maioria das vezes, sobre os critérios de oportunidade e de conveniência dos atos administrativos."
+      },
+      {
+        "letra": "B",
+        "texto": "O controle de legalidade consiste em verificar se um determinado ato foi praticado em conformidade com a lei. Além disso, somente via controle externo ele pode ser exercido."
+      },
+      {
+        "letra": "C",
+        "texto": "Diz‑se prévio o controle quando ele é exercido antes do início da prática ou antes da conclusão do ato administrativo, constituindo‑se em um requisito de validade para a produção de seus efeitos."
+      },
+      {
+        "letra": "D",
+        "texto": "A sustação pelo Poder Legislativo de atos do Executivo que exorbitem sua função regulamentar constitui um exemplo de controle concomitante."
+      },
+      {
+        "letra": "E",
+        "texto": "Pode o Poder Judiciário revogar administrativamente atos emitidos pelos Poderes Executivo e Legislativo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3225131",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: UNIFESP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Conceito e Classificação",
+      "Controle administrativo, judicial e legislativo",
+      "Tribunais de Contas"
+    ],
+    "enunciado_principal": "Sobre controles interno e externo da Administração Pública brasileira, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fiscalização patrimonial das entidades da administração indireta é exercida pelo Congresso Nacional, mediante controle interno, e pelo sistema de controle externo do Poder Executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "as pessoas jurídicas de direito privado que utilizem, arrecadem, guardem, gerenciem ou administrem dinheiros, bens e valores públicos, diferentemente das pessoas jurídicas de direito público, devem prestar contas."
+      },
+      {
+        "letra": "C",
+        "texto": "o controle interno dos poderes da República, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União (TCU)."
+      },
+      {
+        "letra": "D",
+        "texto": "os Poderes Legislativo, Executivo e Judiciário devem manter, de forma integrada, sistema de controle externo com a finalidade de apoiar o controle interno no exercício de sua missão institucional."
+      },
+      {
+        "letra": "E",
+        "texto": "as contas prestadas pelo Presidente da República são apreciadas, e as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos são julgadas, em nível federal, pelo Tribunal de Contas da União (TCU)."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

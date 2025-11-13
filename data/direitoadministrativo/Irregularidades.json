@@ -1,0 +1,376 @@
+[
+  {
+    "id": "3590988",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: AGESAN-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "A Comissão de Licitação julgou a proposta apresentada pela empresa Alfa como inexequível. Considerando as disposições da Lei 14.133/21 sobre os recursos administrativos, é correto afirmar que a empresa Alfa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve manifestar a intenção de recorrer em até três dias da intimação."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá apresentar recurso, no prazo de 3 (três) dias úteis, contado da data de intimação ou de lavratura da ata."
+      },
+      {
+        "letra": "C",
+        "texto": "deverá dirigir o recurso à autoridade máxima do órgão ou entidade licitante."
+      },
+      {
+        "letra": "D",
+        "texto": "pode exigir que o recurso seja analisado no prazo de 1(um) dia útil pela autoridade que editou o ato recorrido."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá apresentar recurso de revisão ao Tribunal de Contas respectivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3505840",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Após à observância do contraditório e da ampla defesa, como consectários do devido processo legal, a autoridade competente do Estado do Ceará aplicou, em detrimento da sociedade empresária Alfa, a penalidade consistente na declaração de inidoneidade para licitar ou contratar com o Poder Público. Nesse cenário, considerando as disposições da Lei nº 14.133/2021, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em face da decisão proferida, caberá apenas pedido de reconsideração, que deverá ser apresentado no prazo de quinze dias úteis, contado da data da intimação, e decidido no prazo máximo de vinte dias úteis, contado do seu recebimento. ( ) O pedido de reconsideração, por não ter natureza jurídica de recurso hierárquico próprio, não faz jus ao efeito suspensivo da decisão recorrida até que sobrevenha decisão final da autoridade competente. ( ) Na elaboração de suas decisões, a autoridade competente será auxiliada pelo órgão de assessoramento jurídico, que deverá dirimir dúvidas e subsidiá-la com as informações necessárias. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "F – F – F."
+      },
+      {
+        "letra": "D",
+        "texto": "F – V – V."
+      },
+      {
+        "letra": "E",
+        "texto": "V – V – V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3502229",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAU-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Com base nas Leis n.º 8.429/1992 e n.º 14.133/2021, julgue o item seguinte a respeito de aspectos atinentes à improbidade administrativa e a licitações. No âmbito dos contratos administrativos, no caso de inadimplência do particular, somente poderão ser aplicadas as penalidades expressamente previstas no contrato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3502216",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAU-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Julgue o próximo item no que se refere às infrações e sanções administrativas previstas na Lei de Licitações e Contratos Administrativos (Lei n.º 14.133/2021). Dar causa à inexecução parcial ou total de um contrato caracteriza infração pela qual o contratado será responsabilizado administrativamente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3469216",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "A respeito de licitações, sistema de registro de preços, celebração e fiscalização de contratos, convênios e instrumentos congêneres da administração pública federal, julgue o item que se segue, à luz da Lei n.º 14.133/2021, dos Decretos n.º 11.462/2023 e n.º 11.531/2023 e da Instrução Normativa MPOG n.º 5/2017. As sanções a serem aplicadas pela administração pública no âmbito de contratações públicas restringem-se a advertência, multa e impedimento de licitar e contratar.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3231105",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Fases e Processo Licitatório",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Julgue o item que se segue, relativo a controle e transparência da administração pública.A assessoria jurídica é órgão integrante da segunda linha de defesa e tem competência para realizar o controle prévio de legalidade das contratações públicas e auxiliar a administração pública a instituir modelos de minutas de editais, de termos de referência e de contratos padronizados.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3216445",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Princípios das Licitações e Lei nº 14.133 de 2021",
+      "Fases e Processo Licitatório",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Um município decidiu conceder a exploração do serviço público de transporte coletivo a uma empresa privada por meio de um processo licitatório. Durante a fase de habilitação, surgiram denúncias de que a empresa vencedora não apresentava todas as certidões exigidas pela legislação vigente, além de indícios de irregularidades em contratos anteriores com outros municípios. Considerando os princípios da legalidade, da moralidade e da eficiência, a Administração Pública, diante dessa situação, deverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prosseguir com a assinatura do contrato, uma vez que a empresa já foi selecionada e o serviço é essencial para a população."
+      },
+      {
+        "letra": "B",
+        "texto": "Analisar as denúncias e, se confirmadas, anular a licitação e revogar a concessão, garantindo a moralidade e a legalidade do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar que a empresa apresente as certidões faltantes e, caso sejam apresentadas, seguir com o contrato, ignorando as irregularidades anteriores."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar uma nova licitação, sem considerar a empresa vencedora, mas mantendo o contrato com a empresa anterior até que a nova licitação seja concluída."
+      },
+      {
+        "letra": "E",
+        "texto": "Ignorar as denúncias, considerando que a empresa já prestava serviços anteriormente e possui experiência no setor, além de ser a única que apresentou proposta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3193553",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Câmara de Santana de Parnaíba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Fases e Processo Licitatório",
+      "Irregularidades",
+      "Contratos Administrativos – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "De acordo com a Lei n.º 14.133/2021, é possível que a Administração Pública dispense ou realize um procedimento licitatório de forma simplificada em determinadas situações. Qual das alternativas a seguir reflete corretamente as condições para a dispensa de licitação, conforme a lei:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A licitação é dispensável quando o valor da contratação for superior a R$ 1.500.000,00, independentemente do objeto da contratação."
+      },
+      {
+        "letra": "B",
+        "texto": "A dispensa de licitação pode ocorrer em casos de emergência, desde que o valor da contratação não ultrapasse R$ 500.000,00."
+      },
+      {
+        "letra": "C",
+        "texto": "A licitação é dispensável para a contratação de obras e serviços de engenharia, com valor superior a R$ 3.000.000,00, sem necessidade de justificativa prévia."
+      },
+      {
+        "letra": "D",
+        "texto": "A licitação poderá ser dispensada para a contratação de serviços de publicidade, quando houver justificativa técnica e em valor inferior a R$ 10.000.000,00."
+      },
+      {
+        "letra": "E",
+        "texto": "A licitação é dispensável nas situações previstas no artigo 75, que tratam da emergência ou calamidade pública."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3175882",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Segundo o art. 164 da Lei de Licitações, “qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos”. Para isso, deve protocolar o pedido até quantos dias úteis antes da data de abertura do certame?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3."
+      },
+      {
+        "letra": "B",
+        "texto": "5."
+      },
+      {
+        "letra": "C",
+        "texto": "7."
+      },
+      {
+        "letra": "D",
+        "texto": "9."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3152870",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Acerca da penalidade de impedimento de licitar e contratar com a Administração Pública, nos termos da Lei nº 14.133/2021, é correto afirmar que tal sanção",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é a mais grave prevista na norma em comento, de modo que é a única que não pode ser cumulada com a multa, diferentemente das demais penalidades administrativas."
+      },
+      {
+        "letra": "B",
+        "texto": "admite a reabilitação do licitante ou contratado, mediante o preenchimento cumulativo dos requisitos legais, dentre os quais, o transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "não poderá ser aplicada nas infrações em que o responsável deixar de entregar a documentação exigida, nem naquela em que ele não mantiver a proposta, salvo em decorrência de fato superveniente devidamente justificado."
+      },
+      {
+        "letra": "D",
+        "texto": "impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "quando aplicada por órgão do Poder Executivo, será de competência exclusiva de Ministro de Estado, de Secretário Estadual ou de Secretário Municipal e, quando aplicada por autarquia ou fundação, será de competência exclusiva da autoridade máxima da entidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3578393",
+    "metadata": "Ano: 2024 | Banca: Instituto Avançar | Órgão: Prefeitura de Borrazópolis - PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "No caso de cometimento de infração, o contratado será responsabilizado administrativamente e estará sujeito às sanções previstas na Lei Federal nº 14.133/2021. Conforme decorre da referida legislação, o percentual máximo de multa que pode ser aplicado é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10% (dez por cento)."
+      },
+      {
+        "letra": "B",
+        "texto": "20% (vinte por cento)."
+      },
+      {
+        "letra": "C",
+        "texto": "30% (trinta por cento)."
+      },
+      {
+        "letra": "D",
+        "texto": "40 % (quarenta por cento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3380645",
+    "metadata": "Ano: 2024 | Banca: HL | Órgão: Prefeitura de Iturama - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades"
+    ],
+    "enunciado_principal": "Com relação ao procedimento licitatório, apresentam-se como exemplos de irregularidades que atentam contra os princípios da isonomia e da escolha da proposta mais vantajosa para a Administração: Avalie as afirmações a seguir e marque (V) para verdadeiro e (F) para falso. ( ) exigências desnecessárias de caráter restritivo no edital, especialmente no que diz respeito à capacitação técnica dos responsáveis técnicos e técnico-operacional da empresa. ( ) ausência de critério de aceitabilidade de preços global e unitário no edital de licitação. ( ) obra dividida em parcelas com vistas ao melhor aproveitamento dos recursos disponíveis no mercado e à ampliação da competitividade. ( ) obra dividida em parcelas, porém, não respeitando a modalidade de licitação pertinente para a execução total do empreendimento. ( ) adequação do critério de reajuste previsto no edital, retratando a avariação efetiva do custo de produção.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, V, V."
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V, F, V, F."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3173550",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei nº 14.133 de 2021",
+      "Irregularidades",
+      "Contratos Administrativos – Lei nº 14.133 de 2021",
+      "Duração, Extinção, Inexecução, Sanções e Responsabilidade – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "Uma construtora foi contratada para realizar a pavimentação de uma via pública, com um contrato firmado sob as diretrizes da Lei n. 14.133/2021. Durante uma auditoria, o engenheiro responsável pelo acompanhamento da obra identificou que as medições e quantidades realizadas pela construtora eram superiores às efetivamente executadas. Além disso, foram encontradas deficiências na execução da obra, resultando em diminuição da sua qualidade, vida útil e segurança. Diante do exposto, assinale a alternativa que apresenta o dano provocado ao patrimônio da Administração.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobrepreço"
+      },
+      {
+        "letra": "B",
+        "texto": "Superfaturamento"
+      },
+      {
+        "letra": "C",
+        "texto": "Repactuação"
+      },
+      {
+        "letra": "D",
+        "texto": "Reajustamento em sentido estrito"
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "3287866",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: PC-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Inquérito Administrativo - PAD"
+    ],
+    "enunciado_principal": "Sobre o sigilo do processo administrativo disciplinar, é possível afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "têm acesso aos autos do processo administrativo disciplinar o acusado e qualquer advogado inscrito na Ordem dos Advogados do Brasil, para fiscalizar o respeito ao devido processo legal."
+      },
+      {
+        "letra": "B",
+        "texto": "têm acesso aos autos do processo administrativo disciplinar o acusado e o seu advogado, atuando como defensor na apuração."
+      },
+      {
+        "letra": "C",
+        "texto": "têm acesso aos autos do processo administrativo disciplinar o acusado, o seu advogado e o representante do fato em investigação."
+      },
+      {
+        "letra": "D",
+        "texto": "têm acesso aos autos do processo administrativo disciplinar o acusado, o seu advogado e o denunciante do fato em investigação."
+      },
+      {
+        "letra": "E",
+        "texto": "o processo administrativo disciplinar não é sigiloso, mas público, podendo ter acesso a ele qualquer pessoa, em razão do princípio da publicidade que rege a Administração Pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3287865",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: PC-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Demais aspectos da lei 9.784/99",
+      "Inquérito Administrativo - PAD"
+    ],
+    "enunciado_principal": "Sobre o processo administrativo disciplinar, é possível afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ao final da apuração, pode ser aplicada punição de suspensão ou demissão, pois a advertência só pode ser imposta em procedimento de sindicância."
+      },
+      {
+        "letra": "B",
+        "texto": "a comissão processante é composta por 2 pessoas idôneas, servidoras públicas ou não."
+      },
+      {
+        "letra": "C",
+        "texto": "a comissão processante é composta por 3 servidores públicos estáveis, com nível hierárquico igual ou superior ao acusado."
+      },
+      {
+        "letra": "D",
+        "texto": "a comissão processante aplica ao servidor acusado, ao final da apuração, qualquer punição que considere justa."
+      },
+      {
+        "letra": "E",
+        "texto": "a comissão processante aplica ao servidor acusado, ao final da apuração, a punição que considera justa, desde que não seja a demissão, que só pode ser imposta pela autoridade julgadora."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3277173",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Arvorezinha - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Inquérito Administrativo - PAD"
+    ],
+    "enunciado_principal": "Nos termos da Lei Complementar nº 7/2016 − Regime Jurídico dos Servidores Públicos do Município, as irregularidades e faltas funcionais serão apuradas por meio de processo administrativo disciplinar quando: I. A gravidade da ação/omissão torne o servidor passível de demissão, cassação da disponibilidade ou da aposentadoria. II. Não houver dados suficientes para determinação ou para apontar o servidor faltoso. Está CORRETO o que se afirma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em ambos os itens."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas no item I."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas no item II."
+      },
+      {
+        "letra": "D",
+        "texto": "Em nenhum dos itens."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3238421",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRT - 24ª REGIÃO (MS)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Lei nº 8.112-1990 - Regime jurídico dos servidores públicos federais",
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Inquérito Administrativo - PAD"
+    ],
+    "enunciado_principal": "Após a regular tramitação de processo administrativo disciplinar, foi aplicada a sanção de suspensão a João, servidor público federal ocupante de cargo de provimento efetivo. Apesar da imposição da penalidade, João não se conformou com a condenação, afirmando peremptoriamente que não praticara uma infração disciplinar. Alguns anos depois, informou a familiares que tinha obtido elementos probatórios suficientes para provar sua inocência. Logo após decidir pela formulação do requerimento de revisão do processo disciplinar, João faleceu. O filho de João, ao analisar a disciplina estabelecida na Lei nº 8.112/1990, concluiu corretamente que o pedido de revisão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é personalíssimo e poderia ser formulado por João até cinco anos após a publicação da decisão condenatória."
+      },
+      {
+        "letra": "B",
+        "texto": "não é admitido caso o processo administrativo disciplinar tenha se alicerçado em inquérito administrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "é incompatível com a coisa julgada administrativa, não podendo ser formulado quer por João, se estivesse vivo, quer por seu filho."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser formulado por qualquer pessoa, já que a administração pode agir de ofício, e pode estar lastreado na injustiça da penalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser formulado pelo filho, a qualquer tempo, devendo ser aduzidos fatos novos ou circunstâncias que possam justificar a inocência de João ou a inadequação da pena."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

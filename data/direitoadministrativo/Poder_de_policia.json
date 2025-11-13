@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "3688909",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Congo - PB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia, como prerrogativa estatal, consiste na restrição ou condicionamento de direitos individuais em prol do interesse coletivo, devendo observar princípios constitucionais e legais. Sobre sua disciplina, qual proposição expressa corretamente seus fundamentos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A finalidade do poder de polícia reside na proteção do patrimônio estatal, sem relação direta com a preservação da ordem pública ou dos direitos coletivos."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de polícia pode ser exercido de forma ilimitada, desde que fundado em razões de ordem pública, prescindindo de previsão legal ou de controle jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "O exercício do poder de polícia admite delegação irrestrita a particulares, inclusive quanto à edição de atos normativos e aplicação de sanções administrativas."
+      },
+      {
+        "letra": "D",
+        "texto": "O poder de polícia deve ser exercido com base na legalidade, na proporcionalidade e na finalidade pública, limitando direitos individuais em benefício do interesse coletivo e sujeitandose ao controle judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "O poder de polícia caracteriza-se por ser discricionário absoluto, não se sujeitando a princípios como razoabilidade, proporcionalidade ou finalidade pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3642474",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: CNU",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre o poder de polícia, avalie as afirmativas abaixo: I. É exercido exclusivamente pela União. II. Pode ser preventivo ou repressivo. III. Limita direitos individuais em prol do interesse público. IV. Possui como atributo a autoexecutoriedade. Estão corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3642473",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: CNU",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia é uma das manifestações clássicas da Administração Pública. Constitui exemplo típico de exercício de poder de polícia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratação de professores temporários por excepcional interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "A edição de medida provisória pelo Presidente da República."
+      },
+      {
+        "letra": "C",
+        "texto": "A aplicação de multa por infração às normas de trânsito"
+      },
+      {
+        "letra": "D",
+        "texto": "A celebração de convênio entre União e Município para repasse de recursos."
+      },
+      {
+        "letra": "E",
+        "texto": "A expedição de lei orçamentária pelo Poder Legislativo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3620584",
+    "metadata": "Ano: 2025 | Banca: Instituto Access | Órgão: UFAC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Durante uma inspeção de rotina, um agente da vigilância sanitária determinou a interdição imediata de um restaurante por grave risco à saúde pública. A atuação gerou questionamento quanto ao fundamento jurídico da medida. Com base na doutrina e no poder de polícia administrativa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida é expressão do poder de polícia, cuja atuação preventiva visa preservar o interesse público e a ordem sanitária."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de exercício do poder regulamentar, já que o agente executa normas técnicas infralegais."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração só pode aplicar medidas punitivas após esgotado o processo administrativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O ato é inválido, pois a vigilância sanitária não detém poder hierárquico sobre o proprietário do restaurante."
+      },
+      {
+        "letra": "E",
+        "texto": "A interdição, por se tratar de restrição de direitos, só pode ser imposta mediante autorização judicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3582907",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito dos poderes e deveres da administração pública, julgue o item a seguir, considerando, no que couber, a jurisprudência dos tribunais superiores. Segundo a teoria do ciclo de polícia, o poder de polícia da administração pública divide-se em quatro fases, sendo a primeira fase, denominada ordem de polícia, a única que não pode ser delegada a pessoas jurídicas de direito privado, porquanto representa a função legislativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3542830",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item que se segue. A apreciação do primeiro recurso administrativo apresentado pela empresa contratada configura exercício do poder de polícia administrativo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3538769",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Lei do Estado X autoriza a instituição de fundação voltada a proteção e defesa do consumidor, com poderes para exercicio do poder de policia relativo ao tema. O Governador do Estado, por meio de Decreto, aprova o Estatuto da referida fundação, que é instituida por meio de escritura pública, registrada no cartório competente. Na situação narrada,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trata-se de pessoa jurídica de direito público interno, razão pela qual era desnecessário o registro dos atos constitutivos."
+      },
+      {
+        "letra": "B",
+        "texto": "o Governador extrapolou o poder regulamentar, pois o Estatuto deveria ser aprovado por Decreto legislativo."
+      },
+      {
+        "letra": "C",
+        "texto": "embora seja pessoa jurídica de direito privado, é lícita a delegação legal do exercicio de poder de policia."
+      },
+      {
+        "letra": "D",
+        "texto": "somente a União poderia ter tomado tal iniciativa, visto de que se trata de matéria de sua competência exclusiva."
+      },
+      {
+        "letra": "E",
+        "texto": "era desnecessária a lei autorizativa, pois se trata de matéria que pode ser regulada por decreto autônomo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3520318",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Para fins de esclarecer uma consulta realizada por uma parte interessada, Maria teve que explicar as peculiaridades do poder de polícia, à luz da moderna orientação do Supremo Tribunal Federal. Sobre o tema, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o poder de polícia não pode ser exercido por empregados públicos regidos pela Consolidação das Leis do Trabalho (CLT), mesmo que de estatais que prestem serviço público em regime de monopólio, considerando que tais agentes não podem alcançar a garantia da estabilidade prevista na Constituição;"
+      },
+      {
+        "letra": "B",
+        "texto": "os emolumentos relativos a serviços cartorários correspondem a taxa cuja hipótese de incidência é a prestação de serviços públicos, de modo que é inconstitucional a destinação de parcela de tais emolumentos a órgãos do Judiciário, pois a mencionada cobrança não envolve o exercício do poder de polícia;"
+      },
+      {
+        "letra": "C",
+        "texto": "as atividades de fiscalização e sanção de polícia podem ser delegadas, mediante lei, a particulares, tais como as normas que conferem aos bombeiros voluntários e associações voltadas para a defesa civil a competência para realizar vistorias e fiscalizações, bem como lavrar autos de infração;"
+      },
+      {
+        "letra": "D",
+        "texto": "a determinação legal quanto à necessidade de credenciamento de interessados para a realização de determinada atividade regulada não corresponde ao exercício do poder de polícia, considerando que tal atividade administrativa tem apenas caráter repressivo;"
+      },
+      {
+        "letra": "E",
+        "texto": "as medidas indiretas de coerção podem ser admitidas no âmbito do poder de polícia em relação às determinações que não são dotadas de autoexecutoriedade, a exemplo daquelas aplicáveis quando há recusa à vacinação obrigatória, regularmente determinada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3469551",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Julgue o seguinte item, relativo a poderes administrativos, regime jurídico-administrativo e controle da administração pública. A atividade do Estado que limita o exercício dos direitos individuais em benefício do interesse público é considerado poder de polícia.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3440424",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Processo Administrativo - Lei nº 9.784 de 1999 e Lei nº 14.210 de 2021",
+      "Regime jurídico administrativo",
+      "Poderes da Administração",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia",
+      "Improbidade administrativa - Lei nº 8.429 de 1992 e Lei nº 14.230 de 2021",
+      "Princípios - Contraditório e Ampla Defesa e Segurança Jurídica",
+      "Princípios - Proporcionalidade, Razoabilidade, Motivação, Autotutela e Outros Princípios",
+      "Demais aspectos da lei 9.784/99",
+      "Atos de Improbidade Administrativa e suas Sanções"
+    ],
+    "enunciado_principal": "Relativamente ao Direito Administrativo Sancionador e às recentes decisões do STJ sobre a matéria, a retroatividade da lei mais benéfica é aplicada da seguinte forma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplica-se ao Direito Administrativo Sancionador a retroatividade da lei posterior mais benéfica em idêntica extensão à novatio legis in mellius do direito penal."
+      },
+      {
+        "letra": "B",
+        "texto": "A penalidade administrativa deve se basear no princípio do tempus regit actum, salvo se houver previsão expressa de retroatividade da lei mais benéfica."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena administrativa minorada por lei posterior não pode ser aplicada a casos anteriores em nenhuma hipótese."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena administrativa reduzida por lei posterior pode ser aplicada a casos pretéritos somente se a conduta for tipificada na lei penal vigente."
+      },
+      {
+        "letra": "E",
+        "texto": "Em qualquer caso a penalidade administrativa minorada por lei posterior poderá ser aplicada a casos pretéritos à sua vigência, independentemente de previsão expressa, por força dos princípios implícitos do Direito Administrativo Sancionador."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3427183",
+    "metadata": "Ano: 2025 | Banca: IDESG | Órgão: Prefeitura de Cariacica - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre o poder de polícia administrativa municipal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ato de interdição de estabelecimento comercial em situação irregular é exemplo de ato discricionário da autoridade fiscalizadora, podendo variar de acordo com a conveniência política do gestor."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de polícia administrativa municipal restringe-se à aplicação de penalidades pecuniárias e não inclui atos como a interdição de atividades ou apreensão de mercadorias."
+      },
+      {
+        "letra": "C",
+        "texto": "O poder de polícia administrativa municipal é exercido exclusivamente pelo Poder Judiciário, que fiscaliza as atividades privadas para garantir a ordem pública."
+      },
+      {
+        "letra": "D",
+        "texto": "A fiscalização das atividades urbanas, como comércio ambulante, bares e restaurantes, é exemplo de exercício do poder de polícia administrativa pelo Fiscal de Posturas Municipal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3417036",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Tendo como referência a situação hipotética precedente, julgue o item a seguir, acerca dos poderes da administração pública. A autoexecutoriedade do poder de polícia administrativa exercido pela SUSEP decorre de atribuição legal e autoriza a adoção direta de medidas cautelares previstas na regulamentação setorial, sem necessidade de intervenção judicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3417035",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Tendo como referência a situação hipotética precedente, julgue o item a seguir, acerca dos poderes da administração pública. Ao apurar a infração cometida pela entidade supervisionada, a SUSEP exerce poder de polícia judiciária, com competência para investigar e instaurar inquérito sobre os delitos penais eventualmente praticados pela referida empresa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3409237",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca dos poderes da administração pública, julgue o item seguinte. Segundo a jurisprudência do STF, o poder de polícia fragmenta-se em cinco etapas: ordem, consentimento, fiscalização, apuração e sanção, sendo somente a última impassível de delegação a pessoa jurídica de direito privado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3296132",
+    "metadata": "Ano: 2025 | Banca: IVIN | Órgão: Prefeitura de Cajazeiras do Piauí - PI",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder vinculado e discricionário",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia, observe os itens a seguir e, em seguida, assinale a alternativa correta: I. O poder de polícia pode ser exercido também pela edição de atos com efeitos concretos. II. Os atos do poder de polícia são, naturalmente, sempre vinculados. III. Por serem autoexecutáveis, os atos de poder de polícia são passíveis de execução por meios diretos e indiretos de coação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I é verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II é verdadeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III é verdadeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III são verdadeiros."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3295823",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito do chamado \"ciclo de polícia\" e da delegação dos poderes de polícia administrativa a entidades da Administração Indireta, o entendimento do Supremo Tribunal Federal é de que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as fases de consentimento, fiscalização e sanção são delegáveis unicamente a pessoas jurídicas de direito público."
+      },
+      {
+        "letra": "B",
+        "texto": "as fases de consentimento, fiscalização e sanção são delegáveis a pessoas de direito privado, desde que prestadoras de serviço público em regime de monopólio."
+      },
+      {
+        "letra": "C",
+        "texto": "as fases de ordem, fiscalização e sanção são delegáveis a toda e qualquer entidade da Administração Indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "as fases de ordem, consentimento e sanção somente são delegáveis a entidades de natureza autárquica."
+      },
+      {
+        "letra": "E",
+        "texto": "os poderes de polícia administrativa são indelegáveis, devendo ser exercidos por órgãos pertencentes à Administração Direta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3295406",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Avalie as proposições sobre poder de polícia e regulação: I. O poder de polícia legitima restrições a direitos individuais para salvaguarda do interesse coletivo. II. A regulação setorial é sinônimo de intervenção arbitrária, isenta de lei. III. Atos de polícia carecem de fundamento legal, pois decorrem unicamente da vontade do administrador. IV. A regulação busca equilibrar interesses públicos e privados, exigindo segurança jurídica e transparência. Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3295390",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia estatal relaciona-se ao condicionamento de direitos individuais para assegurar interesses coletivos. Selecione a hipótese que melhor caracteriza o exercício do poder de polícia no Direito Administrativo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exigir taxas para qualquer atividade econômica, independentemente de lei que a institua."
+      },
+      {
+        "letra": "B",
+        "texto": "Agir contra liberdades públicas sem fundamentação legal, pois a conveniência do administrador prevalece."
+      },
+      {
+        "letra": "C",
+        "texto": "Limitar a exploração de recursos naturais, desde que haja previsão normativa e controle proporcional ao risco."
+      },
+      {
+        "letra": "D",
+        "texto": "Suspender o direito de propriedade para fins privados, dispensando formalidades ou indenização."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3295384",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Uma atribuição típica do Poder de Polícia envolve fiscalização e sanção para proteger a ordem, a saúde e a segurança públicas. Escolha o elemento que compõe essa atividade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desconsiderar princípios de proporcionalidade e legalidade, pois a proteção coletiva predomina."
+      },
+      {
+        "letra": "B",
+        "texto": "Inexistência de dever de fundamentar o ato, bastando convicção pessoal do agente fiscalizador."
+      },
+      {
+        "letra": "C",
+        "texto": "Exigência de lei que preveja a conduta sujeita a sanção e a forma de atuação estatal, assegurando regular processo administrativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Dispensa de controle judicial por absoluta discricionariedade administrativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3292024",
+    "metadata": "Ano: 2025 | Banca: IDECAN | Órgão: ADAGRI-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia possui alguns atributos que são fundamentais para sua aplicação de forma justa e eficiente. Esses atributos garantem que a Administração Pública possa atuar de forma adequada ao regular, fiscalizar e, quando necessário, intervir em atividades que impactem o interesse público. Nesse contexto, são atributos do Poder de Polícia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autoexecutoriedade, Competência e Coercibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Autoexecutoriedade, Motivo e Coercibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Finalidade, Discricionariedade e Coercibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Autoexecutoriedade, Discricionariedade e Coercibilidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3290875",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Constitui exemplo de exercício de poder de polícia pela Administração, e do correspondente atributo que lhe é inerente e que incide na situação exemplificada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tombamento de bem de valor histórico ou arquitetônico, com base no atributo da discricionariedade administrativa que autoriza a intervenção no domínio econômico."
+      },
+      {
+        "letra": "B",
+        "texto": "imposição de servidão de passagem para realização de obra pública, atuação essa com base no atributo da coercibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "demolição de edificação irregular com risco de desabamento, atuação informada pelo atributo da executoriedade que afasta a necessidade de tutela judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "apreensão de produto de crime e provas de seu cometimento, com base no atributo da autotutela que assegura o exercício das prerrogativas de polícia administrativa e judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "proibição de participar de licitação e de contratar com a Administração, aplicada com base no atributo da imperatividade, que prejudica a supremacia do interesse público sobre o particular."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3285625",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia exercido pela Administração Pública caracteriza-se por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ser um poder exclusivo dos órgãos de segurança pública, como a Polícia Militar e a Polícia Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "poder ser delegado a qualquer entidade privada, desde que seja supervisionado pelo Poder Público."
+      },
+      {
+        "letra": "C",
+        "texto": "possibilitar a restrição do uso e gozo de bens e direitos individuais em favor do interesse público, com base na lei."
+      },
+      {
+        "letra": "D",
+        "texto": "exigir sempre uma autorização judicial antes da imposição de sanções administrativas aos particulares."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3284054",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, no que diz respeito a organização administrativa, agentes públicos, ato administrativo e poderes da administração pública, considerando a jurisprudência dos tribunais superiores. É juridicamente possível a delegação, por meio de lei, do poder de polícia às empresas públicas e sociedades de economia mista, desde que elas prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3280331",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito dos poderes e princípios da administração, bem como acerca da organização administrativa, julgue o item a seguir.A administração pública direta pode, desde que mediante lei formal, delegar o poder de polícia administrativa para ente integrante da administração indireta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3280053",
+    "metadata": "Ano: 2025 | Banca: AEVSF/FACAPE | Órgão: Prefeitura de Afrânio - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O cargo de Auxiliar Administrativo demanda conhecimentos sólidos sobre os poderes e deveres dos agentes administrativos, elementos essenciais para a execução eficiente das atividades públicas. Conforme Mello (2019), o poder de polícia é um instrumento fundamental para a atuação desses agentes, permitindo a restrição de direitos individuais em benefício do interesse coletivo. Nesse contexto, qual das alternativas abaixo define corretamente o poder de polícia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder de legislar sobre questões de segurança pública."
+      },
+      {
+        "letra": "B",
+        "texto": "Poder de restringir direitos individuais em benefício do interesse coletivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Poder de aplicar sanções penais aos cidadãos."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder de fiscalizar os atos dos outros Poderes."
+      },
+      {
+        "letra": "E",
+        "texto": "Poder de julgar conflitos entre cidadãos e a administração pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3272372",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Atributos do ato administrativo – presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade",
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca dos atos administrativos, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O STJ consolidou que simples possibilidade do exercício do poder de polícia e da executoriedade dos atos administrativos não impede o acesso ao Poder Judiciário nem implica ausência do interesse de agir."
+      },
+      {
+        "letra": "B",
+        "texto": "O STJ consolidou que o exercício do poder de polícia e a executoriedade dos atos administrativos retiram da Administração Pública o interesse de provocar o Poder Judiciário em busca de provimento jurisdicional, porque o ingresso em juízo pode ser condicionado ao prévio exaurimento das vias administrativas quando relativo aos atos administrativos."
+      },
+      {
+        "letra": "C",
+        "texto": "A multa aplicada pelo Procon, ainda que na condição de órgão fiscalizador, não possui natureza administrativa de poder de polícia quando a prática lesiva for derivada de violação a um único indivíduo, exigindo para tanto que a lesão praticada seja massificada."
+      },
+      {
+        "letra": "D",
+        "texto": "É pacífica a jurisprudência acerca da impossibilidade de análise do Poder Judiciário quanto à proporcionalidade da sanção aplicada pela Administração Pública, no exercício do poder de polícia, sendo permitida, tão somente, se despida de legalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "O motivo do ato administrativo é pressuposto de fato e de direito, servindo-lhe de fundamento objetivo. Não se confunde, contudo, com a motivação, que é a exposição dos motivos, a demonstração de que os pressupostos de fato e de direito realmente existiram no caso concreto. A motivação, nos atos administrativos, não é obrigatória, mas o motivo é pressuposto indispensável, sob pena de nulidade do ato administrativo ao ser analisado pelo Poder Judiciário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3267298",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia",
+      "Abuso de Poder"
+    ],
+    "enunciado_principal": "[Questão Inédita] Sobre os poderes administrativos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O poder hierárquico confere à Administração Pública a prerrogativa de avocar qualquer ato administrativo, independentemente da matéria ou competência legal."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de polícia pode ser delegado a particulares, inclusive para a imposição de sanções administrativas."
+      },
+      {
+        "letra": "C",
+        "texto": "O poder disciplinar permite à Administração punir servidores públicos e particulares que possuam vínculo jurídico com o Estado, mas depende sempre de decisão judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "O abuso de poder pode ocorrer tanto pelo excesso de poder quanto pelo desvio de finalidade, e pode ser controlado pelo Poder Judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "O poder regulamentar permite à Administração Pública inovar no ordenamento jurídico, criando normas primárias sem necessidade de previsão legal específica."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3265634",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O art. 78 do Código Tributário Nacional apresenta conceito relevante para o Direito Administrativo, qual seja, o conceito de poder de polícia, estando assim redigido: Art. 78. Considera-se poder de polícia atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público concernente à segurança, à higiene, à ordem, aos costumes, à disciplina da produção e do mercado, ao exercício de atividades econômicas dependentes de concessão ou autorização do Poder Público, à tranquilidade pública ou ao respeito à propriedade e aos direitos individuais ou coletivos. Considerando o poder de polícia e seus lineamentos legais e constitucionais, bem como entendimentos jurisprudenciais pertinentes, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Costuma-se apontar como atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a coercibilidade, além do fato de corresponder a uma atividade negativa."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de polícia que o Estado exerce pode incidir em duas áreas de atuação estatal: na administrativa e na judiciária. A principal diferença que se costuma apontar entre as duas está no caráter preventivo da polícia administrativa e no repressivo da polícia judiciária."
+      },
+      {
+        "letra": "C",
+        "texto": "Em sentido amplo, o poder de polícia abrange as atividades do Legislativo e do Executivo, podendo utilizar-se de atos normativos, atos administrativos e operações materiais."
+      },
+      {
+        "letra": "D",
+        "texto": "É constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria do ciclo de polícia demonstra que o poder de polícia se desenvolve em três fases, cada uma correspondendo a um modo de atuação estatal: (i) a ordem de polícia, (ii) a fiscalização de polícia e (iii) a sanção de polícia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3261545",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Em uma fiscalização de trânsito, realizada por uma autarquia municipal, apreendeu-se um veículo cujo proprietário estava com a documentação vencida e cujo condutor havia cometido outras infrações administrativas de trânsito. É correto afirmar que o agnete de trânsito exerceu o seguinte poder administrativo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regulamentar, pois fez cumprir as regras positivadas abstratamente."
+      },
+      {
+        "letra": "B",
+        "texto": "De polícia, porque estava atuando para preservar a ordem pública, por meio da restrição da propriedade"
+      },
+      {
+        "letra": "C",
+        "texto": "Hierárquico, pois havia uma relação de subordinação entre o condutor e o agente de trânsito, visando organizar a sociedade."
+      },
+      {
+        "letra": "D",
+        "texto": "Disciplinar, já que estava aplicando uma sanção para corrigir uma infração cometida dentro de uma relação de sujeição especial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3241404",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Rio Negro - PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "São características do poder de polícia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atividade restritiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Gerar indenização."
+      },
+      {
+        "letra": "C",
+        "texto": "Atingir particulares."
+      },
+      {
+        "letra": "D",
+        "texto": "Caráter liberatório."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3217316",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, relativo a atos e poderes administrativos, à organização da administração pública, ao provimento de cargos públicos conforme a Lei n.º 8.112/1990 e à proteção de dados pessoais. Denomina-se poder de polícia o poder da administração pública de apurar infrações e aplicar sanções a seus agentes bem como a seus contratados.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3216028",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A Administração Pública decide aplicar determinada multa a uma empresa por infringir regras ambientais de natureza administrativa no desempenho de sua atividade econômica. A respeito do ato administrativo praticado, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aplicação da multa ambiental administrativa tratada no enunciado é uma das atividades desempenhadas pela chamada polícia judiciária."
+      },
+      {
+        "letra": "B",
+        "texto": "Há discricionariedade na aplicação da multa, sendo que esse aspecto pode ser verificado nos elementos da competência, da finalidade e da forma."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se do exercício do poder de polícia, o qual, por limitar a propriedade e a liberdade, depende do respeito ao devido processo legal para que se mostre válido."
+      },
+      {
+        "letra": "D",
+        "texto": "A cobrança da multa é dotada de executoriedade, podendo ser cobrada coercitivamente na via administrativa, sem a necessidade de interferência do Poder Judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "Por se estar diante da apuração de uma infração administrativa com a correspondente aplicação de uma penalidade, tem- -se a manifestação do exercício do poder disciplinar da Administração."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3213110",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca dos poderes da administração, considere as assertivas que seguem: I. O poder de polícia insere-se no Art. 144 da Constituição Federal, ao tratar de todas as polícias existentes no País, sejam elas judiciárias ou não. II. O poder de polícia é exercido a partir da ideia de supremacia geral da Administração, enquanto o poder disciplinar, de alcance mais limitado, tem seu fundamento na supremacia especial da Administração. III. Não se admite o poder de polícia interfederativo. IV. No ciclo de polícia a fiscalização e a sanção antecedem a legislação e o consentimento. Está correto o que se afirma somente em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II;"
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a II"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV;"
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3241165",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Durante o carnaval, a Câmara de Bebedouro recebeu reclamações de moradores sobre um bloco de rua que ultrapassou o horário permitido para eventos noturnos. Em resposta, o poder público municipal interditou as atividades do bloco. Essa atuação do município caracteriza qual modalidade de exercício do poder de polícia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fiscalização de polícia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ordem de polícia."
+      },
+      {
+        "letra": "C",
+        "texto": "Sanção de polícia."
+      },
+      {
+        "letra": "D",
+        "texto": "Autorização de polícia."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3218571",
+    "metadata": "Ano: 2025 | Banca: UFRR | Órgão: UFRR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O Poder ____________ é a prerrogativa de direito público que, baseada na lei, autoriza a Administração Pública a restringir o uso e o gozo da liberdade e da propriedade em favor do interesse da coletividade. Assinale a alternativa que completa CORRETAMENTE a afirmativa anterior:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hierárquico."
+      },
+      {
+        "letra": "B",
+        "texto": "discricionário."
+      },
+      {
+        "letra": "C",
+        "texto": "de polícia."
+      },
+      {
+        "letra": "D",
+        "texto": "regulamentar."
+      },
+      {
+        "letra": "E",
+        "texto": "judiciário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3207140",
+    "metadata": "Ano: 2025 | Banca: CONSULPAM | Órgão: CFESS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Segundo a Súmula Vinculante n.º 38, editada pelo Supremo Tribunal Federal, “o Município é competente para fixar o horário de funcionamento de estabelecimento comercial”. A situação nela descrita constitui-se um exemplo de exercício do seguinte poder da Administração Pública:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder disciplinar."
+      },
+      {
+        "letra": "B",
+        "texto": "Poder de polícia."
+      },
+      {
+        "letra": "C",
+        "texto": "Poder discricionário."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder hierárquico."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3204833",
+    "metadata": "Ano: 2025 | Banca: CETREDE | Órgão: Prefeitura de São Benedito - CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público concernente à segurança, à higiene, à ordem, aos costumes, à disciplina da produção e do mercado, ao exercício de atividades econômicas dependentes de concessão ou autorização do Poder Público, à tranquilidade pública ou ao respeito à propriedade e aos direitos individuais ou coletivos, é denominada de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder Normativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Poder Discricionário."
+      },
+      {
+        "letra": "C",
+        "texto": "Poder Disciplinar."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder de Polícia."
+      },
+      {
+        "letra": "E",
+        "texto": "Poder Hierárquico."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3204661",
+    "metadata": "Ano: 2025 | Banca: CETREDE | Órgão: Prefeitura de São Benedito - CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Considerando o Poder de Polícia, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se Poder de Polícia a atividade da Administração Pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "O Poder de Polícia reparte-se entre o Legislativo e Executivo, com base no princípio da legalidade, que impede que a Administração imponha obrigações ou proibições sem lei que as preveja. Trata-se, portanto, de limites de atuação."
+      },
+      {
+        "letra": "C",
+        "texto": "A Polícia Judiciária atua, em regra, de forma preventiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A vinculariedade é um de seus atributos."
+      },
+      {
+        "letra": "E",
+        "texto": "Sua coercibilidade trata-se de uma imposição coativa das medidas adotadas pela Administração."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3204038",
+    "metadata": "Ano: 2025 | Banca: UECE-CEV | Órgão: PGE-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou a abstenção de fato, em razão de interesse público, denomina-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "competência hierárquica."
+      },
+      {
+        "letra": "B",
+        "texto": "competência regulamentar."
+      },
+      {
+        "letra": "C",
+        "texto": "poder de polícia."
+      },
+      {
+        "letra": "D",
+        "texto": "poder de fiscalização."
+      },
+      {
+        "letra": "E",
+        "texto": "poder disciplinar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3203631",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Assinale a opção que apresenta uma manifestação do poder de polícia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A edição de atos administrativos gerais para fiel execução das leis."
+      },
+      {
+        "letra": "B",
+        "texto": "A punição de agentes públicos que cometeram infração funcional."
+      },
+      {
+        "letra": "C",
+        "texto": "A aplicação de multa contratual à empresa contratada pela administração."
+      },
+      {
+        "letra": "D",
+        "texto": "A fiscalização dos hospitais particulares por órgãos da vigilância sanitária."
+      },
+      {
+        "letra": "E",
+        "texto": "A edição, pelo Presidente do Tribunal de Justiça no exercício de sua função atípica, de atos administrativos que deverão ser observados pelos servidores subordinados."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3200187",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia da Administração Pública, julgue o item a seguir. A autoexecutoriedade é a possibilidade que tem a Administração de, com os próprios meios, pôr em execução suas decisões, sem precisar recorrer previamente ao Poder Judiciário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3200186",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia da Administração Pública, julgue o item a seguir. São atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a não coercibilidade, além do fato de corresponder a uma atividade positiva.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3200185",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia da Administração Pública, julgue o item a seguir. O Poder Legislativo, no exercício do poder de polícia que incumbe ao Estado, cria, por lei, as chamadas limitações administrativas ao exercício das liberdades públicas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3200184",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia da Administração Pública, julgue o item a seguir. Pelo conceito clássico, ligado à concepção liberal do século XXI, o poder de polícia compreende a atividade estatal que limitava o exercício dos direitos individuais em benefício da soberania nacional.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3200183",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca do poder de polícia da Administração Pública, julgue o item a seguir. O fundamento do poder de polícia é o princípio da predominância do interesse público sobre o particular, que dá à Administração posição de supremacia sobre os administrados.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3186300",
+    "metadata": "Ano: 2025 | Banca: FURB | Órgão: Prefeitura de Pomerode - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Um dos institutos basilares do direito administrativo é o poder de polícia. As transformações neste conceito refletiram as significativas mudanças na concepção do próprio Estado moderno, pois originalmente o termo estava associado à manutenção da ordem moral e social (notadamente no Antigo Regime), mas ao longo dos séculos e com a constituição do próprio Estado moderno, o vocábulo sofreu significativas transformações, consolidando-se como uma ferramenta de reforço do poder estatal. Sobre o tema, julgue os itens a seguir: I.A polícia administrativa tem caráter predominantemente preventivo, atuando antes de o crime ocorrer, submetendo-se essencialmente às regras do Direito Administrativo. II.A polícia judiciária tem natureza repressiva, agindo após a ocorrência do crime para apuração da autoria e materialidade. Sujeita-se basicamente aos princípios e regras do Direito Processual Penal. III.Considera-se regular o exercício do poder de polícia quando desempenhado pelo órgão competente nos limites da lei aplicável, com observância do processo legal e, tratando-se de atividade que a lei tenha como discricionária, sem abuso ou desvio de poder. IV.O poder de polícia resulta sempre no direito ao recebimento de indenização. V.O exercício do poder de polícia apresenta-se como fato gerador da cobrança de imposto. É correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "IV e V, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3183180",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: TJ-RO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Os agentes públicos de uma autarquia estadual de fiscalização ambiental realizaram operação em fazendas localizadas em determinado município. Ao verificarem infrações administrativas ambientais lavraram os respectivos autos de infração, cominando, posteriormente, na aplicação de multas. No que tange ao caso narrado e aos poderes da Administração Pública, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O custeio dessa atividade de fiscalização, atinente ao poder de polícia, necessariamente será por meio da cobrança de impostos."
+      },
+      {
+        "letra": "B",
+        "texto": "O exercício do poder de polícia pela autarquia é denominado pela doutrina de originário, por ser uma pessoa jurídica de direito público."
+      },
+      {
+        "letra": "C",
+        "texto": "O poder de polícia, por representar uma atividade de império, não pode ser objeto de nenhuma delegação a pessoas de direito privado."
+      },
+      {
+        "letra": "D",
+        "texto": "O chamado ciclo de polícia administrativa é composto por quatro atividades, quais sejam: ordem (as vezes substituído pela fase de legislação), consentimento, fiscalização e sanção."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso narrado, apesar de a autarquia possuir poder de polícia, está-se diante do exercício do poder disciplinar da Administração, que permite a apuração de infrações e a aplicação de eventuais penalidades."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3183009",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Aratiba - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder vinculado e discricionário",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre os poderes e deveres da Administração Pública, analise as assertivas a seguir: I. O poder discricionário é aquele de que dispõe a administração para a prática de atos administrativos em que é mínima ou inexistente a sua liberdade de atuação. II. O poder de polícia é a faculdade de que dispõe a Administração Pública para condicionar e restringir o uso e gozo de bens, atividades e direitos individuais em benefício da coletividade ou do próprio Estado. III. O poder hierárquico possibilita a Administração Pública punir internamente as infrações funcionais de seus servidores assim como as infrações administrativas cometidas por particulares a ela ligados por algum vínculo jurídico específico. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3178095",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Em relação ao poder de polícia, a Administração Pública, ao exercê-lo, possui a faculdade de escolher, dentro dos limites legais, a melhor forma de agir, com base em critérios de conveniência e oportunidade, desde que a medida adotada seja razoável e justificada. Esse aspecto do poder de polícia é denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coercibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Legalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Discricionariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "Autotutela."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3177627",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre o exercício do poder de polícia, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o apossamento do espaço urbano público ocorre ilegalmente, incumbe ao administrador, sob risco de cometimento de improbidade e infração disciplinar, fazer a imediata demolição de eventuais construções irregulares e a desocupação de bem turbado ou esbulhado."
+      },
+      {
+        "letra": "C",
+        "texto": "O Estado-membro é competente para a instituição de taxa pelo exercício regular do poder de polícia sobre as atividades de pesquisa, lavra, exploração ou aproveitamento de recursos minerários realizadas no Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "É constitucional legislação municipal que estabelece a obrigatoriedade de condicionantes para a instalação e o funcionamento de antenas, postes, torres, contêineres e demais equipamentos relacionados às Estações Transmissoras de Radiocomunicação (ETR)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3175834",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: SENAPPEN",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A polícia administrativa e a polícia judiciária são órgãos do Poder Executivo que exercem funções com características distintas. A polícia judiciária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incide sobre atividades e bens"
+      },
+      {
+        "letra": "B",
+        "texto": "é predominantemente repressiva"
+      },
+      {
+        "letra": "C",
+        "texto": "tem caráter eminentemente preventivo"
+      },
+      {
+        "letra": "D",
+        "texto": "fiscaliza o cumprimento de normas relativas à ordem pública, a licenças e ao trânsito"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3175272",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Uma prefeitura determina que estabelecimentos comerciais particulares devem encerrar suas atividades às 22 horas em determinada região, visando reduzir ruídos e garantir a tranquilidade dos moradores. Essa decisão limita o horário de funcionamento desses estabelecimentos, regulando o exercício da atividade econômica em prol do interesse da coletividade. Essa atuação administrativa é um exemplo do exercício de qual poder da Administração Pública?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder de polícia."
+      },
+      {
+        "letra": "B",
+        "texto": "Poder hierárquico."
+      },
+      {
+        "letra": "C",
+        "texto": "Poder normativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder disciplinar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3171372",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre o poder de polícia administrativo e a aplicação de multas administrativas, de acordo com o entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se admite o exercício do poder de polícia por pessoas jurídicas de direito privado."
+      },
+      {
+        "letra": "B",
+        "texto": "O termo inicial do prazo prescricional para o ajuizamento da ação executória de multa administrativa é a constituição definitiva do crédito, que se dá com a lavratura do auto de infração."
+      },
+      {
+        "letra": "C",
+        "texto": "A interrupção do prazo decadencial para a constituição do crédito decorrente de infração à legislação administrativa somente se opera pela notificação ou citação do indiciado ou executado, inclusive por meio de edital."
+      },
+      {
+        "letra": "D",
+        "texto": "É constitucional a taxa de renovação de funcionamento e de localização municipal, desde que efetivo o exercício do poder de polícia, demonstrado pela existência de órgão e estrutura competentes para o respectivo exercício."
+      },
+      {
+        "letra": "E",
+        "texto": "O poder de polícia é sempre vinculado, não sendo possível reconhecer ao administrador o poder de escolher o melhor momento de sua atuação ou a sanção mais adequada no caso concreto, mesmo quando há previsão legal de duas ou mais sanções para determinada infração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3165915",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Em relação à organização da administração pública, aos poderes administrativos e aos agentes públicos, julgue o item subsecutivo.Segundo jurisprudência mais recente do STF, as fases de ordem, consentimento, fiscalização e sanção do poder de polícia são todas delegáveis em situações excepcionais.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3160197",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Morungaba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Identifique o tipo de processo administrativo listado abaixo que resulta na imposição de sanções ao cidadão, decorrentes de atos ilícitos praticados. Esses processos são caracterizados pela aplicação de penalidades e têm como objetivo assegurar a conformidade com a legislação estabelecida:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Processos de licenciamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Processos de controle."
+      },
+      {
+        "letra": "C",
+        "texto": "Processos sancionatórios."
+      },
+      {
+        "letra": "D",
+        "texto": "Processos de fiscalização."
+      },
+      {
+        "letra": "E",
+        "texto": "Processos de conciliação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3154704",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Pedro Velho - RN",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Sobre o poder de polícia administrativa, analise a seguinte situação: Um estabelecimento comercial foi autuado por emissão de poluição sonora acima dos níveis estabelecidos pela legislação municipal. O responsável questionou a precisão das medições realizadas e solicitou a anulação da multa, argumentando que os equipamentos utilizados não estavam devidamente calibrados. Qual seria o procedimento administrativo mais adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender a aplicação da multa até que seja realizada nova medição, assegurando o contraditório e a ampla defesa."
+      },
+      {
+        "letra": "B",
+        "texto": "Revisar o processo administrativo, analisando as evidências técnicas e validando ou não as medições realizadas, antes de decidir pela manutenção ou anulação da penalidad"
+      },
+      {
+        "letra": "C",
+        "texto": "Indeferir o pedido de anulação, considerando que a fiscalização foi conduzida por agentes habilitados e com base em normas regulamentares."
+      },
+      {
+        "letra": "D",
+        "texto": "Substituir a multa por uma advertência, permitindo ao estabelecimento realizar adequações e evitar novas infrações."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar o caso para análise de um órgão técnico externo, suspendendo temporariamente a aplicação da penalidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3135761",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Santa Rosa - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder vinculado e discricionário",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia",
+      "Abuso de Poder"
+    ],
+    "enunciado_principal": "Para Rossi (2020), os agentes públicos serão dotados de poderes instrumentais adequados à realização de tarefas administrativas e, também, de deveres administrativos consistentes num poder-dever de agir. Segundo a autora, entre esses poderes da Administração estão: 1. Poder vinculado. 2. Poder disciplinar. 3. Poder hierárquico. 4. Poder de polícia. 5. Poder regulamentar. O resultado da somatória dos números correspondentes às afirmações corretas é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "09."
+      },
+      {
+        "letra": "B",
+        "texto": "10."
+      },
+      {
+        "letra": "C",
+        "texto": "12."
+      },
+      {
+        "letra": "D",
+        "texto": "13."
+      },
+      {
+        "letra": "E",
+        "texto": "15."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3454166",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca dos Poderes da Administração Pública julgue o próximo item. A atuação do agente público acima mencionado está amparada pelo exercício do poder de polícia, que confere à Administração Pública a prerrogativa de restringir direitos individuais em prol do interesse público, independentemente de autorização judicial prévia. Durante uma abordagem policial, uma pessoa foi presa em flagrante por porte ilegal de arma de fogo. Após ser conduzida à delegacia, foi informada de seus direitos, incluindo o de permanecer em silêncio, e foi-lhe assegurado o contato com advogado e familiares. No mesmo dia, a autoridade policial comunicou a prisão ao juiz competente. A situação descrita está em conformidade com as garantias constitucionais relacionadas à prisão.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3454165",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Acerca dos Poderes da Administração Pública julgue o próximo item. A atuação do agente público acima mencionado está amparada pelo exercício do poder de polícia, que confere à Administração Pública a prerrogativa de restringir direitos individuais em prol do interesse público, independentemente de autorização judicial prévia. Durante fiscalização de rotina, agentes da Polícia Federal interceptaram um caminhão transportando grande quantidade de cocaína e comprimidos de ecstasy. O motorista foi preso em flagrante, e a investigação prosseguiu com o objetivo de identificar os demais integrantes da organização responsável pelo tráfico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3451534",
+    "metadata": "Ano: 2024 | Banca: Qconcursos | Órgão: Polícia Federal",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Durante uma operação conjunta entre a Polícia Federal e o IBAMA, um agente deste órgão de fiscalização ambiental determinou, de forma imediata, a interdição de uma fábrica que estava lançando resíduos tóxicos em área de preservação permanente, causando risco à saúde da população local. A empresa afetada alega que a medida foi arbitrária, pois não houve prévia ordem judicial. Acerca dos Poderes da Administração Pública julgue o próximo item. A atuação do agente público acima mencionado está amparada pelo exercício do poder de polícia, que confere à Administração Pública a prerrogativa de restringir direitos individuais em prol do interesse público, independentemente de autorização judicial prévia. DIREITO CONSTITUCIONAL",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3398169",
+    "metadata": "Ano: 2024 | Banca: SELECON | Órgão: CRC-SE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia é a faculdade que dispõe a administração pública de condicionar e restringir o uso e o gozo de bens, atividades e direitos individuais em benefício da coletividade ou do próprio Estado. Quanto aos seus atributos, é correto afirmar que o poder de polícia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é dotado de autoexecutoriedade, mas a exigibilidade do cumprimento do seu exercício depende de autorização judicial"
+      },
+      {
+        "letra": "B",
+        "texto": "é dotado de sentido positivo em que o Poder Público, sempre por meio do seu exercício, pretende obter uma atuação do particular"
+      },
+      {
+        "letra": "C",
+        "texto": "é delegável ao particular no que envolve a prática de atos fiscalizatórios e materiais, operando-se a transferência do poder de império do Estado"
+      },
+      {
+        "letra": "D",
+        "texto": "é discricionário, em regra, pois o Estado tem liberdade para escolher as atividades a serem objeto do seu exercício nos termos previstos na legislação, de acordo com o interesse público"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3374908",
+    "metadata": "Ano: 2024 | Banca: GANZAROLI | Órgão: Prefeitura de Cumari - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia pode ser conceituado como “o modo de atuar da autoridade administrativa que consiste em intervir no exercício das atividades individuais suscetíveis de fazer perigar interesses gerais, tendo por objetivo evitar que se produzam, ampliem ou generalizem danos sociais que a lei procura prevenir”. Assim, o Poder de polícia administrativa tem como características, com exceção de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A polícia administrativa pode atuar em dois, sentidos, representando a atividade destinada a prevenir e reprimir os comportamentos danosos a sociedade, assim ela incide sobre bens, direitos e atividades e a sua atuação se irradia por toda a administração pública."
+      },
+      {
+        "letra": "B",
+        "texto": "A polícia administrativa com funções preventivas, age através de normas limitadoras ou sancionadoras do comportamento dos indivíduos, que fazem uso de bens ou praticam atividades que consigam afetar a sociedade, e atua na função preventiva concedendo alvarás aos particulares, que devem honrar com os termos e requisitos para a utilização da propriedade e a prática das situações que serão policiadas. O alvará concedido pela administração pode ser licença ou autorização."
+      },
+      {
+        "letra": "C",
+        "texto": "O poder de polícia administrativa tem a obrigação-dever de punir o infrator que cometer ação ilícita de natureza penal. Ou seja, elabora e pratica atividades de essência repressiva e ostensiva, isto é, detêm o dever de coibir atividades transgressoras da lei através da atuação policial no viés criminal, com consequente apreensão daqueles que violam a norma penal."
+      },
+      {
+        "letra": "D",
+        "texto": "No que tange a polícia administrativa, o seu grande objetivo é impedir ou paralisar atividades antissociais, incidindo sobre bens, direitos, ou atividades dos particulares. Incide sobre ilícito puramente administrativo, sendo regida pelo direito administrativo. Essa polícia pode ser fiscalizadora, preventiva ou repressiva, sendo que, em nenhum caso, haverá aplicação de penalidade pelo poder judiciário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3324090",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: UEFS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Avalie as assertivas abaixo que apresentam conceitos de alguns poderes da Administração Pública: I.Faculdade que dispõe a Administração Pública de limitar e condicionar o uso e gozo de bens, atividades e o exercício dos direitos individuais em benefício do interesse público. II.Prerrogativa conferida à Administração Pública para editar atos gerais, complementando as leis e permitindo sua aplicação efetiva. III.É o poder que autoriza a Administração Pública apurar infrações e aplicar penalidades aos servidores públicos e aos particulares que possuam algum vínculo jurídico com a Administração. Assinale a opção que aponta CORRETA E RESPECTIVAMENTE os Poderes da Administração Pública conceituados nas assertivas acima:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder Hierárquico - Poder Regulamentar - .Poder Disciplinar."
+      },
+      {
+        "letra": "B",
+        "texto": "Poder de Polícia - Poder Regulamentar - Poder Disciplinar."
+      },
+      {
+        "letra": "C",
+        "texto": "Poder de Tutela - Poder Discricionário - Poder de Polícia."
+      },
+      {
+        "letra": "D",
+        "texto": "Poder Disciplinar - Poder Punitivo - Poder de Polícia."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3312012",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Barra do Rocha - BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Leia o caso hipotético abaixo: Maria é proprietária de uma loja de alimentos em uma cidade de médio porte. Recentemente, durante uma fiscalização da Vigilância Sanitária, foi constatado que alguns produtos estavam armazenados de forma incorreta, o que poderia representar um risco à saúde pública. Com base nessa constatação, os fiscais da Vigilância Sanitária imediatamente apreenderam os alimentos impróprios para o consumo, o que gerou revolta em Maria. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os Fiscais da Vigilância Sanitária agiram corretamente ao apreender a mercadoria, uma vez que o Poder Hierárquico os coloca em patamar superior aos administrados."
+      },
+      {
+        "letra": "B",
+        "texto": "Os fiscais da Vigilância Sanitária somente poderiam ter apreendido a mercadoria de Maria, após a autorização judicial ser emitida."
+      },
+      {
+        "letra": "C",
+        "texto": "Os fiscais da Vigilância Sanitária somente poderiam ter apreendido a mercadoria, após a tramitação de Processo Administrativo Disciplinar, garantindo-se o contraditório e a ampla defesa à Maria."
+      },
+      {
+        "letra": "D",
+        "texto": "Os fiscais da Vigilância Sanitária agiram dentro do Poder de Polícia, cujo atributo da autoexecutoriedade permitiu-lhes a apreensão imediata da mercadoria."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3298655",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Piúma - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Leia o caso hipotético abaixo: \"A Vigilância Sanitária de determinado município litorâneo realizou uma operação de fiscalização nas praias durante o verão. O objetivo era coibir a prática de comércio irregular de alimentos, que poderiam comprometer a segurança alimentar dos banhistas. Durante a operação, alguns ambulantes foram encontrados vendendo alimentos sem as condições adequadas de higiene. Nesses casos, os fiscais apreenderam e inutilizaram as mercadorias.\" Com base no Poder de Polícia, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação dos fiscais foi incorreta, pois o Poder de Polícia somente pode ser exercido pelo Poder Judiciário, que é o órgão competente para fiscalizar e punir atividades que atentem contra o interesse público."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação dos fiscais foi correta, pois, no exercício da fiscalização do Poder de Polícia, caso sejam constatadas irregularidades, a Administração Pública poderá aplicar sanções aos particulares, respeitadas as normas legais."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação dos fiscais foi incorreta, pois o exercício do exercício do Poder de Polícia, pela Administração Pública, não pode implicar a imposição de penalidades aos particulares, tais como a apreensão e destruição de mercadorias, sendo restrito apenas a orientações e recomendações."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação dos fiscais foi correta, pois o Poder de Polícia permite à Administração Pública agir para restringir a liberdade dos indivíduos ou o uso da propriedade privada sempre que considerar conveniente, sem necessidade de fundamentação legal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3284142",
+    "metadata": "Ano: 2024 | Banca: IDESG | Órgão: Prefeitura de Mantenópolis - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia é uma função essencial do Estado para assegurar a ordem pública e o cumprimento das leis. Este poder permite à administração pública restringir direitos individuais em nome do interesse coletivo. Nesse contexto, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O poder de polícia se limita às atividades de segurança pública realizadas por policiais uniformizados."
+      },
+      {
+        "letra": "B",
+        "texto": "É exercido exclusivamente através de ações punitivas, como multas e prisões."
+      },
+      {
+        "letra": "C",
+        "texto": "Inclui a capacidade de regular comportamentos através de normas, monitorar o cumprimento dessas normas e aplicar sanções administrativas quando necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve ser exercido sem qualquer tipo de controle ou revisão judicial, para garantir sua efetividade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3271181",
+    "metadata": "Ano: 2024 | Banca: Ibest | Órgão: CRF-RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder normativo, poder hierárquico e poder disciplinar",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito dos poderes administrativos que consistem em prerrogativas do Estado para alcançar o interesse público, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o poder hierárquico se manifesta entre União, Distrito Federal, estados e municípios, havendo entre eles relação de subordinação."
+      },
+      {
+        "letra": "B",
+        "texto": "o abuso de poder ocorre quando o agente atua nos limites da competência legalmente definida, mas com finalidade diversa da inicialmente prevista."
+      },
+      {
+        "letra": "C",
+        "texto": "A delegação é a tomada de competência de um agente por outro, desde que este último seja seu superior hierárquico."
+      },
+      {
+        "letra": "D",
+        "texto": "o poder de polícia se expressa no condicionamento da liberdade e da propriedade dos indivíduos, mediante ações fiscalizadoras, preventivas e repressivas."
+      },
+      {
+        "letra": "E",
+        "texto": "o poder de polícia é conhecido como o poder de apurar infrações, aplicando sanções a quem possui vínculos especiais com o Estado."
+      }
+    ],
+    "gabarito": "X"
+  },
+  {
+    "id": "3268711",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia é um instrumento da Administração que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público. Com base nessa informação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O poder de polícia é irrestrito e não possui limites ou controles estabelecidos pela Constituição Federal de 1988 e pelas leis."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de polícia só pode ser exercido por órgãos do Poder Judiciário, e não por órgãos do Poder Executivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Os atos administrativos relacionados ao poder de polícia devem ser motivados e não podem ser arbitrários."
+      },
+      {
+        "letra": "D",
+        "texto": "O poder de polícia é utilizado, exclusivamente, para as atividades militares e de defesa nacional."
+      },
+      {
+        "letra": "E",
+        "texto": "O poder de polícia pode ser exercido sem necessidade de qualquer norma ou regulamentação legal específica."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3248429",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: Prefeitura de Feira de Santana - BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de Polícia Administrativa será exercido sobre qualquer tipo de publicidade, principalmente a de gênero alimentício. Diante do exposto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) A exploração da publicidade abrange qualquer espécie, engenho, processo ou forma de propaganda dirigida ao público, ainda que localizada em terrenos privados. ( ) Nenhuma publicidade poderá ser realizada sem alvará de licença e pagamento da taxa de poder de Polícia Administrativa. ( ) O Poder de Polícia Administrativa não será exercido para impedir a informação falsa quanto a qualidade e a natureza de produtos. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V - V - F"
+      },
+      {
+        "letra": "B",
+        "texto": "V - F - F"
+      },
+      {
+        "letra": "C",
+        "texto": "F - V - F"
+      },
+      {
+        "letra": "D",
+        "texto": "V - F - V"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3245022",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: SAAE de Aparecida - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito do poder de polícia, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assim como outras atividades desenvolvidas diretamente pelo Estado, o poder de polícia apresenta, sobretudo, cunho prestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Analisando-se o poder de polícia sob uma perspectiva moderna, pode-se afirmar que a atividade de poder de polícia realiza-se tanto por meio da repressão como por meio do fomento de condutas."
+      },
+      {
+        "letra": "C",
+        "texto": "Em virtude da supremacia do interesse público, admite-se que por meio da atividade do poder de polícia ocorra limitação da autonomia privada, ainda que não autorizado previamente por meio do Direito."
+      },
+      {
+        "letra": "D",
+        "texto": "A taxa cobrada do particular pelo exercício do poder de polícia deve ser proporcional à riqueza do sujeito passivo, bem como instrumento de desincentivo das atividades consideradas nocivas pelo ente público."
+      },
+      {
+        "letra": "E",
+        "texto": "As medidas de polícia são sempre dotadas de grau de eficácia mínimo ou médio, uma vez que para terem grau de eficácia máximo dependem da prévia intervenção do Poder Judiciário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3233248",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: Prefeitura de Feira de Santana - BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito do Poder de Polícia, analise as afirmativas abaixo. I. O exemplo mais comum do ato de polícia vinculado é o da licença. II. Costuma-se apontar como atributos do poder de polícia a discricionariedade, a autoexecutoriedade e a exigibilidade. III. O fundamento do poder de polícia é o princípio da predominância do interesse público sobre o particular, que dá à Administração posição de supremacia sobre os administrados. IV. O poder de polícia que o Estado exerce pode incidir em duas áreas de atuação estatal: na administrativa e na judiciária. A principal diferença que se costuma apontar entre as duas está no caráter repressivo da polícia administrativa e no preventivo da polícia judiciária. Estão corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III apenas"
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3225631",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Piracicaba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder vinculado e discricionário",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito das características do poder de polícia, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o legislador, em regra, não deixa margem de liberdade para o administrador, e a atuação de polícia é normalmente vinculada."
+      },
+      {
+        "letra": "B",
+        "texto": "em regra, o exercício do poder de polícia não precisa ter por base prévia autorização em lei, pois ao gestor público cabe defender sempre o interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "a autoexecutoriedade não é uma característica do poder de polícia, pois os atos administrativos que afetam interesses particulares precisam ser precedidos de processo administrativo, em que se garanta o respeito ao contraditório e à ampla defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "o poder de polícia é, em regra, caracterizado pela discricionariedade, que corresponde à necessidade de que todos os pressupostos para a realização do ato sejam discriminados pela lei."
+      },
+      {
+        "letra": "E",
+        "texto": "os atos de polícia, em regra, são coercitivos, pois impõem restrições ou condições que precisam ser cumpridas por particulares."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3225619",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Piracicaba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Atos administrativos",
+      "Atributos do ato administrativo – presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade",
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "João, agente de fiscalização municipal, foi designado para apurar potencial prática de venda irregular de produtos eletrônicos em ruas do centro da Cidade. Após diligências iniciais, identificou um grupo que estaria realizando a comercialização de produtos falsificados e, para impedir que a prática dos ilícitos continuasse, com o auxílio da Guarda Civil, apreendeu os equipamentos, medida que está autorizada em lei. Com base na situação hipotética, pode-se afirmar, corretamente, que a prerrogativa de implantar o ato diretamente, sem prévia manifestação do Poder Judiciário, corresponde ao atributo do poder de polícia da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "autoexecutoriedade."
+      },
+      {
+        "letra": "B",
+        "texto": "coercibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "discricionariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "eficácia."
+      },
+      {
+        "letra": "E",
+        "texto": "continuidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3225618",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Piracicaba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "A respeito do poder de polícia, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ser objeto de delegação a entidades integrantes da administração indireta, por se confundir com a função de império do Estado."
+      },
+      {
+        "letra": "B",
+        "texto": "se manifesta no exercício da polícia judiciária, por corresponder à atividade preparatória para a função jurisdicional penal."
+      },
+      {
+        "letra": "C",
+        "texto": "manifesta-se, dentre outras, na hipótese em que a Administração Pública aplica sanção disciplinar em face de um servidor público."
+      },
+      {
+        "letra": "D",
+        "texto": "em sentido estrito, corresponde à atividade administrativa que, com base na lei, restringe e condiciona o exercício de direitos, com o objetivo de implantar o interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser exercido, ainda que sem prévia autorização em lei, para assegurar a supremacia do interesse público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3199273",
+    "metadata": "Ano: 2024 | Banca: INAZ do Pará | Órgão: Prefeitura de Capão Alto - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "Qual a diferença entre polícia administrativa e polícia judiciária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A polícia administrativa tem como objetivo a fiscalização e regulamentação de atividades econômicas e sociais, enquanto a polícia judiciária é responsável pela investigação de crimes e coleta de provas."
+      },
+      {
+        "letra": "B",
+        "texto": "A polícia administrativa é responsável pela segurança pública, enquanto a polícia judiciária é responsável pela manutenção da ordem administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "A polícia administrativa é subordinada ao poder executivo, enquanto a polícia judiciária é subordinada ao poder judiciário."
+      },
+      {
+        "letra": "D",
+        "texto": "A polícia administrativa atua apenas no âmbito federal, enquanto a polícia judiciária atua apenas no âmbito estadual."
+      },
+      {
+        "letra": "E",
+        "texto": "A polícia administrativa e judiciária exercem as mesmas funções, sendo responsáveis pela investigação de crimes e pela fiscalização das atividades econômicas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3197259",
+    "metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: Prefeitura de Posse - GO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Poderes da Administração",
+      "Poder de polícia"
+    ],
+    "enunciado_principal": "O poder de polícia no âmbito administrativo é caracterizado pela",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "possibilidade de agir arbitrariamente."
+      },
+      {
+        "letra": "B",
+        "texto": "limitação de atuação apenas em situações de emergência."
+      },
+      {
+        "letra": "C",
+        "texto": "fiscalização e aplicação de medidas para garantir a ordem, segurança e o bem-estar social."
+      },
+      {
+        "letra": "D",
+        "texto": "atuação exclusiva em questões de segurança nacional."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3291518",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "RDC - Regime Diferenciado de Contratações - Lei nº 12.462 de 2011"
+    ],
+    "enunciado_principal": "Em relação ao Regime Diferenciado de Contratações Públicas (RDC), um dos seus principais objetivos é proporcionar maior eficiência na contratação de obras e serviços. Para isso, o regime prevê:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vedação da contratação integrada para obras de grande vulto."
+      },
+      {
+        "letra": "B",
+        "texto": "A dispensa de qualquer modalidade de licitação para contratos emergenciais."
+      },
+      {
+        "letra": "C",
+        "texto": "A adoção exclusiva do critério de menor preço para julgamento das propostas."
+      },
+      {
+        "letra": "D",
+        "texto": "A possibilidade de sigilo orçamentário sobre o valor estimado da contratação."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

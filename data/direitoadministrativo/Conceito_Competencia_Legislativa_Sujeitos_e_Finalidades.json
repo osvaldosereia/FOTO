@@ -1,0 +1,52 @@
+[
+  {
+    "id": "3508866",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAU-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Conceito, Competência Legislativa, Sujeitos e Finalidades"
+    ],
+    "enunciado_principal": "Julgue o próximo item relativo a gestão de estoques, recebimento e armazenagem, gestão patrimonial e compras no setor público. O objeto de licitação é definido como o bem ou serviço que a administração pública deseja adquirir ou contratar, sendo esse o motivo que justifica a abertura do processo licitatório.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3499207",
+    "metadata": "Ano: 2025 | Banca: FRONTE | Órgão: Prefeitura de Santa Bárbara - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Licitações e Lei 8.666 de 1993.",
+      "Conceito, Competência Legislativa, Sujeitos e Finalidades"
+    ],
+    "enunciado_principal": "Com relação à Lei nº 8.666/93, que trata das licitações e contratos na Administração Pública, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O médico auditor não precisa conhecer essa lei, pois não participa de processos licitatórios."
+      },
+      {
+        "letra": "B",
+        "texto": "Essa lei regulamenta apenas os contratos administrativos com empresas privadas internacionais."
+      },
+      {
+        "letra": "C",
+        "texto": "A lei trata apenas da contratação de pessoal para o SUS."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei estabelece normas para aquisição de materiais e serviços, sendo essencial à gestão de recursos em saúde."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

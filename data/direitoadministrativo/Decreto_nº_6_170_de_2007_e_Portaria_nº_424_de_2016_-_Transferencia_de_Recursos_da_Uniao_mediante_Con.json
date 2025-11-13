@@ -1,0 +1,407 @@
+[
+  {
+    "id": "3695880",
+    "metadata": "Ano: 2025 | Banca: EVO Concursos | Órgão: Prefeitura de Unaí - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "De acordo com o Art. 5º, § 1º, da Lei nº 11.947/2009, como o Fundo Nacional de Desenvolvimento da Educação (FNDE) deve efetivar a transferência dos recursos financeiros do PNAE para os Estados, o Distrito Federal e os Municípios?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente após o envio de comprovantes de aquisição de gêneros alimentícios do exercício anterior por parte do ente federado."
+      },
+      {
+        "letra": "B",
+        "texto": "Mediante depósito em conta corrente específica, de forma automática e sem a necessidade de convênio."
+      },
+      {
+        "letra": "C",
+        "texto": "Com base em plano de trabalho aprovado pelo Congresso Nacional e liberação condicionada à arrecadação do trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "Mediante a celebração de convênio específico, com renovação anual e assinatura de termo aditivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3647505",
+    "metadata": "Ano: 2025 | Banca: IDECAN | Órgão: UFSBA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Acerca do instrumento de convênios, selecione a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São acordos celebrados por entidades públicas entre si ou com particulares, desde que os entes do convênio possuam interesses comuns em que haja obrigatoriamente o repasse de recursos financeiros."
+      },
+      {
+        "letra": "B",
+        "texto": "São acordos celebrados por entidades públicas entre si ou com particulares, em que ambos colaborem com esforços ou recursos para a efetivação do fim almejado. Ainda deve a finalidade ou o objeto ser de interesse mútuo."
+      },
+      {
+        "letra": "C",
+        "texto": "São acordos celebrados exclusivamente por entidades públicas entre si, desde que os entes do convênio possuam interesses comuns, ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      },
+      {
+        "letra": "D",
+        "texto": "São acordos celebrados em que pode haver interesses divergentes entre os entes e que ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      },
+      {
+        "letra": "E",
+        "texto": "São acordos celebrados entre entidades privadas onde os entes do convênio possuem interesses comuns e é caracterizado pela transferência financeira para a efetivação do fim almejado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3645868",
+    "metadata": "Ano: 2025 | Banca: IDECAN | Órgão: UFOB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Entre os diversos instrumentos que estabelecem a relação entre instituições estão os convênios. Neste sentido, marque o item correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os Convênios e similares são acordos celebrados por entidades públicas entre si ou com particulares, desde que os entes do convênio possuam interesses comuns, ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      },
+      {
+        "letra": "B",
+        "texto": "Os Convênios e similares são acordos celebrados por entidades públicas entre si ou com particulares, desde que os entes do convênio possuam interesses comuns em que haja obrigatoriamente o repasse de recursos financeiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Os Convênios e similares são acordos celebrados exclusivamente por entidades públicas entre si, desde que os entes do convênio possuam interesses comuns, ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      },
+      {
+        "letra": "D",
+        "texto": "Os Convênios e similares são acordos celebrados por entidades públicas entre si ou com particulares, podendo haver interesses divergentes entre os entes e que ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      },
+      {
+        "letra": "E",
+        "texto": "Os Convênios e similares são acordos celebrados somente por entidades privadas entre si, desde que os entes do convênio possuam interesses comuns, ambos colaborem com esforços ou recursos para a efetivação do fim almejado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3645867",
+    "metadata": "Ano: 2025 | Banca: IDECAN | Órgão: UFOB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "É irregular a celebração de convênio quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se caracterizar a existência de interesses recíprocos dos participantes na consecução do objeto, não cabe firmar convênio."
+      },
+      {
+        "letra": "B",
+        "texto": "não se caracterizar a existência de interesses particulares dos participantes na consecução do objeto, não cabe firmar convênio."
+      },
+      {
+        "letra": "C",
+        "texto": "comprovadas as aplicações dos recursos financeiros destinados à execução do objeto"
+      },
+      {
+        "letra": "D",
+        "texto": "a relação é meramente comercial, sem que estejam caracterizados o interesse recíproco e a cooperação, típicas desse instrumento."
+      },
+      {
+        "letra": "E",
+        "texto": "for celebrado com objeto específico, devendo os convênios serem de amplo aspecto ou guarda-chuvas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3629224",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CRM-DF",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Um ministério da Administração direta federal pretende executar, conjuntamente com uma autarquia estadual, um projeto de laboratório de dados públicos, com compartilhamento de equipe, infraestrutura e resultados, incluindo repasse de recursos e contrapartida técnica. Assinale a alternativa que apresenta o instrumento e regime adequados sob a perspectiva legal e formal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contrato administrativo, com licitação obrigatória, pois há transferência de recursos e interesses contrapostos entre as partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Termo de fomento regido pelo MROSC, por envolver repasse de recursos, ainda que o parceiro seja ente da Administração pública."
+      },
+      {
+        "letra": "C",
+        "texto": "Convênio de cooperação, sem licitação entre os partícipes públicos, com prestações recíprocas orientadas a objetivo comum e prestação de contas específica."
+      },
+      {
+        "letra": "D",
+        "texto": "Acordo de cooperação técnica, sem formalização financeira e sem qualquer obrigação de prestação de contas, por ter finalidade pública."
+      },
+      {
+        "letra": "E",
+        "texto": "Contrato de gestão, por se tratar de parceria Inter administrativa, com foco em metas e resultados, independentemente do regime jurídico das entidades."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3573083",
+    "metadata": "Ano: 2025 | Banca: COSEAC | Órgão: UFF",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Considere o seguinte caso concreto: a Universidade Federal Fluminense – UFF deseja associar-se a outra entidade pública que tenha interesses comuns aos seus, particularmente ensino e pesquisa. O objetivo é a realização de um estudo de interesse de ambas as instituições, mediante mútua colaboração, obtendo-se um resultado comum a ser usufruído por todos os participantes. Diante desse caso, o instrumento mais adequado a ser celebrado entre as referidas instituições é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concessão administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "contrato de gestão."
+      },
+      {
+        "letra": "C",
+        "texto": "parceria público-privada - PPP."
+      },
+      {
+        "letra": "D",
+        "texto": "convênio."
+      },
+      {
+        "letra": "E",
+        "texto": "empreitada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3552221",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CRECI - 11ª Região (SC)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Quanto ao Decreto n.º 11.531/2023, julgue os itens a seguir. I A contrapartida será calculada sobre o valor total do objeto e, se financeira, será depositada na conta bancária específica do convênio ou do contrato de repasse nos prazos estabelecidos no cronograma de desembolso. II As parcelas da contrapartida não poderão ser antecipadas. III Na celebração de convênio ou de contrato de repasse com entidades privadas sem fins lucrativos, será admitida a contrapartida em bens e serviços, se economicamente mensuráveis. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3552207",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CRECI - 11ª Região (SC)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Em relação aos convênios, julgue os itens a seguir. I O ajuste, sob regime de mútua cooperação, em que órgão ou entidade da administração pública federal recebe recursos para a execução de programa estadual, distrital ou municipal, pode ser feito por meio de convênio de receita. II O contrato de repasse é o instrumento de interesse recíproco, por meio do qual a transferência dos recursos financeiros é processada por intermédio de instituição ou de agente financeiro oficial federal que atue como mandatário da União. III O convênio também pode ser celebrado para a execução de ações de interesse recíproco e em regime de mútua colaboração, a título gratuito, sem transferência de recursos ou doação de bens. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3522852",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: CISBAF - RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Determinado município celebrou um convênio com o Governo Federal, por meio do Ministério da Saúde, com o objetivo de ampliar a cobertura de atenção primária na rede municipal. O ajuste previa repasse de recursos federais à conta de um plano de trabalho anteriormente aprovado. Durante a realização, verificou-se que a execução física estava em atraso, e a prestação de contas parcial apresentou inconsistências. Diante da situação, o servidor responsável pela gestão do convênio na prefeitura verificou quais providências administrativas seriam adequadas à correta condução do instrumento e ao cumprimento das normas aplicáveis. Considerando o contexto apresentado e as normas sobre convênios e instrumentos congêneres, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prestação de contas parcial pode ser dispensada caso o convenente apresente justificativa de que os resultados finais ainda não foram alcançados."
+      },
+      {
+        "letra": "B",
+        "texto": "O convênio já foi firmado e eventuais ajustes no plano de trabalho devem ser realizados livremente pelo convenente, desde que dentro da vigência do termo."
+      },
+      {
+        "letra": "C",
+        "texto": "O descumprimento do cronograma físico-financeiro implica rescisão imediata do convênio por parte da União, independentemente de contraditório ou ampla defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "O município poderá solicitar à concedente a formalização de termo aditivo ao convênio, visando à prorrogação de prazo e à adequação do plano de trabalho, desde que devidamente justificada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3505754",
+    "metadata": "Ano: 2025 | Banca: UFMT | Órgão: ARIS-MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Considere a seguinte situação hipotética: A União, por intermédio de determinado órgão federal, manifestou interesse na celebração de um convênio com a Agência Reguladora Intermunicipal de Saneamento (ARIS/MT) para execução de obras de expansão da rede de saneamento básico no território de municípios consorciados. Em consonância com as disposições legais aplicáveis, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A União somente poderá firmar convênio com a ARIS/MT se o Estado de Mato Grosso participar do ajuste."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a celebração do convênio entre a União e a ARIS/MT, as exigências legais de regularidade deverão ser cumpridas por todos os entes federativos consorciados."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedado ao consórcio público receber repasse de recursos públicos de outros órgãos de governo, ainda que seja mediante convênio."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação de quaisquer recursos públicos repassados pela União, mediante convênio, à ARIS/MT será fiscalizada pelo Tribunal de Contas da União."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3503245",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: GHC-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Com base na legislação vigente e nos princípios constitucionais que regem a destinação de recursos públicos para entes privados, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As transferências voluntárias da União para outros entes federados exigem a celebração de instrumento jurídico, a exemplo de convênios e contratos de repasse, nos termos da Lei nº 14.133/2021."
+      },
+      {
+        "letra": "B",
+        "texto": "A destinação de recursos públicos para entidades privadas sem fins lucrativos depende da comprovação de regular funcionamento e da existência de finalidade pública justificada."
+      },
+      {
+        "letra": "C",
+        "texto": "A celebração de convênio com organização da sociedade civil é possível desde que esta entidade demonstre experiência prévia e capacidade técnica."
+      },
+      {
+        "letra": "D",
+        "texto": "A execução das transferências voluntárias deve observar os princípios da eficiência, impessoalidade e legalidade, além da prestação de contas ao final da parceria."
+      },
+      {
+        "letra": "E",
+        "texto": "As transferências voluntárias entre entes da Federação independem de adimplência fiscal do ente recebedor, bastando a previsão orçamentária e a dotação correspondente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3445543",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: CAESB-DF",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "Os convênios na administração pública destinam-se a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estabelecer cooperação entre entes públicos ou entre estes e entidades privadas sem fins lucrativos para a realização de objetivos de interesse comum, mediante transferência de recursos ou bens."
+      },
+      {
+        "letra": "B",
+        "texto": "transferir recursos por meio de instituição ou agente financeiro público federal."
+      },
+      {
+        "letra": "C",
+        "texto": "promover a contratação de serviços ou obras específicas com empresas privadas, por meio de processo licitatório."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelecer contratos de compra e venda de bens públicos entre diferentes órgãos do governo."
+      },
+      {
+        "letra": "E",
+        "texto": "criar cargo, emprego ou função que implique em aumento de despesa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3518381",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Mogi das Cruzes - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Decreto nº 6.170 de 2007 e Portaria nº 424 de 2016 - Transferência de Recursos da União mediante Convênios e Contratos de Repasse"
+    ],
+    "enunciado_principal": "A Lei Paulo Gustavo (Lei Complementar no 195/2022) dispõe sobre ações emergenciais voltadas ao setor cultural para combater e mitigar os efeitos da pandemia de Covid-19. Pensada para simplificar o acesso à verba e acelerar a sua chegada aos fazedores, os gestores locais (Estados, municípios e Distrito Federal) elaboram editais, chamamentos e prêmios, e são responsáveis pela contratação e pelo repasse dos recursos aos ganhadores. Considerando a forma de repasse dos recursos aos proponentes selecionados, a Lei Paulo Gustavo consiste em um fomento do tipo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "direto."
+      },
+      {
+        "letra": "B",
+        "texto": "indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Funcine"
+      },
+      {
+        "letra": "D",
+        "texto": "Condecine."
+      },
+      {
+        "letra": "E",
+        "texto": "fluxo contínuo."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

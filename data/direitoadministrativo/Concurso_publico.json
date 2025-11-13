@@ -1,0 +1,927 @@
+[
+  {
+    "id": "3452240",
+    "metadata": "Ano: 2025 | Banca: UFMG | Órgão: UFMG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Com relação à constatação de deficiência de candidatos aprovados em concurso público em vaga de pessoa com deficiência, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser acompanhada de laudo médico original, atestando as atividades para as quais está habilitado."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ser realizada por equipe multiprofissional incluindo um médico investido em cargo público (médico oficial)."
+      },
+      {
+        "letra": "C",
+        "texto": "deve exigir do candidato com deficiência, no ato da posse, declarar-se como pessoa com deficiência."
+      },
+      {
+        "letra": "D",
+        "texto": "deve isentar a pessoa com deficiência que tem direito automático de horário especial, não sujeito à compensação, a necessidade de avaliação pericial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3409243",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Princípios da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime jurídico administrativo",
+      "Concurso público"
+    ],
+    "enunciado_principal": "A respeito dos agentes públicos, bem como dos princípios da administração pública, julgue o item seguinte. Em atenção ao princípio administrativo da isonomia, os tribunais superiores consideram inconstitucional a imposição legal de critérios de distinção entre os candidatos de determinado concurso público.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3294923",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O ingresso de pessoal por concurso garante ampla oportunidade de acesso, mas há exceções que permitem contratações específicas. Assinale a alternativa que exemplifica uma contratação temporária válida:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suprimento de necessidade emergencial em setor de saúde, com prazo determinado e justificativa da urgência, atendendo demanda inadiável."
+      },
+      {
+        "letra": "B",
+        "texto": "Criação de vínculo efetivo vinculado a atribuições permanentes, dispensando concurso e relatórios sobre duração do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "Extensão ilimitada do contrato temporário, alcançando décadas de serviço desprovido de análise periódica."
+      },
+      {
+        "letra": "D",
+        "texto": "Implantação de modelo híbrido, conferindo estabilidade parcial ao contratado, de acordo com avaliação interna trimestral."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3294910",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Um concurso público confere legitimidade para o ingresso em cargos efetivos, obedecendo regras de ampla concorrência e transparência. Assinale a alternativa que expressa uma condição coerente com esse processo seletivo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Publicação interna dos editais, inviabilizando o conhecimento por candidatos externos e mantendo o público alvo em pequeno grupo."
+      },
+      {
+        "letra": "B",
+        "texto": "Definição exclusiva de requisitos baseados em critérios pessoais, vinculando o acesso ao cargo ao julgamento subjetivo da chefia."
+      },
+      {
+        "letra": "C",
+        "texto": "Inscrição permitida unicamente para indivíduos vinculados a órgãos públicos, isolando candidatos provenientes do setor privado."
+      },
+      {
+        "letra": "D",
+        "texto": "Adoção de etapas objetivas e avaliação de competências, prevendo divulgação ampla do certame para garantir igualdade de oportunidades."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3294653",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Cargo, emprego, função",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O estágio probatório é a fase na qual o servidor novato demonstra aptidão para o cargo efetivo, com avaliações de desempenho que influenciam sua permanência. Marque a alternativa CORRETA acerca desse período:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Visa apenas questões de pontualidade, descartando análise de qualidade produtiva ou postura frente à equipe."
+      },
+      {
+        "letra": "B",
+        "texto": "Exige acompanhamento por comissão avaliadora, observando habilidades, conduta e aproveitamento nas atribuições."
+      },
+      {
+        "letra": "C",
+        "texto": "Permite progressão imediata, independente do tempo estabelecido em lei, caso o gestor ateste confiança total."
+      },
+      {
+        "letra": "D",
+        "texto": "Estende-se de modo indeterminado, sem prazo definido e sem comunicação formal ao servidor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3294647",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O ingresso de profissionais em órgãos públicos depende de seleção e nomeação segundo as regras de admissão previstas em lei. A preparação de certames atende princípios de isonomia e impessoalidade, garantindo acesso igualitário aos candidatos. Marque a alternativa CORRETA a respeito de concurso público:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viabiliza a admissão imediata de aprovados, porém sem exigir aprovação do resultado por autoridade competente."
+      },
+      {
+        "letra": "B",
+        "texto": "Consolida critérios objetivos, promove transparência na seleção e assegura condições equitativas a todos os inscritos."
+      },
+      {
+        "letra": "C",
+        "texto": "Dispensa divulgação de edital específico, pois basta análise interna de perfis, conduzida pela própria administração pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Configura processo seletivo flexível, no qual o gestor opta por contratar ou não, de acordo com conveniência pessoal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3287605",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Câmara de Progresso - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Provimento e vacância"
+    ],
+    "enunciado_principal": "Segundo a Lei Orgânica Municipal, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público serão estáveis após:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cinco anos de efetivo exercício."
+      },
+      {
+        "letra": "B",
+        "texto": "Quatro anos de efetivo exercício."
+      },
+      {
+        "letra": "C",
+        "texto": "Três anos de efetivo exercício."
+      },
+      {
+        "letra": "D",
+        "texto": "Dois anos de efetivo exercício."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3283487",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: FUSAM de Caçapava - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "No que tange ao concurso público e ao processo seletivo é correto afirmar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O processo seletivo tem vinculação através de contrato temporário, com prazo determinado."
+      },
+      {
+        "letra": "B",
+        "texto": "O concurso público oferece estabilidade ao servidor após a conclusão do estágio probatório."
+      },
+      {
+        "letra": "C",
+        "texto": "São diversas as fases do concurso público, incluindo provas objetivas e dissertativas, exames psicotécnicos, avaliações físicas e de títulos, entre outras."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se abrirá novo concurso enquanto houver candidato aprovado em concurso anterior com prazo de validade não expirado."
+      },
+      {
+        "letra": "E",
+        "texto": "No processo seletivo também há estágio probatório."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3273827",
+    "metadata": "Ano: 2025 | Banca: FADENOR | Órgão: Câmara de Buritizeiro - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Provimento e vacância"
+    ],
+    "enunciado_principal": "INSTRUÇÃO: Analise a figura a seguir para responder à questão proposta:Considerando a jurisprudência do Supremo Tribunal Federal (STF) e Superior Tribunal de Justiça (STJ) sobre a temática dos concursos públicos, marque a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A intimação de candidato aprovado em concurso público deve se dar somente pelo site oficial da banca e da Administração Pública, assim como no Diário Oficial, ainda que haja decurso de tempo razoável entre a homologação do resultado e a data de nomeação, em respeito ao princípio da publicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O candidato aprovado fora do número de vagas previstas no edital de concurso público tem direito subjetivo à nomeação quando o candidato imediatamente anterior na ordem de classificação, aprovado dentro ou fora do número de vagas, for convocado e manifestar desistência."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito líquido certo à nomeação existe quando o candidato, aprovado fora do número de vagas prevista no edital, e o candidato imediatamente anterior na ordem de classificação, aprovado dentro ou fora do número de vagas, for convocado e manifestar desistência, ainda que fora do prazo de validade do concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "O STF entende que cabe controle judicial referente à correção das questões em concurso público já que está dentro das possibilidades do controle de legalidade, que pode ser realizado pelo Poder Judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "O surgimento de novas vagas durante o prazo de validade de um concurso gera, automaticamente, o direito à nomeação dos candidatos aprovados fora das vagas do edital."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3271295",
+    "metadata": "Ano: 2025 | Banca: CEPS-UFPA | Órgão: UFOPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O cenário de concursos públicos em 2025 promete ser o mais promissor dos últimos anos, com oportunidades em diversas áreas e um número estimado de vagas que pode ultrapassar 100 mil. A projeção é fruto de um levantamento realizado pela Associação de Apoio aos Concursos Públicos e Exames (Aconexa), que aponta uma forte tendência de crescimento no número de seleções em níveis federal, estadual e municipal. Segundo o Ministério da Gestão e Inovação em Serviços Públicos, o Projeto de Lei Orçamentária Anual (PLOA) já prevê 57 mil vagas no âmbito federal, com a possibilidade de criação de mais 5.952 postos. Esse número pode atingir 63.766 servidores apenas no Executivo, Legislativo e Judiciário. Fonte: Concursos Públicos devem superar 100 mil vagas em 2025. TVT News, 13 de jan. de 2025. Disponível em: < https://tvtnews.com.br/concursos-publicos-100-mil-vagas-em-2025/>. Acesso em: 18 de jan. de 2025. O dispositivo normativo que regula os concursos públicos é o Decreto n° 9.739/2019. Considerando este decreto, analise as afirmativas seguintes. I. A realização de concurso público depende de autorização prévia do Ministério da Economia. II. É obrigatória a reserva de 25% das vagas oferecidas no concurso para pessoas com deficiência. III. O prazo de validade do concurso não pode ser superior a dois anos, admitida prorrogação por igual período. IV. É vedada a exigência de experiência profissional para investidura em cargos de nível médio. V. O edital do concurso deve ser publicado no Diário Oficial da União com antecedência mínima de 60 dias antes da realização da primeira prova. Estão corretas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "I e V, somente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3269130",
+    "metadata": "Ano: 2025 | Banca: CEPS-UFPA | Órgão: UFOPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Provimento e vacância"
+    ],
+    "enunciado_principal": "Segundo o Decreto nº 9.739/2019, que estabelece medidas de eficiência organizacional para o aprimoramento da administração pública, estabelece normas sobre concursos públicos e dispõe sobre o Sistema de Organização e Inovação Institucional do Governo Federal – SIORG, analise as afirmativas seguintes. I. A validade de um concurso público é de até dois anos, podendo ser prorrogada por igual período. II. Os editais de concursos públicos devem conter informações para os quantitativos reservados a pessoas com deficiência e os respectivos critérios de admissão. III. O concurso público de provas e de provas e títulos deverá ser realizado em uma única etapa para todos os cargos de nível superior. IV. A nomeação de candidatos aprovados em concurso deve observar a ordem de classificação. V. A avaliação psicológica será realizada após as provas escritas, e antes das provas orais e de aptidão física, quando houver. Estão corretas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "III, IV e V, somente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3223993",
+    "metadata": "Ano: 2025 | Banca: IBFC | Órgão: UFPB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Maria Luiza prestou concurso público em janeiro de 2022. No que tange às disposições contidas na Lei nº 8.112/90 a validade do concurso por ela prestado pode ocorrer até ______. Assinale a alternativa que preencha corretamente a lacuna.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "junho de 2022"
+      },
+      {
+        "letra": "B",
+        "texto": "janeiro de 2026"
+      },
+      {
+        "letra": "C",
+        "texto": "janeiro de 2027"
+      },
+      {
+        "letra": "D",
+        "texto": "janeiro de 2024"
+      },
+      {
+        "letra": "E",
+        "texto": "janeiro de 2023"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3223779",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Rio do Oeste - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Provimento e vacância"
+    ],
+    "enunciado_principal": "Acerca da admissão ao serviço público, conforme a Lei Complementar nº 21/2006 − Regime Jurídico dos Servidores Públicos do Município, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aprovação e a classificação em concurso público asseguram ao candidato o direito de ingresso automático."
+      },
+      {
+        "letra": "B",
+        "texto": "A posse é o ato pelo qual o cargo efetivo de classe inicial de carreira é atribuído a uma pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "A nomeação dos servidores aprovados em concurso público é de competência exclusiva do Poder Executivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A entrega de declaração de bens e valores que constituem o patrimônio do servidor será obrigatória no ato da posse."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3223777",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Rio do Oeste - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Associação sindical e direito de greve",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "No que diz respeito à administração municipal, com base na Lei Orgânica do Município, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente. ( ) Os vencimentos dos cargos do Poder Legislativo poderão ser superiores aos pagos pelo Poder Executivo. ( ) O prazo de validade do concurso público será de dois anos, prorrogável uma vez, por igual período. ( ) Ao servidor público civil é garantido o direito à livre associação sindical.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E - E - C."
+      },
+      {
+        "letra": "B",
+        "texto": "C - E - C."
+      },
+      {
+        "letra": "C",
+        "texto": "E - C - E."
+      },
+      {
+        "letra": "D",
+        "texto": "C - C - E."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3212447",
+    "metadata": "Ano: 2025 | Banca: DECORP | Órgão: Prefeitura de Marechal Thaumaturgo - AC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "No que diz respeito aos agentes públicos e os servidores públicos, marque a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os servidores comissionados possuem estabilidade após dois anos no cargo."
+      },
+      {
+        "letra": "B",
+        "texto": "A investidura em cargo público efetivo exige aprovação em concurso público."
+      },
+      {
+        "letra": "C",
+        "texto": "Os agentes honoríficos recebem remuneração mensal pelo serviço prestado."
+      },
+      {
+        "letra": "D",
+        "texto": "O regime jurídico único é obrigatório para todos os entes da federação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3299517",
+    "metadata": "Ano: 2025 | Banca: FADESP | Órgão: UNIFESSPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Lei nº 8.112-1990 - Regime jurídico dos servidores públicos federais",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "A respeito do prazo de validade do concurso público, conforme estabelecido no artigo 12, da Lei nº 8.112/1990, considere as seguintes afirmativas: I. O período de validade do concurso é de até 3 (três) anos, podendo ser até duas vezes por igual período. II. O prazo de validade do concurso e as condições de sua realização serão fixados em edital, que será publicado no Diário Oficial da União e em jornal diário de grande circulação. III. Encerrado o prazo de validade do concurso a administração pública realizará outro concurso público. É/São verdadeira(s) a(s) afirmativa(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3218578",
+    "metadata": "Ano: 2025 | Banca: UFRR | Órgão: UFRR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "De acordo com a redação dos artigos da Lei nº 8.112/1990, assinale apenas a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que poderão ser alterados unilateralmente, somente quando houver concordância da autoridade superior do órgão que promoveu o concurso publico."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o servidor aprovado no concurso publico poderá pessoalmente tomar posse, não havendo previsão de posse por procuração na Lei n° 8.112/1990."
+      },
+      {
+        "letra": "C",
+        "texto": "O concurso publico terá validade de até 2 (dois) anos, podendo ser prorrogado de acordo com critérios de conveniência e oportunidade da administração pública, desde que a respectiva decisão seja fundamentada e publicado o novo prazo no Diário Oficial da União e em jornal diário de grande circulação."
+      },
+      {
+        "letra": "D",
+        "texto": "O concurso público terá validade de até 2 (dois) anos, podendo ser prorrogado uma única vez, por igual período."
+      },
+      {
+        "letra": "E",
+        "texto": "O servidor que deva ter exercício em outro município em razão de ter sido removido, redistribuído, requisitado, cedido ou posto em exercício provisório terá, no mínimo, trinta e, no máximo, noventa dias de prazo, contados da publicação do ato, para a retomada do efetivo desempenho das atribuições do cargo, incluído nesse prazo o tempo necessário para o deslocamento para a nova sede."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3207165",
+    "metadata": "Ano: 2025 | Banca: CONSULPAM | Órgão: CFESS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "A respeito dos concursos públicos, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo de validade do concurso público será de até quatro anos, prorrogável uma vez, por dois anos."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo de validade do concurso público será de até dois anos, improrrogável."
+      },
+      {
+        "letra": "D",
+        "texto": "A investidura em cargo ou emprego público não depende de aprovação prévia em concurso público."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3196365",
+    "metadata": "Ano: 2025 | Banca: CEFET-MG | Órgão: CEFET-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Leia as afirmativas abaixo e preencha as lacunas: O concurso público terá validade de _______________, podendo ser prorrogado uma única vez, por igual período. A posse ocorrerá no prazo de _______________ contados da publicação do ato de provimento. É de _______________ o prazo para o servidor empossado em cargo público entrar em exercício, contados da data da posse. Assinale a alternativa que apresenta o preenchimento correto das lacunas, de acordo com o disposto na Lei nº 8.112/90:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "até 2 (dois) anos - quinze dias - trinta dias"
+      },
+      {
+        "letra": "B",
+        "texto": "2 (dois) anos - trinta dias - trinta dias"
+      },
+      {
+        "letra": "C",
+        "texto": "até 2 (dois) anos - trinta dias - quinze dias"
+      },
+      {
+        "letra": "D",
+        "texto": "2 (dois) anos - quinze dias - quinze dias"
+      },
+      {
+        "letra": "E",
+        "texto": "2 (dois) anos - trinta dias - quinze dias"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3178108",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Um servidor público da prefeitura prestou concurso para um cargo de nível médio, de técnico administrativo. Após vários anos de serviço, ele alcançou o último nível de sua carreira. A administração, então, realizou um processo seletivo interno que permitiu ao servidor ingressar em outra carreira, de nível superior, sem prestar concurso público específico para o novo cargo. Com base nos princípios constitucionais e na jurisprudência do STF, a conduta adotada pela administração:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está correta, pois a experiência adquirida pelo servidor justifica o acesso ao novo cargo sem a necessidade de prestar concurso público."
+      },
+      {
+        "letra": "B",
+        "texto": "Está correta, desde que o processo seletivo interno respeite critérios de mérito e antiguidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Não está correta, pois o ingresso em uma carreira distinta daquela para a qual o servidor prestou concurso público só pode ocorrer por meio de novo concurso público."
+      },
+      {
+        "letra": "D",
+        "texto": "Não está correta, salvo se o servidor já possuir a qualificação exigida para o novo cargo e tiver sido promovido por decisão administrativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3176247",
+    "metadata": "Ano: 2025 | Banca: MS CONCURSOS | Órgão: FCS - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Cargo, emprego, função",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Marque a assertiva incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Promoção é a passagem do servidor do nível em que se encontra para o nível subsequente, na carreira a que pertence."
+      },
+      {
+        "letra": "B",
+        "texto": "O ingresso em cargo de carreira instituída pela Lei n.º 15467/2005, depende de aprovação em concurso público de provas ou de provas e títulos."
+      },
+      {
+        "letra": "C",
+        "texto": "As atribuições dos cargos da carreira de Analista de Gestão, Proteção e Restauro têm natureza de atividade exclusiva de Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "Haverá ingresso nas carreiras de Auxiliar de Cultura, Auxiliar de Gestão Artística e Auxiliar de Gestão, Proteção e Restauro."
+      },
+      {
+        "letra": "E",
+        "texto": "O desenvolvimento do servidor nas carreiras instituídas pela Lei n.º 15467/2005 dar-se-á mediante progressão ou promoção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3170012",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "No que se refere à administração pública, ao Poder Executivo, ao Poder Legislativo e à organização do Estado, julgue o item seguinte, de acordo com o STF.A invocação de escusa de consciência por motivo de crença religiosa não justifica a realização de etapas de concurso público em datas e horários diferentes da previsão contida em edital.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3154346",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Prefeitura de Carangola - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O concurso público do município de Carangola reserva a pessoas com deficiência 5% das vagas oferecidas para provimento dos cargos públicos. Essa afirmação é uma diretriz legal que pretende resguardar o direito fundamental",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da isonomia."
+      },
+      {
+        "letra": "B",
+        "texto": "da liberdade de consciência."
+      },
+      {
+        "letra": "C",
+        "texto": "à função social e liberdade de acesso."
+      },
+      {
+        "letra": "D",
+        "texto": "da liberdade de expressão e manifestação do pensamento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3154345",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Prefeitura de Carangola - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Cargo, emprego, função",
+      "Concurso público"
+    ],
+    "enunciado_principal": "José João, servidor público de carreira de Carangola, promoveu consulta à Procuradoria Jurídica do município para obter algumas informações sobre as regras constitucionais de administração pública pertinentes ao servidor, e teve acesso ao correspondente Parecer Jurídico. Considerando o caso proposto, analise as afirmativas constantes do hipotético parecer, a seguir. I. Durante o prazo improrrogável previsto no edital de convocação, aquele aprovado em concurso público de provas ou de provas e títulos será convocado concorrendo em igualdade de condições com novos concursados para assumir cargo ou emprego na carreira. II. As funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento. III. É vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3152854",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Em razão de aposentadorias e falecimentos de servidores públicos ocupantes do cargo de provimento efetivo de professor, o que colocou em risco a manutenção das aulas no âmbito da rede pública do Estado Alfa para elevado quantitativo de crianças e adolescentes, o referido ente federativo editou a Lei estadual nº X. De acordo com esse diploma normativo, foi autorizada a contratação de professores, sem a realização de concurso público, por até doze meses, para que fosse assegurada a continuidade das atividades escolares, até que fosse realizado concurso público para a contratação do pessoal necessário ao preenchimento dos referidos cargos. Considerando os balizamentos estabelecidos pela Constituição da República, é correto afirmar que a lei estadual nº X é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inconstitucional, na medida em que Alfa não tem competência para legislar sobre a matéria."
+      },
+      {
+        "letra": "B",
+        "texto": "constitucional, na medida em que a contratação se destina a suprir uma necessidade temporária, a ser suprida em prazo determinado."
+      },
+      {
+        "letra": "C",
+        "texto": "inconstitucional, por afrontar a exigência constitucional de prévia aprovação em concurso público para o preenchimento dos cargos de provimento efetivo."
+      },
+      {
+        "letra": "D",
+        "texto": "inconstitucional, pois a causa que motivou a contratação temporária era previsível, de modo que a desídia do administrador público não pode justificar a sua realização."
+      },
+      {
+        "letra": "E",
+        "texto": "constitucional, pois compete a cada ente federativo avaliar as situações em que as funções próprias dos cargos de provimento efetivo devem ser desempenhadas por agentes com vínculo permanente ou temporário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3434334",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Cargo, emprego, função",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Acerca dos Concursos Públicos e Processos Seletivos, analise as afirmações abaixo: I - O Concurso Público e o Processo Seletivo são mecanismos utilizados pelos órgãos e entidades da administração pública para selecionar candidatos para o preenchimento de cargos efetivos ou temporários. II - Esses processos são fundamentais para garantir a transparência, a igualdade de oportunidades e a escolha de profissionais capacitados.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I."
+      },
+      {
+        "letra": "B",
+        "texto": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "As asserções I e II são proposições falsas."
+      },
+      {
+        "letra": "D",
+        "texto": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+      },
+      {
+        "letra": "E",
+        "texto": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3434328",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Acerca dos Concursos Públicos, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poderá ter validade de 06 (seis) meses, prorrogável por igual período."
+      },
+      {
+        "letra": "B",
+        "texto": "Poderá ter validade de 12 (doze) meses, prorrogável por igual período."
+      },
+      {
+        "letra": "C",
+        "texto": "Poderá ter validade de 18 (dezoito) meses, prorrogável por igual período."
+      },
+      {
+        "letra": "D",
+        "texto": "Poderá ter validade de 24 (seis) meses, prorrogável por igual período."
+      },
+      {
+        "letra": "E",
+        "texto": "Poderá ter validade de até 02 (dois) anos, sendo improrrogável."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3256280",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: UNESP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "A respeito de concurso público, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é um processo do poder privado que permite o acesso a emprego em organizações não governamentais."
+      },
+      {
+        "letra": "B",
+        "texto": "caracteriza-se como um sistema de recrutamento de profissionais para exercerem cargos públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "segue a Constituição Federal de 1988, que prevê que a investidura em cargo público depende de aprovação prévia em concurso de títulos."
+      },
+      {
+        "letra": "D",
+        "texto": "terá validade de até cinco anos, podendo ser prorrogado uma única vez, por igual período, conforme previsto na Constituição Federal de 1988."
+      },
+      {
+        "letra": "E",
+        "texto": "é um procedimento impessoal pelo qual é assegurada igualdade de oportunidades a todos os interessados em concorrer para exercer as atribuições oferecidas pelo Estado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3234309",
+    "metadata": "Ano: 2024 | Banca: COMPERVE - UFRN | Órgão: UFRN",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Lei nº 8.112-1990 - Regime jurídico dos servidores públicos federais",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "Ana obteve êxito em concurso público para o serviço público federal e está aguardando a sua nomeação. Enquanto isso, ela está aproveitando para se inteirar da regulamentação acerca do início da sua vida funcional como servidora, realizando a leitura da legislação correspondente. De acordo com a redação do Regime Jurídico Único dos Servidores Públicos Civis da União, compreendido na Lei nº 8.112/90,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o prazo para o servidor empossado em cargo público entrar em exercício é de quinze dias, contados a partir da data da posse."
+      },
+      {
+        "letra": "B",
+        "texto": "o servidor não aprovado no estágio probatório será penalizado com a demissão ou, se estável, reconduzido ao cargo anteriormente ocupado."
+      },
+      {
+        "letra": "C",
+        "texto": "a posse é ato pessoal e não pode ocorrer mediante procuração, sendo necessária a presença física e a assinatura da pessoa nomeada para o cargo."
+      },
+      {
+        "letra": "D",
+        "texto": "o servidor habilitado em concurso público e empossado em cargo de provimento efetivo adquirirá estabilidade ao completar cinco anos de exercício."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3203862",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Passo do Sobrado - RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público"
+    ],
+    "enunciado_principal": "O art. 37 da Constituição Federal de 1988, além de estabelecer princípios, dispõe sobre normas específicas aplicáveis à Administração Pública, como o acesso aos cargos públicos, a contratação de serviços e os direitos dos servidores. Considerando os incisos desse artigo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os vencimentos dos cargos do Poder Legislativo e do Poder Executivo não poderão ser superiores aos pagos pelo Poder Judiciário."
+      },
+      {
+        "letra": "B",
+        "texto": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público, de provas ou de provas e títulos, exceto para cargos comissionados declarados em lei de livre nomeação e exoneração."
+      },
+      {
+        "letra": "C",
+        "texto": "Os cargos comissionados devem ser obrigatoriamente preenchidos por servidores concursados, sendo vedada a contratação de pessoas sem vínculo efetivo com o Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedado ao servidor público civil o direito à associação sindical."
+      },
+      {
+        "letra": "E",
+        "texto": "Os acréscimos pecuniários percebidos por servidor público serão computados e acumulados para fins de concessão de acréscimos ulteriores."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "3610641",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CREF - 22ª Região (ES)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "No que se refere à Administração Direta e à administração indireta, julgue o item seguinte.A exploração de atividade econômica pelo Estado será exercida por meio das pessoas jurídicas de direito público ou privado integrantes da Administração Direta, sendo‑lhe vedado atuar em tais atividades.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3606468",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRP - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "A partir do contexto jurídico da organização objetiva e subjetiva da Administração Pública brasileira, julgue o item a seguir.De acordo com a legislação brasileira e com o entendimento doutrinário consolidado, entidade é a unidade de atuação integrante da estrutura da Administração Direta e da estrutura da administração indireta. Já órgão, por sua vez, é a unidade de atuação dotada de personalidade jurídica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3606399",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRP - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Autarquias"
+    ],
+    "enunciado_principal": "Com base nos conceitos e nas normas acerca da organização administrativa e dos atos administrativos, julgue o item a seguir.As autarquias respondem de forma direta e objetiva. A Administração Direta somente poderá ser acionada judicialmente de forma subsidiária caso a autarquia não disponha de condições patrimoniais ou orçamentárias para arcar integralmente com o valor da condenação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3582713",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, relativo à administração direta, aos atos administrativos e às licenças dos servidores públicos federais.Na administração direta, os serviços públicos são prestados por órgãos que compõem a estrutura do Estado, sem a criação de nova personalidade jurídica, a exemplo do STF em nível federal, e dos tribunais de justiça em nível estadual.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3471635",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: UNB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Considerando que o Estado é um conjunto de instituições de decisão e de execução, julgue o item a seguir, acerca da administração direta, indireta, fundacional e dos atos administrativos. Considera-se administração direta uma série de órgãos dentro da mesma pessoa jurídica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3471633",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: UNB",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Considerando que o Estado é um conjunto de instituições de decisão e de execução, julgue o item a seguir, acerca da administração direta, indireta, fundacional e dos atos administrativos. As fundações de apoio, cujo principal objetivo consiste em dar fomento e auxílio a determinadas instituições, integra, por vezes, a administração direta ou indireta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3444517",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Bandeirante - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Em um município, a gestão pública é composta por vários órgãos e entidades que se organizam para atender à população de forma eficiente. A administração direta é responsável pelos serviços essenciais, enquanto as entidades da administração indireta, como autarquias e fundações, desempenham funções específicas e têm maior autonomia. Para o bom funcionamento da administração municipal, é fundamental que haja uma integração entre esses setores, além de uma gestão transparente e responsável. Com base na estrutura e funcionamento da administração pública municipal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração pública municipal não inclui órgãos municipais, apenas entidades independentes, como empresas públicas e sociedades de economia mista."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração pública municipal é inteiramente composta por entidades da administração indireta, que funcionam sem qualquer vínculo com os órgãos municipais."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração pública municipal é composta apenas pela administração direta, sendo os órgãos municipais os únicos responsáveis pela prestação de serviços públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "As entidades da administração indireta, como as autarquias, têm maior autonomia, mas sua criação e funcionamento devem ser alinhados com as políticas públicas municipais, visando sempre o interesse público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3444514",
+    "metadata": "Ano: 2025 | Banca: AMEOSC | Órgão: Prefeitura de Bandeirante - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A Administração Direta é composta por órgãos que integram a estrutura do Estado. Com base no conceito Administração Direta, analise as afirmativas a seguir e identifique aquela que NÃO corresponde à Administração Direta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ministérios, secretarias e departamentos são exemplos de órgãos que integram a Administração Direta."
+      },
+      {
+        "letra": "B",
+        "texto": "Os órgãos da Administração Direta não possuem personalidade jurídica própria e estão vinculados diretamente ao ente federativo ao qual pertencem."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração Direta é formada pela União, Estados, Municípios e Distrito Federal, que exercem suas competências administrativas por meio de seus órgãos."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração Direta é composta por entidades autônomas, com personalidade jurídica própria, que executam atividades descentralizadas do Estado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3395831",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Desconcentração e Descentralização Administrativa"
+    ],
+    "enunciado_principal": "Os novos servidores da Defensoria Pública do Estado de Rondônia participaram de uma palestra, na sede da referida instituição, com o objetivo de melhor conhecerem a Administração Pública local. Desta forma, durante a exposição, os servidores foram informados sobre a existência de uma Secretaria Estadual e de uma autarquia, ambas destinadas a tutelar os indivíduos vulneráveis e hipossuficientes econômicos. Nesse cenário hipotético, considerando o entendimento doutrinário e jurisprudencial dominantes, é correto afirmar que a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secretaria Estadual, integrante da Administração Pública Indireta, é fruto da descentralização administrativa. Lado outro, a autarquia, integrante da Administração Pública Direta, é uma manifestação da desconcentração administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Secretaria Estadual, integrante da Administração Pública Direta, é fruto da desconcentração administrativa. Lado outro, a autarquia, integrante da Administração Pública Indireta, é uma manifestação da descentralização administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Secretaria Estadual, integrante da Administração Pública Direta, é fruto da descentralização administrativa. Lado outro, a autarquia, integrante da Administração Pública Indireta, é uma manifestação da desconcentração administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Secretaria Estadual e a autarquia, integrantes da Administração Pública Direta, são fruto da desconcentração administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Secretaria Estadual e a autarquia, integrantes da Administração Pública Indireta, são fruto da descentralização administrativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3365697",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CRMV-ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Acerca da Administração Direta e Indireta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As empresas públicas e sociedades de economia mista, por integrarem a Administração Indireta, não podem celebrar contratos administrativos com a Administração Direta."
+      },
+      {
+        "letra": "B",
+        "texto": "As autarquias são pessoas jurídicas de direito privado, criadas por lei específica para desempenhar atividades típicas da Administração Pública."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração Direta é composta pelas unidades federativas (União, Estados, Distrito Federal e Municípios) e pelos órgãos que integram suas estruturas."
+      },
+      {
+        "letra": "D",
+        "texto": "As fundações governamentais, por possuírem natureza jurídica de direito privado, não estão sujeitas às regras de licitação previstas na Lei nº 8.666/1993."
+      },
+      {
+        "letra": "E",
+        "texto": "As sociedades de economia mista são pessoas jurídicas de direito público, criadas por autorização legal, com capital exclusivamente público."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3355507",
+    "metadata": "Ano: 2025 | Banca: Qconcursos | Órgão: Qconcursos",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agências Reguladoras na Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Empresas Públicas e Sociedades de Economia Mista"
+    ],
+    "enunciado_principal": "Considerando a temática de organização da Administração, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As empresas públicas e as sociedades de economia mista estão sujeitas à fiscalização do Tribunal de Contas."
+      },
+      {
+        "letra": "B",
+        "texto": "Na organização do Estado brasileiro, é possível afirmar que a Presidência da República não é considerada uma pessoa jurídica de direito público interno."
+      },
+      {
+        "letra": "C",
+        "texto": "As agências reguladoras exercem atribuições submetidas ao poder hierárquico em face dos órgãos da administração direta."
+      },
+      {
+        "letra": "D",
+        "texto": "As sociedades de economia mista poderão adotar como tipo societário o de sociedade limitada, podendo ser constituídas somente como sociedades anônimas."
+      },
+      {
+        "letra": "E",
+        "texto": "A Empresa Pública e a Sociedade de Economia Mista são entidades dotadas de personalidade jurídica de direito privado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3298746",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: CRMV-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A organização administrativa da União é composta por entidades que desempenham funções essenciais à gestão pública. Nesse contexto, a administração pública divide-se em direta e indireta. Assinale a alternativa que corretamente diferencia esses dois segmentos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração direta é integrada apenas pelos Ministérios da União, enquanto a administração indireta inclui órgãos estaduais e municipais."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração direta é composta pelos órgãos que integram a estrutura da União, Estados, Distrito Federal e Municípios, enquanto a administração indireta abrange entidades com personalidade jurídica própria, como autarquias, fundações públicas, empresas públicas e sociedades de economia mista."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração indireta é responsável exclusivamente pela formulação de políticas públicas, enquanto a administração direta executa essas políticas por meio de suas entidades descentralizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração direta é composta por autarquias, fundações públicas, empresas públicas e sociedades de economia mista, enquanto a administração indireta é formada pelos ministérios e secretarias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3295399",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Desconcentração e Descentralização Administrativa"
+    ],
+    "enunciado_principal": "A organização administrativa pode adotar centralização, quando a própria Administração Direta executa, ou descentralização, com outorga a entes distintos. Selecione a alternativa que descreve a descentralização de forma adequada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Submete a Administração Indireta a mero poder de fato, sem personalidade jurídica própria."
+      },
+      {
+        "letra": "B",
+        "texto": "Permite apenas a concentração de serviços em um único órgão para assegurar hierarquia rígida."
+      },
+      {
+        "letra": "C",
+        "texto": "Exige que todas as competências sejam exercidas diretamente pelo ente central, sem delegações."
+      },
+      {
+        "letra": "D",
+        "texto": "Atribui parcela de competência estatal a pessoas jurídicas diversas, possibilitando maior eficiência e autonomia no exercício das funções."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3294657",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A administração direta engloba os órgãos que integram a estrutura principal do Estado, enquanto a indireta reúne autarquias, fundações e empresas públicas, entre outros. Marque a alternativa CORRETA acerca dessa organização:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração indireta possui personalidade jurídica própria, embora seja vinculada a supervisão ou controle por parte da direta."
+      },
+      {
+        "letra": "B",
+        "texto": "As fundações públicas integram a administração direta, pois são setores internos sem autonomia administrativa ou financeira."
+      },
+      {
+        "letra": "C",
+        "texto": "As empresas públicas são estruturas sem poder decisório, restritas à função consultiva perante ministérios."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração direta não sofre ingerência de leis específicas, dependendo apenas de normas genéricas de contabilidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3285653",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Desconcentração e Descentralização Administrativa"
+    ],
+    "enunciado_principal": "Acerca da Administração direta e da prestação dos serviços públicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração indireta refere-se aos órgãos internos das entidades federativas, responsáveis diretos pela prestação centralizada dos serviços públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "A Administração direta corresponde aos órgãos vinculados diretamente aos entes federativos, responsáveis pela prestação centralizada dos serviços públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os órgãos da administração direta possuem personalidade jurídica própria, tendo autonomia plena para realizar atividades comerciais e econômicas."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração indireta é subordinada diretamente à administração direta, não dispondo de personalidade jurídica própria e sendo integralmente dependente para realizar suas atividades."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3285619",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Autarquias",
+      "Fundações Públicas",
+      "Empresas Públicas e Sociedades de Economia Mista"
+    ],
+    "enunciado_principal": "Acerca da organização administrativa do Estado, é correto afirmar que a Administração Direta é caracterizada por ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "composta por órgãos internos do Estado e vinculada à Administração Indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "formada por autarquias, fundações públicas, empresas públicas e sociedades de economia mista."
+      },
+      {
+        "letra": "C",
+        "texto": "responsável pela gestão de serviços públicos privatizados, sem relação com os entes federativos."
+      },
+      {
+        "letra": "D",
+        "texto": "integrada pelos órgãos que compõem as pessoas políticas da federação, exercendo atividades administrativas de forma centralizada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3282077",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: FUSAM de Caçapava - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A administração indireta pode ser entendida como o conjunto de entidades que desempenham funções administrativas descentralizadas, com personalidade jurídica própria. Assinale a alternativa que não corresponde a um ente que integra a administração pública indireta no Brasil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autarquias."
+      },
+      {
+        "letra": "B",
+        "texto": "Fundações públicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Empresas públicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Ministérios."
+      },
+      {
+        "letra": "E",
+        "texto": "Sociedades de economia mista."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3281386",
+    "metadata": "Ano: 2025 | Banca: INSTITUTO MAIS | Órgão: IPMO - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Considerando as disposições a respeito da Administração direta e indireta, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As sociedades de economia mista têm personalidade jurídica de direito privado e fazem parte da Administração indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "As empresas públicas têm personalidade jurídica de direito privado e fazem parte da Administração indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "O Distrito Federal tem personalidade jurídica de direito público e faz parte da Administração indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "As autarquias públicas têm personalidade jurídica de direito público e fazem parte da Administração indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "As pessoas administrativas que integram a Administração indireta podem ser dotadas de personalidade jurídica de direito público ou de direito privado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3271311",
+    "metadata": "Ano: 2025 | Banca: CEPS-UFPA | Órgão: UFOPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Conceito e Classificação"
+    ],
+    "enunciado_principal": "O Decreto nº 9.203/2017 instituiu a Política de Governança da Administração Pública federal direta, autárquica e fundacional. A respeito do artigo 17, analise o trecho a seguir: “A alta administração das organizações da administração pública federal direta, autárquica e fundacional deverá estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e controles internos com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos que possam impactar a implementação da estratégia e a consecução dos objetivos da organização no cumprimento da sua missão institucional, observados os seguintes princípios:”. O artigo 17 considera um princípio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vedação de recusa de recebimento de requerimentos pelos serviços de protocolo, exceto quando o órgão ou a entidade for manifestamente incompetente."
+      },
+      {
+        "letra": "B",
+        "texto": "Manutenção de instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Promoção da participação do usuário na administração pública, em cooperação com outras entidades de defesa do usuário."
+      },
+      {
+        "letra": "D",
+        "texto": "Promoção da adoção de mediação e conciliação entre o usuário e o órgão ou a entidade pública, sem prejuízo de outros órgãos competentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Estabelecimento de controles internos proporcionais aos riscos, de maneira a considerar suas causas, fontes, consequências e impactos, observada a relação custo-benefício."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3271272",
+    "metadata": "Ano: 2025 | Banca: FADESP | Órgão: UNIFESSPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "O Decreto nº 11.462/2023 regulamenta os artigos 82 a 86 da Lei nº 14.133/2021, dispondo sobre o Sistema de Registro de Preços (SRP) para a contratação de bens e serviços, inclusive obras e serviços de engenharia, no âmbito da Administração Pública Federal direta, autárquica e fundacional. Ao órgão ou à entidade, responsável pela condução do conjunto de procedimentos, para registro de preços e pelo gerenciamento da ata de registro de preços dele decorrente, dá-se o nome de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gerenciadora."
+      },
+      {
+        "letra": "B",
+        "texto": "participante."
+      },
+      {
+        "letra": "C",
+        "texto": "não participante."
+      },
+      {
+        "letra": "D",
+        "texto": "fiscalizadora."
+      },
+      {
+        "letra": "E",
+        "texto": "executora."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3271266",
+    "metadata": "Ano: 2025 | Banca: FADESP | Órgão: UNIFESSPA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "O Decreto nº 9.203/2017, e suas alterações, dispõem sobre a política de governança da administração pública federal direta, autárquica e fundacional. O Comitê Interministerial de Governança (CIG) tem por finalidade assessorar o Presidente da República na condução dessa política. São membros titulares do CIG,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o Ministro da Casa Civil da Presidência da República, o Ministro da Economia e o Ministro da ControlariaGeral da União."
+      },
+      {
+        "letra": "B",
+        "texto": "o Ministro da Casa Civil da Presidência da República, o Chefe do Gabinete de Segurança Institucional da Presidência da República e o Ministro da Controlaria-Geral da União."
+      },
+      {
+        "letra": "C",
+        "texto": "o Ministro da Fazenda, o Ministro do Planejamento e Orçamento, e o Presidente do Banco Central do Brasil."
+      },
+      {
+        "letra": "D",
+        "texto": "o Ministro da Casa Civil da Presidência da República, o Ministro da Secretaria de Relações Institucionais da Presidência da República, e o Ministro da Gestão e da Inovação em Serviços Públicos."
+      },
+      {
+        "letra": "E",
+        "texto": "o Ministro da Secretaria de Comunicação Social da Presidência da República, o Ministro da Secretaria-Geral da Presidência da República e o Ministro da Secretaria de Relações Institucionais da Presidência da República."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3267137",
+    "metadata": "Ano: 2025 | Banca: UEG | Órgão: UEG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Administração Direta",
+      "Acumulação de cargos e funções",
+      "Sistema constitucional de remuneração"
+    ],
+    "enunciado_principal": "Quanto aos servidores da administração pública direta, constata-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com a Constituição da República Federativa do Brasil, a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, de economia mista, exceto suas subsidiárias, direta ou indiretamente, pelo poder público."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com as decisões dos tribunais superiores, as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo e os cargos em comissão a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se a todas as atribuições."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com a Constituição da República Federativa do Brasil, é permitida a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com as decisões dos tribunais superiores, a lei reservará percentual dos cargos e empregos públicos para as pessoas com deficiência e definirá os critérios de sua admissão, salvo para cotas em cargos eletivos."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com as decisões dos tribunais superiores, a União, os estados, o Distrito Federal e os municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas, sendo defeso realizar concurso por regime celetista."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3263718",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Considere que determinada prefeitura municipal identificou dificuldades em gerenciar os processos relacionados à concessão de licenças urbanísticas, como licenças para construção, reforma e abertura de novos estabelecimentos comerciais. Essa prefeitura recebe, frequentemente, reclamações de cidadãos e empresas sobre a demora no atendimento, o que prejudica o desenvolvimento econômico local. Foi identificado que existiam etapas desnecessárias que só tornam o processo mais burocrático. Nesse caso, observa-se que é necessário avaliar o problema e buscar alternativas de tratamento, assim como evidenciar o motivo pelo qual tais alternativas seriam adequadas, quais os riscos e cuidados necessários, além de monitorar os resultados alcançados. Essas atividades devem ser realizadas pelos responsáveis pela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transparência."
+      },
+      {
+        "letra": "B",
+        "texto": "Gestão pública."
+      },
+      {
+        "letra": "C",
+        "texto": "Governança pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Administração Pública."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3263132",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: IF-RS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "Elaborar o Planejamento Estratégico Nacional no âmbito do Sistema Único de Saúde (SUS), em cooperação técnica com os Estados, Municípios e Distrito Federal, é __________ da direção nacional do SUS, conforme a legislação vigente. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "objetivo"
+      },
+      {
+        "letra": "B",
+        "texto": "competência"
+      },
+      {
+        "letra": "C",
+        "texto": "diretriz"
+      },
+      {
+        "letra": "D",
+        "texto": "princípio"
+      },
+      {
+        "letra": "E",
+        "texto": "prioridade"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3263036",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "O comércio exterior de importações e exportações do Brasil é tratado por diversas entidades públicas. Considere que Ambrósio trabalha na Hemobrás e é responsável pelo acompanhamento de uma importação de insumos para exames laboratoriais adquiridos pelo órgão. A importação dos produtos adquiridos, ao chegar no Porto de Santos, sofreu fiscalização e foi impedida de dar prosseguimento devido a problemas documentais. Ambrósio, então, irá no órgão responsável para regularizar as pendências. Qual órgão é responsável pelo controle aduaneiro das importações e exportações brasileiras?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Receita Federal do Brasil (RFB)."
+      },
+      {
+        "letra": "B",
+        "texto": "Banco Central do Brasil (BACEN)."
+      },
+      {
+        "letra": "C",
+        "texto": "Secretaria de Comércio Exterior (SECEX)."
+      },
+      {
+        "letra": "D",
+        "texto": "Departamento de Operações de Comércio Exterior (DECEX)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3261819",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Com base em conhecimentos de Administração Pública direta e indireta, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As categorias de entidades compreendidas na Administração indireta são dotadas de personalidade jurídica de direito privado."
+      },
+      {
+        "letra": "B",
+        "texto": "Entende-se por Administração direta, exclusivamente, os serviços integrados da estrutura administrativa da Presidência da República (Poder Executivo)."
+      },
+      {
+        "letra": "C",
+        "texto": "As sociedades de economia mista, cujas atividades estiverem sob regime de monopólio estatal, terão maioria acionária de propriedade da União em caráter permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "As empresas públicas poderão ter personalidade jurídica de direito privado ou de direito público, a depender das motivações que levaram o governo a explorar a atividade econômica: se por força de contingência ou de conveniência administrativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3261158",
+    "metadata": "Ano: 2025 | Banca: SELECON | Órgão: HEMOMINAS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A Política Nacional de Saúde Integral da População Negra, Portaria nº 992/2009, estabelece estratégias e define responsabilidades solidárias entre os entes da federação. Para que sua implementação ocorra no âmbito municipal, a responsabilidade está sob a gestão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "municipal e estadual"
+      },
+      {
+        "letra": "B",
+        "texto": "municipal"
+      },
+      {
+        "letra": "C",
+        "texto": "estadual"
+      },
+      {
+        "letra": "D",
+        "texto": "federal"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3258206",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRT - 10ª REGIÃO (DF e TO)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Controle da administração pública",
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Em relação aos agentes públicos, aos atos administrativos e ao controle da administração pública, julgue o item a seguir. O controle hierárquico caracteriza-se pela existência de subordinação e pode ser exercido tanto pela administração direta quanto por entidade da administração indireta, desde que em seu âmbito interno, sendo permitida a verificação de aspectos relativos à legalidade e ao mérito do ato objeto de controle.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3241767",
+    "metadata": "Ano: 2025 | Banca: IBAM | Órgão: Câmara de Bebedouro - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência. Considerando as disposições relativas à Administração Pública previstas na Constituição Federal, analise as afirmativas a seguir. I. O prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período. II. É garantido ao servidor público civil o direito à livre associação sindical. III. A Lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3236855",
+    "metadata": "Ano: 2025 | Banca: IDESG | Órgão: Prefeitura de Cariacica - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A Administração Pública brasileira divide-se em Administração Direta e Indireta. Sobre essa organização, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Empresas públicas integram a Administração Direta e atuam apenas em atividades de fiscalização."
+      },
+      {
+        "letra": "B",
+        "texto": "A Administração Direta é composta por órgãos que integram diretamente a estrutura do Poder Executivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Autarquias são entidades da Administração Direta, vinculadas aos Ministérios."
+      },
+      {
+        "letra": "D",
+        "texto": "Fundações públicas são sempre instituídas com personalidade jurídica de direito privado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3207368",
+    "metadata": "Ano: 2025 | Banca: Gama Consult | Órgão: Prefeitura de Cotriguaçu - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A distinção entre administração direta e indireta é fundamental para a compreensão da organização administrativa brasileira. Nesse contexto, assinale a alternativa que apresenta uma característica exclusiva das entidades da administração indireta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Subordinação hierárquica direta ao Poder Executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Personalidade jurídica de direito público."
+      },
+      {
+        "letra": "C",
+        "texto": "Criação por lei exclusiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Exercício de função típica de Estado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3204035",
+    "metadata": "Ano: 2025 | Banca: UECE-CEV | Órgão: PGE-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A Procuradoria-Geral do Estado do Ceará é um(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "entidade da Administração Pública direta e centralizada."
+      },
+      {
+        "letra": "B",
+        "texto": "entidade da Administração Pública indireta ou descentralizada."
+      },
+      {
+        "letra": "C",
+        "texto": "órgão da Administração Pública com desconcentração indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "órgão da Administração Pública direta, mas descentralizada."
+      },
+      {
+        "letra": "E",
+        "texto": "órgão da Administração Pública direta ou centralizada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3203627",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A Administração Pública, em seu sentido subjetivo, compreende as pessoas jurídicas e seus respectivos órgãos que executam atividades administrativas. A respeito do tema, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração direta compreende o terceiro setor, com exceção das organizações sociais."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração indireta corresponde aos órgãos públicos dos Entes federativos criados por meio da desconcentração."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração direta compreende as entidades que exercem funções administrativas, criadas por meio da descentralização."
+      },
+      {
+        "letra": "D",
+        "texto": "A desconcentração representa a transferência da atividade administrativa para outra pessoa, física ou jurídica, integrante ou não do aparelho estatal."
+      },
+      {
+        "letra": "E",
+        "texto": "A administração indireta é composta por entidades administrativas, criadas por descentralização legal e vinculadas ao respectivo Ente federado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3203544",
+    "metadata": "Ano: 2025 | Banca: EVO Concursos | Órgão: Prefeitura de Pedras Grandes - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "À direção nacional do SUS compete, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formular, avaliar e apoiar políticas de alimentação e nutrição;"
+      },
+      {
+        "letra": "B",
+        "texto": "participar na formulação e na implementação das políticas;"
+      },
+      {
+        "letra": "C",
+        "texto": "controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a direção;"
+      },
+      {
+        "letra": "D",
+        "texto": "coordenar e participar na execução das ações de vigilância epidemiológica;"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3202182",
+    "metadata": "Ano: 2025 | Banca: EVO Concursos | Órgão: Prefeitura de Paraisópolis - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Conforme previsto na lei de número 01 de 1991 de Paraisópolis/MG, assinale a alternativa abaixo que descreve de maneira correta o que cabe ao Prefeito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fiscalização do Executivo"
+      },
+      {
+        "letra": "B",
+        "texto": "fazer escalas de serviço"
+      },
+      {
+        "letra": "C",
+        "texto": "a advocacia do município"
+      },
+      {
+        "letra": "D",
+        "texto": "a administração dos bens municipais"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3200180",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa da União, a administração e a administração indireta, julgue o item seguinte.Enquanto a Administração Direta é composta de órgãos internos do Estado, a administração indireta compõe‑se de pessoas físicas, também denominadas agentes públicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3200177",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa da União, a administração e a administração indireta, julgue o item seguinte.A Administração Direta na esfera municipal é composta da prefeitura, de eventuais órgãos de assessoria ao prefeito e de secretarias municipais, com seus órgãos internos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3200176",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa da União, a administração e a administração indireta, julgue o item seguinte.Na esfera federal, a Administração Direta da União, no Poder Executivo, compõe‑se de órgãos de duas classes distintas: a presidência da República e o Tribunal de Contas da União.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3200175",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa da União, a administração e a administração indireta, julgue o item seguinte.A Administração Direta do Estado abrange todos os órgãos dos Poderes políticos das pessoas federativas cuja competência seja a de exercer a atividade administrativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3200173",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CRO-AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa da União, a administração e a administração indireta, julgue o item seguinte.Administração Direta é o conjunto de órgãos que integram as pessoas federativas, aos quais foi atribuída a competência para o exercício, de forma descentralizada, das atividades administrativas do Estado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3186887",
+    "metadata": "Ano: 2025 | Banca: UFCG | Órgão: UFCG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir e a relação entre elas: Asserção I - A Administração Direta consiste no conjunto de órgãos que compõem as entidades federativas, aos quais é conferida a competência para exercer, de maneira centralizada, as funções administrativas do Estado. Porque Asserção II - A função primordial de organização interna, incluindo a alocação de órgãos e agentes, bem como sua fiscalização e supervisão, geralmente é desempenhada de maneira direta. A respeito das afirmativas, assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras e a asserção II é uma justificativa correta da I."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "As asserções I e II são proposições falsas."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas I e II são proposições verdadeiras, mas a asserção II não é uma justificativa correta da I."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3185450",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TCE-RR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Assinale a opção que apresenta apenas estruturas que fazem parte da Administração Direta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secretaria de Educação, Tribunal de Contas, Polícia Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "Empresa Pública de Ônibus, Fundação Pública de Saúde, Secretaria de Transporte."
+      },
+      {
+        "letra": "C",
+        "texto": "Autarquia prestadora de serviço previdenciário, Ministério Público, Sociedade de Economia Mista."
+      },
+      {
+        "letra": "D",
+        "texto": "Tribunal de Justiça, Fundação Pública de Educação. Empresa Pública de Saneamento Básico."
+      },
+      {
+        "letra": "E",
+        "texto": "Polícia Militar, Procuradoria Estadual, Empresa Pública de Eletricidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3178242",
+    "metadata": "Ano: 2025 | Banca: AMAUC | Órgão: Prefeitura de Jaborá - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Administração Direta",
+      "Cargo, emprego, função",
+      "Responsabilidades do servidor",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "No serviço público, as relações de hierarquia são regidas por princípios e normas que visam garantir a ordem, a disciplina e o bom funcionamento da administração pública. Compreender a estrutura hierárquica e as atribuições de cada cargo é fundamental para o bom desempenho das funções. Imagine a seguinte situação: Um homem é um Agente de Manutenção recém-concursado e foi designado para trabalhar em uma escola municipal. Em seu primeiro dia de trabalho, ele recebe uma ordem diretamente do Diretor da escola para realizar uma tarefa que não é de sua competência. João se sente desconfortável com a situação, pois sabe que a ordem deveria ter vindo de seu chefe imediato, que é o Coordenador de Serviços Gerais. Considerando as regras de hierarquia no serviço público, qual seria a atitude mais adequada para João tomar nessa situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Procurar o Coordenador de Serviços Gerais e relatar a situação, solicitando orientação sobre como proceder."
+      },
+      {
+        "letra": "B",
+        "texto": "Recusar-se a cumprir a ordem do Diretor, alegando que ele não é seu superior hierárquico direto."
+      },
+      {
+        "letra": "C",
+        "texto": "Cumprir a ordem do Diretor sem questionar, afinal ele é a autoridade máxima na escola."
+      },
+      {
+        "letra": "D",
+        "texto": "Ignorar a ordem do Diretor e continuar realizando suas tarefas rotineiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Conversar diretamente com o Diretor, explicando que prefere receber as ordens por meio de seu chefe imediato."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3177190",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "No que se refere à Administração Direta e à administração indireta, especialmente no que diz respeito às autarquias, fundações, empresas públicas e sociedades de economia mista, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A criação de subsidiárias de empresa pública e de sociedade de economia mista, assim como a participação de qualquer delas em empresa privada,cujo objeto social deve estar relacionado ao da investidora, depende de autorização legislativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração indireta é formada exclusivamente por pessoas jurídicas de direito público interno, por exemplo, as empresas públicas."
+      },
+      {
+        "letra": "C",
+        "texto": "As autarquias são pessoas jurídicas de direito privado, criadas por lei para realizar atividades de interesse social que não são típicas do Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "As empresas públicas que realizarem contrato de gestão com a entidade central serão qualificadas como autarquias em regime especial, para as quais poderão ser delegadas atividades típicas do Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a participação de particulares no capital das sociedades de economia mista, o qual deverá pertencer integralmente às entidades da administração pública indireta, notadamente as empresas públicas e outras sociedades de economia mista."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3175880",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: Prefeitura de Tangará da Serra - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Em relação à organização da Administração Direta e Indireta, analise as assertivas a seguir:I. Sociedades de economia mista são pessoas jurídicas de direito público criadas por lei para o desempenho de um serviço público de forma descentralizada com capacidade de autoadministração e desenvolvem, assim, atividades típicas de Estado prestando serviços de forma técnica e especializada.II. Agências reguladoras são autarquias em regime especial que fiscalizam a prestação de serviços públicos por parte das concessionárias e permissionárias.III. Fundações Públicas de Direito Público são criadas por lei específica sem a necessidade de posterior inscrição de seus atos constitutivos em qualquer órgão registral, e as Fundações Públicas de Direito Privado são criadas com o registro de seus atos constitutivos nos cartórios de registro, após a edição de lei específica que autoriza a criação. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3170094",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Acerca da análise e melhoria de processos, da administração direta e indireta, dos atos administrativos e da requisição, julgue o item seguinte. Integram a administração pública direta os hospitais públicos federais que prestam serviços de saúde, de maneira centralizada, no Sistema Único de Saúde (SUS).",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3159559",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-RJ",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Considerando a organização administrativa da Administração Pública, especialmente em relação à Administração Pública Direta e à administração pública indireta, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A delegação da prestação de atividade administrativa da entidade central para uma pessoa jurídica de direito privado configura hipótese de desconcentração."
+      },
+      {
+        "letra": "B",
+        "texto": "A avocação definitiva de competência de órgão hierarquicamente inferior constitui causa de centralização das competências das atividades que foram delegadas mediante lei."
+      },
+      {
+        "letra": "C",
+        "texto": "As fundações públicas de direito privado adquirem personalidade jurídica com a inscrição da escritura pública de sua constituição no registro civil de pessoas jurídicas."
+      },
+      {
+        "letra": "D",
+        "texto": "A tutela administrativa diz respeito ao controle hierárquico exercido pelos ministérios sobre as entidades jurídicas de direito público ou privado que lhes são subordinadas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os órgãos públicos desconcentrados poderão ser qualificados como entidades do terceiro setor quando celebrarem contrato de gestão com a Administração Pública Direta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3531058",
+    "metadata": "Ano: 2024 | Banca: Instituto Fênix | Órgão: Prefeitura de São José do Cerrito - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "Em relação à organização administrativa, como o agente de compras deve entender a diferença entre administração direta e indireta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração direta compreende as entidades que possuem personalidade jurídica própria, enquanto a administração indireta não possui essa característica."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração indireta é formada exclusivamente por órgãos públicos sem autonomia financeira, ao contrário da administração direta."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração direta refere-se aos órgãos que integram a estrutura do poder executivo, legislativo e judiciário, e a administração indireta às entidades com personalidade jurídica própria, criadas por lei para a realização de atividades específicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a administração direta está sujeita aos princípios constitucionais da Administração Pública, diferentemente da administração indireta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3345220",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Caraguatatuba - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A Prefeitura de Caraguatatuba é o principal órgão do Poder Executivo do Município, sendo responsável essencialmente pela elaboração e execução dos atos de administração. Com relação a esse órgão, é correto afirmar que ele faz parte da administração",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Direta."
+      },
+      {
+        "letra": "B",
+        "texto": "Indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "Fundacional."
+      },
+      {
+        "letra": "D",
+        "texto": "por Objetivos."
+      },
+      {
+        "letra": "E",
+        "texto": "de Terceiro Setor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3296940",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Piúma - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Administração Direta",
+      "Cargo, emprego, função"
+    ],
+    "enunciado_principal": "A Lei Orgânica do Município de Piúma, ao traçar a organização do Poder Executivo, estabelece que são auxiliares diretos do Prefeito os Secretários Municipais, os Assessores Técnicos, o Chefe de Gabinete e o Procurador Geral. São condições essenciais para a investidura no cargo Secretário ou Assessor Técnico, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estar no exercício dos direitos políticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ter formação compatível com o exercício do cargo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ser maior de vinte e um anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ser brasileiro nato."
+      }
+    ],
+    "gabarito": "X"
+  },
+  {
+    "id": "3268707",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Em relação à Administração Pública Direta, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As sociedades de economia mista, quando pessoa jurídica de direito público interno, integram a Administração Pública Direta."
+      },
+      {
+        "letra": "B",
+        "texto": "As fundações de direito privado integram a Administração Pública Direta quando sua atuação estiver relacionada à exploração da atividade econômica."
+      },
+      {
+        "letra": "C",
+        "texto": "A Administração Pública Direta abrange tanto as funções executivas quanto as funções legislativas e judiciárias."
+      },
+      {
+        "letra": "D",
+        "texto": "A Administração Direta constitui‑se dos serviços integrados na estrutura administrativa da presidência da República e dos ministérios."
+      },
+      {
+        "letra": "E",
+        "texto": "A Administração Pública Direta é composta, exclusivamente, de empresas estatais que operam no mercado com autonomia administrativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3258848",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EPE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A Constituição Federal de 1988 estabelece que a Administração Pública no Brasil pode ser direta ou indireta. Essa estrutura visa promover a eficiência, transparência e responsabilidade na prestação de serviços públicos e na execução de políticas governamentais. A entidade dotada de personalidade jurídica de direito privado, com patrimônio próprio e capital exclusivo da União, criada por lei para a exploração de atividade econômica que o governo seja levado a exercer por força de contingência ou de conveniência administrativa, é denominada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "autarquia."
+      },
+      {
+        "letra": "B",
+        "texto": "empresa pública."
+      },
+      {
+        "letra": "C",
+        "texto": "sociedade de economia mista."
+      },
+      {
+        "letra": "D",
+        "texto": "fundação pública."
+      },
+      {
+        "letra": "E",
+        "texto": "organização da sociedade civil."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3255330",
+    "metadata": "Ano: 2024 | Banca: IBAM | Órgão: Prefeitura de Guarulhos - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A Lei Federal nº 12.608/2012 estabelece responsabilidades específicas para a União, os Estados e os Municípios no âmbito da Política Nacional de Proteção e Defesa Civil, visando à organização e à eficácia das ações de prevenção e resposta a desastres. Com base nas competências atribuídas por essa legislação, julgue as seguintes afirmações. (__) Compete à União promover a fiscalização das áreas de risco de desastre, e vedar novas ocupações nessas áreas. (__) Compete aos Municípios identificar e mapear as áreas de risco de desastres. (__) Compete aos Estados a identificação das bacias hidrográficas com risco de ocorrência de desastres. Assinale a alternativa cuja respectiva ordem de julgamento esteja correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V − F − F."
+      },
+      {
+        "letra": "B",
+        "texto": "F − F − V."
+      },
+      {
+        "letra": "C",
+        "texto": "F − F − F."
+      },
+      {
+        "letra": "D",
+        "texto": "V − V − V."
+      },
+      {
+        "letra": "E",
+        "texto": "F − V − V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3255321",
+    "metadata": "Ano: 2024 | Banca: IBAM | Órgão: Prefeitura de Guarulhos - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "A administração do Fundo Municipal de Proteção e Defesa Civil (FUNMPDEC) é crucial para a gestão eficiente dos recursos destinados a emergências e desastres. O Art. 14 define o Coordenador Municipal de Proteção e Defesa Civil como o principal responsável por diversas funções administrativas e financeiras essenciais. Assinale a alternativa que identifica corretamente quem exerce a administração do FUNMPDEC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secretário Municipal de Proteção e Defesa Civil, ao qual caberá coordenar as atividades financeiras e operacionais do fundo."
+      },
+      {
+        "letra": "B",
+        "texto": "Prefeito municipal, ao qual caberá supervisionar a alocação de recursos e as despesas."
+      },
+      {
+        "letra": "C",
+        "texto": "Conselho Municipal de Proteção e Defesa Civil - CONMPDEC, ao qual caberá deliberar sobre a utilização dos recursos do fundo."
+      },
+      {
+        "letra": "D",
+        "texto": "Diretor do Departamento de Proteção e Defesa Civil, ao qual caberá encarregar-se da gestão diária do fundo."
+      },
+      {
+        "letra": "E",
+        "texto": "Coordenador Municipal de Proteção e Defesa Civil, ao qual caberá, entre outras atribuições legais, gerir e zelar pela aplicação dos recursos financeiros."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3248755",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "Os entes que compõem a Administração Direta são considerados pessoas jurídicas de direito público. Assinale a opção que apresenta uma característica, em regra, dos entes que compõem a Administração Direta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compõem-se de empregados públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Seus atos administrativos não possuem presunção de legitimidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Seus bens podem ser penhorados."
+      },
+      {
+        "letra": "D",
+        "texto": "Seus créditos são pagos diretamente, sem necessidade de precatórios."
+      },
+      {
+        "letra": "E",
+        "texto": "Compõem-se de servidores públicos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3248525",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: EBSERH",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta"
+    ],
+    "enunciado_principal": "A Administração Pública brasileira organiza-se em Administração Direta e Indireta. Um exemplo de ente da Administração Direta são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as autarquias."
+      },
+      {
+        "letra": "B",
+        "texto": "as fundações públicas."
+      },
+      {
+        "letra": "C",
+        "texto": "as empresas públicas."
+      },
+      {
+        "letra": "D",
+        "texto": "as sociedades de economia mista."
+      },
+      {
+        "letra": "E",
+        "texto": "os ministérios."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3244925",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: SAAE de Aparecida - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta"
+    ],
+    "enunciado_principal": "A administração direta é composta por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ministérios, secretarias e autarquias."
+      },
+      {
+        "letra": "B",
+        "texto": "Empresas públicas e sociedades de economia mista."
+      },
+      {
+        "letra": "C",
+        "texto": "Ministérios, secretarias, autarquias e fundações públicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Órgãos da União, dos Estados, do Distrito Federal e dos Municípios."
+      },
+      {
+        "letra": "E",
+        "texto": "Presidência da República, ministérios e autarquias."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3231562",
+    "metadata": "Ano: 2024 | Banca: AMEOSC | Órgão: Prefeitura de Tunápolis - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Regime jurídico administrativo",
+      "Conceito de administração pública"
+    ],
+    "enunciado_principal": "O conceito de administração pública envolve a organização e o funcionamento estatal, com o objetivo de alcançar o interesse público. Dentro dessa perspectiva, considere as seguintes afirmativas sobre a administração pública: I.A administração pública direta compreende as autarquias, fundações públicas, empresas públicas e sociedades de economia mista, que são criadas para desempenhar funções de natureza técnica, científica ou econômica. II.A administração pública indireta é composta por ministérios, secretarias, e demais órgãos da União, dos Estados, do Distrito Federal e dos Municípios, responsáveis pela execução direta das políticas públicas. III.O conceito de administração pública envolve tanto o exercício da função administrativa pelo Estado quanto a prestação de serviços públicos delegados a particulares, como ocorre nos casos de concessão e permissão.Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a afirmativa III está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas II e III estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3188730",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Câmara de Osasco - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Administração Indireta",
+      "Empresas Públicas e Sociedades de Economia Mista",
+      "Licitações e Lei nº 14.133 de 2021",
+      "Contratos Administrativos – Lei nº 14.133 de 2021"
+    ],
+    "enunciado_principal": "A Lei 14.133/2021, (Lei de Licitações e Contratos Administrativos), estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange: I - Os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados e do Distrito Federal, as sociedades de economia mista e as suas subsidiárias; II - Os fundos especiais e as demais entidades controladas direta ou indiretamente pela Administração Pública. Sobre as asserções é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras, e a II é um complemento da I."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "As asserções I e II são proposições falsas."
+      },
+      {
+        "letra": "E",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a II não é um complemento da I."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3171640",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Administração Direta",
+      "Órgãos Públicos",
+      "Desconcentração e Descentralização Administrativa"
+    ],
+    "enunciado_principal": "Antes de ser nomeado e empossado na qualidade de inspetor de polícia, Lucas, com o objetivo de melhor entender as funções que futuramente desempenhará, resolveu analisar como a Polícia Civil do Estado de Minas Gerais está inserida no contexto da Administração Pública. Considerando os entendimentos doutrinário e jurisprudencial dominantes, é correto afirmar que a Polícia Civil do Estado de Minas Gerais é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um órgão público, integrante da Administração Pública Direta, fruto da desconcentração administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "um órgão público, integrante da Administração Pública Direta, fruto da descentralização administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "um órgão público, integrante da Administração Pública Indireta, fruto da desconcentração administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "uma autarquia, integrante da Administração Pública Indireta, fruto da desconcentração administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "uma autarquia, integrante da Administração Pública Indireta, fruto da descentralização administrativa."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

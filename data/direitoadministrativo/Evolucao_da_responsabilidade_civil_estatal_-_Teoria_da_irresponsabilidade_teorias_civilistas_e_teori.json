@@ -1,0 +1,187 @@
+[
+  {
+    "id": "3296701",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: CRMV-BA",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas",
+      "Previsão constitucional e elementos da responsabilidade civil objetiva do Estado"
+    ],
+    "enunciado_principal": "A responsabilidade civil do Estado tem previsão no artigo 37, §6º, da Constituição Federal. Nesse contexto, assinale a alternativa que indica CORRETAMENTE a teoria aplicada, como regra, à responsabilização do Estado por danos causados a terceiros.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se da Teoria do Risco Integral, pela qual o Estado responde de forma objetiva, sem a possibilidade de alegação de excludentes de ilicitude."
+      },
+      {
+        "letra": "B",
+        "texto": "Teoria da Teoria da Culpa Anônima ou Culpa do Serviço (Faute du service), pela qual o Estado responde subjetivamente pelos danos causados por seus agentes, desde que se comprove que o serviço público não funcionou, funcionou de forma inadequada ou foi prestado com atraso."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se da Teoria do Risco Administrativo, pela qual o Estado responde de forma objetiva, mas pode afastar sua responsabilidade caso comprove a ocorrência de alguma excludente de ilicitude."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se da Teoria da Teoria da Culpa Civil, segundo a qual o Estado somente será responsabilizado se houver comprovação de culpa ou dolo do agente público."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3228242",
+    "metadata": "Ano: 2025 | Banca: IBGP | Órgão: TJ-PR",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas"
+    ],
+    "enunciado_principal": "O art. 37, § 6º, da Constituição estabelece que as pessoas jurídicas de direito público e as de direito privado, prestadoras de serviços públicos, responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa. Sobre a responsabilidade civil do Estado, assinale a alternativa CORRETA com base no entendimento dos Tribunais Superiores:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplica-se o prazo prescricional trienal contido do Código Civil de 2002 nas ações indenizatórias, ajuizadas contra a Fazenda Pública, em detrimento do prazo quinquenal, previsto do Decreto 20.910/32."
+      },
+      {
+        "letra": "B",
+        "texto": "Caracteriza-se a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, ainda que não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade civil das pessoas jurídicas de direito privado, prestadoras de serviço público, é objetiva relativamente a terceiros usuários, e subjetiva relativamente aos terceiros não usuários do serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria do risco integral constitui uma modalidade extremada da teoria do risco em que o nexo causal é fortalecido de modo a não ser rompido pelo implemento das causas que, normalmente, o abalariam (v.g. culpa da vítima, fato de terceiro, força maior), como nos casos de dano nuclear e dano ambiental."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3262325",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: HEMOBRÁS",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas",
+      "Previsão constitucional e elementos da responsabilidade civil objetiva do Estado"
+    ],
+    "enunciado_principal": "Em um contexto de administração pública, a responsabilidade civil do Estado é um tema de grande relevância, especialmente nas situações em que a atuação estatal causa danos a terceiros. Considerando a teoria da responsabilidade objetiva, que desconsidera a culpa e se fundamenta no risco da atividade, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria da responsabilidade objetiva não se aplica em casos de atividades que envolvam risco, pois a responsabilidade é sempre subjetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade civil do Estado é sempre subsidiária, ou seja, só pode ser acionada após a responsabilização dos agentes públicos envolvidos."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade objetiva do Estado é condicionada à demonstração de culpa, uma vez que a proteção do interesse público exige cautela nas ações governamentais."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade objetiva implica que o Estado deve indenizar os danos causados independentemente da análise de culpa, fundamentando-se no risco da atividade que exerce."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3204406",
+    "metadata": "Ano: 2025 | Banca: UECE-CEV | Órgão: PGE-CE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas"
+    ],
+    "enunciado_principal": "No tocante à responsabilidade civil, a doutrina e a jurisprudência brasileiras advogam que para gerar responsabilidade civil do Estado, devem estar presentes três elementos: a conduta administrativa, o dano e o nexo causal. Esses elementos representam o núcleo da teoria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do risco administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "da culpa administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "da responsabilidade subjetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "do risco civil integral."
+      },
+      {
+        "letra": "E",
+        "texto": "do risco civil por ação ou omissão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3152843",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas",
+      "Responsabilidade do Estado por atos omissivos"
+    ],
+    "enunciado_principal": "Sociedade Borabombar desenvolve atividade empresarial relacionada a venda de artigos para festas, mas, seus representantes, cladestinamente, decidiram vender fogos de artifício para incrementar o negócio, sendo certo que foram realizadas inúmeras denúncias junto ao poder público local acerca de tal fato, sem que qualquer providência fosse adotada pelos agentes competentes municipais. Diante do indevido acondicionamento dos referidos produtos irregulares no fundo do depósito da respectiva loja, houve uma explosão que ocasionou danos materiais e morais a Amaury, que foi atingido pelos destroços quando transitava na localidade no momento do trágico evento. Por considerar que o Município deve ser civilmente responsabilizado, em decorrência de sua obrigação de fiscalizar tais atividades empresariais, Amaury visa a ajuizar ação indenizatória em face do mencionado ente federativo. Diante dessa situação hipotética, assinale a opção correta, à luz da orientação do Supremo Tribunal Federal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando que o comércio de fogos de artifício é uma atividade que põe em risco à coletividade, o ordenamento prevê a responsabilização do Município com base na teoria do risco integral com relação ao exercício da respectiva fiscalização."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é cabível a responsabilização do Município por omissão no dever de fiscalização, em qualquer caso, na medida em que os entes federativos não podem ser considerados seguradores universais, sendo uma das situações em que o ordenamento prevê expressamente a irresponsabilidade do Estado."
+      },
+      {
+        "letra": "C",
+        "texto": "Tendo em vista que a ausência de fiscalização corresponde a uma conduta omissiva do ente federativo, a responsabilização civil do Município na hipótese narrada é subjetiva, sendo indispensável a demonstração do elemento subjetivo para a sua caracterização."
+      },
+      {
+        "letra": "D",
+        "texto": "Considerando que a responsabilidade pela explosão é da sociedade que acondicionou os produtos indevidamente, eventual responsabilização do Município apenas pode ser subsidiária, na medida em que não há causalidade imediata entre a sua omissão e o dano."
+      },
+      {
+        "letra": "E",
+        "texto": "A caracterização da responsabilidade objetiva do Município em tais casos exige a violação de um dever jurídico específico de agir, como se infere do caso narrado, em que as inúmeras denúncias demonstram que as irregularidades praticadas pelo particular eram de conhecimento do poder público."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3667744",
+    "metadata": "Ano: 2024 | Banca: GUALIMP | Órgão: Prefeitura de Alfredo Chaves - ES",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Responsabilidade civil do estado",
+      "Evolução da responsabilidade civil estatal - Teoria da irresponsabilidade, teorias civilistas e teorias publicistas"
+    ],
+    "enunciado_principal": "A responsabilidade civil do agente público, no exercício de suas funções, ocorre quando:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Age dentro dos limites da legalidade, mesmo que cause dano."
+      },
+      {
+        "letra": "B",
+        "texto": "Há dano causado a terceiros por ação ou omissão, dolosa ou culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "Exerce suas funções com eficiência e eficácia."
+      },
+      {
+        "letra": "D",
+        "texto": "Recebe denúncias sobre irregularidades administrativas."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

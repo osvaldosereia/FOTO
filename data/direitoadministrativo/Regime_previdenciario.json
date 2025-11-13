@@ -1,0 +1,143 @@
+[
+  {
+    "id": "3294922",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime previdenciário"
+    ],
+    "enunciado_principal": "A previdência social pública envolve recolhimentos periódicos, visando cobrir riscos como doença, maternidade e aposentadoria. Assinale a alternativa que demonstra um pilar fundamental dessa estrutura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eliminação completa de qualquer prazo de carência, concedendo benefícios imediatos a todos os segurados."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicação de alíquotas invariáveis, independentemente de faixas salariais ou capacidade contributiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Destinação de recursos previdenciários a investimentos desvinculados dos segurados, destituídos de retorno em benefícios."
+      },
+      {
+        "letra": "D",
+        "texto": "Amparo coletivo a trabalhadores que cumprem requisitos de contribuição e idade, garantindo cobertura em situações de vulnerabilidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3193035",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: CIMPAJEÚ - PE",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime previdenciário"
+    ],
+    "enunciado_principal": "Sobre o Regime Próprio de Previdência Social (RPPS), é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Permite a aposentadoria especial apenas para servidores em atividades insalubres."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é regulamentado pela Constituição Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplica-se exclusivamente aos servidores públicos efetivos."
+      },
+      {
+        "letra": "D",
+        "texto": "É opcional para servidores públicos temporários."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3170022",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime previdenciário"
+    ],
+    "enunciado_principal": "A respeito do regime jurídico dos servidores públicos federais, julgue o item seguinte, com base na Lei n.º 8.112/1990. Durante o gozo de licença por motivo de doença em pessoa da família, fica impedido o servidor público de exercer atividade remunerada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3231935",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Lins - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime previdenciário"
+    ],
+    "enunciado_principal": "Suponha que uma Prefeitura, com o objetivo de resolver histórico déficit previdenciário no seu regime próprio de previdência decide propor à Câmara de Vereadores a aprovação de lei com as seguintes medidas de ajuste: (i) criação de plano de previdência complementar, na modalidade “contribuição definida”, para os servidores efetivos, com possibilidade de adesão facultativa para os ocupantes de cargos comissionados e eletivos; (ii) criação de um novo regime próprio de previdência social exclusivamente para os servidores integrantes das carreiras de educação a funcionar concomitantemente ao regime próprio de previdência dos demais servidores; (iii) aumento das alíquotas previdenciárias a cargo dos servidores, da alíquota única de 11% para alíquotas progressivas de 14% a 19%, conforme o nível salarial do servidor. Com base na legislação nacional, é correto afirmar, a respeito desta situação hipotética, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é vedada a existência de mais de um regime próprio de previdência social no âmbito de um mesmo ente da Federação."
+      },
+      {
+        "letra": "B",
+        "texto": "é inconstitucional a adoção de alíquotas progressivas nos regimes próprios de previdência social, independentemente da existência de déficit atuarial."
+      },
+      {
+        "letra": "C",
+        "texto": "é vedada a adoção pelos regimes próprios de previdência dos municípios de alíquota a ser paga pelo servidor em nível superior ao praticado pela União"
+      },
+      {
+        "letra": "D",
+        "texto": "é vedada a extensão do direito de adesão ao regime de previdência complementar, ainda que facultativa, aos servidores ocupantes de cargos em comissão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3225692",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: DESENVOLVE-SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Regime previdenciário"
+    ],
+    "enunciado_principal": "Um servidor público federal falece, deixando um filho inválido. Assinale a resposta correta quanto à pensão por morte desse servidor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pensão por morte de servidor público federal pode ser concedida ao filho inválido até 21 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "A pensão por morte de servidor público federal pode ser concedida ao filho inválido de qualquer idade, que teria direito a ela ainda que a invalidez fosse posterior ao óbito."
+      },
+      {
+        "letra": "C",
+        "texto": "O filho inválido não tem direito à pensão por morte do servidor público federal."
+      },
+      {
+        "letra": "D",
+        "texto": "A pensão por morte de servidor público federal pode ser concedida ao filho inválido até 18 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A pensão por morte de servidor público federal pode ser concedida ao filho inválido de qualquer idade, desde que a invalidez seja anterior ao óbito."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

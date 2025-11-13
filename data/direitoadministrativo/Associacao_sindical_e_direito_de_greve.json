@@ -1,0 +1,158 @@
+[
+  {
+    "id": "3506642",
+    "metadata": "Ano: 2025 | Banca: IGEDUC | Órgão: Prefeitura de Japaratinga - AL",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Associação sindical e direito de greve"
+    ],
+    "enunciado_principal": "Com base apenas nos incisos XVII, XVIII, XIX e XX do artigo 5º da Constituição Federal de 1988, e sem considerar doutrina ou jurisprudência, qual das alternativas a seguir está CORRETA quanto ao direito de associação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liberdade de associação é plena, inclusive para fins ilícitos, desde que não haja caráter paramilitar."
+      },
+      {
+        "letra": "B",
+        "texto": "As associações só poderão ser compulsoriamente dissolvidas por decisão judicial com trânsito em julgado, e sua suspensão poderá ocorrer por ato administrativo motivado."
+      },
+      {
+        "letra": "C",
+        "texto": "Ninguém pode ser obrigado a associar-se ou a permanecer associado, e é vedada a criação de associações com caráter paramilitar."
+      },
+      {
+        "letra": "D",
+        "texto": "A criação de associações e cooperativas depende de autorização legal prévia e está sujeita à fiscalização direta do Estado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3278780",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: UNIVESP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Associação sindical e direito de greve"
+    ],
+    "enunciado_principal": "De acordo com a doutrina majoritária, há três grandes grupos de agentes públicos: os agentes políticos; os agentes administrativos ou servidores públicos; e os particulares em colaboração com o Poder Público. Acerca desse tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com a Lei nº 8.112/90, será tornado sem efeito o ato de provimento se a posse não ocorrer no prazo de quarenta e cinco (45) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "São estáveis após dois anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, a de dois empregos em empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público."
+      },
+      {
+        "letra": "D",
+        "texto": "É garantido ao servidor público civil o direito à livre associação sindical e o direito de greve, que será exercido nos termos e nos limites definidos em lei específica."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplica-se o regime próprio de previdência social ao servidor ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração bem como de outro cargo temporário ou de emprego público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3223777",
+    "metadata": "Ano: 2025 | Banca: OBJETIVA | Órgão: Prefeitura de Rio do Oeste - SC",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Organização da Administração Pública",
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Concurso público",
+      "Associação sindical e direito de greve",
+      "Órgãos Públicos"
+    ],
+    "enunciado_principal": "No que diz respeito à administração municipal, com base na Lei Orgânica do Município, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente. ( ) Os vencimentos dos cargos do Poder Legislativo poderão ser superiores aos pagos pelo Poder Executivo. ( ) O prazo de validade do concurso público será de dois anos, prorrogável uma vez, por igual período. ( ) Ao servidor público civil é garantido o direito à livre associação sindical.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E - E - C."
+      },
+      {
+        "letra": "B",
+        "texto": "C - E - C."
+      },
+      {
+        "letra": "C",
+        "texto": "E - C - E."
+      },
+      {
+        "letra": "D",
+        "texto": "C - C - E."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3178825",
+    "metadata": "Ano: 2025 | Banca: MS CONCURSOS | Órgão: FCS - MG",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Associação sindical e direito de greve"
+    ],
+    "enunciado_principal": "O Agente Público é todo aquele que presta determinado serviço público à Administração Pública, que tem como espécies o agente político, o servidor público e o empregado público. Então, indique a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da mesma."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "Os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito de greve não pode ser exercido pelo empregado público."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3231934",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Lins - SP",
+    "categoria": "Direito Administrativo",
+    "subcategorias": [
+      "Agentes públicos e Lei 8.112 de 1990",
+      "Associação sindical e direito de greve"
+    ],
+    "enunciado_principal": "O sindicato dos guardas civis de um determinado município com 150 mil habitantes, após realização de assembleia, decidiu entrar em greve como forma de pressionar o Prefeito a aceitar os seguintes pleitos da categoria: (i) concessão de reajuste salarial acima da inflação; (ii) aprovação do uso de armas pelos guardas municipais com atividades de patrulhamento ostensivo; e (iii) incorporação da vantagem de caráter temporário por exercício de atividade em local perigoso à remuneração do cargo efetivo. Foi aprovado, assim, que nenhum servidor da carreira sairia às ruas do município para realizar a segurança dos equipamentos públicos durante a greve. O Prefeito se manifestou em entrevista à imprensa contrariamente à greve, alegando que ela seria ilegal, pois haveria lei municipal que, regulamentando direito à greve dos servidores públicos, consideraria abusivo eventual movimento paradista realizado por servidores da área de segurança. Com base na legislação nacional e na situação descrita, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o direito de greve dos servidores públicos é assegurado pela Constituição e não comporta limitação infraconstitucional, de modo que a fala do Prefeito não é compatível com a Constituição."
+      },
+      {
+        "letra": "B",
+        "texto": "embora a Constituição admita a regulamentação do direito à greve de servidores públicos, isto deve se dar por meio de lei estadual, não cabendo à lei municipal dispor a respeito das hipóteses de abusividade de movimento paradista."
+      },
+      {
+        "letra": "C",
+        "texto": "não há restrição constitucional especificamente quanto ao pleito de uso de armas pelos guardas civis, independentemente do número de habitantes do município, conforme jurisprudência do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "por estar a greve em linha com a garantia constitucional assegurada a todos os servidores públicos, não é possível a realização de descontos salariais pela Administração em razão dos dias eventualmente não trabalhados."
+      }
+    ],
+    "gabarito": "C"
+  }
+]
