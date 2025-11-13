@@ -1,0 +1,1919 @@
+[
+  {
+    "id": "3383765",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "No que se refere à omissão penalmente relevante, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em se tratando dos crimes omissivos próprios, a norma constante do tipo penal é de natureza proibitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "A relevância da omissão depende exclusivamente da gravidade do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Qualquer omissão será considerada penalmente relevante se resultar em dano."
+      },
+      {
+        "letra": "D",
+        "texto": "A omissão será penalmente relevante quando o agente, encontrando-se em posição de garantidor, deixar de agir, podendo fazê-lo, desde que tal omissão seja causa adequada do resultado, segundo juízo normativo de imputação."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente a omissão dolosa é considerada penalmente relevante."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3260310",
+    "metadata": "Ano: 2025 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A relação de causalidade é tema estrutural e estruturante do direito penal. O artigo 13, caput, do Código Penal assim dispõe: O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido. Especificamente sobre a omissão e crimes omissivos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São crimes omissivos próprios aqueles em que a conduta omissiva exige resultado naturalístico."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de “Omissão de Notificação de Doença”, previsto no artigo 269 do Código Penal, está inserido no Título VIII (Crimes contra a Incolumidade Pública), Capítulo III (Crimes contra a Saúde Pública) e tem como sujeito ativo qualquer agente da área da saúde que toma conhecimento da ocorrência de doença cuja notificação seja compulsória e não informa à autoridade pública competente."
+      },
+      {
+        "letra": "C",
+        "texto": "O § 2o do artigo 13 do Código Penal estabelece que “a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado”. Além disso, estabelece a quem incumbe o dever de agir, ou seja, quem tenha por lei obrigação de cuidado, proteção ou vigilância; quem, de outra forma, assumiu a responsabilidade de impedir o resultado; e quem, com seu comportamento anterior, criou o risco da ocorrência do resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "São crimes omissivos impróprios aqueles em que a conduta omissiva prescinde do resultado naturalístico, ou seja, a consumação é contemporânea à omissão."
+      },
+      {
+        "letra": "E",
+        "texto": "A Lei no 9.605/1998, na Seção dos Crimes contra a Administração Ambiental, prevê no artigo 69-A a seguinte conduta: “Elaborar ou apresentar, no licenciamento, concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão”. Assim como nos crimes de falsidade e falsa perícia previstos nos artigos 297, 298, 299, 304 e 342 do Código Penal, aos quais prefere, sob a perspectiva do conflito aparente de normas, pelo princípio da especialidade, não se admite a modalidade culposa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3186301",
+    "metadata": "Ano: 2025 | Banca: FURB | Órgão: Prefeitura de Pomerode - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Desistência voluntária e arrependimento eficaz",
+      "Arrependimento posterior",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre a disciplina do crime no Código Penal, julgue as seguintes assertivas: I.No Direito Penal brasileiro, a omissão não é penalmente relevante, de modo que somente se caracteriza o crime a partir da ação do agente. II.O crime é consumado quando nele se reúnem todos os elementos de sua definição legal. III.O agente, ainda que voluntariamente desista de prosseguir na execução do crime, responderá como se seus resultados tivessem se produzido. IV.Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços. É correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2367575",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre a classificação das infrações penais, analise as afirmativas a seguir. I. No crime omissivo espúrio, a omissão é descrita no próprio tipo penal e não admite a tentativa nem a modalidade culposa. II. Ricardo desferiu uma facada no pescoço de Carlos, com objetivo de matá-lo. Na sequência, para assegurar o resultado, ele desferiu um disparo de arma de fogo contra a cabeça de Carlos. Carlos veio a falecer em virtude dos ferimentos causados pelo disparo da arma de fogo. Este homicídio é exemplo de crime de passagem. III. A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado, originando-se o dever de agir somente de dever de cuidado, proteção ou vigilância oriundos da lei e de assunção de responsabilidade para impedir o resultado. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2324558",
+    "metadata": "Ano: 2023 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre o tipo dos crimes de omissão de ação, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cidadão A percebe seu filho B se afogando em piscina particular e, podendo agir concretamente sem risco pessoal, deixa de realizar o salvamento, com o resultado de morte da criança B: A responde por omissão de socorro, majorado ao triplo pelo resultado de morte (CP, art. 135, parágrafo único)."
+      },
+      {
+        "letra": "B",
+        "texto": "Os elementos típicos comuns do tipo objetivo da omissão de ação própria e imprópria são a situação de perigo para o bem jurídico, o poder concreto de agir e a omissão da ação mandada, e os elementos típicos específicos do tipo objetivo da omissão de ação imprópria são a posição de garantidor e o resultado de lesão ao bem jurídico protegido."
+      },
+      {
+        "letra": "C",
+        "texto": "O critério formal, adotado pelo legislador penal brasileiro para definição da posição de garantidor do bem jurídico, considera a lei, o contrato e ação precedente perigosa, como fontes do dever de garantia."
+      },
+      {
+        "letra": "D",
+        "texto": "O cidadão A, por lesão do dever de cuidado ou do risco permitido, omite ação mandada de controle adequado de seu cão feroz durante passeio em via pública, resultando em ataque do animal a seu vizinho B, em caminhada pelo local: as lesões corporais produzidas pelo animal em B determinam a responsabilidade penal de A por lesão corporal culposa (CP, art. 129, § 6º), por omissão de ação imprópria."
+      },
+      {
+        "letra": "E",
+        "texto": "Na área do conhecimento do injusto, o erro sobre o dever jurídico geral de agir e o erro sobre o dever jurídico especial de agir, constituem modalidades de erro de mandado, recebendo o mesmo tratamento jurídico conferido pelo legislador penal brasileiro ao erro de proibição, nos crimes praticados por ação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2315469",
+    "metadata": "Ano: 2023 | Banca: IMPARH | Órgão: AMC de Fortaleza - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Conforme normatizado pelo Código Penal, a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir NÃO incumbe a quem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para o agente que cria um embaraço para a prática do ato delitivo."
+      },
+      {
+        "letra": "B",
+        "texto": "com seu comportamento anterior, criou o risco da ocorrência do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "de outra forma, assumiu a responsabilidade de impedir o resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "tenha por lei obrigação de cuidado, proteção ou vigilância."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2312114",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Periclitação da vida e da saúde",
+      "Omissão de socorro",
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Dano"
+    ],
+    "enunciado_principal": "A doutrina classifica os delitos em diversas categorias, assim procurando melhor compreendê-los. Considerando algumas das classificações existentes, são, respectivamente, delito de resultado, delito de lesão, delito permanente e delito omissivo próprio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão, furto, rufianismo e prevaricação;"
+      },
+      {
+        "letra": "B",
+        "texto": "furto, dano, cárcere privado e omissão de socorro;"
+      },
+      {
+        "letra": "C",
+        "texto": "roubo, lesão corporal, sequestro e homicídio por omissão;"
+      },
+      {
+        "letra": "D",
+        "texto": "homicídio, autoaborto, perseguição e estupro por omissão;"
+      },
+      {
+        "letra": "E",
+        "texto": "peculato, omissão de socorro, extorsão mediante sequestro e omissão de notificação de doença."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2144076",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Periclitação da vida e da saúde",
+      "Omissão de socorro"
+    ],
+    "enunciado_principal": "Agostinho, experiente surfista, está surfando na companhia de Hegel, quando começa a se afogar em razão de uma cãibra muito forte. Hegel, após ver o colega se afogando, decide, ainda assim, surfar uma onda que estava muito favorável. Contudo, ao regressar já não é possível ajudar Agostinho, que só é encontrado, sem vida, horas depois. Diante dessa situação, é correto afirmar que Hegel:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deve responder por qualquer crime, uma vez que não há tipicidade em sua conduta;"
+      },
+      {
+        "letra": "B",
+        "texto": "não deve responder por qualquer crime, uma vez que inexigível conduta diversa, afastando a culpabilidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "deverá responder pelo crime de homicídio doloso, uma vez que estava na posição de garantidor e sua omissão é penalmente relevante;"
+      },
+      {
+        "letra": "D",
+        "texto": "deverá responder pelo crime de homicídio culposo, uma vez que estava na posição de garantidor e sua omissão é penalmente relevante"
+      },
+      {
+        "letra": "E",
+        "texto": "deverá responder pelo crime de omissão de socorro, com pena triplicada, tendo em vista que a vítima se achava em grave e iminente perigo e, da omissão, resultou sua morte."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2113549",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "No caso dos crimes omissivos, considera-se o momento da omissão e aplica-se a lei vigente pressupondo o último momento que poderia ter sido utilizado pelo agente para praticar a ação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110343",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com referência à teoria do crime, julgue o próximo item. Nos crimes omissivos impróprios, a tipicidade é aberta, mediante subsunção indireta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110342",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com referência à teoria do crime, julgue o próximo item. Nos crimes omissivos impróprios, a relação de causalidade somente será constituída se, com base em elementos empíricos, for possível concluir, com alto grau de probabilidade, que o resultado não ocorreria caso a ação devida fosse efetivamente realizada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110341",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com referência à teoria do crime, julgue o próximo item. O rol legal de hipóteses com base no qual o agente deve agir para evitar o resultado, assumindo a posição de garantidor, é exemplificativo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2070516",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Prefeitura de Americana - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Lei penal no tempo",
+      "Consumação e tentativa",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com relação à aplicação da lei penal e quanto ao crime, assinale a alternativa correta com base no Código Penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução, mas permanecendo os efeitos penais da sentença condenatória;"
+      },
+      {
+        "letra": "B",
+        "texto": "Diz-se o crime tentado, quando iniciada a execução, não se consuma por circunstâncias ligadas exclusivamente à vontade do agente;"
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se praticado o crime no momento do resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "A omissão nunca será penalmente relevante;"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das assertivas anteriores está correta."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1989153",
+    "metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TJM-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Classificação dos crimes",
+      "Crimes omissivos",
+      "Descriminantes Putativas",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Sobre as referências aos diversos sistemas formulados para a teoria do crime constantes do Código Penal Comum e do Código Penal Militar, analise as afirmativas a seguir. I. O Código Penal Comum trata a descriminante putativa conforme a teoria limitada da culpabilidade. II. O Código Penal Militar registra circunstâncias judiciais compatíveis com a teoria psicológico- -normativa da culpabilidade. III. O Código Penal Comum concebe os crimes comissivos impróprios de maneira compatível com sistema de base normativa. IV. O Código Penal Militar considera dolo e culpa conforme o sistema causal-naturalista. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1984031",
+    "metadata": "Ano: 2022 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Consumação e tentativa",
+      "Crimes omissivos",
+      "Inimputabilidade pela embriaguez",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inserção de declaração falsa ou diversa da que deveria ter sido escrita na Carteira de Trabalho e Previdência Social do empregado pode configurar o crime de falsidade de documento público, no caso de comprovado o dolo do agente."
+      },
+      {
+        "letra": "B",
+        "texto": "É isento de pena o agente que, por embriaguez completa, proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime é tentado quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente ou este voluntariamente desiste de prosseguir na execução."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime comissivo por omissão, tem o dever de agir aquele que, com seu comportamento anterior, criou o risco da ocorrência do resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1981460",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Tipicidade formal",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "O tipo penal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no crime omissivo próprio exige o comportamento ativo do agente de acordo com sua relação com o bem jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "representa um indício da culpabilidade segundo a teoria materialista objetiva do delito."
+      },
+      {
+        "letra": "C",
+        "texto": "tem sua primeira construção dogmática no finalismo de Hans Welzel."
+      },
+      {
+        "letra": "D",
+        "texto": "demanda o desvalor do resultado para sua existência como elemento do delito."
+      },
+      {
+        "letra": "E",
+        "texto": "é a estrutura legal que descreve o comportamento proibido, possuindo função de garantia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1969322",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Mévia e Pietra são amigas e cada uma delas tem um filho, de 4 anos. As crianças estudam na mesma escola e, como Pietra estava doente, permitiu que Mévia levasse seu filho a festa de aniversário de um amiguinho em comum. Logo que chegou, Mévia achou o salão de festas inadequado para crianças de 4 anos e passou a monitorar, de perto, as atividades das crianças. Passado uma hora da festa e, após beber algumas taças de espumante, Mévia esqueceu que tinha levado o filho de Pietra para a festa e, justamente por achar o espaço inadequado, foi embora, com o próprio filho, esquecendo, contudo, a outra criança. A criança, que ficou sozinha, sem a vigilância de quem quer que seja, acabou caindo em um dos brinquedos, vindo a óbito. Diante da situação hipotética e, delimitando a questão às regras relacionadas à relevância da omissão (art. 13, parágrafo 2º, do CP), assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mévia, não sendo a mãe da criança, não tinha, por lei, o dever de garante, não podendo a ela se imputar o resultado morte, a título de omissão imprópria."
+      },
+      {
+        "letra": "B",
+        "texto": "Mévia, ao se comprometer por levar a criança à festa de aniversário, assumiu o dever de garante, podendo a ela ser imputado o resultado morte, a título de omissão imprópria."
+      },
+      {
+        "letra": "C",
+        "texto": "Mévia, embora tenha o dever de garante, por se comprometer a levar a criança à festa, não tinha como prever e, por conseguinte, evitar o resultado, decorrente de uma fatalidade, não podendo a ela imputar a morte, a título de omissão imprópria."
+      },
+      {
+        "letra": "D",
+        "texto": "Mévia, embora tenha o dever de garante, por se comprometer a levar a criança à festa, em razão da ingestão do álcool, não tinha como prever ou mesmo evitar o resultado, não podendo a ela imputar a morte, a título de omissão imprópria."
+      },
+      {
+        "letra": "E",
+        "texto": "Mévia, não responde pelo resultado morte da criança, à título de omissão imprópria, pois o tipo penal do homicídio só se realiza por conduta comissiva ou decorrente de conduta omissiva própria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1927524",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "O Código Penal estabelece que a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. Sobre a relevância da omissão, o dever de agir incumbe a quem I. tenha por lei obrigação de cuidado, proteção ou vigilância. II. tenha assumido a responsabilidade de impedir o resultado. III. criou, com seu comportamento anterior, o risco da ocorrência do resultado. IV. impede que o resultado se produza. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1886828",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crime impossível",
+      "Arrependimento posterior",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Considerando-se a teoria do tipo penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o arrependimento posterior exige voluntária reparação do dano até o oferecimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "responde pelo resultado que agrava especialmente a pena o agente que o houver causado, independentemente de dolo ou culpa."
+      },
+      {
+        "letra": "C",
+        "texto": "a pena do agente que agiu voluntariamente será reduzida, no arrependimento eficaz, de um a dois terços."
+      },
+      {
+        "letra": "D",
+        "texto": "o agente responde pelos atos já praticados, na hipótese de absoluta impropriedade do objeto que impeça a consumação do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "o dever de agir, no crime omissivo, também incumbe a quem não tem obrigação legal, mas, por outro motivo, assumiu a responsabilidade de evitar o resultado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1860052",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com relação à responsabilidade penal, julgue o próximo item.Segundo a teoria adotada pelo Código Penal brasileiro, a conduta humana, comissiva ou omissiva, é sempre projetada a um fim e iluminada pelo acolhimento ou desprezo a um valor reconhecido pelo direito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1860051",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com relação à responsabilidade penal, julgue o próximo item.Nos crimes omissivos próprios, a conduta omissiva se esgota em si mesma, independentemente do resultado decorrente do não fazer do agente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1866110",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Acerca do fato típico, da teoria e da classificação dos crimes, julgue o item subsecutivo.O ordenamento jurídico brasileiro admite que fato típico capaz de caracterizar um crime pode decorrer de uma conduta comissiva ou omissiva.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1855778",
+    "metadata": "Ano: 2021 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Erro do tipo essencial",
+      "Periclitação da vida e da saúde",
+      "Omissão de socorro"
+    ],
+    "enunciado_principal": "Sobre o tipo dos crimes de omissão de ação, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O erro inevitável sobre a posição de garantidor do bem jurídico, que fundamenta o dever jurídico especial de agir na omissão de ação imprópria, pode permitir a imputação do fato fundada no dever jurídico geral de agir, peculiar à omissão de ação própria."
+      },
+      {
+        "letra": "B",
+        "texto": "O erro de tipo evitável sobre os elementos constitutivos do tipo objetivo do crime de omissão de socorro (CP, art. 135), exclui o dolo do agente, podendo, entretanto, gerar responsabilidade penal a título de culpa."
+      },
+      {
+        "letra": "C",
+        "texto": "O pedestre A percebe criança caminhando sozinha por via de circulação de veículos, e, ciente do perigo iminente e da real possibilidade de atropelamento do infante, deixa de lhe prestar assistência, podendo fazê-lo concretamente sem risco pessoal: se mais tarde a criança, em desvio ocasional do trânsito viário, acaba atingindo área reservada de segurança, não sofrendo quaisquer lesões, subsiste a responsabilidade penal de A por omissão de socorro (CP, art. 135)."
+      },
+      {
+        "letra": "D",
+        "texto": "A estrutura do tipo subjetivo na omissão de ação imprópria é composta por dolo ou culpa, e a estrutura do tipo subjetivo na omissão de ação própria é composta apenas pelo dolo."
+      },
+      {
+        "letra": "E",
+        "texto": "O professor A, responsável por conduzir alunos de escola infantil a visita programada em usina hidrelétrica, omite ação mandada para proteção dos estudantes no local, por lesão do dever de cuidado ou do risco permitido, com resultado de dispersão e afogamento fatal de uma das crianças em represa interna: A responde por prática de homicídio, por omissão de ação culposa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1852483",
+    "metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Noções Fundamentais",
+      "A norma penal",
+      "Consumação e tentativa",
+      "Crime impossível",
+      "Noções gerais de Concursos de Pessoas",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Constituem casos de adequação típica de subordinação mediata, previstos no Código Penal brasileiro, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tentativa (Art. 14, II)."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime impossível (Art. 17)."
+      },
+      {
+        "letra": "C",
+        "texto": "Concurso de pessoas (Art. 29)."
+      },
+      {
+        "letra": "D",
+        "texto": "Relevância da omissão (Art. 13, § 2º)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1824967",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Em relação aos crimes omissivos impróprios, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se o titular do bem jurídico, com todas as informações disponíveis, conscientemente decide pela autolesão ao bem jurídico, não há obrigação legal de ação do garante para evitar o resultado;"
+      },
+      {
+        "letra": "B",
+        "texto": "quando o risco da atividade é dividido entre as partes, cada qual assumindo uma parcela do dever de cuidado, eventual lesão causada por descuido do ofendido pode ser atribuída a título de omissão imprópria;"
+      },
+      {
+        "letra": "C",
+        "texto": "o autor responde por cursos desviados ou aventureiros, quando sua conduta resulta numa lesão, que faz surgir a posição de garante, e a vítima, por descuido, aumenta o risco do bem atingido;"
+      },
+      {
+        "letra": "D",
+        "texto": "do ponto de vista de imputação objetiva, o princípio da confiança não exclui a responsabilidade pela omissão, mesmo que as circunstâncias concretas permitam confirmar na execução da função atribuída ao garantidor impróprio;"
+      },
+      {
+        "letra": "E",
+        "texto": "o compromisso de evitar o resultado desaparece quando a integridade do bem jurídico depender do controle pessoal de determinadas fontes de perigo já existentes ou geradas por alguma ação ou omissão precedente contrária ao direito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1767746",
+    "metadata": "Ano: 2021 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre CRIMES OMISSIVOS, é CORRETO concluir que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se qualificado pelo resultado, não prescinde do nexo de causalidade entre a conduta e o evento para a responsabilização do agente."
+      },
+      {
+        "letra": "B",
+        "texto": "É suficiente para a sua configuração que o agente tenha o dever jurídico de agir e evitar o resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Comporta, próprio ou impróprio, a figura da participação."
+      },
+      {
+        "letra": "D",
+        "texto": "Não comporta tentativa, próprio ou impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "A análise da exigibilidade de conduta conforme o Direito é antecipada para o próprio tipo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1617767",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "No que se refere a aspectos legais relacionados aos procedimentos policiais, julgue o item a seguir.Uma pessoa que tenha condições e o dever de agir em determinada situação, mas não o faz, comete crime omissivo impróprio, passando a responder pelo resultado da omissão.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1258239",
+    "metadata": "Ano: 2020 | Banca: INSTITUTO AOCP | Órgão: Prefeitura de Novo Hamburgo - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A omissão, prevista no Código Penal Brasileiro, é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe àquele que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com seu comportamento criou o risco da ocorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "tenha por lei obrigação de cuidado, proteção ou vigilância."
+      },
+      {
+        "letra": "C",
+        "texto": "agiu de forma prudente, mas sem sucesso no resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "mesmo sem dar causa ao risco da ocorrência, deixou de agir."
+      },
+      {
+        "letra": "E",
+        "texto": "ainda que de outra forma, não assumiu a responsabilidade de impedir o resultado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1617202",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Conduta: ação / omissão",
+      "Crimes omissivos",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "A respeito dessa situação hipotética, julgue o item que se segue.Leandro responderá pelo homicídio culposo de Pedro, em razão de omissão culposa, o que viola o dever garantidor em concurso com omissão de cautela.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1175097",
+    "metadata": "Ano: 2019 | Banca: FUNDATEC | Órgão: Prefeitura de Capão da Canoa - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal Brasileiro, em relação ao crime, a omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem: I. Tenha por lei somente obrigação de proteção ou vigilância. II. De outra forma, assumiu a responsabilidade de impedir o resultado. III. Com seu comportamento anterior, criou ou permitiu que outrem criasse o risco da ocorrência do resultado. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I e III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1048820",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Marque a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São omissões próprias ou tipos de omissão própria aqueles em que o autor pode ser qualquer pessoa que se encontre na situação típica. Os tipos de omissão própria caracterizam-se por não ter um tipo ativo equivalente. Ex. artigo 135, do Código Penal - Omissão de socorro."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tipos de omissão imprópria são aqueles em que o autor só pode ser quem se encontra dentro de um determinado círculo, que faz com que a situação típica seja equivalente à de um tipo ativo. Nessa situação, o autor está em posição de “garantidor”."
+      },
+      {
+        "letra": "C",
+        "texto": "Tipos penais justificadores são aqueles que descrevem situações em que o autor do delito aplica fraude verbal e argumentativa para seu cometimento, justificando a ação da vítima. Ex. estelionato praticado por telefone, como o conhecido golpe do “Bença Tia”"
+      },
+      {
+        "letra": "D",
+        "texto": "A previsibilidade subjetiva, em que o agente, dadas as suas condições peculiares, tinha o dever de prever o resultado, não é elemento do fato típico culposo. A ausência de previsibilidade subjetiva no crime culposo exclui a culpabilidade, mas não o fato típico culposo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1008767",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Os crimes omissivos próprios são os cujo tipo descreve a conduta omissiva de forma direta, e por isso não é necessária a incidência do art. 13, § 2º, do CP.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "960484",
+    "metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre as posições especiais de dever de enfrentar o perigo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obrigação de enfrentar o perigo é absoluta."
+      },
+      {
+        "letra": "B",
+        "texto": "O dever de agir para impedir o resultado está relacionado com a tipicidade dos crimes omissivos próprios."
+      },
+      {
+        "letra": "C",
+        "texto": "O policial e o bombeiro não são garantidores da não ocorrência do resultado, não tendo, assim, o dever de evitar o resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "O dever de enfrentar o perigo não impede a exclusão da ilicitude por estado de necessidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Um bombeiro pode alegar estado de necessidade como forma de se eximir de enfrentar um incêndio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "904017",
+    "metadata": "Ano: 2018 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "JOÃO e JOSÉ estão na praia e resolveram entrar no mar. Em determinado momento eles começam a se afogar. Havia naquele local um salva-vidas que, ao avistar apenas JOÃO, notou que ele era seu desafeto e se recusou a salvá-lo; próximo a eles havia também um surfista, este avistou apenas JOSÉ pedindo socorro, mas, por ser seu inimigo, não atendeu aos pedidos dele, resolvendo sair do local. As duas pessoas acabam se afogando e morrendo. Em relação ao caso, qual das alternativas abaixo está CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O salva-vidas responde por homicídio doloso por omissão."
+      },
+      {
+        "letra": "B",
+        "texto": "O salva-vidas responde por omissão de socorro."
+      },
+      {
+        "letra": "C",
+        "texto": "O surfista responde por homicídio doloso por omissão."
+      },
+      {
+        "letra": "D",
+        "texto": "A conduta do surfista é atípica."
+      },
+      {
+        "letra": "E",
+        "texto": "O surfista responde por homicídio culposo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "854425",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Acerca dessa situação hipotética, julgue o item a seguir. A omissão de Antônio é penalmente relevante porque foi esse comportamento que criou o risco de ocorrência do resultado danoso à integridade física.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "843718",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A partir da narrativa a seguir e considerando as classes de crimes omissivos, assinale a alternativa correta.Artur, após subtrair aparelho celular no interior de um mercado, foi detido por populares que o amarraram em um poste de iluminação. Acabou agredido violentamente por Valdemar, vítima da subtração, que se valeu de uma barra de ferro encontrada na rua. Alice tentou intervir, porém foi ameaçada por Valdemar. Ato contínuo, Alice, verificando a grave situação, correu até um posto da Polícia Militar e relatou o fato ao soldado Pereira, que se recusou a ir até o local no qual estava o periclitante, alegando que a situação deveria ser resolvida unicamente pelos envolvidos. Francisco, segurança particular do mercado, gravou a agressão e postou as imagens em rede social com a seguinte legenda: \"Aí mano, em primeira mão: outro pra vala\". Artur morreu em decorrência de trauma craniano.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pereira poderá ser indiciado pela prática de crime omissivo impróprio."
+      },
+      {
+        "letra": "B",
+        "texto": "Pereira poderá ser indiciado pela prática de crime omissivo próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "Alice poderá ser indiciada pela prática de crime omissivo próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "Alice poderá ser indiciada pela prática de crime omissivo impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "Francisco poderá ser indiciado pela prática de crime comissivo por omissão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "839597",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PC-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Noções Fundamentais",
+      "Lei penal no espaço",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Crimes omissivos",
+      "Erro do tipo essencial",
+      "Penas privativas de liberdade",
+      "Reincidência"
+    ],
+    "enunciado_principal": "De acordo com os dispositivos da parte geral do Código Penal, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de abolitio criminis a reincidência permanece como efeito secundário da prática do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "O território nacional estende-se a embarcações e aeronaves brasileira de natureza pública, desde que se encontrem no espaço aéreo brasileiro ou em alto-mar."
+      },
+      {
+        "letra": "C",
+        "texto": "Crimes à distância são aqueles em que a ação ou omissão ocorre em um país e o resultado, em outro."
+      },
+      {
+        "letra": "D",
+        "texto": "O desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se evitável, isenta de pena; se inevitável, poderá diminuí-la de um sexto a um terço."
+      },
+      {
+        "letra": "E",
+        "texto": "É isento de pena o agente que pratica crime sem violência ou grave ameaça à pessoa, desde que, voluntariamente, repare o dano ou restitua a coisa, até o recebimento da denúncia ou da queixa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "818943",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre o tipo dos crimes de omissão de ação, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A realiza manobra imprudente na direção de veículo e atropela B, que andava pelo acostamento da rodovia: se B morre justamente porque A, ciente da real possibilidade de morte da vítima, deixa de lhe prestar socorro, podendo fazê-lo concretamente sem risco pessoal, então A responde pelo crime de homicídio doloso (CP, art. 121), praticado por omissão imprópria."
+      },
+      {
+        "letra": "B",
+        "texto": "A percebe o afogamento de B em lago, e, ciente da real possibilidade de morte da vítima, deixa de lhe prestar socorro, podendo fazê-lo concretamente sem risco pessoal: se B morre afogado justamente em razão da omissão, então A responde pelo crime de omissão de socorro, majorado pelo resultado de morte (CP, art. 135, parágrafo único), praticado por omissão própria."
+      },
+      {
+        "letra": "C",
+        "texto": "Os tipos de omissão de ação podem aparecer sob a forma de omissão imprópria, fundada no dever jurídico especial de agir, que admite ações dolosas e culposas, e sob a forma de omissão própria, fundada no dever jurídico geral de agir, que admite apenas ações dolosas."
+      },
+      {
+        "letra": "D",
+        "texto": "A posição de garantidor do bem jurídico é elemento específico do tipo objetivo dos crimes de omissão imprópria, mas a produção do resultado típico de lesão do bem jurídico é elemento comum do tipo objetivo dos crimes de omissão própria e imprópria."
+      },
+      {
+        "letra": "E",
+        "texto": "O erro de tipo evitável sobre elementos objetivos do tipo de homicídio cometido por omissão imprópria exclui o dolo, permitindo punição a título de culpa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "795668",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A respeito dos crimes omissivos impróprios, ou comissivos por omissão, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São de estrutura típica aberta e de adequação típica de subordinação mediata. Só podem ser praticados por determinadas pessoas, embora qualquer pessoa possa, eventualmente, estar no papel de garante. Neles, descumpre-se tão somente a norma preceptiva e não a norma proibitiva do tipo legal de crime ao qual corresponda o resultado não evitado."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o médico se obriga a realizar determinado procedimento em um paciente, mas resolve viajar e deixa seu compromisso nas mãos de um colega, que assume esse tratamento, ele responde penalmente pelas lesões que resultem de erro de diagnóstico deste outro médico."
+      },
+      {
+        "letra": "C",
+        "texto": "Quem, sabendo nadar, por brincadeira de mau gosto, empurra o amigo para dentro da piscina, por sua ingerência, estará obrigado a salvá-lo, se necessário, para que o fato não se transforme em crime de homicídio, no caso de eventual morte por afogamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Na forma dolosa, os crimes omissivos impróprios não exigem que o garante deseje o resultado típico."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o garante, apesar de não haver conseguido impedir o resultado, seriamente esforçou-se para evitá-lo, não haverá fato típico, doloso e culposo. Nos omissivos impróprios, a relação de causalidade é normativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2034917",
+    "metadata": "Ano: 2016 | Banca: CONSULPAM | Órgão: Prefeitura de Cascavel - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem: I. Tenha por lei obrigação de cuidado, proteção ou vigilância. II. De outra forma, assumiu a responsabilidade de impedir o resultado. III. Com seu comportamento anterior, criou o risco da ocorrência do resultado. Considerando o que dispõe o Código Penal brasileiro, está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I e II, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1191551",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Presidente Prudente - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Crimes omissivos",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental",
+      "Inimputabilidade por doença mental",
+      "Inimputabilidade pela embriaguez"
+    ],
+    "enunciado_principal": "A respeito do crime e da imputabilidade, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a omissão é penalmente relevante quando o omitente deixar de impedir o resultado que, por comportamento seu anterior, criou o risco de ocorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "é isento de pena quem atua ou se omite sem a consciência da ilicitude do fato, sendo o erro evitável."
+      },
+      {
+        "letra": "C",
+        "texto": "a restituição da coisa, no crime de roubo, até o recebimento da denúncia, reduz a pena do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "a embriaguez culposa exclui a imputabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "o ordenamento brasileiro adota o sistema vicariante, segundo o qual, aos inimputáveis por doença mental ao tempo da prática delitiva, primeiro aplica-se medida de segurança e, uma vez curados, pena."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "671331",
+    "metadata": "Ano: 2016 | Banca: FUMARC | Órgão: Câmara de Conceição do Mato Dentro",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Consumação e tentativa",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "No que tange ao conceito de crime, nos termos do Código Penal brasileiro, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A tentativa é punida mesmo quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime."
+      },
+      {
+        "letra": "B",
+        "texto": "A omissão é penalmente relevante quando o omitente devia e podia agir para evitar o resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se crime tentado quando nele se reúnem todos os elementos de sua definição legal."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, responde nas mesmas penas aplicáveis ao crime consumado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "649446",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A respeito da omissão própria e da omissão imprópria (também denominada crime comissivo por omissão), é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um dos critérios apontados pela doutrina para diferenciar a omissão própria da omissão imprópria é o tipológico, segundo o qual, havendo norma expressa criminalizando a omissão, estar-se-ia diante de uma omissão imprópria."
+      },
+      {
+        "letra": "B",
+        "texto": "nos termos do Código Penal, possui posição de garantidor e, portanto, o dever de impedir o resultado, apenas quem, por lei, tem a obrigação de cuidado, proteção ou vigilância."
+      },
+      {
+        "letra": "C",
+        "texto": "a ingerência, denominação dada à posição de garantidor decorrente de um comportamento anterior que gera risco de resultado, não está positivada no ordenamento brasileiro, tratando-se de uma construção dogmática."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime praticado por omissão, segundo o Código Penal, é apenado de forma atenuada ao crime praticado por ação."
+      },
+      {
+        "letra": "E",
+        "texto": "segundo o Código Penal, a omissão imprópria somente terá relevância penal se, além do dever de impedir o resultado, o omitente tiver possibilidade de evitá-lo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "567415",
+    "metadata": "Ano: 2015 | Banca: FUNCAB | Órgão: PC-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Sandra, jovem de dezessete anos de idade, inabilitada para conduzir veículo automotor, com a devida autorização de seu genitor senhor Getúlio D. Za Tento, saiu para passear com o veículo de propriedade do pai e dirigindo em alta velocidade atropelou Maria das Dores, causando-lhe lesões corporais gravíssimas as quais causaram a morte da vítima. Acerca da situação hipotética proposta, é correto afirmar à luz do Código Penal, que Getúlio responderá por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesões corporais dolosas seguidas de morte. (crime comissivo por omissão)."
+      },
+      {
+        "letra": "B",
+        "texto": "homicídio culposo (crime comissivo por omissão)."
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio doloso (crime comissivo por omissão)."
+      },
+      {
+        "letra": "D",
+        "texto": "homicídio culposo (crime comissivo)."
+      },
+      {
+        "letra": "E",
+        "texto": "homicídio doloso (crime omissivo)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1617870",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "No que concerne a aspectos relacionados ao direito constitucional, ao direito administrativo e ao direito penal, julgue o próximo item. Em crimes omissivos impróprios a omissão é penalmente relevante para quem tenha por lei obrigação de cuidado, proteção ou vigilância, o que se aplica ao policial, quando, em serviço, assume a posição de garante.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "427913",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "É correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o Código Penal Brasileiro adotou a teoria da equivalência dos antecedentes causais, segundo a qual tudo o que contribui para o resultado é considerado causa, exceto a concausa relativamente independente, mesmo que venha a interferir no resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "os crimes comissivos por omissão são aqueles em que o agente deixa de fazer o que estava obrigado e, por isso, acaba produzindo o resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "exclusivamente de acordo com o entendimento majoritário da doutrina, é possível a coautoria nos crimes de mão própria mesmo se o coautor não ostentar os moldes da figura incriminadora."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de desobediência, previsto pelo art. 330 do Código Penal, por ter como objeto jurídico a administração pública e o cumprimento de suas ordens, não admite a transação penal contida na Lei n.º 9.099/95."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "424339",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A respeito da criminologia, da lei penal e da teoria geral do crime, julgue o seguinte item.Conforme a teoria do perigo desprotegido, se, durante excursão, um professor permitir que seus alunos nadem em rio perigoso, apesar da existência de placa ostensiva de advertência do perigo, e um dos alunos vier a morrer afogado, tal conduta caracterizará a assunção do risco do resultado, razão por que o professor responderá por homicídio doloso por omissão imprópria.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "412505",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TCE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Consumação e tentativa",
+      "Crimes omissivos",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental"
+    ],
+    "enunciado_principal": "Em direito penal: I. Reconhecida a tentativa, a pena há de ser diminuída na proporção inversa do iter criminis percorrido pelo agente. II. A causalidade, nos crimes comissivos por omissão, não é fática, mas jurídica, consistente em não haver atuado o omitente, como devia e podia, para impedir o resultado. III. O crime culposo comissivo por omissão pressupõe a violação por parte do omitente do dever de agir para impedir o resultado. IV. O erro sobre a ilicitude do fato, se inevitável, exclui a punibilidade e se confunde com o desconhecimento da lei. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402265",
+    "metadata": "Ano: 2014 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Crimes contra a vida",
+      "Aborto",
+      "Crimes contra a honra",
+      "Difamação",
+      "Injúria"
+    ],
+    "enunciado_principal": "No que se refere aos crimes contra a pessoa, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se pune o aborto se a gravidez resulta de estupro, sobretudo se é precedido de consentimento da gestante."
+      },
+      {
+        "letra": "B",
+        "texto": "Na injúria há imputação de fato ofensivo à dignidade ou ao decoro da vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "Mãe que intencionalmente deixa de amamentar o filho, causando-lhe a morte por inanição, pratica crime comissivo por omissão."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos crimes perpetrados contra pessoa maior de sessenta anos, incidirá a agravante de um terço da pena, exceto no caso de injúria."
+      },
+      {
+        "letra": "E",
+        "texto": "No crime de difamação admite-se a exceção da verdade se o ofendido é funcionário público e a ofensa é relativa ao exercício de suas funções."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "386788",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Os crimes omissivos impróprios ou comissivos por omissão são aqueles",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cuja consumação se protrai no tempo, enquanto perdurar a conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "em que a relação de causalidade é normativa."
+      },
+      {
+        "letra": "C",
+        "texto": "praticados mediante o “não fazer” o que a lei manda, sem dependência de qualquer resultado naturalístico."
+      },
+      {
+        "letra": "D",
+        "texto": "que se consumam antecipadamente, sem dependência de ocorrer ou não o resultado desejado pelo agente."
+      },
+      {
+        "letra": "E",
+        "texto": "que o agente deixa de fazer o que estava obrigado, ainda que sem a produção de qualquer resultado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "958176",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A babá que, distraída com o último capítulo da novela, observa impassível o sufocamento da criança sob os seus cuidados comete crime:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "omissivo impróprio."
+      },
+      {
+        "letra": "B",
+        "texto": "omissivo próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "omissivo por comissão."
+      },
+      {
+        "letra": "D",
+        "texto": "comissivo impróprio."
+      },
+      {
+        "letra": "E",
+        "texto": "comissivo próprio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "354666",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: SEGESP-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Com relação ao crime consumado e tentado e à lei penal no tempo e no espaço, julgue os itens a seguir.O crime omissivo próprio admite tentativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "350778",
+    "metadata": "Ano: 2013 | Banca: IBFC | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Um policial civil regularmente designado para atuar como responsável pela carceragem de uma Delegacia de Polícia é cientificado por familiares de um preso temporário que este sofre de “diabetes” grave e que necessita de constantes injeções de “insulina” para manter a doença sob controle, sendo-lhe exibido o respectivo laudo médico. O agente público simplesmente ignora esta informação e não a transmite aos seus superiores hierárquicos, mantendo o indivíduo no cárcere sem qualquer assistência médica. Dias depois, o preso é encontrado caído no chão da cela com visíveis sinais tanatológicos, sendo o óbito constatado e a causa mortis apurada como decorrente da ausência de controle glicêmico. No caso em tela o policial civil estará sujeito à responsabilização penal pela prática do crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homicídio."
+      },
+      {
+        "letra": "B",
+        "texto": "Omissão de socorro."
+      },
+      {
+        "letra": "C",
+        "texto": "Prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "Tortura."
+      },
+      {
+        "letra": "E",
+        "texto": "Abuso de autoridade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "350426",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Noções gerais de Concursos de Pessoas",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Acerca do direito penal, julgue os itens subsecutivos. É possível, do ponto de vista jurídico-penal, participação por omissão em crime comissivo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "331582",
+    "metadata": "Ano: 2013 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime comissivo por omissão ou omissivo impróprio inexiste o dever jurídico de agir, não respondendo o omitente pelo resultado, mas pela própria prática da conduta omissiva, podendo ser citado, como exemplo, o crime de omissão de socorro. Já no crime omissivo próprio o omitente devia e podia agir para evitar o resultado;"
+      },
+      {
+        "letra": "B",
+        "texto": "No crime omissivo próprio o agente responde pelo resultado que deu causa. Já no caso do crime omissivo impróprio este se aperfeiçoa com a simples omissão;"
+      },
+      {
+        "letra": "C",
+        "texto": "Os denominados delitos omissivos próprios, como os omissivos impróprios ou comissivos por omissão, são considerados crimes de mera conduta, posto que a omissão não pode dar causa a qualquer resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "Os denominados crimes omissivos próprios admitem tentativa;"
+      },
+      {
+        "letra": "E",
+        "texto": "o crime omissivo próprio o omitente não responde pelo resultado, perfazendo-se o crime com a simples omissão do agente, podendo ser citado, como exemplo, o crime de omissão de socorro. Já no crime comissivo por omissão ou omissivo impróprio o omitente devia e podia agir para evitar o resultado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1739638",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: AGE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Sobre o crime omissivo impróprio, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de crime próprio, uma vez que o sujeito ativo da conduta deverá possuir qualidade especial."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite tanto a forma dolosa, quanto a culposa, cabendo ao intérprete proceder a pesquisa do elemento subjetivo presente na conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de crime de mera atividade, uma vez que sua consumação não requer resultado naturalístico."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite tentativa, neste aspecto se diferenciando dos crimes de omissão própria."
+      },
+      {
+        "letra": "E",
+        "texto": "O objeto material da conduta variará de acordo com o tipo penal praticado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "324299",
+    "metadata": "Ano: 2012 | Banca: FGV | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Para que haja relevância penal a conduta típica deve ser exteriorizada seja de ordem comissiva seja de ordem omissiva. Com outras palavras, faz-se o que é proibido ou não se faz o que era devido. Com relação ao tema, indique a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O movimento reflexo, a hipnose e o sonambulismo não afastam a conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes omissivos não admitem a forma tentada."
+      },
+      {
+        "letra": "C",
+        "texto": "Os crimes omissivos exigem para a sua consumação resultado naturalístico."
+      },
+      {
+        "letra": "D",
+        "texto": "O Art. 13, § 2º, do Código Penal ostenta a natureza de norma de extensão."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime omissivo impróprio não admite participação ou coautoria, sendo caso de autoria colateral quando ambos os envolvidos tinham o dever de agir."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "321544",
+    "metadata": "Ano: 2012 | Banca: FUJB | Órgão: MPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Admite tentativa a seguinte categoria de infração penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crimes omissivos puros;"
+      },
+      {
+        "letra": "B",
+        "texto": "contravenções penais;"
+      },
+      {
+        "letra": "C",
+        "texto": "crimes omissivos impróprios;"
+      },
+      {
+        "letra": "D",
+        "texto": "crimes unissubsistentes;"
+      },
+      {
+        "letra": "E",
+        "texto": "crimes de atentado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "253690",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Lei penal no espaço",
+      "Imputação objetiva",
+      "Antijuridicidade",
+      "Estado de necessidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "De acordo com as disposições do CP e da doutrina pertinente, assinale a opção correta a respeito da aplicação da lei penal e de aspectos diversos relacionados ao crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sucintamente, pode-se definir imputação objetiva como um conjunto de pressupostos jurídicos que condicionam a relação de imputação de um resultado jurídico a um determinado comportamento penalmente relevante."
+      },
+      {
+        "letra": "B",
+        "texto": "Crimes omissivos impróprios, comissivos por omissão ou omissivos qualificados são os que objetivamente são descritos como uma conduta negativa, de não fazer o que a lei determina, consistindo a omissão na transgressão da norma jurídica sem que haja necessidade de qualquer resultado naturalístico. Para a existência do crime, basta que o autor se omita quando deva agir."
+      },
+      {
+        "letra": "C",
+        "texto": "Diz-se agressivo o estado de necessidade quando a conduta do agente dirige-se diretamente ao produtor da situação de perigo, a fim de eliminá-la."
+      },
+      {
+        "letra": "D",
+        "texto": "Leis temporárias são aquelas que, por expressa previsão, vigem durante situações de emergência."
+      },
+      {
+        "letra": "E",
+        "texto": "Conforme o princípio da territorialidade, a lei penal deve ser aplicada a todos os homens, onde quer que se encontrem, aplicando-se a lei nacional a todos os fatos puníveis, sem se levar em conta o lugar do delito, a nacionalidade de seu autor ou do bem jurídico lesado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1669865",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: AL-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "A respeito de crimes, penas, prazos e aplicação da lei penal, julgue o item a seguir.No âmbito penal, somente é relevante a omissão nas circunstâncias em que o omitente devia e podia agir para evitar o resultado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "205291",
+    "metadata": "Ano: 2011 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Julgue as assertivas sobre a omissão penalmente relevante e os crimes culposos, marcando a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ordenamento jurídico brasileiro admite a punibilidade dos crimes omissivos próprios e impróprios praticados com dolo ou culpa."
+      },
+      {
+        "letra": "B",
+        "texto": "Na omissão imprópria, a ingerência corresponde à obrigação legal de cuidado, proteção ou vigilância, caracterizando a figura do garante."
+      },
+      {
+        "letra": "C",
+        "texto": "A culpa inconsciente diferencia-se do dolo eventual na medida em que o agente, embora represente a possível produção do resultado típico lesivo, acredita na sua não ocorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "São elementos objetivos necessários dos tipos penais omissivos próprios e impróprios: situação de perigo para o bem jurídico, produção do resultado naturalístico típico, poder concreto de ação, omissão da ação mandada e posição de garante."
+      },
+      {
+        "letra": "E",
+        "texto": "Na omissão é possível caracterizar-se a participação em qualquer de suas formas, a saber, a determinação, a instigação e o auxílio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "204593",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TCE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "Os crimes que resultam do não fazer o que a lei manda, sem dependência de qualquer resultado naturalístico, são chamados de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comissivos por omissão."
+      },
+      {
+        "letra": "B",
+        "texto": "formais."
+      },
+      {
+        "letra": "C",
+        "texto": "omissivos próprios."
+      },
+      {
+        "letra": "D",
+        "texto": "comissivos."
+      },
+      {
+        "letra": "E",
+        "texto": "omissivos impróprios."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

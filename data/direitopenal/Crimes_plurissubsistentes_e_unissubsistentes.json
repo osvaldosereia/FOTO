@@ -1,0 +1,646 @@
+[
+  {
+    "id": "3113323",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, relativo à aplicação da lei penal brasileira, à classificação dos crimes, aos conceitos de tentativa e de concurso de pessoas e à prescrição no direito penal. O crime unissubsistente é aquele em que não se admite o fracionamento da conduta, sendo praticado com apenas um ato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2504671",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: AL-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Acerca da classificação doutrinária das infrações penais, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os chamados crimes preterdolosos têm como característica a presença de uma conduta culposa no antecedente e uma conduta dolosa no consequente."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime material é aquele cuja consumação independe da produção naturalística de determinado resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Consideram-se monossubjetivos os crimes nos quais se protege um único bem jurídico."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime impossível, não existe previsão em nosso ordenamento jurídico da infração penal que o agente pretende praticar."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes unissubsistentes são aqueles em que não se pode fracionar o iter criminis."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2073349",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Quanto aos atos que compõem a fase de execução criminosa, assinale a alternativa que apresenta um delito unissubsistente contra a fé pública e um delito unissubsistente contra a administração pública, respectivamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emissão de título ao portador sem permissão legal e concussão."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsa identidade e tráfico de influência."
+      },
+      {
+        "letra": "C",
+        "texto": "Supressão de documento e condescendência criminosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Petrechos para falsificação de moeda e advocacia administrativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Falsidade ideológica e prevaricação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2048199",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Caracteriza-se como crime unissubsistente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o homicídio realizado por meio cruel."
+      },
+      {
+        "letra": "B",
+        "texto": "a ameaça feita por carta."
+      },
+      {
+        "letra": "C",
+        "texto": "o núcleo “receber” da conduta de corrupção passiva."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de infanticídio."
+      },
+      {
+        "letra": "E",
+        "texto": "a injúria verbal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1972017",
+    "metadata": "Ano: 2022 | Banca: IDECAN | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "O crime tentado é aquele que, iniciada a execução do delito, não se consuma por circunstâncias alheias à vontade do agente. A doutrina clássica do Direito Penal enumera que alguns tipos de crime não admitem a figura da tentativa. Dentre os abaixo listados, assinale aquele que não se enquadra nesse conceito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crimes culposos"
+      },
+      {
+        "letra": "B",
+        "texto": "crimes preterdolosos"
+      },
+      {
+        "letra": "C",
+        "texto": "crimes plurissubsistentes"
+      },
+      {
+        "letra": "D",
+        "texto": "crimes unissubsistentes"
+      },
+      {
+        "letra": "E",
+        "texto": "crimes omissivos próprios"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1860613",
+    "metadata": "Ano: 2021 | Banca: Quadrix | Órgão: CRBio-6ª Região",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Com relação ao crime de modificação ou alteração não autorizada de sistema de informações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um crime culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "É um crime necessariamente omissivo."
+      },
+      {
+        "letra": "C",
+        "texto": "É um crime continuado."
+      },
+      {
+        "letra": "D",
+        "texto": "É um crime plurissubjetivo."
+      },
+      {
+        "letra": "E",
+        "texto": "É um crime plurissubsistente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1860612",
+    "metadata": "Ano: 2021 | Banca: Quadrix | Órgão: CRBio-6ª Região",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes contra a administração pública",
+      "Inserção de dados falsos em sistema de informações"
+    ],
+    "enunciado_principal": "Acerca do crime de inserção de dados falsos em sistema de informações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um crime culposo, necessariamente comissivo, formal e instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "É um crime doloso, necessariamente omissivo, instantâneo e transeunte."
+      },
+      {
+        "letra": "C",
+        "texto": "É um crime doloso, comissivo ou omissivo, plurissubsistente e transeunte."
+      },
+      {
+        "letra": "D",
+        "texto": "É um crime doloso, instantâneo, monossubjetivo e plurissubsistente."
+      },
+      {
+        "letra": "E",
+        "texto": "É um crime doloso ou culposo, instantâneo, monossubjetivo e transeunte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1742762",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes contra a fé pública",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Considerando a situação hipotética apresentada, julgue o item a seguir. A remarcação de novo número no chassi e a falsificação do certificado de registro do veículo caracterizam crime único de falsificação de documento público.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1036621",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "No que toca à classificação doutrinária dos crimes,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é imprescindível a ocorrência de resultado naturalístico para a consumação dos delitos materiais e formais."
+      },
+      {
+        "letra": "B",
+        "texto": "é normativa a relação de causalidade nos crimes omissivos impróprios ou comissivos por omissão, prescindindo de resultado naturalístico para a sua consumação."
+      },
+      {
+        "letra": "C",
+        "texto": "os crimes unissubsistentes são aqueles em que há iter criminis e o comportamento criminoso pode ser cindido."
+      },
+      {
+        "letra": "D",
+        "texto": "os crimes omissivos próprios dependem de resultado naturalístico para a sua consumação."
+      },
+      {
+        "letra": "E",
+        "texto": "os crimes comissivos são aqueles que requerem comportamento positivo, independendo de resultado naturalístico para a sua consumação, se formais."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "987753",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Acerca de classificação de crimes, julgue os itens a seguir. I Os crimes de empreendimento exigem a participação de mais de três pessoas, com liame subjetivo, associadas para o cometimento do ilícito. II Os crimes unissubsistentes não admitem tentativa, haja vista não ser possível o fracionamento da conduta em atos. III O ordenamento brasileiro não prevê punição para delitos multivitimários em razão dos princípios da lesividade e da alteridade, já que esses crimes ocorrem contra vítimas difusas, destituídas de personalidade jurídica. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão certos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão certos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "890891",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Causas supralegais de exclusão da antijuridicidade",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale aquela que, à luz da doutrina, seja considerada INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o tipo penal descreve, expressa ou implicitamente, o dissenso da vítima como elementar, o consentimento do ofendido, na hipótese, funciona como causa de exclusão da tipicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto ao modo de execução, o crime de perigo de contágio venéreo – art. 130, do CP – é classificado pela doutrina como sendo de forma vinculada."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de fato transitório é aquele que não deixa vestígios, a exemplo da injúria verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação aos crimes omissivos puros, exige-se a ocorrência de resultado naturalístico, uma vez que a simples omissão contida na norma não basta para que eles se aperfeiçoem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "890890",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O art. 14, II, Parágrafo único, do Código Penal, estabelece que “salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços”. Excepcionalmente, contudo, a lei penal pátria descreve condutas cujo tipo prevê a punição da tentativa com a mesma pena abstratamente aplicável ao crime consumado. É o que sucede, v.g., com o crime tipificado no art. 352, do Código Penal: “Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa”: Tal espécie delitiva é classificada pela doutrina como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime vago."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de impressão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "886218",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Conceitos e caracteres",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As circunstâncias legais são descritas pela lei penal de maneira prévia, ou na parte geral, ou na parte especial do Código, ou em leis extravagantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes unissubsistentes ante o fracionamento da execução admitem a modalidade tentada."
+      },
+      {
+        "letra": "C",
+        "texto": "Tocante ao erro inescusável pode-se afirmar que nele incide qualquer homem prudente e de discernimento e, na modalidade inescusável direta o sujeito conhece o mandamento proibitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A despenalização informal pode resultar de ato administrativo, enquanto a despenalização formal pode decorrer da substituição da pena criminal por uma sanção de outra ordem jurídica."
+      },
+      {
+        "letra": "E",
+        "texto": "As alternativas “a” e “d” estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "866472",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Com relação à classificação dos crimes, julgue os itens a seguir. I Denomina-se crime plurissubsistente o crime cometido por vários agentes. II Se o sujeito fizer tudo o que está ao seu alcance para a consumação do crime, mas o resultado não ocorrer por circunstâncias alheias a sua vontade, configura-se crime falho. III Havendo, em razão do tipo, dois sujeitos passivos, o crime é denominado vago. IV Crime habitual cometido com ânimo de lucro é denominado crime a prazo. V Crime praticado por intermédio de automóvel é denominado delito de circulação.Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e V."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1396111",
+    "metadata": "Ano: 2014 | Banca: ESMARN | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Classificação dos crimes",
+      "Desistência voluntária e arrependimento eficaz",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes de dano e crimes de perigo",
+      "Crime preterdoloso"
+    ],
+    "enunciado_principal": "Examine as proposições abaixo e assinale a alternativa correta:I. Nos crimes cometidos com violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços. II. Em geral, os crimes dolosos são compatíveis com a tentativa, pouco importando sejam materiais, formais ou de mera conduta. III. O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, não responde pelos atos já praticados. IV. Os crimes preterdolosos, unissubsistentes e as contravenções penais não admitem a tentativa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as proposições estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "419450",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PJC-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Rixa"
+    ],
+    "enunciado_principal": "Quanto ao crime de rixa previsto no artigo 137 do Código Penal (participar de rixa, salvo para separar os contendores), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é crime comum, de dano, comissivo por omissão, colet ivo, não transeunte como regra, unissubsistente, instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "é crime comum, de perigo, comissivo, coletivo, não transeunte como regra, plurissubsistente, instantâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "é crime próprio, de dano, comissivo, plurissubjetivo, transeunte como regra, plurissubsistente, permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime próprio, de perigo, comissivo por omissão, monossubjetivo, não transeunte como regra, unissubsistente, permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "é crime comum, de perigo, comissivo, monossubjetivo, transeunte como regra, plurissubsistente, instantâneo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "386352",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Classificação dos crimes",
+      "Tipo Penal Culposo",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Causas de extinção da punibilidade",
+      "Perdão judicial",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Em relação ao crime de homicídio é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presença de qualificadores impede o reconhecimento do homicídio privilegiado."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de homicídio classifica-se como comum; unissubjetivo; material, em regra; de forma livre; doloso ou culposo; de dano e plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "tratando-se de homicídio privilegiado é admitido o perdão judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "a natureza do homicídio privilegiado é de circunstância atenuante especial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "284098",
+    "metadata": "Ano: 2012 | Banca: ESAF | Órgão: CGU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Desistência voluntária e arrependimento eficaz",
+      "Arrependimento posterior",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Marque a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“W” foi condenado definitivamente a uma pena privativa de liberdade de 10 (dez) anos de reclusão e à perda do cargo público. Durante o trâmite processual penal, foi concedido a “W” aposentadoria proporcional ao tempo de serviço. Nesses termos, a autoridade administrativa deverá instaurar processo administrativo disciplinar para cassar a aposentadoria concedida."
+      },
+      {
+        "letra": "B",
+        "texto": "“Z” comete crime mediante grave ameaça e decide reparar, integralmente, o dano por ele causado à vítima após o recebimento da denúncia, mas antes de proferida a sentença. Nesses termos, aplica-se a “Z” o Instituto do Arrependimento Posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "“X”, pretendendo matar “U” para que esse não participasse de procedimento licitatório, desferiu- lhe uma facada no abdômen, mas, voluntariamente, desiste de prosseguir em seu intento e imediatamente leva “U” para o hospital, o qual não resiste e morre em consequência da lesão. Aplica-se a “X” o Instituto da Desistência Voluntária."
+      },
+      {
+        "letra": "D",
+        "texto": "Age negligentemente o cirurgião plástico que causa a morte da paciente durante um ato cirúrgico."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes unissubsistentes o processo executivo coincide temporalmente com a consumação, não se admitindo a tentativa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "204594",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TCE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes"
+    ],
+    "enunciado_principal": "Nos crimes plurissubsistentes, havendo iter criminis com sucessivas condutas durante a sua execução, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inadmissível a tentativa."
+      },
+      {
+        "letra": "B",
+        "texto": "admissível apenas a tentativa perfeita."
+      },
+      {
+        "letra": "C",
+        "texto": "cabível a tentativa tão-somente nas formas culposas."
+      },
+      {
+        "letra": "D",
+        "texto": "admissível tanto a tentativa perfeita, como a imperfeita."
+      },
+      {
+        "letra": "E",
+        "texto": "cabível apenas a tentativa imperfeita."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

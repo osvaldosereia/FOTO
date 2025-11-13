@@ -1,0 +1,2804 @@
+[
+  {
+    "id": "3171403",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: PC-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Carolina, Delegada de Polícia, visando à otimização dos trabalhos em sua unidade policial, dividiu os inquéritos policiais por temáticas. Na corrente data, houve o indiciamento de três indivíduos que teriam, em tese, praticado crimes contra a fé pública. Caio é investigado por ter inserido, em documento público, declaração falsa, com o fim de alterar a verdade sobre fato juridicamente relevante. Ele é agente público e teria praticado a conduta prevalecendo-se do cargo ocupado. Por outro lado, Marcos teria falsificado, em parte, um testamento particular. A seu turno, Túlio é acusado de falsificar, no todo, um cartão de crédito. Vale destacar que que todos os agentes agiram com dolo. Nesse cenário, considerando as disposições do Código Penal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Caio responderá pelo crime de falsidade ideológica, na modalidade simples. ( ) Marcos responderá pelo crime de falsificação de documento público, na modalidade simples. ( ) Túlio responderá pelo crime de falsificação de documento particular, na modalidade simples. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – V."
+      },
+      {
+        "letra": "B",
+        "texto": "V – V – F."
+      },
+      {
+        "letra": "C",
+        "texto": "F – V – F."
+      },
+      {
+        "letra": "D",
+        "texto": "V – F – V."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – F."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3113330",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "No que se refere aos crimes em espécie previstos no Código Penal, julgue o item a seguir, considerando, quando couber, o entendimento dos tribunais superiores. A prática da clonagem de cartão de crédito constitui o crime de falsidade ideológica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3104280",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a administração pública e a fé pública, julgue o item seguinte. Considere que um enfermeiro tenha se apropriado de formulários de atestados médicos devidamente carimbados em nome de determinado médico e tenha passado a utilizá-los para emitir atestados médicos falsos para terceiros, com o fito de lucro. Nessa situação, conforme as disposições do Código Penal, a conduta do enfermeiro caracteriza o crime de falsidade de atestado médico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2176719",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falso reconhecimento de firma ou letra"
+    ],
+    "enunciado_principal": "Com relação aos Crimes contra a Fé Pública, previstos no Capítulo II e III, do Título X, do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes de falsificação de documento público e falsificação de documento particular, a falsidade recai sobre a própria autenticidade do documento; no crime de falsidade ideológica, a falsidade recai sobre o conteúdo do documento."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes de falsificação de papéis público, petrechos de falsificação e falsificação de selo ou sinal público são próprios de funcionários públicos, praticados no exercício do cargo."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de falsidade de atestado médico é um crime comum, podendo ser praticado por qualquer pessoa, não sendo necessário ser médico."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o sujeito, além de falsificar o documento, também o utiliza, incorrerá nas penas do crime de falsificação e do crime de uso."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de falso reconhecimento de firma ou letra somente se caracteriza em documento público."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2133848",
+    "metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Para fins penais, falsificar ou alterar alguns tipos de documentos são atos equiparados ao crime de “Falsificação de Documento Público”, previsto no art. 297 do Código Penal brasileiro. Nesse sentido, assinale a alternativa que traz consigo ação ou documento que NÃO viabiliza a tipificação do referido crime em nenhuma das possibilidades previstas em lei.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inserir em documento contábil ou em qualquer outro documento relacionado com as obrigações da empresa perante a previdência social, declaração falsa ou diversa da que deveria ter constado."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsificar atestado particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificar cartão de crédito."
+      },
+      {
+        "letra": "D",
+        "texto": "Quem omite nome do segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou de prestação de serviços na Carteira de Trabalho e Previdência Social do empregado ou em documento que deva produzir efeito, perante a previdência social."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2074470",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra a fé pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para fins penais são equiparados a documento público, o testamento particular e os livros mercantis."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falso reconhecimento de firma ou letra admite a modalidade culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de certidão de atestado ideologicamente falso pode ser praticado por qualquer pessoa, não se exigindo nenhuma qualidade específica ao autor."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente que usa o documento falsificado é apenado de forma menos grave ao agente que falsificou ou adulterou o documento."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de falsidade ideológica somente admite documento público, não sendo possível em documento particular."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2073270",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Para fins de punição penal, a falsificação do cartão de crédito e a falsificação de testamento particular",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são tratadas igualmente, sendo ambos os objetos materiais considerados documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "são tratadas igualmente, sendo ambos os objetos materiais considerados documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "são tratadas diferentemente, pois o primeiro objeto é considerado documento particular e, o segundo, documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "são tratadas diferentemente, pois o primeiro objeto é considerado documento público e, o segundo, documento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "são tratadas diferentemente, pois falsificar o primeiro objeto material sequer constitui crime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2067122",
+    "metadata": "Ano: 2022 | Banca: INEP BRASIL | Órgão: Prefeitura de Palestina de Goiás - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "A fé pública é entendida como a crença na autenticidade e na veracidade de documentos e outros papéis especialmente previstos que circulam no meio social. Este bem jurídico é tutelado pelo Estado, como representante da coletividade organizada, configurando, ao mesmo tempo, uma abstração e uma realidade. Qual alternativa está errada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsificação de documentos públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificação ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Falsidade de atestado médico."
+      },
+      {
+        "letra": "E",
+        "texto": "Falsificação de moeda."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1992807",
+    "metadata": "Ano: 2022 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "NO TOCANTE AOS CRIMES DE FALSO, NÃO É CERTO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime do art. 299, do CP, não deve, obrigatoriamente, ser apto somente a alterar a verdade sobre fato juridicamente relevante, pois é composto de outras figuras nucleares que podem ensejar a sua tipificação, estando perfectibilizado o delito quando, da conduta, haja aptidão para prejudicar direito de outrem ou para a criação de obrigação ou a alteração de fato juridicamente relevante."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime do art. 297, do CP, consiste em falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro, não distinguindo se ele provém de autoridade pública nacional, federal, estadual, distrital ou municipal, excluindo-se a estrangeira, tendo em vista a forma específica do nosso ordenamento jurídico."
+      },
+      {
+        "letra": "C",
+        "texto": "O tipo previsto no art. 298, do CP, contempla o elemento normativo documento, cujo devido significado valorativo, a ser extraído pelo intérprete, possui a maleabilidade suficiente para a sua adaptação aos anseios e às necessidades sociais provenientes de novas relações jurídicas advindas da evolução tecnológica."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime do art. 296, § 1º, III, do CP, é de mera conduta, sendo suficiente, para sua caracterização, o uso indevido das marcas, logotipos, siglas ou outros símbolos identificadores de órgãos ou entidades da Administração Pública, mostrando-se desnecessária a demonstração de dolo específico, bem como de ocorrência de prejuízo a terceiros."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1992056",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "O Código Penal estabelece em títulos próprios os crimes contra a paz pública, contra a fé pública e contra a administração pública. No tocante à fé pública, trata-se de uma expressão que encontra abrigo no Código Penal e que se refere à presunção de verdade dada aos atos de um servidor. Diante do exposto, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falsidade material atinge o documento apenas na sua ideação, ou seja, no pensamento que as declarações encerram."
+      },
+      {
+        "letra": "B",
+        "texto": "A falsidade material afeta a autenticidade ou inalterabilidade do documento na sua forma extrínseca e conteúdo intrínseco."
+      },
+      {
+        "letra": "C",
+        "texto": "Maria leva seu veículo ao Detran com o objetivo de realizar a fiscalização anual. Antônio, funcionário público que exerce suas funções no local, apesar de não encontrar irregularidades no veículo, verificando a inexperiência de Maria, que tem apenas 20 anos de idade, exige R$ 1.500,00 para “liberar” o automóvel sem pendências. Maria, de imediato, recusa-se a entregar o valor solicitado e informa o ocorrido ao superior hierárquico de Antônio, que aciona a polícia. Por tal conduta, Antônio deve responder pelo crime de concussão tentada."
+      },
+      {
+        "letra": "D",
+        "texto": "Configura o crime de Tráfico de Influência deixar o Diretor de Penitenciária e/ou agente público de cumprir seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o agente é funcionário público e comete o crime de falsidade ideológica prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de terça parte."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1985456",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Com base na lei penal, configura crime de falsificação de documento particular o ato de falsificar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "testamento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "livros mercantis."
+      },
+      {
+        "letra": "C",
+        "texto": "cartão de crédito ou débito."
+      },
+      {
+        "letra": "D",
+        "texto": "ações de sociedade comercial."
+      },
+      {
+        "letra": "E",
+        "texto": "título ao portador ou título transmissível por endosso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1973355",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: SEE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Com fundamento nas disposições atualizadas do Código Penal brasileiro, julgue o seguinte item.Caso um indivíduo falsifique um cartão de crédito ou um testamento particular, ele será submetido, no caso de condenação, às penas previstas no delito de falsificação de documento particular.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1947760",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "O agente que faz declaração falsa na inscrição definitiva da Ordem dos Advogados do Brasil, afirmando que não exercia qualquer atividade profissional",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pratica falsidade material de documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "pratica falsidade material de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "pratica conduta atípica."
+      },
+      {
+        "letra": "D",
+        "texto": "pratica falsidade ideológica de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "pratica falsidade ideológica de documento particular."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1945705",
+    "metadata": "Ano: 2022 | Banca: FUNDATEC | Órgão: AGERGS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "O Código Penal tipifica o crime de falsificação de documento particular em seu art. 298, assim redigido: “Art. 298 - Falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro”. Segundo o mesmo diploma normativo, assinale a alternativa que apresenta um documento considerado, para fins penais, como particular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O testamento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "O título ao portador ou transmissível por endosso."
+      },
+      {
+        "letra": "C",
+        "texto": "As ações de sociedade comercial."
+      },
+      {
+        "letra": "D",
+        "texto": "Os livros mercantis."
+      },
+      {
+        "letra": "E",
+        "texto": "O cartão de crédito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1924611",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: SEFAZ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Tiago foi denunciado pelo Ministério Público pelos crimes de falsificação de documento particular (Art. 298 do Código Penal) e estelionato (Art. 171 do Código Penal), em concurso material (Art. 69 do Código Penal), por ter protocolizado pedido de restituição e declaração de compensação de tributos junto à Administração Fazendária, buscando auferir saldo de compensação de créditos inexistentes, cujo valor seria superior àquele dos débitos de sua empresa. Nesse caso, com relação ao crime de falsificação de documento particular imputado, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trata-se de um crime autônomo que é sempre punível."
+      },
+      {
+        "letra": "B",
+        "texto": "trata-se de um crime-fim que é sempre punível."
+      },
+      {
+        "letra": "C",
+        "texto": "trata-se de um crime-meio que é sempre punível."
+      },
+      {
+        "letra": "D",
+        "texto": "trata-se de um crime-meio, que é punível se o crime-fim também o for."
+      },
+      {
+        "letra": "E",
+        "texto": "trata-se de um crime-meio, que é punível se ele não se exaurir no crime-fim, não sendo por este absorvido."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1899860",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TCE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, que tratam dos crimes em espécie. A falsificação de um cartão de débito emitido por banco privado é considerada falsidade ideológica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2088198",
+    "metadata": "Ano: 2021 | Banca: Avança SP | Órgão: Câmara de Ribeirão Pires - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Corrupção ativa",
+      "Favorecimento pessoal"
+    ],
+    "enunciado_principal": "A conduta do agente que altera, parcialmente, testamento particular, configura crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corrupção passiva."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "C",
+        "texto": "favorecimento pessoal."
+      },
+      {
+        "letra": "D",
+        "texto": "corrupção ativa."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de documento particular."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1851708",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A conduta do comerciante de dolosamente alterar parte das informações dos livros mercantis da sua empresa configura o crime de falsificação de documento particular.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1157079",
+    "metadata": "Ano: 2020 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Crimes contra a administração pública"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O artigo 149 do Código Penal tipifica, na seção dos crimes contra a liberdade pessoal, a conduta de reduzir alguém à condição análoga à de escravo, incluindo o exercício do trabalho forçado, em condições degradantes, em jornada exaustiva ou com restrição, por qualquer meio, da locomoção, em razão de dívida contraída com o empregador ou preposto."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena relativa ao crime de redução a condição análoga à de escravo é aumentada se o crime é cometido contra criança ou adolescente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de falso testemunho ou falsa perícia é crime próprio cometido por testemunha, intérprete, contador ou perito em processo judicial, administrativo, inquérito policial ou juízo arbitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Comete falsificação de documento particular, previsto no artigo 298 do Código Penal, aquele que insere ou faz inserir declaração falsa ou diversa da que deveria ter sido escrita na CTPS do empregado ou em documento que deva produzir efeito perante a Previdência Social."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1120086",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "A conduta de quem faz declaração falsa de estado de pobreza para fins de obtenção dos benefícios da justiça gratuita em ação judicial é considerada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica."
+      },
+      {
+        "letra": "B",
+        "texto": "crime de falsa identidade."
+      },
+      {
+        "letra": "C",
+        "texto": "crime de falsidade ideológica"
+      },
+      {
+        "letra": "D",
+        "texto": "crime de falsificação de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "crime de falsificação de documento particular."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1036629",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra a fé pública,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "compete à Justiça Estadual comum processar e julgar civil denunciado pelos crimes de falsificação e de uso de documento público falso quando se tratar de Carteira de Habilitação de Amador, ainda que expedida pela Marinha do Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "há sempre concurso entre os crimes de falsificação de documento público e estelionato, segundo entendimento do sumulado do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "configura crime de falsificação de documento particular o ato de falsificar, no todo ou em parte, testamento particular, duplicata e cartão bancário de crédito ou débito."
+      },
+      {
+        "letra": "D",
+        "texto": "atípica a conduta de, em situação de autodefesa, atribuir-se falsa identidade perante autoridade policial."
+      },
+      {
+        "letra": "E",
+        "texto": "inadmissível proposta de suspensão condicional do processo no crime de falsidade ideológica de assentamento de registro civil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1026879",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: MPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "De acordo com o ordenamento jurídico e o posicionamento dos tribunais superiores acerca dos crimes contra a fé pública,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não comete o delito de falsa identidade (art. 307) do Código Penal aquele que, conduzido perante a autoridade policial, atribui a si falsa identidade com o intuito de ocultar seus antecedentes, tendo em vista o princípio da autodefesa."
+      },
+      {
+        "letra": "B",
+        "texto": "assim como nos demais crimes não patrimoniais em geral, os delitos contra a fé pública são incompatíveis com o instituto do arrependimento posterior, dada a impossibilidade material de haver reparação do dano causado ou a restituição da coisa subtraída."
+      },
+      {
+        "letra": "C",
+        "texto": "a conduta do agente que altera, em parte, testamento particular, é tipificada como falsificação de documento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "tanto o charlatanismo (art. 283), quanto o curandeirismo (art. 284), são classificados no Código Penal como crimes contra a fé pública."
+      },
+      {
+        "letra": "E",
+        "texto": "fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente destinado à falsificação de qualquer papel público constitui contravenção penal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1010563",
+    "metadata": "Ano: 2019 | Banca: Instituto Acesso | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Uso de documento falso",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "No dia 09/07/2017, Henrique foi parado em uma fiscalização da Operação Lei Seca. Após solicitar a Carteira Nacional de Habilitação (CNH) de Henrique, o policial militar que participava da operação suspeitou do documento apresentado. Procedeu então à verificação na base de dados do DETRAN e confirmou a suspeita, não encontrando o número de registro que constava na CNH, embora as demais informações (nome e CPF), a respeito de Henrique, estivessem corretas. Questionado pelo policial, Henrique confessou que havia adquirido o documento com Marcos, seu vizinho, que atuava como despachante, tendo pago R$ 2.000,00 pelo documento. Afirmou ainda que sequer havia feito prova no DETRAN. Acrescente-se que, durante a instrução criminal, ficou comprovado que, de fato, Henrique obteve o documento de Marcos, sendo este o autor da contrafação. Além disso, foi verificado por meio de perícia judicial que, no estado em que se encontra o documento, e em face de sua aparência, pode iludir terceiros como se documento idôneo fosse. Logo, pode-se afirmar que a conduta de Henrique se amolda ao crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsificação de documento público, previsto no caput do art. 297 do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "uso de documento falso, previsto no art. 304 do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "falsa identidade, previsto no art. 307 do Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade ideológica, previsto no caput art. 299 do Código Penal."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de documento particular, previsto no caput do art. 298 do Código Penal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "998793",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A respeito dos crimes de falsidade documental constantes do Capítulo III, Título X, da Parte Especial do Código Penal, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ambos os delitos de falsificação de documento público e de falsificação de documento particular, respectivamente artigos 297 e 298 do Código Penal, são comuns, dolosos e de ação penal pública incondicionada."
+      },
+      {
+        "letra": "B",
+        "texto": "O delito de falsificação de cartão de crédito, quando realizado para a prática de estelionatos, fica absorvido pelo delito do art. 171 do Código Penal, por ser crime-meio, conforme Súmula 17 do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "Os títulos ao portador ou transmissíveis por endosso e os livros mercantis de sociedades empresárias equiparam-se, para fins penais, a documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito de falso reconhecimento de firma, tipificado no art. 300 do Código Penal, é crime próprio e que não admite a modalidade culposa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1863544",
+    "metadata": "Ano: 2018 | Banca: EJUD-PI | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "João é nascido em abril de 1948 e declara, por vergonha de sua idade, num documento público, perante uma repartição pública estadual, que tem 57 anos de idade. Por receio de descobrirem que sua declaração é falsa, João guarda o documento sem provocar, com isso, qualquer consequência. Considerando o caso descrito, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João cometeu o crime previsto no Art. 297 do Código Penal (falsificação de documento público)."
+      },
+      {
+        "letra": "B",
+        "texto": "João cometeu o crime previsto no Art. 298 do Código Penal (falsificação de documento particular)."
+      },
+      {
+        "letra": "C",
+        "texto": "João cometeu o crime previsto no Art. 299 do Código Penal (falsidade ideológica)."
+      },
+      {
+        "letra": "D",
+        "texto": "João cometeu o crime previsto no Art. 30 1 do Código Penal (certidão ou atestada ideologicamente falso)."
+      },
+      {
+        "letra": "E",
+        "texto": "João não cometeu crime algum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1154442",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Sobre os delitos de falsidade documental, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o cartão de crédito, embora possua natureza de documento particular, é equiparado, para tipificação penal, a documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de Uso de Documento Falso admite a modalidade culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "para os efeitos penais, equipara-se a documento público o testamento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de Falsidade de Atestado Médico pode ser praticado por qualquer pessoa, ainda que sem o concurso necessário de um médico."
+      },
+      {
+        "letra": "E",
+        "texto": "para os efeitos penais, as ações de sociedade comercial são consideradas documentos particulares."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "952704",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Caracteriza crime de falsificação de documento particular a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsificação de testamento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "alteração de cartão de crédito verdadeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "fabricação de papel destinado à arrecadação de tributos."
+      },
+      {
+        "letra": "D",
+        "texto": "adulteração de título ao portador ou transmissível por endosso."
+      },
+      {
+        "letra": "E",
+        "texto": "inserção de declaração falsa em documento particular, para prejudicar direito."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "941909",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Com relação aos crimes em espécie, julgue o item que se segue, considerando o entendimento firmado pelos tribunais superiores e a doutrina majoritária. Nos crimes de falsidade documental, considera-se documento particular todo aquele não compreendido como público, ou a este equiparado, e que, em razão de sua natureza ou relevância, seja objeto da tutela penal — como cartão de crédito, por exemplo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "878645",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "A respeito dos crimes previstos nos artigos 293 a 305 do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falsificação de livros mercantis caracteriza o crime de falsificação de documento particular (art. 298 do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falsidade ideológica (art. 299 do CP), em documento público, é próprio de funcionário público."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime de falsidade de atestado médico (art. 302 do CP), independentemente da finalidade de lucro do agente, além da pena privativa de liberdade, aplica-se multa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de supressão de documento (art. 305 do CP), para se caracterizar, exige que o documento seja verdadeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de falsificação de documento público (art. 297 do CP) é próprio de funcionário público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "870649",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: PC-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Em relação à falsificação de documento particular e à falsidade ideológica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reza o Código Penal que a falsificação do documento particular consiste em falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Fotocópias sem autenticação, documentos impressos sem assinatura ou documentos anônimos podem ser considerados documentos particulares para efeito do crime de falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "O objeto material da falsidade ideológica é tão somente o documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Reza o Código Penal que se o agente é funcionário público e comete o crime de falsidade ideológica, prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, a pena será aplicada em quádruplo."
+      },
+      {
+        "letra": "E",
+        "texto": "O momento consumativo da falsidade ideológica se dá com a efetiva concretização de prejuízo material para o Estado ou para o particular."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "866219",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TCE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Certidão ou atestado ideologicamente falso"
+    ],
+    "enunciado_principal": "Analise o caso hipotético a seguir. Maria, com 55 anos de idade, declara, por pura vaidade, num documento público perante uma repartição pública estadual que tem 47 anos de idade. Desse modo, tal afirmativa é falsa, e, apesar disso, tal assertiva não provocou nenhuma consequência. Considerando o caso descrito, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maria cometeu o crime previsto no Art. 297 do Código Penal (falsificação de documento público)."
+      },
+      {
+        "letra": "B",
+        "texto": "Maria cometeu o crime previsto no Art. 298 do Código Penal (falsificação de documento particular)."
+      },
+      {
+        "letra": "C",
+        "texto": "Maria cometeu o crime previsto no Art. 299 do Código Penal (falsidade ideológica)."
+      },
+      {
+        "letra": "D",
+        "texto": "Maria cometeu o crime previsto no Art. 301 do Código Penal (certidão ou atestado ideologicamente falso)."
+      },
+      {
+        "letra": "E",
+        "texto": "Maria não cometeu crime algum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "862656",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Antônio foi parado em operação de fiscalização de trânsito e entregou sua carteira de identidade ao policial, que, na verdade, havia lhe solicitado sua CNH. Tal fato gerou suspeita no policial, que decidiu vistoriar o veículo de Antônio e acabou por encontrar uma CNH falsa. Nessa situação hipotética,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antônio deverá responder pelos crimes de uso de documento falso e de falsificação de documento público, em concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "Antônio deverá responder pelo crime de uso de documento falso."
+      },
+      {
+        "letra": "C",
+        "texto": "a conduta de Antônio foi atípica, não devendo ser instaurado inquérito policial."
+      },
+      {
+        "letra": "D",
+        "texto": "não se pode falar em flagrante delito; deve ser instaurado inquérito para apurar o crime de falsificação de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "não se pode falar em flagrante delito; deve ser instaurado inquérito para apurar o crime de falsificação de documento privado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "862654",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "A clonagem de cartão de crédito constitui o delito denominado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade de documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "conduta atípica, que só será punível a partir do uso do cartão clonado em fraude posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "adulteração de peça filatélica, em razão da similaridade com o cartão de crédito."
+      },
+      {
+        "letra": "E",
+        "texto": "falsidade ideológica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1702318",
+    "metadata": "Ano: 2017 | Banca: Quadrix | Órgão: CRF-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A falsificação de cartão de crédito ou débito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é conduta atípica."
+      },
+      {
+        "letra": "B",
+        "texto": "equipara-se a falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "equipara-se a falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "equipara-se a falsificação de moeda."
+      },
+      {
+        "letra": "E",
+        "texto": "equipara-se a falsidade ideológica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "854562",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "No que se refere ao cumprimento de mandados judiciais e suas repercussões criminais na esfera penal, julgue o item que se segue.Situação hipotética: No curso de diligência para a citação pessoal de réu em processo criminal, o destinatário da citação apresentou documento de identidade de outra pessoa, em que havia substituído a fotografia original, com o objetivo de se furtar ao ato, o que frustrou o cumprimento da ordem judicial. Assertiva: Nesse caso, o citado praticou o crime de falsa identidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "840814",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TCE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Julgue o próximo item, referente a crimes de falsidade documental.Será considerada atípica, por inexistência de ofensa à fé pública nacional, a conduta do estrangeiro que, para tentar sair irregularmente do Brasil, apresentar à Polícia Federal passaporte falso expedido por outro país.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "831163",
+    "metadata": "Ano: 2017 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Supressão de documento",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Sobre os crimes de falsidade documental previstos no Código Penal, analise as proposições abaixo: I - O crime de falsificação de documento público consiste em omitir, em documento público, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. II - O crime de falsificação de documento particular consiste em omitir, em documento particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. III - O crime de supressão de documento consiste em destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento público ou particular verdadeiro, de que não podia dispor. IV - O crime de falsidade de atestado médico consiste em dar o médico, no exercício da sua profissão, atestado falso.Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "778062",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TRE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "À luz do Código Penal, sobre a falsidade documental nos crimes contra a fé pública,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a falsificação de um documento emanado de sociedade de economia mista federal caracteriza o crime de falsificação de documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "equipara-se a documento público para caracterização do crime de falsificação de documento público o cartão de crédito ou débito."
+      },
+      {
+        "letra": "C",
+        "texto": "se o autor do crime de falsificação de selo ou sinal público é funcionário público e comete o crime prevalecendo-se do cargo, a pena é aumentada de um terço."
+      },
+      {
+        "letra": "D",
+        "texto": "aquele que faz inserir na Carteira de Trabalho e Previdência Social do empregado declaração falsa ou diversa da que deveria ter constado estará sujeito às penas cominadas ao crime de falsidade ideológica."
+      },
+      {
+        "letra": "E",
+        "texto": "o médico que dá, no exercício de sua função, atestado falso com o fim lucrativo estará sujeito à pena privativa de liberdade cominada ao delito de falsidade de atestado médico aumentada de metade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "748471",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: CODESA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Apagar mecanicamente o nome que consta em uma carteira de identidade verdadeira e substituí-lo por nome falso, caso a falsificação não seja grosseira, caracteriza crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsificação de documento público (art. 297 do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento particular (art. 298 do CP)."
+      },
+      {
+        "letra": "C",
+        "texto": "falsidade ideológica sobre documento particular (art. 299 do CP)."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade ideológica sobre documento público (art. 299 do CP)."
+      },
+      {
+        "letra": "E",
+        "texto": "falsa identidade (art. 307 do CP)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "689244",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Alumínio - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "A conduta de “falsificar cartão de crédito ou débito”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é considerada falsidade de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "é considerada falsidade de documento público."
+      },
+      {
+        "letra": "C",
+        "texto": "é considerada falsidade ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime assimilado ao estelionato."
+      },
+      {
+        "letra": "E",
+        "texto": "não é prevista no CP."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "685517",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara Municipal de Poá - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "O documento emanado de entidade paraestatal, o título ao portador ou transmissível por endosso, as ações de sociedade comercial, os livros mercantis e o testamento particular, para fins de falsidade, são equiparados a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atos oficiais da União, de Estado ou de Município."
+      },
+      {
+        "letra": "B",
+        "texto": "sinais públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "selos públicos."
+      },
+      {
+        "letra": "D",
+        "texto": "documentos particulares."
+      },
+      {
+        "letra": "E",
+        "texto": "documentos públicos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "634540",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: SEGEP-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Preencher uma folha de cheque em branco, sem autorização do titular da conta bancária vinculada, e almejando sua utilização irregular no futuro para a aquisição fraudulenta de bens, constitui crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estelionato tentado."
+      },
+      {
+        "letra": "B",
+        "texto": "falsa identidade."
+      },
+      {
+        "letra": "C",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de documento particular."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "628686",
+    "metadata": "Ano: 2016 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a organização do trabalho",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Segundo a tipologia especificamente adotada pelo Código Penal, quem omite, na folha de pagamento ou em documento de informações que seja destinado a fazer prova perante a previdência social, nome do segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou de prestação de serviços, incorre nas penas correspondentes ao crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atentado contra a liberdade de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "Apropriação indébita previdenciária."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Falsificação de documento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "Redução a condição análoga à de escravo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "622497",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Caracteriza falsificação de documento particular a alteração de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "testamento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "ações de sociedade comercial."
+      },
+      {
+        "letra": "C",
+        "texto": "título ao portador ou transmissível por endosso."
+      },
+      {
+        "letra": "D",
+        "texto": "nota fiscal."
+      },
+      {
+        "letra": "E",
+        "texto": "livros mercantis."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "621846",
+    "metadata": "Ano: 2016 | Banca: UFMT | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "A falsificação e o uso de um documento público, pelo mesmo agente, configura o delito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uso de documento falso."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento público e uso de documento falso, em concurso material."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento público e uso de documento falso, em concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "607171",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A falsificação de cartão de crédito ou débito, nos termos do Código Penal (CP),",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "equipara-se à falsificação de selo ou sinal público."
+      },
+      {
+        "letra": "B",
+        "texto": "é considerada crime apenas se dela decorrer efetivo prejuízo."
+      },
+      {
+        "letra": "C",
+        "texto": "equipara-se à falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "é fato atípico."
+      },
+      {
+        "letra": "E",
+        "texto": "equipara-se à falsificação de documento particular."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "605808",
+    "metadata": "Ano: 2016 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Aquele que falsifica, no todo ou em parte, cartão de crédito ou débito de banco público, enquadra-se no crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "petrechos de falsificação."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade ideológica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "550305",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TCM-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "Pablo, enquanto se dirigia para o trabalho, foi parado em uma blitz realizada pela Polícia Militar. O policial pediu ao motorista que se identificasse e apresentasse a documentação do veículo. Pablo, então, apresentou os documentos do automóvel e sua carteira de motorista. Ocorre que, em consulta ao sistema próprio, o agente da lei verificou que o documento de identificação apresentado era falsificado. Considerando apenas as informações narradas, é correto afirmar que a conduta de Pablo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "configura crime de uso de documento falso em concurso material com falsificação de documento particular;"
+      },
+      {
+        "letra": "B",
+        "texto": "configura crime de falsa identidade;"
+      },
+      {
+        "letra": "C",
+        "texto": "configura crime de uso de documento falso em concurso material com falsificação de documento público;"
+      },
+      {
+        "letra": "D",
+        "texto": "é atípica, pois a apresentação dos documentos não foi espontânea, somente ocorrendo por solicitação dos policiais;"
+      },
+      {
+        "letra": "E",
+        "texto": "configura crime de uso de documento falso, apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "528030",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falso reconhecimento de firma ou letra",
+      "Falsidade de atestado médico",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Em relação aos crimes praticados contra a fé pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de falso atestado médico, previsto no artigo 302, do CP, admite tanto a forma dolosa quanto a forma culposa."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falso reconhecimento de firma ou letra (art. 300, CP), por ser crime próprio, não admite coautoria ou participação."
+      },
+      {
+        "letra": "C",
+        "texto": "A falsidade material consistente na omissão de declaração que deveria constar no documento público ou particular ou na inserção (direta ou indireta) de declaração falsa ou diversa da que deveria ser nele escrita."
+      },
+      {
+        "letra": "D",
+        "texto": "Os delitos de falso se consumam independentemente do resultado (prejuízo)."
+      },
+      {
+        "letra": "E",
+        "texto": "Os testamentos particulares inserem-se no conceito de documento particular para fins de falsificação (art. 298, CP)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "525918",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falso reconhecimento de firma ou letra",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Antonio Célio, barista, faltou injustificadamente ao trabalho, nada comunicando ao empregador. Por ser reincidente, já tendo sido punido por ausências anteriores, e temendo ser dispensado por justa causa, no dia seguinte − que era destinado a sua folga − se aproveita do comparecimento à clínica médica “Saúde Real Cop\" onde marcara consulta e, verificando a momentânea ausência de fiscalização, pega para si carimbo do médico responsável pela clínica. Na saída, para eliminar registro de sua presença, destrói a folha usada pela administração da clínica para controle dos pacientes que lá comparecem, documento adotado para instruir os requerimentos de pagamento por serviços prestados pela clínica a várias operadoras de plano de saúde. Em seguida, Antonio Célio vai para casa, onde elabora atestado médico que justificaria sua ausência ao trabalho, assina-o com o nome do médico constante do carimbo, além de efetuar, ele próprio, reconhecimento da firma que inserira no atestado. Por fim, dois dias após a ausência ao trabalho, Antônio Célio entrega o documento nos moldes acima ao seu empregador, solicitando que não houvesse o desconto de sua falta. Além de outros, caso estejam presentes, configura-se a existência dos seguintes tipos penais, praticados por Antônio Célio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "supressão de documento, falsificação de documento particular e uso de documento falso."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento particular, falso reconhecimento de firma e furto."
+      },
+      {
+        "letra": "C",
+        "texto": "falso reconhecimento de firma, falsidade de atestado médico e uso de documento falso."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade de atestado médico, furto e supressão de documento."
+      },
+      {
+        "letra": "E",
+        "texto": "furto, falsidade de reconhecimento de firma e falsidade de atestado médico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "494558",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Crime continuado",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Disposições gerais nos Crimes Contra o Patrimônio",
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Ana, de quarenta e seis anos de idade, conheceu Silas, de sessenta e três anos de idade, portador de doenças coronárias crônicas. Aproveitando-se da situação de Silas, que era já aposentado por invalidez, Ana começou a manter com ele relacionamento amoroso, visando receber os valores decorrentes de sua aposentadoria. De fato, em pouco tempo e com a aquiescência de Silas, ela obteve declaração formal de união estável e convenceu o companheiro a adotar, mediante processo regular concretizado, seu filho menor, fruto de relacionamento anterior. Durante a união estável, Ana forjou procuração feita em nome de Silas, com auxílio de Lauro, que se passou por Silas no cartório para fins de reconhecimento de firma e em outras ocasiões em que era necessária a presença do outorgante. De posse do instrumento procuratório amplo, Ana fez empréstimos na mesma instituição bancária em que Silas recebia sua aposentadoria, vinculando o pagamento das parcelas do empréstimo ao benefício previdenciário. Além disso, de posse dos mesmos instrumentos, em instituição bancária diversa, Ana firmou contrato de arrendamento mercantil em nome de Silas e transferiu o bem a Lauro. Além disso, passou a perceber, continuamente, a aposentadoria de Silas mediante uso da senha bancária e cartão de benefício, obtidos com uso da aludida procuração. Em data recente, Silas tomou conhecimento de tudo o que Ana havia feito e mais, já que as despesas domésticas estavam sendo pagas com dinheiro proveniente de empréstimos bancários contraídos em seu nome, mês a mês, com prestações que atingiam o percentual de 70% do benefício. Diante disso, Silas encaminhou notitia criminis contra a companheira, encerrando o relacionamento. Ao tomar conhecimento da representação, Ana e Lauro passaram a pressionar Silas, mediante grave ameaça, para que ele se retratasse da representação e assumisse as transações realizadas. Em decorrência da situação, Silas sofreu infarto fulminante e faleceu.Com referência a essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ana e Lauro devem responder, em tese, pela prática dos seguintes delitos, entre outros: estelionato, em continuidade delitiva, e estelionato qualificado, em concurso com o crime contra sistema financeiro; falsificação de documento particular; e homicídio na modalidade qualificada."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime perpetrado por Ana será o de estelionato qualificado, uma vez que as condutas antecedentes tinham como único desígnio a percepção da aposentadoria de Silas, sendo irrelevante a representação deste."
+      },
+      {
+        "letra": "C",
+        "texto": "Se Ana for denunciada pelos crimes patrimoniais descritos, admite-se em seu favor a oposição da escusa absolutória, uma vez que os fatos ocorreram na constância da união estável, não se estendendo essa vantagem a Lauro"
+      },
+      {
+        "letra": "D",
+        "texto": "Ana e Lauro perpetraram, em concurso de agentes, o crime de falsificação de documento particular em concurso material com o crime de latrocínio, já que a morte de Silas assegurou a ocultação da falsificação e a impunidade dos agentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Os agentes praticaram o estelionato na modalidade qualificada por terem agido em detrimento de entidade de direito público, em concurso de agentes; além disso, Ana e Lauro devem responder também por crime contra sistema financeiro e homicídio na modalidade qualificada, já que Silas tinha mais de sessenta anos de idade quando morreu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "483615",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Falsificar cartão de crédito ou débito é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta atípica."
+      },
+      {
+        "letra": "B",
+        "texto": "crime de falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "crime de falsa identidade."
+      },
+      {
+        "letra": "D",
+        "texto": "crime de falsidade ideológica."
+      },
+      {
+        "letra": "E",
+        "texto": "crime de falsificação de documento público, por equiparação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1222616",
+    "metadata": "Ano: 2014 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra a fé pública, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os livros mercantis e o testamento particular não constituem objeto de falsificação de documento público, e, sim, de falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falsificação do selo ou sinal público só pode ser cometido por funcionário público"
+      },
+      {
+        "letra": "C",
+        "texto": "Quem omite, em documento público ou particular, declaração que dele devia constar, ou altera a verdade sobre fato juridicamente relevante, comete crime de falsidade material"
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui causa de aumento de pena cometer crime de falsidade ideológica se a falsificação, ou alteração, é de assentamento de registro civil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "762866",
+    "metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: SUSEPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Uso de documento falso",
+      "Supressão de documento",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "O agente que atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem, comete o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsa identidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Supressão de documento."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsidade ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de documento falso."
+      },
+      {
+        "letra": "E",
+        "texto": "Falsificação de documento particular."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "730461",
+    "metadata": "Ano: 2014 | Banca: CONSULPLAN | Órgão: CBTU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Nos termos do Código Penal, o agente que falsificar, no todo ou em parte, cartão de crédito ou débito, emitido por banco integrante da administração indireta, comete o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "B",
+        "texto": "fraude contra credores."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento particular."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "516257",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Câmara de Sertãozinho - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A falsificação de cartão de crédito é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fato atípico."
+      },
+      {
+        "letra": "B",
+        "texto": "equiparada à falsificação de moeda"
+      },
+      {
+        "letra": "C",
+        "texto": "equiparada à falsificação de selo público."
+      },
+      {
+        "letra": "D",
+        "texto": "equiparada à falsificação de documento público"
+      },
+      {
+        "letra": "E",
+        "texto": "equiparada à falsificação de documento particular."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "456745",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Outras fraudes",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Em 20/10/2012 empresário é surpreendido pela fiscalização frustrando direito assegurado pela legislação do trabalho em razão da jornada exaustiva imposta aos empregados, tendo ficado caracterizada a condição análoga à de escravo. No curso da ação penal, comprovou-se que o empregador lançou falsas anotações nas carteiras de trabalho dos empregados e que, em 05/05/2010, fora condenado em outro processo, pela prática de apropriação indébita de contribuições previdenciárias. Segundo o Código Penal, a conduta do empregador de lançar anotação falsa na carteira de trabalho dos empregados pode ser tipificada como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "B",
+        "texto": "fraude trabalhista."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "uso de documento falso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "425149",
+    "metadata": "Ano: 2014 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "A empresa ABC Ltda. contratou Felix da Silva para trabalhar como motorista, com ele ajustando salário, horário de trabalho e recebendo sua CTPS para promover as devidas anotações. Passados dois meses, dispensou-o da função e restituiu-lhe a carteira profissional sem ter registrado o contrato de trabalho. Do ponto de vista do direito penal, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os sócios da reclamada incorreram no tipo penal \"falsidade ideológica\", uma vez que omitiram em documento particular informação que dele deveria constar, com o fim de prejudicar direito;"
+      },
+      {
+        "letra": "B",
+        "texto": "Incorreram nas mesmas penas previstas para o crime de falsidade documental, previsto no artigo 297, do Código Penal;"
+      },
+      {
+        "letra": "C",
+        "texto": "Não há qualquer sanção prevista na esfera criminal, tratando-se de mera infração administrativa, punível na forma prevista na CLT e passível de regularização por ordem judicial;"
+      },
+      {
+        "letra": "D",
+        "texto": "Não se caracteriza como falsidade de documento particular porque não houve nenhum registro e a omissão não pode ser enquadrada no tipo penal;"
+      },
+      {
+        "letra": "E",
+        "texto": "Se a omissão tiver sido realizada com fim de lucro, é punível com multa, além da pena privativa de liberdade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "423686",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Aquele que confecciona um cartão de crédito falso comete o crime de ________, na modalidade equiparada. Assinale a alternativa que preenche corretamente a lacuna do texto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Moeda Falsa"
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de Documento Falso"
+      },
+      {
+        "letra": "C",
+        "texto": "Falsidade Ideológica"
+      },
+      {
+        "letra": "D",
+        "texto": "Falsificação de Documento Particular"
+      },
+      {
+        "letra": "E",
+        "texto": "Falsificação de Documento Público"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "413751",
+    "metadata": "Ano: 2014 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Numa ação trabalhista acidentaria foi designada perícia médica a fim de se verificar o grau de redução da capacidade laborativa do autor, o qual contratou assistente técnico que, em seu parecer lançou informações falsas sobre o laudo pericial. Nesse caso, o assistente técnico responde pelo crime de falsidade ideológica, por inserir informações falsas em documento verdadeiro;"
+      },
+      {
+        "letra": "B",
+        "texto": "Sandra é vendedora, empregada da empresa Lojas Mato Grosso a qual, por sua vez, retém as contribuições previdenciárias de Sandra, mas não as recolhe à Previdência Social, incorrendo assim, seu representante legal, no crime de apropriação indébita previdenciária;"
+      },
+      {
+        "letra": "C",
+        "texto": "Demóstenes é reclamado numa ação trabalhista e por ocasião da audiência inaugural, enquanto se davam as tratativas de acordo, folheava o processo quando disfarçadamente conseguiu retirar uma carta manuscrita por ele que comprovava o assédio sexual alegado pela autora da ação, a qual estava acostada nas últimas folhas dos autos físicos. Nesse caso, Demóstenes incorreu no crime tipificado pelo Código Penal como supressão de documento;"
+      },
+      {
+        "letra": "D",
+        "texto": "Tatiana é proprietária da empresa Varejão Norte Sul Ltda e tem por prática alterar os horários de trabalho dos empregados nos controles de ponto, registrando sempre horários de entrada posteriores e de saída anteriores aos reais, a fim de não efetuar o pagamento de horas extras. Com essa prática Tatiana incorre no crime de falsidade ideológica;"
+      },
+      {
+        "letra": "E",
+        "texto": "Joaquim, após o jogo do Brasil na copa do mundo, ficou tão decepcionado que no dia seguinte faltou ao serviço e para justificar a falta procurou um medico solicitando atestado. O médico, por sua vez, ao perceber o intuito de Joaquim se aproveitou e cobrou pelo atestado falso. No caso, estaria caracterizada a falsidade material, pois foi inserida informação falsa em documento verdadeiro. Entretanto, se Joaquim tivesse adquirido o referido atestado da secretária do médico, tendo ela própria o assinado contendo ainda o carimbo e CRM do profissional, ambos incorreram no crime de falsidade ideológica por ter sido alterada a verdade em documento falso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "406435",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: SEDS-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "Fulano da Silva, que está cumprindo a pena em regime fechado, apresentou atestado falso de prestação de serviço para fim de instruir seu pedido de remição. Diante de tal situação, a Lei de Execução Penal prevê que o condenado cometeu o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "Falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de documento falso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "395564",
+    "metadata": "Ano: 2014 | Banca: Aroeira | Órgão: PC-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "A falsificação de cartão de crédito ou de débito da Caixa Econômica Federal configura o crime de :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsificação de papéis públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade ideológica."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "392753",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir, acerca de crimes contra a administração pública e contra a fé pública.Considere que determinado servidor público, prevalecendo-se de seu cargo, tenha falsificado o teor de um testamento particular. Nesse caso, o servidor praticou o delito de falsificação de documento particular, que não se equipara a documento público, e está sujeito ao aumento da pena prevista na lei penal",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "382018",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Com intenção de praticar um crime de estelionato contra uma instituição financeira, Helena entregou para Agnaldo uma folha de papel em branco com sua assinatura para que este lavrasse uma simples declaração. No entanto, ao preencher a folha em branco, Agnaldo lavrou uma procuração e a levou ao Cartório do 1.º Ofício de Notas, Registro civil e Protestos do DF para reconhecimento de firma. Muito atarefado, Caio, tabelião substituto, esqueceu-se de conferir se Helena possuía cartão de autógrafos na serventia e reconheceu sua firma, sem a presença da subscritora do documento, e sem que constasse naquele estabelecimento o respectivo cartão de autógrafos.Considerando-se que até o momento a procuração não tenha sido utilizada por Agnaldo, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Helena e Caio não praticaram qualquer crime, porém, Agnaldo perpetrou o crime de falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "Helena e Caio não praticaram qualquer crime, porém, Agnaldo perpetrou o delito de falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Helena praticou crime de tentativa de estelionato; Agnaldo, de falsidade de documento particular; e Caio, de falso reconhecimento de firma."
+      },
+      {
+        "letra": "D",
+        "texto": "Helena não praticou crime; Agnaldo praticou falsidade ideológica; e Caio cometeu o delito de falso reconhecimento de firma."
+      },
+      {
+        "letra": "E",
+        "texto": "Helena não praticou crime; Agnaldo praticou falsificação de documento particular; e Caio cometeu o delito de falso reconhecimento de firma."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "377267",
+    "metadata": "Ano: 2014 | Banca: TRT 3R | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "No que concerne aos crimes de falsidade documental, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se funcionário altera documento público verdadeiro e comete tal crime prevalecendo-se do cargo, aumenta-se a pena em um terço."
+      },
+      {
+        "letra": "B",
+        "texto": "Constitui crime falsificar, no todo ou em parte, documento público, sendo a pena a de reclusão, de três a seis anos, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui crime dar o médico, no exercício da sua profissão, atestado falso, sendo a pena de detenção, de um mês a um ano."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui crime certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a isenção de ônus, sendo a pena de reclusão, de um a três anos."
+      },
+      {
+        "letra": "E",
+        "texto": "Constitui crime ocultar, em benefício de outrem, documento particular verdadeiro, de que não podia dispor, sendo a pena a de reclusão, de dois a seis anos, e multa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "372272",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena para o crime de falso reconhecimento de firma ou letra (art.300 do Código Penal) é a mesma, tenha a falsificação sido realizada em documento público ou particular."
+      },
+      {
+        "letra": "B",
+        "texto": "Para os efeitos penais, equiparam-se a documento público o emanado de entidade paraestatal, o título ao portador ou transmissível por endosso, as ações de sociedade comercial, os livros mercantis e o testamento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Incorre nas mesmas penas do crime de falsificação de documento público (art.297 do Código Penal) quem insere ou faz inserir na folha de pagamento ou em documento de informações que seja destinado a fazer prova perante a previdência social, pessoa que não possua a qualidade de segurado obrigatório."
+      },
+      {
+        "letra": "D",
+        "texto": "Para fins do crime de falsificação de documento particular (art.298 do Código Penal) equipara-se a documento particular o cartão de crédito ou débito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "441753",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Julgue os seguintes itens, relativos aos crimes de porte ilegal de arma de fogo, roubo e falsificação. O agente que falsificar cartão de crédito ou débito cometerá,em tese, o crime de falsificação de documento particular previsto no CP.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "353521",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "O empresário que inserir na carteira de trabalho e previdência social de seu empregado declaração diversa da que deveria ter escrito cometerá o crime de falsidade ideológica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1668505",
+    "metadata": "Ano: 2012 | Banca: FDC | Órgão: Prefeitura de Belo Horizonte - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "O tipo de crime que ocorre quando se omite intencionalmente em um documento declaração que nele deveria constar é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade ideológica"
+      },
+      {
+        "letra": "B",
+        "texto": "uso de documento falso"
+      },
+      {
+        "letra": "C",
+        "texto": "supressão de documento"
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade de documento público"
+      },
+      {
+        "letra": "E",
+        "texto": "falsidade de documento particular"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "397763",
+    "metadata": "Ano: 2012 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "O ato de atestar ou certificar falsamente fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é considerado crime somente se praticado por delegados do serviço notarial e de registro."
+      },
+      {
+        "letra": "B",
+        "texto": "só pode ser considerado crime se praticado em razão de função pública."
+      },
+      {
+        "letra": "C",
+        "texto": "é considerado crime somente se praticado por delegados do serviço notarial de registro e seus subordinados."
+      },
+      {
+        "letra": "D",
+        "texto": "somente pode ser considerado crime se praticado em razão de função pública e se provada a ocorrência de prejuízo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "372071",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trazer consigo documento público falsificado constitui crime de uso de documento falso, apenado com reclusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem configura crime de estelionato, apenado com reclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsificar, fabricando-o ou alterando-o, marca ou sinal empregado pelo poder público no contraste de metal precioso ou na fiscalização alfandegária, ou usar marca ou sinal dessa natureza, falsificado por outrem constitui crime apenado com detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "Atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo público constitui crime apenado com detenção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "271316",
+    "metadata": "Ano: 2012 | Banca: AOCP | Órgão: TCE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falso reconhecimento de firma ou letra",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante, configura o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "supressão de documento."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "falso reconhecimento."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de sinal público."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "270625",
+    "metadata": "Ano: 2012 | Banca: CETRO | Órgão: TJ-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falso reconhecimento de firma ou letra"
+    ],
+    "enunciado_principal": "A conduta de reconhecer, como verdadeira, no exercício de função pública, firma ou letra que não o seja, configura o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade material de atestado ou certidão."
+      },
+      {
+        "letra": "B",
+        "texto": "falso reconhecimento de firma ou letra."
+      },
+      {
+        "letra": "C",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação de documento público."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "265157",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Em relação aos crimes contra a fé pública previstos no Código Penal brasileiro é correto afirmar,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Excepcionalmente admitem a modalidade culposa quando se tratar de falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "Exigem como elemento a imitação ou alteração da verdade; a possibilidade de dano e o dolo."
+      },
+      {
+        "letra": "C",
+        "texto": "A alteração inapta a induzir número indeterminado de pessoas leva à consideração da forma tentada em qualquer caso."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime de moeda falsa, mesmo ausente a capacidade ilusória da contrafação, tem-se caracterizada sua consumação."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratando-se de crimes formais não admitem forma tentada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "264237",
+    "metadata": "Ano: 2012 | Banca: ESAF | Órgão: Receita Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falso reconhecimento de firma ou letra"
+    ],
+    "enunciado_principal": "Sebastião, condutor e proprietário de veículo automotor, recebe multa do órgão de trânsito estadual (DETRAN) cometida por ele. No entanto, ao preencher o documento, indica que o condutor era Manuel. Manuel acaba recebendo três pontos na carteira em razão do preenchimento incorreto de documento oficial do DETRAN. Com base nessa informação e na legislação penal, é correto afirmar que há crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de sinal público."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de documento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "falsificação de documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "falso reconhecimento de firma."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "262159",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "No que concerne aos crimes de falsidade documental, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a falsificação de testamento particular tipifica o delito de falsificação de documento público e a de duplicata o crime de falsificação de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "na falsidade ideológica é fraudada a própria forma do documento, alterada no todo ou em parte."
+      },
+      {
+        "letra": "C",
+        "texto": "o estelionato se exaure no falso e é por este absorvido quando não revele mais potencialidade lesiva, segundo entendimento sumulado do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "há concurso material de infrações se o agente, além de falsificar, também usar o documento fraudado, consoante pacífico entendimento dos Tribunais Superiores."
+      },
+      {
+        "letra": "E",
+        "texto": "configura causa de aumento da pena nos delitos de falsificação de documento público e falsidade ideológica a circunstância de o agente ser funcionário público e cometer o crime prevalecendo-se do cargo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "261894",
+    "metadata": "Ano: 2012 | Banca: TRT 24R (MS) | Órgão: TRT - 24ª REGIÃO (MS)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a organização do trabalho",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "“A” contratou “B” para trabalhar em 1º de março de 2011. Ao efetuar o registro do contrato de trabalho na Carteira de Trabalho e Previdência Social de “B”, “A” anotou a data de início do vínculo empregatício 1º de novembro de 2011. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ato praticado por “A” não constitui crime."
+      },
+      {
+        "letra": "B",
+        "texto": "O ato praticado por “A” constitui crime de supressão de informação."
+      },
+      {
+        "letra": "C",
+        "texto": "O ato praticado por “A” constitui crime de falsificação de documento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "O ato praticado por “A” constitui crime de falsidade ideológica."
+      },
+      {
+        "letra": "E",
+        "texto": "O ato praticado por “A” constitui crime de falsificação de documento público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "260464",
+    "metadata": "Ano: 2012 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "Assinale a alternativa que contém proposição incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime de falsificação de documento público, que consiste em falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro, a pena prevista é de reclusão, de dois a seis anos, e de pagamento de multa."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime de falsificação de documento público, para os efeitos penais, equiparam-se a documento público, dentre outros, o testamento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime de falsificação de documento público, se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, aumenta-se a pena de sexta parte."
+      },
+      {
+        "letra": "D",
+        "texto": "Incorre nas mesmas penas do crime de falsificação de documento particular quem insere ou faz inserir na folha de pagamento ou em documento de informações que seja destinado a fazer prova perante a previdência social, pessoa que não possua a qualidade de segurado obrigatório."
+      },
+      {
+        "letra": "E",
+        "texto": "Incorre na prática de crime de falsidade ideológica aquele que omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer insere declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "250631",
+    "metadata": "Ano: 2012 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Levando-se em conta uma denúncia que imputa ao réu a prática dos crimes de falsidade documental e estelionato, como deve agir o Magistrado em caso de sentença condenatória?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condenar o réu pela prática de ambos os crimes, em concurso material, somando-se a pena dos dois crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "Condenar o réu pelo crime de falso, eis que esse é o delito pelo qual se chegou ao estelionato, afastando a condenação por esse último."
+      },
+      {
+        "letra": "C",
+        "texto": "Condenar o réu por ambos os crimes, em concurso material, aplicando somente a pena do crime mais grave, aumentando- se de até metade diante do concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Condenar o réu apenas pelo crime de estelionato, pois quando o falso se exaure nesse delito sem mais potencialidade lesiva, é por ele absorvido e se aplica apenas a pena do estelionato, não havendo concurso material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "248682",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir, que versam sobre crimes relacionados às licitações e delitos contra a fé pública e as relações de consumo. O agente que falsificar e, em seguida, usar o documento falsificado responderá apenas pelo crime de falsificação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "235499",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "A falsificação de moeda e a falsificação de documento particular, bem como a falsidade ideológica e a falsidade de atestado médico, são crimes contra a fé pública. Os dois primeiros dizem respeito à forma do objeto falsificado, que é criado ou alterado materialmente pelo agente; os dois últimos referem-se à falsidade do conteúdo da declaração contida no documento, que, entretanto, é materialmente verdadeiro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "231579",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "No que concerne aos crimes contra a fé pública, é INCORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há crime se a falsidade ideológica versar sobre fato juridicamente irrelevante."
+      },
+      {
+        "letra": "B",
+        "texto": "não há falsidade ideológica se o conteúdo da declaração retrata a opinião do agente e não um fato."
+      },
+      {
+        "letra": "C",
+        "texto": "para a caracterização do crime de falsidade ideológica basta a potencialidade de um evento danoso."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de falsificação de documento particular pode ser praticado na forma dolosa ou culposa."
+      },
+      {
+        "letra": "E",
+        "texto": "o testamento particular é considerado documento público para os efeitos penais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "215768",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TCE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda",
+      "Falsidade de documento particular",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Quem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corrige erros materiais em um contrato comete crime de alteração de documento particular verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "desvia e faz circular moeda cuja circulação não estava autorizada só responde por crime contra a fé pública se a autorização para circulação não vier a ser dada."
+      },
+      {
+        "letra": "C",
+        "texto": "possui objeto especialmente destinado à falsificação de moeda só responde por crime contra a fé pública se vier a utilizá-lo efetivamente para a falsificação de moeda."
+      },
+      {
+        "letra": "D",
+        "texto": "comparece a juízo sob nome falso, a fim de manter- se isento da mácula nos registros públicos, comete crime de falsa identidade."
+      },
+      {
+        "letra": "E",
+        "texto": "restitui à circulação, tendo recebido de boa fé, como verdadeira, moeda falsa ou alterada, depois de conhecer a falsidade, não comete nenhum delito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "263837",
+    "metadata": "Ano: 2011 | Banca: TRT 15R | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular"
+    ],
+    "enunciado_principal": "João da Boavontade anotou a carteira de trabalho e previdência social de sua tia Maria Anunciação do Socorro, que, na verdade, jamais trabalhou ou foi sua empregada. Passou a efetuar o recolhimento . das contribuições previdenciárias, tanto daquelas devidas pela empregada, quanto das devidas pelo empregador. Pretendia, somente, permitir a irmã de sua mãe que passasse a receber beneficio previdenciário no momento a partir do qual fossem preenchidos os requisitos legais. E mais correto asseverar, na hipótese tratada, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João cometeu crime de falsificação de documento particular, sendo que as características da falsificação não interferem no exame da tipicidade;"
+      },
+      {
+        "letra": "B",
+        "texto": "a pena prevista para o crime cometido por João é a de reclusão, de 2 (dois) a 6 (seis) anos, e multa;"
+      },
+      {
+        "letra": "C",
+        "texto": "a pena prevista para o crime cometido por João é a de detenção ou de muita, porque o crime tem menor potencial agressivo à previdencia social;"
+      },
+      {
+        "letra": "D",
+        "texto": "João cometeu crime de falsificação de documento particular, contudo, cuidando-se de falsificação grosseira, facilmente perceptivel, não existe o delito;"
+      },
+      {
+        "letra": "E",
+        "texto": "não há crime, porque as contribuições foram quitadas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "214263",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TCE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica"
+    ],
+    "enunciado_principal": "A diferença entre falsidade material e ideológica de documento é que na falsidade material",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "frauda-se a forma do documento e na ideológica o conteúdo é falso."
+      },
+      {
+        "letra": "B",
+        "texto": "frauda-se o conteúdo e na ideológica a forma do documento."
+      },
+      {
+        "letra": "C",
+        "texto": "a conduta é omissiva, e no falso ideológico ela é comissiva."
+      },
+      {
+        "letra": "D",
+        "texto": "exige-se o dolo e na ideológica aceita-se a culpa."
+      },
+      {
+        "letra": "E",
+        "texto": "há previsão de aumento especial de pena e na ideológica não."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "209196",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: INFRAERO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "Paulo recebeu um cheque de R$ 300,00 em pagamento da venda de mercadoria. Depositado, o cheque foi devolvido por insuficiência de fundos. Novamente depositado, tornou a ser devolvido por insuficiência de fundos. Após seis meses, tendo ocorrido a prescrição, Paulo endossou o cheque e o transferiu a José, que alterou o valor para R$ 3.000,00 e ingressou em juízo com ação monitória contra o emitente. Nesse caso, José",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não responderá por nenhum delito porque o cheque estava prescrito."
+      },
+      {
+        "letra": "B",
+        "texto": "responderá por falsificação de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "responderá por falsificação de documento público."
+      },
+      {
+        "letra": "D",
+        "texto": "responderá por uso de documento público falso."
+      },
+      {
+        "letra": "E",
+        "texto": "responderá por uso de papel público alterado."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

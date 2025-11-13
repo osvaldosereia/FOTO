@@ -1,0 +1,400 @@
+[
+  {
+    "id": "2193853",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGM - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal",
+      "Efeitos secundários de natureza extrapenal genéricos"
+    ],
+    "enunciado_principal": "José, servidor público efetivo municipal, foi condenado por crime que causou prejuizo de R$ 100.000 ao município de São Paulo - SP.Considerando a situação apresentada, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obrigação de indenizar o dano causado pelo crime e a perda do cargo público são efeitos extrapenais genéricos da condenação. não se exigindo declaração expressa na sentença quanto à sua incidência."
+      },
+      {
+        "letra": "B",
+        "texto": "A obrigação de indenizar o dano causado pelo crime é efeito extrapenal especifico e a perda do cargo público é efeito extrapenal genérico da condenação, exigindo-se a declaração motivada na sentença unicamente em relação ao primeiro, desde que a pena aplicada seja superior a quatro anos."
+      },
+      {
+        "letra": "C",
+        "texto": "A obrigação de indenizar o dano causado pelo crime e a perda do cargo público são efeitos extrapenais específicos da condenação, devendo ambos ser motivadamente declarados na sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "A obrigação de indenizar o dano causado pelo crime é efeito extrapenal genérico e a perda do cargo público é efeito extrapenal específico da condenação, exigindo-se a declaração motivada na sentença unicamente em relação ao segundo, independentemente da pena aplicada."
+      },
+      {
+        "letra": "E",
+        "texto": "A obrigação de indenizar o dano causado pelo crime é efeito extrapenal genérico e a perda do cargo público é efeito extrapenal especifico da condenação, exigindo-se a declaração motivada na sentença unicamente em relação ao segundo, desde que a pena aplicada seja superior a quatro anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1014418",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de São José do Rio Preto - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal",
+      "Efeitos secundários de natureza extrapenal específicos"
+    ],
+    "enunciado_principal": "Assinale a hipótese que, nos termos do art. 92 do CP e respeitada a regra de motivação de seu parágrafo único, acarreta a perda de cargo, função pública ou mandato eletivo: condenação criminal à pena de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 meses, em crime praticado com violação de dever para com a Administração Pública."
+      },
+      {
+        "letra": "B",
+        "texto": "1 ano, em crime praticado com abuso de poder."
+      },
+      {
+        "letra": "C",
+        "texto": "2 anos, em qualquer crime contra o patrimônio."
+      },
+      {
+        "letra": "D",
+        "texto": "3 anos, em qualquer crime infamante."
+      },
+      {
+        "letra": "E",
+        "texto": "4 anos, em qualquer crime contra a fé pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "960494",
+    "metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "Em relação aos efeitos da condenação dispostos no Código Penal, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um dos efeitos da condenação é tornar certa a obrigação de indenizar o dano causado pelo crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Um dos efeitos da condenação é a perda em favor da União, ressalvado o direito do lesado ou de terceiro de boa-fé, do produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Um dos efeitos da condenação é a perda de cargo, função pública ou mandato eletivo quando aplicada pena privativa de liberdade por tempo igual ou superior a dois anos, nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Um dos efeitos da condenação é a incapacidade para o exercício do poder familiar, da tutela ou da curatela nos crimes dolosos sujeitos à pena de reclusão cometidos contra outrem igualmente titular do mesmo poder familiar, contra filho, filha ou outro descendente ou contra tutelado ou curatelado."
+      },
+      {
+        "letra": "E",
+        "texto": "Um dos efeitos da condenação é a inabilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "932149",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: Câmara Legislativa do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "O efeito da condenação de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tornar certa a obrigação de indenizar independe do dano causado pelo crime, mas depende de expressa motivação nos crimes dolosos."
+      },
+      {
+        "letra": "B",
+        "texto": "perda em favor do Estado da Federação do produto do crime depende de motivação declarada na sentença, pois não é um efeito automático."
+      },
+      {
+        "letra": "C",
+        "texto": "perda de bens e valores pode ser decretado mesmo quando o proveito ou produto do crime forem encontrados no Brasil."
+      },
+      {
+        "letra": "D",
+        "texto": "incapacidade para o exercício da tutela ou curatela ocorre em casos de crimes dolosos punidos com detenção quando praticados contra o tutelado ou curatelado."
+      },
+      {
+        "letra": "E",
+        "texto": "perda de cargo público ocorre em qualquer crime quando aplicada pena privativa de liberdade superior a 4 anos, se expressamente motivada na sentença."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "863514",
+    "metadata": "Ano: 2017 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "É consequência automática da condenação criminal transitada em julgado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a perda do mandato eletivo do Senador da República."
+      },
+      {
+        "letra": "B",
+        "texto": "a imediata suspenção de qualquer mandato eletivo."
+      },
+      {
+        "letra": "C",
+        "texto": "a perda do mandato eletivo do Deputado Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "a perda de qualquer mandato eletivo."
+      },
+      {
+        "letra": "E",
+        "texto": "a perda do mandato eletivo do Vereador."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "852770",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "Constitui efeito extrapenal secundário específico da condenação a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proibição do exercício de profissão, atividade ou ofício que dependam de habilitação especial, licença ou autorização do poder público."
+      },
+      {
+        "letra": "B",
+        "texto": "declaração de incapacidade para o exercício do pátrio poder, em caso de crime doloso sujeito à pena de reclusão cometido contra filho."
+      },
+      {
+        "letra": "C",
+        "texto": "suspensão de autorização ou de habilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso, pelo tempo da pena imposta."
+      },
+      {
+        "letra": "D",
+        "texto": "proibição de inscrever-se em concurso, avaliação ou exame públicos."
+      },
+      {
+        "letra": "E",
+        "texto": "proibição do exercício de cargo, função ou atividade pública, bem como de mandato eletivo, nos casos de crimes praticados com violação de dever funcional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "695616",
+    "metadata": "Ano: 2016 | Banca: Quadrix | Órgão: CRO - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir, relacionadas aos efeitos da condenação penal. I. Além de seus efeitos penais, a sentença proferida em processo criminal pode gerar outros efeitos, a exemplo de tornar certa a obrigação de reparar o dano causado pelo crime, ou mesmo fazer com que o condenado venha a perder eventual função pública. II. A sentença penal condenatória com trânsito em julgado evidencia, quando possível, o dano causado pelo agente mediante a prática de sua conduta típica, e gera para a vítima um título executivo judicial. III. Um dos efeitos da condenação penal é a perda, em favor da União, do produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso. IV. Se alguém, dolosamente, utilizar seu automóvel para causar lesão na vítima, um dos efeitos da condenação penal será a perda do veículo em favor da União. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e IV, somente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "640828",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: Prefeitura de Campinas - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "A perda do cargo ou função pública, como efeito da condenação criminal, ocorrerá quando aplicada pena privativa de liberdade por tempo superior a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quatro anos, nos crimes praticados com abuso de poder, violação de dever para com a Administração pública ou contra a probidade administrativa."
+      },
+      {
+        "letra": "B",
+        "texto": "seis meses, nos crimes praticados com violação de dever para com a Administração pública."
+      },
+      {
+        "letra": "C",
+        "texto": "três anos independentemente da natureza do bem lesado."
+      },
+      {
+        "letra": "D",
+        "texto": "cinco anos e somente na hipótese de crimes dolosos."
+      },
+      {
+        "letra": "E",
+        "texto": "um ano, nos crimes praticados com abuso de poder ou violação de dever para com a Administração pública ou por tempo superior a quatro anos nos demais casos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "620604",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza penal e de natureza extrapenal",
+      "Efeitos secundários de natureza extrapenal específicos"
+    ],
+    "enunciado_principal": "Um policial militar, em dia de folga e vestido com traje civil, se embriagou voluntariamente e saiu à rua armado, decidido a roubar um carro. Empunhando seu revólver particular, ele abordou um motorista e o ameaçou, obrigando-o a descer do automóvel. A vítima obedeceu, mas, ao perceber a embriaguez do assaltante, saiu correndo com as chaves do carro. Deparando-se adiante com uma viatura da polícia militar, relatou o ocorrido aos componentes da guarnição, que foram ao local e prenderam o policial em flagrante. Em decorrência de tais fatos, o policial foi submetido a processo penal que resultou na sua condenação em três anos, dez meses e vinte dias de reclusão pela tentativa de roubo.Com referência a essa situação hipotética, assinale a opção correta de acordo com a jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estando ausente qualquer relação da ação com o exercício do cargo público, a exoneração do serviço público como efeito da condenação extrapolaria as funções repressivas e preventivas da sanção penal."
+      },
+      {
+        "letra": "B",
+        "texto": "Na hipótese descrita e em casos semelhantes, sendo a pena privativa de liberdade inferior a quatro anos, a condenação por si só nunca implica a perda do cargo público."
+      },
+      {
+        "letra": "C",
+        "texto": "O policial militar não praticou crime funcional típico porquanto o delito previsto no art. 157 do CP — Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa — é comum e, por isso, o réu em questão não poderia ser afastado do cargo."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente não responderia por crime doloso porque estava em estado de embriaguez, sendo incapaz de entender o caráter criminoso de suas ações."
+      },
+      {
+        "letra": "E",
+        "texto": "O policial militar, mesmo fora do exercício da função, violou dever inerente a ela, porque está vinculado à administração pública no exercício das atividades cotidianas, sendo cabível a perda do cargo como efeito da condenação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "591359",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Efeitos secundários de natureza penal e de natureza extrapenal",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Anistia, graça e indulto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "A respeito dos efeitos da condenação, da ação penal e das causas de extinção da punibilidade previstas no Código Penal (CP), assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constitui efeito extrapenal automático da condenação pela prática do crime de corrupção passiva a perda do cargo ocupado por servidor, desde que a pena aplicada ao condenado seja igual ou superior a um ano."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo decadencial de seis meses para a propositura de queixa-crime por crime para o qual se prevê ação penal privada tem início na data em que ocorrer o fato contra o ofendido, independentemente do dia em que tenha tido conhecimento da identidade do autor do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "A perda do cargo público imposta na sentença penal condenatória, como efeito extrapenal, possui efeitos permanentes, contudo não implica impossibilidade de investidura em outro cargo público."
+      },
+      {
+        "letra": "D",
+        "texto": "As causas de extinção da punibilidade que atingem a pretensão executória eliminam todos os efeitos penais de eventual sentença condenatória, não podendo ser pressuposto da reincidência tampouco ser usada como título executivo judicial na área cível."
+      },
+      {
+        "letra": "E",
+        "texto": "A anistia destina-se a um indivíduo determinado, condenado irrecorrivelmente, podendo, assim como o indulto, ser concedida de forma total ou parcial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "464364",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Efeitos secundários de natureza penal e de natureza extrapenal"
+    ],
+    "enunciado_principal": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução______________; a lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores,_____________ .Assinale a alternativa que preenche, correta e respectivamente, as lacunas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "e os efeitos penais da sentença condenatória … desde que não decididos por sentença transitada em julgado"
+      },
+      {
+        "letra": "B",
+        "texto": "e os efeitos penais da sentença condenatória … ainda que decididos por sentença condenatória transitada em julgado"
+      },
+      {
+        "letra": "C",
+        "texto": "e os efeitos penais da sentença condenatória, excluídos os efeitos civis … desde que não decididos por acórdão transitado em julgado"
+      },
+      {
+        "letra": "D",
+        "texto": "e os efeitos penais da sentença condenatória, excluídos os efeitos civis … ainda que decididos por sentença con- denatória transitada em julgado"
+      },
+      {
+        "letra": "E",
+        "texto": "mas mantidos os efeitos penais da sentença condenatória … desde que não decididos por sentença transitada em julgado"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "415124",
+    "metadata": "Ano: 2014 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Efeitos secundários de natureza penal e de natureza extrapenal",
+      "Efeitos secundários de natureza extrapenal genéricos",
+      "Efeitos secundários de natureza extrapenal específicos"
+    ],
+    "enunciado_principal": "Os efeitos específicos da condenação, segundo regula o Código Penal Brasileiro, são automáticos, não havendo necessidade de serem explicitados na sentença.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

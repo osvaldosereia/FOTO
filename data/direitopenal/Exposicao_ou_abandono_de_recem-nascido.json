@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1855772",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Induzimento, instigação ou auxílio ao suicídio",
+      "Lesões corporais",
+      "Lesões corporais qualificadas",
+      "Periclitação da vida e da saúde",
+      "Exposição ou abandono de recém-nascido",
+      "Maus tratos"
+    ],
+    "enunciado_principal": "Do ponto de vista legislativo, constitui espécie de crime contra a vida:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão corporal seguida de morte;"
+      },
+      {
+        "letra": "B",
+        "texto": "abandono de recém-nascido com resultado morte;"
+      },
+      {
+        "letra": "C",
+        "texto": "maus-tratos com resultado morte;"
+      },
+      {
+        "letra": "D",
+        "texto": "instigação, auxílio ou induzimento à automutilação;"
+      },
+      {
+        "letra": "E",
+        "texto": "tortura com resultado morte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1673249",
+    "metadata": "Ano: 2020 | Banca: ADM&TEC | Órgão: Prefeitura de Gravatá - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Exposição ou abandono de recém-nascido",
+      "Crimes contra a organização do trabalho",
+      "Crimes contra a incolumidade pública",
+      "Crimes contra a segurança dos meios de transporte e outros serviços públicos"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir: I. De acordo com o Código Penal, realizar um ato que exponha a perigo um meio de transporte público, que impeça ou dificulte o seu funcionamento é uma ação sujeita à pena de detenção, de um a dois meses. Se esse fato resulta em um desastre, a pena é de reclusão, de dois a cinco meses. No caso de culpa, se ocorre desastre, a pena é de detenção, de três a seis anos, conforme o artigo 262, § 1º e § 2º, do Decreto-lei nº 2.848, de 1940. II. Expor ou abandonar um recém-nascido, com o objetivo de ocultar uma desonra própria, é uma ação que prevê pena de detenção, de seis a oito anos, conforme disposto no Código Penal. Se esse fato resulta em uma lesão corporal de natureza grave no recém-nascido, a pena é de detenção, de um a três meses. Se esse ato resulta na morte do recém-nascido, a pena é de detenção, de oito a doze anos, conforme previsto no artigo 134, § 1º e § 2º, do Código Penal. III. Participar de suspensão ou abandono coletivo de trabalho, praticando violência contra uma pessoa ou contra uma coisa, é uma atitude sujeita à pena de detenção, de um mês a um ano, e multa, além da pena correspondente à violência. Nesse caso, para que se considere coletivo o abandono de trabalho é indispensável o concurso de, pelo menos, três empregados, conforme previsto no artigo 200, Parágrafo único, do Decreto-lei nº 2.848, de 1940. Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma afirmativa está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas uma afirmativa está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas duas afirmativas estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "964559",
+    "metadata": "Ano: 2018 | Banca: IMA | Órgão: Prefeitura de Caxias - MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Periclitação da vida e da saúde",
+      "Perigo para a vida ou a saúde de outrem",
+      "Exposição ou abandono de recém-nascido",
+      "Maus tratos",
+      "Crimes contra a honra",
+      "Calúnia"
+    ],
+    "enunciado_principal": "Com relação ao disposto no Código Penal, Lei nº 2.848 de 7 de dezembro de 1940 - Crimes contra a Pessoa e contra o Patrimônio, marque a relação incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina / Pena - detenção, de dois meses a um ano, ou multa."
+      },
+      {
+        "letra": "B",
+        "texto": "Caluniar alguém, imputando-lhe falsamente fato definido como crime / Pena - reclusão, de um a cinco anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Expor a vida ou a saúde de outrem a perigo direto e iminente / Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave."
+      },
+      {
+        "letra": "D",
+        "texto": "Expor ou abandonar recém-nascido, para ocultar desonra própria / Pena - detenção, de seis meses a dois anos."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

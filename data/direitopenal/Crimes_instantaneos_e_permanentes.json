@@ -1,0 +1,784 @@
+[
+  {
+    "id": "2211326",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes instantâneos e permanentes",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público"
+    ],
+    "enunciado_principal": "Em determinado cartório de notas e protestos, Tatiana apresentou uma carteira de identidade com a sua foto, mas com o nome de outra pessoa, a qual havia previamente produzido a completa falsificação do documento, tendo-o confeccionado mediante o uso de impressora eletrônica colorida. No estabelecimento cartorial, Tatiana fez uso do citado documento, por meio do qual se passou pela subscritora de documentos que atestavam o adimplemento de dívidas de empresas, destinados ao cancelamento de protestos, com vistas ao reconhecimento, pelo tabelião, das firmas em tais documentos. Ao manusear o documento, a escrevente desconfiou de sua veracidade e chamou sua supervisora. Esta, por sua vez, pediu auxílio ao tabelião, o qual, por fim, fez alguns questionamentos a Tatiana, que acabou reconhecendo que aquele documento era falso e que tinha conhecimento de sua falsidade. Em seguida, o tabelião acionou a polícia militar e Tatiana foi presa em flagrante delito. A partir dessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tatiana cometeu o delito de falsificação de documento público, consistente no ato de falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de Tatiana é atípica, em razão da falsidade grosseira do documento."
+      },
+      {
+        "letra": "C",
+        "texto": "Tatiana cometeu delito cuja consumação depende da obtenção de proveito ou da inflição de prejuízo pretendido por seu autor."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito praticado por Tatiana atenta contra a fé pública documental e admite tanto a forma omissiva quanto a comissiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Tatiana praticou delito de mera atividade e instantâneo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2113548",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Lei penal no espaço",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O crime permanente é aquele cujo resultado prolonga-se no tempo, atraindo a aplicação da lei penal vigente ao término do resultado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2061750",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: POLC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "A partir dessa situação hipotética e considerando o direito penal vigente, julgue o item a seguir.Almir não responderá por nenhum crime, uma vez que praticou a conduta ainda quando menor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1995211",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: SEAD-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes",
+      "Imputabilidade penal"
+    ],
+    "enunciado_principal": "Alice, 16 anos, foi sequestrada por Túlio, três dias antes de Túlio completar 18 anos. Após passar 9 dias em cativeiro, as investigações para encontrar Alice foram bem sucedidas e Alice foi então libertada. Nessa situação hipotética, podemos afirmar que Túlio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve responder por ato infracional análogo ao crime de sequestro e cárcere privado."
+      },
+      {
+        "letra": "B",
+        "texto": "será considerado inimputável e não será penalmente responsabilizado."
+      },
+      {
+        "letra": "C",
+        "texto": "será considerado inimputável e será penalmente responsabilizado."
+      },
+      {
+        "letra": "D",
+        "texto": "será considerado imputável para todos os fins penais, porque trata-se de crime continuado, em que a consumação se prolonga no tempo."
+      },
+      {
+        "letra": "E",
+        "texto": "será considerado imputável para todos os fins penais, porque trata-se de crime permanente, em que a consumação se prolonga no tempo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1860053",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que diz respeito à lei penal, julgue o item que se segue.Ao crime continuado e ao crime permanente é aplicada a lei penal mais grave caso a sua vigência seja anterior à cessação da continuidade ou da permanência.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1866108",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito dos princípios aplicáveis ao direito penal, da lei penal no tempo e no espaço e da irretroatividade da lei penal. Caso um indivíduo cometa um crime permanente, sob a vigência de duas leis diversas, aplicar-se-á ao caso a lei mais benéfica ao agente, em atenção à irretroatividade da lei penal mais gravosa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1829189",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Acerca dos crimes patrimoniais, julgue o item seguinte.Configura-se o crime permanente de furto de energia elétrica quando o agente instala, no interior da residência, dispositivo para alteração do medidor de energia localizado na parte externa do muro da casa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "897312",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: PC-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as assertivas a seguir, de acordo com a classificação doutrinária dos crimes: I. Os crimes formais também podem ser definidos como crimes de resultado cortado. II. O crime de furto é classificado como crime instantâneo, porém há a possibilidade de um crime de furto ser considerado, eventualmente, crime permanente. III. O crime de lesão corporal grave em decorrência da incapacidade para as ocupações habituais por mais de 30 dias é classificado, em relação ao momento consumativo, como um crime a prazo. IV. Pode-se dizer que o crime de tráfico de drogas, previsto no artigo 33, caput, da Lei nº 11.343/2006, é um exemplo de crime de perigo abstrato e unissubjetivo. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "890891",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Causas supralegais de exclusão da antijuridicidade",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale aquela que, à luz da doutrina, seja considerada INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o tipo penal descreve, expressa ou implicitamente, o dissenso da vítima como elementar, o consentimento do ofendido, na hipótese, funciona como causa de exclusão da tipicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto ao modo de execução, o crime de perigo de contágio venéreo – art. 130, do CP – é classificado pela doutrina como sendo de forma vinculada."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de fato transitório é aquele que não deixa vestígios, a exemplo da injúria verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação aos crimes omissivos puros, exige-se a ocorrência de resultado naturalístico, uma vez que a simples omissão contida na norma não basta para que eles se aperfeiçoem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "890890",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O art. 14, II, Parágrafo único, do Código Penal, estabelece que “salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços”. Excepcionalmente, contudo, a lei penal pátria descreve condutas cujo tipo prevê a punição da tentativa com a mesma pena abstratamente aplicável ao crime consumado. É o que sucede, v.g., com o crime tipificado no art. 352, do Código Penal: “Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa”: Tal espécie delitiva é classificada pela doutrina como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime vago."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de impressão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "866722",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que se refere à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime habitual, as ações que o compõem, consideradas isoladamente, não constituem crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime à distância, a conduta dá-se em um local e a produção, em outro, dentro do mesmo país."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime preterintencional, há a conjugação da ação culposa no evento antecedente com o dolo no resultado consequente."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes omissivos impróprios se perfazem com a mera abstenção da realização de um ato, independentemente de um resultado posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes instantâneos de efeitos permanentes, a consumação do crime perdura até quando o sujeito quiser."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "849245",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que tange à classificação dos delitos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os crimes de mão própria possuem uma prévia limitação, de natureza normativa, quanto à possibilidade de autoria de indivíduos não contemplados pelo tipo penal."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de favorecimento à prostituição é classificado como crime instantâneo de habitualidade preexistente."
+      },
+      {
+        "letra": "C",
+        "texto": "o agente responderá, no tipo misto alternativo, por todos os crimes que sua conduta alcançar, atingindo mais de um núcleo enunciado na norma."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de prevaricação é classificado como delito especial próprio e, quando praticado por agente estranho à administração pública, encontra correlação com outra conduta tipificada em dispositivo penal diverso."
+      },
+      {
+        "letra": "E",
+        "texto": "a multiplicidade de condutas por parte do agente, uma vez que existe mais de um núcleo, torna-se obrigatória no tipo misto cumulativo, para que o delito seja consumado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "842151",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes",
+      "Crimes contra o patrimônio",
+      "Estelionato"
+    ],
+    "enunciado_principal": "O item a seguir, a respeito de crimes contra o patrimônio, apresenta uma situação hipotética seguida de uma assertiva a ser julgada à luz da doutrina e da jurisprudência pertinentes. Maria não informou ao INSS o óbito de sua genitora e continuou a utilizar o cartão de benefício de titularidade da falecida pelo período de dez meses. Nessa situação, Maria praticou estelionato de natureza previdenciária, classificado, em decorrência de sua conduta, como crime permanente, de acordo com o entendimento do STJ.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "647126",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Rubens, estelionatário que mora na cidade de Goiânia, onde é funcionário de um banco, realizou fraudes emitindo boletos que lhe foram pagos nas cidades de São Paulo e Porto Alegre, a partir de contas bancárias de pessoas que não percebiam que os valores lhes estavam sendo subtraídos. Nessa situação hipotética, conforme o direito penal brasileiro, considera(m)-se lugar do crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "qualquer uma das cidades mencionadas, visto que, no Brasil, se adota a teoria mista ou da ubiquidade."
+      },
+      {
+        "letra": "B",
+        "texto": "qualquer uma das cidades mencionadas, visto que, no Brasil, se adota a teoria do resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "qualquer uma das cidades mencionadas, visto que, no Brasil, se adota a teoria da atividade."
+      },
+      {
+        "letra": "D",
+        "texto": "somente a cidade de Goiânia, porque foi lá que Rubens praticou as ações criminosas."
+      },
+      {
+        "letra": "E",
+        "texto": "somente as cidades de São Paulo ou Porto Alegre, porque nessas cidades se deu o resultado pretendido por Rubens."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1200777",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que diz respeito à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do crime formal, faz-se necessária a demonstração da situação de risco do bem juridicamente protegido."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime plurissubsistente, a ação e o resultado típico separam-se espacialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime permanente consuma-se com a ocorrência do resultado, independentemente da atividade do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de crime de dupla subjetividade passiva, haverá somente um único crime, ainda que seja praticada mais de uma entre as várias modalidades de condutas previstas no tipo penal do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime omissivo próprio é aquele cujo agente produz um resultado por meio da omissão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "555067",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Crimes contra a vida",
+      "Crimes contra o patrimônio"
+    ],
+    "enunciado_principal": "À luz da jurisprudência do Supremo Tribunal Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há crime de latrocínio, quando o homicídio se consuma, mas o agente não realiza a subtração de bens da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite-se a suspensão condicional do processo por crime continuado, se a soma da pena mínima da infração mais grave com o aumento mínimo de um sexto for superior a um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "A opinião do julgador sobre a gravidade em abstrato do crime constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se sua vigência é anterior à cessação da continuidade ou da permanência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "361633",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PGE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes",
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Crimes contra o patrimônio",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Conforme o STF, o crime de estelionato previdenciário praticado por terceiro não beneficiário tem natureza de crime instantâneo de efeitos permanentes, razão por que seu prazo prescricional começa a fluir da percepção da primeira parcela do benefício.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "361241",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Penas privativas de liberdade",
+      "Progressão de regime penitenciário",
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Requisitos para a concessão",
+      "Condições a serem impostas no curso do benefício"
+    ],
+    "enunciado_principal": "De acordo com entendimento sumulado do Supremo Tribunal Federal, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pena unificada para atender ao limite de trinta anos de cumprimento, determinado pelo art. 75 do Codigo Penal, é considerada, para concessão de outros benefícios, como livramento condicional ou regime mais favorável de execução."
+      },
+      {
+        "letra": "B",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se sua vigência é anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "C",
+        "texto": "Impede a progressão de regime de execução de pena, fixada em sentença não transitada em julgado, o fato de o réu se encontrar em prisão especial."
+      },
+      {
+        "letra": "D",
+        "texto": "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir não exige motivação idônea"
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se a suspensão condicional do processo por crime continuado, se a soma da pena mínima da infração mais grave com o aumento mínimo de um sexto for superior a um ano"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "360492",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Livramento condicional",
+      "Extinção da pena",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais"
+    ],
+    "enunciado_principal": "Com fundamento nas súmulas dos tribunais superiores, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz não pode declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responda o liberado, por crime ou contravenção praticados na vigência do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "É possível a aplicação retroativa de lei penal vigente em combinação com a lei penal revogada, desde que o resultado da incidência de leis penais combinadas seja favorável ao acusado."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena substitutiva de prestação de serviços à comunidade pode figurar como condição especial ao regime aberto."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplicar-se-á ao crime continuado ou ao crime permanente, se a sua vigência for anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "E",
+        "texto": "O ato infracional análogo ao tráfico de drogas conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "957248",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Assinale a alternativa que corresponde a crime permanente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cárcere privado."
+      },
+      {
+        "letra": "B",
+        "texto": "homicídio."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "lesão corporal."
+      },
+      {
+        "letra": "E",
+        "texto": "estelionato."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "350908",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes",
+      "Legislação Penal Especial"
+    ],
+    "enunciado_principal": "Com base nessa situação hipotética e considerando que o Estatuto do Idoso (Lei n.º 10.741, de 1.º /10/2003) inseriu, no § 1.º do art. 159 do CP, a expressão “ou maior de 60 anos”, estabelecendo, para esse caso, pena entre doze e vinte anos de reclusão, muito superior à prevista no caput do referido artigo (de oito a quinze anos) e que, por isso, a conduta de Jonas amoldou-se a essa nova qualificação, julgue os itens a seguir. Sendo a extorsão com sequestro crime permanente, a sua consumação se protrai no tempo, renovando-se a cada momento. Por isso, na hipótese em apreço, incide a norma qualificadora editada durante o período da privação da liberdade de Márcio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "350776",
+    "metadata": "Ano: 2013 | Banca: IBFC | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Considerando a classificação doutrinária dada às infrações penais, analise as assertivas a seguir: I. Crime próprio é aquele que exige sujeito ativo especial ou qualificado, não admitindo coautoria ou participação de quem não guarde tais características peculiares. II. Crime permanente é aquele cuja consumação se protrai no tempo em decorrência de várias condutas que sucedem o ato inicial, caracterizando habitualidade da espécie delitiva. III. Crime instantâneo é aquele cuja consumação ocorre com a prática de uma única conduta geradora de resultado imediato. IV. Crime de perigo é aquele cuja consumação se caracteriza com a mera probabilidade de lesão ao bem jurídico protegido pela norma penal. V. Crime multitudinário é aquele que exige, para sua caracterização, o concurso necessário de duas ou mais pessoas, apesar de não existir a necessidade de que todas elas sejam penalmente punidas. Estão corretas apenas as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III eV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "332055",
+    "metadata": "Ano: 2013 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "J, QUE NUNCA GOSTOU MUITO DE TRABALHAR E CONTANDO SOMENTE COM 15 ANOS DE SERVIÇO, RESOLVEU SE APOSENTAR. PEDIU ENTÃO A SEU AMIGO K, SERVIDOR DO INSS ENCARREGADO DA HABILITAÇÃO DE BENEFÍCIOS NO POSTO PAVUNA/RJ, QUE LHE CONSEGUISSE A APOSENTAÇÃO. K, QUE JÁ HAVIA HABILITADO ALGUNS BENEFÍCIOS IRREGULARES ANTES, RESOLVE AJUDAR E INSERE NO SISTEMA DA PREVIDÊNCIA SOCIAL DADOS FALSOS DE VÍNCULOS EMPREGATÍCIOS, TOTALIZANDO OS 35 ANOS NECESSÁRIOS À CONCESSÃO DO BENEFÍCIO DE APOSENTADORIA DE J. ESTE COMEÇOU A RECEBER O BENEFÍCIO INDEVIDO EM 01/09/2009 E CONTINUOU A RECEBÊ-LO ININTERRUPTAMENTE ATÉ JUNHO DE 2013, QUANDO A FORÇA-TAREFA COMPOSTA DE AUDITORES DO INSS E MEMBROS DO MPF, AUDITANDO AS CONCESSÕES EFETUADAS NO POSTO PAVUNA/RJ, DESCOBRE A FRAUDE E O CANCELA. DIANTE DISSO E CONSIDERANDO A SÓLIDA JURISPRUDÊNCIA DOS TRIBUNAIS SUPERIORES É CORRETO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As condutas de J e de K configuram crime instantâneo de efeitos permanentes."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de J configura crime permanente e a de K crime instantâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta de J configura crime permanente e a de K crime instantâneo de efeitos permanentes."
+      },
+      {
+        "letra": "D",
+        "texto": "As condutas de J e de K configuram crime permanente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "252541",
+    "metadata": "Ano: 2011 | Banca: FUJB | Órgão: MPE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes instantâneos e permanentes",
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos"
+    ],
+    "enunciado_principal": "Após o regular patrocínio de ação indenizatória contra determinado Município, a advogada PORTIA, induzindo a erro seu cliente SHYLOCK, levou-o a assinar instrumento procuratório que lhe transferia os poderes de quitação, recebimento e levantamento de diversos valores, obtendo para si, especificamente, vultoso crédito a ser por ele recebido do referido ente público, através de precatório. Visando à aferição do iníciodo marcoprescricional, é correto afirmarque a circunstância de a satisfação do crédito se dar por meio de precatório:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não alteraria a conduta praticada pela agente, a qual consubstancia crime instantâneo, considerando-se a data da prática do ato, sendo irrelevante a circunstância de os efeitos terem se projetado no tempo, mediante percepção das parcelas;"
+      },
+      {
+        "letra": "B",
+        "texto": "alteraria a conduta praticada pela agente, a qual consubstancia crime instantâneo, considerando-se a data da percepção das parcelas, circunstância que se projeta no tempo;"
+      },
+      {
+        "letra": "C",
+        "texto": "não alteraria a conduta praticada pela agente, a qual consubstancia crime permanente, considerando-se como início a data da prática do ato e sua duração que se protrai no tempo, enquanto persistir a percepção das parcelas;"
+      },
+      {
+        "letra": "D",
+        "texto": "alteraria a conduta praticada pela agente, a qual consubstancia crime permanente, considerando-se a data da prática do ato, sendo irrelevante a circunstância de os efeitos terem se perpetuado no tempo, mediante percepção das parcelas;"
+      },
+      {
+        "letra": "E",
+        "texto": "alteraria a conduta praticada pela agente, a qual consubstancia crime formal, considerando-se a data da prática do ato, sendo irrelevante a circunstância de os efeitos terem se projetado no tempo, mediante percepção das parcelas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "172446",
+    "metadata": "Ano: 2011 | Banca: FMP Concursos | Órgão: TCE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Conceitos e caracteres",
+      "Princípios limitadores do poder punitivo estatal",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Em matéria de lei penal, observe as seguintes afirmativas: I. É possível a edição de medida provisória relativa a direito penal, desde que em benefício do réu. II. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais benéfica ao crime permanente, se a sua vigência é anterior à cessação da permanência. III. Consoante entendimento do Supremo Tribunal Federal, aplica-se a lei mais grave ao crime continuado, se a sua vigência é anterior à cessação da continuidade. IV. Consoante entendimento mais recente do Supremo Tribunal Federal, é possível a combinação de leis penais para beneficiar o réu. Pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todas as assertivas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "estão corretas somente as alternativas I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "estão corretas somente as alternativas III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "estão corretas somente as alternativas II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "está correta somente a alternativa III."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

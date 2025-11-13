@@ -1,0 +1,34 @@
+[
+  {
+    "id": "798593",
+    "metadata": "Ano: 2017 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a família",
+      "Bigamia",
+      "Induzimento a erro essencial e ocultação de impedimento",
+      "Sonegação de estado de filiação",
+      "Entrega de filho menor a pessoa inidônea"
+    ],
+    "enunciado_principal": "Sobre os crimes contra a família, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Que no crime de “registrar como seu filho de outrem”, que a doutrina denomina “adoção à brasileira”, admite-se, presente o motivo de reconhecida nobreza, privilégio e até mesmo perdão judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "Que o crime de entrega de filho menor a pessoa inidônea admite formas dolosa e culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "Que ao definir o crime de bigamia, houve por bem o direto brasileiro excepcionar a teoria monista, cominando ao concorrente para a sua prática pena mais branda que a atribuída ao autor."
+      },
+      {
+        "letra": "D",
+        "texto": "Que o crime de induzimento a erro essencial e ocultação de impedimento ao matrimônio é caso de ação penal privada personalíssima."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

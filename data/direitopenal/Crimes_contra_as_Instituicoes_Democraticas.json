@@ -1,0 +1,71 @@
+[
+  {
+    "id": "2522186",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Noções Gerais dos Crimes Contra o Estado Democrático de Direito",
+      "Crimes contra a Soberania Nacional",
+      "Crimes contra as Instituições Democráticas",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral"
+    ],
+    "enunciado_principal": "Sobre os crimes contra o Estado Democrático de Direito, criados pela Lei nº 14.197/2021, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É crime impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Não constitui crime contra o Estado Democrático de Direito a manifestação crítica aos poderes constitucionais, a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, reuniões, greves, aglomerações ou qualquer outra forma de manifestação política com propósitos sociais."
+      },
+      {
+        "letra": "C",
+        "texto": "Alguns dos envolvidos nos atos de 8 de janeiro de 2023 foram condenados pela prática dos crimes de associação criminosa armada, abolição violenta do Estado Democrático de Direito, tentativa de golpe de Estado, dano qualificado e deterioração de patrimônio tombado."
+      },
+      {
+        "letra": "D",
+        "texto": "O entendimento do STF para os atos de 8 de janeiro foi o de que, ao invadir os prédios dos três Poderes, os participantes estavam cometendo o crime “Abolição violenta do Estado Democrático de Direito”, que tem pena de 4 a 8 anos de prisão, e, ao mesmo tempo, o crime de “Golpe de Estado”, cuja pena é de 4 a 12 anos de reclusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve incidir o princípio da consunção, devendo o crime de “Abolição violenta do Estado Democrático de Direito” ser absorvido pelo crime de “Golpe de Estado”, cuja pena é maior."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2388754",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra as Instituições Democráticas"
+    ],
+    "enunciado_principal": "Entre os crimes contra as instituições democráticas, a conduta de tentar depor, por meio de grave ameaça, o governo legitimamente constituído é considerada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica."
+      },
+      {
+        "letra": "B",
+        "texto": "crime definido pelo CP como golpe de Estado, devendo ser aplicada a redução da pena de um a dois terços em razão da tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "crime definido pelo CP como golpe de Estado, não havendo previsão de redução da pena em razão da tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "crime à luz do Código Penal, inclusive quando praticada por meio de manifestação crítica aos poderes constitucionais."
+      },
+      {
+        "letra": "E",
+        "texto": "crime definido pelo CP como violência política, quando ocasionar a destruição de estabelecimentos, instalações ou serviços destinados à defesa nacional."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

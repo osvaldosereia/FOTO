@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3042004",
+    "metadata": "Ano: 2023 | Banca: COTEC | Órgão: Prefeitura de Jequitinhonha - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Crimes praticados por particular contra administração pública estrangeira"
+    ],
+    "enunciado_principal": "Em 11 de junho de 2002, a Lei n.º 10.467 inclui, no Título XI do Código Penal Brasileiro, o “Capítulo II-A” com o objetivo de dar efetividade ao Decreto n.º 3.678, de 30 de novembro de 2000, que promulgou a Convenção sobre o Combate da Corrupção de Funcionários Públicos Estrangeiros em Transações Comerciais. Para efeitos da nova normatização, considera-se funcionário público estrangeiro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quem exerce cargo, emprego ou função em empresas controladas, diretamente, pelo Poder Público de país estrangeiro ou em organizações públicas internacionais."
+      },
+      {
+        "letra": "B",
+        "texto": "quem exerce cargo, emprego ou função em entidade paraestatal e quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica de Administração Pública Internacional."
+      },
+      {
+        "letra": "C",
+        "texto": "quem, ainda que transitoriamente com remuneração, exerce cargo, emprego ou função pública em entidades multinacionais ou em representações diplomáticas de país estrangeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "quem exerce cargo, emprego ou função em entidade estatal ou multinacional e quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica da Administração Pública."
+      },
+      {
+        "letra": "E",
+        "texto": "quem, ainda que transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública em entidades estatais ou em representações diplomáticas de país estrangeiro."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

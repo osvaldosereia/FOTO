@@ -1,0 +1,405 @@
+[
+  {
+    "id": "2035776",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Acerca da classificação dos crimes, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de falsificação de papéis públicos, se praticado por servidor público prevalecendo-se do cargo, é um crime especial impróprio, ao passo que, se praticado por particular, é um crime comum."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de mão própria caracteriza-se por seu caráter personalíssimo, somente o agente pode praticá-lo. Por isso, o crime de auto aborto é um exemplo de crime de mão própria, insuscetível de coautoria ou participação."
+      },
+      {
+        "letra": "C",
+        "texto": "Os crimes plurissubjetivos são aqueles em que há, além do agente, uma pessoa física ou jurídica no polo passivo, ocupando a posição de vítima direta do ilícito penal, ao passo que os crimes unissubjetivos se identificam pela inexistência de vítima identificável."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes omissivos impróprios são aqueles que, embora previstos como consequência de conduta comissiva, podem, eventualmente, serem praticados por omissão. É o caso do delito de omissão de socorro."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes de perigo abstrato são os delitos que causam efetiva exposição do bem jurídico tutelado a perigo, devendo haver indicação do risco, o qual não pode ser presumido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1875630",
+    "metadata": "Ano: 2022 | Banca: OBJETIVA | Órgão: Prefeitura de Varginha - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos"
+    ],
+    "enunciado_principal": "De acordo com CAPEZ, em relação às espécies de crimes e suas subdivisões quanto ao concurso de pessoas, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: ( ) Nos crimes plurissubjetivos de condutas paralelas, as condutas auxiliam-se mutuamente, visando à produção de um resultado comum. Todos os agentes unem-se em prol de um objetivo idêntico, no sentido de concentrar esforços para a realização do crime. É o caso da associação criminosa, em que todas as condutas voltamse para a consecução do mesmo fim, no caso, a prática de crimes. ( ) Nos crimes plurissubjetivos de condutas convergentes, as condutas são praticadas umas contra as outras. Os agentes são, ao mesmo tempo, autores e vítimas. Como exemplo disso, cita-se o crime de rixa. ( ) Nos crimes plurissubjetivos de condutas contrapostas, as condutas tendem a encontrar-se, e, desse encontro, surge o resultado. Não se voltam, portanto, para frente, para o futuro, na busca da consecução do resultado delituoso, mas, ao contrário, uma se dirige à outra, e desse encontro resulta o delito. Como exemplo disso, cita-se o crime de bigamia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C - C - E."
+      },
+      {
+        "letra": "B",
+        "texto": "E - C - C."
+      },
+      {
+        "letra": "C",
+        "texto": "C - E - E."
+      },
+      {
+        "letra": "D",
+        "texto": "E - C - E."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1860612",
+    "metadata": "Ano: 2021 | Banca: Quadrix | Órgão: CRBio-6ª Região",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes contra a administração pública",
+      "Inserção de dados falsos em sistema de informações"
+    ],
+    "enunciado_principal": "Acerca do crime de inserção de dados falsos em sistema de informações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um crime culposo, necessariamente comissivo, formal e instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "É um crime doloso, necessariamente omissivo, instantâneo e transeunte."
+      },
+      {
+        "letra": "C",
+        "texto": "É um crime doloso, comissivo ou omissivo, plurissubsistente e transeunte."
+      },
+      {
+        "letra": "D",
+        "texto": "É um crime doloso, instantâneo, monossubjetivo e plurissubsistente."
+      },
+      {
+        "letra": "E",
+        "texto": "É um crime doloso ou culposo, instantâneo, monossubjetivo e transeunte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1617770",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: PRF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Rixa"
+    ],
+    "enunciado_principal": "No que se refere a aspectos legais relacionados aos procedimentos policiais, julgue o item a seguir. Os participantes de uma rixa são simultaneamente sujeitos ativos e passivos uns em relação aos outros, pois o crime de rixa é plurissubjetivo, devendo ter, pelo menos, três contendores para ser caracterizado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1010450",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes contra a dignidade sexual",
+      "Divulgação de cena de estupro de vulnerável, de cena de sexo ou de pornografia"
+    ],
+    "enunciado_principal": "O crime de divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia, previsto no artigo 218-C do Código Penal, pode ser classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum, material, comissivo, unissubjetivo, culposo, principal."
+      },
+      {
+        "letra": "B",
+        "texto": "comum, formal, comissivo, unissubjetivo, doloso, subsidiário."
+      },
+      {
+        "letra": "C",
+        "texto": "especial, formal, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      },
+      {
+        "letra": "D",
+        "texto": "especial, material, comissivo ou omissivo, unissubjetivo, doloso, principal."
+      },
+      {
+        "letra": "E",
+        "texto": "comum, material, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "890891",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Causas supralegais de exclusão da antijuridicidade",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale aquela que, à luz da doutrina, seja considerada INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o tipo penal descreve, expressa ou implicitamente, o dissenso da vítima como elementar, o consentimento do ofendido, na hipótese, funciona como causa de exclusão da tipicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto ao modo de execução, o crime de perigo de contágio venéreo – art. 130, do CP – é classificado pela doutrina como sendo de forma vinculada."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de fato transitório é aquele que não deixa vestígios, a exemplo da injúria verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação aos crimes omissivos puros, exige-se a ocorrência de resultado naturalístico, uma vez que a simples omissão contida na norma não basta para que eles se aperfeiçoem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "890890",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O art. 14, II, Parágrafo único, do Código Penal, estabelece que “salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços”. Excepcionalmente, contudo, a lei penal pátria descreve condutas cujo tipo prevê a punição da tentativa com a mesma pena abstratamente aplicável ao crime consumado. É o que sucede, v.g., com o crime tipificado no art. 352, do Código Penal: “Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa”: Tal espécie delitiva é classificada pela doutrina como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime vago."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de impressão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "679914",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos"
+    ],
+    "enunciado_principal": "No que diz respeito à classificação do crime quanto ao concurso de Pessoas, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de furto (art. 155 do CP) é plurissubjetivo de condutas contrapostas."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de peculato (art. 312 do CP) é plurissubjetivo de condutas paralelas."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de bigamia (art. 235 do CP) é plurissubjetivo de condutas convergentes."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de roubo (art. 157 do CP) é plurissubjetivo de condutas paralelas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "649375",
+    "metadata": "Ano: 2016 | Banca: IADES | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos"
+    ],
+    "enunciado_principal": "O Código Penal Brasileiro estabelece, em seu artigo 137, o crime de rixa, especificamente apresentando os elementos a seguir. Participar de rixa, salvo para separar os contendores: pena – detenção, de 15 dias a dois meses, ou multa. Com base no exposto, quanto à classificação das infrações penais, é correto afirmar que a rixa é um crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de mão própria."
+      },
+      {
+        "letra": "B",
+        "texto": "permanente."
+      },
+      {
+        "letra": "C",
+        "texto": "culposo."
+      },
+      {
+        "letra": "D",
+        "texto": "omissivo."
+      },
+      {
+        "letra": "E",
+        "texto": "plurissubjetivo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "646143",
+    "metadata": "Ano: 2016 | Banca: UFMT | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubjetivos e monossubjetivos"
+    ],
+    "enunciado_principal": "É crime plurissubjetivo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homicídio."
+      },
+      {
+        "letra": "B",
+        "texto": "Infanticídio."
+      },
+      {
+        "letra": "C",
+        "texto": "Rixa."
+      },
+      {
+        "letra": "D",
+        "texto": "Aborto."
+      },
+      {
+        "letra": "E",
+        "texto": "Furto."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1200777",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que diz respeito à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do crime formal, faz-se necessária a demonstração da situação de risco do bem juridicamente protegido."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime plurissubsistente, a ação e o resultado típico separam-se espacialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime permanente consuma-se com a ocorrência do resultado, independentemente da atividade do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de crime de dupla subjetividade passiva, haverá somente um único crime, ainda que seja praticada mais de uma entre as várias modalidades de condutas previstas no tipo penal do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime omissivo próprio é aquele cujo agente produz um resultado por meio da omissão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "419450",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PJC-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Rixa"
+    ],
+    "enunciado_principal": "Quanto ao crime de rixa previsto no artigo 137 do Código Penal (participar de rixa, salvo para separar os contendores), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é crime comum, de dano, comissivo por omissão, colet ivo, não transeunte como regra, unissubsistente, instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "é crime comum, de perigo, comissivo, coletivo, não transeunte como regra, plurissubsistente, instantâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "é crime próprio, de dano, comissivo, plurissubjetivo, transeunte como regra, plurissubsistente, permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime próprio, de perigo, comissivo por omissão, monossubjetivo, não transeunte como regra, unissubsistente, permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "é crime comum, de perigo, comissivo, monossubjetivo, transeunte como regra, plurissubsistente, instantâneo."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1908532",
+    "metadata": "Ano: 2022 | Banca: FURB | Órgão: Prefeitura de Itapema - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral",
+      "Crimes contra o funcionamento dos serviços essenciais"
+    ],
+    "enunciado_principal": "De acordo com Código Penal, em relação aos Crimes contra o Estado Democrático de Direito, assinale a alternativa CORRETA que descreve o crime de SABOTAGEM.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído."
+      },
+      {
+        "letra": "B",
+        "texto": "Restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais."
+      },
+      {
+        "letra": "D",
+        "texto": "Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral."
+      },
+      {
+        "letra": "E",
+        "texto": "Destruir ou inutilizar meios de comunicação ao público, estabelecimentos, instalações ou serviços destinados à defesa nacional, com o fim de abolir o Estado Democrático de Direito."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

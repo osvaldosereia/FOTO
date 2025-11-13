@@ -1,0 +1,972 @@
+[
+  {
+    "id": "2449091",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "No momento da prolação de sentença condenatória, após a juntada das alegações finais do Ministério Público e da defesa técnica, o juiz verifica que o acusado ostenta diversas anotações em sua Folha de Antecedentes Criminais, dentre as quais três são caracterizadoras de reincidência. Referem-se a condenações definitivas pela prática dos delitos de extorsão (Art. 158 do Código Penal), estupro de vulnerável (Art. 217-A do Código Penal) e corrupção de menores (Art. 244-B do Estatuto da Criança e do Adolescente). Considerando a classificação dos crimes quanto ao resultado, a extorsão, o estupro de vulnerável e a corrupção de menores são, respectivamente, crimes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "material, formal e de mera conduta;"
+      },
+      {
+        "letra": "B",
+        "texto": "formal, material e de mera conduta;"
+      },
+      {
+        "letra": "C",
+        "texto": "formal, material e material;"
+      },
+      {
+        "letra": "D",
+        "texto": "material, material e formal;"
+      },
+      {
+        "letra": "E",
+        "texto": "formal, material e formal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2218510",
+    "metadata": "Ano: 2023 | Banca: SELECON | Órgão: Prefeitura de Lucas do Rio Verde - MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Step é servidor público e veio a ser acusado de crime que somente pode ser cometido por funcionário público, tendo sido absolvido posteriormente. Na classificação de crimes, quando ele somente ocorre quando realizado por determinada categoria de pessoas em relação ao sujeito ativo, o crime é considerado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum"
+      },
+      {
+        "letra": "B",
+        "texto": "próprio"
+      },
+      {
+        "letra": "C",
+        "texto": "manual"
+      },
+      {
+        "letra": "D",
+        "texto": "artesanal"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2211326",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes instantâneos e permanentes",
+      "Crimes contra a fé pública",
+      "Falsidade de documento público"
+    ],
+    "enunciado_principal": "Em determinado cartório de notas e protestos, Tatiana apresentou uma carteira de identidade com a sua foto, mas com o nome de outra pessoa, a qual havia previamente produzido a completa falsificação do documento, tendo-o confeccionado mediante o uso de impressora eletrônica colorida. No estabelecimento cartorial, Tatiana fez uso do citado documento, por meio do qual se passou pela subscritora de documentos que atestavam o adimplemento de dívidas de empresas, destinados ao cancelamento de protestos, com vistas ao reconhecimento, pelo tabelião, das firmas em tais documentos. Ao manusear o documento, a escrevente desconfiou de sua veracidade e chamou sua supervisora. Esta, por sua vez, pediu auxílio ao tabelião, o qual, por fim, fez alguns questionamentos a Tatiana, que acabou reconhecendo que aquele documento era falso e que tinha conhecimento de sua falsidade. Em seguida, o tabelião acionou a polícia militar e Tatiana foi presa em flagrante delito. A partir dessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tatiana cometeu o delito de falsificação de documento público, consistente no ato de falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de Tatiana é atípica, em razão da falsidade grosseira do documento."
+      },
+      {
+        "letra": "C",
+        "texto": "Tatiana cometeu delito cuja consumação depende da obtenção de proveito ou da inflição de prejuízo pretendido por seu autor."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito praticado por Tatiana atenta contra a fé pública documental e admite tanto a forma omissiva quanto a comissiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Tatiana praticou delito de mera atividade e instantâneo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2207301",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Legislação Penal Especial",
+      "Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+    ],
+    "enunciado_principal": "João, policia! militar descaracterizado, caminhava pela orla da praia XYZ, momento em que viu Tício sacar uma pistola e se aproximar de Joana, que corria pelo calçadão com fones de ouvido. João, então deu ordem de parada a Tício, antes deste alcançar Joana que se encontrava a uma distância de, aproximadamente, dois metros. Em sede policial, Tício, cientificado dos seus direitos constitucionais e legais, confessou que pretendia subtrair, mediante o emprego de arma de fogo, os bens de Joana. Verificou-se, ainda, que a arma de fogo apreendida, uma pistola, calibre nove milímetros, de uso permitido, dispunha de potencialidade lesiva. Nesse cenário, considerando as disposições do Código Penal e a jurisprudência dominante no Superior Tribunal de Justiça, é correto afirmar que Tício responderá pelo crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo simples, na modalidade tentada, e pelo delito de posse ilegal de arma de fogo de uso permitido, em concurso material;"
+      },
+      {
+        "letra": "B",
+        "texto": "roubo simples, na modalidade tentada, e pelo delito de porte ilegal de arma de fogo de uso permitido, em concurso material;"
+      },
+      {
+        "letra": "C",
+        "texto": "roubo circunstanciado pelo emprego de arma de fogo, na modalidade tentada;"
+      },
+      {
+        "letra": "D",
+        "texto": "porte ilegal de arma de fogo de uso permitido;"
+      },
+      {
+        "letra": "E",
+        "texto": "posse ilegal de arma de fogo de uso permitido;"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2035776",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Acerca da classificação dos crimes, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de falsificação de papéis públicos, se praticado por servidor público prevalecendo-se do cargo, é um crime especial impróprio, ao passo que, se praticado por particular, é um crime comum."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de mão própria caracteriza-se por seu caráter personalíssimo, somente o agente pode praticá-lo. Por isso, o crime de auto aborto é um exemplo de crime de mão própria, insuscetível de coautoria ou participação."
+      },
+      {
+        "letra": "C",
+        "texto": "Os crimes plurissubjetivos são aqueles em que há, além do agente, uma pessoa física ou jurídica no polo passivo, ocupando a posição de vítima direta do ilícito penal, ao passo que os crimes unissubjetivos se identificam pela inexistência de vítima identificável."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes omissivos impróprios são aqueles que, embora previstos como consequência de conduta comissiva, podem, eventualmente, serem praticados por omissão. É o caso do delito de omissão de socorro."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes de perigo abstrato são os delitos que causam efetiva exposição do bem jurídico tutelado a perigo, devendo haver indicação do risco, o qual não pode ser presumido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1987405",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "Entende-se por crime formal aquele",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "que se consuma mesmo que não se verifiquem algumas possíveis consequências decorrentes da ação típica."
+      },
+      {
+        "letra": "B",
+        "texto": "que se consuma com a ocorrência do resultado naturalístico da ação típica."
+      },
+      {
+        "letra": "C",
+        "texto": "cuja execução não deixa vestígios materiais."
+      },
+      {
+        "letra": "D",
+        "texto": "cujas formas de execução são expressamente descritas no tipo penal."
+      },
+      {
+        "letra": "E",
+        "texto": "cuja norma visa a proteger bens jurídicos abstratos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1889592",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: CGU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "O delito de frustração do caráter competitivo de licitação (Art. 337-F do Código Penal) é classificado como crime:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "material;"
+      },
+      {
+        "letra": "B",
+        "texto": "de mera conduta;"
+      },
+      {
+        "letra": "C",
+        "texto": "formal;"
+      },
+      {
+        "letra": "D",
+        "texto": "de atentado;"
+      },
+      {
+        "letra": "E",
+        "texto": "a prazo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1098006",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes de lesão corporal culposa na condução de veículo automotor, a pena privativa de liberdade é de reclusão de 2 (dois) a 5 (cinco) anos, se o agente conduz o veículo com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência, e se do crime resultar lesão corporal leve, grave ou gravíssima."
+      },
+      {
+        "letra": "B",
+        "texto": "Constitui crime descumprir decisão judicial que defere medidas protetivas de urgência previstas na Lei n° 11.340/2006; no entanto, o crime somente se configura na hipótese de as medidas terem sido deferidas por juiz com competência criminal."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com a Lei n° 11.340/2006, as medidas protetivas de urgência poderão ser concedidas pelo juiz, a requerimento do Ministério Público ou a pedido da ofendida; na hipótese de requerimento pela ofendida, o Ministério Público deverá se manifestar antes da concessão da medida."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com o Superior Tribunal de Justiça, o delito descrito no artigo 90 da Lei n° 8.666/1993 (fraudar o caráter competitivo do procedimento licitatório) é formal, bastando, para se consumar, a demonstração de que a competição foi frustrada, independentemente de demonstração de recebimento de vantagem indevida pelo agente e de comprovação de dano ao erário."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1036621",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "No que toca à classificação doutrinária dos crimes,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é imprescindível a ocorrência de resultado naturalístico para a consumação dos delitos materiais e formais."
+      },
+      {
+        "letra": "B",
+        "texto": "é normativa a relação de causalidade nos crimes omissivos impróprios ou comissivos por omissão, prescindindo de resultado naturalístico para a sua consumação."
+      },
+      {
+        "letra": "C",
+        "texto": "os crimes unissubsistentes são aqueles em que há iter criminis e o comportamento criminoso pode ser cindido."
+      },
+      {
+        "letra": "D",
+        "texto": "os crimes omissivos próprios dependem de resultado naturalístico para a sua consumação."
+      },
+      {
+        "letra": "E",
+        "texto": "os crimes comissivos são aqueles que requerem comportamento positivo, independendo de resultado naturalístico para a sua consumação, se formais."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1010450",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes contra a dignidade sexual",
+      "Divulgação de cena de estupro de vulnerável, de cena de sexo ou de pornografia"
+    ],
+    "enunciado_principal": "O crime de divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia, previsto no artigo 218-C do Código Penal, pode ser classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum, material, comissivo, unissubjetivo, culposo, principal."
+      },
+      {
+        "letra": "B",
+        "texto": "comum, formal, comissivo, unissubjetivo, doloso, subsidiário."
+      },
+      {
+        "letra": "C",
+        "texto": "especial, formal, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      },
+      {
+        "letra": "D",
+        "texto": "especial, material, comissivo ou omissivo, unissubjetivo, doloso, principal."
+      },
+      {
+        "letra": "E",
+        "texto": "comum, material, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "990129",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: CGE - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "A Lei de Licitações e Contratos — Lei n.º 8.666/1993 — impõe pena de detenção de três anos a cinco anos e multa ao agente que dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade. Em situação concreta, conforme a jurisprudência dos tribunais superiores, a dispensa indevida de licitação constitui",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime de mera conduta, que, portanto, não admite a modalidade tentada."
+      },
+      {
+        "letra": "B",
+        "texto": "crime material cujo resultado é a própria celebração do contrato licitatório."
+      },
+      {
+        "letra": "C",
+        "texto": "crime para cuja configuração é exigido o dolo específico de auferir vantagem indevida para si ou para outrem."
+      },
+      {
+        "letra": "D",
+        "texto": "crime de concurso necessário entre servidor público e particular que celebre o contrato licitatório."
+      },
+      {
+        "letra": "E",
+        "texto": "crime material para cuja configuração é exigida a demonstração do prejuízo à administração pública."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "977038",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "O crime de homicídio, art. 121 do Código Penal, é classificado doutrinariamente como um crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de dano, material e instantâneo de efeitos permanentes."
+      },
+      {
+        "letra": "B",
+        "texto": "vago, permanente e multitudinário."
+      },
+      {
+        "letra": "C",
+        "texto": "próprio, de perigo e exaurido."
+      },
+      {
+        "letra": "D",
+        "texto": "comum, forma livre e concurso necessário de agentes."
+      },
+      {
+        "letra": "E",
+        "texto": "de mão própria, habitual e de forma vinculada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "952588",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "O único tipo de crime que se consuma com a ocorrência do resultado naturalístico é o crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "material."
+      },
+      {
+        "letra": "B",
+        "texto": "de mera conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "formal."
+      },
+      {
+        "letra": "D",
+        "texto": "omissivo próprio."
+      },
+      {
+        "letra": "E",
+        "texto": "habitual."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "926049",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Os crimes previstos no Código Penal e na legislação extravagante podem ser classificados levando-se em consideração diversos fatores, como conduta, resultado, sujeito ativo, dentre outros. Sobre o tema em questão, de acordo com a jurisprudência majoritária dos Tribunais Superiores, é correto afirmar que os crimes classificados como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "omissivos impróprios não admitem tentativa."
+      },
+      {
+        "letra": "B",
+        "texto": "próprios não admitem responsabilização de eventual partícipe que não possua a qualidade exigida pelo tipo penal, ainda que um dos agentes preencha o requisito legal."
+      },
+      {
+        "letra": "C",
+        "texto": "formais não preveem no tipo a existência de resultado naturalístico, de modo que restam consumados com a realização do verbo núcleo."
+      },
+      {
+        "letra": "D",
+        "texto": "permanentes não admitem que a lei penal nova mais grave seja aplicada ao agente, ainda que sua vigência seja anterior à cessação da permanência, em respeito à irretroatividade da lei penal mais gravosa."
+      },
+      {
+        "letra": "E",
+        "texto": "não transeuntes são aqueles que deixam vestígios."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "890891",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Causas supralegais de exclusão da antijuridicidade",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale aquela que, à luz da doutrina, seja considerada INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o tipo penal descreve, expressa ou implicitamente, o dissenso da vítima como elementar, o consentimento do ofendido, na hipótese, funciona como causa de exclusão da tipicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto ao modo de execução, o crime de perigo de contágio venéreo – art. 130, do CP – é classificado pela doutrina como sendo de forma vinculada."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de fato transitório é aquele que não deixa vestígios, a exemplo da injúria verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação aos crimes omissivos puros, exige-se a ocorrência de resultado naturalístico, uma vez que a simples omissão contida na norma não basta para que eles se aperfeiçoem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "890890",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O art. 14, II, Parágrafo único, do Código Penal, estabelece que “salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços”. Excepcionalmente, contudo, a lei penal pátria descreve condutas cujo tipo prevê a punição da tentativa com a mesma pena abstratamente aplicável ao crime consumado. É o que sucede, v.g., com o crime tipificado no art. 352, do Código Penal: “Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa”: Tal espécie delitiva é classificada pela doutrina como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime vago."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de impressão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "795670",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Crime impossível",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Corrupção ativa"
+    ],
+    "enunciado_principal": "Assinale com V (verdadeiro) ou com F (falso) os enunciados abaixo. ( ) Pelo exame dos tipos incriminadores do Código Penal, verifica-se hipótese em que a corrupção é crime bilateral, ativa e passiva, quando a existência de uma modalidade depende da existência da outra. ( ) Nos crimes materiais, há distinção típica lógica e cronológica entre a conduta e o resultado, mas o mesmo não ocorre nos crimes formais, em que essa mesma distinção é somente lógica. ( ) No crime progressivo, o tipo penal, abstratamente considerado, contém explicitamente outro, o qual deve ser necessariamente realizado para alcançar o resultado. ( ) No crime putativo, a atipicidade é objetiva e subjetiva. No crime impossível, há atipicidade objetiva e tipicidade subjetiva. Já no erro de tipo, há tipicidade objetiva e atipicidade subjetiva. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – F – F."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – V – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – F – V."
+      },
+      {
+        "letra": "D",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – F."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "710436",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "Considerando os aspectos legais, doutrinários e jurisprudenciais sobre a infração penal quanto aos elementos constitutivos, às espécies e aos sujeitos, bem como à ilicitude, às excludentes e ao excesso punível, à consumação e tentativa e ao concurso de pessoas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O concurso de agentes na realização de um crime pressupõe sempre o prévio ajuste de vontades na consecução de um resultado danoso desejado por todos."
+      },
+      {
+        "letra": "B",
+        "texto": "Não será punível o excesso de legítima defesa se a pessoa usar energia exagerada para repelir uma agressão atual ou iminente, porque, em tais casos, não se pode exigir do homem médio agir moderadamente quando tomado de violenta emoção."
+      },
+      {
+        "letra": "C",
+        "texto": "Diz-se antijurídica e, portanto, punível a título doloso toda conduta contrária ao direito, ainda que praticada na crença sincera de se estar agindo com amparo em causa excludente de ilicitude."
+      },
+      {
+        "letra": "D",
+        "texto": "São exemplos de excludentes de ilicitude a coação moral irresistível, a legítima defesa, o estado de necessidade e o exercício regular de um direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes materiais, a consumação só ocorre ante a produção do resultado naturalístico, enquanto que, nos crimes formais, este resultado é dispensável."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "646148",
+    "metadata": "Ano: 2016 | Banca: UFMT | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Consumação e tentativa",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Em relação aos crimes, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crimes de mera conduta são de consumação antecipada."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos denominados crimes materiais, o tipo penal descreve a conduta e o resultado naturalístico exigido."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime preterdoloso, a totalidade do resultado representa um excesso de fim (isto é, o agente quis um minus e ocorreu um majus), de modo que há uma conjugação de dolo (no antecedente) e culpa (no subsequente)."
+      },
+      {
+        "letra": "D",
+        "texto": "Crimes de forma livre são aqueles que admitem qualquer meio de execução."
+      },
+      {
+        "letra": "E",
+        "texto": "Crimes transeuntes são aqueles que não deixam vestígios materiais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1200777",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que diz respeito à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do crime formal, faz-se necessária a demonstração da situação de risco do bem juridicamente protegido."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime plurissubsistente, a ação e o resultado típico separam-se espacialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime permanente consuma-se com a ocorrência do resultado, independentemente da atividade do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de crime de dupla subjetividade passiva, haverá somente um único crime, ainda que seja praticada mais de uma entre as várias modalidades de condutas previstas no tipo penal do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime omissivo próprio é aquele cujo agente produz um resultado por meio da omissão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "609927",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: Prefeitura de São Luís - MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "O crime de Inscrição de Despesas Não Empenhadas em Restos a pagar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é punível na forma culposa, com pena reduzida."
+      },
+      {
+        "letra": "B",
+        "texto": "admite a tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "é de mera conduta."
+      },
+      {
+        "letra": "D",
+        "texto": "só se consuma com a efetiva inscrição da despesa."
+      },
+      {
+        "letra": "E",
+        "texto": "só se consuma com a ocorrência de efetivo prejuízo para o Estado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "577655",
+    "metadata": "Ano: 2015 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Sobre a classificação das infrações penais, assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime qualificado pelo resultado é sinônimo de crime preterdoloso."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão mediante sequestro é de mera conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime da mãe que deixa de amamentar o filho, o que leva à sua morte por inanição, é omissivo próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "O roubo impróprio constitui exemplo de progressão criminosa, existindo inicialmente, a intenção do agente de subtrair a coisa e, depois, o emprego de violência ou grave ameaça para garantir a apropriação do bem."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei que define os crimes de responsabilidade prevê a fixação de pena privativa de liberdade ao agente público que praticar tal infração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "483619",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "Segundo entendimento sumulado do Superior Tribunal de Justiça, os crimes de extorsão e de corrupção de menores são de natureza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "material e de mera conduta, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "formal."
+      },
+      {
+        "letra": "C",
+        "texto": "formal e material, respectivamente."
+      },
+      {
+        "letra": "D",
+        "texto": "material e formal, respectivamente."
+      },
+      {
+        "letra": "E",
+        "texto": "material."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "493820",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Prefeitura de São José do Rio Preto - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Legislação Penal Especial",
+      "Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990"
+    ],
+    "enunciado_principal": "Não se tipifica ______contra a ordem tributária, previsto no art. 1 o , incisos I a IV, da Lei n o 8.137/90,____ . Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime formal … antes do lançamento definitivo do tributo"
+      },
+      {
+        "letra": "B",
+        "texto": "crime formal … sem que haja dolo ou culpa do contribuinte"
+      },
+      {
+        "letra": "C",
+        "texto": "crime material … antes do lançamento definitivo do tributo"
+      },
+      {
+        "letra": "D",
+        "texto": "crime material … sem que haja dolo ou culpa do contribuinte"
+      },
+      {
+        "letra": "E",
+        "texto": "qualquer crime … sem que tenha havido autuação fiscal"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "419450",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PJC-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Rixa"
+    ],
+    "enunciado_principal": "Quanto ao crime de rixa previsto no artigo 137 do Código Penal (participar de rixa, salvo para separar os contendores), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é crime comum, de dano, comissivo por omissão, colet ivo, não transeunte como regra, unissubsistente, instantâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "é crime comum, de perigo, comissivo, coletivo, não transeunte como regra, plurissubsistente, instantâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "é crime próprio, de dano, comissivo, plurissubjetivo, transeunte como regra, plurissubsistente, permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime próprio, de perigo, comissivo por omissão, monossubjetivo, não transeunte como regra, unissubsistente, permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "é crime comum, de perigo, comissivo, monossubjetivo, transeunte como regra, plurissubsistente, instantâneo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "386352",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Classificação dos crimes",
+      "Tipo Penal Culposo",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes de dano e crimes de perigo",
+      "Crimes comuns, próprios e de mão própria",
+      "Causas de extinção da punibilidade",
+      "Perdão judicial",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Em relação ao crime de homicídio é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presença de qualificadores impede o reconhecimento do homicídio privilegiado."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de homicídio classifica-se como comum; unissubjetivo; material, em regra; de forma livre; doloso ou culposo; de dano e plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "tratando-se de homicídio privilegiado é admitido o perdão judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "a natureza do homicídio privilegiado é de circunstância atenuante especial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "346664",
+    "metadata": "Ano: 2013 | Banca: FUMARC | Órgão: TJM-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a administração pública",
+      "Peculato"
+    ],
+    "enunciado_principal": "Em relação à classificação jurídica do crime de peculato-apropriação (art. 312, caput, CP), é CORRETO afirmar que se trata de crime .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum"
+      },
+      {
+        "letra": "B",
+        "texto": "formal."
+      },
+      {
+        "letra": "C",
+        "texto": "funcional próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "312523",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta"
+    ],
+    "enunciado_principal": "Assinale a alternativa que corresponde a crime classificado como formal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão mediante sequestro."
+      },
+      {
+        "letra": "B",
+        "texto": "homicídio."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "E",
+        "texto": "furto."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

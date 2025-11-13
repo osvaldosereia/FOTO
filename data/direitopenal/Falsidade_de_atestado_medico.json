@@ -1,0 +1,882 @@
+[
+  {
+    "id": "3287918",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Em relação ao crime de falso atestado médico, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma espécie de falsidade material."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma espécie de falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "É perceptível por perícia de documentoscopia, que constata a falsidade do formulário."
+      },
+      {
+        "letra": "D",
+        "texto": "É perceptível por perícia grafológica, que constata a falsidade da assinatura."
+      },
+      {
+        "letra": "E",
+        "texto": "É passível de cometimento por enfermeiros, fisioterapeutas e psicólogos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3104461",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "“A”, médico de hospital público federal, com pena de seu irmão “B”, empregado de empresa privada que passa por difícil situação financeira, emite em seu favor, atestado médico falso. “B”, para evitar o desconto salarial pelas faltas que cometera, apresenta a seu empregador o dito atestado emitido por “A”, que contém timbre da unidade hospitalar. “B” responderá pela(s) pena(s) cominada(s) a um delito. Assinale a alternativa que apresenta este delito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao delito de falsificação de documento particular"
+      },
+      {
+        "letra": "B",
+        "texto": "Ao delito de falsificação de documento público"
+      },
+      {
+        "letra": "C",
+        "texto": "Ao delito de falsidade ideológica"
+      },
+      {
+        "letra": "D",
+        "texto": "Ao delito de falsidade de atestado médico"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3104280",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a administração pública e a fé pública, julgue o item seguinte. Considere que um enfermeiro tenha se apropriado de formulários de atestados médicos devidamente carimbados em nome de determinado médico e tenha passado a utilizá-los para emitir atestados médicos falsos para terceiros, com o fito de lucro. Nessa situação, conforme as disposições do Código Penal, a conduta do enfermeiro caracteriza o crime de falsidade de atestado médico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2570631",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Osasco - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "O crime de falsidade de atestado médico, previsto no art. 302 do CP,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só pode ser cometido por médico."
+      },
+      {
+        "letra": "B",
+        "texto": "só pode ser cometido por médico, médico veterinário ou estudante de uma dessas duas medicinas."
+      },
+      {
+        "letra": "C",
+        "texto": "só pode ser cometido por quem não é médico, tendo em vista que o atestado emitido por médico não há como ser considerado falso."
+      },
+      {
+        "letra": "D",
+        "texto": "consuma-se no momento em que o sujeito aufere a vantagem indevida que o atestado proporciona."
+      },
+      {
+        "letra": "E",
+        "texto": "está inserido no capítulo dos crimes contra a saúde pública."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2285605",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRM-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Em relação ao direito penal e ao direito processual penal, julgue o item.O crime de falsidade de atestado médico é punido com detenção e, se for cometido com o fim de lucro, aplica‑se, também, a pena de multa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1993132",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Dr. Tíndaro é médico e tem o sonho de adquirir um carro importado zero quilômetro. Ante sua dificuldade em materializar rapidamente seu sonho de consumo, resolve, em alguns casos, expedir atestados médicos para os pacientes que o procuram para indevidamente abonar falta ao serviço, mediante uma taxa de R$50,00 por atestado falso expedido. O esquema do Dr. Tíndaro foi descoberto antes da obtenção do numerário total para a aquisição do veículo. Em relação à conduta do Dr. Tíndaro, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é atípica porque não conseguiu obter todo o dinheiro que planejava auferir com a conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "configura crime de falsidade de atestado médico, apenas com pena de reclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "configura crime de falsidade de atestado médico, apenas com pena de detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "configura crime de falsidade de atestado médico com pena de detenção e multa."
+      },
+      {
+        "letra": "E",
+        "texto": "configura crime de falsidade de atestado médico com pena de reclusão e multa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1855375",
+    "metadata": "Ano: 2021 | Banca: FAUEL | Órgão: Prefeitura de São José dos Pinhais - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "No que diz respeito aos crimes contra a fé pública, assinale a alternativa CORRETA, conforme o Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quem, tendo recebido de boa-fé, como verdadeira, moeda falsa ou alterada, a restitui à circulação, depois de conhecer a falsidade, é isento de pena."
+      },
+      {
+        "letra": "B",
+        "texto": "Se funcionário público pratica o crime de falsificação de selo ou sinal público, a pena é aumentada da metade."
+      },
+      {
+        "letra": "C",
+        "texto": "Em relação ao crime próprio de falsidade de atestado médico, só há multa se o crime é cometido com o fim de lucro, caso contrário aplica-se somente a pena de detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "O cartão de crédito ou débito, emitido por instituição financeira autorizada pelo Banco Central, é equiparado a documento público."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que reconhece como verdadeira, no exercício do comércio, firma ou letra que não o seja, comete o crime de falso reconhecimento de firma ou letra."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1827612",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Guarujá - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Os crimes cujas sanções são aumentadas por terem sido cometidos, respectivamente, com o fim de lucro e por funcionário público que comete o crime prevalecendo-se do cargo são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uso de documento falso; supressão de documento."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade de atestado médico; falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "falsificação de papéis públicos; fraudes em certames de interesse público."
+      },
+      {
+        "letra": "D",
+        "texto": "petrechos de falsificação; reprodução ou alteração de selo ou peça filatélica."
+      },
+      {
+        "letra": "E",
+        "texto": "falso reconhecimento de firma ou letra; falsidade material de atestado ou certidão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1671502",
+    "metadata": "Ano: 2019 | Banca: CONSULPAM | Órgão: Prefeitura de Resende - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Emitir um atestado médico falso, tendo como justificativa uma patologia inexistente é considerado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É crime determinadamente expresso no Código Penal Brasileiro, com previsão de pena e até mesmo de multa, trazendo, também, à baila, a devida responsabilidade penal."
+      },
+      {
+        "letra": "B",
+        "texto": "Ato médico sem implicações éticas ou legais, visto que é procedimento corriqueiro na prática da profissão."
+      },
+      {
+        "letra": "C",
+        "texto": "Falta administrativa que implica sanções aplicáveis pelos hospitais, mas sem implicações éticas ou legais."
+      },
+      {
+        "letra": "D",
+        "texto": "Infração ética segundo o código de ética médica em vigor, porém sem outras implicações legais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "878645",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "A respeito dos crimes previstos nos artigos 293 a 305 do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falsificação de livros mercantis caracteriza o crime de falsificação de documento particular (art. 298 do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falsidade ideológica (art. 299 do CP), em documento público, é próprio de funcionário público."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime de falsidade de atestado médico (art. 302 do CP), independentemente da finalidade de lucro do agente, além da pena privativa de liberdade, aplica-se multa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de supressão de documento (art. 305 do CP), para se caracterizar, exige que o documento seja verdadeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de falsificação de documento público (art. 297 do CP) é próprio de funcionário público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "862649",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Lúcio, ao acompanhar sua esposa a um posto de saúde, apropriou-se de um receituário médico em branco, mas com o carimbo do médico que havia atendido sua esposa. Com o intuito de faltar ao trabalho, ele preencheu o formulário, atestando que deveria ficar cinco dias em repouso. Nessa situação hipotética, Lúcio praticou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsificação material de documento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade ideológica."
+      },
+      {
+        "letra": "C",
+        "texto": "falsidade de atestado médico."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade de sinal público."
+      },
+      {
+        "letra": "E",
+        "texto": "falsificação material de documento público."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "865131",
+    "metadata": "Ano: 2017 | Banca: IESES | Órgão: IGP-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "É certo afirmar: I. Há excesso de exação se o funcionário público solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. II. Se o homicídio é cometido contra mulher por razões da condição de sexo feminino será considerado crime qualificado tendo a sua pena prevista como de reclusão com o seu mínimo em doze e o seu máximo em trinta anos. III. Comete o crime de falsidade de atestado médico, o médico, enfermeiro ou prático que no exercício da sua profissão dá para si ou para outrem atestado falso, visando ou não o lucro. IV. Qualifica-se o furto se a subtração for de semovente domesticável de produção, ainda que abatido ou dividido em partes no local da subtração. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e III estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "835012",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "A pedido de Ronaldo, um amigo portador de doença congênita cardiovascular, a médica Joana emitiu atestado médico afirmando que ele estava apto a praticar, sem prejuízos para sua saúde, esportes como a corrida. Ronaldo, então, utilizou o atestado como instrumento de prova para um concurso público para a polícia civil. Uma semana depois de assumir o cargo, Ronaldo passou mal, e o atestado foi colocado à prova, tendo passado a ser objeto de investigação criminal. O perito escalado para contestar ou reafirmar o atestado concedido pela médica protegeu a colega de profissão e atestou que o problema cardíaco de Ronaldo, embora congênito, pode ser de difícil diagnóstico, o que justificaria suposta falha de Joana. Ronaldo, entretanto, em sede de inquérito, confessou que havia pedido o atestado à médica. O perito voltou atrás e retratou-se, tendo afirmado que seria impossível a médica não ter verificado a doença. A respeito das condutas de Ronaldo, de Joana e do perito, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ronaldo não cometeu crime, configurando arrependimento eficaz o fato de ele ter confessado em sede de inquérito."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de Joana configura crime contra a administração pública."
+      },
+      {
+        "letra": "C",
+        "texto": "O perito não cometeu crime, cabendo-lhe apenas punição administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Joana cometeu crime de certidão ou atestado ideologicamente falso."
+      },
+      {
+        "letra": "E",
+        "texto": "A conduta de Joana configura crime de falsidade de atestado médico."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "831163",
+    "metadata": "Ano: 2017 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Supressão de documento",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Sobre os crimes de falsidade documental previstos no Código Penal, analise as proposições abaixo: I - O crime de falsificação de documento público consiste em omitir, em documento público, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. II - O crime de falsificação de documento particular consiste em omitir, em documento particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. III - O crime de supressão de documento consiste em destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento público ou particular verdadeiro, de que não podia dispor. IV - O crime de falsidade de atestado médico consiste em dar o médico, no exercício da sua profissão, atestado falso.Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "812481",
+    "metadata": "Ano: 2017 | Banca: IBADE | Órgão: PC-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "O crime de falsidade de atestado médico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "resta caracterizado quando uma pessoa adultera um atestado verdadeiro, a fim de ampliar seus dias de afastamento do trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "exige, em sua forma simples, especial fim de agir"
+      },
+      {
+        "letra": "C",
+        "texto": "além de exigir uma falsidade material, é classificado como crime comum."
+      },
+      {
+        "letra": "D",
+        "texto": "é uma forma de falsidade ideológica, tipificado de forma autônoma devido à especialidade."
+      },
+      {
+        "letra": "E",
+        "texto": "está arrolado entre os crimes contra a saúde pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "528030",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falso reconhecimento de firma ou letra",
+      "Falsidade de atestado médico",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Em relação aos crimes praticados contra a fé pública, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de falso atestado médico, previsto no artigo 302, do CP, admite tanto a forma dolosa quanto a forma culposa."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falso reconhecimento de firma ou letra (art. 300, CP), por ser crime próprio, não admite coautoria ou participação."
+      },
+      {
+        "letra": "C",
+        "texto": "A falsidade material consistente na omissão de declaração que deveria constar no documento público ou particular ou na inserção (direta ou indireta) de declaração falsa ou diversa da que deveria ser nele escrita."
+      },
+      {
+        "letra": "D",
+        "texto": "Os delitos de falso se consumam independentemente do resultado (prejuízo)."
+      },
+      {
+        "letra": "E",
+        "texto": "Os testamentos particulares inserem-se no conceito de documento particular para fins de falsificação (art. 298, CP)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "525918",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falso reconhecimento de firma ou letra",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Antonio Célio, barista, faltou injustificadamente ao trabalho, nada comunicando ao empregador. Por ser reincidente, já tendo sido punido por ausências anteriores, e temendo ser dispensado por justa causa, no dia seguinte − que era destinado a sua folga − se aproveita do comparecimento à clínica médica “Saúde Real Cop\" onde marcara consulta e, verificando a momentânea ausência de fiscalização, pega para si carimbo do médico responsável pela clínica. Na saída, para eliminar registro de sua presença, destrói a folha usada pela administração da clínica para controle dos pacientes que lá comparecem, documento adotado para instruir os requerimentos de pagamento por serviços prestados pela clínica a várias operadoras de plano de saúde. Em seguida, Antonio Célio vai para casa, onde elabora atestado médico que justificaria sua ausência ao trabalho, assina-o com o nome do médico constante do carimbo, além de efetuar, ele próprio, reconhecimento da firma que inserira no atestado. Por fim, dois dias após a ausência ao trabalho, Antônio Célio entrega o documento nos moldes acima ao seu empregador, solicitando que não houvesse o desconto de sua falta. Além de outros, caso estejam presentes, configura-se a existência dos seguintes tipos penais, praticados por Antônio Célio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "supressão de documento, falsificação de documento particular e uso de documento falso."
+      },
+      {
+        "letra": "B",
+        "texto": "falsificação de documento particular, falso reconhecimento de firma e furto."
+      },
+      {
+        "letra": "C",
+        "texto": "falso reconhecimento de firma, falsidade de atestado médico e uso de documento falso."
+      },
+      {
+        "letra": "D",
+        "texto": "falsidade de atestado médico, furto e supressão de documento."
+      },
+      {
+        "letra": "E",
+        "texto": "furto, falsidade de reconhecimento de firma e falsidade de atestado médico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "485929",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "No que se refere aos crimes contra o patrimônio, contra a dignidade sexual e contra a fé e a administração públicas, julgue o item que se segue. Cometerá o delito de falsidade ideológica o médico que emitir atestado declarando, falsamente, que determinado paciente está acometido por enfermidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "413751",
+    "metadata": "Ano: 2014 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Numa ação trabalhista acidentaria foi designada perícia médica a fim de se verificar o grau de redução da capacidade laborativa do autor, o qual contratou assistente técnico que, em seu parecer lançou informações falsas sobre o laudo pericial. Nesse caso, o assistente técnico responde pelo crime de falsidade ideológica, por inserir informações falsas em documento verdadeiro;"
+      },
+      {
+        "letra": "B",
+        "texto": "Sandra é vendedora, empregada da empresa Lojas Mato Grosso a qual, por sua vez, retém as contribuições previdenciárias de Sandra, mas não as recolhe à Previdência Social, incorrendo assim, seu representante legal, no crime de apropriação indébita previdenciária;"
+      },
+      {
+        "letra": "C",
+        "texto": "Demóstenes é reclamado numa ação trabalhista e por ocasião da audiência inaugural, enquanto se davam as tratativas de acordo, folheava o processo quando disfarçadamente conseguiu retirar uma carta manuscrita por ele que comprovava o assédio sexual alegado pela autora da ação, a qual estava acostada nas últimas folhas dos autos físicos. Nesse caso, Demóstenes incorreu no crime tipificado pelo Código Penal como supressão de documento;"
+      },
+      {
+        "letra": "D",
+        "texto": "Tatiana é proprietária da empresa Varejão Norte Sul Ltda e tem por prática alterar os horários de trabalho dos empregados nos controles de ponto, registrando sempre horários de entrada posteriores e de saída anteriores aos reais, a fim de não efetuar o pagamento de horas extras. Com essa prática Tatiana incorre no crime de falsidade ideológica;"
+      },
+      {
+        "letra": "E",
+        "texto": "Joaquim, após o jogo do Brasil na copa do mundo, ficou tão decepcionado que no dia seguinte faltou ao serviço e para justificar a falta procurou um medico solicitando atestado. O médico, por sua vez, ao perceber o intuito de Joaquim se aproveitou e cobrou pelo atestado falso. No caso, estaria caracterizada a falsidade material, pois foi inserida informação falsa em documento verdadeiro. Entretanto, se Joaquim tivesse adquirido o referido atestado da secretária do médico, tendo ela própria o assinado contendo ainda o carimbo e CRM do profissional, ambos incorreram no crime de falsidade ideológica por ter sido alterada a verdade em documento falso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "684273",
+    "metadata": "Ano: 2013 | Banca: ADVISE | Órgão: Prefeitura de Brejo da Madre de Deus - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "De acordo com a Lei 2.848/40, omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante é uma característica criminal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de falso reconhecimento de firma;"
+      },
+      {
+        "letra": "B",
+        "texto": "de certidão ou atestado ideologicamente falso;"
+      },
+      {
+        "letra": "C",
+        "texto": "de falsidade de atestado médico;"
+      },
+      {
+        "letra": "D",
+        "texto": "de supressão de documento;"
+      },
+      {
+        "letra": "E",
+        "texto": "de falsidade ideológica."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "468956",
+    "metadata": "Ano: 2013 | Banca: ADVISE | Órgão: Prefeitura de Exu - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Uso de documento falso",
+      "Supressão de documento"
+    ],
+    "enunciado_principal": "Destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento público ou particular verdadeiro, de que não podia dispor, se refere ao crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Supressão de documento;"
+      },
+      {
+        "letra": "B",
+        "texto": "Falsificação de documentos;"
+      },
+      {
+        "letra": "C",
+        "texto": "Reclusão de documentos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Usurpação de documentos;"
+      },
+      {
+        "letra": "E",
+        "texto": "Ameaça à documentos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "468952",
+    "metadata": "Ano: 2013 | Banca: ADVISE | Órgão: Prefeitura de Exu - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "A pena para quem falsifica atestado médico é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "detenção de um mês a um ano;"
+      },
+      {
+        "letra": "B",
+        "texto": "reclusão de um mês a um ano;"
+      },
+      {
+        "letra": "C",
+        "texto": "multa de 10 cestas básicas por mês para doação;"
+      },
+      {
+        "letra": "D",
+        "texto": "exoneração do cargo;"
+      },
+      {
+        "letra": "E",
+        "texto": "afastamento temporário do cargo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "318032",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "O crime de Falsidade de Atestado Médico tem por su-jeito(s) ativo(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o médico, no exercício de sua profissão."
+      },
+      {
+        "letra": "B",
+        "texto": "qualquer pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "o médico, o dentista, o farmacêutico e o psicólogo."
+      },
+      {
+        "letra": "D",
+        "texto": "o médico, dentro e fora do exercício de sua profissão."
+      },
+      {
+        "letra": "E",
+        "texto": "qualquer pessoa, quando o crime é cometido com o fim lucrativo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "832222",
+    "metadata": "Ano: 2012 | Banca: FUNDECT | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de documento público",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico",
+      "Uso de documento falso"
+    ],
+    "enunciado_principal": "Atribuir se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem, consiste no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falsidade ideológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de documento falso."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsa identidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Falsidade material de atestado ou certidão."
+      },
+      {
+        "letra": "E",
+        "texto": "Falsificação de documento público."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "293718",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Falsidade de atestado médico",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Concussão e Excesso de Exação"
+    ],
+    "enunciado_principal": "Assinale a assertiva correta quanto ao que estabelece o Código Penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comete excesso de exação funcionário que exige tributo ou contribuição social indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza."
+      },
+      {
+        "letra": "B",
+        "texto": "Não existe a figura do peculato culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "No que concerne aos crimes contra a administração pública, equipara-se a funcionário público quem tem emprego em empresa prestadora de serviço contratada para a execução de atividade típica da Administração Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "Dar o médico, no exercício da sua profissão, atestado falso, é crime punido com detenção e multa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "235499",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Falsidade de atestado médico"
+    ],
+    "enunciado_principal": "A falsificação de moeda e a falsificação de documento particular, bem como a falsidade ideológica e a falsidade de atestado médico, são crimes contra a fé pública. Os dois primeiros dizem respeito à forma do objeto falsificado, que é criado ou alterado materialmente pelo agente; os dois últimos referem-se à falsidade do conteúdo da declaração contida no documento, que, entretanto, é materialmente verdadeiro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "204603",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TCE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos",
+      "Falso reconhecimento de firma ou letra",
+      "Certidão ou atestado ideologicamente falso",
+      "Falsidade de atestado médico",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Dentre os crimes contra a fé pública, NÃO constitui crime próprio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a falsificação de selo ou sinal público."
+      },
+      {
+        "letra": "B",
+        "texto": "o falso reconhecimento de firma ou letra."
+      },
+      {
+        "letra": "C",
+        "texto": "a certidão ou atestado ideologicamente falso."
+      },
+      {
+        "letra": "D",
+        "texto": "a falsidade de atestado médico."
+      },
+      {
+        "letra": "E",
+        "texto": "a fraude de lei sobre estrangeiro."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

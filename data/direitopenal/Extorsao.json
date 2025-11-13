@@ -1,0 +1,4417 @@
+[
+  {
+    "id": "3170612",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação"
+    ],
+    "enunciado_principal": "Acerca dos crimes previstos no Código Penal, julgue o próximo item. Os crimes de concussão e de extorsão têm similitudes, contudo, enquanto a concussão se caracteriza pela exigência de vantagem indevida por um funcionário público sem o uso de violência ou ameaça, a extorsão envolve coação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3169069",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Em relação a crimes contra o patrimônio, julgue o item a seguir.A pena aplicável por crime de extorsão praticado com emprego de arma de fogo será cumprida em regime inicialmente fechado, por expressa previsão legal, ainda que o condenado seja réu primário e tenha bons antecedentes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3104195",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Julgue o próximo item de acordo com o Código Penal, a Lei Maria da Penha (Lei n.º 11.340/2006) e a jurisprudência dos tribunais superiores. No caso do crime de extorsão, tem-se por consumado o delito no momento em que o sujeito ativo exige da vítima o comportamento por esta indesejado, configurando mero exaurimento o efetivo constrangimento à vítima.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3091374",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "João, agindo com dolo, sequestrou Maria, sabendo que a vítima dispunha de sessenta e dois anos de idade, com o fim de obter, para si, vantagem econômica, como condição do resgate. Contudo, após doze horas privada da liberdade, Maria foi encontrada e liberada, em Boa Vista, pela Polícia Militar do Estado de Roraima. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que João responderá pelo crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão indireta, com a incidência de uma causa de aumento de pena, pois o sequestro durou mais de doze horas."
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão, com a incidência de uma causa de aumento de pena, pois a vítima era maior de sessenta anos."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão mediante sequestro, na modalidade qualificada, pois o sequestro durou mais de doze horas."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão mediante sequestro, na modalidade qualificada, pois a vítima era maior de sessenta anos."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão, na modalidade qualificada, pois o sequestro durou mais de doze horas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3051478",
+    "metadata": "Ano: 2024 | Banca: IBGP | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Ameaça",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime de extorsão, a ameaça a que se refere o caput do art. 158 do CP, exercida com o fim de obter a indevida vantagem econômica, pode ter, por conteúdo, grave dano aos bens da vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada."
+      },
+      {
+        "letra": "D",
+        "texto": "Há concurso formal impróprio no crime de latrocínio nas hipóteses em que o agente, mediante uma única subtração patrimonial, provoca, com desígnios autônomos, dois ou mais resultados morte."
+      },
+      {
+        "letra": "E",
+        "texto": "O roubo praticado em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, enseja o reconhecimento de crime único, não havendo que se falar em concurso de crimes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3030281",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "A respeito do crime de extorsão (artigo 158 do Código Penal), é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a extorsão é crime formal, consumando-se independentemente da obtenção da vantagem pretendida pelo agente."
+      },
+      {
+        "letra": "B",
+        "texto": "a extorsão é crime material, consumando-se quando o agente obtém a vantagem pretendida, ainda que venha a ser dela despojado imediatamente."
+      },
+      {
+        "letra": "C",
+        "texto": "a extorsão se distingue do roubo pelo fato de, na extorsão, o concurso da vítima ser desnecessário para a obtenção, pelo agente, da vantagem pretendida."
+      },
+      {
+        "letra": "D",
+        "texto": "se o agente pratica, em um mesmo contexto e contra a mesma vítima, roubo e extorsão, haverá continuidade delitiva entre os dois crimes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3010070",
+    "metadata": "Ano: 2024 | Banca: Ibest | Órgão: Prefeitura de Cristalina - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "“[...] para o sistema criminal, a expressão patrimônio, mais genérica, [...] passa a, teoricamente, compreender qualquer relação entre homens, fática ou jurídica, que represente valores auferíveis em dinheiro. Ela possui uma dimensão aglutinadora, de cabedal de bens, direitos e interesses, reais ou obrigacionais, com ressaltado viés econômico”. SALVADOR NETTO, Alamiro, 2014, p. 16 (com adaptações). A respeito dos crimes contra o patrimônio, previstos no Código Penal brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa configura crime de extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Suprimir ou deslocar tapume, marco ou qualquer outro sinal indicativo de linha divisória, para apropriar-se, no todo ou em parte, de coisa imóvel alheia constitui crime de usucapião."
+      },
+      {
+        "letra": "C",
+        "texto": "Destruir, inutilizar ou deteriorar coisa tombada pela autoridade competente em virtude de valor artístico, arqueológico ou histórico não será punido se o autor do fato o fizer para expressar suas opiniões político-partidárias."
+      },
+      {
+        "letra": "D",
+        "texto": "Entende-se por furto qualificado a subtração de coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2543504",
+    "metadata": "Ano: 2024 | Banca: ISET | Órgão: Prefeitura de Jeremoabo - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa consiste no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constrangimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "Extorsão mediante sequestro."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas anteriores."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2524355",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Lins - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Noé, guarda municipal, por conta de negligência na administração de suas finanças pessoais, encontra-se bastante endividado; por conta disso, Noé exigiu de Adão, egresso do sistema penitenciário pela prática do crime de tráfico de drogas, a quantia de R$ 50.000,00 (cinquenta mil reais), sob pena de, não satisfeita a exigência, forjar uma prisão em flagrante por tráfico de drogas contra Adão. A conduta de Noé",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tipifica o crime de corrupção passiva."
+      },
+      {
+        "letra": "B",
+        "texto": "configura a contravenção de usura pecuniária."
+      },
+      {
+        "letra": "C",
+        "texto": "tipifica o crime de prevaricação."
+      },
+      {
+        "letra": "D",
+        "texto": "configura o crime de extorsão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2467476",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Prefeitura de Garanhuns - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Extorsão indireta",
+      "Legislação Penal Especial",
+      "Lei de Crimes Hediondos – Lei nº 8.072 de 1990"
+    ],
+    "enunciado_principal": "Julgue o item a seguir. De acordo com a Lei nº 8.072/1990, os crimes de latrocínio, extorsão qualificada pela morte, e extorsão mediante sequestro são considerados hediondos, não sendo passíveis de fiança ou liberdade provisória.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2462057",
+    "metadata": "Ano: 2024 | Banca: ICECE | Órgão: Prefeitura de Aratuba - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No que se refere aos crimes contra o patrimônio previstos no Código Penal, constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa, constitui conduta de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "Roubo qualificado."
+      },
+      {
+        "letra": "C",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "Furto qualificado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2386900",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Durante uma reestruturação em determinada empresa, Diana, descontente com as atitudes de Bruno, seu colega de trabalho que exerce cargo de chefia, o chantageou para obter vantagens pessoais no trabalho. Diana, mediante grave ameaça, afirmou que divulgaria informações confidenciais sobre a vida pessoal de Bruno caso ele não lhe concedesse um cargo mais elevado na empresa. Nessa situação hipotética, Diana praticou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão qualificada pelo meio grave de ameaça."
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão privilegiada por motivo de vingança."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão comum."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão mediante sequestro."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão tentada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2436347",
+    "metadata": "Ano: 2023 | Banca: UNITINS | Órgão: AFTO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No estacionamento de um supermercado, uma senhora idosa aborda um senhor que está guardando as compras no porta-malas do veículo. Ela afirma que está com problema no carro dela, especificamente “que há uma luz acesa no painel e que o veículo não liga”. O senhor rapidamente termina de guardar as compras, fecha o carro e se oferece para auxiliar a senhora idosa. Dirigem-se ambos até o veículo da senhora. Ao entrar, o senhor é surpreendido por dois homens armados que estavam escondidos no banco de trás. Ele então é rendido pelos criminosos que o obrigam a ir até agências bancárias onde possui contas e realizar saques de valores em dinheiro. Após os saques, ele é liberado em uma estrada vicinal da cidade, sem maiores ferimentos. Considerando exclusivamente o narrado, no ordenamento penal brasileiro, a situação hipotética configura na infração penal tipificada como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão mediante sequestro."
+      },
+      {
+        "letra": "D",
+        "texto": "cárcere privado."
+      },
+      {
+        "letra": "E",
+        "texto": "constrangimento ilegal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2312118",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Gertrudes, cuidadora de um idoso em recuperação de acidente vascular cerebral, com graves limitações em sua locomoção e acamado, ao tomar conhecimento de que ele tem uma grande quantia depositada em caderneta de poupança, passa a lhe aplicar choques elétricos, para que ele lhe informe a senha bancária, com a qual pretende sacar ou transferir dinheiro da citada conta em seu benefício. Sem obter a informação pretendida, Gertrudes persiste nos choques elétricos, provocando convulsões na vítima, que desfalece, com parada cardiorrespiratória, resultado não buscado nem assentido por Gertrudes, a qual tenta, sem êxito, reanimá-lo, vindo ele a óbito. Diante do caso narrado, o crime cometido por Gertrudes foi o de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tortura qualificada pela morte;"
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão qualificada pela morte;"
+      },
+      {
+        "letra": "C",
+        "texto": "maus-tratos a pessoa idosa, qualificados pela morte;"
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão qualificada pela morte, na forma tentada;"
+      },
+      {
+        "letra": "E",
+        "texto": "tortura, com a pena aumentada, por ter sido praticada contra pessoa maior de 60 anos de idade, e homicídio culposo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2312116",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Dario, usuário eventual de cocaína, pretendendo cometer um crime, faz uso da droga, para ficar mais “ligado”. Na sequência, já com a capacidade de autodeterminação reduzida, e usando um simulacro de arma de fogo, rende Elisa, exigindo dela que lhe faça um Pix no valor de R$ 2.000,00. Ao lhe passar os dados para a operação, contudo, Dario se confunde, fornecendo-lhe a chave Pix errada, vindo a transferência a ser feita para a conta bancária de um terceiro. Diante do caso narrado, é correto afirmar que Dario cometeu crime de extorsão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com a pena agravada;"
+      },
+      {
+        "letra": "B",
+        "texto": "na forma tentada;"
+      },
+      {
+        "letra": "C",
+        "texto": "com a incidência de causa de aumento de pena;"
+      },
+      {
+        "letra": "D",
+        "texto": "devendo as penas ser diminuídas, tendo em vista que ele estava com a capacidade de autodeterminação reduzida, em consequência do consumo de droga;"
+      },
+      {
+        "letra": "E",
+        "texto": "na forma tentada, devendo a pena privativa de liberdade ser substituída por medida de segurança, pois ele estava com a capacidade de autodeterminação reduzida, em consequência do consumo de droga."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2312112",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Alberto, inspetor da Polícia Civil do Estado do Paraná, acompanhado de outro indivíduo, dirige-se a um depósito de bebidas, onde ordena ao gerente do estabelecimento que lhes entregue um caminhão e diversas mercadorias, sob o pretexto de que seu patrão estaria devendo dinheiro a um credor, a quem Alberto estaria representando. Na ocasião, Alberto se identifica como policial, exibe, na cintura, sua arma funcional – uma pistola – e diz que, se não for atendido, “a coisa vai ficar feia”. Temendo por sua vida, o gerente atende à determinação, mandando carregar um caminhão da empresa com diversas mercadorias, e entregando tudo a Alberto e ao outro agente, que deixam o local a bordo do veículo. Em verdade, a dívida em questão, embora tivesse existido, já estava paga, e Alberto não agiu a mando do alegado credor, mas por conta própria. Diante do caso narrado, o crime cometido por Alberto foi o de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão;"
+      },
+      {
+        "letra": "B",
+        "texto": "estelionato;"
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão;"
+      },
+      {
+        "letra": "D",
+        "texto": "roubo;"
+      },
+      {
+        "letra": "E",
+        "texto": "corrupção passiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2288041",
+    "metadata": "Ano: 2023 | Banca: IPEFAE | Órgão: Prefeitura de Campos do Jordão - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "O crime de extorsão é um ato de constranger alguém, com uso de violência ou grave ameaça, visando obter vantagem econômica indevida. Nesse contexto, analise as proposições abaixo e após assinale a alternativa correta: I. A pena para o crime de extorsão é de reclusão, de quatro a dez anos, e multa. II. Se o crime de extorsão é cometido sem violência ou grave ameaça, a pena é aumentada de um terço até metade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a proposição I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a proposição II está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "As proposições I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "As proposições I e II estão incorretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2281723",
+    "metadata": "Ano: 2023 | Banca: IBFC | Órgão: IAPEN-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta corretamente a conduta e o crime correspondente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência – extorsão"
+      },
+      {
+        "letra": "B",
+        "texto": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa – roubo"
+      },
+      {
+        "letra": "C",
+        "texto": "Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento – furto mediante fraude"
+      },
+      {
+        "letra": "D",
+        "texto": "Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte – receptação"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2278045",
+    "metadata": "Ano: 2023 | Banca: ADVISE | Órgão: Prefeitura de Lagoa do Carro - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Quem comete a conduta típica de constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa, incorre no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "Furto."
+      },
+      {
+        "letra": "C",
+        "texto": "Furto de coisa comum."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "Latrocínio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2265255",
+    "metadata": "Ano: 2023 | Banca: FEPESE | Órgão: Companhia Águas de Joinville",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Corrupção ativa",
+      "Fraude processual"
+    ],
+    "enunciado_principal": "A prática da ética nas atividades de gestão pública tem se tornado um elemento que promoveu diferentes ferramentas de controle dentro do âmbito municipal, estadual ou federal. Neste sentido existe uma situação que se dá quando um funcionário público solicita ou recebe, para si ou para outrem, direta ou indiretamente, vantagem indevida, ou aceita promessa de tal vantagem, desde que tais fatos ocorram em razão da função, ainda que fora dela ou antes de assumi-la. Este ilícito penal recebe o nome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Corrupção passiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Corrupção ativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Fraude."
+      },
+      {
+        "letra": "E",
+        "texto": "Furto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2264582",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Prefeitura de Morungaba - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa, constitui o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extorsão indireta."
+      },
+      {
+        "letra": "B",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "Furto qualificado."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhum dos itens é verdadeiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2245102",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: AL-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação"
+    ],
+    "enunciado_principal": "Rogério e Bernardo são policiais e, nessa condição, vestindo uniformes da corporação e no exercício da função, abordaram Júlio (condutor) e Mariana, na Rodovia MA 123, e solicitaram a exibição dos documentos de porte obrigatório. Rogério constatou a autenticidade dos documentos exibidos mas, não obstante, disse a Bernardo que os documentos aparentavam ser falsos, e que, portanto, conduziria Júlio à Delegacia para lavratura do auto de prisão em flagrante. Ato contínuo, Rogério se dirigiu a Mariana e passou a exigir uma quantia em dinheiro para evitar “prejudicar” Júlio, exibindo ostensivamente a arma de fogo de forma ameaçadora, enquanto Bernardo, a pedido de Rogério, manteve Júlio sob custódia a alguns metros de distância. Mariana, então, entregou a Rogério a quantia requerida. De acordo com a narrativa acima, assinale a opção que corretamente analisa as condutas de cada personagem.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rogério e Bernardo agiram em coautoria de crime contra a Administração Pública, pois ambos dividiram tarefas e incidiram no mesmo tipo penal; Mariana incidiu em corrupção ativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Bernardo agiu em erro de tipo, ao passo que a conduta de Rogério se amolda ao tipo penal de extorsão; Mariana agiu sob coação moral irresistível."
+      },
+      {
+        "letra": "C",
+        "texto": "Bernardo agiu em erro de proibição, ao passo que a conduta de Rogério configura concussão; Mariana agiu sob coação física irresistível."
+      },
+      {
+        "letra": "D",
+        "texto": "Bernardo agiu em estrito cumprimento do dever legal, ao passo que Rogério praticou conduta de concussão; Mariana agiu sob coação moral resistível."
+      },
+      {
+        "letra": "E",
+        "texto": "A conduta de Bernardo se amolda ao tipo penal de prevaricação, ao passo que a conduta de Rogério se enquadra no tipo penal de extorsão e Mariana, corrupção ativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2220652",
+    "metadata": "Ano: 2023 | Banca: IGEDUC | Órgão: Prefeitura de Triunfo - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Julgue o item a seguir. A exigência de quantia de dinheiro a pretexto de “vigiar” carro estacionado em local público poderá ser considerada extorsão, dependendo do caso em concreto.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2218512",
+    "metadata": "Ano: 2023 | Banca: SELECON | Órgão: Prefeitura de Lucas do Rio Verde - MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Miguel, passando por necessidades físicas, em decorrência de dificuldades pessoais, resolver subtrair coisa alheia móvel, ameaçando as vítimas com arma de fogo, devidamente municiada. Após o evento, Miguel consegue se evadir do local com o produto do ilícito, vindo a ser capturado pela polícia, com auxílio de guardas municipais, alguns dias depois. Nos termos do Código Penal, os fatos descrevem o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequestro"
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão"
+      },
+      {
+        "letra": "C",
+        "texto": "roubo"
+      },
+      {
+        "letra": "D",
+        "texto": "furto"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2211334",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "Pedro e Artur, agindo em comunhão de esforços e unidade de desígnios, um aderindo à conduta do outro, constrangeram Helena, mediante grave ameaça, a entregar-lhes a quantia de R$ 5 mil em espécie, dizendo-lhe que, se ela sacasse o dinheiro, nada de ruim iria lhe acontecer, de forma que ambos os criminosos obtivessem indevida vantagem econômica. Assim, a vítima se dirigiu até uma agência bancária, sempre na vigilância dos dois comparsas, e realizou o saque daquele valor, que foi entregue a eles. No que diz respeito a essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo o CP, que adota, como regra, a teoria monista, presentes a pluralidade de agentes e a convergência de vontades voltada à prática da mesma infração penal, Pedro e Artur devem ser responsabilizados pelo delito de extorsão qualificada, na medida da sua culpabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso Pedro e Artur tivessem interrompido a execução do crime por circunstâncias externas alheias às suas vontades, estaria configurada a desistência voluntária."
+      },
+      {
+        "letra": "C",
+        "texto": "Será viável o reconhecimento do arrependimento posterior caso Pedro e Artur devolvam o dinheiro a Helena antes do início de eventual ação penal."
+      },
+      {
+        "letra": "D",
+        "texto": "Será viável o reconhecimento do arrependimento eficaz caso Pedro e Artur devolvam o dinheiro a Helena antes de iniciada eventual investigação policial."
+      },
+      {
+        "letra": "E",
+        "texto": "Dada a concorrência de Artur e Pedro para a prática de uma mesma infração penal, caracterizou-se o concurso de agentes, na modalidade de participação, segundo o conceito restritivo de autor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2186912",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Joana, às 02 horas e 30 minutos, dirigia o seu veículo automotor pela via de rolamento, ocasião em que foi abordada por Tício, o qual, empregando uma faca, obrigou-a a pular para o banco do carona. Ato contínuo, Tício assumiu a condução do automóvel e encaminhou a vítima à agência bancária mais próxima, para que esta efetuasse o saque de valores pecuniários. A vítima, amedrontada, obedeceu às ordens de Tício, o qual se apossou de R$ 1.000,00, após a ofendida inserir o seu cartão e a senha no caixa eletrônico. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Tício responderá pelo crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão qualificada, pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica, e majorado pelo emprego de arma;"
+      },
+      {
+        "letra": "B",
+        "texto": "roubo qualificado, pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica, e majorado pelo emprego de arma;"
+      },
+      {
+        "letra": "C",
+        "texto": "roubo duplamente majorado, pelo emprego de arma e pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica;"
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão qualificada pela restrição da liberdade da vítima, condição necessária para a obtenção a obtenção da vantagem econômica;"
+      },
+      {
+        "letra": "E",
+        "texto": "roubo majorado pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2175186",
+    "metadata": "Ano: 2023 | Banca: FUNDEPES | Órgão: Prefeitura de Marechal Deodoro - AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "A conduta consistente em subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, de qual resultado morte corresponde ao fato típico do crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto qualificado."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo qualificado."
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio simples."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão qualificada."
+      },
+      {
+        "letra": "E",
+        "texto": "homicídio qualificado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2175181",
+    "metadata": "Ano: 2023 | Banca: FUNDEPES | Órgão: Prefeitura de Marechal Deodoro - AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Prevaricação",
+      "Advocacia administrativa"
+    ],
+    "enunciado_principal": "Se o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza, configura crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "prevaricação."
+      },
+      {
+        "letra": "C",
+        "texto": "corrupção passiva."
+      },
+      {
+        "letra": "D",
+        "texto": "excesso de exação."
+      },
+      {
+        "letra": "E",
+        "texto": "advocacia administrativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2154413",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: Prefeitura de Uruguaiana - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Usurpação"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal Brasileiro, analise a assertiva abaixo sobre um crimeno qual o autor tem o seguinte procedimento: • Constranger alguém mediante violência ou grave ameaça, e com o intuito de obter para si oupara outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazeralguma coisa. Com base na referida Lei, essa é a definição de qual conceito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furto qualificado."
+      },
+      {
+        "letra": "B",
+        "texto": "Usurpação."
+      },
+      {
+        "letra": "C",
+        "texto": "Violação pessoal."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "Violência moral."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2059107",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Estelionato",
+      "Receptação"
+    ],
+    "enunciado_principal": "Será necessária representação para que se proceda à ação penal no crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "receptação, cuja vítima seja o irmão do agente."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo praticado pelo filho contra o pai."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão praticado pelo pai contra o filho homem."
+      },
+      {
+        "letra": "D",
+        "texto": "furto praticado por sobrinho contra o tio que possua, à época dos fatos, sessenta e dois anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "estelionato praticado contra o cônjuge na constância da sociedade conjugal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2187770",
+    "metadata": "Ano: 2022 | Banca: CONSULPAM | Órgão: Prefeitura de Irauçuba - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Bruce concedeu a posse do seu veículo automotor para Oswald que, por se afeiçoar ao bem móvel, resolveu permanecer com o veículo de Bruce, fugindo da obrigação de devolver o veículo para permanecer com esse de maneira indefinida. Assinale a alternativa que caracteriza CORRETAMENTE esse tipo de crime, conforme o Código Penal brasileiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apropriação Indébita."
+      },
+      {
+        "letra": "C",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2032502",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: SEFAZ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Corrupção ativa",
+      "Legislação Penal Especial",
+      "Crimes contra o Consumidor, a Ordem Econômica e Tributária – Lei nº 8.078 de 1990 e Lei nº 8.137 de 1990"
+    ],
+    "enunciado_principal": "Hércules, auditor fiscal, sabendo que a empresa Olimpo, de propriedade de Dionísio, era devedora de tributos ao fisco, procurou Dionísio solicitando para si o pagamento de R$ 150.000,00 para deixar de lançá-los. Nesse caso, Hércules praticou, em tese, crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "de corrupção passiva."
+      },
+      {
+        "letra": "C",
+        "texto": "de concussão."
+      },
+      {
+        "letra": "D",
+        "texto": "funcional contra a ordem tributária."
+      },
+      {
+        "letra": "E",
+        "texto": "de corrupção ativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1998915",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "De acordo com a jurisprudência do Superior Tribunal de Justiça em matéria penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admissível aplicar, no furto qualificado, pelo concurso de agentes, a majorante do roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal."
+      },
+      {
+        "letra": "D",
+        "texto": "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes não exige o reconhecimento da traficância pelo acusado, bastando a mera admissão da posse ou propriedade para uso próprio."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da insignificância é aplicável aos crimes contra a administração pública."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1977583",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação"
+    ],
+    "enunciado_principal": "À luz da legislação vigente e do entendimento dos tribunais superiores, julgue o próximo item, relativos a crimes contra a administração pública. O funcionário público que se utilizar de violência ou grave ameaça para obter vantagem indevida cometerá o crime de extorsão e não o de concussão.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1937429",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Em relação aos crimes em espécie, julgue o item subsequente. Na hipótese de um presidiário telefonar para uma mãe de família exigindo que ela faça, imediatamente, um PIX de R$ 5.000,00 para uma terceira pessoa, sob a ameaça de matar seu filho primogênito, que supostamente estaria em cativeiro com outros membros da gangue, quando, na realidade, o filho dela está em segurança na casa da namorada, é correto afirmar que o criminoso responderá pelo crime de estelionato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1933157",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No dia 25 de março de 2022, por volta das 17h, Mauro aborda Christine e, valendo-se de grave ameaça consistente na exibição e empunhadura de uma arma de fogo, determina que ela o acompanhe até o interior de um estacionamento rotativo, obrigando-a a fazer algumas transferências por Pix, para contas diversas, totalizando o prejuízo de R$ 50.000,00. Após confirmar que os valores foram recebidos nas respectivas contas, Mauro algema Christine, colocando um saco plástico opaco em sua cabeça, deixando o local com direção ignorada pela vítima. Ocorre que Christine se desespera e começa a hiperventilar, desmaiando na sequência, oportunidade em que o plástico adere às vias respiratórias e ela morre asfixiada. Diante desse cenário, é correto afirmar que Mauro praticou:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo impróprio;"
+      },
+      {
+        "letra": "B",
+        "texto": "latrocínio;"
+      },
+      {
+        "letra": "C",
+        "texto": "roubo circunstanciado pela restrição de liberdade;"
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão com restrição de liberdade, com resultado morte;"
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão mediante sequestro, com resultado morte."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1914775",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso material",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Amanda estava em um ponto de ônibus, quando foi surpreendida por um indivíduo que, munido de arma de fogo, subtraiu-lhe a bolsa mediante grave ameaça. Após garantir a posse dos pertences da vítima, o agente, ainda se valendo da arma de fogo, constrangeu-a a fornecer a senha de seu cartão bancário, a fim de sacar dinheiro de sua conta-corrente, e, em seguida, fugiu. Nessa situação hipotética, de acordo com a jurisprudência dos tribunais superiores, o agente criminoso praticou",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo e extorsão, em concurso material."
+      },
+      {
+        "letra": "B",
+        "texto": "um único roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo e extorsão, em concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "roubo e constrangimento ilegal, em concurso formal."
+      },
+      {
+        "letra": "E",
+        "texto": "roubo e extorsão, em continuidade delitiva."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1908531",
+    "metadata": "Ano: 2022 | Banca: FURB | Órgão: Prefeitura de Itapema - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Associe a segunda coluna de acordo com a primeira, conforme o Código Penal, que relaciona o nome do crime com a sua descrição: Primeira coluna: crime 1-Furto. 2-Roubo. 3-Extorsão. Segunda coluna: descrição ( )Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência. ( )Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa. ( )Subtrair, para si ou para outrem, coisa alheia móvel. Assinale a alternativa que apresenta a CORRETA associação entre as colunas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 3, 2."
+      },
+      {
+        "letra": "B",
+        "texto": "3, 2, 1."
+      },
+      {
+        "letra": "C",
+        "texto": "2, 3, 1."
+      },
+      {
+        "letra": "D",
+        "texto": "2, 1, 3."
+      },
+      {
+        "letra": "E",
+        "texto": "1, 2, 3."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1900319",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: SERES-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "O presidiário Alberto exigiu do presidiário Bruno que mandasse sua esposa trazer, em visita ao presídio, grande quantidade de dinheiro, para que Alberto pudesse realizar seus gastos na prisão, caso contrário Bruno seria morto pelos colegas de cela que pertenciam à mesma facção criminosa de Alberto. Ao chegar ao presídio com a quantidade elevada de dinheiro, a esposa de Bruno foi abordada pelo policial penal, e o dinheiro acabou apreendido. Nessa situação hipotética, Alberto praticou",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tentativa de roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "tentativa de extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo consumado."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão consumada."
+      },
+      {
+        "letra": "E",
+        "texto": "conduta considerada atípica."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1897201",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Adalberto e Paulo abordaram a vítima Francisca, que dirigia seu veículo, e anunciaram o assalto. Após renderem a vítima, utilizando arma de fogo, subtraíram-lhe 500 reais, bem como a obrigaram a entregar o cartão bancário, além da senha para que pudessem realizar saque. Após liberarem a vítima, Adalberto e Paulo foram presos, sem, contudo, terem conseguido efetuar o saque pretendido. Nessa situação hipotética, ambos praticaram",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo majorado continuado."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo majorado consumado e extorsão qualificada tentada em continuidade."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo majorado consumado e extorsão qualificada consumada em continuidade."
+      },
+      {
+        "letra": "D",
+        "texto": "roubo majorado consumado e extorsão qualificada consumada em concurso material."
+      },
+      {
+        "letra": "E",
+        "texto": "roubo majorado consumado e extorsão qualificada tentada em concurso material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1897116",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Superior Tribunal de Justiça consolidou o entendimento de que o emprego de empurrão contra a vítima, para fins de lhe subtrair bem móvel, configura violência física apta à caracterização do crime de roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão tem sua pena dobrada se a violência ou grave ameaça é exercida com o emprego de arma de fogo de uso restrito ou proibido."
+      },
+      {
+        "letra": "C",
+        "texto": "O Superior Tribunal de Justiça consolidou a adoção da teoria da amotio, segundo a qual se considera consumado o delito de furto quando, cessada a clandestinidade, o agente detenha a posse de fato sobre o bem, ainda que seja possível à vítima retomá-lo, por ato seu ou de terceiro, em virtude de perseguição imediata."
+      },
+      {
+        "letra": "D",
+        "texto": "A difamação de funcionário público com ofensas relacionadas a sua vida familiar não admite a exceção da verdade."
+      },
+      {
+        "letra": "E",
+        "texto": "Há crime de latrocínio, quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1869769",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Crime impossível",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Ainda sobre a hipótese delineada, no texto 1, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é possível invocar a tese do crime impossível, já que o meio utilizado era absolutamente ineficaz;"
+      },
+      {
+        "letra": "B",
+        "texto": "é possível invocar a tese do crime impossível, já que o objeto era absolutamente inapropriado;"
+      },
+      {
+        "letra": "C",
+        "texto": "o crime narrado é material, consumando-se com a obtenção da vantagem indevida;"
+      },
+      {
+        "letra": "D",
+        "texto": "não há continuidade delitiva entre os delitos de roubo e extorsão, pois não pertencem à mesma espécie delitiva."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1869768",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "No texto 1 a ação descoberta pela Polícia Civil, que já vinha monitorando alguns dos integrantes do grupo criminoso, foi de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão qualificada pela restrição da liberdade da vítima;"
+      },
+      {
+        "letra": "B",
+        "texto": "sequestro;"
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão mediante sequestro;"
+      },
+      {
+        "letra": "D",
+        "texto": "roubo com restrição da liberdade da vítima."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2088415",
+    "metadata": "Ano: 2021 | Banca: Avança SP | Órgão: Prefeitura de Louveira - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "“Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte”. A descrição acima refere-se a qual delito previsto no Código Penal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão."
+      },
+      {
+        "letra": "B",
+        "texto": "corrupção ativa."
+      },
+      {
+        "letra": "C",
+        "texto": "corrupção passiva,"
+      },
+      {
+        "letra": "D",
+        "texto": "receptação."
+      },
+      {
+        "letra": "E",
+        "texto": "entrega comprometida."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1892998",
+    "metadata": "Ano: 2021 | Banca: IBADE | Órgão: ISE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "A conduta de constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa, descreve o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Estelionato."
+      },
+      {
+        "letra": "C",
+        "texto": "Furto."
+      },
+      {
+        "letra": "D",
+        "texto": "Receptação."
+      },
+      {
+        "letra": "E",
+        "texto": "Apropriação indébita."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1868181",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Durante a madrugada, o telefone fixo da residência de Gaia toca e, preocupada com seu filho, Hipério, a ligação é atendida com a frase “Hipério, você está bem?”. O chamador, Fobos, afirma que o bem-estar de Hipério dependerá do comportamento dela, já que o tem subjugado. Passa, então, a exigir o pagamento de resgate, passando as orientações para que Gaia deposite R$ 10.000,00 na conta de uma terceira pessoa. Gaia, extremamente aflita, sucumbe à exigência, fazendo a transferência do valor, sem saber que, na verdade, Hipério estava completamente a salvo, apenas dormindo na calçada da sua residência, haja vista o excesso no consumo de bebida alcoólica. Diante de tal quadro, Fobos deverá responder por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto mediante fraude;"
+      },
+      {
+        "letra": "B",
+        "texto": "roubo próprio;"
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão;"
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão mediante sequestro;"
+      },
+      {
+        "letra": "E",
+        "texto": "estelionato."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1856509",
+    "metadata": "Ano: 2021 | Banca: FAPEC | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Em relação aos crimes contra o patrimônio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O “sequestro-relâmpago” (art. 158, §3º do Código Penal) não pressupõe que a vantagem seja prestada pelo próprio constrangido."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo a corrente doutrinária majoritária, é a imprescindibilidade do comportamento da vítima que definirá a extorsão; no roubo, o agente pode ter acesso à coisa a despeito da vítima, segundo seu plano de ação."
+      },
+      {
+        "letra": "C",
+        "texto": "O tipo penal da extorsão mediante sequestro (art. 159 do Código Penal) se refere à obtenção de “qualquer vantagem”. Assim, na interpretação dominante na doutrina, a vantagem almejada pelo agente não necessariamente ostentará natureza patrimonial, podendo ser, por exemplo, de cunho sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "Consoante a jurisprudência do STJ, não é possível que o agente seja condenado por extorsão pela restrição da liberdade da vítima (art. 158, § 3º, CP) e, na terceira fase da dosimetria, o juiz aumente a pena de 1/3 até 1/2 se o crime foi cometido por duas ou mais pessoas ou com emprego de arma (art. 158, § 1º, CP), tendo em vista a distribuição topográfica no tipo penal."
+      },
+      {
+        "letra": "E",
+        "texto": "Configura bis in idem a tipificação autônoma do delito de associação criminosa (art. 288, CP) em concurso com o crime de extorsão mediante sequestro qualificado se o fato é cometido por bando ou quadrilha (art. 159, §1º, CP)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1828400",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Agenor conduzia sua motocicleta em via pública sem usar capacete quando foi parado e abordado, em blitz, pelo agente de trânsito Roberto, funcionário público do Departamento de Trânsito (DETRAN). Para que não fosse multado pelo agente, Agenor prometeu a Roberto vantagem indevida, comprometendo-se a entregar 400 reais ao agente na semana seguinte ao ocorrido. Considerando essa situação hipotética, julgue o item a seguir. Roberto incorrerá em crime de extorsão se empregar violência ou grave ameaça para exigir o dinheiro prometido, caso este tenha sido aceito, mas não tenha sido pago.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1810043",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Paula praticou delito de lesão corporal no dia 20/5/2015, tendo firmado com o Ministério Público, em 30/4/2016, uma transação penal, devidamente homologada pelo juízo competente. No dia 10/11/2017, Paula praticou contravenção penal de jogo do bicho, tendo sido condenada por referido delito em 18/10/2018, sendo que o trânsito em julgado dessa condenação se deu em 5/11/2018. No dia 28/8/2019, Paula praticou delito e extorsão e por tal delito foi condenada em sentença prolatada no dia 14/12/2020. Nessa hipótese, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz, na sentença relativa ao delito de extorsão, deve considerar Paula reincidente."
+      },
+      {
+        "letra": "B",
+        "texto": "A transação penal aceita por Paula, em que pese não gerar condenação, importa para fins de reincidência."
+      },
+      {
+        "letra": "C",
+        "texto": "Na sentença relativa ao delito de extorsão, Paula não poderá ser considerada reincidente."
+      },
+      {
+        "letra": "D",
+        "texto": "A condenação pela contravenção penal de jogo do bicho é capaz de gerar reincidência para Paula no tocante ao delito de extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "Paula apenas será considerada reincidente se praticar outro crime após data do delito de extorsão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1781552",
+    "metadata": "Ano: 2021 | Banca: AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dolores, 20 anos de idade, estava grávida. Certo dia, em razão de fortes dores de cabeça, ela tomou um medicamento para aliviar as dores. Em razão da ingestão do medicamento, Dolores começou a ter fortes dores abdominais e, por isso, foi encaminhada ao hospital, onde acabou abortando o feto. Após tal fato, Dolores foi ler a bula do medicamento e constatou que mulheres grávidas não poderiam fazer seu uso, pois havia risco de aborto. Nesse caso hipotético, pode-se afirmar que Dolores cometeu o crime de aborto em sua modalidade culposa."
+      },
+      {
+        "letra": "B",
+        "texto": "Nilo cometeu crime de apropriação indébita, porém, antes do recebimento da denúncia, ele devolveu a coisa apropriada. Nesse caso hipotético, segundo o Superior Tribunal de Justiça, deve ser reconhecida como extinta a punibilidade do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "Donatello constrangeu Eros com intuito de receber, para si, vantagem econômica indevida, violando assim o art. 158, caput, do Código Penal. Nesse caso hipotético, a consumação de tal crime, segundo entendimento do Superior Tribunal de Justiça, ocorre independente da obtenção da vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "Dominic comprou de Yan um produto furtado, violando, dessa forma, o art. 180, do Código Penal. Nesse caso hipotético, não se pune o receptador (Dominic) caso Yan seja isento de pena, porquanto a receptação não é delito autônomo."
+      },
+      {
+        "letra": "E",
+        "texto": "O perdão do ofendido, conforme disposição no Código Penal, é causa extintiva da punibilidade que pode incidir nos crimes de ação penal privada e nos crimes de ação penal pública condicionada. Nessa última hipótese, só é possível sua ocorrência antes do oferecimento da denúncia pelo Ministério Público."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1777473",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: DEPEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Com relação a direito penal, julgue o item a seguir. No crime de extorsão, não se admite tentativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1767742",
+    "metadata": "Ano: 2021 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "No que diz respeito aos CRIMES EM ESPÉCIE, levando em consideração as COMPREENSÕES MAIS ATUALIZADAS DO STJ, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O roubo (art. 157 do CP), praticado contra titulares de patrimônios distintos, configura concurso formal, mesmo que estejam sob os cuidados de uma única pessoa, alvo da grave ameaça."
+      },
+      {
+        "letra": "B",
+        "texto": "A extorsão (art. 158 do CP) pode ser praticada mediante ameaça feita por pastor, de causar “mal espiritual” a um fiel da igreja, com a finalidade de compeli-lo a realizar doação em dinheiro."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível aplicar o princípio da insignificância ao furto qualificado pelo abuso de confiança (art. 155, §4º, II, do CP), se o agente for primário e a coisa, de ínfimo valor."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a caracterização da apropriação indébita previdenciária (art. 168-A do CP), é necessária a comprovação do elemento subjetivo especial de apropriação de valores."
+      },
+      {
+        "letra": "E",
+        "texto": "É incompatível o dolo eventual com a qualificadora da crueldade no crime de homicídio (art. 121, § 2º, III, do CP)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1751208",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No que concerne aos crimes previstos na parte especial do Código Penal, julgue o item subsequente. Em se tratando de crime de extorsão, não se admite tentativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1700173",
+    "metadata": "Ano: 2020 | Banca: EDUCA | Órgão: Prefeitura de Cabedelo - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "De acordo com o art. 158 do Decreto nº 2.848/40 “Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa”, pena de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reclusão, de dois a quatro anos, e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "Reclusão, de quatro a seis anos, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "Reclusão, de quatro a oito anos, e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "Reclusão, de dois a seis anos, e multa."
+      },
+      {
+        "letra": "E",
+        "texto": "Reclusão, de quatro a dez anos, e multa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1683264",
+    "metadata": "Ano: 2020 | Banca: VUNESP | Órgão: Prefeitura de Ferraz de Vasconcelos - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: “A”, mediante violência, constrange “B” a deixar de fazer alguma coisa, com o intuito de obter para si uma indevida vantagem econômica. Nos termos do Código Penal, é correto afirmar que “A” cometeu o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "B",
+        "texto": "furto, qualificado pelo emprego de violência e com pena de reclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão indireta, qualificado pelo emprego da violência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2685438",
+    "metadata": "Ano: 2019 | Banca: ADVISE | Órgão: Prefeitura de Riachão do Poço - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Andréia estava em manhã de estudos de Direito Penal com seu namorado Marcelo. Durante os estudos, surgiu-lhes uma dúvida sobre qual seria o tipo penal do crime de “Extorsão”. Marcelo resolveu buscar no Código Penal e identificou que a conduta típica do referido crime é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência."
+      },
+      {
+        "letra": "B",
+        "texto": "Sequestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate."
+      },
+      {
+        "letra": "C",
+        "texto": "Exigir ou receber, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra terceiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "Subtrair o condômino, co-herdeiro ou sócio, para si ou para outrem, a quem legitimamente a detém, a coisa comum."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2009895",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Itapevi - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa. Nos termos do Código Penal, é correto afirmar que a conduta descrita caracteriza um crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "furto."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "usurpação."
+      },
+      {
+        "letra": "E",
+        "texto": "concussão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1634320",
+    "metadata": "Ano: 2019 | Banca: IADES | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Quanto ao crime de extorsão, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a extorsão diferencia-se do roubo pela colaboração da vítima e pode envolver bens imóveis."
+      },
+      {
+        "letra": "B",
+        "texto": "a extorsão mediante sequestro é um crime contra a pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "forçar a vítima a sacar dinheiro do caixa eletrônico é um crime de extorsão indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "a extorsão qualificada pela morte na forma tentada não é tipificada como crime hediondo."
+      },
+      {
+        "letra": "E",
+        "texto": "a extorsão assemelha-se ao furto em relação ao envolvimento de bens móveis e imóveis."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1618892",
+    "metadata": "Ano: 2019 | Banca: ADVISE | Órgão: Prefeitura de Juarez Távora - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Extorsão indireta"
+    ],
+    "enunciado_principal": "José Ildo e Fátima estavam em debate sobre qual seria a nomenclatura do crime cometido pela conduta típica de “Sequestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate”. Para sanar a dúvida, os dois colegas buscaram auxílio do professor Leonardo de Direito Penal, que lhes ensinou que se trata do crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "Furto."
+      },
+      {
+        "letra": "C",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "Extorsão indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "Extorsão mediante sequestro."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1125961",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: ITAIPU BINACIONAL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Apropriação indébita",
+      "Receptação"
+    ],
+    "enunciado_principal": "A legislação penal prevê um amplo rol de crimes contra o patrimônio, cada qual com os seus elementos constitutivos próprios. A respeito do assunto, considere as seguintes afirmativas: 1. Comete crime de receptação aquele que recebe coisa que, pela desproporção entre o valor e o preço, deve presumir-se obtida por meio criminoso. 2. Comete crime de extorsão aquele que subtrai, para si ou para outrem, coisa alheia móvel, mediante grave ameaça ou violência contra a pessoa. 3. Comete crime de furto em concurso com ameaça aquele que, logo após subtrair a coisa, emprega grave ameaça, a fim de assegurar a detenção da coisa para si. 4. Comete crime de apropriação indébita aquele que, inicialmente, tem a posse de boa-fé sobre a coisa, mas, num segundo momento, transforma essa posse em domínio, passando a praticar atos típicos de proprietário. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 4 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 4 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1098004",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Analise as assertivas e marque a alternativa correta:I. Uma parcela da doutrina entende que no caso de uma única subtração patrimonial com pluralidade de mortes, considerando a unidade delituosa, não obstante desdobrada em vários atos, há crime único, com o número de mortes atuando como agravante judicial na determinação da pena-base. No entanto, o Superior Tribunal de Justiça vem decidindo que, nos crimes de latrocínio, a prática de uma subtração, com mais de uma morte, dá ensejo ao reconhecimento do concurso formal. II. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação, mas é suficiente para a sua exasperação a indicação do número de majorantes. III. O pagamento de cheque emitido sem suficiente provisão de fundos, após o recebimento da denúncia, não obsta o prosseguimento da ação penal, mas permite o reconhecimento do arrependimento posterior. IV. A pena do roubo é aumentada de 1/3 (um terço) até metade, se há o concurso de duas ou mais pessoas; se a vítima está em serviço de transporte de valores e o agente conhece tal circunstância; se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior; se o agente mantém a vítima em seu poder, restringindo sua liberdade; se há destruição ou rompimento de obstáculo mediante o emprego de explosivo ou de artefato análogo que cause perigo comum. V. O crime de extorsão consuma-se independentemente da obtenção da vantagem, tratando-se, assim, de delito formal que não admite a tentativa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas I, III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas II e V estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1089543",
+    "metadata": "Ano: 2019 | Banca: Fundação CEFETBAHIA | Órgão: Prefeitura de Cruz das Almas - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Extorsão indireta"
+    ],
+    "enunciado_principal": "João exerce a função de guarda municipal em uma Unidade de Saúde da Família (USF) do Município do Brejo. Na última sexta-feira, foi ameaçado por um colega, que portava um canivete, para que não o denunciasse por levar consigo cinco caixas de luvas descartáveis da USF. De acordo com o Código Penal Brasileiro, a situação acima, caracteriza que João foi vítima de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto."
+      },
+      {
+        "letra": "B",
+        "texto": "furto de coisa comum."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "furto qualificado."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão indireta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1057576",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Olímpia - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: “A” constrange alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa. Nos termos do Código Penal, “A”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "responderá pelo crime de extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "responderá pelo crime de furto qualificado."
+      },
+      {
+        "letra": "C",
+        "texto": "responderá pelo crime de apropriação indébita."
+      },
+      {
+        "letra": "D",
+        "texto": "responderá pelo crime de roubo."
+      },
+      {
+        "letra": "E",
+        "texto": "não responderá por qualquer crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "976014",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Disposições gerais nos Crimes Contra o Patrimônio"
+    ],
+    "enunciado_principal": "Especificamente aos crimes cometidos contra o patrimônio, estabelecidos no Título II do Código Penal, é isento de pena quem comete",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime de roubo em prejuízo a qualquer parente consanguíneo."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de furto simples contra ascendente maior de 60 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "o crime de extorsão contra irmão, legítimo ou ilegítimo."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de roubo contra irmão, legítimo ou ilegítimo."
+      },
+      {
+        "letra": "E",
+        "texto": "o crime de furto em prejuízo do cônjuge, na constância da sociedade conjugal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1013399",
+    "metadata": "Ano: 2018 | Banca: CETREDE | Órgão: Prefeitura de Forquilha - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "“Dos crimes contra a pessoa” Correlacione a coluna B pela coluna A COLUNA A I. Lesão corporal. II. Furto. III. Roubo. IV. Extorsão. V. Extorsão indireta. VI. Estelionato COLUNA B ( ) Ofender a integridade corporal ou a saúde de outrem. ( ) Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa. ( ) Subtrair, para si ou para outrem, coisa alheia móvel. ( ) Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência.( ) Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento. ( ) Exigir ou receber, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra terceiro. Marque a opção que apresenta a sequência CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I – IV – II – III – VI – V."
+      },
+      {
+        "letra": "B",
+        "texto": "I – II – III – IV – V – VI."
+      },
+      {
+        "letra": "C",
+        "texto": "II – IV – V – VI – I – III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV – III – II – I – V – VI."
+      },
+      {
+        "letra": "E",
+        "texto": "III – V – I – II – VI – IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "953790",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Apropriação indébita",
+      "Receptação"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra o patrimônio, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conforme entendimento sedimentado do Superior Tribunal de Justiça, aplicam-se às qualificadoras objetivas e subjetivas do furto a causa de aumento de pena do repouso noturno e a forma privilegiada."
+      },
+      {
+        "letra": "B",
+        "texto": "qualifica a extorsão mediante sequestro se o sequestrado é menor de 18 (dezoito) anos ou maior de 60 (sessenta) anos, de sorte que se restituído à liberdade depois de completar 18 (dezoito) anos, ou sequestrado antes de completar 60 (sessenta) anos, embora libertado a partir dessa idade, não incide a qualificadora."
+      },
+      {
+        "letra": "C",
+        "texto": "na Apropriação Indébita Previdenciária, é facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que tenha promovido, após o início da ação fiscal e antes de ser oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios."
+      },
+      {
+        "letra": "D",
+        "texto": "a absolvição pelo crime pressuposto da receptação impede a condenação do receptador quando não existir prova de ele ter concorrido para a infração penal, ficar provada a inexistência do fato, não houver prova da existência do fato, não constituir o fato infração penal ou existir circunstância que exclua o crime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "941662",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a fé pública",
+      "Falsidade de títulos e outros papéis públicos"
+    ],
+    "enunciado_principal": "De acordo com a Jurisprudência sumulada do Superior Tribunal de Justiça, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da insignificância é inaplicável aos crimes contra a administração pública."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandado de segurança não se presta para atribuir efeito suspensivo a recurso criminal interposto pelo Ministério Público."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao juízo do local da falsificação do cheque processar e julgar crime de estelionato nessa modalidade, sendo irrelevante o local da obtenção da vantagem ilícita."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "904024",
+    "metadata": "Ano: 2018 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Conduta: ação / omissão",
+      "Causas de extinção da punibilidade",
+      "Perdão judicial",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Com relação ao Direito Penal e as Súmulas do STJ e STF, é CORRETO afirmar, no entendimento sumulado que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há crime, mesmo quando ocorre a preparação do flagrante pela polícia, havendo então a prova de que ocorreu a consumação."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão consuma-se quando se prova a obtenção da vantagem indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "Há crime de latrocínio, quando o homicídio se consuma, quando há prova de que ocorreu a subtração de bens da vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se admite continuidade delitiva nos crime contra a vida."
+      },
+      {
+        "letra": "E",
+        "texto": "A sentença concessiva do perdão judicial é declaratória da extinção da punibilidade, subsistindo ainda efeito condenatório."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "893194",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EBSERH",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, relativos aos tipos penais dispostos no Código Penal e nas leis penais extravagantes. A distinção entre o roubo e a extorsão está no grau de participação da vítima, tendo em vista que, no segundo tipo penal, é exigida a participação efetiva do agente lesado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "866295",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Apropriação indébita",
+      "Estelionato",
+      "Receptação"
+    ],
+    "enunciado_principal": "Considerando o disposto na Parte Especial do Código Penal, mais especificamente no tocante aos Crimes contra o Patrimônio, analise as seguintes assertivas: I. O crime de furto pode ser qualificado pelo emprego de fraude, entretanto, embora na espécie o agente empregue meio enganoso para iludir a vigilância da vítima sobre a coisa, difere do crime de estelionato, pois neste último não há o ato de subtração. II. O crime de roubo pode ser próprio ou impróprio, neste último caso, quando o agente emprega violência ou grave ameaça para subtrair o bem da vítima. Também, o roubo pode ser qualificado, a chamada figura do latrocínio, sendo este crime hediondo apenas quando do resultado morte, caso em que sempre será um crime preterdoloso. III. O crime de extorsão difere-se do crime de extorsão mediante sequestro, pois este último é uma forma qualificada de extorsão, sendo que todas as suas formas são consideradas como crimes hediondos, diferentemente do crime de extorsão, onde apenas o resultado morte é que gerará a tipificação de crime hediondo. IV. O crime de receptação requer a existência de crime antecedente, sendo que seu sujeito ativo não pode ter sido concorrente desse crime anterior. O crime de apropriação indébita requer dolo posterior e não antecedente à detenção da coisa, pois nesse caso se poderá falar da ocorrência do crime de estelionato. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2873251",
+    "metadata": "Ano: 2017 | Banca: Instituto Acesso | Órgão: CODEMAR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública"
+    ],
+    "enunciado_principal": "Maria, funcionária pública, em razão de sua função, exigiu vantagem indevida a João. No entanto, quando foi receber o dinheiro das mãos de João, Maria foi surpreendida pela polícia e, portanto, deixou de obter a vantagem almejada. Maria praticou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão na forma tentada."
+      },
+      {
+        "letra": "B",
+        "texto": "concussão na forma consumada."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "peculato."
+      },
+      {
+        "letra": "E",
+        "texto": "não responde por crime algum, vez que não houve a sua consumação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "906489",
+    "metadata": "Ano: 2017 | Banca: FGV | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Corrupção ativa",
+      "Tráfico de influência"
+    ],
+    "enunciado_principal": "A denúncia de desvios de verbas, a investigação de agentes públicos e privados, o desmantelamento de esquemas para beneficiar indevidamente órgãos e instituições, têm ocupado as manchetes diárias da mídia impressa e televisiva, familiarizando o cidadão brasileiro com uma terminologia jurídica sobre os crimes associados à corrupção. Relacione os tipos de crime listados abaixo às suas respectivas caracterizações. 1. Corrupção ativa 2. Tráfico de influência 3. Extorsão ( ) Oferecimento de alguma forma de compensação para que o agente público deixe de fazer algo que, dentro de suas funções, deveria fazer. ( ) Uso de uma posição privilegiada dentro de uma empresa ou entidade, ou das conexões com pessoas em posição de autoridade, para obter favores ou benefícios para terceiros. ( ) Ato de obrigar alguém a fazer ou deixar de fazer alguma coisa, mediante violência ou ameaça, com a intenção de obter vantagem, recompensa ou lucro. Assinale a opção que mostra a relação correta, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 3 e 2"
+      },
+      {
+        "letra": "B",
+        "texto": "1, 2 e 3"
+      },
+      {
+        "letra": "C",
+        "texto": "2, 1 e 3"
+      },
+      {
+        "letra": "D",
+        "texto": "2, 3 e 1"
+      },
+      {
+        "letra": "E",
+        "texto": "3, 2 e 1"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "855342",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão"
+    ],
+    "enunciado_principal": "A respeito de crimes contra o patrimônio, assinale a opção correta, à luz do entendimento dos tribunais superiores.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A regra do furto privilegiado não se aplica ao crime qualificado por ruptura de obstáculo."
+      },
+      {
+        "letra": "B",
+        "texto": "A extorsão é crime material, e a sua consumação exige a concretização da vantagem econômica exigida pelo agente."
+      },
+      {
+        "letra": "C",
+        "texto": "O pagamento, antes da sentença, de cheque emitido sem provisão de fundos implica a extinção da punibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "O reconhecimento da atipicidade material do furto pelo princípio da insignificância depende exclusivamente da inexpressividade do valor res furtiva."
+      },
+      {
+        "letra": "E",
+        "texto": "No furto de água ou de energia elétrica, o pagamento do débito à companhia fornecedora antes de recebida a denúncia implica a extinção da punibilidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "841993",
+    "metadata": "Ano: 2017 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra o patrimônio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O roubo qualificado pela privação da liberdade, a extorsão simples e a extorsão mediante sequestro, crimes patrimoniais com a circunstância elementar comum de restrição da liberdade da vítima, são considerados crimes hediondos, independentemente da ocorrência de lesão grave ou morte da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "A extorsão mediante sequestro é crime material, consumando-se com o recebimento do resgate exigido como condição para a soltura da vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de receptação é punível, ainda que desconhecido o autor do crime de que proveio a coisa. No entanto, se o autor do crime antecedente for isento de pena, não é punível a prática da receptação."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime de estelionato, o emprego da fraude visa diminuir a vigilância da vítima para que o agente realize a subtração do bem móvel."
+      },
+      {
+        "letra": "E",
+        "texto": "Será pública e condicionada à representação a ação penal movida contra agente que subtrai da sobrinha dois mil reais guardados na sala onde ambos residem. De acordo com o Código Penal, o autor do crime não poderá se beneficiar da isenção da pena."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "839602",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: PC-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra o patrimônio, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente se procede mediante representação, o furto praticado contra tio ou sobrinho."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a consumação do crime de extorsão faz-se necessário o recebimento da vantagem indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "É isento de pena quem comete qualquer crime contra o patrimônio contra ascendente maior de 65 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "A receptação somente é punível se conhecido o autor do crime que originou a coisa receptada."
+      },
+      {
+        "letra": "E",
+        "texto": "No crime de roubo, caso o agente seja primário e tenha sido de pequeno valor a coisa subtraída, o juiz poderá substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços ou aplicar somente a pena de multa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "800803",
+    "metadata": "Ano: 2017 | Banca: Fundação La Salle | Órgão: SUSEPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Constrangimento ilegal",
+      "Ameaça",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Quem constranger alguém, mediante violência ou grave ameaça, ou depois de lhe haver reduzido, por qualquer outro meio, a capacidade de resistência, a não fazer o que a lei permite, ou a fazer o que ela não manda estará incorrendo no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ameaça."
+      },
+      {
+        "letra": "B",
+        "texto": "constrangimento ilegal."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão indireta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "795669",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Crimes contra a incolumidade pública",
+      "Crimes de perigo comum",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Legislação Penal Especial",
+      "Lei de Crimes Hediondos – Lei nº 8.072 de 1990"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o noticiado pela mídia, recentemente a Força Tarefa de Combate ao Abigeato e Crimes Rurais da Polícia Civil do RS prendeu no interior do município de Cacequi o suspeito de ser um dos maiores abigeatários daquela cidade, quando localizou 11(onze) vacas furtadas em sua propriedade. No município de Ipê, a Força Tarefa apreendeu 13 (treze) bovinos subtraídos de uma fazenda local. E, numa operação em Vacaria, recuperou três ovelhas vivas e uma outra já carneada no local do furto, quando o ladrão preparava-se para consumi-la num churrasco. A subtração de animal semovente domesticável de produção é uma das hipóteses legais de furto qualificado, apenado com reclusão de dois a cinco anos, ainda que o animal tenha sido abatido ou dividido em partes no local da subtração."
+      },
+      {
+        "letra": "B",
+        "texto": "Tem sido frequente a subtração de dinheiro de caixas eletrônicos de agências bancárias com a utilização de dinamites ou explosivos de efeitos análogos. Sob o ponto de vista penal, a explosão de grandes proporções, que não raro destrói, além dos caixas, parte das instalações das agências, expondo a perigo concreto a integridade física e o patrimônio das pessoas dos prédios vizinhos, não pode ser considerada simples rompimento de obstáculo à subtração dos valores, mas crime autônomo de explosão em concurso formal com o delito patrimonial."
+      },
+      {
+        "letra": "C",
+        "texto": "Caracteriza concurso de roubo e extorsão, a conduta do agente que, após subtrair bens de propriedade da vítima no estacionamento do supermercado, obrigou-a, também mediante grave ameaça, a efetuar compras de outros bens em lojas do mesmo shopping, visando a obtenção indevida de vantagem econômica."
+      },
+      {
+        "letra": "D",
+        "texto": "É hediondo o crime de homicídio do soldado da Brigada Militar cometido em decorrência da sua função policial."
+      },
+      {
+        "letra": "E",
+        "texto": "O prefeito municipal que leva para sua casa de praia dois refrigeradores da prefeitura com o fito de usá-los na festa de seu aniversário, e o delegado de polícia que comparece nesta festa usando o relógio de pulso em ouro apreendido de um receptador, ambos sem a intenção de incorporarem tais bens ao patrimônio pessoal ou de terceiro, não cometem fato típico de peculato, diversamente do que ocorre com o estagiário do Departamento Estadual de Estradas que se apropria do combustível colocado à disposição da autarquia pela empresa contratada para o abastecimento exclusivo dos veículos de acompanhamento e fiscalização das obras na rodovia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "793857",
+    "metadata": "Ano: 2017 | Banca: IBFC | Órgão: POLÍCIA CIENTÍFICA-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Considere as regras básicas aplicáveis ao Direito Penal e ao Direito Processual Penal para assinalar a alternativa em que não conste crime contra a pessoa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homicídio"
+      },
+      {
+        "letra": "B",
+        "texto": "Aborto"
+      },
+      {
+        "letra": "C",
+        "texto": "Feminicídio"
+      },
+      {
+        "letra": "D",
+        "texto": "Indução a suicídio"
+      },
+      {
+        "letra": "E",
+        "texto": "Extorsão"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2034903",
+    "metadata": "Ano: 2016 | Banca: CONSULPAM | Órgão: Prefeitura de Cascavel - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Peculato"
+    ],
+    "enunciado_principal": "Nos termos do Art. 312 do Código Penal, “apropriar-se o funcionário público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio” trata-se de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furto."
+      },
+      {
+        "letra": "B",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "Peculato."
+      },
+      {
+        "letra": "E",
+        "texto": "Furto qualificado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "802882",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Extorsão indireta",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Após a leitura das alternativas abaixo, que contém alguns dos crimes contra o patrimônio previstos no Código Penal Brasileiro, identifique a(s) afirmações correta(s):I. Extorsão - Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa. II. Extorsão indireta - Solicitar, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra terceiro III. Extorsão mediante sequestro - Sequestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate. IV. Apropriação de coisa havida por erro, caso fortuito ou força da natureza - Apropriar-se alguém de coisa alheia vinda ao seu poder por descuido, ou em força da natureza: A sequência correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e III estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "734403",
+    "metadata": "Ano: 2016 | Banca: IBEG | Órgão: Prefeitura de Teixeira de Freitas - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Qual dos enunciados abaixo não corresponde a entendimento jurisprudencial consagrado em Súmulas de Tribunais Superiores:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“é inadmissível aplicar, no furto qualificado, pelo concurso de agentes, a majorante do roubo.”"
+      },
+      {
+        "letra": "B",
+        "texto": "\"o crime de extorsão consuma-se independentemente da obtenção da vantagem indevida\"."
+      },
+      {
+        "letra": "C",
+        "texto": "“no crime de roubo, a intimidação feita com arma de brinquedo autoriza o aumento da pena”"
+      },
+      {
+        "letra": "D",
+        "texto": "\"há crime de latrocínio, quando o homicídio se consuma, ainda que não realize o agente a subtração dos bens da vítima\"."
+      },
+      {
+        "letra": "E",
+        "texto": "\"Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido\""
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "707172",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: DPE-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "No que concerne aos crimes contra o patrimônio, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "há pluralidade de latrocínios, se diversas as vítimas fatais, ainda que único o patrimônio visado e lesado, conforme entendimento pacificado dos tribunais superiores."
+      },
+      {
+        "letra": "B",
+        "texto": "possível o reconhecimento da figura privilegiada do delito nos casos de furto qualificado, se primário o agente e de pequeno valor a coisa subtraída, independentemente da natureza da qualificadora, segundo entendimento sumulado do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "a indispensabilidade do comportamento da vítima não constitui critério de diferenciação entre o roubo e a extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "a receptação própria não prevê modalidade de crime permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "não constitui furto de energia a subtração de sinal de TV a cabo, consoante já decidido pelo Supremo Tribunal Federal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "693601",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Afim de subtrair pertences de Bartolomeu, Marinalda coloca barbitúricos em sua bebida, fazendo-o desfalecer. Em seguida, a mulher efetiva a subtração e deixa o local, sendo certo que o lesado somente vem a acordar algumas horas depois. Nesse contexto, é correto afirmar que Marinalda praticou crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "apropriação indébita."
+      },
+      {
+        "letra": "E",
+        "texto": "furto qualificado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "679918",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Peculato"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente que subtrai coisa móvel alheia, para si ou para outrem, depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência da vítima, pratica o crime de roubo impróprio."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes funcionais estão sujeitos à extraterritorialidade condicionada da lei penal brasileira."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de Peculato culposo, ocorrendo a reparação do dano até o recebimento da denúncia, extingue-se a punibilidade; se lhe é posterior, reduz de metade a pena imposta."
+      },
+      {
+        "letra": "D",
+        "texto": "O funcionário público que exige, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, utilizando-se de violência ou grave ameaça, comete o crime de extorsão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "632885",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Constrangimento ilegal",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Com base no Código Penal, em relação aos crimes contra a liberdade pessoal e aos crimes contra o patrimônio, considera-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“furto de coisa comum” a subtração, para si ou para outrem, de bem móvel fungível que esteja armazenado, juntamente com outros assemelhados, em local de guarda compartilhada."
+      },
+      {
+        "letra": "B",
+        "texto": "“furto qualificado” a subtração, para si ou outrem, de coisa alheia móvel, desde que praticada por quadrilha."
+      },
+      {
+        "letra": "C",
+        "texto": "“roubo”, a subtração de coisa alheia móvel, para si ou outrem, quando praticada contra pessoa incapaz ou menor de 14 anos, presumindo-se o emprego ao menos de grave ameaça, salvo prova em contrário."
+      },
+      {
+        "letra": "D",
+        "texto": "“constrangimento ilegal” a prática de qualquer ato que, após haver reduzido a capacidade de resistência de alguém, lhe constrange a não fazer o que a lei permite ou a fazer que ela não manda."
+      },
+      {
+        "letra": "E",
+        "texto": "“extorsão indireta” ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar mal injusto e grave, com o objetivo de atingir fim ilícito que beneficie terceiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "629848",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato",
+      "Receptação"
+    ],
+    "enunciado_principal": "Placídio achou na rua um cartão de crédito e o utilizou para efetuar compras de roupas finas em um estabelecimento comercial. Essa conduta caracterizou o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apropriação indébita."
+      },
+      {
+        "letra": "B",
+        "texto": "furto qualificado pela fraude."
+      },
+      {
+        "letra": "C",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão simples."
+      },
+      {
+        "letra": "E",
+        "texto": "receptação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "629354",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Peter, pessoa de grande porte físico, agarrou Paulus pelas costas e o imobilizou com uma “gravata”. Com a vítima imobilizada, subtraiu-lhe a carteira, o celular e o relógio. Em seguida, deixou o local e soltou a vítima que não sofreu nenhum ferimento. Peter cometeu crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão simples."
+      },
+      {
+        "letra": "B",
+        "texto": "furto qualificado pela destreza."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo qualificado."
+      },
+      {
+        "letra": "D",
+        "texto": "roubo simples."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão qualificada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "636707",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "“Tício entrou no ônibus, apontou um revólver para o passageiro Caio e disse: ‘Passe o dinheiro’. Caio, de imediato, entregou uma nota de 2 (dois) reais a Tício. Em seguida, Tício desceu do ônibus, entrou em um bar e bebeu uma pinga. Pagou a cachaça com a nota de 2 (dois) reais e, em seguida, foi preso pela polícia.” A conduta de Tício configura crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impossível."
+      },
+      {
+        "letra": "B",
+        "texto": "de extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "de roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "de furto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "577645",
+    "metadata": "Ano: 2015 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Apropriação indébita",
+      "Receptação",
+      "Legislação Penal Especial",
+      "Crimes contra a propriedade intelectual de programa de computador  - Lei n° 9.609/1998"
+    ],
+    "enunciado_principal": "Quanto aos crimes patrimoniais, assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pratica extorsão quem telefona para a vítima simulando ter sequestrado parente seu e exigindo o depósito de quantia em dinheiro em sua conta, sob ameaça de morte, verificando-se, posteriormente, que não houve sequestro algum."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplica-se causa de aumento de pena se o autor do crime de apropriação indébita recebeu a coisa em razão do parentesco com a vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "Constituem meios idôneos intimidatórios, a ponto de se configurar o delito de roubo, a simulação de porte de arma de fogo e a afirmação do agente de que, se a vítima não lhe entregar seus pertences, irá “passar fogo\" nela."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de distribuição, ocultação ou manutenção em depósito, sem autorização, de original ou cópia de obra intelectual ou fonograma reproduzido com violação de direito autoral só se configura caso o agente atue com o intuito de lucro direto ou indireto."
+      },
+      {
+        "letra": "E",
+        "texto": "Pratica fato atípico o agente que, uma única vez na vida, sem estar no exercício de atividade comercial, vende coisa que sabe ser produto de crime a terceiro, o qual, por sua vez, conhece a origem ilícita do bem."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "571892",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca dos crimes contra o patrimônio conforme entendimento do STJ e da doutrina majoritária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indivíduo que vender coisa própria inalienável, gravada de ônus ou litigiosa, ou imóvel que tiver prometido vender a terceiro mediante pagamento em prestações, e silenciar sobre quaisquer dessas circunstâncias, praticará o delito de induzimento à especulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, posteriormente à subtração dos bens, a vítima for obrigada a fornecer senha para a realização de saques em sua conta bancária, será configurado um delito único, ou seja, a extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de roubo se consuma quando o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que o objeto subtraído não saia da esfera de vigilância da vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "No crime de apropriação indébita, assim como no de estelionato, o agente detém, anteriormente à prática do crime, a posse lícita da coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "A destruição de patrimônio de empresa pública, a exemplo da Caixa Econômica Federal, configura dano qualificado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "560168",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: CNMP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "O agente enviou para mulher casada cópias de fotografias dela nua, tiradas em encontro amoroso que haviam mantido. Exigiu dela o pagamento de importância em dinheiro sob ameaça de, caso não atendido, revelar segredo íntimo de sua vida amorosa, enviando as fotos ao seu marido, aos filhos e às pessoas do seu meio social. A partir desse relato, é correto afirmar que a situação é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica sob o prisma jurídico, pois trata-se de uma discussão em torno da conduta moral da mulher casada. Essa conduta seria tipificada como extorsão somente se houvesse mais de um sujeito ativo a beneficiar-se com vantagem não econômica."
+      },
+      {
+        "letra": "B",
+        "texto": "tipificada como crime de extorsão indireta, cuja pena é de reclusão de 1 a 3 anos e multa, pois o agente constrangeu a vítima com o objetivo de obter vantagem econômica por meio de documentos."
+      },
+      {
+        "letra": "C",
+        "texto": "atípica sob o prisma jurídico, pois trata-se de uma discussão em torno da conduta moral da mulher casada. Embora possa ensejar discussões acerca de comportamento reprovável, não é passível de punição objetiva no ordenamento legal."
+      },
+      {
+        "letra": "D",
+        "texto": "tipificada como crime de extorsão, cuja pena é de reclusão de 4 a 10 anos e multa, pois o agente constrangeu a vítima com o objetivo de obter vantagem econômica."
+      },
+      {
+        "letra": "E",
+        "texto": "tipificada como crime de extorsão, cuja pena é de reclusão de 12 a 20 anos e multa, desde que a vítima constrangida pelo agente seja menor de 18 e maior de 60 anos, com o objetivo de obter vantagem não econômica."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "532524",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Dano",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra o patrimônio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime de furto de uso, se a coisa infungível é subtraída para fim de uso momentâneo, e, a seguir, vem a ser imediatamente restituída ou reposta no lugar onde se achava, responderá o agente por pena de detenção de até seis meses e pagamento de trinta dias-multa."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o agente consuma o homicídio, mas não obtém êxito na subtração de bens da vítima por circunstâncias alheias à sua vontade, responderá por crime de homicídio qualificado consumado."
+      },
+      {
+        "letra": "C",
+        "texto": "O delito de dano, previsto pelo art. 163 do Código Penal, prevê as modalidades dolosa e culposa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com o art. 168, § 1o , do Código Penal, são causas exclusivas de aumento da pena ao delito de apropriação indébita quem receber a coisa em depósito necessário ou em razão de ofício, emprego ou profissão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "530904",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "Sobre crimes contra o patrimônio, considere as seguintes assertivas: I. O crime de extorsão se perfectibiliza no momento em que a vítima é constrangida, mediante grave ameaça, a fazer, deixar de fazer ou tolerar que se faça alguma coisa. E, tendo o agente exigido numerário, sob pena de mal futuro, caracterizado está referido delito, independentemente de obtenção da vantagem indevida. II. No sistema legal brasileiro o latrocínio contempla crime complexo, qualificado pelo resultado, formado pela soma dos delitos de roubo e homicídio, doloso ou culposo. III. O perdão judicial previsto no § 5° do artigo 180 do Código Penal constitui benefício incompatível com a modalidade dolosa do crime de receptação. IV. O agente que tenta adentrar em estabelecimento ainda que com o intuito de subtrair coisa alheia móvel, mas, por circunstâncias alheias à sua vontade, não efetiva a empreitada criminosa, comete o crime de dano, desde que esse seja mais grave do que o furto tentado. É correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "528029",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Josefa teve acesso a arquivos comprovando infidelidade conjugal por parte de Mário, que vendeu um dos seus computadores sem apagar seus arquivos pessoais. Ciente disso, e sabendo que Mário era casado, Josefa entrou em contato com ele, por telefone, marcando encontro, no qual ele deveria repassar a ela o valor de R$ 10.000,00 para que não mostrasse aqueles arquivos para a mulher dele. No dia do encontro, Mário compareceu com o dinheiro, e a polícia, que foi avisada por ele, tão logo Josefa guardou o dinheiro na bolsa, deu a ela voz de prisão em flagrante. A respeito deste episódio, Josefa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cometeu o crime de furto dos arquivos de Mário (art. 155, CP), uma vez que a posse legítima do computador não levou à posse legítima dos arquivos pessoais que estavam nele, em concurso material com extorsão (art. 158, CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "cometeu o crime de ameaça, previsto no artigo 147, CP."
+      },
+      {
+        "letra": "C",
+        "texto": "não cometeu qualquer crime, considerando que os arquivos do computador vendido por Mário chegaram em suas mãos por descuido dele, que não os apagou quando vendeu o equipamento."
+      },
+      {
+        "letra": "D",
+        "texto": "cometeu o crime de roubo tentado, considerando que para obter o valor de R$ 10.000,00 usou de ameaça contra Mário (ameaçava mostrar os arquivos para a mulher dele)."
+      },
+      {
+        "letra": "E",
+        "texto": "cometeu o crime de extorsão, previsto no artigo 158, CP."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "512635",
+    "metadata": "Ano: 2015 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Periclitação da vida e da saúde",
+      "Omissão de socorro",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Crimes contra a dignidade sexual",
+      "Estupro"
+    ],
+    "enunciado_principal": "Dentre as afirmações abaixo, assinale a falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do latrocínio, é irrelevante que a pessoa morta em razão da violência empregada pelo agente não seja a mesma que detinha a posse da coisa subtraída."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a tipificação da extorsão mediante sequestro qualificada pelo resultado é necessário que a violência utilizada pelo agente e da qual resulta morte seja empregada contra o sequestrado."
+      },
+      {
+        "letra": "C",
+        "texto": "O estupro qualificado se configura quando o agente, ao praticar a conduta dirigida à realização do estupro, causa lesão corporal de natureza grave ou morte da vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a morte da gestante sobrevém em consequência dos meios inadequados empregados pelo agente para provocar o aborto, responderá ele por homicídio culposo."
+      },
+      {
+        "letra": "E",
+        "texto": "A forma majorada da omissão de socorro dispensa a prova do nexo causal natural entre a morte da vítima e a conduta do agente, bastando tão somente a existência da possibilidade de que a atuação deste poderia evitar o evento letal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "465965",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Crime continuado",
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Segunda fase da dosimetria.",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Em relação à aplicação da pena, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a chamada “confissão qualificada\", ainda que efetivamente utilizada como elemento de convicção, não enseja a aplicação da atenuante prevista no Art. 65 do CP;"
+      },
+      {
+        "letra": "B",
+        "texto": "é possível o reconhecimento de continuidade delitiva entre os crimes de roubo e extorsão, quando praticados em conjunto;"
+      },
+      {
+        "letra": "C",
+        "texto": "na dosimetria da pena, os fatos posteriores ao crime em julgamento não podem ser utilizados como fundamento para valorar negativa a culpabilidade do réu;"
+      },
+      {
+        "letra": "D",
+        "texto": "não é admissível a fixação do regime prisional fechado aos não reincidentes condenados por roubo a pena superior a quatro anos e inferior a oito anos, mesmo que constatada a gravidade concreta da conduta delituosa;"
+      },
+      {
+        "letra": "E",
+        "texto": "o reconhecimento da atenuante da confissão espontânea tem o condão de conduzir a pena abaixo do mínimo legal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "762868",
+    "metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: SUSEPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lesões corporais",
+      "Lesões corporais qualificadas",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Tício subtrai coisa alheia móvel de Mélvio e, logo depois de subtraída a coisa, emprega violência ou grave ameaça contra Mélvio, a fim de assegurar a impunidade do crime ou a detenção da coisa para si. O crime cometido por Tício foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Furto."
+      },
+      {
+        "letra": "C",
+        "texto": "Extorsão indireta."
+      },
+      {
+        "letra": "D",
+        "texto": "Roubo."
+      },
+      {
+        "letra": "E",
+        "texto": "Lesão corporal grave."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "518549",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, a conduta conhecida como “seqüestro relâmpago” (em que os agentes abordam a vítima, restringem sua liberdade, e com ela deslocam-se a caixas eletrônicos, com o intuito de fazer saques em dinheiro) enquadra-se no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão mediante seqüestro."
+      },
+      {
+        "letra": "C",
+        "texto": "constrangimento ilegal."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "E",
+        "texto": "seqüestro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "485775",
+    "metadata": "Ano: 2014 | Banca: IPAD | Órgão: Prefeitura de Recife - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Beltrano, aproveitando-se da greve da força estadual de segurança pública, invade casa de eletrodomésticos a noite, arromba a porta de acesso e subtrai televisão. Após ampla divulgação do acontecido pelos meios de imprensa, Beltrano arrependido devolve a televisão. Considerando o exposto, e correto afirmar que Beltrano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não cometeu crime algum, visto que devolveu a televisão."
+      },
+      {
+        "letra": "B",
+        "texto": "Cometeu o crime de roubo, visto que agiu quando a força de segurança do Estado se encontrava de greve."
+      },
+      {
+        "letra": "C",
+        "texto": "Cometeu o crime de apropriação indébita, visto que inobstante tenha subtraido devolveu o objeto"
+      },
+      {
+        "letra": "D",
+        "texto": "Cometeu o crime de furto, sendo irrelevante para consumação do citado crime a devolução da televisão."
+      },
+      {
+        "letra": "E",
+        "texto": "Cometeu o crime de estelionato visto que agiu com ardil se aproveitando da greve da força de segurança do Estado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "480818",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "“Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência”. O Código Penal Brasileiro intitula o tipo penal ora transcrito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "furto de coisa comum."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo."
+      },
+      {
+        "letra": "D",
+        "texto": "furto qualificado."
+      },
+      {
+        "letra": "E",
+        "texto": "furto."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "463518",
+    "metadata": "Ano: 2014 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Falso Testemunho ou Falsa Perícia. Corrupção Ativa de Testemunha ou Perito"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No peculato culposo, a reparação do dano, se precede à sentença irrecorrível, extingue a punibilidade; se lhe é posterior, ou seja, se ocorre depois do trânsito em julgado da sentença penal condenatória, reduz de metade a pena imposta. Por outro lado, no peculato doloso, a reparação do dano, até o recebimento da ação penal, por ato voluntário do agente, redundará na redução de pena de um a dois terços; se, entretanto, a reparação do dano por ato voluntário do agente ocorrer após o recebimento da denúncia, ainda assim, poderá a pena do autor do crime de peculado doloso ser legalmente atenuada"
+      },
+      {
+        "letra": "B",
+        "texto": "Paulo dirige-se a uma repartição pública e entrega a Salim M., funcionário municipal, uma determinada quantia em dinheiro a título de pagamento de tributos supostamente atrasados. Nesse instante, Salim M. percebe que a dívida já havia sido paga, mas fica em silêncio e apropria-se do valor. Tipifica-se, na hipótese, o delito de \"peculato apropriação\" (art. 312, caput, 1ª parte, do Código Penal)."
+      },
+      {
+        "letra": "C",
+        "texto": "Dantas, policial rodoviário, determina a parada de um automóvel, no que é prontamente atendido. Em seguida, Dantas analisa os documentos do motorista e do veículo, todos em ordem. Visualiza, porém, um aparelho de som no painel do automóvel, que somente pode ser retirado com a digitação da senha pelo seu proprietário. Desejando apossar-se do bem, o servidor público aponta seu revólver na direção do motorista e ameaça matá-lo caso não lhe entregue o aparelho de som. Na hipótese, o servidor público Dantas cometeu o crime de extorsão (art. 158 do Código Penal)"
+      },
+      {
+        "letra": "D",
+        "texto": "Dois peritos elaboram em conjunto um laudo de exame de DNA, atendendo a determinação judicial, e de comum acordo, mediante suborno, fazem afirmações falsas no âmbito de processo cível de investigação de paternidade, concluindo inveridicamente que o autor da ação não é filho do demandado. Tem-se, na hipótese, o crime de \"falsa perícia\" (art. 342, § 1º, do Código Penal), doutrinariamente classificado por Cleber Masson como delito de mão própria que admite coautoria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "444038",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No dia 1º de novembro de 2012, por volta das 14h, o policial civil Otavio Gustavo Meireles, vulgo cofrinho, ao dar cumprimento ao mandado de prisão, expedido pelo Juiz da 2ª Vara Criminal, prendeu Laurindo Santos, 20 anos, quando este chegava a sua residência. Laurindo foi preso em decorrência de elementos indicativos que o apontavam como sendo o “chefe” do comércio de drogas na Vila Buraco Quente. Após ser encaminhado à Cadeia, o policial civil retornou à casa do traficante e exigiu da mãe de Laurindo uma “mesada” de R$1.000,00, enquanto ele estivesse preso; caso contrário, Laurindo viraria mulher dos detentos. Constrangida pela grave ameaça proferida, a vítima, de imediato, repassou a quantia exigida, comprometendo-se ao pagamento mensal em garantia da integridade física de seu filho. O crime praticado por Otavio Gustavo Meireles é denominado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concussão."
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "C",
+        "texto": "corrupção passiva."
+      },
+      {
+        "letra": "D",
+        "texto": "corrupção ativa."
+      },
+      {
+        "letra": "E",
+        "texto": "violência arbitrária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "429701",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: MPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Quanto ao roubo e à extorsão,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não comportam a continuidade delitiva, posto que ofendem bens jurídicos de natureza personalíssima (vida, integridade física ou moral e liberdade)."
+      },
+      {
+        "letra": "B",
+        "texto": "embora ambos sejam crimes eminentemente patrimoniais, tutela-se no roubo frontalmente também a integridade e a vida, ao passo que, na extorsão, tutela-se de modo mais concomitante a liberdade autonômica da vítima e sua capacidade decisória, bens sempre ainda remanescentes nessa respectiva situação normativa."
+      },
+      {
+        "letra": "C",
+        "texto": "são, precípua e respectivamente, crimes contra o patrimônio e contra a liberdade."
+      },
+      {
+        "letra": "D",
+        "texto": "ambos são crimes materiais, no atual entender do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "E",
+        "texto": "tem-se, respectivamente, figuras penais mais e menos graves ao olhar da própria lei, em vista das sanções nela cominadas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "425151",
+    "metadata": "Ano: 2014 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Trabalhando como motorista de caminhão, Juvenal que estava passando por dificuldades financeiras, vendeu os pneus novos do veículo para um vizinho (a quem convenceu ser o legítimo proprietário de tais bens) e os substituiu por pneus recauchutados, apresentando ao empregador nota fiscal que os indicavam como pneus novos de excelente marca. Seu ajudante, presente naquela oportunidade, insurgiu-se e foi ameaçado por Juvenal de sofrer violência física, caso não se calasse. A respeito do ocorrido e considerando os tipos penais, é INCORRETO afirmar que Juvenal praticou:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furto qualificado;"
+      },
+      {
+        "letra": "B",
+        "texto": "Extorsão;"
+      },
+      {
+        "letra": "C",
+        "texto": "Apropriação indébita, com aumento de pena;"
+      },
+      {
+        "letra": "D",
+        "texto": "Estelionato e disposição de coisa alheia como própria;"
+      },
+      {
+        "letra": "E",
+        "texto": "Receptação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "420627",
+    "metadata": "Ano: 2014 | Banca: ACAFE | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comete crime de falta de confiança quem divulga conteúdo de documento particular ou de correspondência confidencial, de que é destinatário ou detentor, e cuja divulgação possa produzir dano a outrem."
+      },
+      {
+        "letra": "B",
+        "texto": "Comete crime de extorsão quem constranger alguém mediante violência ou grave ameaça, com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar fazer alguma coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "Comete crime de furto quem apropriar-se de coisa alheia móvel de que tem a posse ou a deten­ção."
+      },
+      {
+        "letra": "D",
+        "texto": "Comete crime de roubo quem obtiver para si ou para outrem vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento."
+      },
+      {
+        "letra": "E",
+        "texto": "Comete crime de abuso quem tomar refeição em restaurante, alojar-se em hotel ou utilizar-se de meio de transporte sem dispor de recursos para efetuar o pagamento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "418352",
+    "metadata": "Ano: 2014 | Banca: MPE-MG | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Prevaricação",
+      "Corrupção ativa"
+    ],
+    "enunciado_principal": "O jurado, integrando o Conselho de Sentença, impôs como obrigação e recebeu do réu polpuda soma para absolver o homicida. Cometeu crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Prevaricação."
+      },
+      {
+        "letra": "C",
+        "texto": "Concussão."
+      },
+      {
+        "letra": "D",
+        "texto": "Corrupção passiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "408734",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "A. M., primário e de bons antecedentes, foi condenado a seis anos de reclusão pela prática do crime de extorsão (art. 158, caput, Código Penal). Na hipótese, com referência a sua pena, o benefício do livramento condicional somente poderá ser concedido quando A. M. cumprir mais de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 (um) ano."
+      },
+      {
+        "letra": "B",
+        "texto": "1 (um) ano e 6 (seis) meses."
+      },
+      {
+        "letra": "C",
+        "texto": "2 (dois) anos."
+      },
+      {
+        "letra": "D",
+        "texto": "3 (três) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "4 (quatro) anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "402266",
+    "metadata": "Ano: 2014 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "Sobre os crimes contra o patrimônio, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os crimes de latrocínio, extorsão, roubo qualificado e extorsão mediante sequestro são classificados como hediondos."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de extorsão mediante sequestro classifica-se como crime material que se consuma quando o agente obtém a vantagem econômica exigida."
+      },
+      {
+        "letra": "C",
+        "texto": "No roubo o bem é retirado da vítima, enquanto que na extorsão ela própria é quem o entrega ao agente."
+      },
+      {
+        "letra": "D",
+        "texto": "O denominado “sequestro relâmpago” é uma modalidade de crime de extorsão cometido mediante a privação total da liberdade da vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "As formas qualificadas do roubo não decorrem, necessariamente, do emprego da violência."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "363885",
+    "metadata": "Ano: 2014 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Constrangimento ilegal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Em relação às figuras abaixo descritas, aponte a alternativa correta que corresponda com exatidão, de forma respectiva e seqüencial, os crimes correspondentes: 1. subtrair o sócio, para outrem, a quem legitimamente a detém, a coisa comum; 2. constranger alguém, mediante violência com o intuito de obter indevida vantagem econômica a deixar de fazer alguma coisa; 3. exigir ou receber, como garantia de dívida, abusando da situação de alguém, documento a que pode dar causa a procedimento criminal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furto de coisa comum; constrangimento ilegal; extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "Furto; extorsão indireta; seqüestro."
+      },
+      {
+        "letra": "C",
+        "texto": "Constrangimento ilegal; extorsão indireta; furto de coisa comum."
+      },
+      {
+        "letra": "D",
+        "texto": "Furto de coisa comum; extorsão; extorsão indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "Furto; extorsão; extorsão mediante seqüestro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "764852",
+    "metadata": "Ano: 2013 | Banca: TRT 22 PI | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Fulano, vizinho e amigo de longa data de Beltrano, encontra o papagaio de estimação do amigo e, com o intuito de obter uma indevida vantagem econômica como preço do ‘resgate’, ameaça seu vizinho dizendo: “se não me pagar a quantia ‘X’ o animal vai morrer”. A situação narrada caracteriza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto qualificado pelo abuso de confiança;"
+      },
+      {
+        "letra": "B",
+        "texto": "extorsão;"
+      },
+      {
+        "letra": "C",
+        "texto": "ato atípico, por se tratar de animal;"
+      },
+      {
+        "letra": "D",
+        "texto": "apenas ato ilícito;"
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão mediante seqüestro;"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "506103",
+    "metadata": "Ano: 2013 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e após marque a alternativa correta: I. O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida. II. A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal. III. Em determinados casos, pode não existir a punibilidade do agente, ou este pode beneficiar-se de uma das causas de extinção de punibilidade, no entanto, o delito praticado persiste.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I é falso."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II é falso."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III é falso."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos os itens são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens são falsos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "365791",
+    "metadata": "Ano: 2013 | Banca: TJ-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Quanto a delitos em espécie, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplica-se ao crime de estelionato, em que figure como vítima entidade autárquica da previdência social, a qualificadora do § 3.º do art. 171 do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "A utilização de papel moeda grosseiramente falsificado não configura, em tese, o crime de estelionato, da competência da Justiça Estadual."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "351356",
+    "metadata": "Ano: 2013 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Considerando as seguintes figuras penais: 1- furto; 2- extorsão direta ou extorsão indireta; 3- estelionato, e, 4- roubo, observe as proposições abaixo e ao final aponte a alternativa que contenha na ordem seqüencial acima, as proposituras corretas. I. 1- subtração de coisa alheia móvel; 2- subtrair coisa alheia móvel com abuso de confiança; 3- subtrair coisa alheia móvel mediante concurso de duas pessoas; 4- subtrair coisa alheia móvel mediante violência à pessoa. II. 1- subtração de coisa alheia móvel; 2- apropriação de coisa alheia, de que tem a posse; 3- após a subtração da coisa alheia fazer grave ameaça contra a vítima; 4- subtrair coisa alheia com abuso de confiança. III. 1- subtração de coisa alheia móvel; 2- constranger alguém mediante grave ameaça para obter vantagem econômica; 3- obter para si ou para outrem vantagem ilícita, em prejuízo alheio induzindo-o a erro; 4- subtraída a coisa empregar violência contra a pessoa, assegurando a detenção da coisa. IV. 1- subtrair coisa alheia móvel comum, como sócio, para si ou para outrem; 2- deixar de repassar à Previdência Social as contribuições dos contribuintes; 3- deixar animais em propriedade alheia, sem consentimento de quem de direito; 4- empregar violência para deter coisa alheia. V. 1- subtração de coisa alheia móvel; 2- receber, como garantia da dívida, abusando da situação de alguém, documento que pode dar causa a procedimento criminal contra a vítima; 3- vender, permutar, dar em pagamento coisa alheia como própria; 4- subtração de coisa móvel alheia, para si ou para outrem, mediante violência à pessoa. Está correta a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, lI e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III eV ."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II e V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "348181",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "No que se refere a crimes contra o patrimônio, julgue os itens subsequentesConsidere a seguinte situação hipotética. Heloísa, maior, capaz, em conluio com três amigos, também maiores e capazes, forjou o próprio sequestro, de modo a obter vantagem financeira indevida de seus familiares. Nessa situação, todos os agentes responderão pelo crime de extorsão simples.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "313307",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Receptação"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca dos crimes contra o patrimônio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de extorsão consuma-se com o recebimento de, ao menos, parte da vantagem indevida."
+      },
+      {
+        "letra": "B",
+        "texto": "A tipificação do crime de receptação depende da prova da materialidade e da autoria do furto do produto receptado."
+      },
+      {
+        "letra": "C",
+        "texto": "Em se tratando do crime de roubo, comprovada a existência de causas de aumento de pena, é suficiente que o juiz, ao concluir, aponte o número de majorantes que embasaram a aplicação da pena acima do patamar mínimo."
+      },
+      {
+        "letra": "D",
+        "texto": "É punível a subtração de coisa comum fungível cujo valor não exceda a quota a que tiver direito o agente."
+      },
+      {
+        "letra": "E",
+        "texto": "Se a vantagem ilícita decorrente da prática do furto privilegiado ou do estelionato for de pequeno valor, a pena a que for condenado o autor do crime, sendo ele réu primário, poderá ser reduzida."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "305647",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Extorsão indireta",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, apropriar-se de coisa alheia móvel, de que tem a posse ou a detenção tipifica o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão indireta."
+      },
+      {
+        "letra": "E",
+        "texto": "apropriação indébita."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "305550",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Vitorina, ex-funcionária da empresa de fornecimento de energia elétrica, vestindo um uniforme antigo, foi até a casa de Pauliana dizendo que estava ali para receber os valores da conta mensal de fornecimento de energia elétrica. Acreditando em Vitorina, Pauliana, pagou os valores a esta, que utilizou o dinheiro para comprar alguns vestidos. Entretanto, como sempre, as contas dessa empresa eram e deveriam ser pagas na rede bancária. Logo, Vitorina praticou o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "furto."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "estelionato."
+      },
+      {
+        "letra": "D",
+        "texto": "apropriação indébita."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "305401",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "Lucileide, ao sair de sua residência, foi rendida por dois homens, que portavam armas de fogo, e colocada no porta-malas do seu próprio veículo. Os marginais percorreram por muitas horas vários bairros, sendo exigido sempre de Lucileide efetuar vários saques bancários em contas de sua titularidade, sempre sob a ameaça de armas, inclusive sob a ameaça de ser violentada sexualmente. Logo, Lucileide foi vítima do delito de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cárcere privado (artigo 148 do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo (artigo 157, § 2, V, doCP)."
+      },
+      {
+        "letra": "C",
+        "texto": "extorsão simples (artigo 158, caput do CP)."
+      },
+      {
+        "letra": "D",
+        "texto": "extorsão qualificada (artigo 158, § 3º do CP)."
+      },
+      {
+        "letra": "E",
+        "texto": "extorsãomediante sequestro (artigo 159 do CP)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "304685",
+    "metadata": "Ano: 2013 | Banca: FMP Concursos | Órgão: MPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Segunda fase da dosimetria.",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Estelionato",
+      "Crimes contra a fé pública",
+      "Moeda falsa"
+    ],
+    "enunciado_principal": "De acordo com o Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A utilização de papel moeda falsificado configura crime de moeda falsa, em qualquer hipótese."
+      },
+      {
+        "letra": "B",
+        "texto": "As ações penais em curso podem ser utilizadas como antecedentes criminais para agravar a pena-base."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é pelo estelionato absorvido."
+      },
+      {
+        "letra": "D",
+        "texto": "É admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de extorsão consuma-se no momento da obtenção da vantagem indevida."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "301618",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Júlio foi denunciado pelo MP por ter, em 7/8/2012, por volta das 20 h 15 min, de forma livre e consciente, em perfeita comunhão de ações e desígnios com outros dois elementos não identificados, mediante grave ameaça exercida com emprego de arma de fogo, que a polícia não logrou apreender, subtraído, para si, uma bolsa, um telefone celular e um cartão bancário pertencentes a Cleusa. O denunciado e seus comparsas abordaram a vítima, apontaram a arma em sua direção, determinando que a vítima lhes entregasse, imediatamente, todos os seus pertences. Logo em seguida, para impedir que Cleusa chamasse a polícia, Júlio manteve a vítima em seu poder, restringindo sua liberdade, e exigiu que ela ingressasse no veículo automotor utilizado na ação desviante, deslocando-se por considerável período e importante distância. Depois, libertou a vítima. Em face dessa situação hipotética, assinale a opção correta a respeito dos crimes contra a vida e contra o patrimônio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Júlio perpetrou o delito de extorsão qualificada pela restrição da liberdade da vítima, com causa de aumento de pena pelo emprego de arma de fogo e pelo concurso de duas ou mais pessoas."
+      },
+      {
+        "letra": "B",
+        "texto": "Júlio praticou o crime de roubo duplamente majorado pelo concurso de pessoas e pelo emprego de arma de fogo, em concurso material com o delito de sequestro ou cárcere privado."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o entendimento do STJ, é imprescindível a apreensão e a perícia da arma de fogo utilizada na ação do grupo para a aplicação da causa de aumento prevista para agravar a pena do crime de extorsão praticado por Júlio."
+      },
+      {
+        "letra": "D",
+        "texto": "Com sua conduta de privação da liberdade da vítima, Júlio praticou o crime de extorsão mediante sequestro, com causa de aumento de pena relativa ao concurso de pessoas e ao uso de arma de fogo."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com os fatos narrados, é possível imputar a Júlio o cometimento do crime de roubo triplamente majorado, pelo emprego de arma de fogo, concurso de pessoas e privação da liberdade da vítima, ainda que não tenham sido identificados os demais participantes da empreitada criminosa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "300855",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "A conduta de constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar fazer alguma coisa caracteriza o crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extorsão."
+      },
+      {
+        "letra": "B",
+        "texto": "abuso de poder."
+      },
+      {
+        "letra": "C",
+        "texto": "exercício arbitrário."
+      },
+      {
+        "letra": "D",
+        "texto": "coação no curso do processo."
+      },
+      {
+        "letra": "E",
+        "texto": "roubo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "300465",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Extorsão mediante sequestro",
+      "Extorsão indireta",
+      "Estelionato",
+      "Receptação"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra o patrimônio, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "equiparável à atividade comercial, para efeito de configuração da receptação qualificada, qualquer forma de comércio irregular ou clandestino, excluído o exercido em residência."
+      },
+      {
+        "letra": "B",
+        "texto": "configura o delito de extorsão indireta o ato de exigir, como garantia de dívida, abusando da situação de alguém, documento que pode dar causa a procedimento civil contra a vítima ou contra terceiro."
+      },
+      {
+        "letra": "C",
+        "texto": "a consumação do crime de extorsão independe da obtenção da vantagem indevida, segundo entendimento sumulado do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "cabível a diminuição da pena na extorsão mediante sequestro para o coautor que denunciá-la à autoridade, facilitando a libertação do sequestrado, apenas se o crime é cometido por quadrilha ou bando."
+      },
+      {
+        "letra": "E",
+        "texto": "independe de comprovação de fraude o delito de estelionato na modalidade de emissão de cheque sem suficiente provisão de fundos em poder do sacado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "984291",
+    "metadata": "Ano: 2012 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Terceira fase da dosimetria",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Acerca das Súmulas do Superior Tribunal de Justiça, em Direito Penal, pode-se afirmar: I. O crime de extorsão depende para sua consumação da obtenção de vantagem indevida. II. A reincidência influi no prazo da prescrição da pretensão punitiva. III. Para efeitos penais, o reconhecimento da menoridade do réu requer prova por documento hábil. IV. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para sua exasperação a mera indicação do número de majorantes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições III e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I, II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as proposições I e III estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "336282",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Consumação e tentativa",
+      "Desistência voluntária e arrependimento eficaz",
+      "Penas privativas de liberdade",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Com relação a tentativa e a circunstâncias agravantes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Configura-se mera tentativa de extorsão o fato de o ameaçado vencer o temor inspirado e deixar de atender à imposição do agente, solicitando, confiantemente, a intervenção policial."
+      },
+      {
+        "letra": "B",
+        "texto": "A tentativa de furto de bens avaliados em R$ 400,00 sempre enseja a aplicação do princípio da insignificância ante o inexpressivo valor da res furtiva."
+      },
+      {
+        "letra": "C",
+        "texto": "É firme a jurisprudência do STJ no sentido de que condenação anterior a pena de multa afasta a reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de delitos da competência do tribunal do júri, a resposta positiva dos jurados ao quesito referente à tentativa de homicídio implica recusa ao quesito da desistência espontânea."
+      },
+      {
+        "letra": "E",
+        "texto": "Homicídio motivado por ciúme doentio e injustificável do agente em relação à vítima não configura motivo fútil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "316346",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Para a configuração do denominado crime de sequestro-relâmpago, a restrição da liberdade da vítima é condição necessária para a obtenção da vantagem econômica, independentemente da ocorrência desta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "291056",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Pratica crime de extorsão o funcionário público que, em atividade de fiscalização, constranja, mediante violência, a vítima a entregar-lhe determinada soma em dinheiro para evitar a aplicação de penalidade administrativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "287510",
+    "metadata": "Ano: 2012 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Considere: I. Pratica delito de furto qualificado pela destreza (art. 155, § 4o , inc. II) sujeito que ingressa em casa alheia pelo telhado e de lá subtrai bens de seu proprietário. II. O crime de roubo próprio previsto no caput, do art. 157, do Código Penal, se configura com a subtração da coisa sem grave ameaça ou violência, vindo o agente a empregá-las posteriormente contra a pessoa, com o fim de assegurar a impunidade do crime ou a detenção da coisa para si ou para terceiro. III. O delito de quadrilha ou bando constitui crime de concurso necessário, pois o tipo penal exige no mínimo 3 (três) pessoas associadas com a finalidade de cometerem crimes. IV. Pratica o crime de furto qualificado por fraude, o agente que se prontificando a ajudar a vítima a efetuar operação em caixa eletrônico subtrai o seu telefone celular sem que esta perceba. V. O elemento subjetivo do delito de extorsão é o dolo, sendo prescindível o fim especial de agir. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "283091",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Dano",
+      "Apropriação indébita"
+    ],
+    "enunciado_principal": "Considerando os delitos contra o patrimônio, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime de extorsão qualificada pela restrição da liberdade de locomoção da vítima (“sequestro relâmpago”), ao contrário do do artigo 158 do Código Penal, é doutrinariamente classificado como crime demera conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de dano qualificado pelo motivo egoístico é de ação penal pública condicionada à representação."
+      },
+      {
+        "letra": "C",
+        "texto": "no caso da apropriação indébita previdenciária, é extinta a punibilidade se o agente é primário e de bons antecedentes e desde que tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de dano em coisa de valor artístico, arqueológico ou histórico previsto no artigo 165 do Código Penal foi revogado tacitamente pela lei de crimes ambientais – Lei nº 9.605/1998."
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que se apropria de res derelicta , deixando de restituí-la ao dono ou legítimo possuidor ou de entregá-la à autoridade competente, dentro do prazo de 15 (quinze) dias, pratica crime."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "262163",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Extorsão",
+      "Apropriação indébita",
+      "Estelionato"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra o patrimônio, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fraude não precisa ser anterior à obtenção da vantagem ilícita no delito de estelionato."
+      },
+      {
+        "letra": "B",
+        "texto": "na apropriação indébita o dolo é subsequente ao apossamento da coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "a fraude, no furto qualificado, antecede o apossamento da coisa e é a causa de sua entrega ao agente pela vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "é dispensável a fraude para a configuração do delito de estelionato na modalidade de emissão de cheque sem fundos."
+      },
+      {
+        "letra": "E",
+        "texto": "a vítima, iludida, entrega a coisa voluntariamente no delito de extorsão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1656755",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Extorsão"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra o patrimônio, e sua tipicidade, julgue o item que se segue.O uso de violência ou grave ameaça à pessoa é elementar dos tipos de roubo e de extorsão, razão pela qual o emprego de arma não é causa de aumento de pena desses particulares delitos, estando subsumido às formas simples dos crimes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "298967",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Arrependimento posterior",
+      "Ação penal",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Roubo",
+      "Extorsão",
+      "Dano",
+      "Receptação"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra o patrimônio, é possível afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na extorsão o agente busca a obtenção de vantagem ilícita, ainda que não econômica."
+      },
+      {
+        "letra": "B",
+        "texto": "a fraude, no furto qualificado, antecede o apossamento da coisa e é a causa de sua entrega ao agente pela vítima."
+      },
+      {
+        "letra": "C",
+        "texto": "a receptação qualificada exige que a coisa seja recebida pelo agente no exercício de atividade comercial ou industrial clandestinas."
+      },
+      {
+        "letra": "D",
+        "texto": "o delito de dano culposo contra o patrimônio da União é de ação penal pública incondicionada."
+      },
+      {
+        "letra": "E",
+        "texto": "é incabível o arrependimento posterior no crime de roubo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "148719",
+    "metadata": "Ano: 2011 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Crimes contra o patrimônio",
+      "Extorsão",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Assinale o enunciado que não corresponde a entendimento sumulado do Supremo Tribunal Federal ou do Superior Tribunal de Justiça:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O disposto no artigo 127 da Lei nº 7.210/1984 foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58 da LEP."
+      },
+      {
+        "letra": "B",
+        "texto": "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência não é anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "E",
+        "texto": "O art. 309 do Código de Trânsito Brasileiro, que reclama decorra do fato perigo de dano, derrogou o artigo 32 da Lei das Contravenções Penais no tocante à direção sem habilitação em vias terrestres."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

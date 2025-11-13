@@ -1,0 +1,535 @@
+[
+  {
+    "id": "2006428",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Tício foi preso preventivamente durante uma operação de combate à corrupção e processado pelo crime de corrupção ativa, ficando preso provisoriamente por 10 (dez) meses. Posteriormente, após recursos da defesa em Tribunais Superiores, restou absolvido de todas as acusações penais. No ano seguinte, voltou à administração pública sendo novamente preso em investigação por corrupção ativa e peculato, tendo a sentença condenatória transitado em julgado desta vez. A defesa de Tício, então, entra com um pedido para a inclusão na contagem do tempo de pena cumprido, os dez meses nos quais ficou preso no caso anterior, do qual foi plenamente absolvido, pois, com o tempo já cumprido neste e no caso anterior, já teria direito à liberdade. Como Promotor de Justiça do caso, você",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concorda com o pedido, pois o condenado efetivamente cumpriu a pena estipulada, sendo que o tempo anterior não poderia ser desconsiderado por uma questão de Justiça, de acordo com os Tratados Internacionais de Direitos Humanos."
+      },
+      {
+        "letra": "B",
+        "texto": "concorda em parte com o pedido, somente podendo ser feita a detração no caso de crimes iguais, devendo apenas ser considerada na pena da corrupção ativa e não no peculato, devendo ser feito novo cálculo de pena descontando-se somente quanto à pena da corrupção ativa."
+      },
+      {
+        "letra": "C",
+        "texto": "não concorda com o pedido, pois o instituto da detração penal de crimes anteriores somente seria possível nos casos de penas provisórias cumpridas no estrangeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "concorda, uma vez que não precisa haver ligação entre o fato criminoso praticado, a prisão preventiva e a pena, devendo ser computado o tempo total como detração penal."
+      },
+      {
+        "letra": "E",
+        "texto": "não concorda, fundamentando no fato de que não se pode aplicar a detração penal em relação a delitos cometidos posteriormente à custódia cautelar."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1974590",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Em relação à detração penal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é incabível a detração do tempo de prisão provisória proveniente de processo diverso daquele cujo delito ensejou a condenação penal;"
+      },
+      {
+        "letra": "B",
+        "texto": "é de competência exclusiva do Juízo da Execução realizar a detração, vedada ao Juízo do Conhecimento a adoção de tal providência;"
+      },
+      {
+        "letra": "C",
+        "texto": "é incabível na aplicação da detração a pretensão de cômputo do período de prisão provisória para fins de substituição da pena corporal por restritivas de direito;"
+      },
+      {
+        "letra": "D",
+        "texto": "o período de cumprimento de medida cautelar de monitoração eletrônica possibilita a contagem de tempo para efeito de concessão da detração penal;"
+      },
+      {
+        "letra": "E",
+        "texto": "é incabível a detração, na pena privativa de liberdade, no momento de cumprimento do recolhimento domiciliar no período noturno, com ou sem monitoração eletrônica."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1869775",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Em relação ao tema “detração” (Art. 42 do CP), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não é possível a detração da medida de segurança do tempo de prisão provisória no Brasil ou no estrangeiro;"
+      },
+      {
+        "letra": "B",
+        "texto": "a detração engloba intervalos compulsórios e voluntários de recolhimento domiciliar;"
+      },
+      {
+        "letra": "C",
+        "texto": "o período de recolhimento domiciliar fiscalizado por monitoramento eletrônico deve ser detraído;"
+      },
+      {
+        "letra": "D",
+        "texto": "o período de medida cautelar de recolhimento domiciliar noturno sem fiscalização eletrônica não pode ser detraído."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1860073",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Com base na legislação pertinente, julgue o seguinte item. Camilo, réu primário e sem antecedentes criminais, foi denunciado pelo delito de furto triplamente qualificado. Ainda na fase policial, após a homologação do flagrante, foi decretada sua prisão preventiva. Ao término do feito, depois de permanecer recolhido provisoriamente por dezoito meses, Camilo acabou condenado à pena de cinco anos de reclusão. Nesse caso, o juiz poderá descontar esse tempo da prisão tanto para fins de determinação do regime quanto para substituir a pena privativa de liberdade por penas restritivas de direito, caso o acusado preencha os requisitos legais, dado que o desconto do tempo da prisão cautelar remeterá a pena aos limites temporais previstos para as sanções alternativas previstas no art. 44 do Código Penal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1026052",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: IAPEN-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "A detração consiste",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no castigo imposto ao preso que comete falta disciplinar na execução da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "na perda dos dias remidos pela prática de novo crime."
+      },
+      {
+        "letra": "C",
+        "texto": "no cômputo do tempo de prisão preventiva na pena privativa de liberdade."
+      },
+      {
+        "letra": "D",
+        "texto": "no acúmulo de penas quando o agente pratica mais de um crime mediante uma só ação."
+      },
+      {
+        "letra": "E",
+        "texto": "na transformação da pena restritiva de direitos em privativa de liberdade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "896543",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "O abatimento na pena privativa de liberdade e na medida de segurança, do tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em hospital de custódia, ou outro estabelecimento adequado é chamado de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Remição."
+      },
+      {
+        "letra": "B",
+        "texto": "Retração."
+      },
+      {
+        "letra": "C",
+        "texto": "Redução da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "Detração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "844077",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "A respeito da detração penal, analise as seguintes assertivas: I. O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade. II. Admite-se atualmente, tanto na jurisprudência quanto na doutrina, a detração por prisão ocorrida em outro processo, desde que o crime pelo qual o sentenciado cumpre pena tenha sido praticado anteriormente a seu encarceramento, numa espécie de fungibilidade da prisão. III. À luz do disposto no artigo 42 do CP e artigo 111 da Lei de Execução Penal, somente se admite a detração de prisão processual ordenada em outro processo em que absolvido o sentenciado ou declarada tenha sido a extinção da sua punibilidade, quando a data do cometimento do crime de que trata a execução seja posterior ao período pleiteado. IV. Computa-se, igualmente, o tempo indevidamente cumprido, relativo à condenação por crime posterior, invalidado em decisão judicial recorrível, em favor do réu, como meio de compensar o período de encarceramento decorrente de delito pelo qual restou absolvido. Está correto somente o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV ."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III ."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "620431",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em hospital de custódia e tratamento psiquiátrico. Esse cômputo é denominado pelo Código Penal de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retração."
+      },
+      {
+        "letra": "B",
+        "texto": "Remissão."
+      },
+      {
+        "letra": "C",
+        "texto": "Detração."
+      },
+      {
+        "letra": "D",
+        "texto": "Exação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "593439",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Detração é o cômputo ou desconto que deve ser feito na pena, a partir do período em que houve privação da liberdade provisoriamente. Com relação à detração penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prisão civil em sentido estrito foi contemplada com a possibilidade da detração."
+      },
+      {
+        "letra": "B",
+        "texto": "A internação em hospital de custódia não pode ser objeto de detração, tendo em vista o silêncio da lei."
+      },
+      {
+        "letra": "C",
+        "texto": "A prisão administrativa não pode ser objeto de detração, pois não tem natureza penal."
+      },
+      {
+        "letra": "D",
+        "texto": "A prisão provisória no estrangeiro não pode ser objeto de detração, pois o processo não está no Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "A internação em casa de saúde, com finalidade terapêutica, deve ser contemplada com a detração."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "462895",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lei da Lavagem de Dinheiro - Lei nº 9.613 de 1998",
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pena de multa",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Legislação Penal Especial"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta uma afirmação INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Funcionário de uma instituição financeira que transfere dinheiro da conta bancária de uma idosa, que lhe confiara o cartão magnético e sua senha, para sua própria conta, pratica o crime de furto, conforme entendimento do STJ."
+      },
+      {
+        "letra": "B",
+        "texto": "Qualquer infração penal com potencial para gerar ativos de origem ilícita pode ser antecedente do crime de lavagem de dinheiro."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição da pena de multa ocorre no mesmo prazo estabelecido para a prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "O reconhecimento do homicídio privilegiado é compatível com a admissão da qualificadora do meio cruel."
+      },
+      {
+        "letra": "E",
+        "texto": "É cabível a aplicação do benefício da detração penal (art. 42 do CP) em processos distintos, desde que o delito pelo qual o sentenciado cumpre pena tenha sido cometido antes da segregação cautelar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "413339",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Legislação Penal Especial",
+      "Lei de Execução Penal – Lei nº 7.210 de 1984"
+    ],
+    "enunciado_principal": "Segundo entendimento jurisprudencial hoje estabelecido no âmbito do Superior Tribunal de Justiça, a detração penal (Código Penal, art. 42)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode ser aplicada sobre pena de prestação de serviços à comunidade, primeiramente, descontando um dia da pena privativa de liberdade originária por cada dia de prisão provisória efetivamente cumprida pelo réu, para, afinal, substituir-se o saldo restante de pena originária pela pena restritiva de direitos, à razão de 1 (uma) hora de tarefa por dia de condenação."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser aplicada quando a prisão provisória decorreu de fato diverso, desde que o mesmo tenha antecedido o fato que gerou a pena a ser detraída."
+      },
+      {
+        "letra": "C",
+        "texto": "é computável, também, para redução dos marcos temporais da prescrição executória, analogamente às hipóteses de evasão do condenado ou de revogação do livramento condicional já catalogadas no art. 113 do Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "não pode ser aplicada quando a prisão provisória ocorreu por fato diverso daquele em que se deu a condenação."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser aplicada sobre pena de prestação de serviços à comunidade, descontando-se 24 (vinte e quatro) horas de tarefa comunitária por cada dia de prisão provisória efetivamente cumprida pelo réu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "470159",
+    "metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Espécies de Pena de Multa",
+      "Dosimetria",
+      "Ação penal",
+      "Ação penal no crime de lesão corporal",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Lesões corporais qualificadas",
+      "Violência doméstica",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Sujeito teve decretada a prisão preventiva na ação penal em que lhe foi imputada a prática de roubo qualificado, possuindo ele ainda outra ação penal por lesão corporal grave contra a sua companheira e uma terceira por porte ilegal de arma de fogo. Os dois primeiros julgamentos foram designados para a mesma data e o magistrado, a pedido da acusação, absolveu inicialmente Sujeito da prática do roubo. Caso ele venha a ser condenado pela agressão à companheira, o tempo em que esteve preso, preventivamente, deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "levado em conta na sentença condenatória da lesão corporal grave e funcionar como causa de redução da pena para incidência da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "considerado apenas para eventual pedido de indenização no juízo cível."
+      },
+      {
+        "letra": "C",
+        "texto": "levado em conta para fins de detração na execução da sanção penal a ser cumprida."
+      },
+      {
+        "letra": "D",
+        "texto": "calculado como dias remidos e subtraído do montante da pena imposta."
+      },
+      {
+        "letra": "E",
+        "texto": "observado pelo juízo criminal na sentença condenatória para cálculo da prestação de serviços à comunidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "331872",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades"
+    ],
+    "enunciado_principal": "A detração é considerada para efeito da prescrição da pretensão punitiva, não se estendendo aos cálculos relativos à prescrição da pretensão executória.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "308171",
+    "metadata": "Ano: 2013 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "É assente a jurisprudência do Supremo Tribunal Federal no sentido de que o condenado não faz jus à detração penal quando a conduta delituosa pela qual houve a condenação tenha sido praticada posteriormente ao crime que acarretou a prisão cautelar.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "305563",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Acerca da “detração”, é correto o que se afirma na alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cada três dias trabalhados no sistema prisional, computam-se, além desses três dias de pena cumprida, mais um, para o preso que cumpre a pena em regime fechado ou semiaberto."
+      },
+      {
+        "letra": "B",
+        "texto": "É a conversão da pena restritiva de direitos em privativa de liberdade, pelo tempo da pena aplicada."
+      },
+      {
+        "letra": "C",
+        "texto": "É o cômputo, na pena privativa de liberdade e na medida de segurança, do tempo de prisão provisória e o de internação em hospital ou manicômio."
+      },
+      {
+        "letra": "D",
+        "texto": "Consiste na obrigação de permanecer, aos sábados e domingos, por 5 horas diárias, em casa de albergado ou outro estabelecimento adequado."
+      },
+      {
+        "letra": "E",
+        "texto": "É todo fato ou dado que se encontra em redor do delito; é um dado eventual, que pode existir ou não, sem que o crime seja excluído."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "302397",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Livramento condicional",
+      "Requisitos para a concessão"
+    ],
+    "enunciado_principal": "Segundo entendimento consolidado do Superior Tribunal de Justiça, em tema de aplicação e execução da pena",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "admite-se a comutação da pena aos condenados por crimes hediondos, tendo em vista operar-se no caso a substituição da reprimenda por outra mais branda, o que não encontra vedação legal."
+      },
+      {
+        "letra": "B",
+        "texto": "em caso de condenação do apenado no curso de execução por fato anterior ao início do cumprimento da reprimenda, a contagem do prazo para concessão de benefícios é interrompida para a realização de novo cálculo com base no somatório das penas restantes a serem cumpridas, cujo marco inicial da contagem do novo prazo é o trânsito em julgado da primeira sentença condenatória."
+      },
+      {
+        "letra": "C",
+        "texto": "admite-se a aplicação do benefício da detração penal em processos distintos, desde que o delito pelo qual o sentenciado cumpre pena tenha sido cometido antes da segregação cautelar."
+      },
+      {
+        "letra": "D",
+        "texto": "admite-se a concessão de livramento condicional ao estrangeiro que possui decreto de expulsão em seu desfavor, desde que preenchidos os requisitos do art. 83 do Código Penal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "791826",
+    "metadata": "Ano: 2011 | Banca: UECE-CEV | Órgão: SEPLAG-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal"
+    ],
+    "enunciado_principal": "Nos termos do art. 42, do Código Penal Brasileiro, computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória no Brasil ou no estrangeiro. Tal determinação legal é denominada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "remissão."
+      },
+      {
+        "letra": "B",
+        "texto": "detração."
+      },
+      {
+        "letra": "C",
+        "texto": "sursis penal."
+      },
+      {
+        "letra": "D",
+        "texto": "sursis processual."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

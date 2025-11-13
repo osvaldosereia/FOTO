@@ -1,0 +1,400 @@
+[
+  {
+    "id": "3028441",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Em razão de conduta praticada em março de 2023, João, primário, foi condenado, definitivamente, pela prática de crime hediondo, com resultado morte, em sentença prolatada por Matheus, juiz federal que atua na seção judiciária do Amazonas (Justiça Federal). Muito embora a condenação tenha se dado na esfera federal, João está recolhido a um estabelecimento penal sujeito à administração do estado do Amazonas. Nesse cenário, considerando as disposições da Lei nº 7.210/1984 e o entendimento dominante do Superior Tribunal de Justiça, é correto afirmar que compete ao juízo do(da):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "seção judiciária do Amazonas a execução da pena imposta a João, que, em observância aos requisitos legais, terá direito ao livramento condicional, vedada a progressão de regimes;"
+      },
+      {
+        "letra": "B",
+        "texto": "seção judiciária do Amazonas a execução da pena imposta a João, que, em observância aos requisitos legais, terá direito à progressão de regimes, vedado o livramento condicional;"
+      },
+      {
+        "letra": "C",
+        "texto": "estado do Amazonas a execução da pena imposta a João, que, em observância aos requisitos legais, terá direito à progressão de regimes, vedado o livramento condicional;"
+      },
+      {
+        "letra": "D",
+        "texto": "estado do Amazonas a execução da pena imposta a João, que, em observância aos requisitos legais, terá direito ao livramento condicional, vedada a progressão de regimes;"
+      },
+      {
+        "letra": "E",
+        "texto": "seção judiciária do Amazonas a execução da pena imposta a João, vedados a progressão de regimes e o livramento condicional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2459924",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Segunda fase da dosimetria.",
+      "Livramento condicional",
+      "Extinção da pena",
+      "Ação penal",
+      "Modalidades das Penas privativas de liberdade",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Em uma ação penal por crime ocorrido em 04/03/2023, o réu, ao ser interrogado, confessa espontaneamente, perante o juiz, a prática do delito que lhe é imputado. Na folha de antecedentes criminais do acusado, constam as seguintes anotações, devidamente esclarecidas por certidões cartorárias: I. condenação transitada em julgado em 08/06/2016 por crime anterior, praticado em 06/02/2014, com pena de reclusão extinta em 15/03/2022, diante do término do livramento condicional, cujo período de prova se iniciara em 14/08/2017; II. condenação transitada em julgado em 02/09/2022 por contravenção penal anterior, praticada em 07/01/2022, com pena de prisão simples cumprida em 03/03/2023; e III. ação penal em curso, por crime posterior, praticado em 05/03/2024. À luz das informações apresentadas, conclusos os autos ao juiz para sentença, no dia de hoje, na segunda fase da dosimetria da pena, a pena deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atenuada, incidindo a atenuante da confissão espontânea, sendo o réu primário."
+      },
+      {
+        "letra": "B",
+        "texto": "atenuada, preponderando a atenuante da confissão espontânea sobre a agravante da reincidência."
+      },
+      {
+        "letra": "C",
+        "texto": "mantida, compensando-se integralmente a atenuante da confissão espontânea com a agravante da reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "agravada, compensando-se proporcionalmente a agravante da reincidência com a atenuante da confissão espontânea."
+      },
+      {
+        "letra": "E",
+        "texto": "agravada, preponderando a agravante da reincidência, sem qualquer compensação em relação à atenuante da confissão espontânea."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2115960",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Extinção da pena",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "Em casos de fuga ou de revogação do livramento condicional, a prescrição da pretensão executória é regulada pelo tempo remanescente da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1937461",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: Governo do Distrito Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Conceito e consequências",
+      "Causas e consequências da revogação do benefício",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Julgue o item a seguir de acordo com o entendimento dos Tribunais Superiores acerca da execução penal. A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1859279",
+    "metadata": "Ano: 2021 | Banca: FUMARC | Órgão: PC-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Com relação às causas de extinção da punibilidade, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A concessão do perdão judicial nos casos previstos em lei é causa extintiva da punibilidade do crime, subsistindo, porém, o efeito condenatório da reincidência."
+      },
+      {
+        "letra": "B",
+        "texto": "Havendo a extinção da punibilidade de um crime de furto, se estende ela ao consequente crime de receptação da coisa subtraída em razão do princípio da indivisibilidade da ação penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Na hipótese de crime de peculato doloso, o ressarcimento do dano precedente à sentença irrecorrível exclui a punibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos casos de continuidade delitiva, a extinção da punibilidade pela prescrição regula-se pela pena imposta a cada um dos crimes, isoladamente, afastando-se o acréscimo decorrente da continuação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1213731",
+    "metadata": "Ano: 2019 | Banca: CEFET-BA | Órgão: DPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Consoante o entendimento sumulado do Superior Tribunal de Justiça sobre a execução da pena, “A ausência de suspensão ou revogação _____________ antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena.\" A alternativa que preenche, corretamente, a lacuna do trecho acima é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do indulto"
+      },
+      {
+        "letra": "B",
+        "texto": "da comutação"
+      },
+      {
+        "letra": "C",
+        "texto": "do indulto de natal"
+      },
+      {
+        "letra": "D",
+        "texto": "do livramento condicional"
+      },
+      {
+        "letra": "E",
+        "texto": "da saída temporária de natal"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1036624",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Causas e consequências da revogação do benefício",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Em relação ao livramento condicional, correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prática de falta grave não interrompe o prazo para sua obtenção, mas o Juiz só poderá revogá-lo a requerimento do Ministério Público ou mediante representação do Conselho Penitenciário, ouvido o liberado."
+      },
+      {
+        "letra": "B",
+        "texto": "as penas correspondentes a infrações diversas não podem ser somadas para atingir o limite mínimo necessário para a sua concessão."
+      },
+      {
+        "letra": "C",
+        "texto": "condicionada a sua concessão à prévia progressão do condenado ao regime aberto, por expressa previsão legal."
+      },
+      {
+        "letra": "D",
+        "texto": "obrigatória a revogação se o liberado deixar de cumprir qualquer das obrigações constantes da sentença concessiva."
+      },
+      {
+        "letra": "E",
+        "texto": "a ausência de suspensão ou revogação antes do término do período de prova enseja extinção da punibilidade pelo integral cumprimento da pena."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "994296",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Analise o caso a seguir. “M.K.T.” encontrava-se em regime semiaberto quando foi deferido o livramento condicional. Encerrado o período de prova do livramento, os autos foram ao Ministério Público que requereu a juntada da Folha e da Certidão de Antecedentes Criminais. Deferido o pedido ministerial e juntados os documentos requeridos, com vista dos autos, o parquet verificou que “M.K.T.” havia sido preso – e logo solto em audiência de custódia – pela prática de crime ocorrido durante o período de prova do livramento condicional. O Ministério Público observou ainda que ele havia sido denunciado e condenado pelo fato, tendo a sentença penal permitido que “M.K.T.” recorresse em liberdade. Interposto recurso pela defesa, a sentença penal condenatória não havia transitado em julgado. Diante da informação acerca da condenação penal, o Ministério Público requereu a revogação do livramento condicional, a regressão cautelar de regime prisional e a designação de audiência de justificação. Após a manifestação da defesa, deve o magistrado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "declarar extinta a pena privativa de liberdade."
+      },
+      {
+        "letra": "B",
+        "texto": "revogar o livramento condicional, regredir cautelarmente o regime, designar audiência de justificação e expedir mandado de prisão."
+      },
+      {
+        "letra": "C",
+        "texto": "suspender o livramento condicional, regredir cautelarmente o regime, designar audiência de justificação e expedir mandado de prisão."
+      },
+      {
+        "letra": "D",
+        "texto": "expedir mandado de prisão e decidir sobre suspensão ou revogação do livramento condicional após audiência de justificação a ser designada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "866443",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "André e Bruno, companheiros de cela em determinada penitenciária, são assistidos pela Defensoria Pública do Estado de Pernambuco. André cumpre pena de seis anos por furto qualificado e tem como antecedente criminal uma condenação de um ano e oito meses por crime culposo, já cumprida. Bruno, por sua vez, cumpre pena de nove anos por tráfico de drogas e não possui antecedentes criminais. Considerando essa situação hipotética, assinale a opção correta a respeito do livramento condicional de André e Bruno.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bruno não fará jus ao livramento condicional, uma vez que foi condenado por crime equiparado a crime hediondo."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso André cometa falta grave no cumprimento da pena, o prazo para seu livramento condicional será interrompido."
+      },
+      {
+        "letra": "C",
+        "texto": "A concessão do benefício do livramento condicional a André dependerá de ele cumprir um terço da pena e a Bruno de ele cumprir dois terços da pena."
+      },
+      {
+        "letra": "D",
+        "texto": "Apesar de ser hipossuficiente, André será beneficiado com o livramento condicional somente se reparar o dano causado em decorrência da prática do furto qualificado."
+      },
+      {
+        "letra": "E",
+        "texto": "Por ser reincidente, André atenderá ao requisito temporal para o livramento condicional apenas após ter cumprido metade da pena."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "532522",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Penas privativas de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Suspensão condicional da pena. Revogação.",
+      "Livramento condicional",
+      "Extinção da pena",
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza extrapenal genéricos",
+      "Efeitos secundários de natureza extrapenal específicos",
+      "Modalidades de sanções penais",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os efeitos genéricos e específicos da condenação criminal são automáticos, sendo, pois, despicienda suas declarações na sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença, em processo a que responde o liberado, por crime cometido na vigência do livramento."
+      },
+      {
+        "letra": "C",
+        "texto": "As espécies de pena são as privativas de liberdade e restritivas de direito."
+      },
+      {
+        "letra": "D",
+        "texto": "A suspensão condicional da pena será obrigatoriamente revogada se, no curso do prazo, o beneficiário pratica novo crime doloso."
+      },
+      {
+        "letra": "E",
+        "texto": "Para efeito de reincidência, não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 2 (dois) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "360492",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Concurso de crimes",
+      "Crime continuado",
+      "Crimes instantâneos e permanentes",
+      "Modalidades das Penas Restritivas de Direito",
+      "Conceito e características",
+      "Livramento condicional",
+      "Extinção da pena",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais"
+    ],
+    "enunciado_principal": "Com fundamento nas súmulas dos tribunais superiores, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz não pode declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responda o liberado, por crime ou contravenção praticados na vigência do livramento condicional."
+      },
+      {
+        "letra": "B",
+        "texto": "É possível a aplicação retroativa de lei penal vigente em combinação com a lei penal revogada, desde que o resultado da incidência de leis penais combinadas seja favorável ao acusado."
+      },
+      {
+        "letra": "C",
+        "texto": "A pena substitutiva de prestação de serviços à comunidade pode figurar como condição especial ao regime aberto."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei penal mais grave aplicar-se-á ao crime continuado ou ao crime permanente, se a sua vigência for anterior à cessação da continuidade ou da permanência."
+      },
+      {
+        "letra": "E",
+        "texto": "O ato infracional análogo ao tráfico de drogas conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "298684",
+    "metadata": "Ano: 2013 | Banca: FEPESE | Órgão: DPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Causas e consequências da revogação do benefício",
+      "Extinção da pena"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código Penal brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade inferior dois anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Não será concedido livramento condicional para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa,"
+      },
+      {
+        "letra": "C",
+        "texto": "Caso o liberado venha a ser condenado durante a vigência do benefício, revoga-se o livramento condicional,"
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento."
+      },
+      {
+        "letra": "E",
+        "texto": "Revogado o livramento, a qualquer momento poderá o juiz da execução conceder novamente o benefício."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

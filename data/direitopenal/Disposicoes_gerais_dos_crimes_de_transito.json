@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2687478",
+    "metadata": "Ano: 2019 | Banca: AGIRH | Órgão: Prefeitura de Canas - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Legislação Penal Especial",
+      "Crimes de trânsito",
+      "Disposições gerais dos crimes de trânsito"
+    ],
+    "enunciado_principal": "De acordo com o art. 304. \"Deixar o condutor do veículo, na ocasião do acidente, de prestar imediato socorro à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública, o condutor terá como penas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "detenção, de seis meses a um ano, ou multa, se o fato não constituir elemento de crime mais grave."
+      },
+      {
+        "letra": "B",
+        "texto": "detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor."
+      },
+      {
+        "letra": "C",
+        "texto": "detenção, de seis meses a três anos e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

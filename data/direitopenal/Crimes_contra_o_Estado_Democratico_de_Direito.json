@@ -1,0 +1,605 @@
+[
+  {
+    "id": "3505800",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Matheus, servidor público federal, agindo com dolo e violando o dever de sigilo, entregou a agentes de governo estrangeiro, em desacordo com determinação legal e regulamentar, documentos classificados, nos termos da lei, como secretos, sendo certo que a revelação destes pode colocar em perigo a preservação da soberania nacional. Nesse cenário, considerando as disposições do Código Penal, assinale a opção que indica o crime pelo qual Matheus responderá.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atentado à integridade nacional, na modalidade simples, com a incidência de uma causa de aumento de pena."
+      },
+      {
+        "letra": "B",
+        "texto": "Espionagem, na modalidade simples, com a incidência de uma causa de aumento de pena."
+      },
+      {
+        "letra": "C",
+        "texto": "Atentado à integridade nacional, na modalidade simples, sem causas de aumento de pena."
+      },
+      {
+        "letra": "D",
+        "texto": "Atentado à soberania, na modalidade qualificada, sem causas de aumento de pena."
+      },
+      {
+        "letra": "E",
+        "texto": "Espionagem, na modalidade qualificada, sem causas de aumento de pena."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3598281",
+    "metadata": "Ano: 2024 | Banca: INSTITUTO AOCP | Órgão: DEPPEN-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Constitui crime contra o Estado Democrático de Direito, segundo o Código Penal, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais."
+      },
+      {
+        "letra": "B",
+        "texto": "dar, oferecer, prometer, solicitar ou receber, para si ou para outrem, dinheiro, dádiva, ou qualquer outra vantagem, para obter ou dar voto e para conseguir ou prometer abstenção, ainda que a oferta não seja aceita."
+      },
+      {
+        "letra": "C",
+        "texto": "restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional."
+      },
+      {
+        "letra": "D",
+        "texto": "tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído."
+      },
+      {
+        "letra": "E",
+        "texto": "praticar violência ou grave ameaça com a finalidade de desmembrar parte do território nacional para constituir país independente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3355399",
+    "metadata": "Ano: 2024 | Banca: OBJETIVA | Órgão: Prefeitura de Santa Cruz de Monte Castelo - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Noções Gerais dos Crimes Contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Segundo a Constituição Federal, constitui crime inafiançável e imprescritível:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação de grupos armados civis contra a ordem constitucional e o Estado Democrático."
+      },
+      {
+        "letra": "B",
+        "texto": "O tráfico ilícito de entorpecentes e drogas afins."
+      },
+      {
+        "letra": "C",
+        "texto": "Os crimes hediondos, por eles respondendo os mandantes e os executores."
+      },
+      {
+        "letra": "D",
+        "texto": "A prática de tortura."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3326817",
+    "metadata": "Ano: 2024 | Banca: FUNATEC | Órgão: Prefeitura de Cururupu - MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Qual das seguintes situações caracteriza um ato de sabotagem segundo a legislação pertinente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interrupção não intencional de serviços de comunicação."
+      },
+      {
+        "letra": "B",
+        "texto": "Atraso no envio de correspondências sem intenção prejudicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Destruição proposital de infraestrutura crítica à defesa nacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Divulgação de informações confidenciais por engano."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3320361",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Serra - ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Acerca das disposições constitucionais penais, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da Lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei penal retroagirá, exceto para beneficiar o réu."
+      },
+      {
+        "letra": "C",
+        "texto": "A Lei não punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático."
+      },
+      {
+        "letra": "E",
+        "texto": "A prática do racismo constitui crime inafiançável e prescritível, sujeito à pena de reclusão, nos termos da Lei."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3095969",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CFP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Quanto aos direitos e às garantias fundamentais estabelecidos na Constituição Federal de 1988, julgue o item a seguir.Constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares contra a ordem constitucional e o Estado democrático.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2522186",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Noções Gerais dos Crimes Contra o Estado Democrático de Direito",
+      "Crimes contra a Soberania Nacional",
+      "Crimes contra as Instituições Democráticas",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral"
+    ],
+    "enunciado_principal": "Sobre os crimes contra o Estado Democrático de Direito, criados pela Lei nº 14.197/2021, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É crime impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Não constitui crime contra o Estado Democrático de Direito a manifestação crítica aos poderes constitucionais, a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, reuniões, greves, aglomerações ou qualquer outra forma de manifestação política com propósitos sociais."
+      },
+      {
+        "letra": "C",
+        "texto": "Alguns dos envolvidos nos atos de 8 de janeiro de 2023 foram condenados pela prática dos crimes de associação criminosa armada, abolição violenta do Estado Democrático de Direito, tentativa de golpe de Estado, dano qualificado e deterioração de patrimônio tombado."
+      },
+      {
+        "letra": "D",
+        "texto": "O entendimento do STF para os atos de 8 de janeiro foi o de que, ao invadir os prédios dos três Poderes, os participantes estavam cometendo o crime “Abolição violenta do Estado Democrático de Direito”, que tem pena de 4 a 8 anos de prisão, e, ao mesmo tempo, o crime de “Golpe de Estado”, cuja pena é de 4 a 12 anos de reclusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve incidir o princípio da consunção, devendo o crime de “Abolição violenta do Estado Democrático de Direito” ser absorvido pelo crime de “Golpe de Estado”, cuja pena é maior."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2388754",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra as Instituições Democráticas"
+    ],
+    "enunciado_principal": "Entre os crimes contra as instituições democráticas, a conduta de tentar depor, por meio de grave ameaça, o governo legitimamente constituído é considerada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípica."
+      },
+      {
+        "letra": "B",
+        "texto": "crime definido pelo CP como golpe de Estado, devendo ser aplicada a redução da pena de um a dois terços em razão da tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "crime definido pelo CP como golpe de Estado, não havendo previsão de redução da pena em razão da tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "crime à luz do Código Penal, inclusive quando praticada por meio de manifestação crítica aos poderes constitucionais."
+      },
+      {
+        "letra": "E",
+        "texto": "crime definido pelo CP como violência política, quando ocasionar a destruição de estabelecimentos, instalações ou serviços destinados à defesa nacional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3596847",
+    "metadata": "Ano: 2023 | Banca: FAU | Órgão: Prefeitura de Nossa Senhora das Graças - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Sobre os atos antidemocráticos ocorridos em Brasília, no dia 08 de janeiro, diversas ações foram cometidas contra os poderes constituídos e o patrimônio público. Apesar das investigações ainda estarem em curso, qual das opções abaixo se referem a ações praticadas pelos participantes daqueles atos? Analise as assertivas e assinale a alternativa correta: I - Depredação de obras de arte históricas e de patrimônio cultural nacional. II - Danos a móveis, computadores e documentos administrativos. III - Incêndio total da fachada e ala leste do prédio do Supremo Tribunal Federal. IV - Explosão de um ônibus com dinamites na Praça dos Três Poderes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2386175",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Noções Gerais dos Crimes Contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Tendo em conta os crimes contra o Estado Democrático de Direito, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de violência política para se caracterizar exige que a restrição, impedimento ou dificuldade ao exercício de direitos políticos seja em razão de sexo, raça, cor, etnia, religião ou procedência nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Quem presta auxílio a espião, conhecendo tal condição, para subtraí-lo à ação da autoridade pública, é punido com as penas do crime de espionagem, aumentada de 1/3."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de abolição violenta do Estado Democrático de Direito admite a tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Com exceção do crime de atentado à soberania nacional, que é próprio de funcionário público, todos os demais são crimes comuns."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de sabotagem é doloso, mas não exige, para se configurar, a finalidade específica de abolir o Estado Democrático de Direito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2320051",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Ação penal",
+      "Legislação Penal Especial",
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "João foi indiciado por ter sabotado determinados serviços destinados à defesa nacional, de modo a abolir a atual organização política e permitir o seu domínio por um Estado estrangeiro, de viés ideológico distinto, conduta que foi considerada um crime político. De acordo com a ordem constitucional, é correto afirmar que uma ação penal em face de João deve ser ajuizada perante",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Juiz Federal, com recurso para o Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "Juiz Federal, com recurso para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "Juiz Estadual, com recurso para o respectivo Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "Juiz Federal, com recurso para o respectivo Tribunal Regional Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "Supremo Tribunal Federal, sem a possibilidade de recurso para uma instância superior."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2306832",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "O Ministério Público ofereceu denúncia em face de João, ao argumento de que, em abril de 2023, o denunciado praticou grave ameaça, com a finalidade de desmembrar parte do território nacional para constituir país independente. Em juízo, após a observância do contraditório e da ampla defesa, como consectários do devido processo legal, os fatos narrados na exordial acusatória foram devidamente comprovados. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que João incorrerá no crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abolição violenta do Estado Democrático de Direito;"
+      },
+      {
+        "letra": "B",
+        "texto": "atentado à integridade nacional;"
+      },
+      {
+        "letra": "C",
+        "texto": "atentado à soberania;"
+      },
+      {
+        "letra": "D",
+        "texto": "golpe de Estado;"
+      },
+      {
+        "letra": "E",
+        "texto": "sabotagem."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2131334",
+    "metadata": "Ano: 2023 | Banca: COTEC | Órgão: Prefeitura de São Romão - MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral"
+    ],
+    "enunciado_principal": "Pedro Aleatório, presidente do partido local Ômega, tendo conhecimento que os eleitores da tribo Xacriabá teriam a pretensão de exercer o direito de voto em candidato do partido de oposição, resolve, no dia anterior ao pleito eleitoral, derrubar árvores nas vias de acesso à única seção eleitoral da aldeia. Além disso, no dia do pleito, posiciona seus capangas armados, com o intuito de dificultar o exercício dos diretos políticos dos eleitores da tribo. Considerando a situação descrita, é possível que Pedro Aleatório e seus capangas respondam por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "violência política."
+      },
+      {
+        "letra": "B",
+        "texto": "interrupção do processo eleitoral."
+      },
+      {
+        "letra": "C",
+        "texto": "sabotagem."
+      },
+      {
+        "letra": "D",
+        "texto": "abolição do estado democrático de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "atentado à integridade nacional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2006433",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra a liberdade pessoal",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Perseguição",
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral"
+    ],
+    "enunciado_principal": "Analise as assertivas e assinale a alternativa correta. I. Constitui crime previsto no Código Eleitoral o ato de restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional. II. O crime de perseguição previsto no artigo 147-A do Código Penal somente pode ser cometido contra mulher por razões da condição do sexo feminino. III. A Lei nº 11.340/2006, conhecida como “Lei Maria da Penha”, desde sua publicação, considera como crime o descumprimento de Medidas Protetivas de Urgência. IV. Há crime de latrocínio quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima. V. A extinção do mandato do prefeito não impede a instauração de processo pela prática dos crimes previstos no art. 1º do Dl. 201/67.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas II, IV e V estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas IV e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II, IV e V estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I, IV e V estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1987611",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "A fim de obter vantagem pecuniária, Judas obteve e entregou ilegalmente a agentes de governos estrangeiros e de organizações não-governamentais informações reservadas do Ministério do Meio Ambiente sobre o combate ao desmatamento na Amazônia. O crime cometido por Judas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é inafiançável e insuscetível de anistia, indulto ou graça."
+      },
+      {
+        "letra": "B",
+        "texto": "não é espionagem."
+      },
+      {
+        "letra": "C",
+        "texto": "é inafiançável e imprescritível."
+      },
+      {
+        "letra": "D",
+        "texto": "afeta o Estado Democrático de Direito."
+      },
+      {
+        "letra": "E",
+        "texto": "é de natureza militar."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1987417",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Assinale a opção que corresponde a um crime contra o Estado Democrático de Direito, nos termos do Título XII do Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entregar ao governo alemão documento secreto, pondo em risco a soberania brasileira, a fim de expor a violação de direitos humanos."
+      },
+      {
+        "letra": "B",
+        "texto": "Entoar cânticos cristãos para perturbar o comício eleitoral de um candidato candomblecista."
+      },
+      {
+        "letra": "C",
+        "texto": "Constituir associação para conscientizar o público das vantagens da independência do Rio Grande do Sul."
+      },
+      {
+        "letra": "D",
+        "texto": "Negociar com dissidentes venezuelanos o disparo de mísseis contra o Brasil, para acirrar a animosidade entre os países."
+      },
+      {
+        "letra": "E",
+        "texto": "Oferecer propina a parlamentares para impedir a abertura de processo de impeachment contra o presidente da República."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1908532",
+    "metadata": "Ano: 2022 | Banca: FURB | Órgão: Prefeitura de Itapema - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito",
+      "Crimes contra o funcionamento das Instituições Democráticas no Processo Eleitoral",
+      "Crimes contra o funcionamento dos serviços essenciais"
+    ],
+    "enunciado_principal": "De acordo com Código Penal, em relação aos Crimes contra o Estado Democrático de Direito, assinale a alternativa CORRETA que descreve o crime de SABOTAGEM.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído."
+      },
+      {
+        "letra": "B",
+        "texto": "Restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais."
+      },
+      {
+        "letra": "D",
+        "texto": "Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral."
+      },
+      {
+        "letra": "E",
+        "texto": "Destruir ou inutilizar meios de comunicação ao público, estabelecimentos, instalações ou serviços destinados à defesa nacional, com o fim de abolir o Estado Democrático de Direito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1905216",
+    "metadata": "Ano: 2022 | Banca: UECE-CEV | Órgão: Prefeitura de Sobral - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "A sabotagem descrita no Código Penal brasileiro caracteriza crime contra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a República Federativa."
+      },
+      {
+        "letra": "B",
+        "texto": "a soberania nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "o democrático processo eleitoral."
+      },
+      {
+        "letra": "D",
+        "texto": "o Estado Democrático de Direito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3669560",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: Prefeitura de Campina Grande - PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Legislação Penal Especial",
+      "Crimes contra o Estado Democrático de Direito"
+    ],
+    "enunciado_principal": "Acerca dos crimes inafiançáveis e imprescritíveis previstos na Constituição Federal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prática do racismo constitui crime imprescritível, porém é crime afiançável."
+      },
+      {
+        "letra": "B",
+        "texto": "Todo crime hediondo é inafiançável e imprescritível."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático."
+      },
+      {
+        "letra": "D",
+        "texto": "A prática da tortura, diferentemente do tráfico ilícito de entorpecentes e drogas afins, constitui crime imprescritível."
+      }
+    ],
+    "gabarito": "C"
+  }
+]
