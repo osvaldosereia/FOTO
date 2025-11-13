@@ -1,0 +1,57 @@
+[
+  {
+    "id": "387736",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Ausência de Convenção de Arbitragem"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir, referentes às competências do juiz. A arguição da existência da convenção de arbitragem ou compromisso arbitral pode ser conhecida de ofício pelo juiz.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "620546",
+    "metadata": "Ano: 2011 | Banca: Nosso Rumo | Órgão: Prefeitura de Mairinque - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Arbitragem no CPC 1973",
+      "Pressupostos Processuais",
+      "Ausência de Convenção de Arbitragem"
+    ],
+    "enunciado_principal": "Extingue-se o processo, sem resolução de mérito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o juiz acolher ou rejeitar o pedido do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "pela convenção de arbitragem."
+      },
+      {
+        "letra": "C",
+        "texto": "quando o réu reconhecer a procedência do pedido."
+      },
+      {
+        "letra": "D",
+        "texto": "quando as partes transigirem."
+      },
+      {
+        "letra": "E",
+        "texto": "quando o juiz pronunciar a decadência ou a prescrição."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

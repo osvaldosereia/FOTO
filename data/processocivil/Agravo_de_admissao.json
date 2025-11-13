@@ -1,0 +1,109 @@
+[
+  {
+    "id": "484441",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: PGE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Agravo de admissão",
+      "Classificação dos Recursos"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime e forem interpostos simultaneamente embargos infringentes e recurso extraordinário ou recurso especial, ficarão estes sobrestados até o julgamento daqueles."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra a decisão de juiz de direito de primeiro grau de jurisdição que não recebe o recurso de apelação quando a sentença estiver em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal cabe agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra a decisão do relator que converte o recurso de agravo de instrumento em agravo retido cabe agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "No julgamento de apelação, a utilização de novos fundamentos legais pelo tribunal para manter a sentença recorrida viola as regras da devolutividade dessa espécie recursal."
+      },
+      {
+        "letra": "E",
+        "texto": "Contra a decisão do órgão especial de Tribunal de Justiça que decide o incidente de declaração de inconstitucionalidade cabe recurso extraordinário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "434434",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo de admissão"
+    ],
+    "enunciado_principal": "Plínio ajuizou ação de rescisão de contrato c.c. indenização por danos morais e materiais contra José. O feito tramitou regularmente e foi julgado procedente pelo Magistrado competente, que acolheu todos os pedidos veiculados na inicial. Interposto recurso de apelação por José a Câmara Julgadora, por maioria de votos, reforma parcialmente a sentença de primeiro grau, rejeitando o pedido de indenização por danos morais, mantendo, no mais, a sentença tal como prolatada. Plínio, inconformado, interpôs embargos infringentes, abrindo-se vista ao recorrido José para contrarrazões. Após, o relator do acórdão embargado, ao fazer o juízo de admissibilidade do recurso não admite o recurso interposto por Plínio. Contra esta decisão, Plínio, mais uma vez inconformado, poderá interpor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apelação para o órgão competente para julgamento do recurso."
+      },
+      {
+        "letra": "B",
+        "texto": "agravo, no prazo de 05 dias, para o órgão competente para julgamento do recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo, no prazo de 10 dias, para o órgão competente para julgamento do recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "correição parcial para o Presidente do Tribunal de Justiça."
+      },
+      {
+        "letra": "E",
+        "texto": "agravo, no prazo de 15 dias, para o órgão compe- tente para julgamento do recurso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "346900",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: ITESP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo de admissão"
+    ],
+    "enunciado_principal": "“A”, após ter seu recurso de apelação improvido, interpôs recursos extraordinário e especial, os quais foram inadmi- tidos no primeiro juízo de admissibilidade, realizado pelo Tribunal de Justiça de São Paulo. Nesse caso, pode-se afir- ma que se “A” desejar recorrer integralmente das decisões.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caberão dois recursos de agravo, nos próprios autos, no prazo de 10 dias, dirigidos à presidência do Tribunal de Justiça de São Paulo."
+      },
+      {
+        "letra": "B",
+        "texto": "caberá apenas um recurso de agravo, nos próprios au- tos, no prazo de 10 dias, dirigido à presidência do Tribunal de Justiça de São Paulo."
+      },
+      {
+        "letra": "C",
+        "texto": "caberão dois agravos de instrumento, dirigidos, respectivamente, para o presidente do Supremo Tribunal Federal e do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "caberá agravo nos próprios autos, no prazo de 5 dias, dirigido à presidência do Tribunal de Justiça de São Paulo."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá instruir eventual recurso de agravo com os comprovantes de pagamento de custas e despesas postais."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

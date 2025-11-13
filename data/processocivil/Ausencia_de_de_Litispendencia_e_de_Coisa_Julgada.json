@@ -1,0 +1,578 @@
+[
+  {
+    "id": "633155",
+    "metadata": "Ano: 2016 | Banca: FAUEL | Órgão: CISMEPAR - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Respostas do réu - Contestação",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "No que diz respeito à resposta do réu e, especialmente, à contestação, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É lícito ao juiz se pronunciar de ofício sobre a existência de compromisso arbitral."
+      },
+      {
+        "letra": "B",
+        "texto": "Um dos princípios que norteia a atividade desenvolvida pelo réu na contestação é o da eventualidade, também conhecido como princípio da concentração de defesa, de forma que se admite que o réu produza argumentos logicamente incompatíveis, alegando, por exemplo, sucessivamente, que a dívida não existe e que já a pagou."
+      },
+      {
+        "letra": "C",
+        "texto": "Litispendência, perempção e coisa julgada são exemplos de defensas preliminares ou processuais."
+      },
+      {
+        "letra": "D",
+        "texto": "Há litispendência, quando se repete ação, que está em curso; há coisa julgada, quando se repete ação que já foi decidida por sentença, de que não caiba recurso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "619839",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Com relação aos impedimentos e à suspeição, assinale V para a afirmativa verdadeira e F para a falsa. ( ) É defeso ao juiz exercer as suas funções no processo contencioso ou voluntário quando for cônjuge, parente, consanguíneo ou afim, de alguma das partes, em linha reta ou na colateral, até o terceiro grau.( ) Reputa-se fundada a suspeição de parcialidade do juiz quando este for herdeiro presuntivo de alguma das partes. ( ) Os motivos de impedimento e de suspeição não se aplicam aos serventuários da Justiça. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V e F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V e V."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F e F."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V e F."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F e V."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "590370",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: PGE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Funcionário público estadual, inconformado com o ato administrativo que o demitiu do serviço público, em virtude do cometimento de grave falta funcional, impetrou mandado de segurança em que pleiteou a invalidação do ato em questão, sob o fundamento de não terem sido observadas, no processo administrativo disciplinar instaurado em seu desfavor, as garantias da ampla defesa e do contraditório. Diante do indeferimento da medida liminar requerida na inicial, para que se suspendesse a eficácia do ato punitivo, o servidor houve por bem ajuizar uma nova demanda, já então sob o rito ordinário, em que postulou, da mesma forma, a invalidação do ato demissório, aduzindo a mesma causa petendi. Considerando a propositura da segunda ação, a que se seguiram o seu juízo positivo de admissibilidade e a citação do ente federativo, está-se diante do fenômeno da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litispendência;"
+      },
+      {
+        "letra": "B",
+        "texto": "conexão;"
+      },
+      {
+        "letra": "C",
+        "texto": "continência;"
+      },
+      {
+        "letra": "D",
+        "texto": "carência de ação, por impossibilidade jurídica do pedido;"
+      },
+      {
+        "letra": "E",
+        "texto": "perempção."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "587985",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Ações Coletivas no CPC 1973",
+      "Critérios de competência",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "A respeito de competência, continência, suspensão do processo, prescrição e execução em ações coletivas, assinale a opção correta à luz da jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso seja ajuizada ação coletiva atinente à macrolide geradora de processos multitudinários, não será possível determinar a suspensão do andamento de processos individuais até o julgamento, no âmbito da ação coletiva, da questão jurídica de fundo neles discutida, sob pena de violação ao direito constitucional de acesso à justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "No âmbito do direito privado, é de cinco anos o prazo prescricional para o ajuizamento de execução individual em pedido de cumprimento de sentença proferida em ACP, salvo se, na ação de conhecimento, já transitada em julgado, tiver sido reconhecida a aplicabilidade do prazo de prescrição vintenário."
+      },
+      {
+        "letra": "C",
+        "texto": "Após o julgamento procedente de pedido em ACP destinada a reparar lesão a direitos individuais homogêneos, os juros de mora devidos serão calculados a partir da citação inicial na ação coletiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao juiz estadual, nas comarcas que não sejam sede de vara federal, processar e julgar ACP, ainda que a União figure no processo."
+      },
+      {
+        "letra": "E",
+        "texto": "Se duas ações coletivas forem propostas perante juízos de competência territorial distinta, contra o mesmo réu e com a mesma causa de pedir, e o objeto de uma ação for mais abrangente do que o da outra, competirá ao juízo da ação de objeto mais amplo o processamento e julgamento das duas demandas, ainda que ambas sejam propostas por entidades associativas distintas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "581728",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "De acordo com o entendimento do STF e do STJ, admite-se a ocorrência da litispendência entre um mandado de segurança e uma ação ordinária.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "581537",
+    "metadata": "Ano: 2015 | Banca: FEPESE | Órgão: Prefeitura de Balneário Camboriú - SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação",
+      "Respostas do réu  - Exceção",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre a litispendência, a conexão ou a coisa julgada, quando o autor reproduz ação idêntica, julgada ou não, contra o mesmo réu."
+      },
+      {
+        "letra": "B",
+        "texto": "Serão opostos por meio de exceção a incompetência, o impedimento, a suspeição e a reconvenção."
+      },
+      {
+        "letra": "C",
+        "texto": "O revel poderá intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar, ressalvado-lhe a reabertura do direito de apresentar defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A contestação e a reconvenção serão oferecidas simultaneamente, em peças autônomas."
+      },
+      {
+        "letra": "E",
+        "texto": "Indeferida a petição inicial, o autor poderá apelar, no prazo de quinze dias, sendo facultado ao juiz reformar sua decisão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "565650",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Execução fiscal",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Acerca da execução no processo civil, julgue o seguinte item conforme a jurisprudência do STJ.Deve ser reconhecida a litispendência entre os embargos à execução fiscal e a ação anulatória do débito proposta anteriormente ao ajuizamento da execução fiscal embargada, se forem identificadas as mesmas partes, a mesma causa de pedir e o mesmo pedido nas demandas.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "670349",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Litispendência é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "repetição de uma mesma ação em que já foi proferida sentença, com trânsito em julgado."
+      },
+      {
+        "letra": "B",
+        "texto": "repetição de uma mesma ação que está em curso, ou seja, com as mesmas partes, pedido e causa de pedir mais abrangente que engloba a da outra ação"
+      },
+      {
+        "letra": "C",
+        "texto": "mais de uma pessoa em um, ou em ambos os polos da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "repetição de uma mesma sentença no processo."
+      },
+      {
+        "letra": "E",
+        "texto": "repetição de uma mesma ação que está em curso, ou seja, com as mesmas partes, pedido e causa de pedir."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "362501",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Da ação",
+      "Coisa Julgada no CPC 1973",
+      "Identificação da ação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Respeito ao Formalismo Processual - citação válida, petição inicial apta, etc.",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Compete ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito, com que impugna o pedido do autor, especificando, outrossim, as provas que pretende produzir. Porém, antes de discutir o mérito, o réu pode alegar preliminarmente na peça contestatória, nos termos do Código de Processo Civil, o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Litispendência, coisa julgada, conexão, reconvenção, incapacidade da parte, convenção de arbitragem;"
+      },
+      {
+        "letra": "B",
+        "texto": "Inexistência da citação, incompetência absoluta, inépcia da petição inicial, reconvenção, perempção;"
+      },
+      {
+        "letra": "C",
+        "texto": "Nulidade da citação, incompetência relativa, perempção, continência, conexão, falta de autorização;"
+      },
+      {
+        "letra": "D",
+        "texto": "Continência, carência de ação, defeito de representação, incompetência absoluta, exceção de suspeição;"
+      },
+      {
+        "letra": "E",
+        "texto": "Inépcia da petição inicial, litispendência, coisa julgada, conexão, incapacidade da parte, carência de ação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1286187",
+    "metadata": "Ano: 2013 | Banca: AOCP | Órgão: COREN-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Respostas do réu - Contestação",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Analise as assertivas e assinale a alternativa que aponta as corretas. I. O réu poderá oferecer, no prazo de 15 (quinze) dias, em petição escrita, dirigida ao juiz da causa, contestação, exceção e reconvenção. II. Se o autor desistir da ação quanto a algum réu ainda não citado, o prazo para a resposta correrá da intimação do despacho que deferir a desistência. III. Uma ação é idêntica a outra quando tem as mesmas partes, a mesma causa de pedir e o mesmo pedido. IV. Há litispendência, quando se repete ação, que está em curso; há coisa julgada, quando se repete ação que já foi decidida por sentença, de que não caiba recurso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "471554",
+    "metadata": "Ano: 2013 | Banca: IPAD | Órgão: PGE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Da ação",
+      "Condições da ação",
+      "Da comunicação dos atos processuais - Citação",
+      "Respostas do réu - Contestação",
+      "Coisa Julgada no CPC 1973",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Assinale a alternativa que indica a sequência de palavras que preenche corretamente as seguintes assertivas: I. Haverá ............. quando dois ou mais processos em curso apresentarem identidade de partes, causa de pedir e pedido. II. A carência de ação é fenômeno processual que se caracteriza pela ausência de ............. . III. A ............. é a peça de defesa do réu, por excelência, na atividade de conhecimento, por meio da qual este manifesta sua resistência à pretensão articulada pelo autor. IV. ............. é o ato pelo qual se chama a juízo o réu ou o interessado a fim de se defender.V. Denomina-se ............. “a medida ou quantidade de jurisdição delegada a um determinado órgão ou grupo de órgãos”, ou ainda “a limitação do exercício legítimo da jurisdição por um órgão ou grupo de órgãos”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coisa julgada – pressuposto processual – contestação – notificação – jurisprudência."
+      },
+      {
+        "letra": "B",
+        "texto": "litispendência – capacidade processual – exceção – citação – capacidade jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "perempção – condição da ação – impugnação – intimação – competência."
+      },
+      {
+        "letra": "D",
+        "texto": "litispendência – condição da ação – contestação – citação – competência."
+      },
+      {
+        "letra": "E",
+        "texto": "inépcia – competência – reconvenção – notificação – competência internacional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322963",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: IPEM-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Verificando-se que uma nova ação judicial reproduz as mesmas partes, a mesma causa de pedir e o mesmo pedido de outra ação anterior, na qual pende apenas o julgamento de Recurso Especial, ter-se-á:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "continência."
+      },
+      {
+        "letra": "B",
+        "texto": "coisa julgada."
+      },
+      {
+        "letra": "C",
+        "texto": "conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "perempção."
+      },
+      {
+        "letra": "E",
+        "texto": "litispendência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "398531",
+    "metadata": "Ano: 2012 | Banca: CONSULPLAN | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Prazos",
+      "Respostas do réu - Contestação",
+      "Pressupostos Processuais",
+      "Imparcialidade do Juiz e Competência do Juízo",
+      "Ausência de Perempção",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Roxin, dirigindo seu veículo automotor, colide com veículo de propriedade de Thomas. Thomas propõe ação de indenização em desfavor de Roxin, que é citado e procura o advogado Rousseau para fazer sua defesa. Com base no CPC, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rousseau poderá alegar, em sede de preliminar de contestação, a incompetência relativa do juízo."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso Thomas já tenha intentado ação idêntica, ainda não sentenciada, poderá Rousseau alegar preliminar de coisa julgada."
+      },
+      {
+        "letra": "C",
+        "texto": "Se Rousseau não alegar matéria relacionada à perempção, não poderá o juízo conhecer da mesma."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é lícito a Rousseau, depois de contestada a ação, deduzir alegação relacionada a direito superveniente, ante a preclusão ocorrida."
+      },
+      {
+        "letra": "E",
+        "texto": "Os fatos não impugnados por Rousseau serão considerados verdadeiros, em regra."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "321583",
+    "metadata": "Ano: 2012 | Banca: FUJB | Órgão: MPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Cidadão, em pleno gozo de seus direitos políticos,ajuizou ação popular ambiental, figurando no polo passivo, entre outros, o Estado,o Governador e o Secretário de Fazenda. Nas respostas aos termos da inicial, os réus informaram que, poucos dias depois da propositura da ação popular,o Ministério Público, por meio de Promotor de Justiça, no exercício de suas atribuições ordinárias, ajuizou ação civil pública essencialmente sobre a mesma situação jurídica coletiva, com os mesmos fundamentos e pedidos, figurando as mesmas partes no polo passivo. Constatando- se a veracidade das informações sobre a identidade daqueles elementos, sabe-se também que as comarcas são distintas e que a ação civil pública foi despachada em primeiro lugar, mas a citação válida se deu primeiramente na ação popular.Diante desse quadro, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há litispendência entre as ações em virtude de os autores serem entes distintos, inexistindo a tríplice identidade, devendo haver reunião das ações por conexão na comarca em que foi despachada a ação civil pública;"
+      },
+      {
+        "letra": "B",
+        "texto": "há conexão de causas, inexistindo identidade jurídica entre os autores, devendo ser extinta a ação civil pública e prosseguir a ação popular no foro em que foi proposta, podendo o Promotor de Justiça ingressar no polo ativo por meio de litisconsórcio facultativo unitário ulterior;"
+      },
+      {
+        "letra": "C",
+        "texto": "há conexão de causas, mas não haverá reunião das ações em virtude de o Governador fazer jus a foro por prerrogativa de funções, além de não haver litisconsórcio entre indivíduo e Ministério Público em ação coletiva ambiental;"
+      },
+      {
+        "letra": "D",
+        "texto": "há litispendência, estando presente a identidade entre as partes e entre a situação jurídica das demandas, mas, se não houver emenda da inicial, a ação civil pública deverá ser extinta por ausência de atribuição do Promotor de Justiça, sem prejuízo do prosseguimento da ação popular com intervenção do Ministério Público;"
+      },
+      {
+        "letra": "E",
+        "texto": "a ação popular deve ser extinta, porque não se presta para a tutela ambiental e também, considerando-se a proeminência da legitimidade do Ministério Público, prevalece a ação civil pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "505976",
+    "metadata": "Ano: 2011 | Banca: TRT 16R | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dentre outros efeitos, é a partir da citação válida que se tem como configurada a perpetuatio jurisdictionis."
+      },
+      {
+        "letra": "B",
+        "texto": "Constituem pressupostos processuais negativos a litispendência, a coisa julgada e a incompetência relativa."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedada a intervenção de terceiros no processo de execução por título extrajudicial, salvo quando da instauração incidente de embargos de devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "Diante de vício insanável do ato de citação, poderá a qualquer tempo ser aviada pelo réu querela nuliitatis insanabilis dispensando-se a propositura de ação rescisória para tal desiderato."
+      },
+      {
+        "letra": "E",
+        "texto": "A transação é causa de extinção do processo com resolução de mérito."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "486587",
+    "metadata": "Ano: 2011 | Banca: UPENET/IAUPE | Órgão: Prefeitura de Olinda - PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Ações Coletivas no CPC 1973",
+      "Ação Civil Pública no CPC 1973",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Acerca do instituto da litispendência, é CORRETO afirmar que a proposição de uma ação coletiva - ação civil pública ou ação civil coletiva - ajuizada para a defesa de interesses coletivos – em sctrito sensu – com uma ação individual",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "denota litispendência, mesmo quando houver identidade das partes e conexão entre as ações."
+      },
+      {
+        "letra": "B",
+        "texto": "denota litispendência, quando houver identidade das partes, de pedido e da causa de pedir."
+      },
+      {
+        "letra": "C",
+        "texto": "não denota litispendência."
+      },
+      {
+        "letra": "D",
+        "texto": "denota litispendência, quando houver conexão entre as ações e causa de pedir"
+      },
+      {
+        "letra": "E",
+        "texto": "não denota litispendência, se houver identidade das partes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "59693",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Fala-se que uma ação é idêntica à outra quando tiver",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fundamentos e pedidos de mesma natureza."
+      },
+      {
+        "letra": "B",
+        "texto": "a mesma natureza."
+      },
+      {
+        "letra": "C",
+        "texto": "o mesmo pedido e as mesmas partes."
+      },
+      {
+        "letra": "D",
+        "texto": "o mesmo pedido, as mesmas partes e mesma causa de pedir."
+      },
+      {
+        "letra": "E",
+        "texto": "o mesmo pedido e mesma causa de pedir."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

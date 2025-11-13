@@ -1,0 +1,333 @@
+[
+  {
+    "id": "542528",
+    "metadata": "Ano: 2015 | Banca: FUNDEP (Gestão de Concursos) | Órgão: CORECON - MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Da comunicação dos atos processuais - Citação",
+      "Processo de execução",
+      "Classificação dos Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Da Execução em Geral - Requisitos: Título Executivo Judicial e Extrajudicial"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas. I. Tendo a citação, em processo de execução de título executivo judicial, efetivado-se na vigência da lei antiga, e a intimação da penhora, na vigência da lei nova, admite-se que o devedor possa contrapor-se à execução por meio de impugnação ao cumprimento da sentença ou embargos do devedor. II. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não caber agravo previsto no art. 544 do Código de Processo Civil para atacar decisão a quo que aplica a sistemática da repercussão geral. III. A decisão do Superior Tribunal de Justiça que aplica o regime do art. 543-B do Código de Processo Civil não é passível de revisão pelo STF, por ser cabível apenas a interposição de agravo interno no âmbito do próprio tribunal superior. IV. A convocação de juízes do primeiro grau de jurisdição para atuarem nos Tribunais não ofende o princípio do juiz natural. A partir da análise, estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "484441",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: PGE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Agravo de admissão",
+      "Classificação dos Recursos"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime e forem interpostos simultaneamente embargos infringentes e recurso extraordinário ou recurso especial, ficarão estes sobrestados até o julgamento daqueles."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra a decisão de juiz de direito de primeiro grau de jurisdição que não recebe o recurso de apelação quando a sentença estiver em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal cabe agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra a decisão do relator que converte o recurso de agravo de instrumento em agravo retido cabe agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "No julgamento de apelação, a utilização de novos fundamentos legais pelo tribunal para manter a sentença recorrida viola as regras da devolutividade dessa espécie recursal."
+      },
+      {
+        "letra": "E",
+        "texto": "Contra a decisão do órgão especial de Tribunal de Justiça que decide o incidente de declaração de inconstitucionalidade cabe recurso extraordinário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "429167",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Classificação dos Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Em relação aos recursos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O conhecimento de um recurso pelo órgão ao qual caiba seu julgamento implica a consequência jurídica de seu exame de mérito, para necessariamente provê-lo."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos os recursos são interpostos perante o mesmo órgão julgador da decisão recorrida, isto é, ao órgão jurisdicional a quo."
+      },
+      {
+        "letra": "C",
+        "texto": "O prévio juízo de admissibilidade recursal é feito diretamente pelo órgão jurisdicional ao qual se tenha recorrido, ou seja, o órgão jurisdicional ad quem."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão que recebe ou não o recurso interposto cabe apelação, por seu caráter de definitividade."
+      },
+      {
+        "letra": "E",
+        "texto": "Como regra geral, não se podem invocar no recurso matérias que não tenham sido arguidas e discutidas anteriormente, até a prolação da sentença."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "433753",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: FUNDAÇÃO PRÓ-SANGUE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Efeitos dos recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Os recursos constituem um importante mecanismo processual no sistema pátrio. Comportam diversas classificações e apresentam características que os individualizam. Contudo, na análise da sistemática recursal, podemos identificar elementos comuns, que são inerentes a todo e qualquer recurso integrante do nosso sistema.Assinale a alternativa que se refere a um instituto que não guarda relação com a sistemática de interposição de recursos no sistema brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso adesivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Duplo grau de jurisdição"
+      },
+      {
+        "letra": "C",
+        "texto": "Reexame necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Recursos ordinários."
+      },
+      {
+        "letra": "E",
+        "texto": "Efeito devolutivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "410122",
+    "metadata": "Ano: 2013 | Banca: IADES | Órgão: CAU-BR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Classificação dos Recursos"
+    ],
+    "enunciado_principal": "Com relação aos recursos no Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São cabíveis os seguintes recursos: (I) apelação; (II) agravo; (III) embargos infringentes; (IV) embargos de declaração; (V) recurso ordinário; (VI) recurso especial; (VII) recurso extraordinário; (VIII) embargos de divergência em recurso especial e em recurso extraordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "O recurso extraordinário e o recurso especial impedem a execução da sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "Exclusivamente, o recurso só pode ser interposto pela parte vencida e pelo terceiro prejudicado."
+      },
+      {
+        "letra": "D",
+        "texto": "O recorrente poderá, apenas até a relatoria do caso, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso."
+      },
+      {
+        "letra": "E",
+        "texto": "A renúncia ao direito de recorrer depende da aceitação da outra parte."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "506981",
+    "metadata": "Ano: 2012 | Banca: FEMPERJ | Órgão: TCE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Quantos aos recursos no processo civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em função do efeito translativo dos recursos, a apelação devolve obrigatoriamente ao tribunal o conhecimento de todos os fundamentos do pedido, ainda que eles não tenham sido deduzidos nas razões;"
+      },
+      {
+        "letra": "B",
+        "texto": "após a proclamação do resultado do julgamento e encerrada a prestação jurisdicional no tocante à apelação, é possível a correção de erro material no acórdão, ainda que isso importe em alteração do decidido, em atenção aos princípios da economia processual, instrumentalidade das formas e da segurança jurídica;"
+      },
+      {
+        "letra": "C",
+        "texto": "não há nulidade do julgamento em órgão colegiado do qual participou Ministro impedido, se o seu voto não foi decisivo para o resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "a determinação do juízo de primeiro grau para que se recolha a taxa judiciária sob pena de cancelamento da distribuição é impugnável por apelação, visto tratar-se de decisão com força definitiva;"
+      },
+      {
+        "letra": "E",
+        "texto": "compete ao órgão colegiado o julgamento dos embargos de declaração opostos contra decisão monocrática do relator."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "270736",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Classificação dos Recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Considerando o disposto no Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o juiz não receberá o recurso de apelação, quando a sentença estiver em conformidade com a Súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "o prazo estipulado para o juiz reexaminar os pressupostos de admissibilidade da apelação, após a resposta do recorrido, é de 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "é vedado ao relator negar seguimento liminar ao agravo de instrumento ou convertê-lo em agravo retido."
+      },
+      {
+        "letra": "D",
+        "texto": "é inadmissível recurso adesivo em sede de recurso extraordinário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "270615",
+    "metadata": "Ano: 2012 | Banca: CETRO | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Classificação dos Recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Sobre os recursos no processo civil, é incorreto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando não forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial relativo à parte unânime da decisão terá como dia de início aquele em que transitar em julgado a decisão por maioria de votos."
+      },
+      {
+        "letra": "B",
+        "texto": "o recurso adesivo será admissível na apelação, nos embargos infringentes, no recurso extraordinário e no recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "o recurso adesivo não será conhecido se houver desistência do recurso principal, ou se for ele declarado inadmissível ou deserto."
+      },
+      {
+        "letra": "D",
+        "texto": "a apelação será recebida em seu efeito devolutivo e suspensivo quando interposta de sentença que decidir o processo cautelar."
+      },
+      {
+        "letra": "E",
+        "texto": "a apelação será recebida apenas em seu efeito devolutivo quando interposta de sentença que confirmar a antecipação dos efeitos da tutela."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "207710",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: AL-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O primeiro juízo de admissibilidade do recurso de apelação, realizado pelo juiz a quo, deve restringir-se às questões formais típicas, tais como a tempestividade e o preparo, sem jamais adentrar o seu mérito, que é de competência exclusiva do tribunal ad quem."
+      },
+      {
+        "letra": "B",
+        "texto": "Será incabível a interposição de embargos infringentes de acórdão da 1.ª Câmara Cível do tribunal que, por maioria, confirmou a sentença de mérito na parte em que esta reconheceu obrigação de indenizar."
+      },
+      {
+        "letra": "C",
+        "texto": "A reiteração, na apelação, dos mesmos argumentos apresentados na contestação — e já afastados pela sentença — impede o conhecimento do recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo recente posicionamento do STF, é inconstitucional, por afronta ao princípio da motivação das decisões judiciais, decisão de turma recursal de juizados especiais que adote os mesmos fundamentos da sentença questionada."
+      },
+      {
+        "letra": "E",
+        "texto": "Em agravo de instrumento, mesmo que tenham sido apresentadas todas as peças obrigatórias exigidas conforme o Código de Processo Civil, o relator poderá não conhecer o recurso sob o argumento de que a ordem de juntada dos documentos torna difícil a exata compreensão da controvérsia."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

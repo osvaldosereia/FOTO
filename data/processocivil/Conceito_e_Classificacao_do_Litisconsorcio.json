@@ -1,0 +1,2943 @@
+[
+  {
+    "id": "629664",
+    "metadata": "Ano: 2016 | Banca: IBEG | Órgão: Prefeitura de Guarapari - ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Em relação aos sujeitos do processo, em especial sobre litisconsórcio, analise as assertivas abaixo e assinale a alternativa correta:I - O litisconsórcio será necessário e simples quando a sua formação for obrigatória exclusivamente por força de lei, como ocorre nas ações de usucapião. Se a lei determinar a sua formação, mas, além disso, o processo versar sobre relação jurídica una e incindível, o litisconsórcio será necessário e unitário, como nas ações de dissolução da sociedade. II - O litisconsórcio será facultativo e simples nas hipóteses dos incisos do art. 46 do Código de Processo Civil: comunhão, conexão e afinidade por um ponto comum. No caso de comunhão ou co-titularidade, o litisconsórcio será facultativo e simples se a coisa ou relação jurídica for una, mas cindível, como ocorre na solidariedade, porque, se for incindível, haverá unitariedade. III - O litisconsórcio será necessário e unitário quando o processo versar sobre coisa ou relação jurídica una e incindível, que tenha vários titulares. Mas desde que se esteja no campo da legitimidade ordinária, porque, se for extraordinária, a litisconsórcio será facultativo e unitário. Exemplos de litisconsórcios necessários e unitários são as ações de nulidade de casamento, ajuizadas pelo Ministério Público, e as ações de anulação de contrato. IV - O litisconsórcio será facultativo e unitário quando o processo verse sobre relação jurídica una e incindível, com mais de um titular, mas que exista lei que autorize a sua postulação ou defesa em juízo por apenas um dos titulares, o que só ocorre quando se está no campo da legitimidade extraordinária. Se a lei faculta que a coisa ou direito seja defendido só por um dos titulares, se eles se agruparem para o fazer, o litisconsórcio será facultativo e unitário. V - Enquanto o processo está em curso, verificando o juiz que há um litisconsorte necessário ausente, mandará incluí-lo. Se o processo estiver em fase avançada, tal determinação implicará a nulidade de todos os atos processuais até então praticados, sem a participação do litisconsorte necessário.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, III e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, III e V são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e IV são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas são verdadeiras."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "622490",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Do Litisconsórcio",
+      "Modificação de competência",
+      "Da comunicação dos atos processuais - Citação",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Pedro e Caio, domiciliados em Macapá – AP, foram vítimas de acidente automobilístico em uma rodovia. Supostamente, o acidente foi provocado por Rafael, domiciliado em Belém – PA. As vítimas propuseram, separadamente, ações de indenização contra Rafael na justiça comum de Macapá. A respeito dessa situação hipotética, assinale a opção correta de acordo com disposições do CPC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como a demanda indenizatória foi proposta na justiça comum, o processo deverá seguir necessariamente o procedimento ordinário, rito que viabiliza o contraditório e a ampla defesa ao réu nessa situação."
+      },
+      {
+        "letra": "B",
+        "texto": "A citação do réu deve ser feita necessariamente por oficial de justiça: o CPC veda a citação por via postal nas ações de ressarcimento por danos causados em acidente de veículo de via terrestre."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso Rafael interponha oportunamente exceção de incompetência relativa, o juiz deve declinar de sua competência."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso as ações sejam distribuídas para órgãos judicias distintos, os processos poderão ser posteriormente reunidos em razão da existência de continência."
+      },
+      {
+        "letra": "E",
+        "texto": "Pedro e Caio poderiam ter optado por ingressar em litisconsórcio ativo, caso em que seriam considerados como litigantes distintos em suas relações com a parte adversa, por força do princípio da autonomia dos litisconsortes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "620587",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Com relação ao litisconsórcio, à assistência e à intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não cabe a ação de oposição nas ações pessoais mobiliárias."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra a decisão que soluciona o pedido de nomeação à autoria cabe recurso de apelação."
+      },
+      {
+        "letra": "C",
+        "texto": "Formado o litisconsórcio passivo necessário unitário, a contestação oferecida pelo corréu não obsta a incidência dos efeitos materiais da revelia em relação ao revel."
+      },
+      {
+        "letra": "D",
+        "texto": "No incidente de chamamento ao processo, extromissão da parte é o procedimento processual empregado para a substituição da parte ré pelo chamado."
+      },
+      {
+        "letra": "E",
+        "texto": "Se dois ou mais dos litisconsortes representados por advogado comum sucumbirem, não se contará o prazo em dobro para recorrer."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "595612",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Modificação de competência",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio",
+      "Respostas do réu - Reconvenção"
+    ],
+    "enunciado_principal": "Acerca dos temas resposta do réu, prazos e litisconsórcio, assinale a opção correta, de acordo com a legislação aplicável e a jurisprudência dominante do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prerrogativa de prazo em dobro para recorrer, de que trata o artigo 191, do CPC, somente se aplica quando mais de um dos litisconsortes tiver legitimidade e interesse recursal, mesmo que sejam diversos os procuradores."
+      },
+      {
+        "letra": "B",
+        "texto": "A exceção de incompetência deve ser arguida em petição fundamentada e instruída, devendo o excipiente indicar o juízo para o qual declina; o excepto será ouvido em dez dias e o juiz dispõe de igual prazo para decidir a exceção, sendo incabível a produção de prova testemunhal, porque a competência é matéria de direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo litisconsórcio passivo facultativo, se o autor desistir da ação quanto a algum réu ainda não citado, o prazo para resposta correrá a partir da juntada aos autos do último mandado de citação ou aviso de recebimento."
+      },
+      {
+        "letra": "D",
+        "texto": "O réu deverá alegar, na contestação, toda a matéria de defesa que tiver, e deverá, no mesmo prazo da contestação, arguir, por meio de exceção, a incompetência, o impedimento ou a suspeição."
+      },
+      {
+        "letra": "E",
+        "texto": "A reconvenção tem natureza jurídica de lide secundária e, uma vez extinta a ação principal, também se extingue a reconvenção."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "619839",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Com relação aos impedimentos e à suspeição, assinale V para a afirmativa verdadeira e F para a falsa. ( ) É defeso ao juiz exercer as suas funções no processo contencioso ou voluntário quando for cônjuge, parente, consanguíneo ou afim, de alguma das partes, em linha reta ou na colateral, até o terceiro grau.( ) Reputa-se fundada a suspeição de parcialidade do juiz quando este for herdeiro presuntivo de alguma das partes. ( ) Os motivos de impedimento e de suspeição não se aplicam aos serventuários da Justiça. As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V e F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V e V."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F e F."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V e F."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F e V."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "599857",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Sentença",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Conceito e Classificação do Litisconsórcio",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "A usucapião é uma modalidade de aquisição da propriedade de bens móveis ou imóveis mediante o exercício da posse, nos prazos fixados em lei. Em relação à usucapião de imóveis,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o litisconsórcio entre a pessoa cujo nome se encontra registrado o imóvel e os proprietários dos imóveis confinantes é classificado como passivo, necessário e unitário."
+      },
+      {
+        "letra": "B",
+        "texto": "os bens públicos e aqueles pertencentes às sociedades de economia mista não podem ser objeto de usucapião."
+      },
+      {
+        "letra": "C",
+        "texto": "os representantes da fazenda pública da União, Estados, Distrito Federal, Territórios e municípios serão intimados, via postal, para que manifestem interesse na causa."
+      },
+      {
+        "letra": "D",
+        "texto": "a sentença proferida contra quem, tendo título registrado, não foi citado para a ação de usucapião, é ineficaz, devendo ser impugnada mediante ação rescisória."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "597309",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre litisconsórcio, nos termos previstos do Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para que se configure o litisconsórcio, duas ou mais pessoas em processos distintos, mas sobre o mesmo assunto, em conjunto, ativa ou passivamente, podem litigar se entre elas houver comunhão de direitos ou de obrigações relativamente a lides das quais participam."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa. O pedido de limitação suspende o prazo para resposta, que continua da intimação da decisão."
+      },
+      {
+        "letra": "C",
+        "texto": "Há litisconsórcio facultativo quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes; sendo em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada litisconsorte tem o direito de promover o andamento do processo e todos devem ser intimados dos respectivos atos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os litisconsortes sempre serão considerados, em suas relações com a parte adversa, como litigantes distintos; os atos e as omissões de um não prejudicarão nem beneficiarão os outros."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "590373",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: PGE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "José e João, acionistas de uma empresa, não foram comunicados sobre uma assembleia que iria tratar de assuntos referentes a seus interesses. Desse modo, ajuízam ação, em litisconsórcio, em face da empresa, pedindo a anulação da referida assembleia. Nesse caso, formou-se um litisconsórcio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ativo, necessário e unitário;"
+      },
+      {
+        "letra": "B",
+        "texto": "misto, facultativo e simples;"
+      },
+      {
+        "letra": "C",
+        "texto": "ativo, facultativo e unitário;"
+      },
+      {
+        "letra": "D",
+        "texto": "ativo, necessário e simples;"
+      },
+      {
+        "letra": "E",
+        "texto": "ativo, facultativo e necessário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "521376",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Juizado Especial no CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio",
+      "Juizado Especial - Federal"
+    ],
+    "enunciado_principal": "Acerca dos sujeitos processuais e do litisconsórcio no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com entendimento consolidado pelo STJ, em ação contra o INSS que verse sobre contribuições previdenciárias, admite-se a formação de litisconsórcio facultativo após o ajuizamento da ação."
+      },
+      {
+        "letra": "B",
+        "texto": "Genitora que defende direitos de titularidade de um filho absolutamente incapaz atua como parte no processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de litisconsórcio classificado como necessário, o juiz deve emitir decisão idêntica para todos os litigantes que ocupem o mesmo polo da demanda."
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme jurisprudência dominante do STJ, a qualificação da relação como sendo de consumo não afasta a possibilidade de denunciação da lide."
+      },
+      {
+        "letra": "E",
+        "texto": "A vedação da intervenção de terceiros no âmbito dos juizados especiais federais não afasta a possibilidade de formação de litisconsórcio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "515195",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio",
+      "Ação de usucapião"
+    ],
+    "enunciado_principal": "Na ação de usucapião, o litisconsórcio que se estabelece entre a pessoa em cujo nome estiver registrado o imóvel usucapiendo e os proprietários dos imóveis que lhe sejam confinantes deve ser classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "passivo, necessário e simples;"
+      },
+      {
+        "letra": "B",
+        "texto": "passivo, necessário e unitário;"
+      },
+      {
+        "letra": "C",
+        "texto": "ativo, facultativo e simples;"
+      },
+      {
+        "letra": "D",
+        "texto": "passivo, facultativo e unitário;"
+      },
+      {
+        "letra": "E",
+        "texto": "ativo, facultativo e unitário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "497244",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: AL-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "J.C., F.D., R.F. e G.W., acionistas da empresa Sementes Prateadas S/A, ajuizaram ação visando à anulação de uma assembleia geral que, apesar de devidamente convocada, foi instalada sem a observância do quórum mínimo legal. A situação narrada corresponde a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litisconsórcio ativo necessário simples."
+      },
+      {
+        "letra": "B",
+        "texto": "litisconsórcio facultativo unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "litisconsórcio necessário unitário."
+      },
+      {
+        "letra": "D",
+        "texto": "litisconsórcio facultativo simples."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "700433",
+    "metadata": "Ano: 2014 | Banca: PGE-MS | Órgão: PGE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Analise as seguintes assertivas: I - O art. 456 do Código Civil de 2002 prevê que “para poder exercitar o direito que da evicção lhe resulta, o adquirente notificará do litígio o alienante imediato, ou qualquer dos anteriores, quando e como lhe determinarem as leis do processo. Pode-se afirmar que introduziu a denunciação da lide “per saltum”. II - A assistência litisconsorcial é hipótese de litisconsórcio unitário facultativo ulterior. Trata-se de intervenção espontânea pela qual o terceiro transforma-se em litisconsorte do assistido. III - Nos casos de recurso representativo de controvérsia – se o recurso paradigma não tiver admissibilidade, os demais também não terão. IV - No direito brasileiro, atualmente, há casos em que se admite a formação de um litisconsórcio passivo facultativo ulterior simples, por provocação do autor, mesmo que já tenha havido a citação de outro réu, com a estabilização subjetiva do processo. V - Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos. Os prazos para contestar e recorrer são unos, começam da juntada aos autos do último mandado de citação cumprido. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva V está errada"
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as assertivas estão corretas"
+      },
+      {
+        "letra": "C",
+        "texto": "A assertiva IV está errada"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e II estão corretas"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das respostas anteriores"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "700421",
+    "metadata": "Ano: 2014 | Banca: PGE-MS | Órgão: PGE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Tício celebrou contrato com Caio e Mévio, que em razão da mora tornaram-se devedores solidários. Tício ingressou com demanda de cobrança contra Caio e Mévio. Em sede de contestação Caio alega que no momento de celebração do contrato era incapaz, não podendo suportar os efeitos do inadimplemento contratual. Acolhida a defesa de Caio, que naturalmente em nada beneficia Mévio, é possível que o Juiz julgue o pedido de Tício improcedente com relação a Caio e condene somente Mévio ao pagamento. No que concerne ao litisconsórcio, em relação ao caso hipotético acima exposto é possível afirmar tratar-se de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litisconsórcio necessário e unitário."
+      },
+      {
+        "letra": "B",
+        "texto": "litisconsórcio facultativo e simples."
+      },
+      {
+        "letra": "C",
+        "texto": "litisconsórcio facultativo e unitário."
+      },
+      {
+        "letra": "D",
+        "texto": "litisconsórcio necessário e simples."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma das alternativas anteriores."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "462247",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Revendo os seus critérios de distribuição de itinerários de linhas de ônibus, o Poder Público municipal editou ato administrativo por meio do qual atribuiu à sociedade empresária “A”, uma das concessionárias do serviço público em questão, uma linha bastante lucrativa, que, até então, era explorada pela sociedade empresária “B”. Sentindo-se prejudicada com a alteração, que, em sua ótica, foi promovida com desvio de finalidade, porquanto visava a beneficiar indevidamente a concorrente, a empresa “B” ajuizou demanda, sob o rito ordinário, em face da pessoa jurídica de direito público, pleiteando a anulação do ato administrativo editado. No que concerne à empresa contemplada com a nova linha, a sua inclusão na relação processual deve se dar em razão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do litisconsórcio passivo, necessário e simples."
+      },
+      {
+        "letra": "B",
+        "texto": "do litisconsórcio passivo, necessário e unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "do litisconsórcio passivo, facultativo e simples."
+      },
+      {
+        "letra": "D",
+        "texto": "da assistência simples."
+      },
+      {
+        "letra": "E",
+        "texto": "da denunciação da lide."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "433959",
+    "metadata": "Ano: 2014 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: Prefeitura de Rio de Janeiro - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Quando os litisconsortes tiverem procuradores diferentes, os prazos para contestar serão contados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "decorridas 24 horas"
+      },
+      {
+        "letra": "B",
+        "texto": "de forma simples"
+      },
+      {
+        "letra": "C",
+        "texto": "em quádruplo"
+      },
+      {
+        "letra": "D",
+        "texto": "em dobro"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "432687",
+    "metadata": "Ano: 2014 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca do litisconsórcio, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando entre elas houver comunhão de direitos ou de obrigações relativamente à lide;"
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz ordenará ao autor que promova a citação de todos os litisconsortes necessários, dentro do prazo que assinar, sob pena de declarar extinto o processo;"
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo disposição em contrário, os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes em comum; os atos e as omissões de um prejudicarão ou beneficiarão os outros;"
+      },
+      {
+        "letra": "D",
+        "texto": "É admissível o litisconsórcio entre Ministérios Públicos;"
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "430342",
+    "metadata": "Ano: 2014 | Banca: FEPESE | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Revelia",
+      "Prazos",
+      "Da comunicação dos atos processuais - Citação",
+      "Respostas do réu - Contestação",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Não está de acordo com o disposto no Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte poderá renunciar ao prazo estabelecido exclusivamente em seu favor."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra o revel que não tenha patrono nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "C",
+        "texto": "Findo o prazo para a resposta do réu, o escrivão fará a conclusão dos autos. O juiz, no prazo de 10 dias, determinará, conforme o caso, as providências preliminares."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "A citação torna prevento o juízo, induz litispendência, interrompe a prescrição e, exceto quando ordenada por juiz incompetente, constitui em mora o devedor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "429579",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Da ação",
+      "Condições da ação",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A empresa de transportes XXX é segurada pela Empresa de Seguros YYY. Em virtude de acidente de veículo ocasionado por um dos veículos da transportadora XXX, esta vem a ser demandada em ação indenizatória pela vítima do dano. Nesse caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a transportadora deverá oferecer chamamento ao processo à Empresa de Seguros YYY, sendo que, nesse caso, esta última não poderá ser condenada diretamente em face da vítima do dano, pois não há que se falar em qualquer relação jurídica direta entre a Seguradora e a vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "a transportadora deverá, necessariamente, aguardar o desfecho da ação para depois pedir o reembolso à Empresa de Seguros YYY, pois a Seguradora não tem legitimidade para figurar na relação jurídica processual, eis que não participou do acidente."
+      },
+      {
+        "letra": "C",
+        "texto": "a transportadora deverá nomear a Empresa de Seguros YYY à autoria, pois esta última é a única legitimada, em virtude do contrato de seguro existente, a responder pelos danos causados à vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "segundo a orientação do STJ, a transportadora poderá oferecer denunciação da lide em face da Empresa de Seguros YYY, sendo que, nesse caso, esta última poderá ser condenada diretamente em face da vítima do dano, pois figurará, juntamente com a transportadora, na qualidade de litisconsorte passiva em relação à vítima."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "429575",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Prazos",
+      "Respostas do réu - Contestação",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Geraldo propõe ação judicial pelo procedimento comum ordinário em face da Municipalidade de São Paulo e da Municipalidade de São Caetano do Sul, em litisconsórcio passivo. No que diz respeito ao prazo de contestação, é correto afirmar que, nesse caso, é computado em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "óctuplo, na medida em que, além de a ação ter sido ajuizada contra o Poder Público, há ainda o cômputo do prazo em dobro por haver litisconsórcio passivo com procuradores distintos para cada Municipalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "dobro, pois as Municipalidades deverão ser repre- sentadas por procuradores distintos."
+      },
+      {
+        "letra": "C",
+        "texto": "quádruplo, por se tratar de ação envolvendo a Fazenda Pública no polo passivo."
+      },
+      {
+        "letra": "D",
+        "texto": "dobro, desde que Municipalidades sejam represen- tadas por procuradores distintos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "429162",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Examine os enunciados seguintes:I. O litisconsórcio multitudinário poderá ser limitado pelo juiz, caso se trate de litisconsórcio facultativo e não necessário, desde que o número de litigantes seja tal que comprometa a rápida solução do litígio ou dificulte a defesa da parte adversa. II. Quando o litisconsórcio for necessário por força de lei, também será sempre unitário, isto é, a sentença será sempre igual para os litisconsortes. III. Na maioria dos casos o litisconsórcio facultativo é simples, ou seja, sua formação será opcional e a sentença poderá ser diferente para os litisconsortes, o que não ocorre com a sentença proferida no litisconsórcio unitário. No tocante ao litisconsórcio, são corretos os enunciados",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "427902",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Nas demandas de fornecimento de medicamentos, ajuizadas contra o Estado,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "devem ser citados o Município e a União, na qualidade de litisconsortes passivos necessários."
+      },
+      {
+        "letra": "B",
+        "texto": "é vedado o chamamento ao processo da União ou do Município, realizado com espeque na solidariedade."
+      },
+      {
+        "letra": "C",
+        "texto": "não se admite a formação de litisconsórcio ativo facultativo."
+      },
+      {
+        "letra": "D",
+        "texto": "é possível a nomeação à autoria da União, com base na sua legitimidade como responsável financeira pelo Sistema Único de Saúde."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "426391",
+    "metadata": "Ano: 2014 | Banca: IESES | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, sendo que este fenômeno jurídico será conceituado de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Litisconsórcio."
+      },
+      {
+        "letra": "B",
+        "texto": "Nomeação à Autoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Assistência."
+      },
+      {
+        "letra": "D",
+        "texto": "Denunciação da Lide."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "425308",
+    "metadata": "Ano: 2014 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Do Litisconsórcio",
+      "Prazos",
+      "Da extinção do processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Dentre os atos praticados no processo, assinale o INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desistência da ação só produzirá efeito depois de homologada por sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz proferirá os despachos de expediente, no prazo de 5 (cinco) dias e as decisões, no prazo de 10 (dez) dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Não havendo preceito legal nem assinação pelo juiz, será de 5 (cinco) dias o prazo para a prática de ato processual a cargo da parte."
+      },
+      {
+        "letra": "D",
+        "texto": "É lícito a qualquer interessado cobrar os autos ao advogado que exceder o prazo legal. Se, intimado, não os devolver dentro em 24 (vinte e quatro) horas, perderá o direito à vista fora de cartório e incorrerá em multa, correspondente à metade do salário mínimo vigente na sede do juízo."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "425188",
+    "metadata": "Ano: 2014 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "No que pertine ao litisconsórcio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É incorreto afirmar-se que o juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa. O pedido de limitação interrompe o prazo para resposta, que recomeça da intimação da decisão;"
+      },
+      {
+        "letra": "B",
+        "texto": "Há litisconsórcio facultativo quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir, a lide de modo uniforme para todas as partes; caso em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo;"
+      },
+      {
+        "letra": "C",
+        "texto": "Os litisconsortes são sempre considerados, em suas relações com a parte adversa, como litigantes distintos;os atos e as omissões de um não prejudicarão nem beneficiarão os outros;"
+      },
+      {
+        "letra": "D",
+        "texto": "Não se conta em dobro o prazo de recurso quando apenas um dos litisconsodes sucumbiu;"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "419612",
+    "metadata": "Ano: 2014 | Banca: TRF - 2ª Região | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Analise as afirmações abaixo e, depois, assinale a opção correta. I – o litisconsórcio no polo passivo será sempre facultativo. II – Nos vínculos jurídicos em que há solidariedade ativa ou passiva o litisconsórcio é, em regra, necessário e unitário. III – Se a sentença puder ser distinta em seu dispositivo para os litisconsortes, a hipótese é de litisconsórcio simples. IV – O comando do artigo 48 do Código de Processo Civil (segundo o qual, em regra, os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos; os atos e as omissões de um não prejudicarão nem beneficiarão os outros) não é aplicável, em boa parte dos casos, ao litisconsórcio unitário.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas uma proposição está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Há três assertivas corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "415201",
+    "metadata": "Ano: 2014 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Estabelece o Código de Processo Civil que feita a denunciação da lide pelo réu, se o denunciado for revel, ou comparecer apenas para negar a qualidade que Ihe foi atribuída, cumprirá ao denunciante prosseguir na defesa até final. E ainda, feita a denunciação pelo autor, o denunciado, comparecendo, assumirá a posição de litisconsorte do denunciante e poderá aditar a petição inicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "415200",
+    "metadata": "Ano: 2014 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca do litisconsórcio no Código de Processo Civil, duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando, dentre outras hipóteses, ocorrer afinidade de questões por um ponto comum de fato ou de direito. Trata a hipótese de litisconsórcio impróprio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "414603",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Em relação ao litisconsórcio, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para que se forme um litisconsórcio é obrigatório que as relações jurídicas entre as partes sejam unas e indivisíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Poderá haver a limitação quanto ao número de litigantes, se o litisconsórcio for facultativo e o número de litigantes for tal que comprometa a rápida solução do litígio ou dificulte a defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "Como regra geral, a conduta comissiva ou omissiva de um litisconsorte poderá prejudicar ou beneficiar os outros litisconsortes."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma consequência necessária de qualquer litisconsórcio é a decisão da lide, pelo juiz, de modo uniforme para todas as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando o litisconsórcio é necessário por força de lei, será sempre unitário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "409229",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Havendo litisconsortes com advogados distintos, o prazo deve ser contado em dobro para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contestar, salvo se houver revelia de um dos litisconsortes."
+      },
+      {
+        "letra": "B",
+        "texto": "contestar, desde que haja requerimento desse benefício na primeira metade do prazo."
+      },
+      {
+        "letra": "C",
+        "texto": "recorrer, mesmo que só um dos litisconsortes tenha sucumbido."
+      },
+      {
+        "letra": "D",
+        "texto": "contestar, ainda que os advogados sejam do mesmo escritório e tenham apresentado a petição em conjunto, suscitando as mesmas razões."
+      },
+      {
+        "letra": "E",
+        "texto": "de modo geral, falar nos autos, não importando se o prazo é legal ou judicial."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "402843",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Do Litisconsórcio",
+      "Da extinção do processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Julgue os itens subsequentes, relativos a competência e litisconsórcio.Pode ser proferida de ofício a decisão judicial que determina ao autor que promova a citação de todos os litisconsortes passivos necessários, sob pena de extinção do processo sem julgamento de mérito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "402232",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Da ação",
+      "Condições da ação",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Da extinção do processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Depois de uma áspera discussão envolvendo os amigos Caio, Ticio e Mevio, travou-se uma luta corporal durante a qual Ticio desferiu um violento soco em Caio. Tendo sofrido graves lesões na face, que inclusive o levaram a se submeter a cirurgias, Caio, supondo equivocadamente que a agressão partira de Mevio, moveu-lhe ação, sob o rito ordinário, pleiteando a indenização dos danos materiais e morais experimentados. Citado, Mevio procurou o órgão da Defensoria Pública para atuar em sua defesa. Diante dos fatos, a linha principal a nortear a defesa de Mevio deverá ser no sentido de se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "suscitar a questão preliminar de ilegitimidade passiva ad causam, pugnando-se pela extinção do processo sem resolução do mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "promover a denunciação da lide em relação a Ticio, para que, caso seja condenado a pagar as verbas indenizatórias reclamadas por Caio, possa o réu receber o correspondente valor, no mesmo processo, do único responsável pelo ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "promover a nomeação à autoria em relação a Ticio, o único responsável pelo ato ilícito."
+      },
+      {
+        "letra": "D",
+        "texto": "alegar, como tese de mérito, a ausência dos pressupostos da responsabilidade civil que lhe foi atribuída na petição inicial, pugnando-se pela improcedência do pedido ali formulado."
+      },
+      {
+        "letra": "E",
+        "texto": "arguir a questão preliminar de inobservância da regra do litisconsórcio passivo necessário, pugnando-se pela extinção do processo sem resolução do mérito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "402227",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Determinada sociedade empresária ajuizou ação, sob o rito ordinário, em face de pessoa jurídica de direito público, pleiteando a anulação de procedimento de licitação no qual fora declarada inabilitada. Considerando que os efeitos da prestação jurisdicional postulada repercutiriam na esfera jurídica de terceiros, notadamente a pessoa jurídica que, ao final, se sagraria vencedora no certame licitatório, a posterior inclusão desta, na relação processual, daria azo à formação de um litisconsórcio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "passivo, facultativo e simples."
+      },
+      {
+        "letra": "B",
+        "texto": "passivo, necessário e unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "passivo, necessário e simples."
+      },
+      {
+        "letra": "D",
+        "texto": "ativo, facultativo e unitário."
+      },
+      {
+        "letra": "E",
+        "texto": "ativo, necessário e unitário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "400576",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SAAE de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Do Litisconsórcio",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Com relação ao mandado de segurança, individual ou cole­tivo, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o direito ameaçado ou violado couber a várias pessoas, todas deverão vir a juízo, em litisconsórcio necessário, a fim de requerer o mandado de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "a sentença que conceder o mandado fica sujeita ao duplo grau de jurisdição, não podendo, entretanto, ser executada provisoriamente."
+      },
+      {
+        "letra": "C",
+        "texto": "quando o direito ameaçado ou violado couber a várias pessoas, qualquer delas poderá requerer o mandado de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "contra o acórdão que conceder ou negar a segurança, nos mandados de competência originária do tribunal, cabe recurso ordinário constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "contra a sentença que denegar a segurança, nos manda­dos de competência originária do primeiro grau, cabe recurso ordinário constitucional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "393345",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "No que tange ao litisconsórcio, à assistência e à intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabe denunciação da lide àquele que for obrigado a indenizar, em ação regressiva, o que se despendeu em juízo, mesmo quando isso demandar a análise de fato diverso dos envolvidos na ação principal."
+      },
+      {
+        "letra": "B",
+        "texto": "Na ação em que o fiador for réu, a nomeação do devedor à autoria poderá ser requerida em qualquer fase do procedimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Contar-se-á em dobro o prazo para recorrer quando só um dos litisconsortes for sucumbente."
+      },
+      {
+        "letra": "D",
+        "texto": "O assistente simples, em nome próprio, atua no processo como legitimado extraordinário, auxiliando na defesa de direito alheio."
+      },
+      {
+        "letra": "E",
+        "texto": "A oposição pode ser oferecida antes ou depois da audiência, cabendo ao juiz decidi-la sempre simultaneamente com a ação principal e desta primeiro conhecer."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "392506",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Câmara Municipal de São José dos Campos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale e alternativa correta a respeito do litisconsórcio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os atos de disposição do direito por um dos litisconsortes, sem o consentimento dos demais, são plenamente ineficazes."
+      },
+      {
+        "letra": "B",
+        "texto": "O recurso interposto por um dos litisconsortes não aproveita aos demais."
+      },
+      {
+        "letra": "C",
+        "texto": "A nulidade decorrente da ausência de litisconsorte necessário se convalida com o trânsito em julgado da sentença, não podendo ser objeto de ação rescisória ou anulatória."
+      },
+      {
+        "letra": "D",
+        "texto": "Em regra, os litisconsortes são considerados, em suas relações com a parte adversa, como um único litigante."
+      },
+      {
+        "letra": "E",
+        "texto": "A mera afinidade de questões, por um ponto comum de direito, é bastante para justificar a formação de litisconsórcio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "387604",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CAU-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca do litisconsórcio e da assistência, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa. O pedido de limitação interrompe o prazo para resposta, que recomeça da intimação da decisão."
+      },
+      {
+        "letra": "B",
+        "texto": "Salvo disposição em contrário, os litisconsortes não serão considerados, em suas relações com a parte adversa, como litigantes distintos; os atos e as omissões de um prejudicarão e beneficiarão os outros."
+      },
+      {
+        "letra": "C",
+        "texto": "O litisconsorte tem o direito de promover o andamento do processo, porém não precisa ser intimado dos atos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há litisconsórcio necessário quando o juiz tiver de decidir a lide de modo uniforme para todas as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "Pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença seja favorável a uma delas, não poderá intervir no processo para assisti-la."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "383804",
+    "metadata": "Ano: 2014 | Banca: INSTITUTO AOCP | Órgão: UFGD",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, analise as assertivas e assinale a alternativa que a aponta as corretas. Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando.I. entre elas houver comunhão de direitos ou de obrigações relativamente à lide. II. ocorrer afinidade de questões por um ponto comum de fato ou de direito. III. os direitos ou as obrigações não derivarem do mesmo fundamento de fato ou de direito.IV. entre as causas houver conexão pelo objeto ou pela causa de pedir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "381213",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Procedimento sumário",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca de litisconsórcio, assistência e intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de nomeação à autoria, ainda que o autor recuse o nomeado, o nomeante deve ser retirado do polo passivo da demanda e, em seu lugar, entrar aquele que foi nomeado"
+      },
+      {
+        "letra": "B",
+        "texto": "Na denunciação da lide, modalidade de intervenção de terceiro, fundada em direito de regresso, há apenas cumulação de ordem subjetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos feitos que tramitem no rito sumário, inadmite-se qualquer modalidade de intervenção de terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos litisconsórcios facultativos, o número de litigantes é ilimitado, sem possibilidade de restrição pelo juiz."
+      },
+      {
+        "letra": "E",
+        "texto": "A posição do assistente simples deve ser a mesma do assistido, podendo, portanto, o assistido formular pedido de desistência da ação sem que o assistente se oponha a esse requerimento."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "380246",
+    "metadata": "Ano: 2014 | Banca: FUNRIO | Órgão: INSS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Procedimento ordinário",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Petição Inicial",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, poderá proceder a que procedimento processual para resguardar seus direitos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oposição;"
+      },
+      {
+        "letra": "B",
+        "texto": "Denunciação a lide;"
+      },
+      {
+        "letra": "C",
+        "texto": "Litisconsórcio;"
+      },
+      {
+        "letra": "D",
+        "texto": "Inépcia da petição inicial;"
+      },
+      {
+        "letra": "E",
+        "texto": "Nomeação à autoria"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "372667",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Do Litisconsórcio",
+      "Recurso ordinário constitucional",
+      "Embargos de divergência",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca dos recursos e da ação rescisória, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Serão julgados pelo STF, em recurso ordinário, os mandados de segurança decididos em única instância pelos tribunais regionais federais se a decisão for denegatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo entendimento predominante do STJ, o direito à rescisão do julgado é extinto se, esgotado o prazo de dois anos, verificar-se a falta de formação de litisconsórcio passivo necessário"
+      },
+      {
+        "letra": "C",
+        "texto": "Conforme entendimento atual do STF, não cabe ação rescisória por ofensa a literal disposição de lei no caso de a decisão rescindenda estar baseada em texto legal de interpretação controvertida nos tribunais, ainda que trate de matéria constitucional"
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo prescricional de dois anos da ação rescisória somente tem início quando não for cabível nenhum recurso do último pronunciamento judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "São cabíveis embargos de divergência contra decisão proferida em embargos de divergência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "372265",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: TJ-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a proposição correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se terceiro pretender, no todo ou em parte, a coisa ou o direito sobre o qual litigam autor e réu, poderá oferecer oposição. Nesse caso, autor e réu do processo originário assumirão a condição de litisconsortes passivos necessários na oposição. Contudo, este litisconsórcio não é considerado unitário."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de litisconsórcio necessário não se admite a prolação de sentença que não seja uniforme em relação a todos os litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "Em se tratando de litisconsórcio passivo, a revelia de um dos litisconsortes acarreta, por expressa disposição legal, a incidência da presunção de veracidade dos fatos alegados na inicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Quanto ao momento de sua formação o litisconsórcio pode ser inicial ou ulterior; quanto ao pólo de sua composição, pode ser ativo ou passivo; quanto à obrigatoriedade, pode ser simples ou unitário; quanto à exigência de uniformidade da sentença, pode ser necessário ou facultativo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "362505",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "O litisconsórcio caracteriza-se pela coexistência de duas ou mais pessoas no polo ativo, passivo ou em ambos os polos da mesma relação processual, desde que cada uma delas disponha em particular de legitimação ad causam. Sendo assim, é incorreto dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cada litisconsorte é considerado parte distinta dos demais, havendo autonomia plena nos casos de litisconsórcio simples, porque há incindibilidade da pretensão ou do direito dos litisconsortes;"
+      },
+      {
+        "letra": "B",
+        "texto": "Poderá haver litisconsórcio facultativo quando houver comunhão de direitos ou de obrigações relativamente à lide;"
+      },
+      {
+        "letra": "C",
+        "texto": "A falta de integração do litisconsórcio necessário ou unitário pode acarretar a extinção do processo sem resolução do mérito"
+      },
+      {
+        "letra": "D",
+        "texto": "A ação de anulação de casamento ajuizada pelo Ministério Público caracteriza hipótese de litisconsórcio passivo, necessário e unitário;"
+      },
+      {
+        "letra": "E",
+        "texto": "Haverá litisconsórcio necessário, por força da natureza da relação jurídica, quanto a todos os contratantes, quando se pretende anular o contrato firmado entre eles."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "361728",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o autor recusar a nomeação à autoria pleiteada pela ré, esta não terá direito à abertura de novo prazo para contestação"
+      },
+      {
+        "letra": "B",
+        "texto": "O regime do litisconsórcio necessário assegura decisão unitária para todos os litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito do evicto de indenizar-se do pagamento indevido em face do anterior alienante não se condiciona à denunciação da lide em ação de terceiro reivindicante."
+      },
+      {
+        "letra": "D",
+        "texto": "A alienação do objeto litigioso não altera a legitimidade processual das partes, de forma que o legitimado superveniente não poderá, como parte, ingressar no feito como assistente litisconsorcial."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com o STJ, o cabimento do chamamento ao processo em fase de execução evidencia a aplicação dos princípios da economicidade e celeridade processual."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "361190",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 19ª Região (AL)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Sobre litisconsórcio e intervenção de terceiros, segundo as regras do Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o necessário e multitudinário poderá ser indeferido pelo juiz da causa, quando este comprometer a rápida solução do litígio."
+      },
+      {
+        "letra": "B",
+        "texto": "os atos de um litisconsorte não beneficiarão os demais, ainda que o litisconsórcio seja unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença reconheça seu direito e lhe seja favorável, poderá intervir somente como assistente litisconsorcial."
+      },
+      {
+        "letra": "D",
+        "texto": "é obrigatório o chamamento ao processo de todos os devedores solidários, quando o credor exigir de um ou de alguns deles, parcial ou totalmente, a dívida comum."
+      },
+      {
+        "letra": "E",
+        "texto": "feita a denunciação da lide pelo autor, o denunciado, comparecendo, assumirá a posição de litisconsorte do denunciante e poderá aditar a petição inicial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1286188",
+    "metadata": "Ano: 2013 | Banca: AOCP | Órgão: COREN-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz pode, de ofício, em qualquer estado do processo, determinar o comparecimento pessoal das partes, a fim de interrogá-las sobre os fatos da causa."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão judicial faz prova contra o confitente, prejudicando, todavia, os litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o juiz não o determinar de ofício, compete a cada parte requerer o depoimento pessoal da outra, a fim de interrogá-la na audiência de instrução e julgamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Há confissão, quando a parte admite a verdade de um fato, contrário ao seu interesse e favorável ao adversário. A confissão é judicial ou extrajudicial."
+      },
+      {
+        "letra": "E",
+        "texto": "A confissão judicial pode ser espontânea ou provocada. Da confissão espontânea, tanto que requerida pela parte, se lavrará o respectivo termo nos autos; a confissão provocada constará do depoimento pessoal prestado pela parte."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "826661",
+    "metadata": "Ano: 2013 | Banca: BANPARÁ | Órgão: BANPARÁ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação do Litisconsórcio",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fiador, que pagar a dívida, poderá executar o afiançado nos autos do mesmo processo."
+      },
+      {
+        "letra": "B",
+        "texto": "São admitidos, no processo perante os juizados especiais estaduais, o litisconsórcio e a assistência, sendo vedadas as formas de intervenção de terceiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação popular, das sentenças e decisões proferidas contra o autor e suscetíveis de recurso, poderá recorrer qualquer cidadão e também o Ministério Público."
+      },
+      {
+        "letra": "D",
+        "texto": "A adjudicação pode ser requerida pelo exequente, pelo credor com garantia real, pelos credores concorrentes que hajam penhorado o mesmo bem, pelo cônjuge, pelos descendentes ou ascendentes do executado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "447978",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: Câmara Municipal de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente. Sobre essa afirmação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença seja favorável a uma delas, poderá intervir no processo como litisconsorte de uma das partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Há litisconsórcio facultativo quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes; caso em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cada litisconsorte tem o direito de promover o anda­mento do processo bastando a intimação de um deles, no caso de litisconsórcio necessário, ou de todos, em se tratando de litisconsórcio facultativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz poderá limitar o litisconsórcio necessário quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa."
+      },
+      {
+        "letra": "E",
+        "texto": "Salvo disposição em contrário, os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos; os atos e as omissões de um não prejudicarão nem beneficiarão os outros."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "433752",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: FUNDAÇÃO PRÓ-SANGUE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "O litisconsórcio pode ser classificado segundo diferentes critérios. Na hipótese em que o número de litisconsortes facultativos em um processo é tão significativo que fica dificultada a defesa dos interesses das partes, ou inviabilizada a rápida prestação jurisdicional, diz-se que o litisconsórcio formado é do tipo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "necessário"
+      },
+      {
+        "letra": "B",
+        "texto": "comum"
+      },
+      {
+        "letra": "C",
+        "texto": "originário."
+      },
+      {
+        "letra": "D",
+        "texto": "multitudinário."
+      },
+      {
+        "letra": "E",
+        "texto": "superveniente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "433341",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: AL-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Sentença",
+      "Ação Rescisória",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Nulidades no CPC 1973",
+      "Prazos",
+      "Da comunicação dos atos processuais - Citação",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Pedro moveu uma ação judicial em face de José. A sentença, sem a assinatura do juiz, foi publicada em dezembro de 2009. Em fevereiro de 2011, estando a causa ainda aguardando julgamento em razão de interposição de recurso de apelação, Mário tomou conhecimento da referida ação judicial e da sentença que lhe afetava diretamente, pois entende que deveria ter integrado o processo, já que se trava de hipótese de litisconsórcio passivo necessário e unitário, nos termos da lei. A partir do contexto fático descrito, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ausência de citação de Mário não impediu a formação da relação jurídica processual, sendo válida e eficaz a sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "É cabível a imediata propositura de ação rescisória como o único remédio jurídico hábil a anular os efeitos da sentença, pela falta de assinatura do juiz e pela ausência de citação de Mário."
+      },
+      {
+        "letra": "C",
+        "texto": "Se Mário tivesse comparecido espontaneamente, não haveria que se falar em ausência de citação e, portanto, na situação narrada, a sentença poderia transitar em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "As hipóteses narradas implicam em nulidade relativa e houve preclusão, pois Mário não requereu a declaração de nulidade no prazo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "O Tribunal poderá conhecer de ofício a falta de assinatura na sentença e a ausência da citação de Mário, devendo os autos retornar à origem a fim de se promover a citação do litisconsorte necessário unitário."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "421723",
+    "metadata": "Ano: 2013 | Banca: TRT 22 PI | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "constituem fundamentos para que duas ou mais pessoas possam litigar, no mesmo processo, em conjunto, ativa ou passivamente, dentre outros, a afinidade de questões por um ponto comum de fato ou de direito e quando houver entre as causas conexão pelo objeto ou pela causa de pedir;"
+      },
+      {
+        "letra": "B",
+        "texto": "há litisconsórcio necessário quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes; caso em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo;"
+      },
+      {
+        "letra": "C",
+        "texto": "no que tange aos prazos processuais, é correto afirmar que a superveniência de férias suspenderá o curso do prazo; o que lhe sobejar recomeçará a correr do primeiro dia útil seguinte ao termo das férias;"
+      },
+      {
+        "letra": "D",
+        "texto": "reputam-se conexas duas ou mais ações quando lhe for comum o objeto ou a causa de pedir; dá-se a continência entre duas ou mais ações sempre que há identidade quanto às partes e ao pedido, mas o objeto de uma, por ser mais amplo, abrange o das outras;"
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá nomear à autoria o proprietário ou o possuidor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "386186",
+    "metadata": "Ano: 2013 | Banca: FAFIPA | Órgão: Câmara Municipal de Guairáça - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Sobre o Direito Processual Civil, assinale a alternativa INCORRETA. Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre elas houver comunhão de direitos ou de obrigações relativamente à lide."
+      },
+      {
+        "letra": "B",
+        "texto": "Os direitos ou as obrigações derivarem do mesmo fundamento de fato ou de direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre as causas não houver conexão pelo objeto ou pela causa de pedir."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorrer afinidade de questões por um ponto comum de fato ou de direito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "382850",
+    "metadata": "Ano: 2013 | Banca: CEPERJ | Órgão: CEDERJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Febo é designado como vigia da propriedade de Marco. Em determinado dia, é surpreendido com citação realizada em processo civil, sendo autor Cláudio, alegando este que haveria violação à sua posse. Após contratar advogado, Febo apresenta a defesa cabível que seria, no sistema processual positivo, a alegação de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litisconsórcio"
+      },
+      {
+        "letra": "B",
+        "texto": "oposição"
+      },
+      {
+        "letra": "C",
+        "texto": "denunciação da lide"
+      },
+      {
+        "letra": "D",
+        "texto": "chamamento ao processo"
+      },
+      {
+        "letra": "E",
+        "texto": "nomeação à autoria"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "379516",
+    "metadata": "Ano: 2013 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: SMA-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Constitui forma de intervenção de terceiro, nos termos do Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a assistência"
+      },
+      {
+        "letra": "B",
+        "texto": "o litisconsórcio"
+      },
+      {
+        "letra": "C",
+        "texto": "a oposição"
+      },
+      {
+        "letra": "D",
+        "texto": "a substituição"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "379287",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "João teve seus dados inseridos indevidamente em cadastros de consumidores inadimplentes. Descobriu que terceira pessoa firmou de forma fraudulenta contrato de abertura de conta corrente em dois bancos, os quais emitiram talonários de cheques ao falsário, que os usou. As contas não possuíam saldo para a compensação dos cheques. João procurou a Defensoria Pública informando que nunca possuiu conta em banco. A Defenso- ria ajuizou a demanda através de um único processo, formando litisconsórcio passivo entre os bancos “A” e “B”. Por sentença foram declaradas inexistentes as relações contratuais entre João e as instituições bancárias, sendo estas condenadas a pagar àquele a quantia de dez mil reais cada, a título de danos morais, acrescida de juros e correção monetária, além das verbas de sucumbência. Apenas o banco “A” ofereceu recurso de apelação, que foi provido para reformar a sentença afastando a condenação ao pagamento, por inexistência de dano moral, eis que João possuía pendências legítimas anteriores com outros estabelecimentos comerciais. O acórdão afastou também a condenação ao pagamento das verbas de sucumbência, reconhecendo a sucumbência recíproca. A decisão transitou em julgado. Neste caso, a Defensoria Pública:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá prosseguir com a fase de cumprimento da sentença em face do banco “B” objetivando o recebimento de dez mil reais, com os acréscimos legais e verbas de sucumbência, pois, embora o litisconsórcio seja unitário, os atos de um não beneficiarão nem prejudicarão o outro."
+      },
+      {
+        "letra": "B",
+        "texto": "deverá prosseguir com a fase de cumprimento da sentença em face do banco “B” objetivando o recebimento de dez mil reais, com os acréscimos legais e verbas de sucumbência, pois, embora o litisconsórcio seja unitá- rio, a tese recursal não é comum aos litisconsortes, razão pela qual a decisão de segunda instância não beneficiará o não recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "deverá prosseguir com a fase de cumprimento da sentença em face do banco “B” objetivando o recebimento de dez mil reais, com os acréscimos legais e verbas de sucumbência, tendo em vista que o litisconsórcio é simples, não podendo o banco que deixou de oferecer recurso beneficiar-se da decisão de segunda instância."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá prosseguir com a fase de cumprimento da sentença para a cobrança dos danos morais, eis que o litisconsórcio é unitário e o recurso oferecido pelo banco “A” beneficia ambos os litisconsortes, afastando a condenação de “B”."
+      },
+      {
+        "letra": "E",
+        "texto": "não poderá prosseguir com a fase de cumprimento da sentença para a cobrança dos danos morais, eis que, embora o litisconsórcio seja simples, o recurso oferecido pelo banco “A” veicula tese comum que beneficia ambos os litisconsortes, afastando a condenação de “B”."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "359235",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código de Processo Civil sobre as figuras de intervenção de terceiros, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide de outros fiadores é admissível quando, para a ação, for citado apenas um deles"
+      },
+      {
+        "letra": "B",
+        "texto": "Por meio da oposição, busca-se obter a coisa ou o direito que está sendo disputado em processo pendente."
+      },
+      {
+        "letra": "C",
+        "texto": "chamamento ao processo pode ensejar a formação e litisconsórcio ulterior, passivo, facultativo e unitário."
+      },
+      {
+        "letra": "D",
+        "texto": "A aceitação expressa da nomeação à autoria acarreta o fenômeno da extromissão da parte ré originária."
+      },
+      {
+        "letra": "E",
+        "texto": "A denunciação da lide feita pelo réu prescinde de oferecimento formal de contestação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "359233",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Considerando o litisconsórcio, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O litisconsórcio unitário é característico das ações condenatórias e exige expressa disposição legal."
+      },
+      {
+        "letra": "B",
+        "texto": "O litisconsórcio necessário superveniente pode ser simples ou unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "A legitimidade extraordinária concorrente é compatível com o litisconsórcio necessário"
+      },
+      {
+        "letra": "D",
+        "texto": "O litisconsórcio ativo pode ser facultativo, mas não unitário"
+      },
+      {
+        "letra": "E",
+        "texto": "O litisconsórcio alternativo e o eventual podem ser unitários, mas não facultativos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "359232",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Revelia",
+      "Sujeitos da relação processual",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Em relação às partes e aos procuradores, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prática de atos postulatórios no processo pressupõe inscrição válida perante a Ordem dos Advogados do Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "O cônjuge casado sob regime de separação absoluta de bens necessita do consentimento do outro para a propositura de ações em que haja composse"
+      },
+      {
+        "letra": "C",
+        "texto": "Em causas que versem sobre direito real imobiliário de pessoas casadas, há litisconsórcio necessário em ambos os polos do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Em casos de revelia, a nomeação de curador especial pode se dar de ofício, recaindo o encargo preferencialmente no Ministério Público"
+      },
+      {
+        "letra": "E",
+        "texto": "Todo aquele que possui personalidade jurídica tem capacidade de ser parte, mas nem toda capacidade de ser parte decorre da personalidade jurídica"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "355318",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo, levando em conta o disposto no Código de Processo Civil. I. Na hipótese de litisconsórcio necessário, a eficácia da sentença depende da citação de todos os litisconsortes, mas dispensa-se a intimação de cada um deles acerca dos respectivos atos. II. O assistente pode obstar que a parte principal reconheça a procedência do pedido, embora não possa recorrer da sentença. III. Ocorrendo denunciação da lide, a sentença que julgar procedente o pedido condenará o réu e o denunciado a satisfazer solidariamente a pretensão do autor. Está INCORRETO o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "352075",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "No que concerne a litisconsórcio e competência, julgue os itens que se seguem. O juiz poderá limitar o litisconsórcio necessário quando o número de litigantes acarretar o comprometimento da rápida solução do litígio ou dificultar a defesa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "350507",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando I. entre elas houver comunhão de direitos ou de obrigações relativamente à lide. II. os direitos ou as obrigações derivarem do mesmo fundamento de fato ou de direito. III. entre as causas houver conexão pelo objeto ou pela causa de pedir. IV. ocorrer afinidade de questões por um ponto comum de fato ou de direito. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e IV, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "346768",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A respeito do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mera afinidade de questões mostra-se suficiente para que seja formado litisconsórcio ativo ou passivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ainda que a omissão da parte não implique a perda do direito de regresso, a denunciação da lide será obrigatória."
+      },
+      {
+        "letra": "C",
+        "texto": "No ordenamento jurídico brasileiro, é proibido o litisconsórcio superveniente, em razão da prevalência do princípio do juiz natural."
+      },
+      {
+        "letra": "D",
+        "texto": "Aceito pela parte que pretende assistir, o assistente qualificado passa à condição de autor ou de réu no processo."
+      },
+      {
+        "letra": "E",
+        "texto": "Os opostos terão prazo em dobro para contestar a demanda, dada a existência de litisconsórcio entre eles."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "329216",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A respeito do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para o julgamento de ação proposta por litisconsortes ativos voluntários domiciliados em distintos estados da Federação, quando o pedido se originar de natureza comum, são competentes tanto o foro da sede da ré quanto o do domicílio de um dos autores."
+      },
+      {
+        "letra": "B",
+        "texto": "A recusa pelo autor da nomeação à autoria pleiteada pela ré impede a abertura de novo prazo para que a nomeante apresente contestação, dada a violação do princípio da igualdade de tratamento às partes."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com entendimento do STJ, não há óbice ao chamamento ao processo dos devedores solidários da dívida comum em fase de execução do título executivo extrajudicial cujo crédito tenha sido discutido em processo de conhecimento prévio à execução."
+      },
+      {
+        "letra": "D",
+        "texto": "No mandado de segurança, somente se admite o litisconsórcio ativo voluntário quando postulado no momento do ajuizamento da ação, sob pena de violação do princípio do juiz natural."
+      },
+      {
+        "letra": "E",
+        "texto": "O assistente litisconsorcial, embora não seja considerado interveniente secundário e acessório, uma vez que a relação discutida entre o assistido e o seu adversário também lhe pertence, não terá tratamento processual idêntico ao do conferido ao assistido."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322162",
+    "metadata": "Ano: 2013 | Banca: TJ-RS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil,duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando: I. entre elas houver comunhão de direitos ou de obrigações relativamente à lide. II. os direitos ou as obrigações derivarem do mesmo fundamento de fato ou de direito. III. entre as causas houver conexão pelo objeto ou pela causa de pedir. IV. ocorrer afinidade de questões por um ponto comum de fato ou de direito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I, II e III estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "318303",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca de capacidade processual, julgue os itens a seguir.Nas ações de cobrança de cotas condominiais, é necessária a formação de litisconsórcio passivo entre cônjuges.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "314280",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Constitui exemplo de litisconsórcio necessário unitário uma ação de anulação de casamento proposta pelo MP. Nesse caso, o marido e a mulher formam um litisconsórcio necessário, e, se a sentença julgar procedente o pedido, o casamento será nulo para ambos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "314279",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Uma obrigação solidária implica necessariamente em formação de litisconsórcio unitário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "309092",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A água escoada em decorrência do rompimento da tubulação da rede de água do município X causou o desmoronamento de parte do muro que cercava a casa de João, danificou, ao alagar a sala da casa de Maria, sua televisão e seu sofá e inundou o quintal da casa de Pedro, o que provocou a morte, por afogamento, de seu cachorro. Considerando a situação hipotética acima, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formado o litisconsórcio entre João, Maria e Pedro, o município, réu na ação, não poderá solicitar ao juiz a separação dos processos por ser o litisconsórcio, no caso, irrecusável."
+      },
+      {
+        "letra": "B",
+        "texto": "Formado o litisconsórcio entre João, Maria e Pedro, se for julgado procedente o pedido de João e improcedentes os pedidos de Maria e Pedro, na hipótese de Pedro recorrer, o provimento do recurso aproveitará à Maria."
+      },
+      {
+        "letra": "C",
+        "texto": "Propostas as demandas de João, Maria e Pedro em juízos separados, poderá haver a reunião dos respectivos processos em um só juízo para julgamento conjunto."
+      },
+      {
+        "letra": "D",
+        "texto": "Por não haver identidade entre os danos, não poderá ser formado litisconsórcio entre João, Maria e Pedro."
+      },
+      {
+        "letra": "E",
+        "texto": "A formação do litisconsórcio entre João, Maria e Pedro é obrigatória, dado que a sentença deverá ser idêntica para as partes — mesmo fundamento de fato — e tendo em vista a responsabilidade objetiva da empresa de água, prestadora de serviço público — mesmo fundamento de direito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1661607",
+    "metadata": "Ano: 2012 | Banca: COPESE - UFT | Órgão: MPE-TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "No Processo Civil, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença seja favorável a uma delas, será considerado litisconsorte."
+      },
+      {
+        "letra": "B",
+        "texto": "Quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu, poderá, até ser proferida a sentença, oferecer assistência."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá oferecer oposição ao proprietário ou ao possuidor."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide é obrigatória ao proprietário ou ao possuidor indireto quando, por força de obrigação ou direito, em casos como o do usufrutuário, do credor pignoratício, do locatário, o réu, citado em nome próprio, exerça a posse direta da coisa demandada."
+      },
+      {
+        "letra": "E",
+        "texto": "É admissível a nomeação à autoria na ação em que o fiador for réu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "984278",
+    "metadata": "Ano: 2012 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No litisconsórcio passivo, o reconhecimento do pedido por um dos réus não deve prejudicar os demais, assim como a confissão de um não alcança os demais litisconsortes."
+      },
+      {
+        "letra": "B",
+        "texto": "O reconhecimento da procedência do pedido alcança somente os fatos e não o direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Das diversas modalidades de intervenção de terceiros previstas no Código de Processo Civil - CPC, o réu somente poderá provocar a nomeação à autoria e a denunciação da lide."
+      },
+      {
+        "letra": "D",
+        "texto": "A reconvenção não pode ser apresentada independentemente de contestação."
+      },
+      {
+        "letra": "E",
+        "texto": "Na ação declaratória incidental se pode objetivar tanto a declaração da relação jurídica subordinante quanto algum pedido constitutivo ou condenatório diverso contraposto."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "487543",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há litisconsórcio necessário passivo dos cônjuges quando demandados por dívida solidária."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz deverá nomear ex officio um curador especial para a proteção dos interesses do réu, preso ou revel, desde que este tenha sido citado por edital ou com hora certa."
+      },
+      {
+        "letra": "C",
+        "texto": "O interesse do autor para propor ação é de natureza restritiva, limitada somente à declaração da existência de relação jurídica e da autenticidade de documento."
+      },
+      {
+        "letra": "D",
+        "texto": "Em se tratando da doutrina processual civil, o curador especial não está obrigado à regra prevista no art. 302 do CPC, que proíbe a defesa genérica do réu, como também não está autorizado a transigir o direito material discutido."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas comarcas onde houver representante judicial de incapazes ou de ausentes, a este competirá a função de curador especial, que, neste caso, é atribuída à Defensoria Pública, desde que existente na localidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "425988",
+    "metadata": "Ano: 2012 | Banca: TJ-GO | Órgão: TJ-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A alienação da coisa ou do direito litigioso, a título particular, por ato entre vivos, não altera a legitimidade das partes, salvo se o adquirente ou o cessionário ingressar em juízo, substituindo o alienante, ou o cedente, com o consentimento da parte contrária. Caso a parte contrária não consinta, o adquirente ou o cessionário poderá intervir no processo como assistente litisconsorcial."
+      },
+      {
+        "letra": "B",
+        "texto": "Por se tratar de uma relação jurídica indivisível, na ação que busca anular um casamento tem-se um litisconsórcio necessário por força de lei, caso em que o juiz ordenará ao autor que promova a citação do outro cônjuge, dentro do prazo que assinar, sob pena de declarar extinto o processo."
+      },
+      {
+        "letra": "C",
+        "texto": "A denunciação da lide pode ser feita pelo autor e pelo réu."
+      },
+      {
+        "letra": "D",
+        "texto": "Na nomeação à autoria, se o nomeado reconhecer a qualidade que lhe é atribuída, contra ele correrá o processo; se a negar, o processo continuará contra o nomeante."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "372199",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A exceptio male gesti processus é a exceção que cabe ao assistido para obter a exclusão do assistente simples do processo."
+      },
+      {
+        "letra": "B",
+        "texto": "À assistência litisconsorcial pode habilitar-se aquele que teria legitimidade para figurar como parte."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de corresponsabilidade por danos, o réu na ação de indenização poderá nomear à autoria os demais responsáveis pelo dano."
+      },
+      {
+        "letra": "D",
+        "texto": "Está pacificado que a denunciação da lide não é um dever processual, mas, simplesmente, um ônus, mesmo nos casos de exercício do direito que da evicção resulta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "372042",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O assistente simples defende direito próprio no processo em que participa nessa condição."
+      },
+      {
+        "letra": "B",
+        "texto": "A assistência litisconsorcial é, também, reconhecida, em doutrina, como verdadeira intervenção litisconsorcial ulterior. É fundamental que seja requerida ao juiz da causa sob o fundamento de que o habilitando é parte em relação jurídica material e que o outro polo de tal relação é composto pelo adversário do assistido."
+      },
+      {
+        "letra": "C",
+        "texto": "A oposição é espécie de intervenção de terceiro que compete a quem pretender o direito, ou a coisa, que é objeto da demanda. Na oposição, o terceiro opoente deduz demanda contra ambas as partes do processo, podendo apresentá-la em qualquer tempo ou grau de jurisdição."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide e o chamamento ao processo são espécies de intervenção de terceiro cabíveis tanto no processo de conhecimento, como no processo de execução."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "336239",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A respeito do litisconsórcio, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No litisconsórcio unitário, a conduta alternativa de um litisconsorte não estende seus efeitos aos demais."
+      },
+      {
+        "letra": "B",
+        "texto": "No litisconsórcio eventual, a procedência de um pedido implica a improcedência do outro."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta determinante de um litisconsorte não prejudica o outro."
+      },
+      {
+        "letra": "D",
+        "texto": "A solidariedade em determinada obrigação implica a unitariedade do litisconsórcio."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se admite o litisconsórcio necessário comum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "312079",
+    "metadata": "Ano: 2012 | Banca: OFFICIUM | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Há litisconsórcio unitário quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pela natureza da relação jurídica, o juiz tiver de decidir de modo uniforme para todas as partes."
+      },
+      {
+        "letra": "B",
+        "texto": "entre as partes houver comunhão de direitos ou de obrigações relativamente à lide."
+      },
+      {
+        "letra": "C",
+        "texto": "entre as causas houver conexão pelo objeto ou pela causa de pedir."
+      },
+      {
+        "letra": "D",
+        "texto": "ocorrer afinidade de questões por um ponto comum de fato ou de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "cada litisconsorte tiver o direito de promover o andamento do processo, devendo todos ser intimados dos respectivos atos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "270735",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio",
+      "Pressupostos Processuais"
+    ],
+    "enunciado_principal": "Considerando o disposto no Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente as pessoas físicas e jurídicas têm capacidade de ser parte no processo civil."
+      },
+      {
+        "letra": "B",
+        "texto": "a jurisdição civil, contenciosa e voluntária, é exercida pelos juízes e promotores, em todo o território nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "o Município é representado, em juízo, ativa e passivamente, por seu Prefeito e pelo Presidente da Câmara Municipal."
+      },
+      {
+        "letra": "D",
+        "texto": "para as causas que versem sobre direitos reais imobiliários, os cônjuges são litisconsortes necessários, se réus; mas não o serão, se autores."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "237180",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Caixa",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Quando o sistema processual permite a adequação do número de litisconsortes no processo, por decisão fundamentada do Juiz, essa norma aplica-se ao litisconsórcio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "unitário"
+      },
+      {
+        "letra": "B",
+        "texto": "uniforme"
+      },
+      {
+        "letra": "C",
+        "texto": "compulsório"
+      },
+      {
+        "letra": "D",
+        "texto": "facultativo"
+      },
+      {
+        "letra": "E",
+        "texto": "ulterior"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "301722",
+    "metadata": "Ano: 2011 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Se numa ação de reparação de danos há litisconsórcio de cinco autores idosos representados por um único procurador e, em litisconsórcio passivo, figuram duas empresas com procuradores distintos, o prazo para os autores e as rés recorrerem será, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em dobro para autores e rés."
+      },
+      {
+        "letra": "B",
+        "texto": "Em dobro para os autores e em quádruplo para as rés."
+      },
+      {
+        "letra": "C",
+        "texto": "Em quádruplo para autores e em dobro para as rés."
+      },
+      {
+        "letra": "D",
+        "texto": "O previsto em lei para os autores e em quádruplo para as rés."
+      },
+      {
+        "letra": "E",
+        "texto": "O previsto em lei para os autores e em dobro para as rés."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2893311",
+    "metadata": "Ano: 2010 | Banca: CEFET-BA | Órgão: EBAL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Analise as seguintes assertivas acerca do litisconsórcio, da assistência e da intervenção de terceiros: I. O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio ou dificultar a defesa, sendo que o pedido de tal limitação interrompe o prazo para a resposta, que é retomado quando da intimação da decisão. II. O assistente pode obstar que a parte principal reconheça a procedência do pedido, caso em que prosseguirá na relação processual, seguindo o feito seu curso normal. III. Nas hipóteses de nomeação à autoria, o autor tem a faculdade de aceite ou recusa de tal nomeação, sendo que seu silêncio quanto a tal aspecto acarreta a aceitação. IV. Nas hipóteses de ocorrência da oposição, deverá esta ser julgada em momento anterior ao julgamento da ação. V. É obrigatória a denunciação da lide a todos os devedores solidários, quando o credor exigir de um ou de alguns deles totalmente a dívida comum. Estão corretas as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II, IV e V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "479737",
+    "metadata": "Ano: 2010 | Banca: UPENET/IAUPE | Órgão: SUAPE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Listiconsórcio é um fenômeno que ocorre quando duas ou mais pessoas figuram como autoras ou rés no processo. Sobre o assunto, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes, quando este comprometer a rápida solução do litígio. O pedido de limitação não interrompe o prazo para resposta."
+      },
+      {
+        "letra": "B",
+        "texto": "O andamento do processo deverá ser realizado, apenas, por um dos litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "Há litisconsórcio necessário, quando, por disposição da lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme, para todas as partes, caso em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Haverá litisconsórcio, sempre que houver continência entre duas ou mais ações com identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      },
+      {
+        "letra": "E",
+        "texto": "Mesmo considerados como litigantes distintos, os atos e as omissões praticados por cada litisconsorte prejudicam os demais."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "434347",
+    "metadata": "Ano: 2010 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Ações Coletivas no CPC 1973",
+      "Da ação",
+      "Condições da ação",
+      "Ação Popular",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "João e outros ingressaram com ação popular, alegando nulidades em concurso público realizado pela Assembleia Legislativa do Estado do Rio Grande do Sul. No polo passivo, incluíram tão somente o Deputado Estadual Presidente da Assembleia Legislativa. Foi proferida sentença de procedência, determinando a anulação do certame. Em sede de apelação, mostra-se correto arguir que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a sentença deve ser anulada por não ter havido a citação, como litisconsorte necessária, da pessoa jurídica de direito público ao qual o Presidente da Assembleia está vinculado, qual seja, o Estado do Rio Grande do Sul."
+      },
+      {
+        "letra": "B",
+        "texto": "a sentença deve ser anulada por não ter havido a citação, como litisconsorte necessária, da pessoa jurídica de direito público ao qual o Presidente da Assembleia está vinculado, qual seja, a Assembleia Legislativa."
+      },
+      {
+        "letra": "C",
+        "texto": "a sentença deve ser anulada por ilegitimidade passiva do Presidente da Assembleia Legislativa, sendo parte legítima tão somente o Estado do Rio Grande do Sul."
+      },
+      {
+        "letra": "D",
+        "texto": "a sentença deve ser anulada por ilegitimidade passiva do Presidente da Assembleia Legislativa, sendo parte legítima tão somente a Assembleia Legislativa."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma das alternativas anteriores está correta."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "120578",
+    "metadata": "Ano: 2010 | Banca: FUNIVERSA | Órgão: SEJUS-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito da resposta do réu e da ação civil pública.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de ação civil pública que tenha por objeto e causa pedir a defesa de direitos individuais homogêneos proposta por associação na defesa dos seus associados, no decurso da fase cognitiva do procedimento, a associação promovente atuará na qualidade de representante processual; de outra parte, se postular o cumprimento da sentença, assumirá a posição de substituto processual."
+      },
+      {
+        "letra": "B",
+        "texto": "A jurisprudência do STF e do Superior Tribunal de Justiça (STJ) firmou-se pela inviabilidade da declaração incidental de inconstitucionalidade de lei deduzida no bojo de ação civil pública."
+      },
+      {
+        "letra": "C",
+        "texto": "No procedimento comum sumário, sendo a ré a fazenda pública, o juiz designará a audiência de conciliação a ser realizada no prazo de trinta dias, com antecedência mínima de dez dias, contados da citação."
+      },
+      {
+        "letra": "D",
+        "texto": "A suspeição do juiz é vício insanável e fere de nulidade absoluta a relação processual, tanto que se constitui um dos fundamentos à propositura da ação rescisória do julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando forem citados para a ação vários réus, o prazo para responder ser-lhes-á comum. Se o autor desistir da ação quanto a algum réu ainda não citado, o prazo para a resposta correrá da intimação do despacho que deferir a desistência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "94018",
+    "metadata": "Ano: 2010 | Banca: COPEVE-UFAL | Órgão: Prefeitura de Rio Largo - AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio",
+      "Da Comunicação dos Atos Processuais: Carta Precatória e Carta Rogatória"
+    ],
+    "enunciado_principal": "Dadas as proposições a seguir a respeito da disciplina dos atos processuais segundo o Código de Processo Civil, I. No processo civil, feita intimação de decisão interlocutória em feriado, o prazo recursal começará a fluir no primeiro dia útil subsequente. II. Nas comarcas em que não há publicação em jornal oficial, o prazo para interposição de apelação conta-se da juntada aos autos do aviso de recebimento da carta de intimação da sentença. III. Havendo litisconsórcio passivo facultativo, os réus com diferentes procuradores dispõem de prazo em dobro para recorrer. IV. Nas comarcas contíguas, as intimações podem ser feitas sem a necessidade de expedição de carta precatória. verifica-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente I e II são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "somente III e IV são verdadeiras."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "94017",
+    "metadata": "Ano: 2010 | Banca: COPEVE-UFAL | Órgão: Prefeitura de Rio Largo - AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Do Litisconsórcio",
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual",
+      "Prazos",
+      "Da comunicação dos atos processuais - Citação",
+      "Da extinção do processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Sobre a disciplina dos atos processuais, segundo o Código de Processo Civil brasileiro, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a intimação do Ministério Público, nos processos em que atue como parte, será feita prioritariamente mediante publicação no órgão oficial."
+      },
+      {
+        "letra": "B",
+        "texto": "quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em quádruplo o prazo para contestar e em dobro os prazos para recorrer e, de modo geral, para falar nos autos."
+      },
+      {
+        "letra": "C",
+        "texto": "é lícito às partes litigantes, mediante acordo, reduzir os prazos peremptórios."
+      },
+      {
+        "letra": "D",
+        "texto": "a citação válida torna prevento o juízo, induz litispendência, faz litigiosa a coisa e, salvo quando ordenada por juiz incompetente, interrompe a prescrição."
+      },
+      {
+        "letra": "E",
+        "texto": "a desistência da ação somente produzirá efeito depois de homologada por sentença."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "94014",
+    "metadata": "Ano: 2010 | Banca: COPEVE-UFAL | Órgão: Prefeitura de Rio Largo - AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito do regime jurídico das partes e dos terceiros no processo civil brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A assistência simples ocorre quando o juiz defere a um terceiro, com interesse jurídico no resultado favorável à parte que irá assistir, o direito de intervir no processo para auxiliá-la."
+      },
+      {
+        "letra": "B",
+        "texto": "O pedido de assistência litisconsorcial não é admitido após o julgamento de primeira instância."
+      },
+      {
+        "letra": "C",
+        "texto": "Descabe o pedido de assistência em favor do réu quando o processo corre à revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "Julgada procedente a ação de indenização em que tenha sido acolhida a denunciação à lide pelo réu, o juiz declarará o direito de regresso em favor do denunciante, mas a sentença não terá eficácia de título executivo contra o denunciado."
+      },
+      {
+        "letra": "E",
+        "texto": "Cada litisconsorte tem o direito de promover o andamento do processo, mas a intimação dos atos do processo somente será obrigatória quando se tratar de litisconsórcio necessário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "74584",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Em ação de oposição, cria-se litisconsórcio passivo necessário entre os sujeitos da demanda originária, que passam a ser denominados opostos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "544293",
+    "metadata": "Ano: 2009 | Banca: AOCP | Órgão: CASAN - SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Analise as assertivas e assinale a alternativa correta. Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando I. entre elas houver comunhão de direitos ou de obrigações relativamente à lide. II. os direitos ou as obrigações derivarem do mesmo fundamento de fato ou de direito. III. entre as causas houver continência pelo objeto ou pela causa de pedir. IV. ocorrer afinidade de questões por um ponto comum de fato ou de direito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "399244",
+    "metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Quando os litisconsortes tiverem diferentes procuradores, o prazo para recorrer será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "multiplicado pelo número de litisconsortes."
+      },
+      {
+        "letra": "B",
+        "texto": "contado em dobro."
+      },
+      {
+        "letra": "C",
+        "texto": "o mesmo para todos."
+      },
+      {
+        "letra": "D",
+        "texto": "contado em triplo."
+      },
+      {
+        "letra": "E",
+        "texto": "contado em quádruplo."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

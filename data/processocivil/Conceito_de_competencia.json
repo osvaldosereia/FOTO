@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "832018",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Sobre a competência interna territorial no Processo Civil, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações de reparação de dano sofrido em razão de delito ou acidente de veículos, será competente o foro do domicílio do autor ou do local do fato."
+      },
+      {
+        "letra": "B",
+        "texto": "O foro do domicílio do autor da herança, no Brasil, é o competente para o inventário, ainda que o óbito tenha ocorrido no estrangeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas ações fundadas em direito real sobre bens imóveis, poderá o autor escolher entre o foro da situação da coisa e o foro do domicílio do réu, desde que o litígio recaia sobre direito de vizinhança."
+      },
+      {
+        "letra": "D",
+        "texto": "Correndo em separado ações conexas perante juízes que têm a mesma competência territorial, considera-se prevento aquele que despachou em primeiro lugar."
+      },
+      {
+        "letra": "E",
+        "texto": "As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "814371",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO AOCP | Órgão: EBSERH",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência, em razão do valor e do território, poderá modificar-se pela conexão ou continência."
+      },
+      {
+        "letra": "B",
+        "texto": "Reputam-se conexas duas ou mais ações, quando lhes forem comum as partes e o valor da causa."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o imóvel se achar situado em mais de um Estado ou comarca, determinar-se-á o foro àquele que tiver registrado o imóvel a mais tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte poderá ofertar exceção de incompetência e suscitar conflito de competência concomitantemente."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao decidir o conflito de competência, o tribunal declarará o juiz competente, anulando todos os atos do juiz incompetente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "583936",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Está correto o que se afirma APENAS em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "743120",
+    "metadata": "Ano: 2014 | Banca: CONSULPLAN | Órgão: TERRACAP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A doutrina normalmente conceitua a competência como a medida e o limite da jurisdição. Além disso, ela também classifica a competência em absoluta e competência relativa. Sobre o tema, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Argui‐se, por meio de exceção, a incompetência relativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A incompetência relativa sempre pode ser reconhecida de ofício pelo juiz"
+      },
+      {
+        "letra": "C",
+        "texto": "A regra é que determina‐se a competência no momento em que a ação é proposta"
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode suscitar conflito a parte que, no processo, ofereceu exceção de incompetência."
+      },
+      {
+        "letra": "E",
+        "texto": "Reconhecida a incompetência absoluta, reputam‐se nulos os atos decisórios já praticados"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "456569",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considerando as regras de competência no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conforme disposto na Lei n.º 11.697/2008, competem à vara de família o processamento e o julgamento da ação de ausência e de investigação de paternidade cumulada com petição de herança."
+      },
+      {
+        "letra": "B",
+        "texto": "Compete ao STJ a apreciação do interesse da União caso haja requerimento de intervenção de autarquia federal em processo que tramite perante a 3.ª Vara Cível de Brasília, não podendo ser reexaminada pelo juízo de origem a decisão de exclusão do ente federal da relação processual."
+      },
+      {
+        "letra": "C",
+        "texto": "A ocorrência de continência ou de conexão torna sempre possível a reunião dos processos para julgamento conjunto, salvo quando um deles já tenha sido julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Tramitando ação de indenização por danos morais em vara do juizado especial cível de Brasília, o juiz, caso verifique que o autor tenha se tornado incapaz, nos termos da lei, deverá remeter os autos para uma vara cível da mesma circunscrição com fundamento na incompetência absoluta do autor."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com jurisprudência consolidada no TJDFT, considera-se despacho positivo, a determinar a prevenção nas hipóteses de ações conexas, aquele que determina emenda à petição inicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "441165",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Quanto à conexão, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pressupõe a identidade entre os elementos objetivos e subjetivo das ações;"
+      },
+      {
+        "letra": "B",
+        "texto": "é causa de modificação da competência do órgão judicial;"
+      },
+      {
+        "letra": "C",
+        "texto": "pode dar azo à reunião dos feitos, ainda que um deles já tenha sido julgado;"
+      },
+      {
+        "letra": "D",
+        "texto": "pode ocorrer entre uma ação de conhecimento e uma de execução;"
+      },
+      {
+        "letra": "E",
+        "texto": "é matéria que escapa ao controle ex officio do órgão judicial, devendo ser suscitada pela parte interessada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "427901",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A regra da competência sobre competência (kompe­ tenzkompetenz)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é aplicável às decisões sobre a competência da Justiça Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "não se aplica ao juízo arbitral, nem às regras de competência absoluta."
+      },
+      {
+        "letra": "C",
+        "texto": "tem por escopo a solução, por órgão superior, de conflitos positivos de competência."
+      },
+      {
+        "letra": "D",
+        "texto": "não se aplica ao direito brasileiro, no qual as normas sobre competência decorrem de lei."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "426392",
+    "metadata": "Ano: 2014 | Banca: IESES | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Após a leitura do enunciado apresentado a seguir, identifique a afirmação correta: “Em matéria de direito civil a ação fundada em direito pessoal e a ação fundada em direito real sobre bens móveis serão propostas, em regra, no foro do domicílio do réu. (Código de Processo Civil, artigo 94)” I. Tendo mais de um domicílio, o réu será demandado no foro de qualquer deles. II. Sendo incerto ou desconhecido o domicílio do réu, ele será demandado onde for encontrado ou no foro do domicílio do autor. III. Quando o réu não tiver domicílio nem residência no Brasil, a ação será proposta no foro do domicílio do autor; e se este também residir fora do Brasil, a ação será proposta em qualquer foro. IV. Havendo dois ou mais réus, com diferentes domicílios, serão demandados no foro de domicílio do réu mais idoso. A sequência correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "425307",
+    "metadata": "Ano: 2014 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Segundo observa ARRUDA ALVIM, o primeiro ponto de interesse jurídico para falar-se em conexão de causas, está em \"estabelecer se uma ação é ligada a outra, a ponto de a decisão de uma influir na da outra\". Serve para se evitar que as decisões que seriam proferidas em ambos os processos, acaso julgados separadamente, viessem a conflitar e tornar-se contraditórias e inconciliáveis. Ainda, segundo o autor, a justificar a reunião dos processos, é o da economia processual, que ocorrerá tanto na produção da prova, quanto na realização de audiências e atos processuais, acaso reunidos os feitos, quando serão realizados por uma única vez. Em relação ao instituto da conexão processual, podemos afirmar que a seguinte alternativa está CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Correndo em separado ações conexas perante juízes sem a mesma competência territorial, considera-se prevento aquele que despachou em primeiro lugar."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo Art. 105 do CPC, havendo conexão ou continência, o juiz, de ofício ou a requerimento de qualquer das partes, deve ordenar a reunião de ações propostas em separado a fim de que sejam decididas simultaneamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Existindo conexão entre duas ações que tramitam perante juízos diversos, configurada pela identidade do objeto ou da causa de pedir, impõe-se a reunião dos processos, a fim de evitar julgamentos incompatíveis entre si. Não se justifica, porém, a reunião quando um dos processos já se encontra sentenciado, pois neste esgotou-se a função jurisdicional do magistrado anteriormente prevento, de acordo com a Súmula 235 do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando os juízos apresentam competência territorial diversa, a prevenção define-se naquele que primeiro despachar nos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível a sua arguição da conexão por meio de exceção de incompetência, em observância aos princípios da instrumentalidade das formas e da economia processual, já que inexiste prejuízo a qualquer das partes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "421803",
+    "metadata": "Ano: 2014 | Banca: UNEB | Órgão: DPE-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considerando-se o disposto no Código de Processo Civil sobre competência territorial, identifique com V as afirmativas verdadeiras e com F, as falsas.( ) Tendo mais de um domicílio, o réu será demandado no foro de qualquer deles.( ) A ação fundada em direito pessoal e a ação fundada em direito real sobre bens móveis serão propostas, em regra, no foro do domicílio do réu.( ) Quando o réu não tiver domicílio nem residência no Brasil, a ação será proposta, obrigatoriamente, no foro da capital federal, se o autor da ação também residir fora do Brasil.( ) Havendo dois ou mais réus, com diferentes domicílios, serão demandados no foro de qualquer deles, à escolha do autor.( ) Sendo incerto ou desconhecido o domicílio do réu, ele será demandado no foro do seu último domicílio certo ou conhecido.A alternativa que indica a sequência correta, de cima para baixo, é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V V F V F"
+      },
+      {
+        "letra": "B",
+        "texto": "V F F F V"
+      },
+      {
+        "letra": "C",
+        "texto": "F V V V F"
+      },
+      {
+        "letra": "D",
+        "texto": "F F V V V"
+      },
+      {
+        "letra": "E",
+        "texto": "V V V V V"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "416627",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: PGE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considerando as assertivas I, II e III, assinale a alternativa CORRETA . I. O foro da situação da coisa (forum rei sitae) é absolutamente competente para ações fundadas em direito real sobre imóveis e, nesses casos, a competência é, sempre, definida pelo critério funcional, não podendo, o autor, por isso, optar pelo foro de seu domicílio. II. Sendo o direito de personalidade um direito classificado como absoluto, a competência para ações dessa natureza é absoluta. III. A conexão é critério de prorrogação de competência, podendo ser própria ou imprópria, ambas podendo dar lugar à reunião de processos e à prorrogação da competência do juiz, desde que nenhum dos processos tenha sido julgado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas são falsas."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as assertivas são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III é verdadeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva II é verdadeira."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "413517",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PGE-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Acerca da competência no direito processual civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora as partes não possam modificar a competência em razão da matéria, elas podem modificar a competência em razão do valor ou do território por escolha de juízo conveniente a ambas."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença da União em ação de usucapião especial afasta a competência do foro da situação do imóvel para julgamento da causa."
+      },
+      {
+        "letra": "C",
+        "texto": "Depois de proposta a execução fiscal, a mudança de domicílio do executado não é suficiente para mudar a competência originalmente fixada."
+      },
+      {
+        "letra": "D",
+        "texto": "A alegação de conexão de causas deve ser feita mediante exceção de incompetência caso um dos processos já tenha sido julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "A perpetuação de jurisdição é o fenômeno pelo qual o juiz tem sua competência confirmada em decorrência da não interposição de exceção de incompetência relativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "410889",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: METRÔ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A respeito da competência, é competente o foro do domicílio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ou da residência do alimentante, para a ação em que se pedem alimentos."
+      },
+      {
+        "letra": "B",
+        "texto": "do autor, em regra, para a ação fundada em direito real sobre bens móveis."
+      },
+      {
+        "letra": "C",
+        "texto": "do credor para a ação de anulação de títulos extraviados ou destruídos."
+      },
+      {
+        "letra": "D",
+        "texto": "do autor ou do local do fato para as ações que visam à reparação por dano resultante de acidente de veículo."
+      },
+      {
+        "letra": "E",
+        "texto": "do autor, em regra, para a ação fundada em direito pessoal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "409231",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Configura competência insuscetível de prorrogação a do foro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do domicílio do autor da herança, para todas as ações em que o espólio for réu."
+      },
+      {
+        "letra": "B",
+        "texto": "da situação da coisa, para a ação fundada em direito real sobre bens móveis."
+      },
+      {
+        "letra": "C",
+        "texto": "do domicílio ou residência do alimentando, para a ação em que se pedem alimentos."
+      },
+      {
+        "letra": "D",
+        "texto": "do domicílio do representante do incapaz, para a ação em que este for réu."
+      },
+      {
+        "letra": "E",
+        "texto": "da situação do imóvel, quando o litígio versar sobre direito de vizinhança."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "408529",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PRODEST-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Respostas do réu - Contestação",
+      "Conceito de competência",
+      "Respostas do réu  - Exceção"
+    ],
+    "enunciado_principal": "A modificação da competência, com a reunião de processos por força da conexão,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ser determinada de ofício pelo juiz, devendo ser arguida pelo réu por exceção de incompetência."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ser determinada de ofício pelo juiz, devendo ser arguida pelo réu na contestação, como questão pre­liminar."
+      },
+      {
+        "letra": "C",
+        "texto": "depende da coincidência de partes, pedido e causa de pedir entre os processos propostos separadamente."
+      },
+      {
+        "letra": "D",
+        "texto": "ocorre quando duas ou mais ações possuem identidade quanto às partes e à causa de pedir, mas o objeto de uma é mais amplo, abrangendo o das outras."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser determinada de ofício, mas só ocorre quando se trata de competência relativa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "406873",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Juiz no CPC 1973",
+      "Ministério Público no CPC 1973",
+      "Nulidades no CPC 1973",
+      "Sujeitos da relação processual",
+      "Prazos",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considere as seguintes afirmações: I. a prolação de sentença imediatamente após a negativa do Promotor de Justiça em emitir parecer num processo onde a participação do Ministério Público como “custos legis” é obrigatória gera a nulidade da decisão e dos atos que lhe sejam posteriores. II. o impedimento do juiz contemporâneo ao ajuizamento da ação, decorrente de sua condição de cônjuge de um dos litisconsortes que integram o polo ativo, pode ser alegado a qualquer tempo e grau de jurisdição, não ocorrendo preclusão temporal em razão de não ter sido arguida no prazo de defesa. III. o juiz pode conhecer de ofício da existência de cláusula de convenção de arbitragem e, com base nisso, extinguir o processo de conhecimento sem resolução do mérito. IV. em razão da adoção, pelo Código de Processo Civil, do princípio da “perpetuatio jurisdiciones”, a criação de nova comarca não implica em deslocamento para o juízo cível desta da competência para presidir a ação reivindicatória de bem móvel anteriormente ajuizada. Agora, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas as afirmações II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas as afirmações I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas as afirmações I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas as afirmações II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402844",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Julgue os itens subsequentes, relativos a competência e litisconsórcio.Se a parte não arguir tempestivamente a incompetência por meio de exceção, será prorrogada a competência relativa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "393344",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito da competência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência em razão do valor é regida pelas normas estabelecidas na CF."
+      },
+      {
+        "letra": "B",
+        "texto": "Compete à justiça estadual julgar causas entre consumidor e concessionárias de serviço público de telefonia, ainda que a Agência Nacional de Telecomunicações figure no polo passivo na qualidade de litisconsorte necessário, assistente ou opoente."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorrerá a conexão sempre que houver identidade de partes ou da causa de pedir."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite-se a arguição de incompetência absoluta, por meio de exceção, mesmo após o trânsito em julgado da sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "A competência da justiça estadual é residual."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "372672",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A respeito dos critérios de modificação de competência e de declaração de incompetência, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência para julgamento de ação civil pública é classificada como territorial e, portanto, relativa, podendo ser prorrogada"
+      },
+      {
+        "letra": "B",
+        "texto": "É nula a sentença transitada em julgado proferida por juízo diverso daquele reputado competente em conflito instaurado posteriormente, caso em que, declarada a nulidade da decisão judicial, nova sentença deverá ser proferida pelo juízo reputado competente."
+      },
+      {
+        "letra": "C",
+        "texto": "O exame da identidade de elementos para que se classifiquem ações como conexas é feito restritivamente, somente devendo ser reunidos processos que possuam objeto ou causa de pedir absolutamente iguais."
+      },
+      {
+        "letra": "D",
+        "texto": "Há modificação voluntária da competência quando o réu, diante de incompetência relativa do juízo, deixa, deliberadamente, de opor exceção de incompetência."
+      },
+      {
+        "letra": "E",
+        "texto": "Há conflito negativo de competência quando o tribunal de justiça de um estado e o STJ se consideram incompetentes para julgamento de um mesmo processo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "368503",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, duas ou mais ações são consideradas conexas quando :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "houver a denominada tríplice identidade, coincidindo as partes, causas de pedir e pedidos."
+      },
+      {
+        "letra": "B",
+        "texto": "houverem sido despachadas na mesma data, se idêntica a competência territorial, ou determinada a citação no mesmo dia, se diversas as comarcas."
+      },
+      {
+        "letra": "C",
+        "texto": "houver identidade de partes e comunhão probatória, reunindo-se as ações perante um mesmo juízo."
+      },
+      {
+        "letra": "D",
+        "texto": "pela natureza da relação jurídica, o juiz tiver de decidir de modo uniforme para todas as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "lhes for comum o objeto, ocasião em que o juiz poderá reuni- las para julgamento simultâneo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "366585",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: UNICAMP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Corresponde a regra de competência classificada como absoluta, vale dizer, improrrogável, a do foro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do domicílio do devedor, para ação de anulação de título."
+      },
+      {
+        "letra": "B",
+        "texto": "do domicílio do autor da herança, para ação de inven­tário."
+      },
+      {
+        "letra": "C",
+        "texto": "da situação do imóvel, para ação relativa a direito real."
+      },
+      {
+        "letra": "D",
+        "texto": "da situação do imóvel, para ação de nunciação de obra nova."
+      },
+      {
+        "letra": "E",
+        "texto": "do lugar do ato ou fato, para ação de reparação de danos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "366526",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: TRE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta quantoàs modificações da competência segundo o CPC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência em razão do valor da causa não se modifica pela conexão."
+      },
+      {
+        "letra": "B",
+        "texto": "A competência em razão do território não se modifica pela continência."
+      },
+      {
+        "letra": "C",
+        "texto": "Dá-se a conexão entre duas ou mais ações sempre que há identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      },
+      {
+        "letra": "D",
+        "texto": "Reptam-se conexas duas ou mais ações, quando lhes for comum o objeto ou a causa de pedir."
+      },
+      {
+        "letra": "E",
+        "texto": "Ocorrendo separadamente ações conexas perante juízes que têm a mesma competência territorial, considera-se prevento aquele juiz que sentenciou primeiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "366522",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: TRE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Acerca dacompetência regida pelo Código Processual Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determina-se a competência no momento da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "São relevantes, em qualquer caso, as modificações do estado de fato ou de direito ocorridas posteriormente ao ajuizamento da ação."
+      },
+      {
+        "letra": "C",
+        "texto": "As causas cíveis serão processadas e decididas, ou simplesmente decididas, pelos órgãos jurisdicionais, nos limites de sua competência, ressalvada às partes a faculdade de instituírem juízo arbitral."
+      },
+      {
+        "letra": "D",
+        "texto": "A autoridade judiciária estrangeira é competente quando o réu estrangeiro estiver domiciliado no Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação fundada em direito pessoal será proposta, em regra, no foro do domicílio do autor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "363939",
+    "metadata": "Ano: 2014 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Em relação à competência, aponte a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ante o reconhecimento de incompetência absoluta deverá o juiz declará-la, bem como fazer a declaração expressa de nulidade dos atos processuais."
+      },
+      {
+        "letra": "B",
+        "texto": "Distingue-se a incompetência do impedimento, porque este é um defeito do órgão jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há litispendência internacional, salvo se originar de fato ocorrido ou praticado no Brasil, porquanto a competência da autoridade judiciária brasileira é absoluta."
+      },
+      {
+        "letra": "D",
+        "texto": "O foro do domicílio do autor da herança é o competente para o inventário, a partilha e a arrecadação e todas as ações em que o espólio for réu, salvo se o óbito ocorreu no estrangeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "A decisão proferida em ação coletiva envolvendo empresa que tem relação jurídica com pessoas em todo país, atingirá a empresa como um todo, influindo em todas as relações jurídicas que ela mantém no Brasil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "362497",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Acerca das regras de fixação da competência, é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para as ações fundadas em direito real sobre imóveis é competente o foro da situação da coisa;"
+      },
+      {
+        "letra": "B",
+        "texto": "A ação fundada em direito pessoal e a ação fundada em direito real sobre bens móveis serão propostas, em regra, no foro do domicílio do réu;"
+      },
+      {
+        "letra": "C",
+        "texto": "Tendo mais de um domicílio, o réu será demandado no foro de qualquer deles;"
+      },
+      {
+        "letra": "D",
+        "texto": "É competente o foro do domicílio ou da residência do alimentando para a ação em que se pedem alimentos, tendo em vista a aferição in abstracto da hipossuficiência do alimentando;"
+      },
+      {
+        "letra": "E",
+        "texto": "Conexão e continência não são causas modificadoras da competência em razão do valor e do território."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "455432",
+    "metadata": "Ano: 2013 | Banca: Quadrix | Órgão: CREF - 3ª Região (SC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "O tema aqui tratado é competência, segundo o Código de Processo Civil. Nesse sentido, aponte a incorreta assertiva.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações fundadas em direito real sobre imóveis, é competente o foro da situação da coisa. Pode o autor, entretanto, optar pelo foro do domicílio ou de eleição, não recaindo o litígio sobre direito de propriedade, vizinhança, servidão, posse, divisão e demarcação de terras e nunciação de obra nova."
+      },
+      {
+        "letra": "B",
+        "texto": "O conflito de competência pode ser suscitado por qualquer das partes, pelo Ministério Público ou pelo juiz. O Ministério Público será ouvido em todos os conflitos de competência, mas terá qualidade de parte naqueles que suscitar."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação fundada em direito pessoal e a ação fundada em direito real sobre bens móveis serão propostas, em regra, no foro do domicílio do réu. Sendo incerto ou desconhecido o domicílio do réu, ele será demandado onde for encontrado ou no foro do domicílio do autor."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas ações de reparação do dano sofrido em razão de delito ou acidente de veículos, será competente o foro do domicílio do autor ou do local do fato."
+      },
+      {
+        "letra": "E",
+        "texto": "Dá-se a conexão entre duas ou mais ações sempre que há identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "449914",
+    "metadata": "Ano: 2013 | Banca: IDECAN | Órgão: CREFITO - 8ª Região (PR)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Analise as afirmativas abaixo, e em seguida, marque V para as verdadeiras e F para as falsas. ( ) Dá-se a continência entre duas ou mais ações sempre que há identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras. ( ) Havendo conexão ou continência, o juiz, somente mediante o requerimento de qualquer das partes, pode ordenar a reunião de ações propostas em separado, a fim de que sejam decididas simultaneamente. ( ) Correndo em separado ações conexas perante juízes que têm a mesma competência funcional, considera-se prevento aquele que expediu, em primeiro lugar, a citação. ( ) O juiz da causa que primeiro realizou a citação válida é também competente para a reconvenção, a ação declaratória incidente, as ações de garantia e outras que respeitam ao terceiro interveniente. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, V, V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, F, V"
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, F, F"
+      },
+      {
+        "letra": "E",
+        "texto": "V, V, F, F"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "433754",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: FUNDAÇÃO PRÓ-SANGUE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "No que tange à violação dos critérios relativos de fixação de competência, as alternativas a seguir apresentam causa de prorrogação da competência à exceção de uma. Assinale-a.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reconhecimento pelo Juiz de ofício."
+      },
+      {
+        "letra": "B",
+        "texto": "Vontade das partes."
+      },
+      {
+        "letra": "C",
+        "texto": "Conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "Continência"
+      },
+      {
+        "letra": "E",
+        "texto": "Inércia do réu"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "433340",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: AL-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A respeito das causas de modificação da competência, analise as afirmativas a seguir. I. As partes podem eleger o foro e o juízo nos quais será proposta uma ação somente quando a questão for relacionada ao território e ao valor da causa. II. A conexão é uma das causas de modificação da competência relativa, devendo haver identidade entre o objeto ou a causa de pedir, e estará prevento o juiz que proferir o despacho liminar positivo em primeiro lugar. III. Pode ocorrer a prorrogação da competência caso o réu, diante de uma ação proposta perante juízo relativamente incompetente e não havendo hipótese de foro especial, não oponha exceção de incompetência no prazo legal. Assinale:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se somente a afirmativa III estiver correta."
+      },
+      {
+        "letra": "B",
+        "texto": "se somente as afirmativas I e II estiverem corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "se somente a afirmativa II estiver correta."
+      },
+      {
+        "letra": "D",
+        "texto": "se somente as afirmativas II e III estiverem corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "se somente a afirmativa I estiver correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "423188",
+    "metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considere as seguintes proposições: I. A competência para processar e julgar as ações conexas de interesse de menor é, em princípio, do foro do domicílio do detentor de sua guarda. II. Compete à justiça estadual julgar causas entre o consumidor e concessionária de serviço público de telefonia, ainda que a Anatel – Agência Nacional de Telecomunicações seja assistente. III. A presença da União ou de qualquer de seus entes, na ação de usucapião especial, não afasta a competência do foro da situação do imóvel. IV. Na ação de investigação de paternidade cumulada com alimentos é competente o juízo do foro do domicílio ou da residência do alimentando. São incorretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a proposição II."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as proposições I e II."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "423187",
+    "metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considere as seguintes proposições: I. O princípio processual da congruência ou adstrição está diretamente ligado ao princípio do contraditório. II. O princípio processual do duplo grau de jurisdição não é previsto expressamente na Constituição Federal, sendo princípio implícito do texto constitucional e limitável por lei infraconstitucional. III. A competência para as ações fundadas em direito real sobre bem imóvel é relativa e portanto, permite a aplicação do princípio da perpetuatio jurisdictionis. IV. Em qualquer caso, pelo princípio da impugnação específica, o réu deve impugnar um a um os fatos narrados na petição inicial, sob pena de presumir-se a sua veracidade. São corretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as proposições II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "421723",
+    "metadata": "Ano: 2013 | Banca: TRT 22 PI | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Prazos",
+      "Conceito e Classificação do Litisconsórcio",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "constituem fundamentos para que duas ou mais pessoas possam litigar, no mesmo processo, em conjunto, ativa ou passivamente, dentre outros, a afinidade de questões por um ponto comum de fato ou de direito e quando houver entre as causas conexão pelo objeto ou pela causa de pedir;"
+      },
+      {
+        "letra": "B",
+        "texto": "há litisconsórcio necessário quando, por disposição de lei ou pela natureza da relação jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes; caso em que a eficácia da sentença dependerá da citação de todos os litisconsortes no processo;"
+      },
+      {
+        "letra": "C",
+        "texto": "no que tange aos prazos processuais, é correto afirmar que a superveniência de férias suspenderá o curso do prazo; o que lhe sobejar recomeçará a correr do primeiro dia útil seguinte ao termo das férias;"
+      },
+      {
+        "letra": "D",
+        "texto": "reputam-se conexas duas ou mais ações quando lhe for comum o objeto ou a causa de pedir; dá-se a continência entre duas ou mais ações sempre que há identidade quanto às partes e ao pedido, mas o objeto de uma, por ser mais amplo, abrange o das outras;"
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá nomear à autoria o proprietário ou o possuidor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "388853",
+    "metadata": "Ano: 2013 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Quanto às disposições sobre competência é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "determina-se a competência no momento em que a ação é proposta. São irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia."
+      },
+      {
+        "letra": "B",
+        "texto": "regem a competência dos tribunais as normas da Constituição da República e do Código de Processo Civil. A competência funcional dos juizes de primeiro grau é disciplinada na Lei de Organização Judiciária."
+      },
+      {
+        "letra": "C",
+        "texto": "a ação fundada em direito pessoal e a ação fundada em direito real sobre bens imóveis serão propostas, em regra, no foro do domicilio do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "a incompetência absoluta deve ser declarada de oficio e pode ser alegada, em qualquer tempo e grau de jurisdição, por meio de exceção."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "371027",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Ação Civil Pública no CPC 1973",
+      "Ação Popular",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção correta no que se refere ao mandado de segurança, à ação popular e à ação civil pública.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em ação popular, caberá ao MP assumir a defesa dos autores dos atos impugnados."
+      },
+      {
+        "letra": "B",
+        "texto": "A inércia da associação autora em promover a execução do julgado em ação civil pública obrigará o cidadão a requerê-la, se decorrido o prazo de sessenta dias do trânsito em julgado da sentença condenatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Reconhecida a continência, as ações civis públicas propostas na justiça estadual e na justiça federal deverão ser reunidas nesta."
+      },
+      {
+        "letra": "D",
+        "texto": "É admissível a ação de mandado de segurança coletivo para proteger direito líquido e certo, caso haja outra ação específica para impugnar a decisão jurisdicional."
+      },
+      {
+        "letra": "E",
+        "texto": "O STJ tem competência originária para julgar ação de mandado de segurança contra ato ou decisão do plenário do TCU."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "371024",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca das regras de competência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência em razão da matéria e da hierarquia é derrogável por convenção das partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o autor de uma herança for estrangeiro, a competência da autoridade judiciária brasileira concorrerá com a da autoridade estrangeira para o inventário e a partilha de bens situados no Brasil."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de surgimento de controvérsia entre dois órgãos jurisdicionais acerca da reunião ou separação de processos, configurar-se-á conflito negativo de competência."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete exclusivamente ao juiz de direito processar e julgar o processo de insolvência e as ações concernentes ao estado e à capacidade das pessoas."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas ações conexas que tramitarem em separado perante juízes que tenham a mesma competência territorial, o foro será determinado em favor do território onde tiver ocorrido a primeira citação válida."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "354807",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca da competência em direito processual civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regem a competência dos tribunais as normas do Código de Processo Civil e de organização judiciária."
+      },
+      {
+        "letra": "B",
+        "texto": "O reconhecimento da conexão não gera modificação de competência se um dos processos já tiver sido julgado."
+      },
+      {
+        "letra": "C",
+        "texto": "Excluído do feito o ente federal, cuja presença levou o juiz estadual a declinar da competência, deve o juiz federal suscitar o conflito, sendo incabível mera restituição dos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença da União na ação de usucapião especial afasta a competência do foro da situação do imóvel, deslocando a causa para a justiça federal."
+      },
+      {
+        "letra": "E",
+        "texto": "A decisão do juiz federal que exclui a União do processo não vincula a justiça estadual, a qual pode suscitar o conflito de competência em caso de discordância."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "354707",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Com base nas regras de competência, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em caso de grave violação de direitos humanos, o procurador- geral da República pode suscitar, perante o STF, incidente de deslocamento de competência para a justiça federal, em qualquer fase do inquérito ou processo, para assegurar obrigações decorrentes de tratados internacionais de que o Brasil seja parte."
+      },
+      {
+        "letra": "B",
+        "texto": "A justiça comum é competente para processar e julgar ação possessória ajuizada em decorrência do exercício de greve pelos trabalhadores da iniciativa privada."
+      },
+      {
+        "letra": "C",
+        "texto": "A alteração superveniente de competência, ainda que ditada por norma constitucional, não afeta a validade de sentença de mérito anteriormente proferida em processo em andamento, subsistindo a competência recursal do tribunal respectivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A incompetência absoluta em razão da matéria, questão de ordem pública, declarável de ofício a todo tempo e em qualquer grau de jurisdição, gera nulidade absoluta, insuscetível de preclusão e insanável."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da perpetuatio jurisdictionis é aplicável em caso de supressão de órgão judiciário ou alteração da competência em razão da matéria ou hierarquia."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "352082",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A respeito de competência em direito processual civil, julgue os itens a seguir.Reconhecida a conexão entre os processos, o juiz poderá determinar a remessa dos autos ao juízo prevento, mesmo após a prolação da sentença, a fim de evitar decisões contraditórias.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "346619",
+    "metadata": "Ano: 2013 | Banca: IBFC | Órgão: IDECI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Critérios de competência",
+      "Conceito de competência",
+      "Respostas do réu  - Exceção"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta com relação as disposições do Código de Processo Civil relativas à competência:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determina-se a competência no momento em que a ação é proposta, sendo irrelevantes quaisquer modificações do estado de fato ou de direito ocorridas posteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Compete à autoridade judiciária brasileira, com exclusão de qualquer outra, proceder a inventário e partilha de bens, situados no Brasil, ainda que o autor da herança seja estrangeiro e tenha residido fora do território nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação fundada em direito pessoal e a ação fundada em direito real sobre bens móveis serão propostas, em regra, no foro do domicílio do réu. Porém, havendo dois ou mais réus, com diferentes domicílios, serão demandados no foro do domicílio do autor"
+      },
+      {
+        "letra": "D",
+        "texto": "Argui-se, por meio de exceção, a incompetência absoluta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "335957",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "No que concerne a conexão, competência relativa e conflito de competência, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o entendimento do STJ, reconhecida a continência entre duas ações civis públicas propostas pelo MPE e pelo MPF, uma na justiça estadual, outra na justiça federal, ambas deverão ser reunidas na justiça federal."
+      },
+      {
+        "letra": "B",
+        "texto": "As partes podem, no caso concreto, afastar a aplicação da regra de competência relativa por meio de celebração de acordo para a escolha de determinado foro para futuras e possíveis demandas, caso em que a chamada cláusula de eleição de foro não obriga os herdeiros e sucessores das partes."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o entendimento do STJ, não é suficiente para caracterizar o conflito de competência a mera possibilidade ou risco de que sejam proferidas decisões conflitantes por juízos distintos."
+      },
+      {
+        "letra": "D",
+        "texto": "O MP não tem legitimidade para suscitar conflito de competência."
+      },
+      {
+        "letra": "E",
+        "texto": "São conexas duas ou mais ações quando lhes for comum o objeto ou a causa de pedir, exigindo-se, consoante o STJ, em relação à causa de pedir, que a identidade entre as ações seja total, condição sem a qual não se configura a conexão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "313083",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: CETESB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Sobre o instituto processual da continência, que ocorre em relação a duas ou mais ações, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "este ocorre em duas hipóteses: quando lhes for comum o objeto ou a causa de pedir, ou sempre que houver identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      },
+      {
+        "letra": "B",
+        "texto": "é inderrogável por convenção das partes, mas estas podem modificar a competência em razão do valor e do território, elegendo foro onde serão propostas as ações oriundas de direitos e obrigações."
+      },
+      {
+        "letra": "C",
+        "texto": "o juiz, de ofício ou a requerimento de qualquer das partes, pode ordenar a reunião de ações propostas em separado, a fim de que sejam decididas simultaneamente."
+      },
+      {
+        "letra": "D",
+        "texto": "correndo perante juízes que têm a mesma competência territorial, considera-se prevento aquele que despachou em primeiro lugar."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser declarada de ofício pelo juiz, que declinará de competência para o juízo de domicílio do réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "307456",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "No que concerne à competência no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conforme entendimento sumulado pelo STJ, prevalece o conflito de competência ainda que exista sentença transitada em julgado proferida por um dos juízos conflitantes."
+      },
+      {
+        "letra": "B",
+        "texto": "O conflito de competência poderá ser suscitado pelo MP, ainda que esse intervenha no processo apenas como fiscal da lei."
+      },
+      {
+        "letra": "C",
+        "texto": "A regra da perpetuação da competência concorre para que o processo seja itinerante."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de ações conexas que correm perante juízos com a mesma competência territorial, a prevenção será determinada pela data da primeira distribuição."
+      },
+      {
+        "letra": "E",
+        "texto": "A reunião dos processos, em caso de conexão, não pode ser determinada de ofício pelo magistrado, por envolver regra de modificação de competência de foro, de natureza relativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "304774",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Em relação à competência, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O STJ não admite a existência de conexão entra a ação de execução fiscal, com ou sem embargos, e a ação anulatória de débito fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com o princípio kompetenz kompetenz, é correto afirmar que o órgão jurisdicional, mesmo sem competência, tem jurisdição."
+      },
+      {
+        "letra": "C",
+        "texto": "O juiz declarará nula a cláusula de eleição de foro, determinando a remessa do processo ao foro do domicílio do réu, somente nos casos de contrato de adesão firmado no âmbito consumerista."
+      },
+      {
+        "letra": "D",
+        "texto": "A alegação da competência absoluta pode ser realizada de diversas formas, exceto mediante exceção de incompetência."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo o entendimento dominante no STJ, a simples presença de indígena como parte na demanda é o suficiente para assegurar a competência da justiça federal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "829741",
+    "metadata": "Ano: 2012 | Banca: COPEVE-UFAL | Órgão: MPE-AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção incorreta sobre a competência no processo civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo a regra da perpetuatio jurisdictionis, são irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente à propositura da ação, razão pela qual a modificação das regras de competência absoluta não interfere na competência em relação aos processos em curso."
+      },
+      {
+        "letra": "B",
+        "texto": "O foro do domicílio do autor da herança, no Brasil, é o competente para o inventário e partilha, ainda que o óbito tenha ocorrido no estrangeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "O Ministério Público tem legitimidade para suscitar o incidente de conflito de competência."
+      },
+      {
+        "letra": "D",
+        "texto": "A competência territorial pode modificar-se em razão da conexão ou continência, hipótese em que o juiz, inclusive de ofício, poderá determinar reunião de processos que tramitem em separado para que sejam decididos simultaneamente."
+      },
+      {
+        "letra": "E",
+        "texto": "A ação em que o incapaz for réu será processada no foro do domicílio de seu representante."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "426595",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "A respeito das regras de processo civil que disciplinam a competência dos orgãos judiciários brasileiros, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compete à autoridade judiciária brasileira, com exclusão de qualquer outra, conhecer de ações relativas a réu que estiver domiciliado no Brasil, visto que a jurisdição é expressão da soberania estatal, não podendo ser violada por atos de entes públicos externos."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas hipóteses em que configurada conexão ou continência entre duas ou mais ações, o juiz, de ofício ou a requerimento de qualquer das partes, deve ordenar a reunião de ações propostas em separado, a fim de que sejam decididas simultaneamente, sendo nula a decisão proferida pelo juízo não prevento."
+      },
+      {
+        "letra": "C",
+        "texto": "O conflito de competência pode ser suscitado pelo juiz, pelo Ministério Público e por quaisquer das partes, inclusive por aquela que ofereceu exceção de incompetência, sendo certo que o Parquet será ouvido, exceto quando atuar na condição de parte."
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuído o conflito a um Relator, este, de ofício ou a requerimento das partes, deverá determinar, quando o conflito for positivo, seja sobrestado o processo, mas, neste caso, bem como no de conflito negativo, será competente para resolver, em caráter provisório, as medidas urgentes o juiz que primeiro despachou a petição inicial."
+      },
+      {
+        "letra": "E",
+        "texto": "Distribuído o conflito a um Relator, este poderá decidir de plano o conflito de competência quando existir jurisprudência dominante sobre a questão suscitada, cabendo em face de sua decisão agravo, no prazo de cinco dias, para o órgão recursal competente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "423381",
+    "metadata": "Ano: 2012 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência",
+      "Ações possessórias"
+    ],
+    "enunciado_principal": "Leia as afirmações abaixo.I - Pode o autor cumular ao pedido possessório quaisquer outros pedidos, sem que isto importe adoção do procedimento ordinário. II - O foro do local do imóvel é competente para conhecer da ação fundada em direito possessório a ele relativo, mas essa competência é de natureza relativa. III - O Juizado Especial Cível é absolutamente incompetente para conhecer de ação possessória sobre bem imóvel, independentemente do valor do bem.Quais estão INCORRETAS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "368887",
+    "metadata": "Ano: 2012 | Banca: COPEVE-UFAL | Órgão: ALGÁS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a opção correta sobre a competência no processo civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação fundada em direito real sobre bens imóveis deve ser proposta, em regra, no foro do domicílio do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas ações de reparação do dano sofrido em razão de acidente de veículos, será competente o foro do domicílio do autor ou do local do fato."
+      },
+      {
+        "letra": "C",
+        "texto": "Correndo em separado ações conexas perante juízes que têm a mesma competência territorial, considera-se prevento aquele que primeiro proferiu sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "A incompetência relativa deve ser arguida por meio de exceção; a absoluta deve ser alegada pelo réu na contestação, sob pena de preclusão."
+      },
+      {
+        "letra": "E",
+        "texto": "A nulidade da cláusula de eleição de foro, em contrato de adesão, pode ser declarada de ofício pelo juiz, que declinará de competência para o juízo de domicílio do réu, não havendo, portanto, possibilidade de prorrogação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "270481",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Teoria geral das provas",
+      "Juiz no CPC 1973",
+      "Procedimento ordinário",
+      "Ministério Público no CPC 1973",
+      "Nulidades no CPC 1973",
+      "Sujeitos da relação processual",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considerando o disposto no Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a incompetência absoluta somente pode ser arguida pela parte através de exceção."
+      },
+      {
+        "letra": "B",
+        "texto": "os motivos de impedimento e de suspeição, a que alude o Código, aplicam-se também ao perito e ao intérprete."
+      },
+      {
+        "letra": "C",
+        "texto": "o Ministério Público não tem legitimação para suscitar conflito de competência, mas será necessariamente ouvido em todos os conflitos suscitados, que são de ordem pública."
+      },
+      {
+        "letra": "D",
+        "texto": "o juiz apreciará livremente a prova, atendendo aos fatos e às circunstâncias dos autos, ainda que não alegados pelas partes, podendo sempre decidir por equidade, independentemente de previsão legal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "259337",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TRE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "De acordo com princípio da competência sobre a competência, de origem alemã, todo juiz tem competência para apreciar pelo menos a competência do órgão jurisdicional por ele integrado, ou seja, por mais incompetente que o juiz seja, ele tem competência para se declarar incompetente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "221758",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: MPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "“Ocorre quando entre duas ou mais demandas houver identidade de partes e causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o da outra.”Aassertiva acima reflete o conceito de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "continência."
+      },
+      {
+        "letra": "B",
+        "texto": "prescrição"
+      },
+      {
+        "letra": "C",
+        "texto": "perempção."
+      },
+      {
+        "letra": "D",
+        "texto": "decadência."
+      },
+      {
+        "letra": "E",
+        "texto": "coisa julgada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "505974",
+    "metadata": "Ano: 2011 | Banca: TRT 16R | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O reconhecimento da incompetência absoluta tem como conseqüência a anulação dos atos decisórios do processo e o aproveitamento dos demais como conseqüência do princípio da brevidade."
+      },
+      {
+        "letra": "B",
+        "texto": "É concorrente a competência entre órgão jurisdicional brasileiro e órgão jurisdicional estrangeiro para julgar determinada controvérsia relativa a obrigação contraída em território estrangeiro e que tenha como objeto imóvel situado em território nacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Em função do princípio Kompetenz-kompetenz, é sempre ao próprio juiz da causa que compete resolver eventuais questões sobre sua própria competência."
+      },
+      {
+        "letra": "D",
+        "texto": "Na hipótese de competência relativa, só se verifica o conflito de competência se ao menos um dos juizes houver julgado uma exceção de incompetência."
+      },
+      {
+        "letra": "E",
+        "texto": "Determina-se a competência no momento em que a ação é proposta. São irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "432553",
+    "metadata": "Ano: 2011 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Competência no CPC 1973",
+      "Conceito de competência",
+      "Ações possessórias"
+    ],
+    "enunciado_principal": "Cidadão brasileiro (Carlos), nascido em Porto Alegre-RS e residente no Canadá, possui, dentre seus bens, imóvel próprio, devidamente registrado no Registro de Imóveis da cidade de Gramado-RS. Ao ter conhecimento de que o imóvel foi invadido por terceiros, pode Carlos propor ação de reintegração de posse: I. Na Comarca de Gramado-RS. II. No Canadá, requerendo, após, a homologação da sentença no Superior Tribunal de Justiça e seu cumprimento no Brasil. III. Em Porto Alegre-RS, requerendo o cumprimento da sentença por carta precatória. Em relação às assertivas acima, afirma-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas estão incorretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "87513",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Considere: I. Competência em razão da matéria. II. Competência por prerrogativa de função. III. Competência territorial. Considera-se absoluta APENAS a competência que está contida em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I."
+      },
+      {
+        "letra": "E",
+        "texto": "III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "190675",
+    "metadata": "Ano: 2010 | Banca: FESMIP-BA | Órgão: MPE-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Sabe-se que competência é o poder que tem o juiz para exercer a jurisdição nos limites estabelecidos pela lei. Acerca desse instituo, julgue os itens subseqüentes, para concluir quais estão corretos.I - Toca ao Superior Tribunal de Justiça decidir conflitos de competência entre juizado especial e juízo federal, salvo quando da mesma seção judiciária. II - A intervenção da União em processo no qual a sociedade de economia mista figure na condição de parte não tem o condão de modificar a competência para a Justiça Federal. III - A declaração de incompetência sempre implica remessa dos autos ao juízo competente. IV - A existência de vara privativa, instituída por lei estadual, não altera a competência territorial resultante das leis de processo. V - Em se tratando de ação acidentária trabalhista, a competência para julgá-la é da Justiça Estadual, ao passo que, se a ação acidentária não decorrer do vínculo laboral, a competência para o trâmite da demanda é da Justiça Federal.Estão corretas as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e V."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "IV e V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "94124",
+    "metadata": "Ano: 2010 | Banca: AOCP | Órgão: Prefeitura de Camaçari - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Conceito de competência"
+    ],
+    "enunciado_principal": "Quanto as regras de competência, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determina-se a competência no momento em que a ação é proposta, ou seja, quando o processo é despachado pelo juiz ou simplesmente quando a ação for distribuída, onde houver mais de uma vara."
+      },
+      {
+        "letra": "B",
+        "texto": "A supressão de órgão do judiciário ou a alteração da competência em razão da matéria ou da hierarquia excepcionam as regras de perpetuação da competência."
+      },
+      {
+        "letra": "C",
+        "texto": "Tanto a competência derivada quanto a relativa são espécies de competência absoluta. Em regra, a competência derivada é dos tribunais."
+      },
+      {
+        "letra": "D",
+        "texto": "As partes podem modificar a regra de competência relativa, pelo foro de eleição ou foro contratual, ou ainda pela não-oposição da exceção de incompetência."
+      },
+      {
+        "letra": "E",
+        "texto": "A incompetência é defeito processual que, em regra, leva à extinção do processo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "341728",
+    "metadata": "Ano: 2009 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual",
+      "Conceito de competência",
+      "Pressupostos Processuais",
+      "Imparcialidade do Juiz e Competência do Juízo"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Argui- se por meio de exceção a incompetência em razão do valor."
+      },
+      {
+        "letra": "B",
+        "texto": "O Ministério Público, atuando como custos legis, tem legitimidade para arguir a incompetência relativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente a incompetência relativa pode ser modificada pela conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "Há conflito de competência quando entre dois ou mais juízes surge controvérsia acerca da reunião ou separação de processos."
+      },
+      {
+        "letra": "E",
+        "texto": "A incompetência relativa não pode ser declarada de ofício."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

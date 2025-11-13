@@ -1,0 +1,930 @@
+[
+  {
+    "id": "635267",
+    "metadata": "Ano: 2016 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Ações Coletivas no CPC 1973",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Dadas as assertivas abaixo, assinale a alternativa correta. Considerando o ordenamento processual na vigência do Código de Processo Civil de 1973: I. A substituição processual é o instituto que se aplica quando se troca a pessoa em algum dos polos da relação processual, como, por exemplo, no caso de falecimento de uma das partes que seja pessoa natural. II. A legitimação extraordinária permite que alguém postule, em nome de outrem, direito desse terceiro. III. A legitimidade para o processo deve estar prevista na lei processual e, para o seu exame, é irrelevante a demanda específica. A legitimidade para a causa deve ser examinada no caso concreto, considerada a pretensão deduzida. IV. Ajuizada ação coletiva atinente à macrolide geradora de processos multitudinários, pode ser decretada a suspensão das ações individuais, no aguardo do julgamento da ação coletiva.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas apenas as assertivas II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Estão corretas todas as assertivas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "595608",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Modificação de competência",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "À luz da legislação processual civil e da jurisprudência dominante do STJ sobre competência e capacidade, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Proposta ação de usucapião no foro do domicílio do autor, e não havendo exceção de incompetência tempestiva, prorroga-se a competência do juízo perante o qual foi proposta a ação, mesmo que seja em local diverso do imóvel usucapiendo."
+      },
+      {
+        "letra": "B",
+        "texto": "A incompetência relativa somente pode ser arguida por meio de exceção, não podendo o juiz, em hipótese alguma, declinar de ofício da competência em razão do lugar."
+      },
+      {
+        "letra": "C",
+        "texto": "O réu preso não tem capacidade processual, razão pela qual, impõe-se a nomeação de curador especial em seu favor."
+      },
+      {
+        "letra": "D",
+        "texto": "O curador especial tem legitimidade para propor exceção de incompetência, suspeição ou impedimento, impugnação ao valor da causa ou à concessão de assistência judiciária, requerer provas, contestar, propor reconvenção e apresentar embargos à execução, entre outros meios de defesa."
+      },
+      {
+        "letra": "E",
+        "texto": "A parte requerida poderá oferecer exceção declinatória de foro ainda que o MP ou o juiz, de ofício, já tenham suscitado conflito de competência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "556506",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Quanto ao tema da capacidade processual, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se trata de um pressuposto de validade da relação processual;"
+      },
+      {
+        "letra": "B",
+        "texto": "a ausência de capacidade para estar em juízo constitui vício que não pode ser sanado, devendo o juiz extinguir o processo sem resolução do mérito assim que constatar o defeito;"
+      },
+      {
+        "letra": "C",
+        "texto": "têm capacidade de ser parte todas as pessoas físicas e jurídicas, além dos entes e massas de bens desprovidos de personalidade jurídica a que a lei atribui tal capacidade, como o espólio e o condomínio de edifício;"
+      },
+      {
+        "letra": "D",
+        "texto": "a capacidade postulatória consiste na aptidão para dirigir petições ao juiz, sendo privativa do advogado e de profissionais do direito que exerçam funções análogas, no âmbito de suas atribuições, como o Promotor de Justiça e o Defensor Público;"
+      },
+      {
+        "letra": "E",
+        "texto": "o advogado, mesmo sem instrumento de mandato, pode exercer a sua capacidade postulatória em prol de seu cliente, a fim de evitar a consumação da prescrição ou decadência, caso em que deverá exibir a procuração no prazo de quinze dias, prorrogável por igual período, por despacho do juiz."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "555481",
+    "metadata": "Ano: 2015 | Banca: ESAF | Órgão: PGFN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Condições da ação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Ajuizada ação anulatória por uma cooperativa de rádio táxi, visando a desconstituir autuação fiscal pelo não pagamento de PIS/COFINS, os autos estavam conclusos para sentença. Porém, nesse momento, adveio uma lei que conferiu remissão total aos créditos tributários objeto do lançamento impugnado, bem como anistia dos respectivos encargos legais, multa e juros de mora. Diante deste cenário, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O advento da lei posterior não pode influenciar o julgamento de demanda anteriormente ajuizada, pois já consumada a sua estabilização."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento da lide, caberá ao juiz tomá- lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a sentença. Portanto, deve o juiz julgar procedentes os pedidos do autor."
+      },
+      {
+        "letra": "C",
+        "texto": "Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento da lide, caberá ao juiz tomá- lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a sentença. Portanto, deve o juiz julgar improcedentes os pedidos do autor."
+      },
+      {
+        "letra": "D",
+        "texto": "Como a causa de pedir da ação anulatória não guarda qualquer relação com o conteúdo normativo da legislação posterior, o seu advento não interfere no direito a ser aplicado ao caso, razão pela qual deve o juiz apreciar o mérito da demanda, desconsiderando a existência de lei nova."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao conferir remissão aos créditos tributários objeto da demanda, a lei posterior proporcionou a falta de interesse processual superveniente, o que importará a extinção do processo sem resolução de mérito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "553233",
+    "metadata": "Ano: 2015 | Banca: IDECAN | Órgão: Prefeitura de Rio Pomba - MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Sobre a legitimação e substituição, nos termos do Direito Processual Civil, é INCORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a sentença, proferida entre as partes originárias, estende os seus efeitos ao adquirente ou ao cessionário."
+      },
+      {
+        "letra": "B",
+        "texto": "ocorrendo a morte de qualquer das partes, dar‐se‐á a substituição pelo seu espólio ou pelos seus sucessores."
+      },
+      {
+        "letra": "C",
+        "texto": "só é permitida, no curso do processo, a substituição voluntária das partes nos casos expressos na Constituição."
+      },
+      {
+        "letra": "D",
+        "texto": "a parte que revogar o mandato outorgado ao seu advogado, no mesmo ato, constituirá outro que assuma o patrocínio da causa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "516606",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "João, com 16 (dezesseis) anos de idade, procura o Defensor Público de sua Comarca e relata ter sido vítima de dano moral praticado por um vizinho, que lhe teria imputado a prática de crime de furto em um determinado estabelecimento comercial. João, que tem pais vivos, pretende propor uma demanda judicial para reparação do fato. Nesse sentido, ele poderá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ser autor da referida ação, sem representação de seus pais, uma vez que João tem capacidade processual, eis que se encontra no exercício dos seus direitos e por isso tem capacidade para estar sozinho em juízo;"
+      },
+      {
+        "letra": "B",
+        "texto": "ser autor da ação, assistido por seus pais, uma vez que os incapazes serão representados em juízo para que o processo tenha validade;"
+      },
+      {
+        "letra": "C",
+        "texto": "aguardar a maioridade civil para propor a referida ação judicial, uma vez que, por não ter capacidade de juízo, está impedido de postular a pretensão como autor da ação;"
+      },
+      {
+        "letra": "D",
+        "texto": "demandar, porém sem ser autor da ação, pois dependerá de que um de seus pais ou ambos o façam em nome próprio como autor ou autores da ação, uma vez que João não tem capacidade de direito;"
+      },
+      {
+        "letra": "E",
+        "texto": "demandar em conjunto com seus pais, uma vez que somente sendo ele e seus pais autores da ação esta terá validade, pois João não pode ser autor da ação não tendo capacidade civil."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "514713",
+    "metadata": "Ano: 2015 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Acerca da capacidade processual, marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Juiz, obrigatoriamente, nomeará curador especial ao incapaz, se não tiver representante legal, ou se os interesses deste colidirem com os daquele, bem como ao réu preso e ao revel citado por edital ou com hora certa."
+      },
+      {
+        "letra": "B",
+        "texto": "Os cônjuges são litisconsortes passivos necessários quando a ação versar sobre direitos reais imobiliários ou for fundada em dívidas contraídas pelo marido a bem da família, mas cuja execução tenha de recair sobre o produto do trabalho da mulher ou seus bens reservados."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas ações possessórias, a participação do cônjuge do autor ou do réu somente é indispensável nos casos de composse ou de ato por ambos praticados."
+      },
+      {
+        "letra": "D",
+        "texto": "Serão representados em juízo, ativa e passivamente, a União, os Estados, o Distrito Federal e os Territórios, por seus procuradores, o Município, por seu Prefeito ou procurador, a massa falida e a empresa em recuperação judicial pelo administrador judicial e o espólio, pelo inventariante."
+      },
+      {
+        "letra": "E",
+        "texto": "Verificando a incapacidade processual ou a irregularidade da representação das partes, o juiz, suspendendo o processo, marcará prazo razoável para ser sanado o defeito. Não sendo sanado no prazo, se a providência couber ao autor, o juiz decretará a nulidade do processo, ao réu, decretará sua revelia e, ao terceiro, o excluirá da lide."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "495290",
+    "metadata": "Ano: 2015 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Da ação",
+      "Condições da ação",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "À luz da legislação vigente e da jurisprudência sumulada do Tribunal Superior do Trabalho, analise as seguintes proposições:I - A legitimidade ad causam ativa e passiva consiste na capacidade de ser sujeito da relação processual e a legitimidade ad processum resulta na capacidade de realizar atos processuais com efeitos jurídicos; entretanto, ficam excluídos, dentre outros, os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para o exercício, em ambas as hipóteses, de tais capacitações processuais.II - Os menores impúberes e púberes serão assistidos por seus pais, tutores ou curadores no exercício dos seus direitos em juízo. III - A representação processual em juízo, dos menores púberes, necessita da outorga de procuração por meio de instrumento particular; porém, dos menores impúberes exige-se que o mandato seja conferido mediante instrumento público.IV - 0 inventariante detém capacidade de ser parte na reclamação trabalhista em que o empregado falecer no curso do contrato de trabalho, somente quando devidamente investido como tal pelo Juízo de Família e Sucessões. [V - A União, Estados, Municípios e Distrito Federal, quando representadas em juízo, ativa e passivamente, por seus procuradores, estão dispensados da juntada de instrumento de mandato e de comprovação do ato de nomeação; todavia, as suas autarquias e fundações públicas é imprescindível a outorga de poderes mediante procuração.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as proposições estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as proposições estão incorretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I, II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e V estão incorretas"
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as proposições II, IV e V estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "482532",
+    "metadata": "Ano: 2015 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TCE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Da ação",
+      "Condições da ação",
+      "Sujeitos da relação processual",
+      "Obrigações de entrega de coisa",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual",
+      "Capacidade Postulatória",
+      "Pressuposto processual de existência"
+    ],
+    "enunciado_principal": "Sobre o Direito Processual Civil, julgue os itens a seguir. I. Os pressupostos processuais, diferentemente do que ocorre com as condições da ação, não podem ser aferidos de ofício pelo magistrado, haja vista que o sistema processual brasileiro assenta-se no princípio dispositivo que confere apenas às partes litigantes o poder de provocar o juiz para o exame de tais pressupostos. II. Para propor ação é necessário ter interesse e legitimidade. Para contestar, basta ter legitimidade. III. Admite-se que o cumprimento da sentença seja requerido no juízo do local onde se encontram bens sujeitos à expropriação ou no atual domicílio do executado, não caracterizando ofensa ao princípio do juiz natural. IV. A procuração para o foro em geral, assinada pelo réu, habilita seu advogado os poderes para a maioria dos atos processuais, excetuando-se, entre outros, a receber citação inicial, a ser intimado dos atos processuais e a reconhecer a procedência do pedido, que necessitam de outorga específica constante do instrumento do mandato. Está(ão) CORRETO(S) o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "IV apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "467946",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Quanto à capacidade processual e postulatória,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todas as pessoas, sem exceção, físicas ou jurídicas, têm a capacidade de ser parte, porque são titulares de direitos e obrigações na ordem civil."
+      },
+      {
+        "letra": "B",
+        "texto": "os atos praticados por advogado em situação irregular serão tidos por anuláveis, a requerimento da parte adversa, respondendo o advogado por despesas e perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "a capacidade de ser parte é exclusiva dos entes personalizados, isto é, das pessoas físicas ou jurídicas que tenham personalidade civil."
+      },
+      {
+        "letra": "D",
+        "texto": "se forem demandadas, as sociedades sem personalidade jurídica poderão opor como defesa a irregularidade de sua constituição."
+      },
+      {
+        "letra": "E",
+        "texto": "sem instrumento de mandato, o advogado não será admitido a postular em juízo, em nenhuma hipótese."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464258",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 6ª Região (PE)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "No tocante à capacidade de ser parte, o Código de Processo Civil",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só a reconhece para advogados."
+      },
+      {
+        "letra": "B",
+        "texto": "a reconhece para alguns entes que não possuem personalidade jurídica."
+      },
+      {
+        "letra": "C",
+        "texto": "só a reconhece para as pessoas absoluta ou relativamente incapazes, porque elas devem estar representadas ou assistidas."
+      },
+      {
+        "letra": "D",
+        "texto": "só a reconhece para as pessoas físicas ou jurídicas."
+      },
+      {
+        "letra": "E",
+        "texto": "só a reconhece para as pessoas físicas, porque as pessoas jurídicas devem ser representadas por um administrador."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "598458",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Nossa Senhora do Socorro - SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Sobre legitimidade e intervenção de terceiros, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Haverá substituição processual quando a lei autorizar a parte a pleitear, em nome próprio, direito alheio."
+      },
+      {
+        "letra": "B",
+        "texto": "A alienação da coisa ou do direito litigioso, a título particular, por ato entre vivos, somente admite a intervenção no processo do adquirente ou do cessionário como assistente simples do alienante ou o cedente."
+      },
+      {
+        "letra": "C",
+        "texto": "No chamamento ao processo, a sentença, que julgar procedente a ação, condenando os devedores, valerá como título executivo, em favor do que satisfizer a dívida, para exigi-la, por inteiro, do devedor principal, ou de cada um dos codevedores."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide é obrigatória na ação de indenização, intentada pelo proprietário ou pelo titular de um direito sobre a coisa, toda vez que o responsável pelos prejuízos alegar que praticou o ato por ordem, ou em cumprimento de instruções de terceiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se assistência no processo de execução de título executivo extrajudicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "552945",
+    "metadata": "Ano: 2014 | Banca: IDECAN | Órgão: UFAL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Sobre partes e procuradores, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O habeas corpus somente pode ser impetrado por advogado, mesmo sem procuração."
+      },
+      {
+        "letra": "B",
+        "texto": "A capacidade que se exige da parte para participar do processo é a mesma que se reclama para os atos da vida civil."
+      },
+      {
+        "letra": "C",
+        "texto": "A substituição processual é faculdade excepcional e compreende demandar em nome próprio o pretendido direito de outrem."
+      },
+      {
+        "letra": "D",
+        "texto": "A capacidade de atuar em juízo constitui pressuposto processual, que, se não suprido, impede a formação válida da relação jurídica no processo."
+      },
+      {
+        "letra": "E",
+        "texto": "Parte, no sentido processual, é o sujeito que intervém no contraditório ou que se submete às suas consequências dentro da relação processual."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "429770",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: MPE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "No tocante à capacidade processual,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o réu revel citado por edital tem direito a curador especial, mas não o citado com hora certa, por ter-se ocultado para evitar a citação pessoal."
+      },
+      {
+        "letra": "B",
+        "texto": "se o incapaz menor não está sob poder familiar, porque os pais foram dele destituídos ou faleceram, a ele será nomeado um curador especial."
+      },
+      {
+        "letra": "C",
+        "texto": "os absolutamente incapazes são assistidos, enquanto os relativamente incapazes são representados por seus pais, tutores ou curadores, na forma da lei civil."
+      },
+      {
+        "letra": "D",
+        "texto": "dentre as pessoas físicas, a aptidão para estar em juízo pessoalmente, sem representação nem assistência, é atribuída somente a quem se acha no exercício dos seus direitos, ou seja, às pessoas capazes."
+      },
+      {
+        "letra": "E",
+        "texto": "quando a incapacidade provier do conflito de interesses entre o incapaz e seu representante legal, será nomeado um tutor desses interesses do incapaz."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "362501",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Da ação",
+      "Coisa Julgada no CPC 1973",
+      "Identificação da ação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Respeito ao Formalismo Processual - citação válida, petição inicial apta, etc.",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Compete ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito, com que impugna o pedido do autor, especificando, outrossim, as provas que pretende produzir. Porém, antes de discutir o mérito, o réu pode alegar preliminarmente na peça contestatória, nos termos do Código de Processo Civil, o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Litispendência, coisa julgada, conexão, reconvenção, incapacidade da parte, convenção de arbitragem;"
+      },
+      {
+        "letra": "B",
+        "texto": "Inexistência da citação, incompetência absoluta, inépcia da petição inicial, reconvenção, perempção;"
+      },
+      {
+        "letra": "C",
+        "texto": "Nulidade da citação, incompetência relativa, perempção, continência, conexão, falta de autorização;"
+      },
+      {
+        "letra": "D",
+        "texto": "Continência, carência de ação, defeito de representação, incompetência absoluta, exceção de suspeição;"
+      },
+      {
+        "letra": "E",
+        "texto": "Inépcia da petição inicial, litispendência, coisa julgada, conexão, incapacidade da parte, carência de ação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "616273",
+    "metadata": "Ano: 2013 | Banca: CESGRANRIO | Órgão: LIQUIGÁS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Sílvio tem um filho de 10 anos de idade. O pai pretende defender a pretensão do garoto relativa à matrícula em escola pública de alto nível, no município em que habitam. Sueli, a mãe do menor, ciente, não se opõe ao pretendido. O pai, assim, propõe, em nome próprio, a ação cabível. O magistrado titular da Vara Cível determina a emenda da exordial para adequação quanto à titularidade da ação proposta. Nesse caso, a legitimidade para a causa é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da mãe, pela tradição do sistema e pelo fato de ela ser a responsável pelo lar."
+      },
+      {
+        "letra": "B",
+        "texto": "do genitor, como representante legal do menor."
+      },
+      {
+        "letra": "C",
+        "texto": "do menor, a quem cabe a autoria, sendo representado pelo seu genitor."
+      },
+      {
+        "letra": "D",
+        "texto": "do pai ou da mãe, desde que haja autorização para propor a ação em defesa do menor."
+      },
+      {
+        "letra": "E",
+        "texto": "de ambos os pais, que devem atuar em conjunto na defesa dos interesses do menor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "471552",
+    "metadata": "Ano: 2013 | Banca: IPAD | Órgão: PGE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Analise a veracidade das assertivas: I. Toda pessoa que se acha no exercício dos seus direitos tem capacidade para estar em juízo, devendo os civilmente incapazes ser representados ou assistidos por seus pais, tutores ou curadores, na forma da lei civil. II. O Ministério Público deverá intervir nas causas em que há parte incapaz – quer relativamente, quer absolutamente –, sob pena de nulidade, na hipótese de restar configurado prejuízo ao interesse destes. III. A parte processual será representada em juízo por advogado legalmente habilitado, o qual deverá ser regulamente constituído por meio de instrumento de procuração, não se admitindo que pessoa com capacidade postulatória advogue em causa própria. IV. O advogado poderá, a qualquer tempo, renunciar ao mandato, desde que não tenha havido a prolação de sentença de mérito desfavorável ao seu constituinte, hipótese em que deverá prosseguir no feito até reverter o provimento judicial desfavorável. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "404114",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Acerca das condições da ação e pressupostos processuais aplicáveis ao processo coletivo brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No que se refere ao direito coletivo tutelado, admite-se a transação ou a concessão somente em relação ao MP."
+      },
+      {
+        "letra": "B",
+        "texto": "O MP não tem legitimidade para o ajuizamento de ACP, em face do estado, em defesa de interesses individuais homogêneos, decorrentes de aumento abusivo de taxa de limpeza urbana, por expressa vedação legal."
+      },
+      {
+        "letra": "C",
+        "texto": "A extensão subjetiva da coisa julgada e o efeito erga omnes da sentença coletiva obstam a declaração incidental de inconstitucionalidade, que importaria em transmudar-se tutela jurisdicional coletiva em controle concentrado de normas constitucionais."
+      },
+      {
+        "letra": "D",
+        "texto": "Possui legitimidade autônoma para a propositura de ação coletiva qualquer interessado para a defesa, em juízo, de direito subjetivo de grupo ou categoria de pessoas ligadas com a parte contrária por relação jurídica base."
+      },
+      {
+        "letra": "E",
+        "texto": "Havendo litispendência entre uma ação popular ajuizada pelo cidadão e ACP proposta por um dos legitimados, extingue-se a demanda despachada em segundo lugar."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "354219",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 17ª Região (ES)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade Postulatória"
+    ],
+    "enunciado_principal": "Considere que C tenha proposto ação de indenização em face de D, pleiteando a quantia de R$ 50.000,00 a título de danos materiais e R$ 100.000,00 a título de danos morais, e que o juiz tenha julgado os pedidos parcialmente procedentes, tendo condenado D ao pagamento integral do valor pleiteado a título de danos materiais e considerado a ausência de prova do abalo moral. Com base nessa situação, julgue os itens que se seguem.Caso C seja menor de 16 anos de idade, ele terá tanto legitimidade para a causa quanto legitimidade para o processo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "339519",
+    "metadata": "Ano: 2013 | Banca: TJ-RS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual",
+      "Capacidade Postulatória"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os atos das partes, consistentes em declarações unilaterais ou bilaterais de vontade, produzem, depois de homologadas por sentença, a constituição, a modificação ou a extinção de direitos processuais, sendo que a desistência da ação só produzirá efeito também depois de homologada."
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos das partes, consistentes em declarações unilaterais ou bilaterais de vontade, produzem imediatamente a constituição, a modificação ou a extinção de direitos processuais, sendo que a desistência da ação só produzirá efeito depois de homologada por sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "Os atos das partes, consistentes em declarações unilaterais ou bilaterais de vontade, produzem, depois de homologadas por sentença, a constituição, a modificação ou a extinção de direitos processuais, sendo que a desistência da ação produzirá efeito imediatamente depois de protocolizada."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos das partes, consistentes em declarações unilaterais ou bilaterais de vontade, produzem imediatamente a constituição, a modificação ou a extinção de direitos processuais, sendo que a desistência da ação produzirá efeito imediatamente depois de protocolizada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "335861",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Condições da ação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade Postulatória"
+    ],
+    "enunciado_principal": "Acerca dos pressupostos processuais relativos às partes, é acertado dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a capacidade de ser parte depende da personalidade jurídica e dela é decorrente, de sorte que somente as pessoas naturais e as pessoas jurídicas dispõem de capacidade de ser parte."
+      },
+      {
+        "letra": "B",
+        "texto": "os incapazes dispõem de capacidade postulatória se devidamente representados ou assistidos por seus pais, tutores ou curadores."
+      },
+      {
+        "letra": "C",
+        "texto": "não obstante tenha capacidade de ser parte, faltará legitimidade processual àquele que intentar, sem consentimento do cônjuge, ações que versem sobre direitos reais de qualquer natureza."
+      },
+      {
+        "letra": "D",
+        "texto": "o nascituro tem capacidade de ser parte, mas se nascer morto, o processo se extinguirá."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "331632",
+    "metadata": "Ano: 2013 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Quanto à interdição de incapaz, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Ministério Público tem legitimidade para requerer a interdição apenas em caso de anomalia psíquica;"
+      },
+      {
+        "letra": "B",
+        "texto": "O Ministério Púbico tem legitimidade quando as pessoas legitimadas forem menores ou incapazes;"
+      },
+      {
+        "letra": "C",
+        "texto": "O tutor não tem legitimidade para requerer a interdição de seu tutelado;"
+      },
+      {
+        "letra": "D",
+        "texto": "A sentença de interdição produz efeitos desde logo, embora sujeita à apelação;"
+      },
+      {
+        "letra": "E",
+        "texto": "O pedido de levantamento da interdição não pode ser realizado pelo interditado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322356",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Da ação",
+      "Condições da ação",
+      "Sujeitos da relação processual",
+      "Processo de execução",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Acerca da execução, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o título executivo extrajudicial não apresente valor líquido e certo, faz-se necessária a liquidação por cálculo mediante demonstrativo de débito."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite-se o litisconsórcio na execução, com exceção do ulterior ou superveniente."
+      },
+      {
+        "letra": "C",
+        "texto": "O adimplemento do devedor e a posse de título de crédito pelo credor constituem pressupostos específicos do processo executivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A sentença arbitral inclui-se entre os títulos executivos extrajudiciais."
+      },
+      {
+        "letra": "E",
+        "texto": "No processo de execução, a legitimidade ativa é caracterizada como ordinária, extraordinária ou sucessiva."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "322160",
+    "metadata": "Ano: 2013 | Banca: TJ-RS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Auxiliares de Justiça",
+      "Juiz no CPC 1973",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As sociedades sem personalidade jurídica, quando demandadas, poderão opor a irregularidade de sua constituição."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando o inventariante for dativo, todos os herdeiros e sucessores do falecido serão autores ou réus nas ações em que o espólio for parte."
+      },
+      {
+        "letra": "C",
+        "texto": "A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios, que somente não serão devidos nos casos em que o advogado funcionar em causa própria."
+      },
+      {
+        "letra": "D",
+        "texto": "Verificando a incapacidade processual, ou a irregularidade da representação das partes, o juiz, de plano, extinguirá o processo sem resolução do mérito."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "397656",
+    "metadata": "Ano: 2012 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "João pretende cobrar judicialmente Antônio por débito por este contraído. Antes do ajuizamento da demanda, João toma conhecimento de que Antônio faleceu, tendo sido aberto inventário com nomeação de inventariante dativo. João deverá mover a demanda em face",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do cônjuge de Antônio."
+      },
+      {
+        "letra": "B",
+        "texto": "do espólio de Antônio, representado pelo inventariante dativo."
+      },
+      {
+        "letra": "C",
+        "texto": "dos herdeiros e sucessores de Antônio."
+      },
+      {
+        "letra": "D",
+        "texto": "do espólio de Antônio, representado pelo cônjuge sobre- vivente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "270482",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual",
+      "Respostas do réu - Contestação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Considerando o disposto no Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ônus da impugnação específica dos fatos, na contestação, não se aplica ao curador especial, ao órgão do Ministério Público e ao advogado dativo."
+      },
+      {
+        "letra": "B",
+        "texto": "os absolutamente incapazes serão representados em juízo, na forma da lei, por não possuírem capacidade para figurar no polo ativo ou passivo da lide."
+      },
+      {
+        "letra": "C",
+        "texto": "a apelação interposta contra sentença que julgar procedente o pedido de instituição de arbitragem será recebida em ambos os efeitos, devolutivo e suspensivo."
+      },
+      {
+        "letra": "D",
+        "texto": "verificando a incapacidade processual ou a irregularidade de representação das partes, o juiz deve excluir, de imediato, o terceiro do processo, se a irregularidade a ele se referir."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "707090",
+    "metadata": "Ano: 2011 | Banca: MPE-PB | Órgão: MPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Respostas do réu - Contestação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Julgue as seguintes assertivas: I - A preexistência de compromisso arbitral deve ser alegada, em preliminar, na contestação, sob pena de preclusão. II - A lei que se aplica em questões processuais deve ser a que estiver em vigência no tempo em que ocorreu o ato material. III - A capacidade de ser parte no processo civil não se restringe apenas às pessoas naturais e jurídicas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas II está errada."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III estão erradas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "(Abstenção de resposta - Seção VIII, item 11, do Edital do Concurso)."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

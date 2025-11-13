@@ -1,0 +1,710 @@
+[
+  {
+    "id": "685497",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara Municipal de Poá - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Serão ouvidos como prova em audiência na seguinte ordem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perito e assistentes técnicos; depoimentos pessoais, primeiro do autor e depois do réu; testemunhas arroladas pelo autor e pelo réu."
+      },
+      {
+        "letra": "B",
+        "texto": "depoimentos pessoais, primeiro do autor e depois do réu, testemunhas arroladas pelo autor e pelo réu; perito e assistentes técnicos."
+      },
+      {
+        "letra": "C",
+        "texto": "perito e assistentes técnicos; testemunhas arroladas pelo autor e pelo réu; depoimentos pessoais, primeiro do autor e depois do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "depoimentos pessoais, primeiro do autor e depois do réu; perito e assistentes técnicos; testemunhas arroladas pelo autor e pelo réu."
+      },
+      {
+        "letra": "E",
+        "texto": "testemunhas arroladas pelo autor e pelo réu; perito e assistentes técnicos; depoimentos pessoais, primeiro do autor e depois do réu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "614960",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, na audiência de instrução",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o Juiz poderá dispensar a produção das provas requeridas pela parte cujo advogado tiver se ausentado injustificadamente."
+      },
+      {
+        "letra": "B",
+        "texto": "o Juiz não pode tentar nova conciliação entre as partes."
+      },
+      {
+        "letra": "C",
+        "texto": "o perito responderá a qualquer pergunta formulada pelas partes, seja qual for o objeto do questionamento, independentemente da elaboração prévia de quesitos de esclarecimentos."
+      },
+      {
+        "letra": "D",
+        "texto": "as testemunhas do juízo são inquiridas sempre depois das do réu."
+      },
+      {
+        "letra": "E",
+        "texto": "finda a instrução, o Juiz abrirá prazo para apresentação de alegações-finais, a serem apresentadas necessariamente na forma escrita."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "611774",
+    "metadata": "Ano: 2016 | Banca: Planejar Consultoria | Órgão: Prefeitura de Lauro de Freitas - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Poderá o juiz limitar o número de pessoas e determinar a retirada daquelas que se portarem de forma inconveniente em audiência, exercendo: Neves, Daniel Amorim Assumpção Manual de direito processual civil/Daniel Amorim Assumpção Neves. -4 . Ed. Ver., atual. E ampl. - Rio de Janeiro: Forense; São Paulo: MÉTODO, 2012. Pg. 480.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poder de policia"
+      },
+      {
+        "letra": "B",
+        "texto": "Poder de chefe"
+      },
+      {
+        "letra": "C",
+        "texto": "Poder do Magistrado"
+      },
+      {
+        "letra": "D",
+        "texto": "Poder do Juiz Natural"
+      },
+      {
+        "letra": "E",
+        "texto": "Poder da ação"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "616152",
+    "metadata": "Ano: 2015 | Banca: CEPERJ | Órgão: Prefeitura de Saquarema - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "O procedimento sumário previsto no Código de Processo Civil deve ser aplicado, em princípio, às pequenas causas cujo valor não exceder sessenta salários mínimos ou nas causas consideradas de menor complexidade como as relacionadas a arrendamento. No referido procedimento, surge a audiência de conciliação obrigatória. A audiência de instrução e julgamento, nos termos do Código de Processo Civil, quando necessária, deverá ser designada para data próxima, não excedente de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trinta dias"
+      },
+      {
+        "letra": "B",
+        "texto": "quarenta dias"
+      },
+      {
+        "letra": "C",
+        "texto": "cinquenta dias"
+      },
+      {
+        "letra": "D",
+        "texto": "sessenta dias"
+      },
+      {
+        "letra": "E",
+        "texto": "setenta dias"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "597312",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Em uma audiência de instrução e julgamento, o juiz, ao conduzir os trabalhos, primeiro colheu o depoimento pessoal do autor, na presença do réu, e o do réu, também com a presença do autor, logo após, fez a oitiva das testemunhas, primeiro as do réu e depois as do autor, e por fim escutou o perito para fins de esclarecimentos. Diante do quadro exposto, e do que determina expressamente o Código de Processo Civil, é correto afirmar que o juiz",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acertou na sua conduta, tendo em vista que oportunizou às partes valerem-se da ampla defesa e do contraditório nessa fase do processo, conhecida como postulatória."
+      },
+      {
+        "letra": "B",
+        "texto": "errou, uma vez que o depoimento pessoal do autor só pode ser colhido na ausência do réu, sendo que nos demais atos praticados durante a audiência de instrução e julgamento observou rigorosamente as regras do Código de Processo Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "errou em todos os seus atos, tendo em vista que primeiramente deveria ter colhido o depoimento do perito, para após colher o depoimento pessoal do autor, na ausência do réu, e, enfim, o depoimento pessoal do réu e, após, realizar a oitiva das testemunhas do autor em primeiro lugar, para depois ouvir as do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "acertou na sua conduta, tendo em vista que oportunizou às partes valerem-se da ampla defesa e do contraditório nessa fase do processo, conhecida como instrutória."
+      },
+      {
+        "letra": "E",
+        "texto": "errou, uma vez que o depoimento pessoal do autor só pode ser colhido na ausência do réu, e, ainda, por que trocou a ordem das provas orais, sendo que primeiro deveria ter colhido o depoimento das testemunhas do autor, depois as do réu, para após colher o depoimento pessoal das partes e, por fim, ter arguido o perito para que prestasse esclarecimentos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "587982",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Assinale a opção correta relativamente ao direito probatório e à audiência no processo civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O documento lavrado por servidor público incompetente, mas subscrito pelas partes, não perde a fé pública."
+      },
+      {
+        "letra": "B",
+        "texto": "O menor de dezesseis anos pode depor como testemunha no processo civil."
+      },
+      {
+        "letra": "C",
+        "texto": "A confissão espontânea pode ser feita por mandatário com poderes especiais."
+      },
+      {
+        "letra": "D",
+        "texto": "Com fundamento no princípio da verdade material, o juiz não poderá dispensar a produção de prova requerida pela parte cujo advogado não compareceu à audiência."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz poderá, de ofício, determinar o comparecimento pessoal das partes com o propósito de interrogá-las sobre os pontos controversos da demanda; todavia, se a parte intimada não comparecer, não lhe poderá aplicar a pena de confissão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "570820",
+    "metadata": "Ano: 2015 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Durante audiência de instrução e julgamento, em ação indenizatória de danos materiais e morais supostamente causados em atropelamento, passa-se à oitiva de testemunha previamente arrolada nos termos da lei, um médico que fizera o primeiro atendimento do autor, no dia do acidente. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mesmo tendo presenciado os fatos, devido aos seus conhecimentos técnicos específicos, o médico em questão somente poderia ser ouvido na condição de perito."
+      },
+      {
+        "letra": "B",
+        "texto": "o médico deverá depor sobre os fatos que presenciou, podendo ser considerado suspeito se tiver sido condenado por crime de falso testemunho,com decisão transitada em julgado."
+      },
+      {
+        "letra": "C",
+        "texto": "a parte não poderá gravar a inquirição da testemunha, salvo com autorização judicial específica, que deverá ser postulada em até 24 horas do início da audiência."
+      },
+      {
+        "letra": "D",
+        "texto": "mesmo que o autor da ação autorize por escrito a quebra de sigilo, o médico não poderá depor sobre fatos que tiver conhecido no exercício da profissão, devendo escusar-se de responder às perguntas formuladas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "552567",
+    "metadata": "Ano: 2015 | Banca: NC-UFPR | Órgão: ITAIPU BINACIONAL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Em relação às audiências previstas no Código de Processo Civil, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em virtude do direito ao contraditório e à ampla defesa, o juiz deve determinar a produção das provas requeridas pela parte cujo advogado não compareceu à audiência."
+      },
+      {
+        "letra": "B",
+        "texto": "Encerrados os debates orais na audiência de instrução e julgamento, o juiz proferirá a sentença desde logo ou no prazo de vinte dias."
+      },
+      {
+        "letra": "C",
+        "texto": "O adiamento da audiência por convenção das partes é admitido, desde que, no máximo, por três vezes."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o litígio versar sobre direitos patrimoniais de caráter privado, o juiz, de ofício, determinará o comparecimento das partes ao início da audiência de instrução e julgamento para tentativa de conciliação."
+      },
+      {
+        "letra": "E",
+        "texto": "As provas devem ser produzidas em audiência na seguinte ordem: depoimento pessoal das partes, esclarecimentos do perito, testemunhas do autor, testemunhas do réu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "512406",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Durante audiência de Instrução e Julgamento foi emitida e publicada sentença, presentes partes e advogados, devidamente intimados. Nesse caso, o prazo para recorrer começa a fluir",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imediatamente, contando-se o dia da audiência."
+      },
+      {
+        "letra": "B",
+        "texto": "imediatamente, começando a contagem a ser feita no primeiro dia útil subsequente à audiência."
+      },
+      {
+        "letra": "C",
+        "texto": "da publicação na imprensa oficial e não na audiência."
+      },
+      {
+        "letra": "D",
+        "texto": "imediatamente, desde que a parte sucumbente, ainda em audiência, faça manifestação expressa no sentido de que irá recorrer."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "526287",
+    "metadata": "Ano: 2014 | Banca: CEPERJ | Órgão: FSC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "A audiência de instrução e julgamento é um dos atos mais importantes do processo em que ocorre a produção de prova oral. De acordo com o Código de Processo Civil, no dia e hora designados, o juiz declarará aberta a audiência, mandando realizar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o pregão"
+      },
+      {
+        "letra": "B",
+        "texto": "o leilão"
+      },
+      {
+        "letra": "C",
+        "texto": "a caução"
+      },
+      {
+        "letra": "D",
+        "texto": "a reunião"
+      },
+      {
+        "letra": "E",
+        "texto": "a intimação"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464870",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "No tocante à audiência, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a ordem de produção das provas é ato judicial, de acordo com as peculiaridades da causa."
+      },
+      {
+        "letra": "B",
+        "texto": "antes de iniciar a instrução, é faculdade do juiz tentar a conciliação das partes; se obtida, será tomada por termo nos autos."
+      },
+      {
+        "letra": "C",
+        "texto": "ao iniciar a instrução, o juiz, como ato de ofício e sem oitiva das partes, fixará os pontos de litígio sobre os quais incidirá prova."
+      },
+      {
+        "letra": "D",
+        "texto": "quando o litígio versar sobre direitos patrimoniais de caráter privado, o juiz, de ofício, determinará o comparecimento das partes ao início da instrução e julgamento."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá haver seu adiamento, no caso de convenção das partes, por no máximo três vezes, desde que estejam em busca de acordo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "458612",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Durante audiência de instrução e julgamento em processo que tramita sob o rito ordinário houve indeferimento de pergunta do Defensor Público dirigida a uma das testemunhas, havendo evidente prejuízo à parte assistida pela Defensoria Pública. No caso, a medida correta seria a de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "interpor agravo de instrumento, postulando o recebimento e abertura de prazo para formação do instrumento e remessa ao Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "interpor agravo de instrumento, oral e imediatamente, constando do termo de audiência."
+      },
+      {
+        "letra": "C",
+        "texto": "arguir nulidade, postulando que conste tal arguição no termo de audiência, objetivando posterior interposição do recurso de agravo retido, por petição dirigida ao Juiz da causa, no prazo de 10 (dez) dias."
+      },
+      {
+        "letra": "D",
+        "texto": "interpor, de forma oral, agravo retido imediatamente à decisão proferida, expondo sucintamente as razões."
+      },
+      {
+        "letra": "E",
+        "texto": "interpor agravo de instrumento no prazo de 10 (dez) dias, após arguida nulidade durante a audiência, tendo tal constado do termo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "447571",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SP-URBANISMO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "A respeito das audiências previstas no Código de Processo Civil, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vige o sistema de reperguntas, onde os advogados das partes dirigem seus questionamentos diretamente para quem é inquirido e o indagado deve responder apenas para o juiz."
+      },
+      {
+        "letra": "B",
+        "texto": "quando o litígio versar sobre direitos patrimoniais de caráter privado, o juiz, de ofício, determinará o comparecimento das partes ao início da audiência de instrução e julgamento para tentativa de conciliação."
+      },
+      {
+        "letra": "C",
+        "texto": "encerrados os debates na audiência de instrução e julgamento, o juiz proferirá a sentença desde logo ou no prazo de quinze dias."
+      },
+      {
+        "letra": "D",
+        "texto": "a audiência não poderá ser adiada por convenção das partes, uma vez que a sua designação é ato imperativo do juízo."
+      },
+      {
+        "letra": "E",
+        "texto": "as provas devem ser produzidas em audiência na seguinte ordem: depoimento pessoal das partes, esclarecimentos do perito, testemunhas do autor, testemunhas do réu."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "385371",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: UFBA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ",
+      "Audiência Preliminar"
+    ],
+    "enunciado_principal": "No tocante às audiências previstas no Código de Processo Civil (CPC), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode-se dizer que o comparecimento das partes na audiência preliminar do artigo 331 do Código de Processo Civil é facultativa, sendo que a única consequência advinda do não comparecimento é a frustação da conciliação."
+      },
+      {
+        "letra": "B",
+        "texto": "A audiência poderá ser adiada, se não puder comparecer o advogado da parte, por motivo justificado, desde que ele prove esse impedimento no prazo de cinco dias, contados do ato processual."
+      },
+      {
+        "letra": "C",
+        "texto": "A produção de provas na audiência de instrução e julgamento segue a seguinte ordem: depoimento pessoal do autor; inquirição das testemunhas; esclarecimentos dos peritos, dos assistentes técnicos e depoimento pessoal do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "A testemunha intimada a comparecer à audiência, se nada puder informar a respeito dos fatos, não será obrigada a comparecer."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve o juiz recusar-se a ouvir testemunha que chegue tardiamente à audiência em curso e que não atenda ao chamado no momento em que seja apregoada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "484669",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: MPE-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "A audiência de instrução e julgamento poderá ser adiada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todas as vezes que qualquer uma das partes solicitar."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas quando houver requerimento da parte autora."
+      },
+      {
+        "letra": "C",
+        "texto": "por convenção das partes, caso em que só será admissível uma vez."
+      },
+      {
+        "letra": "D",
+        "texto": "quando o Ministério Público requerer a extinção do processo."
+      },
+      {
+        "letra": "E",
+        "texto": "a pedido de terceiro interessado que pretende ingressar no feito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "410542",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Dos Atos Processuais",
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Procedimento sumário",
+      "Revelia",
+      "Forma",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Em relação a procedimento, resposta do réu e provas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O documento lavrado sem observância das formalidades legais pelo oficial de registros públicos ou pelo tabelião competente não é apto a substituir instrumento público que a lei exija como prova da substância do ato."
+      },
+      {
+        "letra": "B",
+        "texto": "A aplicação dos efeitos da revelia em ação reivindicatória não contestada pelo réu é possível ainda que essa ação tenha sido ajuizada sem documentação comprobatória da propriedade do imóvel."
+      },
+      {
+        "letra": "C",
+        "texto": "O rito sumário deve ser adotado em ação de investigação de paternidade com valor da causa fixado em quarenta salários mínimos."
+      },
+      {
+        "letra": "D",
+        "texto": "Viola o princípio do contraditório e da ampla defesa a negativa de produção de prova oral solicitada pelo réu no âmbito de ação ordinária cuja questão de mérito seja unicamente de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Se um juiz determinar, de ofício, o comparecimento de réu a audiência de instrução e julgamento, faltar a essa audiência, ser-lhe-ão impostos os efeitos da revelia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "314286",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Em uma audiência, se ausente a parte que deveria prestar depoimento pessoal, desde que intimada de modo regular, por requerimento da parte contrária, a ela será aplicada, pelo juiz, a pena de confissão.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "303718",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Telebras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Serão presumidos verdadeiros os fatos alegados pela defesa do réu, se o autor, sem justo motivo, deixar de comparecer à audiência de instrução para a qual foi intimado para prestar depoimento pessoal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "487545",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em todas as ações admitidas no processo civil, a parte pode fazer-se representar por preposto na audiência preliminar."
+      },
+      {
+        "letra": "B",
+        "texto": "A decadência e a prescrição referem-se à extinção de determinada eficácia jurídica. Enquanto a primeira se revela pela perda do direito potestativo, em razão do seu não exercício no prazo legal, a segunda, revela-se em razão do não exercício de um direito em um determinado lapso de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificada a morte ou a incapacidade processual da parte ou de seu representante legal, após o início da audiência de instrução e julgamento, o juiz não suspenderá o processo, que prosseguirá até a prolação da decisão final"
+      },
+      {
+        "letra": "D",
+        "texto": "Ultrapassada a fase das providências preliminares e, não ocorrendo as hipóteses legais relativas às causas de extinção do processo, sem e com resolução de mérito, em razão da autocomposição, prescrição, decadência ou julgamento antecipado da lide, caberá ao juiz, em qualquer caso, designar audiência para a tomada do depoimento das partes e das testemunhas."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando a sentença de mérito de uma determinada ação depender do julgamento de outra causa, ou da declaração de existência ou inexistência da relação jurídica, que constitua o objeto principal de outro processo pendente, o segundo processo será suspenso."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "293407",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Prazos",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "A Administração Pública submete-se ao controle judicial, cabendo ao Poder Judiciário – que detém o monopólio da função jurisdicional – analisar os atos por ela perpetrados, de qualquer natureza, sejam gerais ou individuais, unilaterais ou bilaterais, vinculados ou discricionários, em especial sob os aspectos da legalidade e da moralidade. Em juízo, A Administração Pública traz consigo alguns privilégios, com EXCEÇÃO de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prazos dilatados, contando com tempo em quádruplo para contestar e em dobro para recorrer."
+      },
+      {
+        "letra": "B",
+        "texto": "Pagamento, ao final, das despesas provenientes dos atos processuais postulados por seus representantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Processo especial para cumprimento das obrigações pecuniárias impostas em sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "Duplo grau de jurisdição, não produzindo efeitos senão depois de confirmada pelo tribunal, a sentença prolatada em seu desfavor, independentemente do valor da condenação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "535314",
+    "metadata": "Ano: 2011 | Banca: PGE-PA | Órgão: PGE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Procedimento ordinário",
+      "Conceito e características da jurisdição",
+      "Prova testemunhal",
+      "Providências Preliminares: Especificação de Provas",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA: I - A jurisdição civil, contenciosa e voluntária, é exercida pelos juízes em todo território nacional, e somente será prestada quando a parte ou o interessado a requerer, nos casos e formas legais. II - A audiência de instrução e julgamento poderá ser adiada por convenção das partes, caso em que só será admissível por duas vezes. III - Quando for arrolado como testemunha o Juiz do feito, e este nada souber, mandará excluir seu nome do rol de testemunhas. IV - As modificações da situação de fato posteriores à propositura da ação são consideradas normalmente no deslinde do processo, salvo se suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia. V - O juiz poderá, de ofício, ou a requerimento das partes, determinar as medidas necessárias para a efetivação da tutela específica, dentre outros, a busca e apreensão, remoção de pessoas e coisas, desde que não seja necessária a requisição de força policial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as proposições I, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as proposições II, III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as proposições III, IV e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as proposições II, IV e V estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as proposições II e V estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "481347",
+    "metadata": "Ano: 2010 | Banca: CONSULTEC | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "A audiência de instrução e julgamento pode",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ser dirigida por juiz leigo, independente de supervisão do juiz togado."
+      },
+      {
+        "letra": "B",
+        "texto": "ser dirigida por conciliador, mediante supervisão do juiz togado."
+      },
+      {
+        "letra": "C",
+        "texto": "transcorrer com a inquirição de testemunhas que deverão ser trazidas pelas partes, não cabendo requerer sua intimação ao juízo em nome da celeridade processual."
+      },
+      {
+        "letra": "D",
+        "texto": "transcorrer com inquirição de técnicos de sua confiança, permitidas às partes a formulação e perguntas, mas não a apresentação de parecer técnico de seu assistente."
+      },
+      {
+        "letra": "E",
+        "texto": "transcorrer com inspeção judicial em pessoas ou coisas, ou determinar o juiz que o faça pessoa de sua confiança, que lhe relatará informalmente o verificado."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

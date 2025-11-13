@@ -1,0 +1,223 @@
+[
+  {
+    "id": "620592",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Considerando a legislação processual, a doutrina e a jurisprudência dominante nos tribunais superiores, assinale a opção correta quanto à defesa do devedor no processo de execução e na fase de cumprimento de sentença.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consoante o entendimento pacificado pelo STJ, é cabível o oferecimento de reconvenção em embargos à execução."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando de execução de título extrajudicial, a competência para o julgamento dos embargos do devedor é funcional absoluta do juízo da execução, mas, se a constrição for feita por carta precatória, o juízo deprecado poderá julgar os embargos que versem unicamente sobre vícios ou defeitos da penhora."
+      },
+      {
+        "letra": "C",
+        "texto": "A garantia do juízo é dispensada para a impugnação ao cumprimento de sentença e somente interessa para fins de concessão de efeito suspensivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Na execução de alimentos pelo rito do art. 733 do CPC, o acolhimento da justificativa do devedor acerca da impossibilidade de efetuar o pagamento das prestações alimentícias desautoriza a decretação de sua prisão e acarreta a extinção da execução, que deverá ser renovada em observância ao rito da penhora."
+      },
+      {
+        "letra": "E",
+        "texto": "Para fins de cobrança da multa pelo descumprimento da obrigação de fazer ou não fazer, é necessária a prévia intimação do devedor, que poderá ser feita por meio de publicação oficial se houver advogado previamente constituído."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "600802",
+    "metadata": "Ano: 2016 | Banca: FAU | Órgão: Prefeitura de Chopinzinho - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Os embargos do devedor, também chamados de embargos à execução, são o meio processual de defesa do executado na ação de execução de um título executivo. Os embargos do devedor:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Serão recebidos no efeito suspensivo, conforme regra geral."
+      },
+      {
+        "letra": "B",
+        "texto": "Serão oferecidos no prazo de 15 dias, contados da data da juntada aos autos do mandado de citação devidamente cumprido."
+      },
+      {
+        "letra": "C",
+        "texto": "Deverão, necessariamente, ser opostos após garantia do juízo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não podem ser rejeitados liminarmente, exigindo sempre julgamento meritório das razões aduzidas nos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "Serão oferecidos no prazo de 15 dias, contados da data de citação do executado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "604218",
+    "metadata": "Ano: 2015 | Banca: IBFC | Órgão: Docas - PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta conforme as disposições da Lei federal n° 5.869, de 11/01/1973, que instituiu o código de processo civil brasileiro sobre os embargos do devedor na ação de execução.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dependem de depósito no valor integral da dívida para serem julgados, independentemente das razões do embargante."
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre têm efeito suspensivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem ter efeito suspensivo em caso de risco de prejuízo de grave e incerta reparação, mas não impedirão a efetivação dos atos de penhora e de avaliação dos bens."
+      },
+      {
+        "letra": "D",
+        "texto": "Podem versar apenas sobre matéria jurídica que possa ser conhecida de plano e que deva ser conhecida de ofício pelo juiz."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1199385",
+    "metadata": "Ano: 2012 | Banca: CONSULPLAN | Órgão: MPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Assinale a alternativa que destoa das orientações processuais relacionadas às disposições gerais dos EMBARGOS DO DEVEDOR:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando houver mais de um executado, o prazo para cada um deles embargar conta‐se a partir da juntada do respectivo mandado citatório, salvo tratando‐se de cônjuges."
+      },
+      {
+        "letra": "B",
+        "texto": "A concessão de efeito suspensivo não impedirá a efetivação dos atos de penhora e de avaliação dos bens"
+      },
+      {
+        "letra": "C",
+        "texto": "A cobrança de multa ou de indenização decorrentes de litigância de má‐fé será promovida no próprio processo de execução, em autos apensos, operando‐ se por compensação ou por execução."
+      },
+      {
+        "letra": "D",
+        "texto": "No caso de embargos manifestamente protelatórios, o juiz imporá ao embargante o pagamento, a título de indenização por litigância de má‐fé, de valor não superior a 1% sobre o valor da causa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "341134",
+    "metadata": "Ano: 2012 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Processo de execução",
+      "Ação Monitória no CPC 1973",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Julgue as três proposições que se seguem e assinale a única alternativa correta. I - Há excesso de execução se o credor não provar que a condição prevista no título se realizou. II - Cabe a citação por edital em ação monitória mas, nesta hipótese, tornando-se revel o devedor, o juiz dar- lhe-á curador especial, a fim de que sejam, obrigatoriamente, oferecidos embargos. III - Não são admitidos os embargos do executado que, sem nenhuma ressalva ou esclarecimento prévio, deposita em juízo, logo após citado, o valor da dívida executada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e II estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as proposições estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a proposição III está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "133834",
+    "metadata": "Ano: 2011 | Banca: TJ-RO | Órgão: TJ-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Dadas as assertivas abaixo, assinale a única CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São espécies de resposta do demandado no processo cautelar: contestação, exceção e reconvenção."
+      },
+      {
+        "letra": "B",
+        "texto": "Em regra, o juiz deverá conceder medidas cautelares sem a audiência das partes, por se tratar de tutelas de urgência."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se pode cogitar a formação, em nenhuma hipótese, de coisa julgada material no processo cautelar."
+      },
+      {
+        "letra": "D",
+        "texto": "A matéria veiculada na defesa em uma demanda de homologação de penhor legal é restrita, podendo apenas alegar: nulidade do processo, extinção da obrigação e não estar a dívida compreendida entre as previstas em lei ou não estarem os bens sujeitos a penhor legal."
+      },
+      {
+        "letra": "E",
+        "texto": "Se por qualquer motivo cessar a medida cautelar, é permitido à parte repetir o pedido com os mesmos fundamentos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "391112",
+    "metadata": "Ano: 2009 | Banca: FUMARC | Órgão: DPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Embargos do Devedor"
+    ],
+    "enunciado_principal": "Sobre os embargos de devedor, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A concessão de efeito suspensivo não impede a realização da penhora e a avaliação dos bens."
+      },
+      {
+        "letra": "B",
+        "texto": "Na execução por carta, serão julgados pelo juízo deprecante quando versarem, exclusivamente, sobre vício de citação do executado."
+      },
+      {
+        "letra": "C",
+        "texto": "Conta-se em dobro o prazo para sua oposição, quando se tratarem de executados com procuradores diferentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Opostos pelo executado embargos à alienação de seus bens, poderá o adquirente desistir da aquisição."
+      },
+      {
+        "letra": "E",
+        "texto": "Serão opostos no prazo de 15 (quinze) dias, independentemente da segurança do juízo."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

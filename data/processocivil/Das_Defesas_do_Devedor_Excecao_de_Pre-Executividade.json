@@ -1,0 +1,138 @@
+[
+  {
+    "id": "555479",
+    "metadata": "Ano: 2015 | Banca: ESAF | Órgão: PGFN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Exceção de Pré-Executividade"
+    ],
+    "enunciado_principal": "Ao apreciar exceção de pré-executividade em que o executado alegou prescrição, o juiz entendeu que o crédito tributário não estava prescrito, decisão que transitou em julgado, sem impugnação das partes. Diante deste panorama, indique a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Essa decisão é uma sentença, pois apreciou o mérito da demanda, e poderia ter sido impugnada pelo recurso de apelação. Diante da não impugnação, formou-se coisa julgada material."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de decisão interlocutória, que poderia ter sido impugnada por meio de agravo de instrumento. Por não se tratar de sentença, não houve formação de coisa julgada material."
+      },
+      {
+        "letra": "C",
+        "texto": "Por não haver urgência, o instrumento adequado à impugnação da referida decisão era o agravo retido, que deveria ser reiterado nas razões de apelação."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de decisão interlocutória, que poderia ter sido impugnada por meio de agravo de instrumento. Por tratar do mérito da demanda, tem plena aptidão de formar coisa julgada material."
+      },
+      {
+        "letra": "E",
+        "texto": "A prescrição, por se tratar de questão de ordem pública, pode ser novamente veiculada em futuros embargos à execução, não havendo de se cogitar em formação de coisa julgada material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "598463",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Nossa Senhora do Socorro - SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Exceção de Pré-Executividade"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas: I. A decisão que acolhe a exceção de preexecutividade extingue a execução. II. É cabível a condenação da Fazenda Pública em honorários advocatícios; quando acolhida a exceção de preexecutividade. Diante de tais afirmativas, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As duas são verdadeiras; e a segunda justifica a primeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As duas são verdadeiras; e a segunda não justifica a primeira."
+      },
+      {
+        "letra": "C",
+        "texto": "A primeira é verdadeira; e a segunda é falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A primeira é falsa; e a segunda é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As duas são falsas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "392509",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Câmara Municipal de São José dos Campos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Exceção de Pré-Executividade"
+    ],
+    "enunciado_principal": "Consoante jurisprudência do Superior Tribunal de Justiça, a chamada exceção de pré-executividade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não enseja a condenação ao pagamento de honorários advocatícios, quando dela resultar a extinção apenas parcial da execução."
+      },
+      {
+        "letra": "B",
+        "texto": "não é cabível no cumprimento de sentença, porquanto a impugnação ao cumprimento de sentença não exige prévia garantia do juízo."
+      },
+      {
+        "letra": "C",
+        "texto": "não admite dilação probatória, mas pode ser apresentada a qualquer tempo e grau de jurisdição."
+      },
+      {
+        "letra": "D",
+        "texto": "possibilita ao devedor produzir prova oral dos fatos nos quais ampara sua defesa, desde que se trate de questão de ordem pública."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser apresentada no prazo de 15 dias, contados da citação do executado, sob pena de preclusão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "352438",
+    "metadata": "Ano: 2012 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Sujeitos da relação processual",
+      "Impugnação ao cumprimento de sentença",
+      "Processo de execução",
+      "Das Defesas do Devedor: Exceção de Pré-Executividade"
+    ],
+    "enunciado_principal": "Segundo orientação do Superior Tribunal de Justiça, dadas as assertivas abaixo, assinale a alternativa correta. I. O advogado não pode ser penalizado nos autos em que supostamente atua como litigante de má-fé, salvo quando incorrer em falta profissional. II. É cabível a fixação de honorários advocatícios em favor da Defensoria Pública, salvo quando ela atua contra a pessoa jurídica de direito público à qual pertença. III. Na impugnação ao cumprimento de sentença, não serão cabíveis honorários advocatícios quando ela for rejeitada. IV. Acolhida, total ou parcialmente, a exceção de pré-executividade na execução fiscal, é cabível a fixação de honorários advocatícios em favor do excipiente. V. No processo de execução, o cessionário, quando o direito resultante do título executivo lhe foi transferido por ato entre vivos, poderá substituir o exequente, independentemente da anuência da parte executada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I, II e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas I, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas apenas as assertivas II, III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "Estão corretas todas as assertivas."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

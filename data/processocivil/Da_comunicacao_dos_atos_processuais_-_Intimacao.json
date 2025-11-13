@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "599857",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Sentença",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Conceito e Classificação do Litisconsórcio",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "A usucapião é uma modalidade de aquisição da propriedade de bens móveis ou imóveis mediante o exercício da posse, nos prazos fixados em lei. Em relação à usucapião de imóveis,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o litisconsórcio entre a pessoa cujo nome se encontra registrado o imóvel e os proprietários dos imóveis confinantes é classificado como passivo, necessário e unitário."
+      },
+      {
+        "letra": "B",
+        "texto": "os bens públicos e aqueles pertencentes às sociedades de economia mista não podem ser objeto de usucapião."
+      },
+      {
+        "letra": "C",
+        "texto": "os representantes da fazenda pública da União, Estados, Distrito Federal, Territórios e municípios serão intimados, via postal, para que manifestem interesse na causa."
+      },
+      {
+        "letra": "D",
+        "texto": "a sentença proferida contra quem, tendo título registrado, não foi citado para a ação de usucapião, é ineficaz, devendo ser impugnada mediante ação rescisória."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "565655",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "No que concerne aos honorários advocatícios, à tutela antecipada e aos atos processuais no processo civil, julgue o item subsequente.Nas situações em que atuar na representação judicial de autoridade, conforme autorização da Lei n.º 9.028/1995, o advogado da União deverá ser intimado pela imprensa oficial porque, nesse caso, é inaplicável a prerrogativa de intimação pessoal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "562608",
+    "metadata": "Ano: 2015 | Banca: FUNDEP (Gestão de Concursos) | Órgão: COHAB MINAS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Em relação aos atos processuais, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz poderá, nas comarcas onde for difícil o transporte ou em caso de calamidade pública, prorrogar quaisquer prazos, mas nunca por mais de 60 (sessenta) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a lei não marcar outro prazo, as intimações somente obrigarão a comparecimento depois de decorridas 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Antes da citação da parte ré, é defeso ao autor modificar a causa de pedir."
+      },
+      {
+        "letra": "D",
+        "texto": "Decorrido o prazo, extingue-se, independentemente de declaração judicial, o direito de praticar o ato, sendo defeso à parte qualquer justificativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "559271",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO AOCP | Órgão: EBSERH",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil – Lei n.º 5.869, de 11 de janeiro de 1973, em relação à citação/intimação é correto afirmar que o prazo começa a correr",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se a citação for por edital, finda a dilação assinada pelo juiz."
+      },
+      {
+        "letra": "B",
+        "texto": "se a citação ou intimação for por oficial de justiça, da data de juntada aos autos independentemente do mandado cumprido."
+      },
+      {
+        "letra": "C",
+        "texto": "se for por correio, da data que a pessoa foi citada ou intimada."
+      },
+      {
+        "letra": "D",
+        "texto": "se for em vários réus, da data de juntada aos autos do primeiro aviso de recebimento ou mandado citatório cumprido."
+      },
+      {
+        "letra": "E",
+        "texto": "se for para cumprimento de carta rogatória, da data de protocolo na Embaixada Brasileira."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "531957",
+    "metadata": "Ano: 2015 | Banca: NC-UFPR | Órgão: Prefeitura de Curitiba - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Acerca da comunicação dos atos processuais, assinale a alternativa correta de acordo com o Código de Processo Civil de 1973.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Publicação é o ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa."
+      },
+      {
+        "letra": "B",
+        "texto": "Citação é o ato pelo qual o réu é cientificado da existência do processo, sendo desnecessária qualquer informação a respeito de seu direito de defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "A comunicação do tribunal ao magistrado a ele vinculado é denominada Carta Precatória."
+      },
+      {
+        "letra": "D",
+        "texto": "No caso de ações conexas perante juízes com competências territoriais diferentes, a citação válida é o critério que define o juízo competente."
+      },
+      {
+        "letra": "E",
+        "texto": "A citação válida suspende o prazo prescricional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "512966",
+    "metadata": "Ano: 2015 | Banca: CAIP-IMES | Órgão: Consórcio Intermunicipal Grande ABC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Tempo",
+      "Prazos",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Apresenta-se como prerrogativa processual da Fazenda Pública:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prazo, em quádruplo, para recorrer e, em dobro, para contestar."
+      },
+      {
+        "letra": "B",
+        "texto": "intimação pessoal nas execuções fiscais."
+      },
+      {
+        "letra": "C",
+        "texto": "isenção do pagamento de despesas processuais após o término do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "exigência de caução na propositura de ações rescisórias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "481198",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: CNMP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Segundo as regras das comunicações dos atos processuais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intimação é o ato pelo qual se chama a juízo o réu ou o interessado a fim de se defender."
+      },
+      {
+        "letra": "B",
+        "texto": "para a validade do processo é indispensável a intimação inicial do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "a citação efetuar-se-á em qualquer lugar e circunstância em que se encontre o réu."
+      },
+      {
+        "letra": "D",
+        "texto": "citação é o ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "a intimação do Ministério Público, em qualquer caso, será feita pessoalmente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "465962",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Juizado Especial no CPC 1973",
+      "Da comunicação dos atos processuais - Intimação",
+      "Juizado Especial - Cível"
+    ],
+    "enunciado_principal": "Nos Juizados Especiais existem regras processuais que excepcionam as regras previstas no Código de Processo Civil. Nesse sentido, sobre as comunicações processuais nos Juizados Especiais Cíveis, é correto afirmar que é dispensada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a intimação da parte que muda de endereço sem comunicar previamente ao juízo;"
+      },
+      {
+        "letra": "B",
+        "texto": "a intimação das testemunhas arroladas pela parte autora até 5 dias antes da audiência;"
+      },
+      {
+        "letra": "C",
+        "texto": "a intimação pela imprensa oficial dos atos praticados em audiência;"
+      },
+      {
+        "letra": "D",
+        "texto": "a publicação do edital em jornais de grande circulação na hipótese de citação por edital;"
+      },
+      {
+        "letra": "E",
+        "texto": "a intimação prévia da data da sessão de julgamento na turma recursal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "465961",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Lucia foi expulsa de casa pelo marido, Cesar. Além disso, o marido começou a quebrar os bens pertencentes ao casal. Assim, Lucia propôs em face do marido ação cautelar de sequestro. O juiz recebeu a petição inicial e deferiu medida liminar de sequestro dos bens do casal que estavam sob risco de dilapidação. Em casos como esse:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a citação do réu poderá ser realizada, ainda que durante o período de recesso;"
+      },
+      {
+        "letra": "B",
+        "texto": "a intimação da decisão liminar deve ser feita depois da realização da citação do réu;"
+      },
+      {
+        "letra": "C",
+        "texto": "a intimação do réu da decisão liminar pode ser feita pela imprensa oficial;"
+      },
+      {
+        "letra": "D",
+        "texto": "a intimação do réu da decisão liminar pode ser suspensa até a realização da sua citação;"
+      },
+      {
+        "letra": "E",
+        "texto": "a citação do réu poderá ser feita eletronicamente, se a intimação da decisão liminar tiver sido pessoal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "670342",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Com relação aos atos processuais destinados à comunicação, é correto afirmar que a(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intimação, para os membros do Ministério Público, bem como da Defensoria Pública, deve ser realizada por meio de Diário Oficial eletrônico."
+      },
+      {
+        "letra": "B",
+        "texto": "citação, para os réus domiciliados em outra comarca, deverá, obrigatoriamente, ser realizada por carta precatória."
+      },
+      {
+        "letra": "C",
+        "texto": "intimações nos processos pendentes não podem ser efetuadas de ofício."
+      },
+      {
+        "letra": "D",
+        "texto": "intimação, nas localidades em que não há circulação de Diário Oficial, deve ser realizada exclusivamente pelo correio, sendo vedado ao escrivão praticar tal ato pessoalmente."
+      },
+      {
+        "letra": "E",
+        "texto": "citação, para os réus domiciliados em outra comarca, poderá ser realizada tanto pelo correio como por carta precatória, tendo o autor o direito de escolha."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "505072",
+    "metadata": "Ano: 2014 | Banca: IPAD | Órgão: PGE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Forma",
+      "Prazos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Sobre a intimação no Processo Civil, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intimação é o ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa."
+      },
+      {
+        "letra": "B",
+        "texto": "As intimações efetuam-se de ofício, em processos pendentes, salvo disposição em contrário."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo disposição em contrário, os prazos para as partes, para a Fazenda Pública e para o Ministério Público contar-se-ão da intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "As intimações consideram-se realizadas no primeiro dia útil seguinte, se tiverem ocorrido em dia em que não tenha havido expediente forense."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo para a interposição de recurso conta-se da data, em que os advogados são intimados da decisão, do ato ordinatório, da sentença ou do acórdão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "492065",
+    "metadata": "Ano: 2014 | Banca: COPESE - UFT | Órgão: Prefeitura de Araguaína - TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Competência no CPC 1973",
+      "Critérios de competência",
+      "Modificação de competência",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Nos termos do Código de Processo Civil é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando for ré pessoa de direito público, a citação será feita pelo correio, para qualquer comarca do País."
+      },
+      {
+        "letra": "B",
+        "texto": "no Distrito Federal e nas Capitais dos Estados e dos Territórios, em nenhuma hipótese serão consideradas as intimações feitas apenas pela publicação dos atos no órgão oficial."
+      },
+      {
+        "letra": "C",
+        "texto": "está sujeita ao duplo grau de jurisdição, embora produza efeito de imediato, a sentença proferida contra a União, o Estado, o Distrito Federal, o Município, e as respectivas autarquias e fundações de direito público."
+      },
+      {
+        "letra": "D",
+        "texto": "na execução fiscal, a Fazenda Pública poderá escolher o foro de qualquer dos domicílios do réu; a ação poderá ainda ser proposta no foro do lugar em que se praticou o ato ou ocorreu o fato que deu origem à dívida, embora nele não mais resida o réu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "460483",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PGM - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "A intimação do representante judicial da Fazenda Pública do Município",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser realizada pessoalmente em embargos de terceiro opostos para desconstituir penhora levada a efeito em execução fiscal."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ser pessoal em qualquer processo no qual a Fazenda Pública do Município figure como parte."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode ser realizada, nas execuções fiscais, por carta registrada dirigida ao procurador sediado fora da comarca."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser realizada por carta ou pessoalmente, em qualquer processo ou procedimento, vedada a intimação por edital ou via publicação no Diário de Justiça Eletrônico."
+      },
+      {
+        "letra": "E",
+        "texto": "se dará em qualquer processo via publicação no Diário de Justiça Eletrônico, não lhe cabendo a prerrogativa de intimação pessoal conferida ao Ministério Público, à Defensoria Pública, aos Advogados da União e aos Procuradores Federais, da Fazenda Nacional e do Banco Central."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "413795",
+    "metadata": "Ano: 2014 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Nulidades no CPC 1973",
+      "Tempo",
+      "Prazos",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os atos processuais realizar-se-ão em dias úteis, das 8 (oito) às 20 (vinte) horas. Todavia, serão concluídos após as 20 (vinte) horas os atos iniciados antes, quando o adiamento prejudicar a diligência ou causar grave dano."
+      },
+      {
+        "letra": "B",
+        "texto": "É defeso às partes e ao juiz, ainda que todas estejam de acordo, reduzir ou prorrogar os prazos peremptórios. Em caso de calamidade pública, poderá ser excedido o limite previsto neste artigo para a prorrogação de prazos."
+      },
+      {
+        "letra": "C",
+        "texto": "A citação far-se-á pelo correio, mesmo nas ações de estado das pessoas, por oficial de justiça, por edital e por meio eletrônico, conforme regulado em lei própria."
+      },
+      {
+        "letra": "D",
+        "texto": "As citações e as intimações serão nulas, quando feitas sem observância das prescrições legais. Anulado o ato, reputam-se de nenhum efeito todos os subseqüentes, que dele dependam. Todavia, a nulidade de uma parte do ato prejudicará as outras posteriores, ainda que sejam independentes."
+      },
+      {
+        "letra": "E",
+        "texto": "É lícito a qualquer interessado cobrar os autos ao advogado que exceder o prazo legal. Se, intimado, não os devolver dentro em 24 (vinte e quatro) horas, perderá o direito à vista fora de cartório e incorrerá em multa, correspondente à metade do salário mínimo vigente na sede do juízo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "413332",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "A carta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rogatória, na falta de convenção internacional entre o Brasil e o país rogado, será transmitida por via diplomática, dispensando-se a prévia tradução para a língua do país em que o ato será praticado."
+      },
+      {
+        "letra": "B",
+        "texto": "rogatória de justiça estrangeira só será cumprida após a concessão de exequibilidade pelo Supremo Tribunal Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "precatória não poderá ser devolvida sem cumprimento, havendo expressa disposição legal neste sentido."
+      },
+      {
+        "letra": "D",
+        "texto": "de ordem não pode ser transmitida por telegrama ou telefone, por envolver relação de subordinação."
+      },
+      {
+        "letra": "E",
+        "texto": "precatória poderá ser apresentada a juízo diverso do que dela consta, a fim de ser praticar o ato."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "412588",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TCE-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "As intimações I. efetuam-se sempre de ofício em processos pendentes. II. serão feitas pelo correio quando frustrada a intimação por meio de oficial de justiça. III. e as comunicações dirigidas ao endereço residencial ou profissional declinado na inicial, contestação ou embargos, presumem-se válidas, cumprindo às partes atualizar o respectivo endereço sempre que houver modificação temporária ou definitiva. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "I"
+      },
+      {
+        "letra": "D",
+        "texto": "I e III"
+      },
+      {
+        "letra": "E",
+        "texto": "III"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "402229",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Das Partes e Procuradores",
+      "Nulidades no CPC 1973",
+      "Sujeitos da relação processual",
+      "Da suspensão do processo",
+      "Da extinção do processo",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Nos autos da demanda que propôs em face de Ticio, Caio se dá conta de que as chances de seu êxito no feito são inexistentes, já que o conjunto probatório formado não o favorece e o direito em disputa efetivamente assiste ao réu. Desse modo, e já prevendo que Ticio jamais concordaria com uma eventual manifestação sua de desistência da ação, Caio resolve, antes da prolação da sentença, revogar o mandato outorgado ao seu advogado. Determinada, pelo juiz da causa, a intimação de Caio para regularizar a sua representação processual, este deliberadamente se mantém inerte. Nesse contexto, deverá o juiz:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "julgar extinto o processo sem resolução do mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "decretar a nulidade do processo e suspender o seu curso, até que o autor regularize o vício de sua representação."
+      },
+      {
+        "letra": "C",
+        "texto": "nomear Defensor Público para prosseguir no patrocínio da causa do autor."
+      },
+      {
+        "letra": "D",
+        "texto": "determinar a intimação por edital do autor para que regularize a sua representação."
+      },
+      {
+        "letra": "E",
+        "texto": "julgar, a despeito da persistência do vício de representação, o mérito da causa, rejeitando o pedido do autor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "386628",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Nulidades no CPC 1973",
+      "Forma",
+      "Prazos",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Assinale a opção correta quanto aos atos processuais, considerando a disciplina do Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carta precatória é a requisição expedida pelo juiz à autoridade judiciária estrangeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há publicação de sentença em audiência, uma vez que tal ato deve ser escrito e formal."
+      },
+      {
+        "letra": "C",
+        "texto": "Se houver nulidade no processo, o juiz deve declará-la e mandar repetir o ato, ainda que possa decidir a causa em favor da parte a quem aproveite a declaração de nulidade."
+      },
+      {
+        "letra": "D",
+        "texto": "A intimação do réu para apresentar sua defesa pode ser feita por correio."
+      },
+      {
+        "letra": "E",
+        "texto": "Havendo dois réus, o prazo para defesa corre a partir da juntada aos autos do último aviso de recebimento ou do mandado cumprido."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "367968",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação",
+      "Da Comunicação dos Atos Processuais: Carta Precatória e Carta Rogatória"
+    ],
+    "enunciado_principal": "Em relação ao caso Desdêmona (ação de conhecimento de Otelo em desfavor de Iago, questionando promessa de compra e venda de Desdêmona, uma vaca premiada), a ciência do réu quanto ao deferimento da prova pelo juiz se dará por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "citação."
+      },
+      {
+        "letra": "B",
+        "texto": "notificação."
+      },
+      {
+        "letra": "C",
+        "texto": "intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "precatória."
+      },
+      {
+        "letra": "E",
+        "texto": "rogatória."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "366527",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: TRE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "No que se refere a citação, a intimação e notificação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A citação é o ato pelo qual se chama a juízo o réu ou o interessado a fim de se defender. Para a validade do processo, é indispensável a citação inicial do réu, de forma que, mesmo o comparecimento espontâneo do réu, não supre a falta de citação."
+      },
+      {
+        "letra": "B",
+        "texto": "Notificação é o ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "A citação, exclusivamente, se dá por correio ou oficial de justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "Em qualquer hipótese, não se pode citar pessoa que estiver assistindo a ato de culto religioso."
+      },
+      {
+        "letra": "E",
+        "texto": "Far-se-á a intimação por meio de oficial de justiça quando frustrada a realização pelo correio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "361337",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 19ª Região (AL)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Sobre os atos processuais e sua comunicação, segundo as regras previstas pelo Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "devem ser praticados da forma que a lei exigir, sendo considerados inválidos os realizados de forma diversa, ainda que lhe preencham a finalidade essencial."
+      },
+      {
+        "letra": "B",
+        "texto": "quando a lei não marcar outro prazo, as intimações somente obrigarão a comparecimento depois de decorridas vinte e quatro horas."
+      },
+      {
+        "letra": "C",
+        "texto": "ainda que ordenada por juiz incompetente, a citação constitui o devedor em mora, interrompe a prescrição e faz litigiosa a coisa."
+      },
+      {
+        "letra": "D",
+        "texto": "a citação efetuar-se-á em qualquer lugar que se encontre o réu, ainda que esteja assistindo a culto religioso, sem exceção."
+      },
+      {
+        "letra": "E",
+        "texto": "estando o réu ausente, a citação far-se-á somente na pessoa de seu mandatário ou administrador, quando a ação se originar de atos por eles praticados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "500409",
+    "metadata": "Ano: 2013 | Banca: Makiyama | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Com referência à intimação e à certidão de intimação, está INCORRETO afirmar, de acordo com o que determina o Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A certidão de intimação deve conter a indicação do lugar e a descrição da pessoa intimada, mencionando, quando possível, o número de sua carteira de identidade e o órgão que a expediu."
+      },
+      {
+        "letra": "B",
+        "texto": "A certidão de intimação deve conter a declaração de entrega da contrafé."
+      },
+      {
+        "letra": "C",
+        "texto": "A intimação pelo correio não é admitida caso frustrada a realização do ato pelo oficial de justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "A certidão de intimação deve conter a nota de ciente ou certidão de que o interessado não a apôs no mandado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "500404",
+    "metadata": "Ano: 2013 | Banca: Makiyama | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Assinale qual dos atos processuais abaixo enumerados depende da vontade do autor ou do réu para produzir efeito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A citação do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "A confecção da sentença pelo juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "A desistência da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "A intimação da parte."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "379517",
+    "metadata": "Ano: 2013 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: SMA-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "O ato pelo qual se chama a juízo o interessado a fim de se defender denomina-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "citação"
+      },
+      {
+        "letra": "B",
+        "texto": "intimação"
+      },
+      {
+        "letra": "C",
+        "texto": "carta de ordem"
+      },
+      {
+        "letra": "D",
+        "texto": "mandado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "354708",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Nulidades no CPC 1973",
+      "Forma",
+      "Prazos",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Considerando a forma, os prazos, a comunicação e a nulidade dos atos processuais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pronunciada a nulidade do ato processual pelo juiz, todos os demais atos realizados a partir do declarado nulo serão repetidos ou retificados."
+      },
+      {
+        "letra": "B",
+        "texto": "A parte que requerer a desistência da ação, mediante petição nos autos, não poderá retratar-se posteriormente, ainda que antes da sentença homologatória."
+      },
+      {
+        "letra": "C",
+        "texto": "As partes podem decidir prorrogar, por convenção, o prazo para manifestação sobre laudo pericial, desde que haja motivo legítimo para a prorrogação e o pedido seja feito dentro do prazo originalmente concedido."
+      },
+      {
+        "letra": "D",
+        "texto": "As intimações às partes, no DF e nas capitais dos estados e territórios, consideram-se feitas pela simples publicação dos atos no órgão oficial."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos casos de pluralidade de litisconsortes com procuradores distintos, o prazo para recurso conta em dobro, mesmo que apenas um haja sucumbido."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "343547",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Da comunicação dos atos processuais - Intimação",
+      "Pressupostos Processuais",
+      "Capacidade ou Representação Processual"
+    ],
+    "enunciado_principal": "Julgue os próximos itens de acordo com a jurisprudência dominante acerca da atuação da DP no processo civil.É prerrogativa da DP a intimação pessoal dos seus membros de todos os atos e termos do processo. A presença do DP na audiência de instrução e julgamento na qual seja proferida a sentença não retira o ônus da sua intimação pessoal, que somente se concretiza com a entrega dos autos com abertura de vistas, em homenagem ao princípio constitucional da ampla defesa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "329215",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Forma",
+      "Prazos",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "A respeito dos atos processuais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ainda que o prazo processual seja impróprio, o seu descumprimento acarreta a preclusão."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença do processo que tramita em segredo de justiça deve ser publicada na integralidade, omitindo-se o nome das partes e dos procuradores."
+      },
+      {
+        "letra": "C",
+        "texto": "A intimação da defesa quanto à expedição da carta precatória não torna desnecessária a intimação da data da audiência no juízo deprecado."
+      },
+      {
+        "letra": "D",
+        "texto": "Os prazos processuais que se vencerem no curso do recesso forense findarão no primeiro dia útil após o encerramento do recesso."
+      },
+      {
+        "letra": "E",
+        "texto": "O estabelecimento, por lei, de forma especial para a prática do ato processual não implica a invalidação do ato praticado de outro modo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "308277",
+    "metadata": "Ano: 2013 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "As citações e as intimações serão nulas, quando feitas sem observância das prescrições legais. Anulado o ato, reputam-se de nenhum efeito todos os subseqüentes, que dele dependam; todavia, a nulidade de uma parte do ato não prejudicará as outras, que dela sejam independentes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1661609",
+    "metadata": "Ano: 2012 | Banca: COPESE - UFT | Órgão: MPE-TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Prazos",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Segundo as regras do Processo Civil, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Computar-se-á em quádruplo o prazo para contestar e em dobro para recorrer quando a parte for o Ministério Público."
+      },
+      {
+        "letra": "B",
+        "texto": "O Ministério Público deve restituir os autos no prazo legal. Não o fazendo, mandará o juiz, de ofício, riscar o que neles houver escrito e desentranhar as alegações e documentos que apresentar."
+      },
+      {
+        "letra": "C",
+        "texto": "É lícito a qualquer interessado cobrar os autos ao Ministério Público que exceder o prazo legal. Se, intimado, não os devolver dentro em 24 (vinte e quatro) horas, perderá o direito à vista fora de cartório e incorrerá em multa, correspondente à metade do salário mínimo vigente na sede do juízo."
+      },
+      {
+        "letra": "D",
+        "texto": "No Distrito Federal e nas Capitais dos Estados e dos Territórios, consideram-se feitas as intimações às partes e ao Ministério Público pela só publicação dos atos no órgão oficial."
+      },
+      {
+        "letra": "E",
+        "texto": "É nulo o processo, quando o Ministério Público não for intimado a acompanhar o feito em que deva intervir. E se o processo tiver corrido, sem conhecimento do Ministério Público, o juiz o anulará a partir do momento em que o órgão devia ter sido intimado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "487549",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação",
+      "Da Comunicação dos Atos Processuais: Carta Precatória e Carta Rogatória"
+    ],
+    "enunciado_principal": "Considerando a maneira pela qual se dá a informação aos sujeitos do processo sobre os atos processuais, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O locador que se ausentar do Brasil sem cientificar o locatário de que deixou, na localidade onde estiver situado o imóvel, procurador com poderes para receber citação, será citado através de carta precatória rogatória a ser encaminhada ao país em que ele se encontrar."
+      },
+      {
+        "letra": "B",
+        "texto": "O militar não será citado em sua residência, a não ser que esteja em serviço em mais de uma unidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo antecipação da audiência, o juiz, de ofício, deverá intimar pessoalmente a parte para ciência da nova designação."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se fará citação, salvo para evitar o perecimento do direito, ao cônjuge ou a qualquer parente do morto, consanguíneo ou afim, em linha reta, ou na linha colateral até o terceiro grau, no dia do falecimento e nos 5 (cinco) dias seguintes."
+      },
+      {
+        "letra": "E",
+        "texto": "Comparecendo o réu apenas para arguir a nulidade e sendo esta decretada, considerar-se-á feita a citação na data em que ele ou seu advogado for intimado da decisão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "426177",
+    "metadata": "Ano: 2012 | Banca: IV - UFG | Órgão: TJ-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Segundo o Código de Processo Civil, não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seus representantes legais e aos advogados",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria."
+      },
+      {
+        "letra": "B",
+        "texto": "por oficial de justiça ou, se presentes em cartório, diretamente pelo escrevente ou magistrado."
+      },
+      {
+        "letra": "C",
+        "texto": "por edital, com prazo mínimo de 15 (quinze) dias."
+      },
+      {
+        "letra": "D",
+        "texto": "por carta precatória, com prazo máximo de 30 (trinta) dias."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "329149",
+    "metadata": "Ano: 2012 | Banca: UEPA | Órgão: SEAD-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação"
+    ],
+    "enunciado_principal": "Quanto ao regime jurídico da comunicação dos atos processuais previstos no Código de Processo Civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "citação pela via postal, desde que nas hipóteses já autorizadas em lei, não exige necessariamente o aviso de recebimento."
+      },
+      {
+        "letra": "B",
+        "texto": "autarquia estadual será preferencialmente intimada dos atos processuais por via de oficial de justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "fundação pública, regida por normas de direito público, não poderá receber citação pela via postal."
+      },
+      {
+        "letra": "D",
+        "texto": "nas comarcas não atendidas pelo serviço domiciliar de correspondência é obrigatória a citação por edital."
+      },
+      {
+        "letra": "E",
+        "texto": "no processo de execução comum previsto no Código Processo Civil, a citação do devedor poderá se operar pela via postal, desde que haja aviso de recebimento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "746105",
+    "metadata": "Ano: 2011 | Banca: VUNESP | Órgão: CREMESP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação",
+      "Da Comunicação dos Atos Processuais: Carta Precatória e Carta Rogatória"
+    ],
+    "enunciado_principal": "Sobre a comunicação dos atos processuais, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a citação válida torna prevento o juízo e a interrupção da prescrição retroagirá à data da citação."
+      },
+      {
+        "letra": "B",
+        "texto": "citação é o ato pelo qual se dá ciência a alguém dos atos e termos do processo, para que faça ou deixe de fazer alguma coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "a citação será feita pelo correio, para qualquer comarca do País, nos processos de execução."
+      },
+      {
+        "letra": "D",
+        "texto": "quando houver vários réus, começa a correr o prazo da data da juntada aos autos do último aviso de recebimento ou mandado citatório cumprido."
+      },
+      {
+        "letra": "E",
+        "texto": "havendo antecipação da audiência, o juiz, de ofício ou a requerimento da parte, mandará intimar pelo correio os advogados para ciência da nova designação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "505977",
+    "metadata": "Ano: 2011 | Banca: TRT 16R | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Da comunicação dos atos processuais - Intimação",
+      "Julgamento Conforme o Estado do Processo: Extinção do Processo com ou sem Resolução de Mérito"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora a interrupção da prescrição se aperfeiçoe por meio da citação válida, os efeitos da interrupção retroagem à data do ajuizamento da ação."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a extinção do processo por abandono de causa, com fundamento no art. 267, III , § 1o do CPC, não se exige a intimação pessoal da parte."
+      },
+      {
+        "letra": "C",
+        "texto": "Admite-se a condenação em honorários sucumbenciais nas hipóteses de extinção do processo sem resolução do mérito."
+      },
+      {
+        "letra": "D",
+        "texto": "Via de regra, vige no direito pátrio o principio da demanda, segundo o quai a instauração do processo depende de iniciativa da parte interessada, ressalvadas hipóteses excepcionais em que a atividade jurisdicional poderá ser instaurada ex officio, como no processo de arrecadação de bens de ausentes."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de morte ou perda da capacidade processual de qualquer das partes, ou de seu representante legal, provado o falecimento ou a incapacidade, o juiz suspenderá o processo, salvo se já tiver iniciado a audiência de instrução e julgamento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "358994",
+    "metadata": "Ano: 2010 | Banca: TRT 3R | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Da comunicação dos atos processuais - Intimação",
+      "Da Comunicação dos Atos Processuais: Carta Precatória e Carta Rogatória"
+    ],
+    "enunciado_principal": "No que concerne à comunicação dos atos processuais, marque a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os atos e termos do processo podem ser produzidos, transmitidos, armazenados e assinados por meio eletrônico"
+      },
+      {
+        "letra": "B",
+        "texto": "A superveniência de féria interrompe o curso do prazo, que recomeçará a correr do primeiro dia útil seguinte ao termo das férias;"
+      },
+      {
+        "letra": "C",
+        "texto": "Computar-se-á em dobro o prazo para contestar e em quádruplo para recorrer quando a parte for Fazenda Pública ou o MP;"
+      },
+      {
+        "letra": "D",
+        "texto": "Se intimado o advogado não devolver os autos dentro de 24 horas perderá o direito à vista fora de cartório e incorrerá em multa correspondente à metade do salário mínimo vigente, cuja sanção será aplicada pelo juiz da causa."
+      },
+      {
+        "letra": "E",
+        "texto": "É requisito essencial legalmente previsto no CPC que toda carta precatório venha acompanhada do depoimento das partes."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

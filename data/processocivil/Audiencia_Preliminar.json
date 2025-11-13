@@ -1,0 +1,102 @@
+[
+  {
+    "id": "385371",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: UFBA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência de Instrução de Julgamento - AIJ",
+      "Audiência Preliminar"
+    ],
+    "enunciado_principal": "No tocante às audiências previstas no Código de Processo Civil (CPC), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode-se dizer que o comparecimento das partes na audiência preliminar do artigo 331 do Código de Processo Civil é facultativa, sendo que a única consequência advinda do não comparecimento é a frustação da conciliação."
+      },
+      {
+        "letra": "B",
+        "texto": "A audiência poderá ser adiada, se não puder comparecer o advogado da parte, por motivo justificado, desde que ele prove esse impedimento no prazo de cinco dias, contados do ato processual."
+      },
+      {
+        "letra": "C",
+        "texto": "A produção de provas na audiência de instrução e julgamento segue a seguinte ordem: depoimento pessoal do autor; inquirição das testemunhas; esclarecimentos dos peritos, dos assistentes técnicos e depoimento pessoal do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "A testemunha intimada a comparecer à audiência, se nada puder informar a respeito dos fatos, não será obrigada a comparecer."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve o juiz recusar-se a ouvir testemunha que chegue tardiamente à audiência em curso e que não atenda ao chamado no momento em que seja apregoada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "338428",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência Preliminar"
+    ],
+    "enunciado_principal": "No atual sistema, pode-se dizer que o comparecimento das partes na audiência preliminar do artigo 331 do Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é facultativa, sendo que a única consequência advinda do não comparecimento é a frustação da conciliação."
+      },
+      {
+        "letra": "B",
+        "texto": "é ônus, sendo que o não comparecimento da parte que foi intimada para tanto gera confissão."
+      },
+      {
+        "letra": "C",
+        "texto": "não é facultativa nas hipóteses em que houve expressa manifestação de vontade, nos autos, de realizar acordo."
+      },
+      {
+        "letra": "D",
+        "texto": "é obrigatório, se não se tratar de hipótese de direitos indisponíveis ou qualquer outra impossibilidade de transação."
+      },
+      {
+        "letra": "E",
+        "texto": "é obrigatório, se as partes forem intimadas pessoalmen- te para o comparecimento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2910605",
+    "metadata": "Ano: 2010 | Banca: AOCP | Órgão: Prefeitura de Camaçari - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Audiência Preliminar"
+    ],
+    "enunciado_principal": "Quanto a audiência preliminar prevista no procedimento ordinário do Código de Processo Civil, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. É admitida em ações cujas causas admitam transação. II. As partes devem fazer-se representar por procurador ou preposto, com poderes para transigir. III. Caso não se obtenha a conciliação, o juiz fixará os pontos controvertidos, decidirá as questões processuais pendentes e determinará as provas a serem produzidas. IV. O juiz poderá, desde logo, sanear o processo e ordenar a produção da prova, caso o direito em litígio não admita transação, ou se as circunstâncias evidenciarem a improbabilidade de conciliação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

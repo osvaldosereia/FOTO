@@ -1,0 +1,195 @@
+[
+  {
+    "id": "700611",
+    "metadata": "Ano: 2015 | Banca: INTEGRI | Órgão: Prefeitura de Salesópolis - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de Consignação em Pagamento no CPC 1973",
+      "Ação de depósito",
+      "Ação Monitória no CPC 1973"
+    ],
+    "enunciado_principal": "As assertivas abaixo referem-se aos procedimentos especiais de jurisdição contenciosa, regulamentados pelo Código de Processo Civil brasileiro. I - Nos casos previstos em lei, poderá o devedor ou terceiro requerer, com efeito de pagamento, a consignação da quantia ou da coisa devida. Tratando-se de obrigação em dinheiro, poderá o devedor ou terceiro optar pelo depósito da quantia devida, em estabelecimento bancário, oficial onde houver, situado no lugar do pagamento, em conta com correção monetária, cientificando-se o credor por carta com aviso de recepção, assinado o prazo de 10 (dez) dias para a manifestação de recusa. II – A ação de depósito tem por fim exigir a restituição da coisa depositada. A petição inicial será instruída somente com a prova literal do depósito, se não constar do contrato, o autor pedirá a citação do réu para, no prazo de 5 (cinco) dias: entregar a coisa, depositá-la em juízo ou consignar-lhe o equivalente em dinheiro, desde que o valor seja apresentado pelo autor ou; contestar a ação. III - A ação de prestação de contas competirá a quem tiver: o direito de exigi-las ou; a obrigação de prestá-las. Aquele que pretender exigir a prestação de contas requererá a citação do réu para, no prazo de 5 (cinco) dias, as apresentar ou contestar a ação. IV - A habilitação tem lugar quando, por falecimento de qualquer das partes, os interessados houverem de suceder-lhe no processo. A habilitação pode ser requerida exclusivamente pelos sucessores do falecido, em relação à parte. V - A ação monitória compete a quem pretender, com base em prova escrita sem eficácia de título executivo, pagamento de soma em dinheiro, entrega de coisa fungível ou de determinado bem móvel. Estando a petição inicial devidamente instruída, o Juiz citará o réu para que este ofereça defesa no prazo de quinze dias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas II, IV e V estão incorretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas I, II e III estão incorretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas II, III e IV estão incorretas."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I, IV e V estão incorretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464737",
+    "metadata": "Ano: 2014 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito",
+      "Ação de prestação de contas",
+      "Ações possessórias",
+      "Ação de usucapião"
+    ],
+    "enunciado_principal": "Assinale a afirmativa correta em relação aos proce- dimentos especiais cíveis.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Julgada procedente a ação de depósito, o juiz deve ordenar a expedição de mandado para a entrega, em 48 (quarenta e oito) horas, da coisa ou do equivalente em dinheiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Não pode o réu de ação possessória, na contestação, demandar proteção possessória e indenização por prejuízos resultantes de turbação ou de esbulho cometido pelo autor em ofensa à sua posse."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação de nunciação de obra nova, tratando-se de demolição, colheita, corte de madeiras, extração de minérios e obras semelhantes, pode incluir-se o pedido de apreensão e depósito dos materiais e produtos já retirados."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ação de usucapião de terras particulares, são intimados por oficial de justiça, para que manifestem interesse na causa, os representantes da Fazenda Pública da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que pretender exigir a prestação de contas deve requerer a citação do réu para, no prazo de 15 (quinze) dias, apresentar as contas ou contestar a ação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "447565",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SP-URBANISMO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito",
+      "Ação de prestação de contas",
+      "Ações possessórias"
+    ],
+    "enunciado_principal": "Dentre os procedimentos previstos no Código de Processo Civil, encontram-se os chamados de especiais, no Livro IV. Sobre essas ações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações de depósito, caso o réu não entregue o bem, ser-lhe-á decretada prisão, considerando-o depositário infiel."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas ações de prestação de contas, aquele que pretende exigi-las, requererá a citação do réu para que, no prazo de cinco dias, apresente-as ou conteste a ação."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação de reintegração de posse, o possuidor turbado tem o direito de ser reintegrado, e aquele que for esbulhado deverá propor ação de manutenção de posse"
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo para contestação nas ações de nunciação de obra nova é de quinze dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas ações de demarcação, feitas as citações, os réus terão prazo comum de 30 dias para contestar a ação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "392511",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Câmara Municipal de São José dos Campos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito"
+    ],
+    "enunciado_principal": "A respeito da purgação da mora, nas ações de despejo fundadas na falta de pagamento de aluguel e acessórios da locação, tal como prevista na Lei de Locação de Imóveis Urbanos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O depósito de purgação da mora deve ser realizado no prazo de 15 dias, contados da citação do locatário."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vez efetuada a purgação da mora, não depositado o valor integral da dívida, não se admite futura complementação do depósito para esse mesmo fim."
+      },
+      {
+        "letra": "C",
+        "texto": "Com o depósito do valor da dívida, dos acessórios, multas, custas e despesas processuais, fica o devedor isento do pagamento dos honorários advocatícios, que não integram o valor devido para purgação da mora."
+      },
+      {
+        "letra": "D",
+        "texto": "O depósito de purgação da mora deve ser realizado até o término do prazo para que o locatário apresente contestação, isto é, a data da audiência de conciliação."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se admitirá a purgação da mora se o locatário já houver utilizado desse direito nos 30 meses imediatamente anteriores à propositura da ação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "500420",
+    "metadata": "Ano: 2013 | Banca: Makiyama | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito"
+    ],
+    "enunciado_principal": "Considerando o que determina o Código de Processo Civil, assinale a alternativa CORRETA quanto aos procedimentos a serem tomados no que diz respeito às ações de depósito e de busca e apreensão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o devedor de obrigação de entrega de coisa certa, na execução por título extrajudicial, não entregar ou depositar a coisa móvel, é cabível imissão de posse."
+      },
+      {
+        "letra": "B",
+        "texto": "O cumprimento da prestação reconhecida na sentença que condenou o devedor à entrega de coisa certa somente se efetiva pela expedição de mandado de busca e apreensão ou de imissão de posse."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação de depósito, é admissível ao autor promover a busca e apreensão da coisa."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as coisas móveis podem ser objeto de busca e apreensão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "397661",
+    "metadata": "Ano: 2012 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito"
+    ],
+    "enunciado_principal": "Na ação de despejo por falta de pagamento, admite-se a concessão de medida liminar para desocupação do imóvel desde que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o atraso no pagamento dos aluguéis seja superior a três meses e preste o autor caução idônea."
+      },
+      {
+        "letra": "B",
+        "texto": "o atraso no pagamento dos aluguéis seja superior a seis meses, preste o autor caução no valor equivalente a três meses de aluguel e esteja o contrato garantido por fiança."
+      },
+      {
+        "letra": "C",
+        "texto": "preste o autor caução no valor equivalente a seis meses de aluguel e esteja o contrato garantido por seguro de fiança locatícia."
+      },
+      {
+        "letra": "D",
+        "texto": "preste o autor caução no valor equivalente a três meses de aluguel e esteja o contrato desprovido de garantia locatícia."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

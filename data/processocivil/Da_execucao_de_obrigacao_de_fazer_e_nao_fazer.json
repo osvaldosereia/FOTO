@@ -1,0 +1,301 @@
+[
+  {
+    "id": "549040",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "Um profissional, tendo sido contratado para realização de serviços de pintura em uma residência, não cumpriu a obrigação e foi condenado a realizá-los, mas, citado em execução de obrigação de fazer, também não atendeu. Nesse caso, poderá o exequente requerer ao juiz",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "que o serviço seja prestado por terceiro, à custa do executado, adiantando este as quantias previstas na proposta que o juiz houver aprovado, entre aquelas apresentadas pelo exequente, independentemente de audiência do executado."
+      },
+      {
+        "letra": "B",
+        "texto": "a realização de uma licitação por critério de técnica e preço para escolha de terceiro que realizará o serviço, à custa do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "somente a conversão da obrigação em perdas e danos, que serão apuradas em liquidação, seguindo-se a execução para cobrança de quantia certa."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas a imposição de multa diária, até que o serviço seja iniciado, e, se não concluído no prazo do contrato, a multa diária voltará a correr até o limite do valor contratado entre as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "que o serviço seja prestado por terceiro, à custa do executado, mas o exequente adiantará as quantias previstas na proposta que, ouvidas as partes, o juiz houver aprovado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "429169",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "Quanto às execuções das obrigações de fazer e de não fazer, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o contratante não prestar o fato no prazo, ou se o praticar de modo incompleto ou defeituoso, poderá o credor requerer ao juiz, no prazo de 10 (dez) dias, que o autorize a concluí-lo, ou a repará-lo, por conta do contratante."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando o objeto da execução for obrigação de fazer, o devedor será citado para satisfazê-la no prazo que o juiz Ihe assinar, se outro não estiver determinado no título executivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o fato puder ser prestado por terceiro, é lícito ao juiz, a requerimento do exequente, decidir que aquele o realize à custa do executado."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas obrigações de fazer, quando for convencionado que o devedor o faça pessoalmente, o juiz fixará em regra o prazo de trinta dias para seu cumprimento, podendo aumentar esse prazo de acordo com a complexidade da obra."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o credor quiser executar, ou mandar executar, sob sua direção e vigilância, as obras e trabalhos necessários à prestação do fato, terá preferência, em igualdade de condições de oferta, ao terceiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "388421",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: CAU-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução em geral",
+      "Da execução de obrigação de fazer e não fazer",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre o processo de execução, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diante da reiteração, pelo executado, da prática de ato atentatório à dignidade da Justiça, o juiz poderá lhe impedir que daí por diante se manifeste nos autos."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas obrigações de fazer, quando for convencionado que o devedor a faça pessoalmente, o prazo para cumprimento é de 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o devedor praticou o ato, a cuja abstenção estava obrigado pela lei ou pelo contrato, o credor requererá ao juiz que Ihe assine prazo para desfazê-lo."
+      },
+      {
+        "letra": "D",
+        "texto": "A impenhorabilidade é oponível, mesmo na cobrança do crédito concedido para a aquisição do próprio bem."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "407305",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer",
+      "Dos embargos do devedor"
+    ],
+    "enunciado_principal": "Um devedor foi citado para cumprir, no prazo de 10 dias, obrigação de fazer fungível, prevista em título executivo extrajudicial. Com base nessa situação hipotética e na legislação de regência, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a oposição de embargos à execução não poderia ser feita pelo devedor antes do cumprimento da obrigação."
+      },
+      {
+        "letra": "B",
+        "texto": "o credor poderia optar pela conversão da obrigação em perdas e danos se, no prazo fixado, o devedor não satisfizesse a obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "o juiz poderia fixar, de ofício, multa pelo descumprimento da obrigação no prazo fixado, desde que houvesse previsão para essa medida no título executivo."
+      },
+      {
+        "letra": "D",
+        "texto": "a prestação da obrigação por um terceiro, às expensas do devedor, não seria possível em virtude da natureza da obrigação."
+      },
+      {
+        "letra": "E",
+        "texto": "a fixação de multa por dia de atraso pelo juiz no mandado de citação dependeria da existência de solicitação nesse sentido pelo exequente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "363156",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: CONDER",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "A respeito da execução das obrigações de fazer e não fazer, analise as afirmativas a seguir. I. Se a execução recai sobre obrigação de fazer fungível e o demandado não cumpri-la voluntariamente após a citação, é lícito ao juiz, a requerimento do exequente, decidir que seja realizado à custa do executado. II. Se o devedor praticou o ato, a cuja abstenção estava obrigado pela lei ou pelo contrato, o credor requererá ao juiz que Ihe assine prazo para desfazê-lo e não sendo possível desfazer-se o ato, a obrigação resolve-se em perdas e danos. III. Se o objeto da execução for obrigação de fazer, o devedor será citado para satisfazê-la no prazo que o juiz Ihe assinar, mesmo que outro esteja determinado no título executivo. Assinale:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se somente a afirmativa III estiver correta."
+      },
+      {
+        "letra": "B",
+        "texto": "se somente as afirmativas I e II estiverem corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "se somente a afirmativa II estiver correta"
+      },
+      {
+        "letra": "D",
+        "texto": "se somente as afirmativas II e III estiverem corretas"
+      },
+      {
+        "letra": "E",
+        "texto": "se somente a afirmativa I estiver correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "322639",
+    "metadata": "Ano: 2013 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "Considerando o que o Código de Processo Civil estabelece acerca da Execução, marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o objeto da execução for obrigação de fazer ou de não fazer, o devedor será citado para satisfazê-la no prazo que o juiz lhe assinar, se outro não estiver determinado no título executivo; e, em se tratando de obrigação de fazer, se o fato puder ser prestado por terceiro, é lícito ao juiz, a requerimento do exequente, decidir que aquele o realize à custa do executado."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando de obrigação de não fazer, se o devedor praticou o ato, a cuja abstenção estava obrigado pela lei ou pelo contrato, o credor requererá ao juiz que lhe assine prazo para desfazê-lo. Havendo recusa do devedor ou não sendo possível desfazer-se o ato, a obrigação resolve-se em perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas obrigações de fazer, quando for convencionado que o devedor a faça pessoalmente, o credor poderá requerer ao juiz que lhe assine prazo para cumpri-la. Havendo recusa ou mora do devedor, a obrigação pessoal converter- se-á em perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "A execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível; sendo definitiva a execução fundada em título judicial ou extrajudicial; e provisória enquanto pendente apelação de sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "O instrumento de transação referendado pelo Ministério Público, pela Defensoria Pública ou pelos advogados dos transatores são títulos executivos extrajudiciais; porém estes só podem ser objeto de execução, se não tiver sido proposta nenhuma ação relativa ao débito constante desse título."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "487550",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "Na execução das obrigações de fazer e de não fazer, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o fato puder ser prestado por terceiro, é licito ao juiz, de ofício, decidir que aquele o realize à custa do executado."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o credor quiser executar, ou mandar executar, sob sua direção e vigilância, as obras e trabalhos necessários à prestação do fato, terá preferência, em igualdade de condições de oferta, ao terceiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo recusa ou mora do devedor, o credor requererá ao juiz que mande desfazer o ato à sua custa, respondendo o devedor por perdas e danos. Se não for possível desfazer o ato, a obrigação resolve-se em perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "Regra geral, quando o objeto da execução for obrigação de fazer, o devedor será citado para satisfazê-la no prazo assinado pelo juiz, se outro não estiver determinado no título executivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Prestado o fato, o juiz ouvirá às partes no prazo de 10 (dez) dias; não havendo impugnação, dará por cumprida a obrigação; em caso contrário, decidirá a impugnação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "398535",
+    "metadata": "Ano: 2012 | Banca: CONSULPLAN | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "A obrigação de fazer pode ser entendida como espécie de obrigação positiva que se caracteriza por ter como prestação um fazer do devedor. Sobre a obrigação de fazer, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o objeto da execução for obrigação de fazer, o devedor será citado para satisfazê-la no prazo que o juiz Ihe assinar, mesmo se outro estiver determinado no título executivo."
+      },
+      {
+        "letra": "B",
+        "texto": "se, no prazo fixado, o devedor não satisfizer a obrigação de fazer, é lícito ao credor, apenas em autos em apenso, em razão do princípio do contraditório, requerer que ela seja executada à custa do devedor, ou haver perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "se o fato puder ser prestado por terceiro, é ilícito ao juiz, a requerimento do exequente, decidir que aquele o realize à custa do executado."
+      },
+      {
+        "letra": "D",
+        "texto": "quando for convencionado que o devedor a faça pessoalmente, o credor não poderá requerer ao juiz que Ihe assine prazo para cumpri-la."
+      },
+      {
+        "letra": "E",
+        "texto": "na execução da obrigação de fazer fundada em título extrajudicial, o juiz, ao despachar a inicial, fixará multa por dia de atraso no cumprimento da obrigação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "301699",
+    "metadata": "Ano: 2011 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Processo de execução",
+      "Da execução de obrigação de fazer e não fazer"
+    ],
+    "enunciado_principal": "À luz do Código de Processo Civil, aquele que no curso do processo prossegue em obra embargada, comete:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Justificação"
+      },
+      {
+        "letra": "B",
+        "texto": "Atentado"
+      },
+      {
+        "letra": "C",
+        "texto": "Nunciação de obra nova"
+      },
+      {
+        "letra": "D",
+        "texto": "Protesto"
+      },
+      {
+        "letra": "E",
+        "texto": "Interdito proibitório"
+      }
+    ],
+    "gabarito": "B"
+  }
+]

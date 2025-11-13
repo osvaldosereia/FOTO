@@ -1,0 +1,302 @@
+[
+  {
+    "id": "563781",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "No tocante aos procedimentos especiais, assinale a opção correta à luz da jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos embargos de terceiros, mesmo suficientemente provada a posse, a suspensão do processo principal até o julgamento final dos embargos depende de decisão liminar."
+      },
+      {
+        "letra": "B",
+        "texto": "No procedimento especial de jurisdição voluntária, o juiz é obrigado a observar a legalidade estrita."
+      },
+      {
+        "letra": "C",
+        "texto": "Com relação ao interesse de agir, exige-se, na ação de prestação de contas, apenas o vínculo jurídico capaz de obrigar uma das partes a prestá-las em favor da outra."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ação de consignação em pagamento, o provimento jurisdicional tem caráter condenatório, pois libera o autor da obrigação objeto da relação jurídica de direito material."
+      },
+      {
+        "letra": "E",
+        "texto": "Na apreciação do pedido contraposto formulado em ação possessória, a ausência de previsão legal impede o deferimento de tutela de remoção do ilícito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "525975",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "Segundo o Código de Processo Civil de 1973, quando, na ação de prestação de contas, se o curador for condenado a pagar o saldo e não o fizer no prazo legal, o juiz poderá determinar, relativamente aos bens sob a sua guarda,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o arresto."
+      },
+      {
+        "letra": "B",
+        "texto": "a busca e apreensão."
+      },
+      {
+        "letra": "C",
+        "texto": "o sequestro."
+      },
+      {
+        "letra": "D",
+        "texto": "a exibição."
+      },
+      {
+        "letra": "E",
+        "texto": "o protesto."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "464737",
+    "metadata": "Ano: 2014 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito",
+      "Ação de prestação de contas",
+      "Ações possessórias",
+      "Ação de usucapião"
+    ],
+    "enunciado_principal": "Assinale a afirmativa correta em relação aos proce- dimentos especiais cíveis.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Julgada procedente a ação de depósito, o juiz deve ordenar a expedição de mandado para a entrega, em 48 (quarenta e oito) horas, da coisa ou do equivalente em dinheiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Não pode o réu de ação possessória, na contestação, demandar proteção possessória e indenização por prejuízos resultantes de turbação ou de esbulho cometido pelo autor em ofensa à sua posse."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação de nunciação de obra nova, tratando-se de demolição, colheita, corte de madeiras, extração de minérios e obras semelhantes, pode incluir-se o pedido de apreensão e depósito dos materiais e produtos já retirados."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ação de usucapião de terras particulares, são intimados por oficial de justiça, para que manifestem interesse na causa, os representantes da Fazenda Pública da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que pretender exigir a prestação de contas deve requerer a citação do réu para, no prazo de 15 (quinze) dias, apresentar as contas ou contestar a ação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "447565",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SP-URBANISMO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de depósito",
+      "Ação de prestação de contas",
+      "Ações possessórias"
+    ],
+    "enunciado_principal": "Dentre os procedimentos previstos no Código de Processo Civil, encontram-se os chamados de especiais, no Livro IV. Sobre essas ações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações de depósito, caso o réu não entregue o bem, ser-lhe-á decretada prisão, considerando-o depositário infiel."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas ações de prestação de contas, aquele que pretende exigi-las, requererá a citação do réu para que, no prazo de cinco dias, apresente-as ou conteste a ação."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação de reintegração de posse, o possuidor turbado tem o direito de ser reintegrado, e aquele que for esbulhado deverá propor ação de manutenção de posse"
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo para contestação nas ações de nunciação de obra nova é de quinze dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas ações de demarcação, feitas as citações, os réus terão prazo comum de 30 dias para contestar a ação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "409240",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito do procedimento especial de prestação de contas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação de prestação de contas tem como pressuposto a existência de relação de mandato entre as partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se exige forma legal específica para as contas a serem apresentadas, ficando esta a critério do juiz ou das partes"
+      },
+      {
+        "letra": "C",
+        "texto": "Não cabe condenação ao pagamento de honorários de sucumbência na sentença da primeira fase da ação de prestação de contas."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ação em que se exige prestação de contas, o réu será citado para, no prazo de 15 dias, prestá-las ou apresentar contestação."
+      },
+      {
+        "letra": "E",
+        "texto": "A segunda fase da ação de prestação de contas só pode ter início após o trânsito em julgado da sentença que decide pela obrigação de apresentar contas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "378896",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "No tocante à prestação de contas, considere: I. Aquele que pretender exigir a prestação de contas requererá a citação do réu para, no prazo de 15 dias, as apresentar ou contestar a ação. II. Prestadas as contas, terá o autor 5 dias para dizer sobre elas; havendo necessidade de produzir provas, o Juiz designará audiência de instrução e julgamento; em caso contrário, proferirá desde logo a sentença. III. Se o réu não contestar a ação ou não negar a obrigação de prestar contas, observar-se-á o disposto no art. 330 do CPC; a sentença, que julgar procedente a ação, condenará o réu a prestar as contas no prazo de 48 horas, sob pena de não Ihe ser lícito impugnar as que o autor apresentar. IV. Se o réu apresentar as contas a que foi condenado na primeira fase do processo dentro do prazo legal, o autor deverá sobre elas manifestar-se em 5 dias, mas se o réu não as apresentar, o autor em 10 dias as apresentará, sendo as contas julgadas segundo o prudente arbítrio do Juiz, que poderá determinar, se necessário, a realização do exame pericial contábil. Está correto o que consta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "370518",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: EMPLASA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimentos Especiais",
+      "Prazos",
+      "Ação de Consignação em Pagamento no CPC 1973",
+      "Ação de prestação de contas",
+      "Ações possessórias"
+    ],
+    "enunciado_principal": "Com relação às ações de procedimento especial, os prazos para contestar especificamente as ações de nunciação de obra nova, reintegração de posse, prestação de contas e consignação em pagamento são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5 dias; 15 dias; 5 dias e 15 dias"
+      },
+      {
+        "letra": "B",
+        "texto": "15 dias; 15 dias; 5 dias e 5 dias"
+      },
+      {
+        "letra": "C",
+        "texto": "15 dias; 15 dias; 10 dias e 10 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "5 dias; 15 dias; 10 dias e 15 dias"
+      },
+      {
+        "letra": "E",
+        "texto": "15 dias; 05 dias; 10 dias e 05 dias."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "372045",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Procedimento ordinário",
+      "Respostas do réu - Reconvenção",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação possessória de força velha permite o deferimento de antecipação de tutela, desde que provados os requisitos do art. 273 do Código de Processo Civil. Já na ação de força nova, o deferimento da liminar possessória exige apenas a demonstração verossímil da posse esbulhada, estando o risco na demora presumido pelo legislador."
+      },
+      {
+        "letra": "B",
+        "texto": "A nunciação ou embargo de obra nova é ação de rito especial com caráter preventivo, destinada a impedir o prosseguimento de obra (lato sensu), a fim de manter a incolumidade ou utilidade do imóvel do requerente.Estando a obra finalizada, ou em vias de finalização, o procedimento adequado é o da ação demolitória, que segue o rito ordinário."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação monitória diferencia-se da ação de execução de título extrajudicial, dentre outras razões, em face da diferença do grau de evidência do direito tutelado pelo processo monitório, em relação à maior evidência do direito a ser perseguido pelo processo executivo-obrigacional do Livro II do Código de Processo Civil."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação de prestação de contas comporta reconvenção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "201776",
+    "metadata": "Ano: 2011 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Ação de prestação de contas"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta, considerando as disposições legais, bem como a doutrina e a jurisprudência prevalentes, nas questões a seguir: Visando a obter certeza quanto à exata interpretação de cláusula contratual:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não é admissível ação declaratória;"
+      },
+      {
+        "letra": "B",
+        "texto": "é admissível ação declaratória;"
+      },
+      {
+        "letra": "C",
+        "texto": "deve ser ajuizado mandado de injunção;"
+      },
+      {
+        "letra": "D",
+        "texto": "nenhuma das alternativas anteriores (a, b, c) é correta."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

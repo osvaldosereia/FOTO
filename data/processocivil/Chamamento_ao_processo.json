@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "618042",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Paulo firmou contrato de locação residencial com Arthur pelo prazo de trinta meses. Manoel e Patrícia, genitores de Arthur, são os fiadores. Findo o prazo estabelecido em contrato Arthur desocupou o imóvel, mas deixou de pagar os últimos três alugueres e demais encargos locatícios. Paulo resolve ajuizar ação de cobrança contra Manoel e Patrícia. Neste caso, nos termos estabelecidos pelo Código de Processo Civil, Manoel e Patrícia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverão apresentar oposição contra o devedor principal Arthur."
+      },
+      {
+        "letra": "B",
+        "texto": "deverão obrigatoriamente denunciar a lide ao devedor principal Arthur."
+      },
+      {
+        "letra": "C",
+        "texto": "poderão denunciar a lide ao devedor principal Arthur."
+      },
+      {
+        "letra": "D",
+        "texto": "poderão nomear à autoria o devedor principal Arthur."
+      },
+      {
+        "letra": "E",
+        "texto": "poderão proceder ao chamamento ao processo do devedor principal Arthur."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "832020",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Sobre os institutos relativos à intervenção de terceiros no âmbito do Código de Processo Civil brasileiro, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide é ato exclusivo do réu, sendo-lhe facultativa na hipótese de o alienante, na ação em que terceiro reivindica a coisa, buscar exercer o direito que da evicção Ihe resulta."
+      },
+      {
+        "letra": "B",
+        "texto": "No chamamento ao processo, a sentença que julgar procedente a ação condenando os devedores valerá como título executivo, em favor do que satisfizer a dívida, para exigi-la, por inteiro, do devedor principal, ou de cada um dos codevedores a sua quota, na proporção que Ihes tocar."
+      },
+      {
+        "letra": "C",
+        "texto": "É inadmissível o chamamento ao processo do devedor na ação em que o fiador for réu, cabendo, nesta hipótese, a nomeação à autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "A oposição, quando oferecida depois da audiência de instrução de julgamento, será apensada aos autos principais e correrá simultaneamente com a ação vinculada, devendo, no entanto, ser julgada posteriormente à causa principal."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá denunciar à lide o proprietário ou o possuidor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "622149",
+    "metadata": "Ano: 2015 | Banca: Itame | Órgão: Câmara Municipal de Inhumas - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Sobre as modalidades de intervenção de terceiro previstas no Código de Processo Civil, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao réu em ação de indenização que detém direito de regresso contra terceiro, por força de lei ou contrato, é possível utilizar-se da forma de intervenção de terceiros denominada denunciação à lide."
+      },
+      {
+        "letra": "B",
+        "texto": "Roberto foi demandado em uma ação de cobrança por ter sido fiador de sua sogra, Isgrupina. Para trazer Isgrupina para o pólo passivo desta ação, Roberto deverá valer-se da espécie de intervenção de terceiro denominada chamamento ao processo."
+      },
+      {
+        "letra": "C",
+        "texto": "O terceiro que tiver interesse jurídico em que a sentença seja favorável a uma das partes poderá oferecer oposição contra a parte contrária."
+      },
+      {
+        "letra": "D",
+        "texto": "É obrigatória a denunciação da lide de todos os devedores solidários, quando o credor exigir de um ou de alguns dos devedores solidários, parcial ou totalmente, a dívida comum."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "598820",
+    "metadata": "Ano: 2015 | Banca: FUNCAB | Órgão: CRF-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Segundo as regras do direito processual civil brasileiro acerca da intervenção de terceiros, aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "oferecer oposição contra o titular do direito."
+      },
+      {
+        "letra": "B",
+        "texto": "nomear a autoria o proprietário ou possuidor."
+      },
+      {
+        "letra": "C",
+        "texto": "apresentar denunciação a lide para assegurar direito de regresso."
+      },
+      {
+        "letra": "D",
+        "texto": "promover o chamamento ao processo do terceiro coobrigado."
+      },
+      {
+        "letra": "E",
+        "texto": "atuar como assistente em razão da existência de interesse comum."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "580583",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO AOCP | Órgão: UFPEL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide é sempre facultativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o réu poderá fazer denunciação da lide."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível o chamamento ao processo de todos os devedores solidários, quando o credor exigir de um ou de alguns deles, parcial ou totalmente, a dívida comum."
+      },
+      {
+        "letra": "D",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá denunciar da lide o proprietário ou o possuidor."
+      },
+      {
+        "letra": "E",
+        "texto": "É inadmissível o chamamento ao processo do devedor, na ação em que o fiador for réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "571875",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "No que diz respeito à atuação do magistrado relacionada à atuação das partes e de terceiros no processo civil, assinale a opção correta de acordo com a jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Proposta ação de busca e apreensão de bem alienado fiduciariamente, o juiz deverá indeferir, por incompatibilidade com o procedimento, eventual requerimento de reconvenção feito pelo réu com o objetivo de revisão contratual ou devolução de quantias pagas a maior."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o réu denuncie à lide sua seguradora em ação de reparação de danos, será vedado ao juiz, em eventual sentença de procedência, condenar a seguradora direta e solidariamente para pagamento da indenização devida à vítima autora da demanda."
+      },
+      {
+        "letra": "C",
+        "texto": "O deferimento de assistência judiciária gratuita pode ser feito de ofício pelo magistrado ao verificar, pelos documentos juntados ao processo, que a parte atende a todos os requisitos necessários para a concessão do benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "Em ação que particular peça o fornecimento de medicamentos apenas em face de estado ou município, será legítima a decisão que indefira o chamamento ao processo da União, por considerar a intervenção um obstáculo inadequado à garantia do cidadão à saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "Em procedimento monitório no qual a fazenda pública seja ré, o magistrado deverá conceder ao ente público o prazo de quinze dias para oferecer embargos, haja vista inexistir nessa situação prazo diferenciado decorrente de prerrogativa fazendária."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "523041",
+    "metadata": "Ano: 2015 | Banca: FUNDATEC | Órgão: BRDE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Proposta uma demanda de cobrança pelo BRDE em relação a um dos fiadores solidários, o réu poderá provocar o ingresso do outro fiador por meio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da denunciação da lide."
+      },
+      {
+        "letra": "B",
+        "texto": "da nomeação à autoria."
+      },
+      {
+        "letra": "C",
+        "texto": "do chamamento ao processo."
+      },
+      {
+        "letra": "D",
+        "texto": "da assistência simples."
+      },
+      {
+        "letra": "E",
+        "texto": "da assistência litisconsorcial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "701002",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: FUNPRESP-EXE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "De acordo com as normas estabelecidas no Código de Processo Civil (CPC), qual constitui forma de intervenção de terceiro obrigatória, provocada pelo autor ou réu, àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chamamento ao processo."
+      },
+      {
+        "letra": "B",
+        "texto": "Nomeação à autoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Denunciação da lide."
+      },
+      {
+        "letra": "D",
+        "texto": "Oposição."
+      },
+      {
+        "letra": "E",
+        "texto": "Assistência."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "552946",
+    "metadata": "Ano: 2014 | Banca: IDECAN | Órgão: UFAL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Acerca da intervenção de terceiros, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Os terceiros que intervêm na lide originária nela são partes. São pessoas que se vinculam à relação processual já constituída. São sujeitos de uma outra relação de direito material que se liga intimamente àquela já constituída, ou seja, se igualam aos que já estavam litigando quando de sua intervenção. ( ) No procedimento sumário não são admissíveis a intervenção de terceiros, salvo assistência, o recurso de terceiro e a intervenção fundada em contrato de seguro, que pode ser a denunciação da lide ou o chamamento ao processo em causas de seguro. ( ) A assistência tem cabimento em qualquer tipo de procedimento e em qualquer grau de jurisdição, sendo que o assistente recebe o processo no estado em que ele se encontra, não lhe deferindo rediscutir provas e matérias preclusas. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, V."
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, V."
+      },
+      {
+        "letra": "E",
+        "texto": "V, V, V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "492063",
+    "metadata": "Ano: 2014 | Banca: COPESE - UFT | Órgão: Prefeitura de Araguaína - TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Nos termos do Código de Processo Civil é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu, poderá, até ser proferida a sentença, oferecer denunciação da lide contra ambos."
+      },
+      {
+        "letra": "B",
+        "texto": "aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá chamar ao processo o proprietário ou o possuidor."
+      },
+      {
+        "letra": "C",
+        "texto": "a denunciação da lide é obrigatória, àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      },
+      {
+        "letra": "D",
+        "texto": "é admissível a nomeação à autoria do devedor, na ação em que o fiador for réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "444024",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Ação de usucapião"
+    ],
+    "enunciado_principal": "Em uma Ação de Usucapião em que A move contra B, adquirente, sob o fundamento de que a aquisição do domínio se consumou anteriormente ao registro da escritura pública de compra e venda outorgada por C a B. B, no prazo de defesa, para resguardar seus direitos e permanecer com o domínio sobre o imóvel, deverá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não contestar a ação e denunciar da lide C."
+      },
+      {
+        "letra": "B",
+        "texto": "não contestar a ação e nomear à autoria C."
+      },
+      {
+        "letra": "C",
+        "texto": "contestar a ação e chamar ao processo C."
+      },
+      {
+        "letra": "D",
+        "texto": "contestar a ação e nomear à autoria C."
+      },
+      {
+        "letra": "E",
+        "texto": "contestar a ação e denunciar da lide C."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "438077",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: SUSAM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Kevin e Kate são grandes amigos e, em determinado momento, resolvem iniciar, conjuntamente, uma atividade empresarial. Para dar início ao negócio, ambos procuram Selma e com ela assinam um contrato de empréstimo, no qual fica estabelecido que Selma emprestará à dupla a quantia de R$ 50.000,00 (cinquenta mil reais), e que, seis meses após a assinatura do contrato, Kevin e Kate deverão devolver integralmente a quantia devidamente corrigida e acrescida de uma taxa de 5% sobre o valor emprestado. Com o vencimento do empréstimo, nos termos contratados, e a dupla não cumpre com a obrigação devida a Selma. Diante dessa situação, Selma ajuíza ação de cobrança em face de Kevin. O réu, julgando não ser correto apenas ele ter responsabilidade pelo pagamento da dívida, decide levar Kate para o processo, a fim de agir regressivamente contra ela, caso venha a pagar sozinho todo o montante previsto no contrato de empréstimo. Considerando o caso acima apresentado, assinale a opção que indica corretamente a figura de intervenção de terceiros de que Kevin deve se valer para atingir o seu propósito quanto a Kate.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chamamento ao processo."
+      },
+      {
+        "letra": "B",
+        "texto": "Nomeação à autoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Denunciação da lide"
+      },
+      {
+        "letra": "D",
+        "texto": "Oposição."
+      },
+      {
+        "letra": "E",
+        "texto": "Assistência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "433958",
+    "metadata": "Ano: 2014 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: Prefeitura de Rio de Janeiro - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "O instrumento processual que permite incluir na lide aquele que estiver obrigado pela lei a indenizar o réu em ação regressiva denomina-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nomeação à autoria"
+      },
+      {
+        "letra": "B",
+        "texto": "denunciação da lide"
+      },
+      {
+        "letra": "C",
+        "texto": "assistência litisconsorcial"
+      },
+      {
+        "letra": "D",
+        "texto": "chamamento ao processo"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "429579",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Da ação",
+      "Condições da ação",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A empresa de transportes XXX é segurada pela Empresa de Seguros YYY. Em virtude de acidente de veículo ocasionado por um dos veículos da transportadora XXX, esta vem a ser demandada em ação indenizatória pela vítima do dano. Nesse caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a transportadora deverá oferecer chamamento ao processo à Empresa de Seguros YYY, sendo que, nesse caso, esta última não poderá ser condenada diretamente em face da vítima do dano, pois não há que se falar em qualquer relação jurídica direta entre a Seguradora e a vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "a transportadora deverá, necessariamente, aguardar o desfecho da ação para depois pedir o reembolso à Empresa de Seguros YYY, pois a Seguradora não tem legitimidade para figurar na relação jurídica processual, eis que não participou do acidente."
+      },
+      {
+        "letra": "C",
+        "texto": "a transportadora deverá nomear a Empresa de Seguros YYY à autoria, pois esta última é a única legitimada, em virtude do contrato de seguro existente, a responder pelos danos causados à vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "segundo a orientação do STJ, a transportadora poderá oferecer denunciação da lide em face da Empresa de Seguros YYY, sendo que, nesse caso, esta última poderá ser condenada diretamente em face da vítima do dano, pois figurará, juntamente com a transportadora, na qualidade de litisconsorte passiva em relação à vítima."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "427902",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Nas demandas de fornecimento de medicamentos, ajuizadas contra o Estado,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "devem ser citados o Município e a União, na qualidade de litisconsortes passivos necessários."
+      },
+      {
+        "letra": "B",
+        "texto": "é vedado o chamamento ao processo da União ou do Município, realizado com espeque na solidariedade."
+      },
+      {
+        "letra": "C",
+        "texto": "não se admite a formação de litisconsórcio ativo facultativo."
+      },
+      {
+        "letra": "D",
+        "texto": "é possível a nomeação à autoria da União, com base na sua legitimidade como responsável financeira pelo Sistema Único de Saúde."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "416641",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: PGE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Acerca das diferentes espécies de intervenção de terceiros, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A nomeação à autoria visa a corrigir o polo passivo da demanda, sendo dever do réu nomear a autoria nos casos em que, na relação jurídica material, figure como mero detentor da coisa litigiosa ou quando o ato lesivo discutido tenha sido praticado por ordem ou instrução de terceiro, nesse último caso excluídas as hipóteses de relação de emprego ou comissão."
+      },
+      {
+        "letra": "B",
+        "texto": "A denunciação da lide inaugura relação jurídica processual paralela e dependente em caso de direito de regresso, sendo discutida, em jurisprudência, sua obrigatoriedade nos casos de direitos resultantes da evicção."
+      },
+      {
+        "letra": "C",
+        "texto": "A oposição é ação contraposta em que o opoente pretende, no todo ou em parte, o direito sobre o qual controvertem autor e réu, sendo seu exercício obrigatório, sob pena de perda do direito."
+      },
+      {
+        "letra": "D",
+        "texto": "O chamamento ao processo amplia o polo passivo da demanda e tem por fundamento obrigações solidárias ou, simplesmente comuns entre os obrigados, mesmo que não haja solidariedade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "416566",
+    "metadata": "Ano: 2014 | Banca: IDECAN | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "O fenômeno da intervenção de terceiros é, comumente, definido no sistema processual brasileiro como ingresso, em um processo, de quem não é parte. Tal fenômeno ocorre porque, muitas vezes, um processo produz efeitos sobre a esfera jurídica de interesses que pertencem a pessoas estranhas à relação processual. A doutrina divide as intervenções de terceiros em intervenções espontâneas e coactas. Sobre as diversas intervenções de terceiros, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite-se a ocorrência de denunciações da lide sucessivas."
+      },
+      {
+        "letra": "B",
+        "texto": "É admissível o chamamento ao processo do devedor, na ação em que o fiador for réu."
+      },
+      {
+        "letra": "C",
+        "texto": "A nomeação à autoria pode ser feita por qualquer réu que pretenda corrigir a ilegitimidade passiva de uma ação."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide é espécie de intervenção de terceiros, que pode ser feita pelo autor ou pelo réu de uma ação."
+      },
+      {
+        "letra": "E",
+        "texto": "Para que a nomeação à autoria se concretize, promovendo troca de réus em uma ação, com ela precisam concordar autor e nomeado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "408730",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Da ação",
+      "Condições da ação",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "B. é proprietário de uma chácara a 50 km de Goiânia. Após uma viagem de três meses pela Europa, B. se deparou com um sujeito chamado J. ocupando o seu imóvel. J. estava morando na chácara de B. a pedido de V., que havia tomado posse do imóvel e se apresentado como seu dono, tendo contratado J. para cuidar da chácara como caseiro. Sem saber da situação, B. ajuizou ação reivindicatória em face de J., visando a imediata desocupação do imóvel, bem como a reparação dos prejuízos decorrentes da invasão. Sendo citado nos termos da ação proposta, J.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá chamar ao processo o verdadeiro esbulhador da posse de B., o senhor V., conforme demonstrado na narrativa dos fatos."
+      },
+      {
+        "letra": "B",
+        "texto": "deverá nomear à autoria o senhor V., de forma a regularizar o polo passivo da demanda, sob pena de responder por perdas e danos decorrentes da extinção do processo sem resolução de mérito"
+      },
+      {
+        "letra": "C",
+        "texto": "poderá denunciar à lide o senhor V., tendo em vista o seu direito de regresso contra este em caso de eventual condenação à reparação civil pecuniária de perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá ser assistido pelo senhor V., que possui total interesse no julgamento de improcedência da ação reivindicatória."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá apresentar defesa de mérito na ação, tendo em vista a sua legitimidade passiva para a demanda ajuizada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "402224",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "A modalidade de intervenção de terceiros que se presta a assegurar a efetivação do direito de regresso em favor da parte eventualmente sucumbente no processo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a nomeação à autoria."
+      },
+      {
+        "letra": "B",
+        "texto": "a assistência."
+      },
+      {
+        "letra": "C",
+        "texto": "a denunciação da lide."
+      },
+      {
+        "letra": "D",
+        "texto": "o chamamento ao processo."
+      },
+      {
+        "letra": "E",
+        "texto": "a oposição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "393013",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Lucius, em razão de contrato de prestação de serviços médicos através de seguro-saúde, está obrigado a indenizar, em ação regressiva, o prejuízo que a empresa titular do seguro-saúde terá se perder ação de reparação de danos morais e materiais proposta por paciente que foi vítima de erro médico. Lucius será convocado para intervir no processo através",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da denunciação da lide."
+      },
+      {
+        "letra": "B",
+        "texto": "do chamamento ao processo."
+      },
+      {
+        "letra": "C",
+        "texto": "da nomeação à autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "da oposição sucessiva."
+      },
+      {
+        "letra": "E",
+        "texto": "da assistência simples."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "390973",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "O chamamento ao processo, considerado como espécie de intervenção de terceiros no processo, é cabível:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na hipótese de ação ajuizada em face do detentor de coisa alheia, como se sua fosse."
+      },
+      {
+        "letra": "B",
+        "texto": "para a citação dos demais fiadores, quando apenas um deles figurar, originalmente, no polo passivo."
+      },
+      {
+        "letra": "C",
+        "texto": "pelo evicto, na ação em que o terceiro reivindica a coisa alienada."
+      },
+      {
+        "letra": "D",
+        "texto": "para chamar ao processo aquele que, pela lei ou pelo contrato, tem obrigação de indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "366586",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: UNICAMP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "No procedimento comum ordinário, é admissível o chama­mento ao processo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do alienante, na ação em que terceiro reivindica a coisa cujo domínio foi transferido à parte, a fim de que esta possa exercer o direito que da evicção lhe resulta."
+      },
+      {
+        "letra": "B",
+        "texto": "daquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que per­der a demanda."
+      },
+      {
+        "letra": "C",
+        "texto": "do proprietário ou do possuidor, por aquele que detiver a coisa em nome alheio."
+      },
+      {
+        "letra": "D",
+        "texto": "do proprietário ou possuidor indireto quando o réu, cita­do em nome próprio, exercer a posse direta da coisa demandada."
+      },
+      {
+        "letra": "E",
+        "texto": "dos devedores solidários, na demanda em que o credor cobrar de um ou de alguns deles a dívida comum."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "361728",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o autor recusar a nomeação à autoria pleiteada pela ré, esta não terá direito à abertura de novo prazo para contestação"
+      },
+      {
+        "letra": "B",
+        "texto": "O regime do litisconsórcio necessário assegura decisão unitária para todos os litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito do evicto de indenizar-se do pagamento indevido em face do anterior alienante não se condiciona à denunciação da lide em ação de terceiro reivindicante."
+      },
+      {
+        "letra": "D",
+        "texto": "A alienação do objeto litigioso não altera a legitimidade processual das partes, de forma que o legitimado superveniente não poderá, como parte, ingressar no feito como assistente litisconsorcial."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com o STJ, o cabimento do chamamento ao processo em fase de execução evidencia a aplicação dos princípios da economicidade e celeridade processual."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "361190",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 19ª Região (AL)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Sobre litisconsórcio e intervenção de terceiros, segundo as regras do Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o necessário e multitudinário poderá ser indeferido pelo juiz da causa, quando este comprometer a rápida solução do litígio."
+      },
+      {
+        "letra": "B",
+        "texto": "os atos de um litisconsorte não beneficiarão os demais, ainda que o litisconsórcio seja unitário."
+      },
+      {
+        "letra": "C",
+        "texto": "pendendo uma causa entre duas ou mais pessoas, o terceiro, que tiver interesse jurídico em que a sentença reconheça seu direito e lhe seja favorável, poderá intervir somente como assistente litisconsorcial."
+      },
+      {
+        "letra": "D",
+        "texto": "é obrigatório o chamamento ao processo de todos os devedores solidários, quando o credor exigir de um ou de alguns deles, parcial ou totalmente, a dívida comum."
+      },
+      {
+        "letra": "E",
+        "texto": "feita a denunciação da lide pelo autor, o denunciado, comparecendo, assumirá a posição de litisconsorte do denunciante e poderá aditar a petição inicial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "433117",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "João, citado em nome próprio em determinada ação, alega ser possuidor direto da coisa demandada, que é objeto de obrigação pignoratícia. Nesse caso, é cabível a intervenção de terceiros nos termos da qual é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João deverá denunciar a lide ao proprietário e, ordenada a citação do denunciado, suspende-se o processo"
+      },
+      {
+        "letra": "B",
+        "texto": "trata-se de hipótese de chamamento ao processo que possui caráter obrigatório."
+      },
+      {
+        "letra": "C",
+        "texto": "na hipótese, é cabível a oposição, oferecida obrigatoriamente no prazo de resposta do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "a qualquer tempo, desde que antes da Audiência de Instrução e Julgamento, João poderá nomear a autoria ao proprietário."
+      },
+      {
+        "letra": "E",
+        "texto": "João poderá denunciar a lide ao proprietário, mesmo depois de transcorrido o prazo de resposta do réu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "410540",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Considere que Rafael seja proprietário de imóvel localizado em um condomínio do município X, no qual Manoel trabalha como caseiro, e, ainda, que o condomínio tenha ajuizado demanda motivada por atraso de cotas condominiais contra Manoel, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manoel deve chamar ao processo Rafael no prazo de defesa, e, se deferido o pedido, o processo será suspenso e será ordenada a citação de Rafael."
+      },
+      {
+        "letra": "B",
+        "texto": "Manoel deve nomear à autoria Rafael no prazo da defesa e, se deferido o pedido, o processo será suspenso e o juiz deverá mandar ouvir o condomínio no prazo de cinco dias."
+      },
+      {
+        "letra": "C",
+        "texto": "O caseiro deve nomear Rafael à autoria e requerer a citação de seu patrão no prazo para contestação e, se a nomeação for presumidamente aceita, o juiz deverá ouvir Manoel no prazo de cinco dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Manoel deve denunciar à lide e requerer que Rafael seja citado dentro de dez dias, para evitar que a ação prossiga unicamente em relação a si."
+      },
+      {
+        "letra": "E",
+        "texto": "O caseiro deve denunciar Rafael à lide no prazo para a defesa, fato que acarretará a suspensão do processo para que o denunciado seja ouvido no prazo de dez dias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "410115",
+    "metadata": "Ano: 2013 | Banca: IADES | Órgão: CAU-BR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Acerca da intervenção de terceiros, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu, poderá, até ser proferida a sentença, oferecer oposição contra ambos."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de demanda judicial, aquele que detiver coisa que está em nome alheio, deverá, em seu próprio nome, responder pela demanda."
+      },
+      {
+        "letra": "C",
+        "texto": "Nomeação à autoria é obrigatório quando, ao alienante, na ação em que terceiro reivindica a coisa, cujo domínio foi transferido à parte, a fim de que esta possa exercer o direito que da evicção lhe resulta."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ação que cobra o fiador de um contrato, é inadmissível o chamamento ao processo do devedor principal."
+      },
+      {
+        "letra": "E",
+        "texto": "Feita a denunciação pelo autor, o denunciado, comparecendo, não será obrigado a assumir a posição de litisconsorte do denunciante."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "405323",
+    "metadata": "Ano: 2013 | Banca: IBFC | Órgão: MPE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Com relação à intervenção de terceiros no processo civil, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas causas em que é oferecida a oposição, o juiz decidirá primeiro a lide principal, em seguida, a oposição."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo- Ihe demandada em nome próprio, deverá chamar ao processo o proprietário ou o possuidor."
+      },
+      {
+        "letra": "C",
+        "texto": "A denunciação da lide é obrigatória ao proprietário ou ao possuidor indireto quando, por força de obrigação ou direito, em casos como o do usufrutuário, do credor pignoratício, do locatário, o réu, citado em nome próprio, exerça a posse direta da coisa demandada."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas causas em que interveio o assistente, simples ou litisconsorcial, uma vez transitada em julgado a sentença, este não poderá, em hipótese alguma, em processo posterior, discutir a justiça da decisão."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas causas em que interveio o assistente, a parte principal não poderá reconhecer a procedência do pedido, desistir da ação ou transigir sobre direitos controvertidos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "401390",
+    "metadata": "Ano: 2013 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "A sentença proferida num processo, em princípio, só deve atingir, favorecer ou prejudicar as partes (autor e réu). Todavia, há situações em que a decisão tomada num processo tem reflexo em outra relação jurídica de direito material, estendendo indiretamente os efeitos da sentença a terceira pessoa, estranha à relação jurídica processual originária. O “terceiro juridicamente interessado” pode, com o escopo de defender interesse próprio, intervir voluntariamente no processo, ou mediante provocação de uma das partes. Sobre as hipóteses de intervenção de terceiros no processo civil brasileiro, está INCORRETA a seguinte proposição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O indivíduo que pretende evitar que seja proferida, em determinado processo, decisão desfavorável a uma das partes que, mediata ou imediatamente, possa lhe trazer prejuízos pode fazer uso da assistência, modalidade de intervenção de terceiros voluntária, que não suspende o andamento do processo."
+      },
+      {
+        "letra": "B",
+        "texto": "A oposição é a modalidade de intervenção de terceiros voluntária pela qual um terceiro pretende o mesmo direito sobre o qual outros sujeitos litigam em um processo já pendente, sendo que o seu julgamento é questão prévia e prejudicial à demanda originária."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá convocar o proprietário ou possuidor a participar da demanda, através do chamamento ao processo."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação à lide é obrigatória para aquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é cabível intervenção de terceiros nas ações que tramitam nos juizados especiais cíveis."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "388852",
+    "metadata": "Ano: 2013 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Procedimento sumário",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em razão de haver expressa proibição legal, não se admite a intervenção de terceiros no procedimento sumário, ainda que a denunciação da lide tenha como fundamento contrato de seguro."
+      },
+      {
+        "letra": "B",
+        "texto": "o autor da oposição (opoente) deve deduzi-la contra os réus (opostos), que são, por força de lei, autor e réu da ação principal, devendo ser formado litisconsórcio necessário."
+      },
+      {
+        "letra": "C",
+        "texto": "a nomeação à autoria é dever imposto pela lei ao réu que, se descumprido, sujeita-o a responder por perdas e danos. E, para que o réu-nomeante se retire do processo e o nomeado assuma seu lugar como novo sujeito passivo (réu) da relação processual, exige-se a concordancia do autor ou do nomeado à autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "o chamamento ao processo dá-se por iniciativa do réu, com o objetivo de chamar o devedor principal ou os codevedores solidários ao feito e depende do assentimento do autor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "382850",
+    "metadata": "Ano: 2013 | Banca: CEPERJ | Órgão: CEDERJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Febo é designado como vigia da propriedade de Marco. Em determinado dia, é surpreendido com citação realizada em processo civil, sendo autor Cláudio, alegando este que haveria violação à sua posse. Após contratar advogado, Febo apresenta a defesa cabível que seria, no sistema processual positivo, a alegação de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "litisconsórcio"
+      },
+      {
+        "letra": "B",
+        "texto": "oposição"
+      },
+      {
+        "letra": "C",
+        "texto": "denunciação da lide"
+      },
+      {
+        "letra": "D",
+        "texto": "chamamento ao processo"
+      },
+      {
+        "letra": "E",
+        "texto": "nomeação à autoria"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "371572",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "A respeito do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações de improbidade administrativa, o ente estatal lesado deverá ingressar no polo ativo do feito, sob pena de nulidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Conforme a jurisprudência pacificada do STJ, é solidária a condenação da seguradora interveniente por meio da assistência litisconsorcial."
+      },
+      {
+        "letra": "C",
+        "texto": "Em atenção à celeridade e à eficiência processual, o STJ considera ser cabível o chamamento ao processo em fase de execução."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com o STJ, nas ações de indenização fundadas na responsabilidade civil objetiva do Estado, é vedada a denunciação à lide do agente público supostamente responsável pelo ato lesivo."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com entendimento do STJ, não há óbice ao deferimento de assistência simples em mandado de segurança"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "359235",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código de Processo Civil sobre as figuras de intervenção de terceiros, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide de outros fiadores é admissível quando, para a ação, for citado apenas um deles"
+      },
+      {
+        "letra": "B",
+        "texto": "Por meio da oposição, busca-se obter a coisa ou o direito que está sendo disputado em processo pendente."
+      },
+      {
+        "letra": "C",
+        "texto": "chamamento ao processo pode ensejar a formação e litisconsórcio ulterior, passivo, facultativo e unitário."
+      },
+      {
+        "letra": "D",
+        "texto": "A aceitação expressa da nomeação à autoria acarreta o fenômeno da extromissão da parte ré originária."
+      },
+      {
+        "letra": "E",
+        "texto": "A denunciação da lide feita pelo réu prescinde de oferecimento formal de contestação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "350942",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "À luz da jurisprudência do STJ, julgue os seguintes itens, referentes ao litisconsórcio e à intervenção de terceiros. Um estado da Federação que seja demandado judicialmente para fornecer medicamentos a um cidadão poderá chamar a União ao processo, hipótese em que ocorrerá deslocamento de competência para a justiça federal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "350508",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Moraes Silveira envolve-se em acidente automobilístico em Salvador, colidindo seu veículo com o de Consuelo, a quem acusa de haver provocado danos ao dirigir negligentemente. Propõe ação contra Consuelo, cujo carro estava segurado contra acidentes. Querendo que a seguradora componha o polo passivo da lide, o advogado de Consuelo deverá requerer, visando à eventual formação de título judicial contra a seguradora,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sua oposição."
+      },
+      {
+        "letra": "B",
+        "texto": "seu chamamento ao processo."
+      },
+      {
+        "letra": "C",
+        "texto": "sua nomeação à autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "sua assistência."
+      },
+      {
+        "letra": "E",
+        "texto": "sua denunciação da lide."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "332700",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: DETRAN-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "No tocante à intervenção de terceiros, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide é obrigatória àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é admissível o chamamento ao processo no ordenamento jurídico brasileiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Àquele que detiver a coisa em nome alheio, sendo- lhe demandada em nome próprio, é facultado nomear à autoria o proprietário ou o possuidor."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabendo ao juiz decidir simultaneamente a ação e a oposição, conhecerá àquela emprimeiro lugar."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a denunciação da lide no direito brasileiro."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "331374",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Cláudia alugou imóvel residencial de propriedade de Rodolf o, pelo prazo de 2 (dois) anos. As partes acordaram a fiança como forma de garantia, de modo que Helena e Paulo (amigos de Cláudia) assumiram a condição de fiadores. Passando por dificuldades financeiras, Cláudia deixou de pagar o aluguel, razão pela qual Rodolfo ajuizou ação de despejo cumulada com ação de cobrança, exclusivamente em face de Cláudia e Helena. Diante deste cenário, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Helena poderá valer-se do chamamento ao processo para que Paulo integre o polo passivo da lide."
+      },
+      {
+        "letra": "B",
+        "texto": "Cláudia poderá valer-se da denunciação à lide em face de Paulo, sendo vedado a este recusar a denunciação."
+      },
+      {
+        "letra": "C",
+        "texto": "Cláudia e Helena não podem se utilizar de nenhuma das modalidades de intervenção de terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláudia poderá valer-se do chamamento ao processo para que Paulo integre o polo passivo da lide."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "329216",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Nomeação à autoria",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "A respeito do litisconsórcio, da assistência e da intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para o julgamento de ação proposta por litisconsortes ativos voluntários domiciliados em distintos estados da Federação, quando o pedido se originar de natureza comum, são competentes tanto o foro da sede da ré quanto o do domicílio de um dos autores."
+      },
+      {
+        "letra": "B",
+        "texto": "A recusa pelo autor da nomeação à autoria pleiteada pela ré impede a abertura de novo prazo para que a nomeante apresente contestação, dada a violação do princípio da igualdade de tratamento às partes."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com entendimento do STJ, não há óbice ao chamamento ao processo dos devedores solidários da dívida comum em fase de execução do título executivo extrajudicial cujo crédito tenha sido discutido em processo de conhecimento prévio à execução."
+      },
+      {
+        "letra": "D",
+        "texto": "No mandado de segurança, somente se admite o litisconsórcio ativo voluntário quando postulado no momento do ajuizamento da ação, sob pena de violação do princípio do juiz natural."
+      },
+      {
+        "letra": "E",
+        "texto": "O assistente litisconsorcial, embora não seja considerado interveniente secundário e acessório, uma vez que a relação discutida entre o assistido e o seu adversário também lhe pertence, não terá tratamento processual idêntico ao do conferido ao assistido."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322954",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: IPEM-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Ao réu em ação de indenização que detém direito de regresso contra terceiro, por força de lei ou contrato, é possível utilizar-se da seguinte forma de intervenção de terceiros no processo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "chamamento ao processo."
+      },
+      {
+        "letra": "B",
+        "texto": "denunciação da lide."
+      },
+      {
+        "letra": "C",
+        "texto": "oposição."
+      },
+      {
+        "letra": "D",
+        "texto": "nomeação à autoria."
+      },
+      {
+        "letra": "E",
+        "texto": "assistência simples."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "322417",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: AL-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "No que concerne à intervenção de terceiros, é INCORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "feita a denunciação à lide pelo demandante, se o demandado não comparecer, o processo será julgado à sua revelia."
+      },
+      {
+        "letra": "B",
+        "texto": "a denunciação à lide pode dar-se tanto pelo demandante, como pelo demandado."
+      },
+      {
+        "letra": "C",
+        "texto": "no chamamento ao processo, aceito o chamamento, forma-se um litisconsórcio facultativo simples entre o chamante e o chamado."
+      },
+      {
+        "letra": "D",
+        "texto": "a oposição pode ser oferecida em qualquer fase do processo, inclusive na segunda instância, após a sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "oferecida a oposição, os opostos serão citados na pessoa de seus advogados, podendo oferecer contestação, bem como apresentar exceção ou reconvenção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322208",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "No que concerne à intervenção de terceiros, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O locatário é legitimado a denunciar a lide ao proprietário, quando demandado por terceiro em nome próprio, podendo a lide acarretar-lhe a perda da posse."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá oferecer oposição ao proprietário ou ao possuidor."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível o chamamento ao processo do fiador na ação de conhecimento de cobrança em que o devedor seja réu."
+      },
+      {
+        "letra": "D",
+        "texto": "Deixando de nomear à autoria, aquele a quem incumbia a nomeação sofrerá consequências apenas de ordem processual, visto que a referida intervenção de terceiros tem natureza jurídica de instrumento processual de celeridade para a solução da lide."
+      },
+      {
+        "letra": "E",
+        "texto": "O chamamento ao processo não caracteriza intervenção de terceiros."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "309093",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Nas opções a seguir, são apresentadas situações hipotéticas seguidas de uma assertiva a ser julgada a respeito da intervenção de terceiros no processo. Assinale a opção em que a assertiva apresentada está correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos adquiriu um veículo da montadora X e, após usar o carro por aproximadamente 100 km, a barra de direção do veículo se quebrou, o que provocou a colisão do carro com a pilastra do prédio onde Carlos vive, causando diversos danos. Por isso, Carlos propôs ação contra a empresa, tendo sido adotado, pelo valor da causa, o procedimento sumário. Nessa situação, será lícito à montadora proceder ao chamamento de sua seguradora ao processo, caso em que, havendo condenação de ambas, a responsabilidade será solidária."
+      },
+      {
+        "letra": "B",
+        "texto": "Joana e Marta são fiadoras do contrato de locação de Rafael, que deixou de pagar os aluguéis, razão por que foi pedida a condenação de Joana ao pagamento do valor correspondente. Nessa situação, Joana poderá, na contestação, proceder à nomeação à autoria de Marta, com a finalidade de estabelecer sua responsabilidade pela dívida."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedro propôs contra o DF demanda fundada em ato culposo de servidor público que lhe causou dano. Nessa situação, o DF deve denunciar o servidor à lide, sob pena de perda do direito de regresso."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao construir uma cerca na fazenda de Manoel, onde é empregado responsável por cuidar da propriedade, Nelson invadiu a fazenda de Antônio, que, em razão disso, entrou com ação possessória contra ele. Nessa situação, por ser apenas detentor do imóvel, Nelson, ao ser citado, deverá proceder ao chamamento ao processo de Manoel."
+      },
+      {
+        "letra": "E",
+        "texto": "Daniel propôs ação reivindicatória de imóvel contra Paulo, que, em sua defesa, alegou ser o proprietário do imóvel, e Jorge, afirmando ser o possuidor do imóvel, ofereceu oposição contra ambos. Nessa situação, caso a oposição tenha sido proposta depois da audiência de instrução, o procedimento do processo de Daniel contra Paulo deverá ficar sobrestado até que a oposição possa ser julgada em conjunto com ele."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1237553",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TRE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Com relação ao direito processual civil, julgue o item seguinte. O chamamento ao processo, a denunciação à lide e a oposição são cabíveis tanto no processo de execução e no processo cautelar quanto no processo de conhecimento.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "372042",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O assistente simples defende direito próprio no processo em que participa nessa condição."
+      },
+      {
+        "letra": "B",
+        "texto": "A assistência litisconsorcial é, também, reconhecida, em doutrina, como verdadeira intervenção litisconsorcial ulterior. É fundamental que seja requerida ao juiz da causa sob o fundamento de que o habilitando é parte em relação jurídica material e que o outro polo de tal relação é composto pelo adversário do assistido."
+      },
+      {
+        "letra": "C",
+        "texto": "A oposição é espécie de intervenção de terceiro que compete a quem pretender o direito, ou a coisa, que é objeto da demanda. Na oposição, o terceiro opoente deduz demanda contra ambas as partes do processo, podendo apresentá-la em qualquer tempo ou grau de jurisdição."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide e o chamamento ao processo são espécies de intervenção de terceiro cabíveis tanto no processo de conhecimento, como no processo de execução."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "312080",
+    "metadata": "Ano: 2012 | Banca: OFFICIUM | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Assinale a assertiva incorreta relativamente à intervenção de terceiros.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distribuída a oposição, serão os opostos citados, na pessoa dos seus respectivos advogados, para contestar o pedido no prazo comum de 15 (quinze) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "É admissível o chamamento ao processo dos outros fiadores, quando para a ação for citado apenas um deles."
+      },
+      {
+        "letra": "C",
+        "texto": "Em ação de reparação de danos movida em face do segurado, a seguradora denunciada pode ser condenada direta e solidariamente junto com este a pagar indenização à vítima, nos limites contratados da apólice."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de nomeação à autoria, se o nomeado recusar a nomeação, esta ficará sem efeito."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de denunciação à lide pelo autor, o denunciado, comparecendo, assumirá a posição de litisconsorte, mas não poderá aditar a petição inicial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "270726",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Modificação de competência"
+    ],
+    "enunciado_principal": "Considerando o disposto no Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a alteração superveniente da competência, ditada por norma constitucional, invalida a sentença anteriormente proferida."
+      },
+      {
+        "letra": "B",
+        "texto": "o chamamento ao processo é cabível em qualquer espécie de procedimento, no processo de cognição e de execução."
+      },
+      {
+        "letra": "C",
+        "texto": "o Ministério Público tem legitimidade para propor ação rescisória de sentença, se não foi ouvido no processo em que lhe era obrigatória a intervenção."
+      },
+      {
+        "letra": "D",
+        "texto": "por ser qualificada como obrigatória nos casos legalmente previstos no sistema do Código de Processo Civil, a denunciação da lide pode ser realizada de ofício."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "486580",
+    "metadata": "Ano: 2011 | Banca: UPENET/IAUPE | Órgão: Prefeitura de Olinda - PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A oposição possui por limite temporal o trânsito em julgado da sentença da causa principal e deve ser proposta perante o juízo competente para apreciar o recurso interposto. Assim, se o processo principal estiver em grau de recurso, perante o Supremo Tribunal Federal, a oposição deverá ser proposta perante este órgão judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "A nomeação à autoria somente é cabível quando o mero detentor é demandado e indica aquele que é o proprietário ou possuidor da coisa litigiosa, visando-lhe transferir a posição de réu."
+      },
+      {
+        "letra": "C",
+        "texto": "O chamamento ao processo é o incidente pelo qual o devedor demandado chama para integrar o mesmo processo os coobrigados pela dívida, de modo a fazê-los também responsáveis pelo resultado do feito, sendo uma faculdade do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "Na assistência, em qualquer das suas modalidades, o assistente pode opor recurso, ainda quando o assistido não o faça."
+      },
+      {
+        "letra": "E",
+        "texto": "A Denunciação a lide é o ato pelo qual somente o réu procura trazer a juízo para melhor tutelar seu direito, terceiro denunciado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "210915",
+    "metadata": "Ano: 2011 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "Sobre a intervenção de terceiros, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá denunciar a lide ao proprietário ou possuidor."
+      },
+      {
+        "letra": "B",
+        "texto": "é admissível o chamamento ao processo do proprietário ou do possuidor indireto quando, por força de obrigação ou direito, em casos como o do usufrutuário, do credor pignoratício, do locatário, o réu, citado em nome próprio, exerça a posse direta da coisa demandada."
+      },
+      {
+        "letra": "C",
+        "texto": "a denunciação da lide é obrigatória àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      },
+      {
+        "letra": "D",
+        "texto": "não é admissível o chamamento ao processo dos devedores solidários quando o credor exigir, de um ou de alguns deles, parcial ou totalmente, a dívida comum."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1196686",
+    "metadata": "Ano: 2010 | Banca: ACAPLAM | Órgão: Prefeitura de Galinhos - RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "É admissível o chamamento ao processo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dos outros fiadores, desde que a citação se proceda antes do despacho inicial."
+      },
+      {
+        "letra": "B",
+        "texto": "Do devedor, na ação em que o fiador for réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Dos outros fiadores, quando para a ação for citado apenas um deles."
+      },
+      {
+        "letra": "D",
+        "texto": "De todos os devedores solidários, quando o credor exigir de um ou de alguns deles, parcialmente a dívida comum."
+      },
+      {
+        "letra": "E",
+        "texto": "De todos os devedores solidários, quando o credor exigir de um ou de alguns deles, totalmente a dívida comum."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "495183",
+    "metadata": "Ano: 2010 | Banca: IV - UFG | Órgão: Prefeitura de Aparecida de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "J. interpõe ação de reintegração de posse em face de C., sob o argumento de que este está lavrando terras depropriedade do demandante e, pois, usurpando-lhe a posse. O réu C., embora arrendatário da gleba de propriedade de M., e, portanto, seu possuidor direto, é citado “emnome próprio”, isto é, como se fora possuidor pleno. Emtais circunstâncias,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá denunciar a lide ao seu arrendante M., possuidor indireto"
+      },
+      {
+        "letra": "B",
+        "texto": "deverá chamar ao processo seu arrendante M., possuidor indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "deverá nomear à autoria seu arrendante M., possuidor indireto."
+      },
+      {
+        "letra": "D",
+        "texto": "arrendante, deverá ingressar na lide como assistente litisconsorcial de C., possuidor direto."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "407169",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Recursos",
+      "Da Intervenção de terceiros",
+      "Procedimento ordinário",
+      "Revelia",
+      "Chamamento ao processo",
+      "Da extinção do processo",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Aplica-se o procedimento ordinário que é o procedimento padrão e básico para a tutela dos direitos, quando não está previsto um procedimento especial e quando não é de observar-se o procedimento sumário, sendo CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o chamamento ao processo é permitido àquele que detiver a coisa em nome alheio, sendo demandado em nome próprio."
+      },
+      {
+        "letra": "B",
+        "texto": "o autor poderá alterar o pedido ou a causa de pedir, independentemente de nova citação do réu, quando ocorrer a revelia."
+      },
+      {
+        "letra": "C",
+        "texto": "formulado pedido certo e determinado, autor e réu têm interesse recursal em arguir o vício da sentença ilíquida."
+      },
+      {
+        "letra": "D",
+        "texto": "a conexão determina a reunião dos processos, ainda no caso de um deles já ter sido julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "189806",
+    "metadata": "Ano: 2010 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "A Petróleo Brasileiro S.A. – Petrobras pretende ingressar com ação cível visando à reparação de danos materiais que lhe foram causados por pessoa física já falecida. O advogado da Petrobras responsável pelo ajuizamento da ação verifica, nos autos do inventário, a nomeação de inventariante dativo. Nesse caso, ao propor a ação de reparação, deverá requerer a citação, como réu(s), do(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "espólio, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "testamenteiro."
+      },
+      {
+        "letra": "C",
+        "texto": "inventariante dativo."
+      },
+      {
+        "letra": "D",
+        "texto": "meeiro ou da meeira, se houver."
+      },
+      {
+        "letra": "E",
+        "texto": "herdeiros e sucessores, em sua totalidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "391109",
+    "metadata": "Ano: 2009 | Banca: FUMARC | Órgão: DPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Oposição na Intervenção de Terceiros no CPC 1973",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo"
+    ],
+    "enunciado_principal": "A respeito das diversas formas de intervenção de terceiros, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A denunciação da lide é cabível ao proprietário, quando o réu, citado em nome próprio, exerce a posse direta da coisa demandada."
+      },
+      {
+        "letra": "B",
+        "texto": "Na oposição, o terceiro opoente coloca-se contrário à pretensão deduzida pelo autor, auxiliando o réu."
+      },
+      {
+        "letra": "C",
+        "texto": "A correção do pólo passivo da demanda é feita através do chamamento ao processo daquele que nela deve figurar como réu."
+      },
+      {
+        "letra": "D",
+        "texto": "A nomeação à autoria é cabível quando apenas um dos devedores solidários é acionado judicialmente e pretende, no mesmo processo, a responsabilização dos co-devedores."
+      },
+      {
+        "letra": "E",
+        "texto": "A oposição, oferecida antes da audiência, será processada nos autos principais e correrá simultaneamente com a ação."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

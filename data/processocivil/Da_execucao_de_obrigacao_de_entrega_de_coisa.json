@@ -1,0 +1,101 @@
+[
+  {
+    "id": "537548",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de entrega de coisa"
+    ],
+    "enunciado_principal": "A respeito da execução para entrega de coisa certa, considere: I. Se o devedor não entregar nem depositar a coisa, consistente em bem móvel, nem tiver admitidos embargos à execução, com efeito suspensivo, expedir-se-á, em favor do credor, mandado de imissão na posse. II. Se terceiro adquirir a coisa, quando já litigiosa, expedir-se-á mandado contra ele (terceiro), que será ouvido apenas depois de depositá-la. III. Apresentados embargos e depositada a coisa, o exequente somente poderá levantá-la se o julgamento lhe for favorável. IV. Para evitar o descumprimento da obrigação, poderá o juiz, desde que a requerimento do exequente, fixar multa, cujo valor será revertido ao credor a fim de compensá-lo por perdas e danos. De acordo com o Código de Processo Civil, está correto o que consta APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "415965",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: INEA-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de entrega de coisa"
+    ],
+    "enunciado_principal": "A respeito da execução da entrega de coisa, analise as afirmativas a seguir.I. O devedor de obrigação de entrega de coisa certa, constante de título executivo extrajudicial, será citado para, dentro de dez dias, satisfazer a obrigação ou, segundo o juízo, apresentar embargos.II. O devedor de obrigação de entrega de coisa certa, constante de título executivo extrajudicial, quando quiser propor embargos, poderá depositar a coisa em vez de entregá-la. III. Na execução que recaia sobre coisas determinadas pelo gênero e quantidade, o devedor será citado para entregá-las individualizadas, pois sempre lhe cabe a escolha. Assinale:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se somente a afirmativa III estiver correta."
+      },
+      {
+        "letra": "B",
+        "texto": "se somente as afirmativas II e III estiverem corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "se somente a afirmativa II estiver correta."
+      },
+      {
+        "letra": "D",
+        "texto": "se somente as afirmativas I e II estiverem corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "se somente a afirmativa I estiver correta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "535306",
+    "metadata": "Ano: 2011 | Banca: PGE-PA | Órgão: PGE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de entrega de coisa"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O devedor de obrigação de entrega de coisa certa, constante de título executivo extrajudicial, será citado para, dentro de 10 (dez) dias, satisfazer a obrigação ou, seguro o juízo (artigo 737, II do CPC), apresentar embargos."
+      },
+      {
+        "letra": "B",
+        "texto": "A execução por quantia incerta tem por objeto expropriar bens do devedor, a fim de satisfazer o direito do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "Na execução por quantia certa contra a Fazenda Pública, citar-se-á a devedora para opor embargos em 05 (cinco) dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando a execução recair sobre coisas determinadas pelo gênero e quantidade, o devedor será citado para entregá-las no prazo de 03 (três) dias."
+      },
+      {
+        "letra": "E",
+        "texto": "É definitiva a execução fundada em título extrajudicial; é provisória enquanto pendente a apelação da sentença de improcedência dos embargos do executado, quando recebidos com efeito devolutivo."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

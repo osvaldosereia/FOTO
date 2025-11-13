@@ -1,0 +1,102 @@
+[
+  {
+    "id": "620591",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da Execução em Geral - Responsabilidade Patrimonial e Impenhorabilidade",
+      "Das Defesas do Devedor: Defesas Heterotópicas"
+    ],
+    "enunciado_principal": "Acerca da execução, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciada a execução de título extrajudicial, a fraude contra credores poderá ser reconhecida em embargos de terceiro, com a consequente anulação do ato jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratando-se de execução de título extrajudicial, a fixação de multa para cumprimento de obrigação específica pelo devedor e a sua conversão em perdas e danos dependem de requerimento do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "A citação por hora certa, por ser incompatível com o rito, é vedada no processo de execução, consoante entendimento sumulado pelo STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "A averbação da constrição de bem imóvel no cartório de registro de imóveis, embora prevista na legislação processual civil, não é condição de validade da penhora."
+      },
+      {
+        "letra": "E",
+        "texto": "As sentenças condenatórias cíveis e penais, ainda que não transitadas em julgado, constituem títulos executivos judiciais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "600809",
+    "metadata": "Ano: 2016 | Banca: FAU | Órgão: Prefeitura de Chopinzinho - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Defesas Heterotópicas"
+    ],
+    "enunciado_principal": "Sobre os Embargos de Terceiro, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se admite Embargos de Terceiro para o credor com garantia real obstar alienação judicial do objeto da hipoteca, penhor ou anticrese."
+      },
+      {
+        "letra": "B",
+        "texto": "Os embargos poderão ser contestados no prazo de 15 (quinze) dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Os embargos serão distribuídos de forma independente e correrão perante o mesmo juiz que ordenou a apreensão."
+      },
+      {
+        "letra": "D",
+        "texto": "Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença, e, no processo de execução, até 5 (cinco) dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta."
+      },
+      {
+        "letra": "E",
+        "texto": "Os embargos podem ser de terceiro senhor e possuidor, mas não apenas de possuidor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "597310",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Das Defesas do Devedor: Defesas Heterotópicas"
+    ],
+    "enunciado_principal": "Embargos de terceiro é a ferramenta utilizada por aquele que, não sendo parte no processo, sofre alguma constrição judicial em seus bens. Sobre tal instituto, conforme descrito no Código de Processo Civil, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tal instrumento só poderá ser utilizado em ações que versem sobre execução e cumprimento de sentença, tendo em vista que nesses procedimentos constantemente são realizados atos judiciais de turbação e esbulho sobre bens de quem não é parte nessas ações."
+      },
+      {
+        "letra": "B",
+        "texto": "a legitimidade ativa para manejar tal instrumento processual é apenas do terceiro senhor e possuidor do bem que sofreu constrição judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "os embargos de terceiro podem ser opostos a qualquer tempo no processo de execução, admitindo-se, por exceção, que sejam manejados na ação de conhecimento, em até cinco dias após a citação do réu da ação principal."
+      },
+      {
+        "letra": "D",
+        "texto": "os embargos poderão ser contestados no prazo de 15 (quinze) dias, findo o qual proceder-se-á de acordo com o disposto no art. 803."
+      },
+      {
+        "letra": "E",
+        "texto": "os embargos serão distribuídos por dependência e correrão em autos distintos perante o mesmo juiz que ordenou a apreensão."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

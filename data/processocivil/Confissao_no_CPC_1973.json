@@ -1,0 +1,890 @@
+[
+  {
+    "id": "603643",
+    "metadata": "Ano: 2015 | Banca: IBFC | Órgão: MGS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre a confissão considerando as disposições da lei federal n° 5.869, de 11/01/1973, que institui o Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode ser conseguida apenas no depoimento pessoal."
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre decorre da revelia."
+      },
+      {
+        "letra": "C",
+        "texto": "Sua revogação pode ser fundamento de ação rescisória."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode ser revogada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "593276",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "A respeito da prova, julgue o item que se segue. A confissão espontânea somente poderá ser realizada pela própria parte e, no caso de a ação judicial versar sobre direito indisponível, não será válida para o julgamento da causa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "583362",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental"
+    ],
+    "enunciado_principal": "Todos os meios legais, bem como os moralmente legítimos, ainda que não especificados no Código de Processo Civil, são hábeis para provar a verdade dos fatos, em que se funda ação ou a defesa. Sobre a disciplina das provas no processo civil, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando que ninguém se exime do dever de colaborar com o Poder Judiciário para o descobrimento da verdade, pode-se dizer, ao contrário do que ocorre no processo penal, que no processo civil não existe, para as partes, o direito ao silêncio."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão judicial espontânea é ato personalíssimo da parte, não podendo ser realizada, em nenhuma hipótese, por seu procurador."
+      },
+      {
+        "letra": "C",
+        "texto": "Na exibição de documentos, cabe a aplicação de multa cominatória."
+      },
+      {
+        "letra": "D",
+        "texto": "No procedimento comum sumário, cada parte pode arrolar, no máximo, 3 (três) testemunhas, desde que o faça em até dez dias antes da audiência."
+      },
+      {
+        "letra": "E",
+        "texto": "O interrogatório da parte, determinado ex officio, para o esclarecimento de fatos da causa, pode ser determinado na instância recursal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "525965",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Sobre a confissão no Código de Processo Civil vigente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando emanar de erro, pode ser revogada por ação anulatória, tenha ou não transitado em julgado a sentença da qual se constituiu em um dos fundamentos."
+      },
+      {
+        "letra": "B",
+        "texto": "Cabe ao confitente ou, se já falecido, aos seus herdeiros o direito de propor a ação para fins de revogar a confissão quando esta emanou de dolo."
+      },
+      {
+        "letra": "C",
+        "texto": "A confissão é sempre indivisível, não podendo a parte, que a quiser invocar como prova, aceitá-la no tópico que a beneficiar e rejeitá-la no que lhe for desfavorável."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode ser revogada por ação rescisória, depois de transitada em julgado a sentença da qual constituir um dos seus fundamentos."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas ações que versarem sobre bens imóveis ou direitos sobre imóveis alheios, a confissão de um cônjuge não valerá sem a do outro."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "513361",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Com relação ao instituto da confissão, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações que versarem sobre bens imóveis ou direitos sobre imóveis alheios, a confissão de um cônjuge não valerá sem a do outro."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão espontânea pode ser feita pela própria parte, ou por mandatário com poderes especiais."
+      },
+      {
+        "letra": "C",
+        "texto": "A confissão extrajudicial, feita por escrito à parte, a quem a represente ou a terceiro, mesmo que não interessado, tem a mesma eficácia probatória da judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "A confissão judicial faz prova contra o confitente, não prejudicando, todavia, os litisconsortes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "498202",
+    "metadata": "Ano: 2015 | Banca: DPE-PE | Órgão: DPE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova testemunhal"
+    ],
+    "enunciado_principal": "Acerca das provas, marque a alternativa falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os fatos admitidos, no processo, como incontroversos não dependem de prova;"
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a parte, ou a testemunha, por enfermidade, ou por outro motivo relevante, estiver impossibilitada de comparecer à audiência, mas não de prestar depoimento, o juiz designará, conforme as circunstâncias, dia, hora e lugar para inquiri-la."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a parte, ou a testemunha, por enfermidade, ou por outro motivo relevante, estiver impossibilitada de comparecer à audiência, mas não de prestar depoimento, o juiz designará, conforme as circunstâncias, dia, hora e lugar para inquiri-la."
+      },
+      {
+        "letra": "D",
+        "texto": "É nula a convenção que distribui de maneira diversa o ônus da prova quando recair sobre direito indisponível da parte ou também quando tornar excessivamente difícil a uma parte o exercício do direito."
+      },
+      {
+        "letra": "E",
+        "texto": "A confissão, por ser ato extremo, somente pode ser realizada judicialmente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "429166",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "A confissão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se emanar de erro, dolo ou coação, só poderá ser revogada por meio de ação anulatória do negócio jurídico respectivo."
+      },
+      {
+        "letra": "B",
+        "texto": "quando desfavorável ao confitente, pode beneficiar ou prejudicar igualmente seus litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "só se caracteriza como tal quando espontânea, pois a provocada diz respeito ao interrogatório da parte em juízo."
+      },
+      {
+        "letra": "D",
+        "texto": "não supre a exigência da apresentação de instrumento público, para comprovar a existência de negócio jurídico que o exige como de sua substância."
+      },
+      {
+        "letra": "E",
+        "texto": "será sempre expressa, inexistindo confissão ficta ou tácita, em razão das graves consequências jurídicas dela advindas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "420780",
+    "metadata": "Ano: 2014 | Banca: INSTITUTO  INEAA | Órgão: CREA-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental",
+      "Prova testemunhal",
+      "Prova pericial"
+    ],
+    "enunciado_principal": "O fato notório deverá ser provado mediante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "confissão."
+      },
+      {
+        "letra": "B",
+        "texto": "documento público."
+      },
+      {
+        "letra": "C",
+        "texto": "perícia."
+      },
+      {
+        "letra": "D",
+        "texto": "independe de prova."
+      },
+      {
+        "letra": "E",
+        "texto": "testemunha."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "412233",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: TRE-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973",
+      "Prova testemunhal",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "Sobre as provas previstas no Código de Processo Civil, indique a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em se tratando de ação de filiação, a parte é obrigada a prestar depoimento pessoal sobre fato a cujo respeito, por estado ou filiação, deva guardar sigilo."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão, quando emanar de erro, dolo ou coação, somente pode ser revogada através de ação anulatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a testemunha for deputado estadual, o juiz solicitará que a autoridade indique o dia e a hora em que poderá comparecer ao fórum a fim de ser inquirida, remetendo- lhe cópia da petição inicial ou da defesa oferecida pela parte, que arrolou como testemunha."
+      },
+      {
+        "letra": "D",
+        "texto": "Na inspeção judicial, as partes têm sempre direito a assistir a diligência, sendo vedadas manifestações e observações, sob pena de interferir no livre convencimento do juiz."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "411224",
+    "metadata": "Ano: 2014 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte, no depoimento pessoal, responderá pessoalmente sobre os fatos articulados, podendo, no entanto, servir-se de escritos anteriormente preparados."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão espontânea é ato personalíssimo da parte, não podendo ser efetuada por mandatário."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação para anular confissão é transmissível aos herdeiros, ainda que não iniciada em vida do confitente."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas ações que versarem sobre direitos sobre imóveis alheios, a confissão de um cônjuge não valerá sem a do outro."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas anteriores estão incorretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "381214",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual",
+      "Confissão no CPC 1973",
+      "Prova documental"
+    ],
+    "enunciado_principal": "Acerca da prova no sistema processual civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A confissão, que, em regra, é indivisível, pode ser judicial ou extrajudicial, sendo inválida como confissão a admissão, em juízo, de fatos relativos a direitos indisponíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Na instância ordinária, as partes têm liberdade para apresentar documentos novos somente até o saneamento do processo, e, sempre que documentos novos forem aduzidos, o juiz concederá prazo de cinco dias para a parte contrária manifestar-se sobre eles."
+      },
+      {
+        "letra": "C",
+        "texto": "O MP somente poderá produzir provas em juízo quando atuar como parte ou como substituto processual, cabendo ao magistrado indeferir eventual requerimento de produção de provas quando o MP atuar na condição de fiscal da lei."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com a moderna teoria da distribuição dinâmica da prova, cada parte deverá produzir a prova apta a demonstrar suas alegações, independentemente de quem tenha melhores condições de o fazer."
+      },
+      {
+        "letra": "E",
+        "texto": "E´ defeso aos sujeitos da relação jurídica deduzida em juízo estabelecer qualquer convenção que distribua de maneira diversa o ônus da prova. Trata-se de regra legal indisponível para as partes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "377306",
+    "metadata": "Ano: 2014 | Banca: TRT 3R | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Teoria Geral dos Recursos - Conceito",
+      "Respostas do réu - Reconvenção",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "NÃO cabe afirmar em relação à reconvenção, a partir do está no Código de Processo Civil, que :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O réu pode reconvir ao autor no mesmo processo, toda vez que a reconvenção seja conexa com a ação principal ou com o fundamento da defesa."
+      },
+      {
+        "letra": "B",
+        "texto": "A renúncia do autor em relação ao recurso por ele interposto, prejudica o julgamento do recurso interposto pelo réu no que concerne à decisão da reconvenção."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação e a reconvenção serão julgadas na mesma sentença"
+      },
+      {
+        "letra": "D",
+        "texto": "A parte não pode aceitar a confissão no tópico que a beneficiar e rejeitá-la no que Ihe for desfavorável, porque ela é, em regra, indivisível, exceto quando o confitente Ihe aduzir fatos novos, suscetíveis de constituir fundamento de reconvenção."
+      },
+      {
+        "letra": "E",
+        "texto": "A desistência da ação, ou a existência de qualquer causa que a extinga, não obsta ao prosseguimento da reconvenção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "377305",
+    "metadata": "Ano: 2014 | Banca: TRT 3R | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973",
+      "Prova documental"
+    ],
+    "enunciado_principal": "No que concerne à prova a teor o Código de Processo Civil, NÃO se pode afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As perguntas que o juiz indeferir serão obrigatoriamente transcritas no termo, independentemente de requerimento da parte."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando, contiver declaração de ciência, relativa a determinado fato, o documento particular prova a declaração, mas não o fato declarado, competindo ao interessado em sua veracidade o ônus de provar o fato."
+      },
+      {
+        "letra": "C",
+        "texto": "A confissão, quando emanar de erro, dolo ou coação, pode ser revogada por ação anulatória, se pendente o processo em que foi feita."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte será intimada pessoalmente, para prestar depoimento, constando do mandado que se presumirão confessados os fatos contra ela alegados, caso não compareça ou, comparecendo, se recuse a depor."
+      },
+      {
+        "letra": "E",
+        "texto": "Não dependem de prova os fatos em cujo favor milita presunção legal de existência ou de veracidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "363943",
+    "metadata": "Ano: 2014 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "Em relação à prova, observe as proposições abaixo e responda a alternativa que contenha proposituras corretas:I. A chamada fase instrutória concentra de modo contundente os atos de instrução, os quais são destinados a recolher todos os elementos para que o juiz possa firmar seu convencimento e, assim, julgar a lide, de forma que divide-se em: (a) atos de prova e (b) alegações.II. A audiência de justificação prévia caracteriza-se por ser uma sessão em que se instrui pedido de providência urgente e poderá ocorrer para a análise da necessidade de concessão de medida cautelar ou tutela antecipada em qualquer tipo de procedimento e não somente no processo cautelar. III. O juiz considerará a parte confessa nas seguintes situações: (a) se admitir a verdade de um fato, contrário ao seu interesse e favorável ao adversário; (b) se comparecer e se recusar a depor; (c) se, intimada para prestar depoimento pessoal, deixar, injustificadamente, de comparecer; (d) se, sem motivo justificado, deixar de responder ao que lhe for perguntado, ou empregar evasivas, caso em que o juiz entenderá como recusa a depor.IV. A inspeção judicial é meio de prova em que o juiz pode inspecionar diretamente pessoas ou coisas desde que requerido expressamente pela parte interessada no momento oportuno. V. Incumbe às partes, no prazo de 5 (cinco) dias depositar em cartório o rol de testemunhas, precisando-lhes o nome, a profissão, residência e o local de trabalho.Está correta a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, IV e V"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "I,II,V."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "559993",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental",
+      "Prova testemunhal",
+      "Prova pericial"
+    ],
+    "enunciado_principal": "Com base no Código de Processo Penal (CPP) e no Código de Processo Civil (CPC), julgue o próximo item, referente a perícia e meios de prova. As provas testemunhal, documental, pericial e a confissão são meios de prova aceitos tanto no CPC quanto no CPP.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "464165",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: MPE-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "A confissão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ser revogada depois de findo o processo em que foi emanada."
+      },
+      {
+        "letra": "B",
+        "texto": "faz prova contra o confitente e sempre prejudica os litisconsortes."
+      },
+      {
+        "letra": "C",
+        "texto": "não vale como tal, se disser respeito a direitos indisponíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "é apenas judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "é divisível, em regra, podendo a parte, a quem beneficia, aceitá-la apenas no tópico que lhe for favorável."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "386188",
+    "metadata": "Ano: 2013 | Banca: FAFIPA | Órgão: Câmara Municipal de Guairáça - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Da comunicação dos atos processuais - Citação",
+      "Petição Inicial",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Sobre o Direito Processual Civil, analise as afirmativas a seguir e assinale a alternativa CORRETA: I. Citação é o ato pelo qual se chama a juízo o réu ou o interessado a fim de se defender.II. A toda causa será atribuído um valor certo, ainda que não tenha conteúdo econômico imediato. III. Indeferida a petição inicial, o autor pode apelar, facultado ao juiz, no prazo de 48 (quarenta e oito) horas, reformar sua decisão. IV. Nas ações que versarem sobre bens imóveis ou direitos sobre imóveis alheios, a confissão de um cônjuge valerá sem a do outro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmativas I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmativas II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmativas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a afirmativa IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "371573",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental"
+    ],
+    "enunciado_principal": "No que se refere às provas no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratando-se de contestação de assinatura de documento particular, o ônus da prova caberá à parte que apresentou a impugnação."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão, enquanto meio de prova, conduz a uma presunção absoluta da veracidade dos fatos alegados pelo autor e confessados pelo réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Para que o documento seja considerado autêntico, basta que o tabelião reconheça a firma do signatário, declarando que foi aposta em sua presença."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o vício do documento particular for de natureza material, poderá ser instaurado incidente de falsidade, havendo possibilidade de condenação do vencido em honorários advocatícios."
+      },
+      {
+        "letra": "E",
+        "texto": "O documento público prova a autenticidade da sua formação, mas não os fatos que o escrivão declarar que ocorreram, ainda que tenham ocorrido na sua presença."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "365734",
+    "metadata": "Ano: 2013 | Banca: TJ-PR | Órgão: TJ-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973",
+      "Prova documental",
+      "Prova testemunhal"
+    ],
+    "enunciado_principal": "Acerca das provas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A confissão é irrevogável, mas pode ser anulada se decorreu de erro de fato ou de coação."
+      },
+      {
+        "letra": "B",
+        "texto": "A prova exclusivamente testemunhal só se admite nos negócios jurídicos cujo valor não ultrapasse o do maior salário mínimo vigente no país."
+      },
+      {
+        "letra": "C",
+        "texto": "Não pode ser admitido o depoimento dos cônjuges, ascendentes e descendentes das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "As declarações constantes de documentos assinados presumem-se verdadeiras em relação aos destinatários."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "359240",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973",
+      "Prova pericial"
+    ],
+    "enunciado_principal": "Em processo visando à declaração de paternidade, designou-se audiência de instrução e julgamento para colheita de prova oral e decisão.Com base nesses elementos e, com o que dispõe a legislação em vigor sobre o procedimento probatório, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É incabível o depoimento pessoal do réu, já que não é possível a confissão quando em litígio direito indisponível."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o Juiz entender conveniente para o julgamento da causa, poderá, no momento da prolação oral da sentença, considerar invertido o ônus da prova, por meio da teoria da carga dinâmica."
+      },
+      {
+        "letra": "C",
+        "texto": "Com o laudo pericial de exame genético já constando dos autos, o Juiz pode dispensar a produção de provas orais, ante a proeminência daquela prova científica."
+      },
+      {
+        "letra": "D",
+        "texto": "O Juiz deve suspender a instrução, caso esteja pendente o resultado da prova pericial, até que se complete o exame genético e se anexe o laudo aos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "O Juiz, no exercício de seus poderes instrutórios, pode designar outra audiência para oitiva de testemunhas referidas nos depoimentos colhidos e reinquirir alguma já ouvida."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "358893",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 18ª Região (GO)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova testemunhal"
+    ],
+    "enunciado_principal": "Com relação às provas, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As partes podem juntar documentos a qualquer tempo, ainda que não sejam novos."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode o juiz, independentemente de requerimento, determinar o comparecimento pessoal das partes a fim de interrogá-las sobre os fatos discutidos na causa, qualquer que seja o estado do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "A confissão espontânea é sempre pessoal, não podendo ser realizada por mandatário com poderes especiais."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz deverá admitir a oitiva de testemunhas mesmo que a parte tenha confessado sobre o fato a respeito do qual viria a depor."
+      },
+      {
+        "letra": "E",
+        "texto": "O ônus da prova incumbe sempre ao autor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "354803",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Acerca de provas, depoimento pessoal e confissão, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conforme súmula do Superior Tribunal de Justiça (STJ), a pretensão de reexame da legalidade da prova produzida não enseja recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz pode determinar o comparecimento da parte à audiência, para depoimento pessoal, sob pena de desobediência."
+      },
+      {
+        "letra": "C",
+        "texto": "Em audiência, por intermédio de seu advogado, a parte pode formular perguntas a seu litisconsorte unitário."
+      },
+      {
+        "letra": "D",
+        "texto": "O advogado não pode prestar depoimento pessoal pelo cliente, mas pode confessar, desde que tenha procuração com poder especial para tanto."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfere-se aos herdeiros do confitente o direito de propor ação anulatória para revogar confissão emanada de coação durante a pendência do processo em que foi feita."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "354709",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental",
+      "Prova pericial"
+    ],
+    "enunciado_principal": "Acerca do valor das provas e de seus ônus, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Do registro no boletim de ocorrência decorre presunção juris tantum de veracidade dos fatos nele consignados."
+      },
+      {
+        "letra": "B",
+        "texto": "A descrição que o perito policial faz dos vestígios que encontra no local de acidente tem presunção de veracidade, servindo de elemento de convicção para o julgamento de processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o juiz determinar, a sociedade comercial é obrigada a exibir seus livros em juízo, ainda que não seja parte no litígio."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas ações que se refiram a direitos sobre imóveis alheios, a validade da confissão de um cônjuge independe da do outro."
+      },
+      {
+        "letra": "E",
+        "texto": "A escritura pública feita por oficial incompetente, ainda que assinada pelas partes no contrato, não tem eficácia probante, pois a competência é um dos requisitos de validade do ato administrativo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "309096",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova documental",
+      "Prova testemunhal"
+    ],
+    "enunciado_principal": "No que se refere à prova no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Juntada em processo, a escritura pública na qual se declare relação de união estável há mais de dez anos faz prova plena não só da formação do documento, mas dos fatos declarados, haja vista a fé pública do tabelião que a lavrou."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de prova exclusivamente testemunhal para comprovar que houve simulação em contrato é possível, ainda que o valor deste seja superior a dez salários mínimos."
+      },
+      {
+        "letra": "C",
+        "texto": "O juiz pode determinar, de ofício ou a requerimento de uma das partes ou do MP, a acareação entre as próprias partes."
+      },
+      {
+        "letra": "D",
+        "texto": "A confissão verbal extrajudicial feita a terceiro não tem valor probatório no direito brasileiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Por aplicação da distribuição dinâmica do ônus probatório, em um suposto processo por erro médico, cabe ao médico demandado para ressarcimento de danos sofridos pelo paciente o ônus de provar os fatos constitutivos do direito alegado, haja vista ter o médico melhor condição técnica e científica de fazê-lo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "308249",
+    "metadata": "Ano: 2013 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Não tem eficácia a confissão se provém de quem não é capaz de dispor do direito a que se referem os fatos confessados. Se feita a confissão por um representante, somente é eficaz nos limites em que este pode vincular o representado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "352443",
+    "metadata": "Ano: 2012 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Confissão no CPC 1973"
+    ],
+    "enunciado_principal": "Dadas as assertivas abaixo, assinale a alternativa correta. I. No caso de morte ou incapacidade processual de qualquer das partes, ou de seu representante legal, provado o falecimento ou a incapacidade, o juiz suspenderá o processo, salvo se já tiver iniciado a audiência de instrução e julgamento, caso em que o advogado continuará no processo até o encerramento do ato. II. Pode o juiz determinar que seja iniciado o processo de inventário sem contudo caracterizar violação ao princípio da inércia da jurisdição. III. A confissão espontânea somente pode ser feita pela própria parte. IV. É pressuposto para cumulação de vários pedidos contra o mesmo réu em um único processo a existência de conexão entre eles.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas I,II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas apenas as assertivas II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Estão corretas todas as assertivas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "456887",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: AL-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Prova testemunhal",
+      "Prova pericial"
+    ],
+    "enunciado_principal": "A respeito das provas, considere:I. A confissão extrajudicial contida em testamento terá a mesma eficácia probatória da judicial. II. O juiz não poderá ordenar de ofício a inquirição de testemunhas referidas nos depoimentos de testemunhas arroladas pelas partes. III. O juiz poderá dispensar a prova pericial quando as partes, na inicial e na contestação, apresentarem sobre as questões de fato pareceres técnicos ou documentos elucidativos que considerar suficientes. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "III."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

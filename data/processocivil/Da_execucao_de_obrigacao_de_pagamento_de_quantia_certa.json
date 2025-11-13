@@ -1,0 +1,1651 @@
+[
+  {
+    "id": "607019",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TRE-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a opção correta relativamente ao cumprimento de sentença e ao processo de execução de título executivo extrajudicial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Situação hipotética: Contra a sentença que julgou procedente o pedido formulado pelo requerente e confirmou os efeitos da antecipação da tutela, o requerido interpôs recurso de apelação. Assertiva: Nessa situação, o requerente poderá requerer a execução provisória do julgado, e os autos do processo não poderão subir ao tribunal para análise do apelo, enquanto não for liquidada a sentença"
+      },
+      {
+        "letra": "B",
+        "texto": "Situação hipotética: Transitada em julgado a sentença condenatória de pagar quantia certa, o executado foi intimado para cumprir a obrigação no prazo de dez dias, embora já tivesse cumprido a obrigação imposta pela sentença. Assertiva: Nessa situação, o executado deverá oferecer embargos do devedor com o objetivo de desconstituir a pretensão executiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Em ação de execução por quantia certa, caso o devedor não cumpra a obrigação, o juiz poderá mandar intimar o executado para, caso existam bens disponíveis, indicar quais são e onde se encontram, sob pena de se caracterizar ato atentatório à dignidade da justiça e sujeitar o executado ao pagamento de multa que será revertida em favor do exequente."
+      },
+      {
+        "letra": "D",
+        "texto": "Em ação de execução de título executivo extrajudicial na qual o devedor ofereça embargos à execução no prazo legal, objetivando desconstituir a pretensão executiva, caso haja indícios do cumprimento da obrigação, o juiz poderá, de ofício, conceder efeito suspensivo aos embargos."
+      },
+      {
+        "letra": "E",
+        "texto": "Situação hipotética: Proposta ação de execução de título executivo extrajudicial, o executado opôs embargos com o objetivo de desconstituir totalmente a pretensão executiva em função de uma dação em pagamento. Assertiva: Nessa situação, se acolher o pedido formulado nos embargos, o juiz deverá proferir sentença nos autos da ação executiva, na qual deve julgar improcedente a pretensão executiva e extinguir o feito com resolução de mérito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "600803",
+    "metadata": "Ano: 2016 | Banca: FAU | Órgão: Prefeitura de Chopinzinho - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A execução por quantia certa tem por objeto expropriar bens do devedor, a fim de satisfazer o direito do credor. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No prazo de três dias após a juntada do mandado de citação nos autos, o executado poderá reconhecer o crédito do exequente, e, comprovando o depósito de 30% do valor exequendo, inclusive custas e honorários de advogado, requerer o pagamento do valor em até seis parcelas mensais, acrescidas de correção monetária e juros de 1% ao mês."
+      },
+      {
+        "letra": "B",
+        "texto": "Na hipótese de a penhora já ter ocorrido antes do prazo para o executado pedir o parcelamento, a constrição será desfeita."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o devedor for casado e o outro cônjuge, assumindo a responsabilidade por dívidas, não possuir bens próprios que bastem ao pagamento de todos os credores, será defeso a declaração de insolvência de ambos."
+      },
+      {
+        "letra": "D",
+        "texto": "No prazo de embargos, o executado poderá reconhecer o crédito do exequente, e, comprovando o depósito de 30% do valor exequendo, inclusive custas e honorários de advogado, requerer o pagamento do valor em até seis parcelas mensais, acrescidas de correção monetária e juros de 1% ao mês."
+      },
+      {
+        "letra": "E",
+        "texto": "A declaração de insolvência não pode ser requerida pelo credor quirografário."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "588493",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na execução por quantia certa contra devedor solvente, não estão sujeitos à execução os bens que a lei considera impenhoráveis ou inalienáveis. Essa regra é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "verdadeira, tratando-se de regra absoluta tanto em relação aos bens em si como quanto a seus frutos e rendimentos, também não sujeitos a qualquer constrição judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "verdadeira, mas podem ser penhorados, à falta de outros bens, os frutos e rendimentos de quaisquer bens inalienáveis, sem restrições legais."
+      },
+      {
+        "letra": "C",
+        "texto": "falsa, porque os bens inalienáveis podem, no entanto, ser livremente penhorados, tratando-se de situações jurídicas que não se confundem."
+      },
+      {
+        "letra": "D",
+        "texto": "verdadeira, mas podem ser penhorados, à falta de outros bens, os frutos e rendimentos dos bens inalienáveis, salvo se destinados à satisfação de prestação alimentícia."
+      },
+      {
+        "letra": "E",
+        "texto": "falsa, porque, em determinadas situações, expressamente previstas em lei, quaisquer bens podem ser penhorados ou alienados judicialmente para satisfação de créditos específicos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "580872",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: SAEG - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Antunes Massas e Buffet LTDA é executado numa ação promovida por Nair Bela, decorrente do inadimplemento total de um cheque. Porém, o executado tem provas de que pagou parcialmente a dívida. Diante dessa situação hipotética, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o executado só poderá opor impugnação para defender sua tese depois de garantido o juízo pelo valor integral da execução, no prazo de 15 dias a contar da intimação da constrição."
+      },
+      {
+        "letra": "B",
+        "texto": "caso exista mais de um executado, independentemente da penhora, a partir do momento da juntada de cada mandado positivo aos autos, poderiam estes se defender por meio de embargos do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "o executado só poderá opor embargos do devedor para defender sua tese depois de garantido o juízo pelo valor integral da execução, no prazo de 15 dias a contar da juntada aos autos do mandado positivo de citação."
+      },
+      {
+        "letra": "D",
+        "texto": "caso houvesse mais de um executado, independentemente da penhora, a partir do momento da juntada do último mandado positivo aos autos, poderiam estes se defender por meio de embargos do devedor, no prazo de 15 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "o executado tem como única forma de defesa no caso em tela a exceção de pré-executividade, uma vez que tese de excesso de execução é matéria de ordem pública que só pode ser discutida por meio desse instrumento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "560640",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Maria da Silveira comparece à Defensoria Pública buscando orientações jurídicas e a adoção de providências para o cumprimento da sentença que fixou os alimentos em favor seu filho, Eduardo, transitada em julgado há 3 anos. Ocorre que o devedor, genitor do alimentando, está inadimplente desde então. Diante desta situação, verifique as afirmações abaixo. I. O Defensor deverá ajuizar duas ações de execução de alimentos, uma com fundamento no artigo 733, do Código de Processo Civil (pleiteando o pagamento das últimas três parcelas e daquelas que se vencerem no curso da demanda, sob pena de prisão), e a outra com fundamento no artigo 475-J, do Código de Processo Civil (pleiteando o pagamento das anteriores, sob pena de penhora), em observância à Súmula n° 309 do Superior Tribunal de Justiça. II. O prazo máximo da prisão civil é de 60 (sessenta) dias, pois prevalece o disposto na Lei de Alimentos sobre a previsão do Código de Processo Civil.III. O decurso do prazo máximo da prisão acarreta a expedição de alvará de soltura e a quitação do débito que ensejou a prisão.IV. É possível a utilização de outros instrumentos de coerção, além da prisão civil, tal como o lançamento do nome do devedor nos cadastros de proteção ao crédito.V. Após o cumprimento do prazo máximo de prisão, não mais será possível decretar a prisão civil do devedor em razão de novas parcelas vencidas no curso da mesma ação.Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "535445",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Em execução por quantia certa contra devedor solvente, Juliano teve penhorado dinheiro, que alega ser provento de seu salário, o qual viria a ser utilizado, na integralidade, para a subsistência de sua família. Tal bem é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impenhorável, cabendo ao executado comprovar tratar-se de bem de tal natureza."
+      },
+      {
+        "letra": "B",
+        "texto": "penhorável, pois o processo executivo corre em benefício do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "impenhorável, cabendo ao exequente comprovar que o bem não se reveste de tal natureza."
+      },
+      {
+        "letra": "D",
+        "texto": "impenhorável, salvo se tiver sido depositado em conta-poupança e tiver valor superior a 20 salários mí- nimos."
+      },
+      {
+        "letra": "E",
+        "texto": "impenhorável, não necessitando de prova de que se reveste de tal natureza, por haver presunção absoluta nesse sentido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "525445",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCE-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "No processo de execução por quantia certa contra devedor solvente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a avaliação do bem penhorado será realizada, em regra, por perito de confiança do juízo."
+      },
+      {
+        "letra": "B",
+        "texto": "a alienação por hasta pública tem preferência sobre os demais métodos expropriatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "a penhora recairá, em primeiro lugar, obrigatoriamente sobre dinheiro."
+      },
+      {
+        "letra": "D",
+        "texto": "não se admite a substituição da penhora."
+      },
+      {
+        "letra": "E",
+        "texto": "pode o exequente requerer a adjudicação do bem penhorado, desde que ofereça preço não inferior ao da avaliação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "525345",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCE-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Em relação à execução por quantia certa contra devedor solvente, considere:I. O seguro de vida é absolutamente impenhorável. II. O credor poderá, na inicial da execução, indicar bens do devedor a serem penhorados. III. Se o Oficial de Justiça não encontrar o devedor, arrestar-lhe-á tantos bens quantos bastem para garantir a execução. IV. Recaindo a penhora em dinheiro, em espécie ou em depósito ou em aplicação financeira, será intimado também o cônjuge do executado. V. Tratando-se de penhora em bem divisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III, IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e V."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "523044",
+    "metadata": "Ano: 2015 | Banca: FUNDATEC | Órgão: BRDE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na ação de busca e apreensão em alienação fiduciária em garantia de bens móveis, após executada a liminar com a apreensão do bem, o devedor, no prazo de cinco dias, poderá pagar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o valor em atraso, independentemente da quantidade de parcelas já adimplidas, hipótese na qual o bem lhe será restituído livre do ônus."
+      },
+      {
+        "letra": "B",
+        "texto": "o valor em atraso, desde que já tenha adimplido mais de 40% do valor do contrato, hipótese na qual o bem lhe será restituído livre do ônus."
+      },
+      {
+        "letra": "C",
+        "texto": "o valor em atraso, desde que já tenha adimplido mais de 40% do valor do bem, hipótese na qual o bem lhe será restituído livre do ônus."
+      },
+      {
+        "letra": "D",
+        "texto": "o valor em atraso, desde que já tenha adimplido mais de 50% do valor do contrato, hipótese na qual o bem lhe será restituído livre do ônus."
+      },
+      {
+        "letra": "E",
+        "texto": "a integralidade da dívida pendente, hipótese na qual o bem lhe será restituído livre do ônus."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "515201",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Credor de uma obrigação pecuniária dotada de certeza e liquidez, constatando que o devedor caiu em insolvência e vem tentando alienar os seus bens, ajuíza ação cautelar de arresto. Regularmente citado, o requerido, entre outros argumentos veiculados em sua peça contestatória, suscitou a ocorrência do fenômeno da prescrição, a fulminar o próprio direito subjetivo de crédito referido na petição inicial. O juiz, ao julgar o processo cautelar, acolheu tal alegação defensiva, sem que tivesse sido interposto o recurso cabível no prazo legal. Vindo o requerente do arresto, pouco tempo depois, a propor a ação de execução por quantia certa, deve o juiz:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "indeferir de plano a petição inicial, diante do óbice da coisa julgada material;"
+      },
+      {
+        "letra": "B",
+        "texto": "indeferir de plano a petição inicial, diante do óbice da litispendência;"
+      },
+      {
+        "letra": "C",
+        "texto": "proceder ao juízo positivo de admissibilidade da demanda executiva, já que a sentença que decidiu o precedente feito cautelar não é apta a ensejar a formação da coisa julgada material;"
+      },
+      {
+        "letra": "D",
+        "texto": "proceder ao juízo positivo de admissibilidade da demanda executiva, desde que a petição inicial tenha sido instruída com prova nova;"
+      },
+      {
+        "letra": "E",
+        "texto": "suspender o curso do processo de execução, até que o demandante pleiteie e obtenha, pela via própria, a rescisão da sentença proferida no feito cautelar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "513362",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Quanto à execução por quantia certa contra devedor solvente, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O executado será citado para, no prazo de 3 (três) dias, efetuar o pagamento da dívida."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz poderá, mediante requerimento do exequente, determinar, a qualquer tempo, a intimação do executado para indicar bens passíveis de penhora, não podendo fazê- lo de ofício."
+      },
+      {
+        "letra": "C",
+        "texto": "São impenhoráveis os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal."
+      },
+      {
+        "letra": "D",
+        "texto": "O credor poderá, na inicial da execução, indicar bens a serem penhorados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "511193",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Nas execuções por quantia certa contra devedor solvente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são impenhoráveis os frutos e rendimentos dos bens inalienáveis, em qualquer hipótese, por sua natureza."
+      },
+      {
+        "letra": "B",
+        "texto": "é absolutamente impenhorável qualquer quantia depositada em caderneta de poupança, desde que única."
+      },
+      {
+        "letra": "C",
+        "texto": "o conceito de impenhorabilidade do bem de família abrange o imóvel pertencente às pessoas viúvas e divorciadas, mas não aos solteiros."
+      },
+      {
+        "letra": "D",
+        "texto": "na execução contra instituição financeira, é penhorável o numerário disponível, inclusive as reservas bancárias mantidas no Banco Central."
+      },
+      {
+        "letra": "E",
+        "texto": "é legítima a penhora da sede do estabelecimento comercial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "511192",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa",
+      "Execução contra a Fazenda Pública"
+    ],
+    "enunciado_principal": "Em relação às execuções de prestação alimentícia e contra a Fazenda Pública:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cancelamento de pensão alimentícia de filho que atingiu a maioridade está sujeito à decisão judicial, mediante contraditório, ainda que nos próprios autos."
+      },
+      {
+        "letra": "B",
+        "texto": "O débito alimentar que autoriza a prisão civil do alimentante é o que compreende as três prestações anteriores ao ajuizamento da execução, sem cumulação possível com as que se vencerem no curso do processo, a serem requeridas por ação autônoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Na execução por quantia certa contra a Fazenda Pública, será ela citada para opor embargos no prazo de trinta dias, sob pena de imediato sequestro do valor devido em favor do credor."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é cabível execução por título extrajudicial contra a Fazenda Pública, mas apenas por meio de título judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "A decisão incidental que indefere o pedido de decreto de prisão civil do devedor de alimentos é recorrível por meio de apelação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1039975",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Com relação à penhora, relizada em processo de execução ou na fase de cumprimento de sentença, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a posse ou a detenção por terceiro impedem a efetivação da penhora."
+      },
+      {
+        "letra": "B",
+        "texto": "a nomeação do depositário dos bens penhorados não pode ser realizada no auto de penhora, mas sim por termo nos autos, porquanto depende de decisão judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "a penhora com ordem judicial de arrombamento deve ser realizada por dois oficiais de justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "havendo mais de uma penhora na mesma diligência, lavrar-se-ão todas no mesmo auto."
+      },
+      {
+        "letra": "E",
+        "texto": "a substituição da penhora não pode ser requerida com espeque na baixa liquidez do bem penhorado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "464868",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na execução por quantia certa contra devedor solvente, será o executado citado para efetuar o pagamento da dívida. O executado deverá pagar a dívida em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "três dias; não o fazendo, o Oficial de Justiça, munido da segunda via do mandado, procederá de imediato à penhora de bens e sua avaliação, lavrando- se o respectivo auto e de tais atos intimando, na mesma oportunidade, o executado."
+      },
+      {
+        "letra": "B",
+        "texto": "24 horas; não o fazendo, o Oficial de Justiça, munido da segunda via do mandado, procederá de imediato à penhora de bens e sua avaliação, lavrando-se o respectivo auto e de tais atos intimando, na mesma oportunidade, o executado."
+      },
+      {
+        "letra": "C",
+        "texto": "três dias; não o fazendo, o Oficial de Justiça procederá de imediato à penhora de bens, avaliando-os e certificando o ato para posterior intimação do executado."
+      },
+      {
+        "letra": "D",
+        "texto": "24 horas; não o fazendo, o Oficial de Justiça procederá de imediato à penhora de bens, avaliando-os e certificando o ato para posterior intimação do executado."
+      },
+      {
+        "letra": "E",
+        "texto": "72 horas; não o fazendo, e desde que o credor tenha indicado bens na inicial, procederá o Oficial de Justiça à penhora desses bens e à sua avaliação, lavrando-se o auto respectivo e intimando de tais atos o executado, na mesma ocasião."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464735",
+    "metadata": "Ano: 2014 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Considere as afirmações abaixo, concernentes ao processo de execução por quantia certa contra devedor solvente. I - Não encontrando o devedor, o oficial de justiça arrestar-lhe-á tantos bens quantos bastam para garantir a execução. II - Autorizado judicialmente o arrombamento em razão do fechamento das portas da casa pelo devedor a fim de obstar a penhora dos bens, o mandado de penhora será cumprido por dois oficiais de justiça. III - Havendo mais de uma penhora, lavrar-se-á para todas um só auto. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "462264",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a opção que indica o momento processual adequado para que o julgador fixe, de plano, os honorários advocatícios devidos pelo executado, quando se tratar de execução por quantia certa contra devedor solvente, com base em título executivo extrajudicial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após o cumprimento da obrigação."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao sentenciar o feito."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a citação, se houver resistência."
+      },
+      {
+        "letra": "D",
+        "texto": "Na decisão saneadora do feito."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao despachar a inicial."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "430341",
+    "metadata": "Ano: 2014 | Banca: FEPESE | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Petição Inicial",
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a alternativa que não está de acordo com as normas de direito processual civil",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A petição inicial indicará os nomes, prenomes, número de CPF ou CNPJ, estado civil, profissão, domicílio e residência do autor, do réu e de seus procuradores."
+      },
+      {
+        "letra": "B",
+        "texto": "Estando em termos a petição inicial, o juiz a despachará, ordenando a citação do réu, para responder; do mandado constará que, não sendo contestada a ação, se presumirão aceitos pelo réu, como verdadeiros, os fatos articulados pelo autor."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos litígios que tenham por objeto obrigações decorrentes de empréstimo, financiamento ou arrendamento mercantil, o autor deverá discriminar na petição inicial, dentre as obrigações contratuais, aquelas que pretende controverter, quantificando o valor incontroverso."
+      },
+      {
+        "letra": "D",
+        "texto": "Ficam sujeitos à execução os bens do cônjuge, nos casos em que os seus bens próprios, reservados ou de sua meação, respondem pela dívida."
+      },
+      {
+        "letra": "E",
+        "texto": "Os bens particulares dos sócios não respondem pelas dívidas da sociedade senão nos casos previstos em lei; o sócio, demandado pelo pagamento da dívida, tem direito a exigir que sejam primeiro excutidos os bens da sociedade"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "427907",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "São absolutamente impenhoráveis",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os bens que estejam sob a posse de terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "os direitos pleiteados em juízo pelo executado."
+      },
+      {
+        "letra": "C",
+        "texto": "a sede do estabelecimento comercial."
+      },
+      {
+        "letra": "D",
+        "texto": "os valores de pecúlio depositados em fundo de previdência privada PGBL."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "416910",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Cícero é proprietário de uma lavanderia e está sendo executado por dívida bancária em execução por quantia certa contra devedor solvente. Dentre os bens que possui, o Oficial de Justiça encontrou máquinas instaladas na lavanderia; depósito em caderneta de poupança no valor de quarenta salários mínimos; seguro de vida; joias, como pertences de uso pessoal; livros, ferramentas e utensílios úteis ao exercício da atividade profissional. Nesse caso, o Oficial de Justiça, deverá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "devolver o mandado, certificando não ter encontrado bens passíveis de penhora."
+      },
+      {
+        "letra": "B",
+        "texto": "penhorar as joias, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "penhorar as joias e o depósito em caderneta de poupança, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "penhorar as joias e as máquinas instaladas na lavanderia, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "penhorar os livros e as ferramentas, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "413793",
+    "metadata": "Ano: 2014 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Dos embargos do devedor",
+      "Da execução de obrigação de pagamento de quantia certa",
+      "Da Execução em Geral - Responsabilidade Patrimonial e Impenhorabilidade"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A expropriação consiste na adjudicação em favor do exequente ou das pessoas indicadas no § 2º do art. 685-A do CPC, na alienação por iniciativa particular, na alienação em hasta pública e no usufruto de bem móvel ou imóvel."
+      },
+      {
+        "letra": "B",
+        "texto": "São absolutamente impenhoráveis os bens inalienáveis e os declarados, por ato voluntário, não sujeitos à execução;"
+      },
+      {
+        "letra": "C",
+        "texto": "O executado pode, no prazo de 10 (dez) dias após intimado da penhora, requerer a substituição do bem penhorado, desde que comprove cabalmente que a substituição não trará prejuízo algum ao exequente e será menos onerosa para ele devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "Não realizada a adjudicação dos bens penhorados, o exequente poderá requerer sejam eles alienados por sua própria iniciativa ou por intermédio de corretor credenciado perante a autoridade j udiciária."
+      },
+      {
+        "letra": "E",
+        "texto": "Os embargos à execução serão distribuídos por dependência, autuados em apartado e instruídos com cópias das peças processuais relevantes, que poderão ser declaradas autênticas pelo advogado, sob sua responsabilidade pessoal, no prazo de 10 (dez) dias, contados da data da juntada aos autos do mandado de citação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "400572",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SAAE de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução em geral",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na atual sistemática implantada para a execução civil, com a supressão da fase de nomeação de bens a penhora, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando já foram tomadas providências visando à efeti­vação da penhora, mas estas se revelarem infrutíferas, o credor deverá ser intimado para indicar onde estão e quais são os bens sujeitos a penhora, sob pena de extin­ção da execução e consequente arquivamento dos autos."
+      },
+      {
+        "letra": "B",
+        "texto": "quando já foram tomadas providências visando à efeti­vação da penhora, mas estas se revelarem infrutíferas, o prazo para o exequente indicar bens do devedor passí­veis de penhora é de quinze dias, sob pena de aplicação de multa do art. 601 e não o arquivamento dos autos."
+      },
+      {
+        "letra": "C",
+        "texto": "quando já foram tomadas providências visando à efeti­vação da penhora, mas estas se revelarem infrutíferas, o prazo para o exequente indicar bens do devedor passí­veis de penhora é de cinco dias, sob pena de aplicação de multa do art. 601 e não o arquivamento dos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "quando já foram tomadas providências visando à efeti­vação da penhora, mas estas se revelarem infrutíferas, o devedor deverá ser intimado para indicar onde estão e quais são os bens sujeitos a penhora, sob pena de multa do art. 601 do CPC."
+      },
+      {
+        "letra": "E",
+        "texto": "quando já foram tomadas providências visando à efeti­vação da penhora, mas estas se revelarem infrutíferas, o credor deverá ser intimado a fornecer meios para a continuidade do processamento da execução, sob pena de extinção e posterior decretação da prescrição inter­corrente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "393016",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A respeito da execução por quantia certa contra devedor solvente, considere: I. O réu pode remir a execução, pagando ou consignando a importância atualizada da dívida, mais juros, custas e honorários advocatícios, até 30 dias após a penhora. II. Entre veículos de via terrestre e bens imóveis, a penhora recairá,preferencialmente, nos bens imóveis. III. Tratando-se de penhora de bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "388421",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: CAU-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução em geral",
+      "Da execução de obrigação de fazer e não fazer",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre o processo de execução, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diante da reiteração, pelo executado, da prática de ato atentatório à dignidade da Justiça, o juiz poderá lhe impedir que daí por diante se manifeste nos autos."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas obrigações de fazer, quando for convencionado que o devedor a faça pessoalmente, o prazo para cumprimento é de 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o devedor praticou o ato, a cuja abstenção estava obrigado pela lei ou pelo contrato, o credor requererá ao juiz que Ihe assine prazo para desfazê-lo."
+      },
+      {
+        "letra": "D",
+        "texto": "A impenhorabilidade é oponível, mesmo na cobrança do crédito concedido para a aquisição do próprio bem."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "378893",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "No tocante à execução por quantia certa contra devedor solvente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A citação do executado far-se-á para pagamento do débito em 24 horas, ou nomeação de bens à penhora."
+      },
+      {
+        "letra": "B",
+        "texto": "Não estão sujeitos à execução os bens que a lei considera impenhoráveis, mas poderão ser executados os bens inalienáveis, desde que suntuosos."
+      },
+      {
+        "letra": "C",
+        "texto": "A expropriação de bens do devedor consiste, exclusivamente, na adjudicação em favor do exequente, na alienação por iniciativa particular e na alienação em hasta pública."
+      },
+      {
+        "letra": "D",
+        "texto": "À falta de outros bens, podem ser penhorados os frutos e rendimentos dos bens inalienáveis, salvo se destinados à satisfação da prestação alimentícia."
+      },
+      {
+        "letra": "E",
+        "texto": "Mesmo após a adjudicação ou alienação dos bens, pode o executado, a todo tempo, remir a execução, desde que pague ou consigne a importância atualizada do débito, juros, custas e honorários advocatícios."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "361212",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na execução por quantia certa, é correto afirmat que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a penhora em dinheiro é preferencial, com o que é prioritária a adoção da técnica da penhora eletrônica."
+      },
+      {
+        "letra": "B",
+        "texto": "pode o credor adjudicar o bem penhorado, ainda que por preço vil."
+      },
+      {
+        "letra": "C",
+        "texto": "inexiste espaço para efetivação do direito ao contraditório."
+      },
+      {
+        "letra": "D",
+        "texto": "o usufruto judicial só pode recair sobre bens imóveis."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmações é totalmente correta."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "360464",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "No que se refere ao processo de execução, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na execução por quantia certa contra devedor solvente, é admitida a formação de litisconsórcio, o qual será sempre facultativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso constate, na execução, que o cumprimento específico da obrigação é inviável e que a obtenção do resultado prático equivalente também não será possível, o juiz deverá julgar extinta a execução."
+      },
+      {
+        "letra": "C",
+        "texto": "É requisito para a execução de título executivo judicial que a sentença condenatória tenha transitado em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "Se, em execução ainda não embargada, o credor apresentar pedido de desistência da penhora sobre determinado bem, o juiz deverá rejeitar o pedido, já que a desistência deve abranger toda a execução e não apenas algumas medidas executivas."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso a ação de conhecimento tenha sido ajuizada apenas contra o devedor principal, tal fato não impedirá que a execução do título judicial dela decorrente seja movida contra o devedor e o fiador."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "359417",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "No que concerne à execução por quantia certa contra de- vedor solvente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são, absolutamente, impenhoráveis os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício de qualquer profissão."
+      },
+      {
+        "letra": "B",
+        "texto": "podem ser penhorados, à falta de outros bens, os frutos e rendimentos dos bens inalienáveis destinados à satisfação de prestação alimentícia."
+      },
+      {
+        "letra": "C",
+        "texto": "o executado pode remir a execução, pagando ou consignando a importância atualizada da dívida, mais juros, custas e honorários advocatícios, até trinta dias após a adjudicação ou alienação dos bens penhorados."
+      },
+      {
+        "letra": "D",
+        "texto": "a impenhorabilidade é oponível à cobrança do crédito concedido para a aquisição do próprio bem."
+      },
+      {
+        "letra": "E",
+        "texto": "a impenhorabilidade não alcança quantias depositadas em caderneta de poupança, qualquer que seja o valor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "470201",
+    "metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na execução por quantia certa contra devedor insolvente, é CORRETO afirmar que a insolvência",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ser presumida."
+      },
+      {
+        "letra": "B",
+        "texto": "requerida pelo credor quirografário gera o vencimento antecipado de todas as dívidas do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "é julgada por sentença de natureza declaratória quando requerida pelo próprio devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "gera o concurso universal de credores e este, quando instaurado, suspende a prescrição das obrigações que começa a correr do dia do trânsito em julgado da sentença que encerrar o processo de insolvência."
+      },
+      {
+        "letra": "E",
+        "texto": "presume-se fraudulenta quando requerida pelo próprio devedor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "414147",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Determinado lote de bens penhorados para garantir o pagamento na execução por quantia certa foi levado à hasta pública.Quanto a esse instituto de expropriação, assinale V para a afirmativa verdadeira e F para a falsa.( ) A alienação dos bens em hasta pública é o mecanismo preferencial da expropriação e, somente se não houver lanço e arrematação, o credor poderá se valer da adjudicação dos bens. ( ) O edital de hasta pública conterá o valor do bem e o lugar onde se encontram os semoventes e, sendo direito e ação, os autos do processo em que foram penhorados. ( ) É dispensada a publicação de editais se o valor dos bens penhorados não exceder sessenta vezes o salário mínimo vigente na data da avaliação.As afirmativas são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F e V"
+      },
+      {
+        "letra": "B",
+        "texto": "F, F e V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, V e F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V e V"
+      },
+      {
+        "letra": "E",
+        "texto": "F, V e F."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "412191",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A execução",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de prestação alimentícia: autoriza a prisão civil do devedor, pelo prazo de 3 a 6 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "contra a Fazenda Pública: implica penhora de tantos bens quantos bastem para a satisfação do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "dos alimentos provisionais: pode se dar nos moldes do artigo 733 do Código de Processo Civil, mesmo que ainda não haja sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser ajuizada independentemente de título executivo, se o credor for parte hipossuficiente."
+      },
+      {
+        "letra": "E",
+        "texto": "autoriza a prisão do devedor que dissipar os bens penhorados."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "350689",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 5ª Região (BA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução em geral",
+      "Da execução de obrigação de pagamento de quantia certa",
+      "Da Execução em Geral - Responsabilidade Patrimonial e Impenhorabilidade"
+    ],
+    "enunciado_principal": "Tiago encantou-se com Trancoso e, em suas férias, endividou-se muito além de sua capacidade financeira. Executado, foi citado pessoalmente para pagar o débito; a partir de então, ocorrendo o quanto segue, terá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cinco dias para pagar o débito; se não o fizer, o Oficial de Justiça de imediato procederá à penhora livre dos bens e sua avaliação, intimando-se Tiago pessoalmente após a lavratura do auto respectivo."
+      },
+      {
+        "letra": "B",
+        "texto": "24 horas para efetuar o pagamento; não o fazendo, poderá Tiago nomear bens à penhora e, se não o fizer, o Oficial de Justiça só então procederá à penhora livre de bens e a sua avaliação, lavrando-se o auto e intimando-se Tiago na mesma oportunidade."
+      },
+      {
+        "letra": "C",
+        "texto": "três dias para efetuar o pagamento; não o fazendo, abrir-se-á prazo ao credor para em cinco dias nomear bens à penhora, ocasião em que o Oficial de Justiça procederá ao ato nos bens nomeados ou, não tendo sido feita a indicação pelo credor, providenciará a penhora livre de bens de Tiago, que será intimado pessoalmente na mesma oportunidade."
+      },
+      {
+        "letra": "D",
+        "texto": "24 horas para pagar o débito; não o fazendo, o Oficial de Justiça, munido da segunda via do mandado, de imediato procederá à penhora livre de bens e a sua avaliação, lavrando-se o respectivo auto e intimando-se Tiago na figura de seu advogado ou, não o tendo, efetuando-se a intimação pessoalmente."
+      },
+      {
+        "letra": "E",
+        "texto": "três dias para efetuar o pagamento; não o fazendo, o Oficial de Justiça, munido da segunda via do mandado, procederá de imediato à penhora de bens e a sua avaliação, lavrando-se o respectivo auto e de tais atos intimando Tiago na mesma oportunidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "330563",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 12ª Região (SC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Na execução por quantia certa contra devedor solvente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o executado não pode ser compelido a dizer onde se encontram bens seus passíveis de penhora; tal ordem judicial configuraria constrangimento ilegal, por ser direito do executado silenciar a respeito."
+      },
+      {
+        "letra": "B",
+        "texto": "o executado será citado para, no prazo de 24 horas, efetuar o pagamento da dívida ou nomear bens à penhora."
+      },
+      {
+        "letra": "C",
+        "texto": "ao despachar a inicial, o juiz fixará desde logo os honorários do advogado do credor; se o executado pagar imediatamente o débito, ficará isento dessa verba honorária."
+      },
+      {
+        "letra": "D",
+        "texto": "é possível a penhora de dinheiro em depósito de conta corrente ou aplicação financeira, mas é vedado penhorar percentual de faturamento da empresa executada."
+      },
+      {
+        "letra": "E",
+        "texto": "são absolutamente impenhoráveis os móveis, pertences e utilidades domésticas que guarnecem a residência do executado, salvo os de elevado valor ou que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "322961",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: IPEM-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre a execução de quantia certa contra devedor solvente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O dinheiro é o primeiro na lista de preferências na penhora, inclusive na execução de crédito com garantia pignoratícia."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratando-se de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível a penhora de seguro de vida."
+      },
+      {
+        "letra": "D",
+        "texto": "O executado será citado no processo de execução para pagamento no prazo de 15 dias, sob pena de penhora de seus bens."
+      },
+      {
+        "letra": "E",
+        "texto": "Os bens imóveis preferem aos móveis na ordem de penhora."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "309099",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Com relação à execução de sentença condenatória de pagamento de quantia certa, assinale a opção correta à luz do CPC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transitada em julgado a sentença, incidirá a multa de 10% prevista no art. 475-J se o devedor deixar de realizar o pagamento no prazo de quinze dias, contado da intimação, seja ela pessoal ou por meio do advogado."
+      },
+      {
+        "letra": "B",
+        "texto": "Intimado o devedor da juntada ao processo do auto de penhora e avaliação, terá ele quinze dias para impugnar a execução, suspendendo assim seu prosseguimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao oferecer impugnação, o executado pode alegar, em sua defesa, a prescrição da pretensão anterior à sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "Julgada improcedente a impugnação, o recurso cabível será o agravo de instrumento."
+      },
+      {
+        "letra": "E",
+        "texto": "A expedição de mandado de penhora e avaliação, por ser mero prosseguimento do processo de conhecimento, poderá ser realizada de ofício pelo juiz."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1739603",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: AGE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a alternativa que completa corretamente a frase: \"Existe no CPC para o devedor na execução de quantia certa de devedor solvente a seguinte previsão legal depois de citado, EXCETO ________.\"",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no prazo para os embargos, reconhecer o crédito do exequente e compravando o depósito de 30% do valor em execução, inclusive custas e honorários de advogado, requerendo que que seja admitido a pagar o restante em até 6 parcelas mensais, acrescidas de correção monetária e juros de 1% ao mês."
+      },
+      {
+        "letra": "B",
+        "texto": "pagar no prazo de 3 dias;"
+      },
+      {
+        "letra": "C",
+        "texto": "nomear bens a serem penhorados no prazo de 3 dias;"
+      },
+      {
+        "letra": "D",
+        "texto": "oferecer embargos do devedor no prazo de 15 dias, contados da data da juntada aos autos do mandado de citação;"
+      },
+      {
+        "letra": "E",
+        "texto": "embargar a execução feita por carta precatória, a citação do executado será imediatamente comunicada pelo juiz deprecado ao juiz deprecante, inclusive por meios eletrônicos, contando-se o prazo para embargos a partir da juntada aos autos de tal comunicação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "829738",
+    "metadata": "Ano: 2012 | Banca: COPEVE-UFAL | Órgão: MPE-AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito da execução civil no direito brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na execução por quantia certa contra devedor solvente, o devedor será citado para em 3 (três) dias pagar o débito, sem direito à nomeação de bens, podendo, porém, remir a execução."
+      },
+      {
+        "letra": "B",
+        "texto": "Na alienação em hasta pública, é permitido o lanço de valor inferior ao de avaliação do bem penhorado, desde que não configure preço vil, vedada a participação do exequente no certame."
+      },
+      {
+        "letra": "C",
+        "texto": "O fiador que, uma vez executado, pagar a dívida se sub-roga nos direitos do exequente, adquirindo legitimidade ativa superveniente, sendo-lhe vedado, porém, executar o afiançado nos autos do mesmo processo."
+      },
+      {
+        "letra": "D",
+        "texto": "A adjudicação, como modalidade de expropriação, embora aplicável no procedimento de execução por quantia certa contra devedor solvente, não é admitida no cumprimento de sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o devedor, após intimado, não pagar voluntariamente o débito fixado em liquidação, incidirá multa em percentual a ser definido pelo juiz, observado o limite de 10% (dez por cento) do valor da obrigação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "443148",
+    "metadata": "Ano: 2012 | Banca: Quadrix | Órgão: DATAPREV",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Segundo o Código de Processo Civil, em se tratando de execução por quantia certa contra devedor solvente, a parte poderá requerer a substituição da penhora em todos os casos abaixo, com exceção de um. Aponte-o.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se incidir sobre bens de baixa liquidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Se fracassar a tentativa de alienação judicial do bem."
+      },
+      {
+        "letra": "C",
+        "texto": "Se, havendo bens livres, a penhora houver recaído sobre bens já penhorados ou objeto de gravame."
+      },
+      {
+        "letra": "D",
+        "texto": "Se, havendo bens no foro da execução, outros houverem sido penhorados."
+      },
+      {
+        "letra": "E",
+        "texto": "Se incidir sobre os bens designados em contrato para o pagamento."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "426603",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre as regras que disciplinam a penhorabilidade de bens à luz do Código de Processo Civil, analise as seguintes assertivas e identifique a única opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São absolutamente impenhoráveis os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício de qualquer profissão."
+      },
+      {
+        "letra": "B",
+        "texto": "Os depósitos feitos na caderneta de poupança podem ser penhorados em qualquer quantia."
+      },
+      {
+        "letra": "C",
+        "texto": "A impenhorabilidade é oponível à cobrança do crédito concedido para aquisição do próprio bem."
+      },
+      {
+        "letra": "D",
+        "texto": "São penhoráveis os recursos públicos do fundo partidário recebidos por partido político, até o limite de 150 salários mínimos."
+      },
+      {
+        "letra": "E",
+        "texto": "Não existe proibição quanto à penhorabilidade do seguro de vida."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "423384",
+    "metadata": "Ano: 2012 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Da comunicação dos atos processuais - Citação",
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Leia as afirmações abaixo.I - Em processo de conhecimento, efetivada citação com hora certa ou por edital, deve ser nomeado curador especial ao réu revel. II - Em execução por quantia certa contra devedor solvente, deve ser nomeado curador especial ao réu que, citado por hora certa, permanecer revel. III - O curador especial do réu revel citado por edital não está sujeito, na contestação, à observância da regra de impugnação específica.Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "398538",
+    "metadata": "Ano: 2012 | Banca: CONSULPLAN | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A execução por quantia certa tem por objeto expropriar bens do devedor, a fim de satisfazer o direito do credor. Contudo, alguns bens são considerados pela lei impenhoráveis. Sobre a impenhorabilidade dos bens, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São absolutamente impenhoráveis os bens alienáveis e os declarados, por ato voluntário, não sujeitos à execução."
+      },
+      {
+        "letra": "B",
+        "texto": "É absolutamente impenhorável o seguro de vida."
+      },
+      {
+        "letra": "C",
+        "texto": "São absolutamente impenhoráveis todos os pertences de uso pessoal."
+      },
+      {
+        "letra": "D",
+        "texto": "É absolutamente impenhorável, em qualquer circunstância, a pequena propriedade rural."
+      },
+      {
+        "letra": "E",
+        "texto": "É absolutamente impenhorável até o limite de 50 salários mínimos, a quantia depositada em caderneta de poupança."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "398534",
+    "metadata": "Ano: 2012 | Banca: CONSULPLAN | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Lúcio é fiador de Tarcísio em uma nota promissória, cujo credor é Marcelo. Tarcísio não cumpre com sua obrigação contratual e é executado juntamente com Lúcio. Com base na afirmação, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lúcio não poderá nomear bens do devedor à penhora, apenas bens de sua propriedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Mesmo que os bens de Tarcísio sejam suficientes para pagar a dívida, os bens de Lúcio serão penhorados."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso Lúcio pague o valor executado, necessitará abrir novo processo, independente do processo de execução, para cobrar Tarcísio."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso Lúcio pague o valor executado, poderá executar Tarcísio nos mesmos autos do processo de execução."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso Lúcio pague o valor executado, não poderá executar Tarcísio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "242909",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Não tendo o devedor de alimentos provisionais pago cinco prestações alimentícias fixadas em decisão contra a qual não tenha havido recurso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as cinco prestações em atraso, por si e automaticamente, autorizam a prisão do alimentante."
+      },
+      {
+        "letra": "B",
+        "texto": "se o devedor for empregado sujeito à legislação do trabalho, o juiz poderá determinar o desconto da prestação em folha de pagamento, ao invés de determinar a prisão."
+      },
+      {
+        "letra": "C",
+        "texto": "em razão da natureza do débito, o devedor não poderá justificar estar impossibilitado do pagamento."
+      },
+      {
+        "letra": "D",
+        "texto": "cumprida a prisão, pelo tempo fixado na ordem judicial, o devedor se eximirá das prestações vencidas, mas não das vincendas."
+      },
+      {
+        "letra": "E",
+        "texto": "não é autorizada a prisão com base nas prestações vencidas no transcurso do processo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "237181",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Caixa",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A instituição financeira K obtém sentença condenatória em processo determinando que a pessoa física YY deva pagar a quantia de R$ 10.000,00. Após esgotados todos os procedimentos de localização de bens, constata-se que não existem bens a penhorar. Nesse caso, à luz das regras que informam a execução civil vinculada ao cumprimento de sentença, a(o)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "execução será suspensa até que surjam bens a penhorar"
+      },
+      {
+        "letra": "B",
+        "texto": "execução será extinta diante da ausência de patrimônio do executado."
+      },
+      {
+        "letra": "C",
+        "texto": "dívida pessoal do executado será respondida pelos bens da sua família"
+      },
+      {
+        "letra": "D",
+        "texto": "executado poderá ser condenado a prestar serviços voluntários para pagar sua dívida"
+      },
+      {
+        "letra": "E",
+        "texto": "devedor executado deverá ser perdoado para poder retomar sua atividade creditícia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "408394",
+    "metadata": "Ano: 2011 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A respeito da penhora e do depósito no Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o devedor fechar as portas da casa a fim de obstar a penhora dos bens, o oficial de justiça requisitará o arrombamento à autoridade policial."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo para o executado requerer a substituição do bem penhorado é de 5 (cinco) dias após intimado da penhora."
+      },
+      {
+        "letra": "C",
+        "texto": "Para o deferimento ao executado da substituição do bem penhorado, dispensa-se prova da ausência de prejuízo ao exeqüente."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando uma das partes requerer a alienação antecipada dos bens penhorados, o juiz ouvirá sempre a outra antes de decidir."
+      },
+      {
+        "letra": "E",
+        "texto": "Efetuar-se-á a penhora onde quer que se encontrem os bens, salvo se sob a posse, detenção ou guarda de terceiros."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "408365",
+    "metadata": "Ano: 2011 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a afirmativa INCORRETA quanto à execução de obrigação por quantia certa, conforme previsto no artigo 475-I a 475-R do Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O executado será intimado do auto de penhora e de avaliação na pessoa de seu advogado ou, na falta deste, do seu representante legal, ou pessoalmente, por mandado, podendo oferecer embargos, no prazo de 10 (dez) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o oficial de justiça não possa proceder à avaliação por depender de conhecimentos especializados, o juiz, de imediato, nomeará avaliador, assinando-lhe breve prazo para a entrega do laudo."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se inexigível o título judicial fundado em aplicação ou interpretação da lei ou ato normativo tidas pelo Supremo Tribunal Federal como incompatíveis com a Constituição Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "Na execução provisória, a prática de atos que importem alienação de propriedade depende de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando a indenização por ato ilícito incluir prestação de alimentos, o juiz, quanto a esta parte, poderá ordenar ao devedor constituição de capital, cuja renda assegure o pagamento do valor mensal da pensão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "408364",
+    "metadata": "Ano: 2011 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta quanto à execução de obrigação por quantia certa, conforme previsto no artigo 475-I a 475-R do Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o devedor, condenado ao pagamento de quantia certa ou já fixada em liquidação, não efetue o pagamento no prazo de 10 (dez) dias, o montante da condenação será acrescido de multa no percentual de 15 (quinze) por cento."
+      },
+      {
+        "letra": "B",
+        "texto": "Não sendo requerida a execução no prazo de 6 (seis) meses, o juiz mandará arquivar os autos, sem prejuízo de seu desarquivamento a pedido da parte."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode o juiz atribuir efeito suspensivo à impugnação, desde que sejam relevantes seus fundamentos e que o prosseguimento da execução seja supostamente suscetível de causar ao executado dano de difícil ou incerta reparação."
+      },
+      {
+        "letra": "D",
+        "texto": "É título executivo judicial a sentença estrangeira homologada pelo Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando a indenização por ato ilícito incluir prestação de alimentos, é vedada a fixação do seu valor com base no salário mínimo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1635725",
+    "metadata": "Ano: 2010 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Como se denomina o ato pelo qual o executado paga ou consigna o valor total da dívida, devidamente atualizada e acrescida de juros, custas e honorários advocatícios, a fim de evitar a alienação ou adjudicação dos bens penhorados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elisão."
+      },
+      {
+        "letra": "B",
+        "texto": "Oposição."
+      },
+      {
+        "letra": "C",
+        "texto": "Remição."
+      },
+      {
+        "letra": "D",
+        "texto": "Retração."
+      },
+      {
+        "letra": "E",
+        "texto": "Subrogação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "391107",
+    "metadata": "Ano: 2009 | Banca: FUMARC | Órgão: DPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre a execução por quantia certa contra devedor solvente fundada em título extrajudicial, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desistência do processo de execução pelo exeqüente depende do consentimento do executado que ofereceu embargos."
+      },
+      {
+        "letra": "B",
+        "texto": "É requisito obrigatório da petição inicial a indicação pelo exeqüente dos bens a serem penhorados."
+      },
+      {
+        "letra": "C",
+        "texto": "O cônjuge do executado é ilegítimo para requerer a adjudicação dos bens penhorados."
+      },
+      {
+        "letra": "D",
+        "texto": "A averbação da penhora no ofício imobiliário gera presunção relativa de seu conhecimento por terceiros."
+      },
+      {
+        "letra": "E",
+        "texto": "O pagamento integral da dívida pelo executado, no prazo de três dias de sua citação, reduz a verba honorária à metade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "220959",
+    "metadata": "Ano: 2009 | Banca: FCC | Órgão: INFRAERO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo de execução",
+      "Da execução de obrigação de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "A respeito da execução por quantia certa contra devedor solvente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada a penhora de percentual do faturamento da empresa executada, por dificultar as atividades comerciais ou industriais desta."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o executado, regularmente citado, realizar o pagamento do débito no prazo de 3 dias, não será devida a verba honorária fixada pelo Magistrado ao despachar a inicial."
+      },
+      {
+        "letra": "C",
+        "texto": "A penhora pode ser substituída por fiança bancária ou seguro garantia judicial, em montante não inferior a uma vez e meia o valor do débito constante da inicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de penhora de bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem."
+      },
+      {
+        "letra": "E",
+        "texto": "A penhora de bens imóveis prefere, nos termos da lei, a penhora de bens móveis e veículos."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

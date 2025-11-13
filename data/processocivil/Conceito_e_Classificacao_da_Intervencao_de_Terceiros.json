@@ -1,0 +1,487 @@
+[
+  {
+    "id": "981127",
+    "metadata": "Ano: 2016 | Banca: FACET Concursos | Órgão: Prefeitura de Marcação - PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Sobre intervenção de terceiros, leia as assertivas e marque a opção mais correta: I. O CPC/73 admite as seguintes modalidades de intervenção de terceiros: oposição, nomeação à autoria, denunciação a lide, assistência e chamamento ao processo; II. Se um dos opostos reconhecer a procedência do pedido, o opoente prosseguirá no processo contra os demais opostos III. O devedor poderá chamar o fiador para compor o processo em que é cobrado por dívida onde o último seja garantidor pessoal IV. Se apenas um fiador for chamado para compor o processo na qualidade de réu devedor, poderá usar da denunciação a lide para chamar os demais fiadores e o devedor principal para comporem o polo ativo da ação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São corretas I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "São incorretas II, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "É correta apenas o I"
+      },
+      {
+        "letra": "D",
+        "texto": "São incorretas I, III e IV e correta II"
+      },
+      {
+        "letra": "E",
+        "texto": "São todas incorretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "614566",
+    "metadata": "Ano: 2016 | Banca: UECE-CEV | Órgão: DER-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "É exemplo de intervenção de terceiro no Processo Civil em que o interveniente poderia ter participado da lide desde o início a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "oposição."
+      },
+      {
+        "letra": "B",
+        "texto": "assistência litisconsorcial."
+      },
+      {
+        "letra": "C",
+        "texto": "denunciação da lide."
+      },
+      {
+        "letra": "D",
+        "texto": "nomeação à autoria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "611508",
+    "metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: Câmara de Atibaia - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta que completa a frase e identifica a modalidade de intervenção de terceiro cabível ao caso. I- Aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá ______________________________ proprietário ou o possuidor. II- É admissível __________________________todos os devedores solidários, quando o credor exigir de um ou de alguns deles, parcial ou totalmente, a dívida comum.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I. denunciar à lide ao / II. a nomeação à autoria de"
+      },
+      {
+        "letra": "B",
+        "texto": "I. nomear à autoria o / II. o chamamento ao processo de"
+      },
+      {
+        "letra": "C",
+        "texto": "I. apresentar oposição ao / II. a denunciação à lide de"
+      },
+      {
+        "letra": "D",
+        "texto": "I. chamar à autoria o / II. apresentar oposição à"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "643097",
+    "metadata": "Ano: 2015 | Banca: Prefeitura de Fortaleza - CE | Órgão: Prefeitura de Fortaleza - CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "São exemplos de intervenções de terceiros no processo civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "oposição, denunciação da lide e assistência."
+      },
+      {
+        "letra": "B",
+        "texto": "oposição, assistência litisconsorcial e nomeação à lide."
+      },
+      {
+        "letra": "C",
+        "texto": "oposição, denunciação à autoria, nomeação à lide e assistência."
+      },
+      {
+        "letra": "D",
+        "texto": "nomeação à autoria, denunciação à autoria e oposição à autoria."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "599852",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Sujeitos da relação processual",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Conceito e Classificação da Intervenção de Terceiros",
+      "Obrigações de fazer e não fazer/tutela inibitória: conversão em perdas e danos",
+      "Obrigações de fazer e não fazer/tutela inibitória: tutela específica e resultado prático equivalente"
+    ],
+    "enunciado_principal": "A última década revela um notável aumento na judicialização das políticas públicas de saúde no Brasil, notadamente em razão de demandas judiciais relativas ao fornecimento de medicamentos e tratamentos de saúde. A par de tais fatos, sob o viés processual civil da questão, conclui-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o município não possui legitimidade passiva para figurar em demandas cujo objeto seja o fornecimento de medicamento de alto custo, já que sua responsabilidade é subsidiária ante as atribuições da União e dos Estados."
+      },
+      {
+        "letra": "B",
+        "texto": "a decisão que determina o fornecimento de medicamentos não poderá fixar astreintes em face da Fazenda Pública Municipal. Poderá, entretanto, se necessário, determinar o sequestro de valores da municipalidade (bloqueio) a fim de que seja efetivada."
+      },
+      {
+        "letra": "C",
+        "texto": "a ação proposta em face do Município visando à obtenção de medicamento, no caso de chamamento da União ao processo, deverá ser remetida à Justiça Federal, por força do artigo 109, I, da Constituição e Súmula 150 do STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "a demanda que tenha por objetivo a entrega de medicamento pelo Poder Público pode ser ajuizada em face de qualquer um dos entes estatais ou em face de todos, conjuntamente, nesse último caso sendo competente para processar e julgar a causa a Justiça Federal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "592474",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Da Intervenção de terceiros",
+      "Critérios de competência",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, com base no que dispõe o Código de Processo Civil (CPC) a respeito de competência, intervenção de terceiros, liquidação de sentença e capacidade postulatória. Situação hipotética: Renata ajuizou ação judicial contra Mara com a finalidade de reivindicar a propriedade de imóvel que Mara havia adquirido recentemente de Clara. Assertiva: Nessa situação, para receber direito decorrente da evicção, Mara deverá provocar o ingresso de Clara no processo judicial por intermédio da modalidade de intervenção de terceiros denominada chamamento ao processo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1332622",
+    "metadata": "Ano: 2014 | Banca: PGM-RJ | Órgão: PGM - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "NÃO é hipótese de intervenção voluntária de terceiros:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "denunciação da lide"
+      },
+      {
+        "letra": "B",
+        "texto": "nomeação à autoria"
+      },
+      {
+        "letra": "C",
+        "texto": "exceção de suspeição"
+      },
+      {
+        "letra": "D",
+        "texto": "assistência"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1005311",
+    "metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Considere as assertivas abaixo transcritas, que tratam do regime jurídico aplicável em sede de intervenção de terceiros: I. Se um dos opostos reconhecer a procedência do pedido formulado na ação de oposição, contra o outro prosseguirá a demanda proposta pelo opoente. II. Em sede de nomeação à autoria, se o nomeado reconhecer a qualidade que lhe é atribuída pelo nomeante, formar-se-á litisconsórcio entre ambos. III. Segundo o Código de Processo Civil, é admissível o chamamento ao processo dos outros fiadores, quando para a ação for citado apenas um deles. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I,II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "598458",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Nossa Senhora do Socorro - SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte"
+    ],
+    "enunciado_principal": "Sobre legitimidade e intervenção de terceiros, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Haverá substituição processual quando a lei autorizar a parte a pleitear, em nome próprio, direito alheio."
+      },
+      {
+        "letra": "B",
+        "texto": "A alienação da coisa ou do direito litigioso, a título particular, por ato entre vivos, somente admite a intervenção no processo do adquirente ou do cessionário como assistente simples do alienante ou o cedente."
+      },
+      {
+        "letra": "C",
+        "texto": "No chamamento ao processo, a sentença, que julgar procedente a ação, condenando os devedores, valerá como título executivo, em favor do que satisfizer a dívida, para exigi-la, por inteiro, do devedor principal, ou de cada um dos codevedores."
+      },
+      {
+        "letra": "D",
+        "texto": "A denunciação da lide é obrigatória na ação de indenização, intentada pelo proprietário ou pelo titular de um direito sobre a coisa, toda vez que o responsável pelos prejuízos alegar que praticou o ato por ordem, ou em cumprimento de instruções de terceiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Admite-se assistência no processo de execução de título executivo extrajudicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "501045",
+    "metadata": "Ano: 2014 | Banca: INSTITUTO AOCP | Órgão: UFPB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Analise as assertivas e assinale a alternativa correta de acordo com a Intervenção de terceiros no Código de Processo Civil. I. Quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu, poderá, até ser proferida a sentença, oferecer oposição contra ambos. II. Se um dos opostos reconhecer a procedência do pedido, contra o outro prosseguirá o opoente.III. A oposição, oferecida antes da audiência, será apensada aos autos principais e correrá simultaneamente com a ação, sendo ambas julgadas pela mesma sentença. IV. Cabendo ao juiz decidir simultaneamente a ação e a oposição, daquela conhecerá em primeiro lugar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "492063",
+    "metadata": "Ano: 2014 | Banca: COPESE - UFT | Órgão: Prefeitura de Araguaína - TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Nomeação à autoria",
+      "Denunciação da lide",
+      "Chamamento ao processo",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Nos termos do Código de Processo Civil é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu, poderá, até ser proferida a sentença, oferecer denunciação da lide contra ambos."
+      },
+      {
+        "letra": "B",
+        "texto": "aquele que detiver a coisa em nome alheio, sendo-lhe demandada em nome próprio, deverá chamar ao processo o proprietário ou o possuidor."
+      },
+      {
+        "letra": "C",
+        "texto": "a denunciação da lide é obrigatória, àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda."
+      },
+      {
+        "letra": "D",
+        "texto": "é admissível a nomeação à autoria do devedor, na ação em que o fiador for réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "826661",
+    "metadata": "Ano: 2013 | Banca: BANPARÁ | Órgão: BANPARÁ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação do Litisconsórcio",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fiador, que pagar a dívida, poderá executar o afiançado nos autos do mesmo processo."
+      },
+      {
+        "letra": "B",
+        "texto": "São admitidos, no processo perante os juizados especiais estaduais, o litisconsórcio e a assistência, sendo vedadas as formas de intervenção de terceiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ação popular, das sentenças e decisões proferidas contra o autor e suscetíveis de recurso, poderá recorrer qualquer cidadão e também o Ministério Público."
+      },
+      {
+        "letra": "D",
+        "texto": "A adjudicação pode ser requerida pelo exequente, pelo credor com garantia real, pelos credores concorrentes que hajam penhorado o mesmo bem, pelo cônjuge, pelos descendentes ou ascendentes do executado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "447982",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: Câmara Municipal de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Sobre a ação direta de inconstitucionalidade no STF, assina­le a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não pode haver intervenção de terceiros no processo, ou seja, partes que não estavam originariamente na cau­sa não podem ingressar posteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vez proposta a ação, admite-­se a desistência, des­de que devidamente fundamentada na falta de interesse superveniente."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra a decisão que declara a inconstitucionalidade caberão embargos declaratórios e agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "A decisão final da ação passa a surtir efeitos imediata­ mente, sem qualquer exceção."
+      },
+      {
+        "letra": "E",
+        "texto": "Não cabe recurso da decisão que indeferir a petição inicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "314281",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Não há óbice legal à intervenção de terceiros nas ações de controle de constitucionalidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "341130",
+    "metadata": "Ano: 2012 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Procedimento sumário",
+      "Denunciação da lide",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Julgue as três proposições que se seguem e assinale a única alternativa correta. I - Demandado em nome próprio, pode o locatário, na condição de possuidor direto do bem, denunciar da lide o locador, caso em que, aceita a denunciação, denunciante e denunciado seguem no processo como litisconsortes passivos. II - No procedimento sumário não se admite intervenção de terceiro, exceto do segurado a quem é facultada a denunciação da lide do segurador. III - No procedimento sumário e nas causas afetas aos Juizados Especiais Cíveis a confissão ficta que decorre da revelia somente deve ser aplicada se o contrário não resultar da prova dos autos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a proposição III está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as proposições estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e II estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "341129",
+    "metadata": "Ano: 2012 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Conceito e Classificação da Intervenção de Terceiros"
+    ],
+    "enunciado_principal": "Julgue as três proposições que se seguem e assinale a única alternativa correta. I - Admite-se, no âmbito do processo cautelar, a denunciação da lide. II - Admite-se, no processo de execução, que o executado chame ao processo o devedor solidário, ainda que não tenha o referido devedor solidário integrado a relação processual no processo de conhecimento. III - Não se admite a nomeação à autoria para trazer aos autos o empregador, na hipótese em que o empregado, em estrito cumprimento de ordem dele emanada, cause dano a bem de outrem e, por tal dano, é demandado em ação de indenização.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Nenhuma das proposições está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a proposição III está correta."
+      }
+    ],
+    "gabarito": "C"
+  }
+]
