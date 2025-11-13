@@ -1,0 +1,413 @@
+[
+  {
+    "id": "593129",
+    "metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: Secretaria da Criança - DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta no que concerne à liquidação de sentença e às execuções em espécie.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sendo simples os cálculos aritméticos, considera-se a obrigação líquida, devendo o exequente instruir seu requerimento de cumprimento de sentença com a planilha discriminada do seu crédito."
+      },
+      {
+        "letra": "B",
+        "texto": "A iliquidez de obrigação constante de nota promissória não a desnatura como título, bastando, para que se proceda à execução, a prévia liquidação da obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente é possível liquidar sentença ainda não transitada em julgado se o recurso contra ela interposto não tiver efeito suspensivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente o vencedor da demanda ostenta legitimidade ativa para requerer a liquidação da sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "A coisa certa quanto ao gênero e à quantidade, mas incerta quanto à qualidade, inviabiliza a execução da obrigação que tenha como objeto a sua entrega."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "583375",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Sobre o procedimento de liquidação de sentença previsto no Código de Processo Civil, analise as afirmações a seguir e assinale a alternativa CORRETA. I. Na liquidação por meros cálculos aritméticos, poderá o juiz valer-se do contador do juízo quando a memória apresentada pelo credor aparentemente exceder os limites da decisão exequenda e, ainda, nos casos de assistência judiciária. II. Por tratar-se de nova fase processual, do requerimento de liquidação de sentença será a parte adversa intimada pessoalmente para manifestar-se no prazo de dez dias. III. Definida a forma de liquidação na sentença de mérito, a liquidação realizada de maneira diversa ofende a coisa julgada. IV. É cabível a liquidação por arbitramento quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo, não debatido na fase de conhecimento e necessariamente concernente ao dimensionamento pecuniário do direito vinculado à tutela jurisdicional concedida. V. Tendo em vista a natureza complexa do objeto da liquidação, quando esta se der por arbitramento, não cabe ao juiz, como regra, fixar prazo para a entrega do laudo, porém, uma vez apresentado o trabalho pericial, as partes terão o prazo de dez dias para manifestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e V são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas II, III e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas IV e V são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva I é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as assertivas I, IV e V são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "427904",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Na liquidação da sentença, que dependa apenas de cálculo aritmético, o beneficiário da assistência judiciária",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode se utilizar do serviço de contador judicial para apuração do crédito, salvo na hipótese de cálculos complexos e quando não for representado pela Defensoria Pública."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode se utilizar do serviço de contador judicial para apuração do crédito quando for representado pela Defensoria Pública e não se tratar de cálculos complexos."
+      },
+      {
+        "letra": "C",
+        "texto": "pode se utilizar do serviço de contador judicial para apuração do crédito, ainda que seja representado pela Defensoria Pública, independentemente da complexidade dos cálculos."
+      },
+      {
+        "letra": "D",
+        "texto": "pode se utilizar do serviço de contador judicial para apuração do crédito, desde que seja representado pela Defensoria Pública, independentemente da complexidade dos cálculos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "408723",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Embargos de Declaração no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Para a execução, é indispensável a existência de título líquido, que indique a quantidade de bens ou valores que constituem a obrigação. Em caso de título judicial ilíquido, em que haja a necessidade de alegar e provar fato novo para se chegar ao quantum debeatur, será necessária a;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liquidação por cálculo, remetendo-se o processo ao contador judicial para que seja elaborada memória atualizada do débito."
+      },
+      {
+        "letra": "B",
+        "texto": "liquidação por arbitramento, ante a necessidade de realização de prova pericial para a comprovação de tais fatos."
+      },
+      {
+        "letra": "C",
+        "texto": "liquidação por artigos, sendo impossível o rejulgamento da causa ou a modificação da sentença que a julgou"
+      },
+      {
+        "letra": "D",
+        "texto": "oposição de embargos declaratórios com o fim de integrar a omissão do julgador, que está desautorizado a proferir sentenças ilíquidas"
+      },
+      {
+        "letra": "E",
+        "texto": "apresentação de ação autônoma de liquidação, cuja sentença será recorrível por apelação à autoridade competente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "387602",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CAU-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Sentença",
+      "Procedimento ordinário",
+      "Liquidação de sentença",
+      "Agravo de instrumento",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Acerca da liquidação da sentença, prevista no Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da decisão de liquidação não caberá agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a sentença não determinar o valor devido, procede-se à sua liquidação."
+      },
+      {
+        "letra": "C",
+        "texto": "A liquidação poderá ser requerida na pendência de recurso, processando-se nos mesmos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o credor requererá o cumprimento da sentença, não necessitando apresentar memória discriminada do cálculo."
+      },
+      {
+        "letra": "E",
+        "texto": "Far-se-á a liquidação por arbitramento quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "382853",
+    "metadata": "Ano: 2013 | Banca: CEPERJ | Órgão: CEDERJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Perácio obtém sentença civil condenatória para compelir Padrácio, seu irmão, a compor os prejuízos causados em sua propriedade, ao invadi-la conduzindo um carro particular, equipado com sirenes e equipamento de som, em altíssimo nível. Tal conduta foi aquilatada na fase cognitiva. Posteriormente, ao término da fase cognitiva, foram constatadas perdas na floração vinculada à atividade de apicultura ocorrida na propriedade e o decréscimo no nascimento de porcos, cabritos, equinos e bovinos. Esses danos devem ser valorados em liquidação por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cálculos"
+      },
+      {
+        "letra": "B",
+        "texto": "artigos"
+      },
+      {
+        "letra": "C",
+        "texto": "arbitramento"
+      },
+      {
+        "letra": "D",
+        "texto": "ficção"
+      },
+      {
+        "letra": "E",
+        "texto": "presunção"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "303722",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Telebras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Transitada em julgado uma sentença cível condenatória, procedeu-se à sua liquidação por cálculo, tendo o autor/exequente apresentado memorial descritivo. Nessa situação hipotética, discordando do valor apresentado para execução, o réu/executado poderá oferecer impugnação à execução nos próprios autos, no prazo máximo de quinze dias contados da intimação da penhora e da avaliação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "426602",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Sobre a liquidação de sentença, à luz do Código de Processo Civil, assinale a única opção certa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Far-se-á liquidação por arbitramento quando se requeira o concurso de um especialista para apurar o quantum relativo à obrigação pecuniária condenatória. Nessas circunstâncias, a liquidação por arbitramento será realizada quando o exigir a natureza do objeto da liquidação ou quando determinado pela sentença ou convencionado pelas partes, sendo nomeado perito pelo juiz que fixará o prazo para a entrega do laudo, sobre o qual as partes terão prazo de 10 dias para se manifestar."
+      },
+      {
+        "letra": "B",
+        "texto": "É defeso, na liquidação, apresentar e provar fato novo, uma vez que não é possível modificar a sentença que julgou a lide."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos processos sob procedimento comum sumário, é proibida sentença ilíquida, cumprindo ao juiz fixar de plano o valor devido da condenação."
+      },
+      {
+        "letra": "D",
+        "texto": "A liquidação não poderá ser requerida na pendência de recurso no processo de conhecimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese em que a determinação do valor da condenação depender apenas de cálculo aritmético, mas a elaboração da memória de cálculo reclamar dados existentes em poder do devedor ou de terceiro, o juiz, a requerimento do credor, poderá-requisitá-los, fixando prazo de até 15 dias para o cumprimento da diligência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "336237",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "A respeito da liquidação de sentença, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o juiz infira que os cálculos do processo de liquidação excedem os da execução, deverá determinar ao credor a elaboração de novos cálculos."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, no processo de liquidação por arbitramento, houver impugnação do laudo pericial, o juiz deverá designar audiência de instrução e julgamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo omissa a sentença quanto a juros e correção monetária, devem incidir, na liquidação, somente os juros legais e a correção monetária, ficando afastados os juros de mora."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os dados necessários ao cálculo do valor da condenação estiverem em poder do devedor, a parte deverá requerer ao juiz, de forma incidente, que intime o devedor a apresentá-los."
+      },
+      {
+        "letra": "E",
+        "texto": "A liquidação de sentença deve ser realizada por meio de incidente processual, mediante requerimento, devendo a parte contrária ser intimada pessoalmente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "328656",
+    "metadata": "Ano: 2012 | Banca: Makiyama | Órgão: CPTM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Sobre a “liquidação de sentença”, tal qual preceitua o Código de Processo Civil, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando a elaboração da memória do cálculo depender de dados existentes em poder do devedor ou de terceiro, o juiz, a requerimento do credor, poderá requisitá-los, fixando prazo de até 30 (trinta) dias para o cumprimento da diligência."
+      },
+      {
+        "letra": "B",
+        "texto": "Far-se-á a liquidação por arbitramento quando determinado pela sentença ou convencionado pelas partes ou, ainda, quando o exigir a natureza do objeto da liquidação."
+      },
+      {
+        "letra": "C",
+        "texto": "Far-se-á a liquidação por artigos, quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo."
+      },
+      {
+        "letra": "D",
+        "texto": "A liquidação poderá ser requerida na pendência de recurso, processando-se em autos apartados, no juízo de origem, cumprindo ao liquidante instruir o pedido com cópias das peças processuais pertinentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o credor não concordar com os cálculos feitos pelo contador do juízo, far-se-á a execução pelo valor originariamente pretendido, sendo este o valor utilizado como base para se realizar a penhora."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "407156",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Apelação no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "No que diz respeito à liquidação de sentença, está CORRETA a seguinte afirmação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabe à parte credora instruir o pedido de cumprimento de sentença com a memória discriminada e atualizada do cálculo, podendo o juiz valer-se de contador do juízo somente se o credor for beneficiário de assistência judiciária."
+      },
+      {
+        "letra": "B",
+        "texto": "Será admitida a rediscussão da sentença na fase de liquidação de sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "Requerida a liquidação por artigos, o juiz nomeará o perito e fixará o prazo para entrega do laudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão de liquidação caberá apelação."
+      },
+      {
+        "letra": "E",
+        "texto": "Do requerimento de liquidação de sentença será a parte intimada na pessoa de seu advogado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "341724",
+    "metadata": "Ano: 2009 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Apelação no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Acerca da liquidação de sentença, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte será intimada, na pessoa de seu advogado, do requerimento de liquidação de sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Na liquidação por artigos, o procedimento comum deve ser observado no que couber."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o credor requererá o cumprimento da sentença, na forma da lei processual civil, instruindo o pedido com a memória discriminada e atualizada do cálculo."
+      },
+      {
+        "letra": "D",
+        "texto": "Far- se-á a liquidação por arbitramento quando o objeto da liquidação, por sua natureza, exigir o conhecimento técnico de um árbitro."
+      },
+      {
+        "letra": "E",
+        "texto": "Da sentença de liquidação, caberá apelação."
+      }
+    ],
+    "gabarito": "E"
+  }
+]
