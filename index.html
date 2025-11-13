@@ -75,7 +75,7 @@
         .sub-buttons-container { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
         .sub-buttons-container.expanded { max-height: 300px; transition: max-height 0.3s ease-in; }
         
-        /* ### NOVO CSS: Estilo do Toast ### */
+        /* ### CSS: Estilo do Toast ### */
         .toast {
             position: fixed;
             top: 1.25rem; /* 20px */
@@ -226,7 +226,7 @@
         const multiSelectPins = document.getElementById('multiSelectPins'); 
 
         // Botões e Divs Principais
-        const btnBuscarQuestao = document.getElementById('btnBuscarQuestao'); // Referência já existia
+        const btnBuscarQuestao = document.getElementById('btnBuscarQuestao'); 
         const divStatus = document.getElementById('divStatus');
         const divQuestoes = document.getElementById('divQuestoes');
         const btnTopo = document.getElementById('btnTopo');
@@ -237,7 +237,7 @@
         const btnAcaoErrei = document.getElementById('btnAcaoErrei');
         const btnAcaoAcertei = document.getElementById('btnAcaoAcertei');
         
-        // Referência do Toast (Nova)
+        // Referência do Toast
         const toastContainer = document.getElementById('toastContainer');
 
         // --- 3. Estado da Aplicação ---
@@ -251,13 +251,10 @@
         let historicoNavegacao = []; 
         let indiceHistorico = -1; 
         let perguntaAtual = null; 
-        let isLoading = false; // (NOVO) Controla estado de carregamento
+        let isLoading = false; 
 
         // --- 4. Funções Principais ---
 
-        /**
-         * Inicializa o simulador ao carregar a página.
-         */
         function init() {
             if (typeof dbDisciplinas === 'undefined') {
                 console.error("ERRO CRÍTICO: O ficheiro config.js não foi carregado ou está vazio.");
@@ -269,10 +266,7 @@
             popularDisciplinas();
             setupCustomSelectListeners();
 
-            // Listener Botão Principal
             btnBuscarQuestao.addEventListener('click', buscarQuestoes);
-            
-            // Listeners Botões de Ação (agora usam showToast)
             btnAcaoNova.addEventListener('click', mostrarNovaQuestaoAleatoria);
             btnAcaoErrei.addEventListener('click', () => {
                 showToast('Status "Errei" registado.', 'error');
@@ -281,7 +275,6 @@
                 showToast('Status "Acertei" registado.', 'success');
             });
             
-            // Listener do Botão Voltar ao Topo
             window.addEventListener('scroll', () => {
                 if (window.scrollY > 300) { btnTopo.classList.remove('hidden'); } 
                 else { btnTopo.classList.add('hidden'); }
@@ -290,13 +283,9 @@
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             });
             
-            // (NOVO) Garante que o botão de busca começa no estado correto
             atualizarEstadoBotaoBuscar();
         }
         
-        /**
-         * Configura os listeners para os dropdowns personalizados.
-         */
         function setupCustomSelectListeners() {
             document.addEventListener('click', (e) => {
                 if (!customSelectDisciplina.contains(e.target)) selectDisciplinaList.classList.add('hidden');
@@ -355,19 +344,43 @@
             popularTemas();
             atualizarVisualSelecaoTema();
             resetarEstadoEstudo();
-            
-            atualizarEstadoBotaoBuscar(); // (NOVO) Atualiza o botão
+            atualizarEstadoBotaoBuscar();
         }
 
         // --- Funções de Seleção (Subcategoria/Tema) ---
+        
+        /**
+         * (NOVA FUNÇÃO AUXILIAR - ADICIONADA)
+         * Transforma uma chave-de-arquivo em um nome legível.
+         * Ex: "lei-penal-no-espaco" se torna "Lei Penal No Espaco"
+         */
+        function formatarChaveParaNome(chave) {
+            if (!chave) return '';
+            // Separa por '-', capitaliza a primeira letra de cada parte, e junta com espaço
+            return chave
+                .split('-')
+                .map(palavra => palavra.charAt(0).toUpperCase() + palavra.slice(1))
+                .join(' ');
+        }
 
+        /**
+         * (FUNÇÃO MODIFICADA)
+         * Popula o dropdown de Temas lendo o NOVO config.js (que é um array).
+         */
         function popularTemas() {
             const disciplinaKey = estadoSelect.disciplina.chave;
-            const temas = dbDisciplinas[disciplinaKey]?.temas || {};
+            // 'temas' agora é esperado como um ARRAY de chaves, não um objeto
+            const temasArray = dbDisciplinas[disciplinaKey]?.temas || []; // <-- MUDANÇA
+            
             estadoSelect.tema.listaCompleta = [];
-            for (const [chave, valorObj] of Object.entries(temas)) {
-                estadoSelect.tema.listaCompleta.push({ chave, nome: valorObj.nome });
+            
+            // Loop por um array de chaves (ex: "conceitos", "norma-penal")
+            for (const chave of temasArray) { // <-- MUDANÇA
+                // Gera o nome de exibição automaticamente a partir da chave
+                const nomeFormatado = formatarChaveParaNome(chave); // <-- MUDANÇA
+                estadoSelect.tema.listaCompleta.push({ chave: chave, nome: nomeFormatado });
             }
+            
             estadoSelect.tema.listaFiltrada = [...estadoSelect.tema.listaCompleta];
             renderizarOpcoesTema();
             atualizarVisualSelecaoTema();
@@ -384,7 +397,7 @@
                 optionEl.className = 'custom-select-option multi-select'; 
                 optionEl.textContent = tema.nome;
                 optionEl.dataset.value = tema.chave;
-                optionEl.dataset.nome = tema.nome;
+                optionEl.dataset.nome = tema.nome; // Usa o nome formatado
                 if (estadoSelect.tema.chavesSelecionadas.includes(tema.chave)) {
                     optionEl.classList.add('multi-selected');
                 }
@@ -402,7 +415,6 @@
                 estadoSelect.tema.nomesSelecionados.splice(index, 1);
             } else {
                 if (estadoSelect.tema.chavesSelecionadas.length >= MAX_SUBCATEGORIAS) {
-                    // (NOVO) Usa o Toast para o aviso!
                     showToast(`Máximo de ${MAX_SUBCATEGORIAS} subcategorias atingido.`, 'info'); 
                     return;
                 }
@@ -412,11 +424,10 @@
             resetarEstadoEstudo();
             atualizarVisualSelecaoTema();
             
-            // Atualiza a classe visual na lista de opções
             const optionEl = selectTemaOptions.querySelector(`[data-value="${chave}"]`);
             if (optionEl) optionEl.classList.toggle('multi-selected', index === -1);
             
-            atualizarEstadoBotaoBuscar(); // (NOVO) Atualiza o botão
+            atualizarEstadoBotaoBuscar();
         }
 
         function atualizarVisualSelecaoTema() {
@@ -452,10 +463,6 @@
         
         // --- Funções de Carregamento e Navegação ---
         
-        /**
-         * (NOVA FUNÇÃO)
-         * Controla o estado (ativo/inativo) do botão principal de busca.
-         */
         function atualizarEstadoBotaoBuscar() {
             const temSelecao = estadoSelect.tema.chavesSelecionadas.length > 0;
             
@@ -471,24 +478,20 @@
             }
         }
         
-        /**
-         * Busca os arquivos JSON e inicia o estudo.
-         */
         async function buscarQuestoes() {
-            if (isLoading) return; // (NOVO) Previne cliques duplos
+            if (isLoading) return; 
 
             const { chavesSelecionadas } = estadoSelect.tema;
             const disciplinaKey = estadoSelect.disciplina.chave;
             
-            // (Esta verificação agora é feita pelo estado do botão, mas mantemos por segurança)
             if (chavesSelecionadas.length === 0) return; 
 
             resetarEstadoEstudo();
             divStatus.textContent = 'Carregando questões...';
             divStatus.classList.remove('hidden');
             
-            isLoading = true; // (NOVO) Define estado de carregamento
-            atualizarEstadoBotaoBuscar(); // Atualiza o texto do botão
+            isLoading = true; 
+            atualizarEstadoBotaoBuscar(); 
 
             const urls = chavesSelecionadas.map(chave => `data/${disciplinaKey}/${chave}.json`);
             
@@ -512,8 +515,8 @@
                 divStatus.classList.remove('hidden');
                 divQuestoes.innerHTML = '';
             } finally {
-                isLoading = false; // (NOVO) Libera o estado de carregamento
-                atualizarEstadoBotaoBuscar(); // Retorna o botão ao normal
+                isLoading = false; 
+                atualizarEstadoBotaoBuscar(); 
             }
         }
         
@@ -750,35 +753,24 @@
             return html;
         }
         
-        // --- (NOVA FUNÇÃO) Sistema de Notificação "Toast" ---
+        // --- Sistema de Notificação "Toast" ---
         
-        /**
-         * Exibe uma notificação toast.
-         * @param {string} message - A mensagem a ser exibida.
-         * @param {string} type - 'success', 'error', ou 'info'.
-         * @param {number} duration - Duração em milissegundos.
-         */
         function showToast(message, type = 'info', duration = 3000) {
             const toast = document.createElement('div');
-            toast.className = `toast bg-${type}`; // Usa as classes de estilo definidas no <style>
+            toast.className = `toast bg-${type}`; 
             toast.textContent = message;
             
             toastContainer.appendChild(toast);
             
-            // Força o navegador a aplicar o estilo inicial (transform)
-            // para que a transição "show" funcione.
             getComputedStyle(toast).transform;
             
-            // Adiciona a classe 'show' para iniciar a animação de entrada
             requestAnimationFrame(() => {
                 toast.classList.add('show');
             });
 
-            // Timer para remover o toast
             setTimeout(() => {
-                toast.classList.remove('show'); // Inicia animação de saída
+                toast.classList.remove('show'); 
                 
-                // Remove o elemento do DOM *depois* que a animação de saída terminar
                 toast.addEventListener('transitionend', () => {
                     if (toast.parentNode) {
                         toast.parentNode.removeChild(toast);
