@@ -1,0 +1,61 @@
+[
+  {
+    "id": "3217475",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: ANM",
+    "categoria": "Direito Ambiental",
+    "subcategorias": [
+      "Proteção do Meio Ambiente em Normas Infraconstitucionais",
+      "Política Nacional de Mudança do Clima – Lei nº 12.187 de 2009",
+      "Sustentabilidade",
+      "A sustentabilidade na Política Nacional de Mudança do Clima (Lei nº 12.187 de 2009)"
+    ],
+    "enunciado_principal": "À luz da Política Nacional sobre Mudança do Clima (Lei n.º 12.187/2009) e da Política Nacional do Meio Ambiente (Lei n.º 6.938/1981), julgue o item a seguir.A Lei n.º 12.187/2009 define impacto ambiental como o conjunto de mudanças no meio físico ou na biota que tenham efeitos deletérios significativos sobre a composição, resiliência ou produtividade de ecossistemas naturais e manejados, bem como sobre o funcionamento de sistemas socioeconômicos ou sobre a saúde e o bem-estar humanos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3179579",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Ambiental",
+    "subcategorias": [
+      "Instrumentos da Política Nacional do Meio Ambiente",
+      "Instrumentos econômicos. Concessão florestal, servidão ambiental, seguro ambiental e outros.",
+      "Direito Internacional Ambiental",
+      "Sustentabilidade",
+      "A sustentabilidade na Política Nacional de Mudança do Clima (Lei nº 12.187 de 2009)"
+    ],
+    "enunciado_principal": "No tocante às bases normativas relacionadas a litígios climáticos, obrigações e mecanismos econômicos de adaptação e mitigação, plano de adaptação climática no âmbito da política nacional de mudança do clima, diante do Acordo de Paris, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Poder Executivo tem o dever constitucional de fazer funcionar e alocar anualmente os recursos ao Fundo Clima para fins de mitigação das mudanças climáticas, não estando vedado seu contingenciamento, em razão dos direitos e compromissos internacionais assumidos pelo Brasil (art. 5º, § 2º, da Constituição Federal), bem como do princípio constitucional da separação dos poderes (art. 2º da Constituição Federal, combinado com o art. 9º, § 2º, da LRF)."
+      },
+      {
+        "letra": "B",
+        "texto": "Dentre as diretrizes dos planos de adaptação à mudança do clima, conforme a Lei nº 14.904/2024, listam-se, dentre outras, o estabelecimento de prioridades com base em setores e regiões mais vulneráveis, a partir de identificação de vulnerabilidades, o monitoramento e a avaliação das ações previstas, bem como a adoção de processos de governança inclusivos para a revisão destes planos conforme definido pela Política Nacional de Mudança do Clima e a sinergia entre a Política Nacional de Proteção e Defesa Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato de concessão florestal para produção sustentável poderá prever a transferência de titularidade de créditos de carbono do poder concedente ao concessionário, bem como o direito de comercializar certificados representativos de créditos de carbono e serviços ambientais associados, em áreas ocupadas ou utilizadas por comunidades locais, apenas durante o período de concessão."
+      },
+      {
+        "letra": "D",
+        "texto": "A Comissão Nacional Para Redução das Emissões de Gases de Efeito Estufa Provenientes do Desmatamento e da Degradação Florestal – REDD+ - instituída pelo Decreto nº 11.548/2023, será composta por diversos representantes de órgãos e entidades, dentre os quais um representante de povos indígenas, não havendo previsão, porém, de outros seguimentos de povos e comunidades tradicionais."
+      },
+      {
+        "letra": "E",
+        "texto": "É dotada de inflexibilidade a estrutura de transparência sobre financiamentos e transferência de tecnologia aos países em desenvolvimento, para as iniciativas e ações contra mudanças climáticas."
+      }
+    ],
+    "gabarito": "B"
+  }
+]
