@@ -1,0 +1,75 @@
+[
+  {
+    "id": "650540",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória",
+      "Prescrição no processo do Tribunal do Juri"
+    ],
+    "enunciado_principal": "A respeito da prescrição penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o tribunal do júri venha a desclassificar o crime para outro que não seja de sua competência, a pronúncia não deverá ser considerada como causa interruptiva da prescrição."
+      },
+      {
+        "letra": "B",
+        "texto": "A reincidência penal caracteriza causa interruptiva do prazo da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Para crimes praticados em 2016, a prescrição retroativa deverá ser regulada pela pena aplicada, tendo-se por termo inicial data anterior à da denúncia ou da queixa."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo de prescrição da pretensão executória deverá iniciar-se no dia em que transitar em julgado a sentença condenatória para a acusação, ainda que haja recurso exclusivo da defesa em tramitação contra a sentença condenatória."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de revogação do livramento condicional, a prescrição deverá ser regulada pelo total da pena aplicada na sentença condenatória, não se considerando o tempo de cumprimento parcial da reprimenda antes do deferimento do livramento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "361240",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição no processo do Tribunal do Juri"
+    ],
+    "enunciado_principal": "De acordo com entendimento sumulado do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prescrição não é aplicável nas medidas socioeducativas."
+      },
+      {
+        "letra": "B",
+        "texto": "O período de suspensão do prazo prescricional não é regulado pelo máximo da pena cominada."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética."
+      },
+      {
+        "letra": "D",
+        "texto": "A reincidência não influi no prazo da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "A pronúncia não é causa interruptiva da prescrição, ainda que o Tribunal do Júri venha a desclassificar o crime."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

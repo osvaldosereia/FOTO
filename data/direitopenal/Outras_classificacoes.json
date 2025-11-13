@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "2190545",
+    "metadata": "Ano: 2023 | Banca: OBJETIVA | Órgão: Prefeitura de Lavras do Sul - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Fraude, furto e estelionato praticados com o uso de dispositivos eletrônicos, como celulares, computadores e tablets são conhecidos como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crimes hediondos."
+      },
+      {
+        "letra": "B",
+        "texto": "Crimes cibernéticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Homicídios."
+      },
+      {
+        "letra": "D",
+        "texto": "Sabotagens."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2073340",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "São exemplos de delitos uniofensivo e pluriofensivo, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ameaça e homicídio."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo e aborto."
+      },
+      {
+        "letra": "C",
+        "texto": "homicídio e instigação ao suicídio."
+      },
+      {
+        "letra": "D",
+        "texto": "aborto e ameaça."
+      },
+      {
+        "letra": "E",
+        "texto": "furto e roubo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1939474",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, a respeito da teoria do crime.Um dos critérios para se distinguir o crime progressivo da progressão criminosa é o aspecto subjetivo do agente, pois, naquele, há, desde o início, a intenção de causar um resultado de maior gravidade, enquanto, nesta, essa intenção surge durante o iter criminis.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1914771",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Teoria Geral do Delito",
+      "Conceito de crime",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Tendo em vista que os tipos penais recebem diversas classificações doutrinárias, assinale a opção correta a esse respeito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os tipos congruentes apresentam simetria entre o elemento objetivo e o subjetivo, como ocorre nos crimes preterdolosos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tipos simples são aqueles cuja conduta nuclear pode ser praticada por apenas um agente, tal como previsto no homicídio."
+      },
+      {
+        "letra": "C",
+        "texto": "Os tipos fundamentais estabelecem a conduta básica caracterizadora da infração penal e são previstos sempre no caput do dispositivo legal."
+      },
+      {
+        "letra": "D",
+        "texto": "Os tipos abertos demandam do operador do direito conhecimento que ultrapasse o teor literal da norma para a sua completa integração, como nos casos de leis penais em branco."
+      },
+      {
+        "letra": "E",
+        "texto": "Os tipos preventivos são aqueles que antecipam a tutela penal, punindo condutas que servem, em regra, como preparação para outros delitos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1893441",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PC-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Conduta: ação / omissão",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Dentre os delitos de posse, é possível sua divisão em grupos determinados. Assinale a opção que corresponde à infração penal em casos em que o autor possui objetos precedentes da comissão de um delito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possuir material de pornografia infantil."
+      },
+      {
+        "letra": "B",
+        "texto": "Posse de arma de fogo de uso permitido."
+      },
+      {
+        "letra": "C",
+        "texto": "Porte de arma de fogo de uso proibido."
+      },
+      {
+        "letra": "D",
+        "texto": "Possuir programa de computador para fraude."
+      },
+      {
+        "letra": "E",
+        "texto": "Possuir chaves falsas ou alteradas para prática de furto."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1866112",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Acerca do fato típico, da teoria e da classificação dos crimes, julgue o item subsecutivo.Suponha que Maria, servidora pública do Distrito Federal, tenha-se apropriado ilicitamente de um computador portátil usado no seu local de trabalho e, em seguida, efetuado a venda desse equipamento. Nesse caso, a conduta de Maria pode ser classificada como crime de dano, comissivo, próprio e instantâneo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1048821",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Sobre a vítima e seu consentimento em matéria penal, analise as afirmações abaixo: I - Para a doutrina, nos delitos de relação, basta que a vítima deixe de tomar as medidas de autoproteção normais para que desapareça a necessidade de proteção. Nos delitos de intervenção, em que o tipo delitivo não pressupõe que a vítima participe no comportamento do autor, a necessidade de proteção permanece enquanto não seja a vítima mesma responsável pelo risco gerado. II - A doutrina clássica de forma majoritária admite o consentimento da vítima como causa supralegal de exclusão da ilicitude. Entre outras condições, devem estar presentes a permissão do ordenamento jurídico para disposição pessoal do interesse, a capacidade pessoal do consenciente (capacidade natural de compreensão e discernimento) e ausência do vício da vontade. III - Pode-se dizer que não há crime sem sujeito passivo, já que todo crime lesa ou expõe a perigo de lesão o bem jurídico de alguém. Os sujeitos passivos do crime podem ser divididos em formal ou genérico, que é o Estado, ou material, que é o titular do bem jurídico protegido. IV - Segundo a doutrina, pode-se afirmar que o consentimento presumido da vítima constitui liberdade de ação do portador do bem jurídico disponível, que exclui a tipicidade da ação, mas o consentimento real é construção normativa do psiquismo do autor sobre a existência objetiva de consentimento do titular do bem jurídico, que funciona como causa supralegal de justificação da ação típica. O consentimento presumido é subsidiário em relação ao consentimento real. Sobre as afirmações, assinale:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1010450",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes contra a dignidade sexual",
+      "Divulgação de cena de estupro de vulnerável, de cena de sexo ou de pornografia"
+    ],
+    "enunciado_principal": "O crime de divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia, previsto no artigo 218-C do Código Penal, pode ser classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum, material, comissivo, unissubjetivo, culposo, principal."
+      },
+      {
+        "letra": "B",
+        "texto": "comum, formal, comissivo, unissubjetivo, doloso, subsidiário."
+      },
+      {
+        "letra": "C",
+        "texto": "especial, formal, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      },
+      {
+        "letra": "D",
+        "texto": "especial, material, comissivo ou omissivo, unissubjetivo, doloso, principal."
+      },
+      {
+        "letra": "E",
+        "texto": "comum, material, comissivo, plurissubjetivo, admite as formas doloso e culposo, subsidiário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "987753",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Acerca de classificação de crimes, julgue os itens a seguir. I Os crimes de empreendimento exigem a participação de mais de três pessoas, com liame subjetivo, associadas para o cometimento do ilícito. II Os crimes unissubsistentes não admitem tentativa, haja vista não ser possível o fracionamento da conduta em atos. III O ordenamento brasileiro não prevê punição para delitos multivitimários em razão dos princípios da lesividade e da alteridade, já que esses crimes ocorrem contra vítimas difusas, destituídas de personalidade jurídica. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e III estão certos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão certos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "987655",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crime preterdoloso"
+    ],
+    "enunciado_principal": "Acerca da classificação de crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime preterdoloso ocorre quando o agente atua com culpa na conduta antecedente, mas o resultado agrava a pena devido a uma conduta dolosa posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "O alcance e a ocorrência fática da elementar subjetiva prevista no tipo penal são exigidos para a consumação de delito de tendência interna transcendente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime plurissubjetivo de condutas convergentes ocorre quando os agentes, desde o início do cometimento do crime, de comum acordo, praticam a conduta descrita no núcleo do tipo penal no sentido de auxílio mútuo, visando ao mesmo fim."
+      },
+      {
+        "letra": "D",
+        "texto": "O delito atrofiado de dois atos, embora possa ser não transeunte, é praticado pelo agente com a intenção de se praticar outro ato criminoso posterior, malgrado não se exigir esse novo comportamento para a consumação do crime mutilado."
+      },
+      {
+        "letra": "E",
+        "texto": "O delito gratuito, cuja conduta não admite o fracionamento em diversos atos, contrapõe-se ao crime mercenário, pois o agente o pratica sem contraprestação financeira"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "987654",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Classificação dos crimes",
+      "Consumação e tentativa",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Assinale a opção correta, relativa à teoria do delito e ao erro no direito penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O erro sobre a ilicitude do fato exclui o dolo da conduta, visto que permite a punição do fato a título de culpa, quando escusável."
+      },
+      {
+        "letra": "B",
+        "texto": "O erro mandamental evitável não exclui a responsabilização penal do agente, que poderá responder pelo crime somente a título de culpa, sem incidência de minorante na pena."
+      },
+      {
+        "letra": "C",
+        "texto": "A consumação do delito, em crimes formais, ocorre com o mero resultado jurídico, de forma que dispensa a mudança do mundo exterior para a obtenção do resultado típico."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes comissivos, por serem crimes não transeuntes, não admitem tentativa, embora sejam crimes materiais."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime plástico, por ser unissubsistente, ainda que material, não admite a sua forma tentada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "987312",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "A respeito da classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de associação criminosa configura-se como crime obstáculo; o de falsidade documental para cometimento de estelionato é crime de atitude pessoal."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de uso de documento falso configura-se como crime remetido; e o de uso de petrechos para falsificação de moeda, como crime obstáculo."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de tráfico de drogas configura-se como crime vago; o de extorsão mediante sequestro constitui crime profissional."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de falso testemunho configura-se como crime de tendência; e o de injúria, como crime de ação astuciosa."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de rufianismo configura-se como crime de intenção; o de curandeirismo constitui crime de olvido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "978061",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Dentre as seguintes alternativas, assinale a correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime de dupla subjetividade passiva é o crime que tem obrigatoriamente dois ou mais sujeitos passivos."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de estupro, art. 213 do CP, é um crime bipróprio, sendo que os sujeitos são determinados, não sendo possível ser praticado por qualquer pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem ser sujeitos passivos de crime os entes despersonalizados, pessoa ainda não nascida, incapazes, animais e recém-nascido."
+      },
+      {
+        "letra": "D",
+        "texto": "Sujeito passivo e sujeito prejudicado são sinônimos, possuindo o mesmo significado: a pessoa física ou jurídica que sofre as consequências diretas da infração penal."
+      },
+      {
+        "letra": "E",
+        "texto": "Uma pessoa pode ser simultaneamente sujeito ativo e sujeito passivo do mesmo crime."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "976803",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Em alguns casos, o crime exige uma condição especial do sujeito ativo, podendo ser classificado em crimes comuns, próprios, de mão própria, bi próprios, etc. Referente ao tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime próprio pode ser praticado por qualquer pessoa, não sendo exigida uma condição ou qualidade especial do sujeito ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Crimes funcionais são crimes praticados por funcionários públicos contra a administração. Esses crimes admitem a coautoria e a participação de terceiros, podendo esse terceiro ser funcionário público ou não."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de falso testemunho é considerado um crime próprio, podendo ser praticado por qualquer pessoa, portanto a lei não exige uma qualidade especial do sujeito ativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O sujeito ativo pode ser tanto quem realiza o verbo típico ou possui o domínio finalista do fato como quem, de qualquer outra forma, concorre para o crime, sendo representado apenas pelo autor e coautor."
+      },
+      {
+        "letra": "E",
+        "texto": "O sujeito ativo, para poder ser responsabilizado, será pessoa física, não podendo ser pessoa jurídica conforme determina a Constituição Federal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "932921",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra o patrimônio",
+      "Furto"
+    ],
+    "enunciado_principal": "Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior.Sílvio, maior e capaz, entrou em uma loja que vende aparelhos celulares, com o propósito de furtar algum aparelho. A loja possui sistema de vigilância eletrônica que monitora as ações das pessoas, além de diversos agentes de segurança. Sílvio colocou um aparelho no bolso e, ao tentar sair do local, um dos seguranças o deteve e chamou a polícia. Nessa situação, está configurado o crime impossível por ineficácia absoluta do meio, uma vez que não havia qualquer chance de Sílvio furtar o objeto sem que fosse notado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "926049",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Os crimes previstos no Código Penal e na legislação extravagante podem ser classificados levando-se em consideração diversos fatores, como conduta, resultado, sujeito ativo, dentre outros. Sobre o tema em questão, de acordo com a jurisprudência majoritária dos Tribunais Superiores, é correto afirmar que os crimes classificados como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "omissivos impróprios não admitem tentativa."
+      },
+      {
+        "letra": "B",
+        "texto": "próprios não admitem responsabilização de eventual partícipe que não possua a qualidade exigida pelo tipo penal, ainda que um dos agentes preencha o requisito legal."
+      },
+      {
+        "letra": "C",
+        "texto": "formais não preveem no tipo a existência de resultado naturalístico, de modo que restam consumados com a realização do verbo núcleo."
+      },
+      {
+        "letra": "D",
+        "texto": "permanentes não admitem que a lei penal nova mais grave seja aplicada ao agente, ainda que sua vigência seja anterior à cessação da permanência, em respeito à irretroatividade da lei penal mais gravosa."
+      },
+      {
+        "letra": "E",
+        "texto": "não transeuntes são aqueles que deixam vestígios."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "890891",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Causas supralegais de exclusão da antijuridicidade",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Analise as proposições abaixo e assinale aquela que, à luz da doutrina, seja considerada INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o tipo penal descreve, expressa ou implicitamente, o dissenso da vítima como elementar, o consentimento do ofendido, na hipótese, funciona como causa de exclusão da tipicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto ao modo de execução, o crime de perigo de contágio venéreo – art. 130, do CP – é classificado pela doutrina como sendo de forma vinculada."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de fato transitório é aquele que não deixa vestígios, a exemplo da injúria verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação aos crimes omissivos puros, exige-se a ocorrência de resultado naturalístico, uma vez que a simples omissão contida na norma não basta para que eles se aperfeiçoem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "890890",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "O art. 14, II, Parágrafo único, do Código Penal, estabelece que “salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços”. Excepcionalmente, contudo, a lei penal pátria descreve condutas cujo tipo prevê a punição da tentativa com a mesma pena abstratamente aplicável ao crime consumado. É o que sucede, v.g., com o crime tipificado no art. 352, do Código Penal: “Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa”: Tal espécie delitiva é classificada pela doutrina como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crime vago."
+      },
+      {
+        "letra": "B",
+        "texto": "Crime plurissubsistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de impressão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "886219",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Legislação Penal Especial"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria do domínio do fato revela um conceito indeterminado ou fixo e admite como elementos o método descritivo e a integração do regulativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes de mão própria não admitem coautoria e nem autoria mediata, uma vez que o seu conteúdo de injusto reside precisamente na pessoal e indeclinável realização da atividade proibida."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime propriamente militar é aquele praticado por qualquer pessoa, civil ou militar, não dizendo particularmente respeito à vida militar."
+      },
+      {
+        "letra": "D",
+        "texto": "A mera incerteza atinente à possibilidade de degradação ambiental ocasionada por um empreendimento ou nova tecnologia, deve ser interpretada em favor do meio ambiente em homenagem ao princípio da precaução, cujos contornos foram definidos na Conferência da Terra (ECO 92)."
+      },
+      {
+        "letra": "E",
+        "texto": "As alternativas “b” e “d” estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "866722",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que se refere à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No crime habitual, as ações que o compõem, consideradas isoladamente, não constituem crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime à distância, a conduta dá-se em um local e a produção, em outro, dentro do mesmo país."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime preterintencional, há a conjugação da ação culposa no evento antecedente com o dolo no resultado consequente."
+      },
+      {
+        "letra": "D",
+        "texto": "Os crimes omissivos impróprios se perfazem com a mera abstenção da realização de um ato, independentemente de um resultado posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes instantâneos de efeitos permanentes, a consumação do crime perdura até quando o sujeito quiser."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "866472",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes plurissubsistentes e unissubsistentes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Com relação à classificação dos crimes, julgue os itens a seguir. I Denomina-se crime plurissubsistente o crime cometido por vários agentes. II Se o sujeito fizer tudo o que está ao seu alcance para a consumação do crime, mas o resultado não ocorrer por circunstâncias alheias a sua vontade, configura-se crime falho. III Havendo, em razão do tipo, dois sujeitos passivos, o crime é denominado vago. IV Crime habitual cometido com ânimo de lucro é denominado crime a prazo. V Crime praticado por intermédio de automóvel é denominado delito de circulação.Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e V."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "849245",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que tange à classificação dos delitos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os crimes de mão própria possuem uma prévia limitação, de natureza normativa, quanto à possibilidade de autoria de indivíduos não contemplados pelo tipo penal."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de favorecimento à prostituição é classificado como crime instantâneo de habitualidade preexistente."
+      },
+      {
+        "letra": "C",
+        "texto": "o agente responderá, no tipo misto alternativo, por todos os crimes que sua conduta alcançar, atingindo mais de um núcleo enunciado na norma."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de prevaricação é classificado como delito especial próprio e, quando praticado por agente estranho à administração pública, encontra correlação com outra conduta tipificada em dispositivo penal diverso."
+      },
+      {
+        "letra": "E",
+        "texto": "a multiplicidade de condutas por parte do agente, uma vez que existe mais de um núcleo, torna-se obrigatória no tipo misto cumulativo, para que o delito seja consumado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "795670",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Crime impossível",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes contra a administração pública",
+      "Corrupção passiva",
+      "Corrupção ativa"
+    ],
+    "enunciado_principal": "Assinale com V (verdadeiro) ou com F (falso) os enunciados abaixo. ( ) Pelo exame dos tipos incriminadores do Código Penal, verifica-se hipótese em que a corrupção é crime bilateral, ativa e passiva, quando a existência de uma modalidade depende da existência da outra. ( ) Nos crimes materiais, há distinção típica lógica e cronológica entre a conduta e o resultado, mas o mesmo não ocorre nos crimes formais, em que essa mesma distinção é somente lógica. ( ) No crime progressivo, o tipo penal, abstratamente considerado, contém explicitamente outro, o qual deve ser necessariamente realizado para alcançar o resultado. ( ) No crime putativo, a atipicidade é objetiva e subjetiva. No crime impossível, há atipicidade objetiva e tipicidade subjetiva. Já no erro de tipo, há tipicidade objetiva e atipicidade subjetiva. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – F – F."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – V – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – F – V."
+      },
+      {
+        "letra": "D",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – F."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "650544",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a paz pública",
+      "Constituição de Milícia Privada"
+    ],
+    "enunciado_principal": "O CP, em seu art. 14, assevera que o crime estará consumado quando o fato reunir todos os elementos da definição legal. Para tanto, necessária será a realização de um juízo de subsunção do fato à lei. Acerca do amoldamento dos fatos aos tipos penais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta de constituir, organizar, integrar, manter ou custear organização paramilitar, milícia particular, grupo ou esquadrão com a finalidade de praticar qualquer dos crimes previstos no CP configura crime contra a paz pública, sendo considerada como crime vago, uma vez que o sujeito passivo é a coletividade."
+      },
+      {
+        "letra": "B",
+        "texto": "A doutrina e a jurisprudência são unânimes ao afirmar que configura crime de desacato quando um tenente da polícia militar, no exercício de sua função, ofende verbalmente, em razão da função exercida, um de seus subordinados."
+      },
+      {
+        "letra": "C",
+        "texto": "Amolda-se no tipo legal de calúnia, previsto nos crimes contra a honra, a conduta de instaurar investigação policial contra alguém, imputando-lhe crime de que se sabe ser inocente."
+      },
+      {
+        "letra": "D",
+        "texto": "Constituem crime de corrupção ativa, praticado por particular contra a administração geral, as condutas de dar, oferecer ou prometer dinheiro ou qualquer outra vantagem a testemunha, perito, contador, tradutor ou intérprete, para fazer afirmação falsa, negar ou calar a verdade em depoimento, perícia, cálculos, tradução ou interpretação."
+      },
+      {
+        "letra": "E",
+        "texto": "A fraude processual será atípica, se a inovação artificiosa do estado de coisa, de pessoa ou de lugar, com o fim de induzir a erro o juiz, ocorrer antes de iniciado o processo penal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "650533",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a administração pública",
+      "Crimes contra as finanças públicas"
+    ],
+    "enunciado_principal": "Caso o prefeito de determinado município aproprie-se de dinheiro destinado à educação, estará configurado crime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum."
+      },
+      {
+        "letra": "B",
+        "texto": "comissivo por omissão."
+      },
+      {
+        "letra": "C",
+        "texto": "político-administrativo."
+      },
+      {
+        "letra": "D",
+        "texto": "contra a ordem financeira."
+      },
+      {
+        "letra": "E",
+        "texto": "de responsabilidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "649633",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: POLÍCIA CIENTÍFICA - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Consumação e tentativa",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Admite-se a tentativa nos crimes",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "unissubsistentes."
+      },
+      {
+        "letra": "B",
+        "texto": "culposos."
+      },
+      {
+        "letra": "C",
+        "texto": "preterdolosos."
+      },
+      {
+        "letra": "D",
+        "texto": "complexos."
+      },
+      {
+        "letra": "E",
+        "texto": "omissivos próprios."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "646148",
+    "metadata": "Ano: 2016 | Banca: UFMT | Órgão: DPE-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Consumação e tentativa",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Em relação aos crimes, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crimes de mera conduta são de consumação antecipada."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos denominados crimes materiais, o tipo penal descreve a conduta e o resultado naturalístico exigido."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime preterdoloso, a totalidade do resultado representa um excesso de fim (isto é, o agente quis um minus e ocorreu um majus), de modo que há uma conjugação de dolo (no antecedente) e culpa (no subsequente)."
+      },
+      {
+        "letra": "D",
+        "texto": "Crimes de forma livre são aqueles que admitem qualquer meio de execução."
+      },
+      {
+        "letra": "E",
+        "texto": "Crimes transeuntes são aqueles que não deixam vestígios materiais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "643066",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara de Marília - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes contra a incolumidade pública",
+      "Crimes contra a saúde pública"
+    ],
+    "enunciado_principal": "O tipo do art. 269 do CP (deixar o médico de denunciar à autoridade pública doença cuja notificação é compulsória) é classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de perigo concreto."
+      },
+      {
+        "letra": "B",
+        "texto": "doloso e/ou culposo."
+      },
+      {
+        "letra": "C",
+        "texto": "comissivo por omissão."
+      },
+      {
+        "letra": "D",
+        "texto": "omissivo por comissão."
+      },
+      {
+        "letra": "E",
+        "texto": "omissivo puro ou omissivo próprio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1200777",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Crimes plurissubjetivos e monossubjetivos",
+      "Outras classificações",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "No que diz respeito à classificação dos crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a caracterização do crime formal, faz-se necessária a demonstração da situação de risco do bem juridicamente protegido."
+      },
+      {
+        "letra": "B",
+        "texto": "No crime plurissubsistente, a ação e o resultado típico separam-se espacialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime permanente consuma-se com a ocorrência do resultado, independentemente da atividade do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de crime de dupla subjetividade passiva, haverá somente um único crime, ainda que seja praticada mais de uma entre as várias modalidades de condutas previstas no tipo penal do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime omissivo próprio é aquele cujo agente produz um resultado por meio da omissão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "534570",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Relativamente à classificação doutrinária de crimes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime falho, também chamado de tentativa imperfeita, ocorre quando o agente voluntariamente desiste de prosseguir na execução ou impede que o resultado se produza."
+      },
+      {
+        "letra": "B",
+        "texto": "Para que se verifique o exaurimento do crime, é necessário que, depois de sua consumação, o delito atinja suas últimas consequências."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime de cárcere privado é tipicamente instantâneo, haja vista que já se consuma com a efetiva restrição ou privação da liberdade de locomoção por tempo juridicamente relevante."
+      },
+      {
+        "letra": "D",
+        "texto": "As penas privativas de liberdade aplicáveis a indivíduos condenados por contravenções penais são de detenção, não se admitindo a reclusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime próprio é aquele que só pode ser praticado pelo agente pessoalmente, não podendo este utilizar-se de interposta pessoa (a exemplo do que ocorre no falso testemunho)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "532520",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito do entendimento do crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime consunto é o delito que absorve o de menor gravidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime comissivo por omissão é aquele em que o sujeito, por omissão, permite a produção de um resultado posterior que lhe é condicionante."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível a forma tentada no crime unisubsistente."
+      },
+      {
+        "letra": "D",
+        "texto": "Crime de ação múltipla é aquele em que o sujeito necessita percorrer várias ações do preceito fundamental para que consiga chegar ao resultado, sem a qual não há como se subsumir a conduta ao delito."
+      },
+      {
+        "letra": "E",
+        "texto": "Crime vago é aquele em que a ação do agente causa dúvida sobre a tipificação do fato ao delito realizado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "516661",
+    "metadata": "Ano: 2015 | Banca: CEFET-BA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a dignidade sexual",
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção ativa em transação comercial internacional. Tráfico de influência em transação comercial internacional",
+      "Ultraje público ao pudor",
+      "Disposições Gerais dos crimes contra a liberdade sexual e dos crimes sexuais contra vulneráveis"
+    ],
+    "enunciado_principal": "Analise as seguintes assertivas acerca dos crimes contra a dignidade sexual e contra a Administração Pública: I – O crime de estupro é um crime bipróprio e prevê aumento de pena se praticado contra pessoa do sexo masculino com idade de 15 (quinze) anos. II – O Código Penal estabelece como regra para os contra a liberdade sexual a ação penal pública condicionada. III – Os crimes de concussão, corrupção passiva e prevaricação são crimes formais e podem ser praticados por funcionário público, mesmo antes da assunção em sua função. IV – A consumação do crime de ato obsceno está caracterizada independentemente da presença de outras pessoas no local da prática do ato. V – O crime de tráfico de influência pode ser praticado por funcionário público ou particular, não sendo coautor ou partícipe o sujeito que “comprou” o prestígio anunciado. Estão CORRETAS as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, IV e V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "512250",
+    "metadata": "Ano: 2015 | Banca: FUNIVERSA | Órgão: PC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Acerca da culpabilidade, da tentativa, da culpa imprópria, da irretroatividade da lei penal mais gravosa e da aplicação da lei penal no espaço, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de roubo é qualificado se a subtração for de veículo automotor que venha a ser transportado para outro estado ou para o exterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Suponha que um chinês, a bordo de um navio privado brasileiro, falsifique dólares norte-americanos enquanto a embarcação navega em águas do domínio público internacional. Nas mesmas circunstâncias de tempo e lugar, um marroquino atira contra um australiano. Consoante o Código Penal brasileiro e os cenários hipotéticos mencionados, aplicar-se-á a lei norte-americana ao crime de falsificação de papel-moeda (em razão do bem jurídico violado) e a lei australiana ao crime de homicídio (em virtude do princípio da nacionalidade passiva)."
+      },
+      {
+        "letra": "C",
+        "texto": "Consoante a teoria extremada da culpabilidade, configura-se erro de tipo permissivo quando o agente, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima. Nesta hipótese, admite-se a punição a título de culpa se o fato for punível a título culposo."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite-se a forma tentada no crime impropriamente culposo."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo o STF, a lei penal mais grave aplica-se ao crime permanente, mas não ao crime continuado, se a vigência da lei é anterior à cessação da continuidade ou da permanência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "518545",
+    "metadata": "Ano: 2014 | Banca: FUNCAB | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Em relação à classificação doutrinária de crimes, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime progressivo é aquele em que o agente deseja produzir um resultado, mas, após consegui-lo, resolve prosseguir na violação do bem jurídico, produzindo um outro crime mais grave."
+      },
+      {
+        "letra": "B",
+        "texto": "crime de fato transeunte é aquele que não deixa vestígios."
+      },
+      {
+        "letra": "C",
+        "texto": "crime plurilocal é aquele em que a execução do crime se dá em um país e o resultado em outro."
+      },
+      {
+        "letra": "D",
+        "texto": "crime falho é o nome dado à tentativa imperfeita."
+      },
+      {
+        "letra": "E",
+        "texto": "crime plurissubsistente é aquele que exige pluralidade de sujeitos ativos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "432641",
+    "metadata": "Ano: 2014 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Segundo a doutrina, o delito de quadrilha pode ser classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Delito de tendência interna transcendente incompleto de dois atos;"
+      },
+      {
+        "letra": "B",
+        "texto": "Delito de tendência interna transcendente de resultado separado;"
+      },
+      {
+        "letra": "C",
+        "texto": "Delito de tendência interna transcendente peculiar;"
+      },
+      {
+        "letra": "D",
+        "texto": "Delito de tendência interna peculiar de resultado separado;"
+      },
+      {
+        "letra": "E",
+        "texto": "Delito de tendência interna peculiar incompleto de dois atos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402264",
+    "metadata": "Ano: 2014 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Analise os itens abaixo e assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crimes complexos são aqueles que encerram dois ou mais tipos em uma única descrição legal."
+      },
+      {
+        "letra": "B",
+        "texto": "A consumação do crime de concussão ocorre com o recebimento da vantagem indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "Dá-se o arrependimento eficaz quando o agente dá início à execução de um delito e desiste de prosseguir em virtude da reação oposta pela vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "A restituição integral do valor apropriado aos cofres públicos pelo autor de peculato doloso constitui desistência voluntária e isenta o agente de pena se feita antes do recebimento da denúncia."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplica-se a causa de diminuição de pena prevista no art.16 do Código Penal – arrependimento posterior – em todos os crimes patrimoniais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "362515",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria"
+    ],
+    "enunciado_principal": "Segundo a qualificação doutrinária dos crimes, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre delito putativo por erro de proibição quando o agente supõe estar infringindo uma norma penal que na realidade não existe. Já no delito putativo por erro de tipo o agente se equivoca quanto a existência das elementares do tipo. Um exemplo do primeiro poderia ser o da mulher que supondo estar grávida (quando não está na verdade) ingere substância abortiva;"
+      },
+      {
+        "letra": "B",
+        "texto": "Crime próprio é o que somente pode ser cometido por determinada categoria de pessoas, pois pressupõe no agente uma particular condição ou qualidade. Um exemplo pode ser o crime de aborto provocado pela gestante Já o crime de mão própria é aquele que somente pode ser cometido pelo sujeito em pessoa, como o falso testemunho;"
+      },
+      {
+        "letra": "C",
+        "texto": "Para o crime habitual é necessária reiteração da mesma conduta reprovável, de forma a constituir um estilo ou hábito de vida, como o crime de curandeirismo. O crime continuado difere do habitual, porque naquele cada ação praticada constitui-se isoladamente em crime; já no crime habitual, cada conduta tomada isoladamente não se constitui em delito;"
+      },
+      {
+        "letra": "D",
+        "texto": "Crime instantâneo é o que se perfaz num só momento, como o homicídio. O crime permanente é aquele cujo momento consumativo se protrai no tempo, como o sequestro. Já no crime instantâneo de efeitos permanentes, o crime se consuma em um dado momento, mas os efeitos da conduta perduram no tempo, como o homicídio;"
+      },
+      {
+        "letra": "E",
+        "texto": "Crime de ação múltipla é aquele que contempla no tipo várias modalidades de ação para sua prática, como o induzimento, instigação ou auxílio ao suicídio. Já no crime de forma livre, a descrição típica não encerra qualquer forma de ação específica para sua prática, como o homicídio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "699721",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Sobre sujeito ativo e sujeito passivo da infração penal, verifica-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "há hipóteses em que a lei se refere à vítima em relação às suas condições físicas ou psíquicas, embora nem todas as pessoas possam ser sujeito passivo do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "sujeito passivo do crime não é o titular do bem jurídico ameaçado pela conduta criminosa."
+      },
+      {
+        "letra": "C",
+        "texto": "sujeito ativo do crime é aquele que pratica a conduta descrita em lei, ou seja, o fato típico."
+      },
+      {
+        "letra": "D",
+        "texto": "capacidade penal do sujeito ativo ou inimputável pode não ter a capacidade penal se passar a sofrer de doença mental após o delito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "542797",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado"
+    ],
+    "enunciado_principal": "Com relação aos crimes previstos no CP, julgue o item que se segue.O delito de sequestro e cárcere privado, inserido entre os crimes contra a pessoa, constitui infração penal de ação múltipla, e a circunstância de ter sido praticado contra menor de dezoito anos de idade qualifica o crime.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "433345",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: AL-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Classificação dos crimes",
+      "Conduta: ação / omissão",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Com relação ao estudo da teoria do crime, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta pode se manifestar por meio de um comportamento positivo (ação) ou de um comportamento negativo (omissão), quando não atua o agente de acordo com o comportamento esperado pela norma."
+      },
+      {
+        "letra": "B",
+        "texto": "Os crimes omissivos se dividem em próprio e impróprio, não se admitindo a tentativa em qualquer deles."
+      },
+      {
+        "letra": "C",
+        "texto": "Os delitos omissivos impróprios são crimes próprios, já que se exige do autor uma qualidade especial."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite-se a co-autoria nos crimes omissivos impróprios."
+      },
+      {
+        "letra": "E",
+        "texto": "A indicação da figura do garantidor pelo texto legal não pode ser ampliada, eis que o rol respectivo é taxativo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "350776",
+    "metadata": "Ano: 2013 | Banca: IBFC | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes de dano e crimes de perigo",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes instantâneos e permanentes"
+    ],
+    "enunciado_principal": "Considerando a classificação doutrinária dada às infrações penais, analise as assertivas a seguir: I. Crime próprio é aquele que exige sujeito ativo especial ou qualificado, não admitindo coautoria ou participação de quem não guarde tais características peculiares. II. Crime permanente é aquele cuja consumação se protrai no tempo em decorrência de várias condutas que sucedem o ato inicial, caracterizando habitualidade da espécie delitiva. III. Crime instantâneo é aquele cuja consumação ocorre com a prática de uma única conduta geradora de resultado imediato. IV. Crime de perigo é aquele cuja consumação se caracteriza com a mera probabilidade de lesão ao bem jurídico protegido pela norma penal. V. Crime multitudinário é aquele que exige, para sua caracterização, o concurso necessário de duas ou mais pessoas, apesar de não existir a necessidade de que todas elas sejam penalmente punidas. Estão corretas apenas as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III eV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "346664",
+    "metadata": "Ano: 2013 | Banca: FUMARC | Órgão: TJM-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Crimes materiais, formais e de mera conduta",
+      "Outras classificações",
+      "Crimes comuns, próprios e de mão própria",
+      "Crimes contra a administração pública",
+      "Peculato"
+    ],
+    "enunciado_principal": "Em relação à classificação jurídica do crime de peculato-apropriação (art. 312, caput, CP), é CORRETO afirmar que se trata de crime .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comum"
+      },
+      {
+        "letra": "B",
+        "texto": "formal."
+      },
+      {
+        "letra": "C",
+        "texto": "funcional próprio."
+      },
+      {
+        "letra": "D",
+        "texto": "material."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "335804",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "No que se refere à classificação dos crimes de acordo com o CP, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime de extorsão mediante sequestro configura crime de ímpeto."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de evasão mediante violência contra a pessoa é classificado como crime de resultado cortado."
+      },
+      {
+        "letra": "C",
+        "texto": "o crime de simulação de autoridade para celebração de casamento caracteriza-se como crime de empreendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime de homicídio em sua forma simples classifica-se como crime subsidiário."
+      },
+      {
+        "letra": "E",
+        "texto": "o crime de apropriação de coisa achada caracteriza-se como crime a prazo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "331878",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado"
+    ],
+    "enunciado_principal": "O delito de sequestro e cárcere privado, inserido entre os crimes contra a pessoa, constitui infração penal de ação múltipla, e a circunstância de ter sido praticado contra menor de dezoito anos de idade qualifica o crime.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "303090",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lei da Lavagem de Dinheiro - Lei nº 9.613 de 1998",
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra o patrimônio",
+      "Disposições gerais nos Crimes Contra o Patrimônio",
+      "Crimes contra a organização do trabalho",
+      "Legislação Penal Especial"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca da classificação dos crimes, da ação penal, dos crimes contra a organização do trabalho e do crime de lavagem de dinheiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Classifica-se pela doutrina como de forma livre o crime de curandeirismo por se admitir que ele seja cometido por meio de qualquer comportamento que cause o resultado jurídico previsto em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de lavagem de dinheiro, ao contrário da receptação, não é autônomo porque não prescinde do processo e do julgamento da infração penal antecedente."
+      },
+      {
+        "letra": "C",
+        "texto": "Será pública e condicionada à representação a ação penal movida contra o agente que vier a subtrair do tio dois mil reais guardados no armário da cozinha da casa onde ambos residam. Nessa hipótese, o agente não poderá beneficiar-se da isenção de pena."
+      },
+      {
+        "letra": "D",
+        "texto": "Se, durante período de greve, três indivíduos grevistas apedrejarem um ônibus de uma empresa prestadora de serviço público, de modo a impedir que esse serviço seja prestado, tal fato tipificará o crime de dano qualificado, por envolver empresa concessionária de serviço público."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de aliciar trabalhadores de um local para outro do território nacional é plurissubjetivo porque só se o tipifica se houver pelo menos dois trabalhadores, uma vez que a lei prevê o termo trabalhadores e não, apenas trabalhador."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "288617",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Há delitos em que a ação encontra-se envolvida por determinado ânimo cuja ausência impossibilita sua concepção, ou seja, nesses crimes, não é somente a vontade do autor que determina o caráter lesivo do acontecer externo, mas outros extratos específicos, inclusive inconscientes. Esses delitos são classificados como delitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "formais."
+      },
+      {
+        "letra": "B",
+        "texto": "de intenção."
+      },
+      {
+        "letra": "C",
+        "texto": "de tendência."
+      },
+      {
+        "letra": "D",
+        "texto": "putativos."
+      },
+      {
+        "letra": "E",
+        "texto": "materiais."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "287515",
+    "metadata": "Ano: 2012 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Classificação dos crimes",
+      "Antijuridicidade",
+      "Legítima defesa",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "É INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Configura erro sobre a pessoa, a hipótese em que o agente, por erro de pontaria, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos termos do art. 21, do Código Penal, o desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se evitável, pode diminuir a pena de um sexto a um terço."
+      },
+      {
+        "letra": "C",
+        "texto": "Na legítima defesa putativa, o agente supõe, por erro, situação de fato que se existisse tornaria a sua ação legítima."
+      },
+      {
+        "letra": "D",
+        "texto": "O excesso culposo na legítima defesa tanto pode verificar-se na escolha dos meios, quanto na moderação de seu uso."
+      },
+      {
+        "letra": "E",
+        "texto": "Os crimes de rixa (art. 137, caput, CP), formação de quadrilha (art. 288, caput, CP) e associação ao tráfico de drogas (art. 35 da Lei no 11.343/2006) constituem crimes de concurso necessário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "275163",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Corrupção ativa em transação comercial internacional. Tráfico de influência em transação comercial internacional"
+    ],
+    "enunciado_principal": "Assinale a opção correta, a respeito dos crimes contra a administração pública.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os crimes praticados por particular contra a administração pública incluem o desacato, a corrupção passiva e a desobediência."
+      },
+      {
+        "letra": "B",
+        "texto": "Considere que um ex-policial, valendo-se de uma arma, ao abordar um grupo de jovens, submeteu-os a revista pessoal com o intuito de encontrar drogas. Nessa situação, o ex-policial praticou o delito de exercício funcional ilegalmente prolongado."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se crime funcional próprio aquele em que a qualidade de servidor público é essencial à sua configuração, e crime funcional impróprio, aquele que tanto pode ser cometido por servidor público como por quem não detém essa condição."
+      },
+      {
+        "letra": "D",
+        "texto": "O peculato-culposo se confunde com o peculato-furto: em ambos o servidor público, prevalecendo-se dessa condição, concorre para que terceiro subtraia o bem."
+      },
+      {
+        "letra": "E",
+        "texto": "Considere que um servidor público, influenciado por sua namorada, tenha deixado de praticar ato de ofício, caracterizando infração de dever funcional. Nessa situação, a conduta do servidor se amolda à figura típica do tráfico de influência."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "221180",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Classificação dos crimes",
+      "Outras classificações"
+    ],
+    "enunciado_principal": "Os crimes que encerram dois ou mais tipos em uma única descrição legal denominam-se crimes",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de mão própria"
+      },
+      {
+        "letra": "B",
+        "texto": "complexos."
+      },
+      {
+        "letra": "C",
+        "texto": "plurissubjetivos."
+      },
+      {
+        "letra": "D",
+        "texto": "qualificados."
+      },
+      {
+        "letra": "E",
+        "texto": "de ação múltipla."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

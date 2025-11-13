@@ -1,0 +1,538 @@
+[
+  {
+    "id": "3252495",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Caio, após finalizar e resolver prova para seleção em exame público, ao deixar o local, através de equipamento eletrônico (ponto de escuta), passa a divulgar o gabarito das questões a Mévia, sua namorada, que também prestava o exame. Contudo, Mévia, após assinalar algumas das respostas ditadas na folha própria, é flagrada pelo fiscal da prova, sendo imediatamente desclassificada. Caio também foi desclassificado, e o exame público foi mantido, sem a necessidade de anulação, dada a inocorrência de prejuízo. Com base na situação hipotética e tendo em vista o crime de fraude em certames de interesse público, previsto no artigo 311-A do CP, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caio e Mévia não incorreram no crime de fraude em certame de interesse público, que tem por objeto material apenas concurso público e processo seletivo para ingresso no ensino superior."
+      },
+      {
+        "letra": "B",
+        "texto": "Caio e Mévia não incorreram no crime de fraude em certame de interesse público, que, para se caracterizar, exige o recebimento de vantagem patrimonial indevida."
+      },
+      {
+        "letra": "C",
+        "texto": "Caio incorreu no crime de fraude em certame de interesse público, pois divulgou conteúdo sigiloso de certame público. Mévia, contudo, não incorreu nesse crime, pela atipicidade da conduta de utilizar conteúdo sigiloso em certame público."
+      },
+      {
+        "letra": "D",
+        "texto": "Caio e Mévia incorreram no crime de fraude em certame de interesse público; ele, por divulgar conteúdo sigiloso de certame público, e ela, por utilizar esse conteúdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Caio e Mévia não incorreram no crime de fraude em certame de interesse público, que, para se caracterizar, exige a ocorrência de prejuízo à administração pública, o que inexistiu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3174040",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Tendo em conta o crime de fraudes em certames de interesse público, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tem por objeto material conteúdo sigiloso de concurso público; de processo seletivo para ingresso no Ensino Superior, pouco importando se em instituição pública ou privada; de avaliação ou exame públicos e de exame ou processo seletivo previstos em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "o dano à administração pública enseja causa de aumento da pena."
+      },
+      {
+        "letra": "C",
+        "texto": "só se caracteriza se resultar comprometimento à credibilidade do certame."
+      },
+      {
+        "letra": "D",
+        "texto": "é qualificado quando praticado por funcionário público."
+      },
+      {
+        "letra": "E",
+        "texto": "é crime próprio de funcionário público ou de pessoas que tenham por função atuar na elaboração e na aplicação de concursos, processos seletivos, avaliações e exames."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2550716",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Maria Clara, servidora pública da autarquia estadual MME, com intuito de beneficiar sua amiga Fernanda, permitiu que Ana Flávia, terceira não autorizada, tivesse acesso ao conteúdo sigiloso do concurso público de provas e títulos destinado a preencher as vagas existentes na referida autarquia. Considerando o caso hipotético em comento, Maria Clara deverá responder pelo delito de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tráfico de influência."
+      },
+      {
+        "letra": "B",
+        "texto": "Exploração de prestígio."
+      },
+      {
+        "letra": "C",
+        "texto": "Condescendência criminosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Fraude em certame de interesse público."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2393653",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Em relação ao crime denominado “Fraudes em certames de interesse público”, previsto no artigo 311- A do Código Penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o crime apenas pode ser praticado por funcionário público, ou por funcionário público em conluio com o particular."
+      },
+      {
+        "letra": "B",
+        "texto": "comete crime quem divulgar, indevidamente, com o fim de comprometer a credibilidade do certame, conteúdo sigiloso de vestibular para ingresso no ensino superior de universidade particular."
+      },
+      {
+        "letra": "C",
+        "texto": "o tipo penal admite tanto a forma dolosa quanto a forma culposa."
+      },
+      {
+        "letra": "D",
+        "texto": "o crime apenas se configurará se da ação ou omissão resultar dano à Administração Pública."
+      },
+      {
+        "letra": "E",
+        "texto": "comete crime quem utilizar, indevidamente, com o fim de beneficiar a si ou a outrem, conteúdo sigiloso de qualquer exame ou processo seletivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2176722",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "No crime de fraude em certames de interesse público, previsto no artigo 311-A, do Código Penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o bem jurídico violado é a fé pública, e para restar caracterizado exige-se efetivo prejuízo."
+      },
+      {
+        "letra": "B",
+        "texto": "há a previsão da modalidade culposa, inadmitindo-se a forma tentada."
+      },
+      {
+        "letra": "C",
+        "texto": "embora para a caracterização não se exija a ocorrência de dano patrimonial à administração pública, exige-se a finalidade de beneficiar a si próprio ou a outrem, ou de comprometer a credibilidade do certame."
+      },
+      {
+        "letra": "D",
+        "texto": "é crime comum, podendo ser praticado por qualquer pessoa, mas, se praticado por funcionário público, a pena aplicar-se-á em dobro."
+      },
+      {
+        "letra": "E",
+        "texto": "a ocorrência de prejuízo à Administração Pública é causa de aumento da pena."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2105516",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Luísa, servidora pública, com intuito de comprometer a credibilidade de concurso público, permitiu que terceiros não autorizados tivessem acesso a seu conteúdo sigiloso. Nesse caso, Luísa deve responder por delito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prevaricação."
+      },
+      {
+        "letra": "B",
+        "texto": "fraude em certame de interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "advocacia administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "condescendência criminosa."
+      },
+      {
+        "letra": "E",
+        "texto": "violação de sigilo funcional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1985209",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TCE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Marcelo e Paulo são sócios-administradores de uma sociedade empresária do ramo de equipamentos e materiais elétricos. Armando, amigo de Marcelo, é presidente de autarquia que tem como objeto estudos técnico-científicos em tecnologia. Visando a equipar os laboratórios de pesquisa do ente autárquico, Armando realiza contratação da referida sociedade empresária para a entrega de duzentos rolos de cabeamento de cobre. No entanto, Armando, Marcelo e Paulo ajustaram entre si a entrega, de fato, de apenas cem rolos de cabeamento de cobre, embolsando e rateando o valor correspondente aos cem rolos restantes. Quanto à tipicidade em relação aos envolvidos Marcelo e Paulo, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não responderão criminalmente, em razão de não serem funcionários públicos e não deterem o poder decisório sobre a contratação;"
+      },
+      {
+        "letra": "B",
+        "texto": "responderão pelo crime de fraude em licitação ou contrato;"
+      },
+      {
+        "letra": "C",
+        "texto": "responderão pelo crime de corrupção ativa em sua forma consumada;"
+      },
+      {
+        "letra": "D",
+        "texto": "responderão pelos crimes de corrupção e de lavagem de dinheiro, em concurso material;"
+      },
+      {
+        "letra": "E",
+        "texto": "responderão pelos crimes de fraude em licitação ou contrato em concurso com o crime de corrupção ativa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2170853",
+    "metadata": "Ano: 2021 | Banca: FAFIPA | Órgão: Câmara de Dois Vizinhos - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Concussão e Excesso de Exação",
+      "Prevaricação",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "São crimes contra a administração pública (Título XI), nos termos do Código Penal, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Apropriar-se o funcionário público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio."
+      },
+      {
+        "letra": "C",
+        "texto": "Utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de concurso público."
+      },
+      {
+        "letra": "D",
+        "texto": "Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1841078",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Tício, funcionário do órgão privado responsável pela realização de concurso público, chateado por não lhe ter sido conferido direito a férias no período almejado, objetivando denegrir a imagem da instituição, fez cópia de uma das versões da prova, sigilosa, já que ainda não aplicada, e a divulgou na internet. Tício não auferiu qualquer vantagem com a divulgação, tendo por móvel apenas abalar a imagem da instituição em que trabalhava. No entanto, em razão da divulgação, o concurso foi adiado e toda a prova refeita. Sobre a situação hipotética, é correto dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tício, em tese, praticou o crime de impedimento, perturbação ou fraude de concorrência."
+      },
+      {
+        "letra": "B",
+        "texto": "Tício, em tese, praticou o crime de violação de sigilo funcional."
+      },
+      {
+        "letra": "C",
+        "texto": "a conduta de Tício é atípica, pois inexistiu vantagem com a violação do sigilo da prova, elemento comum aos crimes de fraude em certames de interesse público; violação de sigilo funcional e impedimento, perturbação ou fraude de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "Tício, em tese, praticou o crime de fraudes em certames de interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "a conduta de Tício é atípica, já que ele não é funcionário público, condição necessária do agente nos crimes de fraude em certames de interesse público; violação de sigilo funcional e de impedimento, perturbação ou fraude de concorrência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1639809",
+    "metadata": "Ano: 2019 | Banca: FAFIPA | Órgão: CREA-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Sobre o delito de fraude em certames de interesse público, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas mesmas penas do delito de fraude em certames de interesse público incorre quem permite ou facilita, por qualquer meio, o acesso de pessoas não autorizadas às informações sobre concurso público; avaliação ou exame públicos; processo seletivo para ingresso no ensino superior; exame ou processo seletivo previstos em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Ser a fraude em certames de interesse público cometida por funcionário público não é causa de aumento de pena."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui fraude em certame de interesse público divulgar, indevidamente, com o fim de beneficiar outrem, conteúdo sigiloso de processo seletivo para ingresso no ensino superior."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui fraude em certame de interesse público divulgar, indevidamente, em benefício próprio, conteúdo sigiloso de processo seletivo para ingresso no ensino superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Constitui fraude em certame de interesse público divulgar, indevidamente, em benefício próprio, conteúdo sigiloso de avaliação ou exames públicos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "960900",
+    "metadata": "Ano: 2018 | Banca: Quadrix | Órgão: CRM-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a fé pública e a Administração Pública, julgue o item.O bem jurídico tutelado no crime de fraudes em certames de interesse público não é a fé pública, mas sim a Administração Pública, em seus aspectos material e moral.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "900662",
+    "metadata": "Ano: 2017 | Banca: CETREDE | Órgão: Prefeitura de Aquiraz - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Nos Termos do Código Penal Brasileiro, utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de concurso público, avaliação ou exame públicos, processo seletivo para ingresso no ensino superior e exame ou processo seletivo previstos em lei, incorre na pena de multa e reclusão de quantos anos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 (um) a 4 (quatro)."
+      },
+      {
+        "letra": "B",
+        "texto": "1 (um) a 2 (dois)."
+      },
+      {
+        "letra": "C",
+        "texto": "1 (um) a 3 (três)."
+      },
+      {
+        "letra": "D",
+        "texto": "2 (um) a 5 (cinco)."
+      },
+      {
+        "letra": "E",
+        "texto": "1 (um) a 5 (cinco)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1191554",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Presidente Prudente - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Paulo, funcionário da empresa Digital, pessoa jurídica de direito privado, contratada pelo Ministério da Educação para imprimir as provas do ENEM – Exame Nacional da Educação -, visando beneficiar a sobrinha que prestaria o exame naquele ano, divulgou a ela o tema da redação. Paulo praticou",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime de corrupção passiva."
+      },
+      {
+        "letra": "B",
+        "texto": "violação de sigilo funcional."
+      },
+      {
+        "letra": "C",
+        "texto": "violação do sigilo de proposta de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "fraude em certames de interesse público."
+      },
+      {
+        "letra": "E",
+        "texto": "revelação do segredo profissional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "641847",
+    "metadata": "Ano: 2016 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, o crime intitulado fraudes em certames de interesse público, atentatório contra a administração pública, consiste na conduta de utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de concurso público; avaliação ou exame públicos; processo seletivo para ingresso no ensino superior; ou, exame ou processo seletivo previstos em lei. Comete a mesma infração penal quem permite ou facilita, por qualquer meio, o acesso de pessoas não autorizadas às informações mencionadas acima.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "459265",
+    "metadata": "Ano: 2014 | Banca: FUNDATEC | Órgão: SEFAZ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Violação de sigilo funcional",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "O Técnico Tributário da Receita Estadual tem como uma de suas atribuições manter organizado o arquivo da repartição fiscal. Sobre esse aspecto, analise as seguintes assertivas:I. O Técnico Tributário que se apropria de bem móvel público, de que tem a posse em razão do cargo, comete o crime de peculato. Contudo, se reparar o dano, de forma livre e consciente, antes de sentença irrecorrível, a pena imposta é reduzida pela metade.II. Durante o exercício da sua atividade, o Técnico Tributário, em razão de seu cargo, teve ciência de um fato que deveria permanecer em segredo. Porém, ciente disto, revela esse fato. Agindo dessa forma, o Técnico Tributário cometeu o crime de violação de sigilo funcional.III. Com o fim de beneficiar outrem, o Técnico Tributário divulga, indevidamente, conteúdo sigiloso de concurso público. Diante dessa situação, o Técnico Tributário comete o crime de fraude em certame de interesse público, com aumento de 1/3 da pena, em razão do fato ser cometido por funcionário público. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "423687",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "A conduta que consiste em divulgar, indevidamente, com o fim de beneficiar a outrem, conteúdo sigiloso de processo seletivo para ingresso no ensino superior",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é tipificada como crime, apenada com reclusão."
+      },
+      {
+        "letra": "B",
+        "texto": "não encontra tipificação na lei penal."
+      },
+      {
+        "letra": "C",
+        "texto": "é tipificada como crime, apenada com detenção."
+      },
+      {
+        "letra": "D",
+        "texto": "só encontra tipificação na lei penal quando se tratar de instituição pública de ensino."
+      },
+      {
+        "letra": "E",
+        "texto": "é enquadrada como infração penal, sujeita à pena de prisão simples."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "312975",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Fraudes em certames de interesse público"
+    ],
+    "enunciado_principal": "Recentemente um novo delito que lesa a fé pública foi incluído no Código Penal. Assinale a alternativa que traz o nomen iuris desse crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Emprego irregular de verbas ou rendas públicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Fraudes em certame de interesse público."
+      },
+      {
+        "letra": "C",
+        "texto": "Falsa identidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Inserção de dados falsos em sistemas de informações."
+      },
+      {
+        "letra": "E",
+        "texto": "Modificação ou alteração não autorizada de sistema de informações."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

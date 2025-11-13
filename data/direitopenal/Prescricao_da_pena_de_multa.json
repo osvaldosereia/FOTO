@@ -1,0 +1,398 @@
+[
+  {
+    "id": "3100500",
+    "metadata": "Ano: 2024 | Banca: FAPEC | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes contra a dignidade sexual ou que envolvam violência contra a criança e o adolescente, previstos tanto no Código Penal quanto em legislação especial, a prescrição, antes de transitar em julgado a sentença final, começa a correr da data em que a vítima completar 18 (dezoito) anos, salvo se a esse tempo já houver sido proposta a ação penal."
+      },
+      {
+        "letra": "B",
+        "texto": "A prescrição da pena de multa ocorrerá em 2 (dois) anos, seja ela a única cominada, seja ela aplicada de forma cumulativa com pena privativa de liberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "Antes de passar em julgado a sentença final, a prescrição não corre na pendência de embargos de declaração ou de recursos aos tribunais superiores, quando inadmissíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "Para o Superior Tribunal de Justiça, a desclassificação da conduta no julgamento de recurso em sentido estrito para crime de competência do Juízo singular constitui reforma da pronúncia por error in judicando e, nesse caso, é mantida a validade do ato jurisdicional e, por consequência, seu efeito como marco interruptivo da prescrição"
+      },
+      {
+        "letra": "E",
+        "texto": "É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2531142",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: CNJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Penal a respeito de irretroatividade da lei penal e de prescrição, julgue o item que se segue. O prazo prescricional da pena de multa será o mesmo da pena privativa de liberdade quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2254974",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Marius é condenado à pena privativa de liberdade de 1 ano 2 meses e, cumulativamente, à pena de 23 dias-multa. Com relação à prescrição da pena de multa, nos termos do art. 114 do CP, é correto dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ocorrerá em 4 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "seguirá a regra de prescrição da dívida de valor do Direito Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "ocorrerá em 2 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "ocorrerá em 3 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "ocorrerá em 1 ano."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2115958",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Pena de multa",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "No que se refere à aplicação da pena de multa, esta prescreverá, impreterivelmente, em dois anos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1995552",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, a prescrição da pena de multa, quando ela for a única cominada ou aplicada, ocorrerá em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um ano"
+      },
+      {
+        "letra": "B",
+        "texto": "dois anos."
+      },
+      {
+        "letra": "C",
+        "texto": "três anos."
+      },
+      {
+        "letra": "D",
+        "texto": "quatro anos."
+      },
+      {
+        "letra": "E",
+        "texto": "cinco anos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1092929",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "A respeito da prescrição penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prescrição do crime de falsidade de assentamento de registro civil, antes de transitar em julgado a sentença condenatória, começa a correr na data em que se consumou."
+      },
+      {
+        "letra": "B",
+        "texto": "a prescrição da pena de multa dar-se-á em 2 anos, quando cominada ou aplicada cumulativamente ou alternativamente à pena privativa de liberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "a prescrição do crime tentado, antes de transitar em julgado a sentença condenatória, regula-se pelo máximo da pena privativa de liberdade cominada, reduzida de 2/3 (dois terços)."
+      },
+      {
+        "letra": "D",
+        "texto": "são causas interruptivas da prescrição o oferecimento da denúncia ou queixa; a pronúncia e o início do cumprimento da pena, hipóteses em que todo o prazo começa a correr novamente."
+      },
+      {
+        "letra": "E",
+        "texto": "a prescrição de crime de estupro de criança, antes de transitar em julgado a sentença condenatória, começa a correr no dia em que a vítima completar 18 (dezoito) anos, se não proposta ação penal em momento anterior."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1021833",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Ribeirão Preto - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pena de multa",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "No que se refere ao instituto da prescrição e a causas de extinção da punibilidade, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dentre as causas que interrompem a prescrição, estão o início ou a continuação do cumprimento da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "A prescrição da pena de multa ocorrerá sempre em dois anos."
+      },
+      {
+        "letra": "C",
+        "texto": "A sentença que conceder perdão judicial pode ser considerada para efeitos de reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo da sentença, menor de 21 (vinte e um) anos ou maior de 70 (setenta) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A existência de questão prejudicial obrigatória não interfere na contagem do prazo prescricional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "960761",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão executória",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Com relação a aspectos diversos pertinentes aos prazos prescricionais previstos no CP, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tais prazos serão reduzidos pela metade nas situações em que, ao tempo do crime, o agente fosse menor de vinte e um anos de idade ou, na data do trânsito em julgado da sentença condenatória, fosse maior de setenta anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando de criminoso reincidente, são aumentados em um terço os prazos da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição é regulada pela pena total imposta nos casos de crimes continuados, sendo computado o acréscimo decorrente da continuação."
+      },
+      {
+        "letra": "D",
+        "texto": "A prescrição da pena de multa ocorrerá em dois anos, quando for a única pena cominada, ou no mesmo prazo de prescrição da pena privativa de liberdade, se tiver sido cominada alternativamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese de evasão do condenado, a prescrição da pretensão executória é regulada pelo total da pena privativa de liberdade imposta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "936316",
+    "metadata": "Ano: 2018 | Banca: TRF - 2ª Região | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Regimes penitenciários",
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Assinale a assertiva certa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As medidas socioeducativas não são passíveis de prescrição penal, pois o menor inimputável não pratica crimes."
+      },
+      {
+        "letra": "B",
+        "texto": "A frequência a curso de ensino formal ou não, é causa de remição de parte do tempo de execução penal em qualquer dos três regimes."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição da execução da pena de multa, após a reforma do Código Penal, observa sempre o prazo de dois anos."
+      },
+      {
+        "letra": "D",
+        "texto": "O período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada."
+      },
+      {
+        "letra": "E",
+        "texto": "Não cabe o regime semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos, mesmo que favoráveis as circunstâncias judiciais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1396115",
+    "metadata": "Ano: 2014 | Banca: ESMARN | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "No que se refere à prescrição, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contagem do prazo prescricional faz-se de acordo com a regra do art. 10 do CP, não se interrompendo nem suspendendo a contagem por férias, feriados ou domingos."
+      },
+      {
+        "letra": "B",
+        "texto": "A Lei de Contravenções Penais não disciplina a prescrição, que segue, por isso, os princípios gerais, nos termos do art. 12 do CP."
+      },
+      {
+        "letra": "C",
+        "texto": "A reincidência não interfere na prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A prescrição da pena de multa ocorrerá em 3 (três) anos, quando a multa for a única cominada ou aplicada."
+      },
+      {
+        "letra": "E",
+        "texto": "As penas restritivas de direitos prescrevem no mesmo prazo em que prescreveria a pena privativa de liberdade que elas substituíram."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "462895",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lei da Lavagem de Dinheiro - Lei nº 9.613 de 1998",
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pena de multa",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o patrimônio",
+      "Furto",
+      "Legislação Penal Especial"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta uma afirmação INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Funcionário de uma instituição financeira que transfere dinheiro da conta bancária de uma idosa, que lhe confiara o cartão magnético e sua senha, para sua própria conta, pratica o crime de furto, conforme entendimento do STJ."
+      },
+      {
+        "letra": "B",
+        "texto": "Qualquer infração penal com potencial para gerar ativos de origem ilícita pode ser antecedente do crime de lavagem de dinheiro."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição da pena de multa ocorre no mesmo prazo estabelecido para a prescrição da pena privativa de liberdade, quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "O reconhecimento do homicídio privilegiado é compatível com a admissão da qualificadora do meio cruel."
+      },
+      {
+        "letra": "E",
+        "texto": "É cabível a aplicação do benefício da detração penal (art. 42 do CP) em processos distintos, desde que o delito pelo qual o sentenciado cumpre pena tenha sido cometido antes da segregação cautelar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "406901",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Prazo de duração",
+      "Livramento condicional",
+      "Requisitos para a concessão",
+      "Efeitos da condenação",
+      "Efeitos secundários de natureza extrapenal genéricos",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pena de multa"
+    ],
+    "enunciado_principal": "Com observância das assertivas abaixo, responda: I. Nos casos de livramento condicional, para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do benefício ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir. II. Quanto aos efeitos da condenação, poderá ser decretada a perda de bens ou valores equivalentes ao produto ou proveito do crime quando estes não forem encontrados ou quando se localizarem no exterior. III. No que se refere às medidas de segurança, uma vez extinta a punibilidade, não se impõe a referida medida, nem subsiste a que tenha sido imposta. IV. A prescrição da pena de multa ocorrerá em 2 (dois) anos, quando a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada; e no mesmo prazo estabelecido para prescrição da pena privativa de liberdade, quando a multa for a única cominada ou aplicada. Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e II são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas III e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as assertivas I, II e IV são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

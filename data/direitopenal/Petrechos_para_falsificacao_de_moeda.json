@@ -1,0 +1,573 @@
+[
+  {
+    "id": "3174037",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "A respeito do crime de petrechos de falsificação, previsto no artigo 294 do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite a modalidade culposa."
+      },
+      {
+        "letra": "B",
+        "texto": "É crime instantâneo e inadmite tentativa."
+      },
+      {
+        "letra": "C",
+        "texto": "É crime próprio de funcionário público."
+      },
+      {
+        "letra": "D",
+        "texto": "É crime de ação múltipla ou de conteúdo variado."
+      },
+      {
+        "letra": "E",
+        "texto": "Tem por objeto material o objeto (instrumento) destinado à falsificação de papéis públicos e particulares."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2315184",
+    "metadata": "Ano: 2023 | Banca: CONSULPLAN | Órgão: CORE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Em janeiro de 2023, na cidade XXX, a Polícia Federal cumpriu sete mandados de prisão e um de busca e apreensão contra integrantes de uma organização criminosa que atuava na falsificação de papel-moeda. Durante as diligências de busca, a Polícia Federal arrecadou um livro com anotações acerca das pessoas que adquiriam as moedas falsificadas com intuito de comercialização. Considerando o fato narrado, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplica-se o princípio da insignificância aos crimes de moeda falsa."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de falsificação de papel-moeda será processado e julgado pela Justiça Estadual."
+      },
+      {
+        "letra": "C",
+        "texto": "A sanção penal aplicada a quem adquire a moeda falsa é a mesma daquela aplicada a quem a falsifica."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a configuração do crime de falsificação de moeda, é necessário que haja a fabricação do papel-moeda."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2274869",
+    "metadata": "Ano: 2023 | Banca: BRB | Órgão: CREF - 13ª Região (BA-SE)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "A pena por falsificar, fabricando-a ou alterando-a, moeda metálica ou papel-moeda de curso legal no país ou no estrangeiro é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reclusão, de três a doze anos, e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "Reclusão, de dois a oito anos, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "Reclusão, de dois a seis anos, e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "Detenção, de três a doze anos, e multa."
+      },
+      {
+        "letra": "E",
+        "texto": "Detenção, de dois a oito anos, e multa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1968224",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda",
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Concussão e Excesso de Exação",
+      "Advocacia administrativa"
+    ],
+    "enunciado_principal": "A respeito dos crimes contra funcionário público, contra a administração pública e contra a fé pública, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os crimes relacionados aos petrechos para falsificação de moeda somente são punidos se o sujeito ativo realizar o crime a título oneroso."
+      },
+      {
+        "letra": "B",
+        "texto": "Há causa de aumento de pena quando os crimes contra a honra são cometidos contra ministros do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "As penas de crimes contra a administração pública são contadas em dobro quando estes forem praticados por ocasião de calamidade pública decretada pelo poder público."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de advocacia administrativa só pode ser praticado por advogados, não podendo ser imputado a ministros de Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "Configura crime de concussão dar prioridade a repasse financeiro de verba pública por razões de ordem religiosa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1920664",
+    "metadata": "Ano: 2022 | Banca: Avança SP | Órgão: Câmara Municipal de Sorocaba",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Art. 291 - Fabricar, adquirir, fornecer, a título oneroso ou gratuito, possuir ou guardar maquinismo, aparelho, instrumento ou qualquer objeto especialmente destinado à falsificação de moeda.Com base no Código Penal, o crime apontado acima incorre em pena de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reclusão, de dois a oito anos, e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "detenção, de um a seis meses, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "detenção, de um a seis meses, ou multa."
+      },
+      {
+        "letra": "D",
+        "texto": "reclusão, de dois a seis anos, ou multa."
+      },
+      {
+        "letra": "E",
+        "texto": "reclusão, de dois a seis anos, e multa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1841075",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "A respeito do crime de petrechos de falsificação, previsto no artigo 294, do Código Penal, é correto dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É crime próprio de funcionário público."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite a modalidade culposa."
+      },
+      {
+        "letra": "C",
+        "texto": "É crime material."
+      },
+      {
+        "letra": "D",
+        "texto": "É instantâneo."
+      },
+      {
+        "letra": "E",
+        "texto": "É tipo misto alternativo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "960899",
+    "metadata": "Ano: 2018 | Banca: Quadrix | Órgão: CRM-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Acerca dos crimes contra a fé pública e a Administração Pública, julgue o item.Aquele que adquire objeto especialmente destinado à falsificação de moeda, sem, contudo, efetivamente produzir moeda falsa, não incorre em conduta criminosa, uma vez que praticou ato meramente preparatório.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "862654",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda",
+      "Falsidade de documento público",
+      "Falsidade de documento particular",
+      "Falsidade ideológica",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "A clonagem de cartão de crédito constitui o delito denominado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "falsidade de documento público."
+      },
+      {
+        "letra": "B",
+        "texto": "falsidade de documento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "conduta atípica, que só será punível a partir do uso do cartão clonado em fraude posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "adulteração de peça filatélica, em razão da similaridade com o cartão de crédito."
+      },
+      {
+        "letra": "E",
+        "texto": "falsidade ideológica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "826515",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "O crime denominado “petrechos de falsificação” (CP, art. 294) tem a pena aumentada, de acordo com o art. 295 do CP, se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "praticado com intuito de lucro."
+      },
+      {
+        "letra": "B",
+        "texto": "cometido em detrimento de órgão público ou da administração indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "a vítima for menor de idade, idosa ou incapaz."
+      },
+      {
+        "letra": "D",
+        "texto": "causar expressivo prejuízo à fé pública."
+      },
+      {
+        "letra": "E",
+        "texto": "o agente for funcionário público e cometer o crime prevalecendo-se do cargo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "643067",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara de Marília - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Aquele que guarda instrumento especialmente destinado à falsificação de moeda",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comete crime equiparado ao crime de falsificação de moeda (CP, art. 289), mas receberá pena reduzida."
+      },
+      {
+        "letra": "B",
+        "texto": "comete crime equiparado ao crime de falsificação de moeda (CP, art. 289), com idêntica pena."
+      },
+      {
+        "letra": "C",
+        "texto": "comete crime assimilado ao crime de falsificação de moeda (CP, art. 290)."
+      },
+      {
+        "letra": "D",
+        "texto": "comete o crime de petrechos para falsificação de moeda (CP, art. 291)."
+      },
+      {
+        "letra": "E",
+        "texto": "não comete crime algum, por se tratar de ato preparatório."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "612054",
+    "metadata": "Ano: 2015 | Banca: CAIP-IMES | Órgão: DAE de São Caetano do Sul - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "É sabido, nos termos do artigo 291 do Código Penal que a pena prevista por fabricar, adquirir, fornecer, a título oneroso ou gratuito, possuir ou guardar maquinismo, aparelho, instrumento ou qualquer objeto especialmente destinado à falsificação de moeda, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reclusão, de dois a seis anos, e multa."
+      },
+      {
+        "letra": "B",
+        "texto": "detenção, de um a seis anos, e multa."
+      },
+      {
+        "letra": "C",
+        "texto": "reclusão, de um a seis anos, e multa."
+      },
+      {
+        "letra": "D",
+        "texto": "detenção, de dois a seis anos, e multa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "586774",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCE-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Julgue o item subsequente acerca dos delitos previstos na parte especial do Código Penal.A fabricação de aparelho destinado à falsificação de moeda é fato criminoso, assim como a fabricação de objeto destinado à confecção de documentos particulares falsos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1039981",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Aquele que formar cédula, nota ou bilhete representativo de moeda com fragmentos de cédulas, notas ou bilhetes verdadeiros; ou suprimir, em notas, cédulas ou bilhetes recolhidos, para o fim de restituí-los à circulação, sinal indicativo de sua inutilização; restituir à circulação cédula, nota ou bilhete em tais condições, ou já recolhidos para o fim de inutilização; responderá pelo(s) crime(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de moeda falsa, art. 289 do Código Penal."
+      },
+      {
+        "letra": "B",
+        "texto": "de constituição ou reconstituição de moeda falsa, art. 290-A do Código Penal."
+      },
+      {
+        "letra": "C",
+        "texto": "assimilados ao de moeda falsa, art. 290 do Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "de formação, adulteração ou supressão de sinais de moeda falsa, art. 291-A do Código Penal."
+      },
+      {
+        "letra": "E",
+        "texto": "de petrechos para falsificação de moeda, art. 291 do Código Penal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "363405",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Imagine que Pedro, ilicitamente, guarda consigo tintas, papéis e um aparelho capaz de fabricar moeda falsa. Tal conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "configura o crime de petrechos para falsificação de moeda (CP, art. 291)"
+      },
+      {
+        "letra": "B",
+        "texto": "configura crime assimilado ao de moeda falsa (CP, art. 290)."
+      },
+      {
+        "letra": "C",
+        "texto": "configura o crime de moeda falsa (CP, art. 289)"
+      },
+      {
+        "letra": "D",
+        "texto": "não configura crime algum, por ausência de previsão legal."
+      },
+      {
+        "letra": "E",
+        "texto": "não configura crime algum, por se tratar de mero ato preparatório."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "236221",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Leo adquiriu de pessoa desconhecida um aparelho destinado à falsificação de moeda. Em seguida, fabricou várias cédulas falsas de cem reais e as colocou em circulação, adquirindo bens diversos. Nesse caso, Leo responderá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelos crimes de petrechos para falsificação de moeda, em continuidade delitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "unicamente pelo crime de petrechos para falsificação de moeda."
+      },
+      {
+        "letra": "C",
+        "texto": "pelos crimes de petrechos para falsificação de moeda e moeda falsa, em concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "pelos crimes de petrechos para falsificação de moeda e moeda falsa, em concurso material."
+      },
+      {
+        "letra": "E",
+        "texto": "unicamente pelo crime de moeda falsa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "234999",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Se um indivíduo adquirir, gratuitamente, maquinismo para falsificar moedas e alcançar o seu intento, então, nesse caso, ele responderá pelo crime de moeda falsa em concurso com o delito de petrechos para falsificação de moeda.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "215768",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TCE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda",
+      "Falsidade de documento particular",
+      "Outras falsidades"
+    ],
+    "enunciado_principal": "Quem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corrige erros materiais em um contrato comete crime de alteração de documento particular verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "desvia e faz circular moeda cuja circulação não estava autorizada só responde por crime contra a fé pública se a autorização para circulação não vier a ser dada."
+      },
+      {
+        "letra": "C",
+        "texto": "possui objeto especialmente destinado à falsificação de moeda só responde por crime contra a fé pública se vier a utilizá-lo efetivamente para a falsificação de moeda."
+      },
+      {
+        "letra": "D",
+        "texto": "comparece a juízo sob nome falso, a fim de manter- se isento da mácula nos registros públicos, comete crime de falsa identidade."
+      },
+      {
+        "letra": "E",
+        "texto": "restitui à circulação, tendo recebido de boa fé, como verdadeira, moeda falsa ou alterada, depois de conhecer a falsidade, não comete nenhum delito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "216434",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Desistência voluntária e arrependimento eficaz",
+      "Crimes contra a fé pública",
+      "Moeda falsa",
+      "Petrechos para falsificação de moeda"
+    ],
+    "enunciado_principal": "Márcio, maior, capaz, reincidente em crime doloso, comprou, na mercearia do bairro em que mora, na cidade de São João de Meriti – RJ, gêneros alimentícios no montante de R$ 60,00, pagou as compras com duas cédulas de R$ 50,00, cuja inaltenticidade era de seu pleno conhecimento, e recebeu o troco em moeda nacional autêntica. No dia seguinte, arrependido de sua conduta pela repercussão que poderia adquirir, procurou o proprietário da mercearia, Paulo, maior capaz e com ensino médio completo, confessou o ocorrido, restituiu o troco e pagou integralmente, com dinheiro legal, as mercadorias. Paulo chamou a polícia, que encontrou, no caixa da mercearia, apenas uma das cédulas falsificadas, tendo sido ela apreendida. Márcio foi conduzido à delegacia, ocasião em que foram encontrados em sua posse os seguintes petrechos destinados especificamente à falsificação de moeda: duas matrizes metálicas e faixa magnética que imita o fio de segurança de cédulas autênticas.A partir dessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paulo deve ser acusado da prática do delictum privilegiatum de reinserir em circulação moeda falsa, classificado como de menor potencial ofensivo, ainda que alegue desconhecer norma legal proibitiva, caso se comprove que ele, tendo recebido como verdadeira cédula falsa, portanto, de boa-fé, a tenha restituído à circulação, após perceber sua inautenticidade, para evitar prejuízo a seu regular comércio."
+      },
+      {
+        "letra": "B",
+        "texto": "Tendo sido o crime praticado sem violência ou grave ameaça a pessoa, com posterior reparação do prejuízo sofrido pela vítima, e em face do comportamento voluntário do agente, anterior ao oferecimento da denúncia, fica caracterizado o arrependimento eficaz, o que impõe a redução da pena de um a dois terços."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso se demonstre, na instrução do processo, que Márcio é o autor da falsificação do dinheiro e igualmente o responsável por sua circulação, ele deverá ser responsabilizado por concurso material, em face da peculiaridade do tipo misto cumulativo que caracteriza o crime de moeda falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "No caso de moeda falsa, o CP estabelece a sanção na modalidade culposa, de maneira excepcional, em duas circunstâncias: quando o agente tem ciência da falsidade da moeda e a guarda ou a tem em depósito de forma culposa, ou quando, ciente da falsidade, igualmente de forma culposa, a restitui à circulação."
+      },
+      {
+        "letra": "E",
+        "texto": "O delito de posse de petrechos para falsificação de moeda, previsto em tipo próprio no CP como ato preparatório, de perigo abstrato, deve ser punido de forma independente e autônoma em relação ao crime de falsificação, posse e circulação da moeda."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

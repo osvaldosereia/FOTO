@@ -1,0 +1,878 @@
+[
+  {
+    "id": "2339490",
+    "metadata": "Ano: 2023 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Delitos de acumulação ou crimes cumulativos são aqueles considerados quando determinadas condutas, isoladas, são incapazes de ofender ao bem jurídico protegido pela norma penal, mas a repetição delas, cumulativamente consideradas, constitui crime em virtude da lesão ou perigo de lesão ao bem jurídico, encontrando um campo de aplicação no direito ambiental."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a Teoria da Imputação Objetiva, que tem em Claus Roxin um de seus autores principais, a possibilidade de originar um processo causal danoso depende de a conduta do agente criar ou aumentar um risco juridicamente relevante de lesão típica de um bem jurídico. Logo, como regra, as ações que diminuem o risco são consideradas típicas, porque fazem parte do processo causal, mas o agente tem uma atenuação na pena aplicada, sendo que não podem ser consideradas como ações típicas as condutas que não criam a possibilidade objetiva de lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria da actio libera in causa, em que o agente comete o injusto penal em estado de inculpabilidade pretende resolver a questão no âmbito penal deslocando a voluntariedade do agente para o momento em que ele se colocou no estado de incapacidade de culpabilidade, já que, no momento da prática do fato típico, o agente está em incapacidade psíquica."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria psicológica da culpabilidade fundamentada no positivismo do século XIX era definida como a relação subjetiva entre o autor e o fato, sendo o dolo e a culpa as suas duas espécies, e a imputabilidade o seu pressuposto. Deste modo, a teoria encontrava um problema em sua estrutura, que a levou a reestruturação, nos casos de “culpa inconsciente”, uma vez que, nestas hipóteses, não há o vínculo psicológico."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da equivalência dos antecedentes causais, ou teoria da conditio sine qua non, parte da premissa que todas as condições têm igual importância, pois o resultado não ocorreria sem qualquer uma delas. Tal teoria é adotada pelo Código Penal em seu artigo 13, caput. Desta forma, para evitar o regresso ao infinitivo (regressus ad infinitum), deve ser analisado, antes de se perquirir o nexo causal, se a conduta do agente foi dolosa ou culposa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2211471",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Conduta: ação / omissão",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Tendo em vista as teorias sobre a relação de causalidade, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo a teoria da equivalência dos antecedentes causais, elaborada por Von Kries, causa é a condição necessária e adequada que determina a produção do evento."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da relevância jurídica é adotada pelo CP."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao fornecer o conceito de causa, o CP distingue ação e omissão."
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria da imputação objetiva surgiu com a finalidade de substituir a teoria da equivalência dos antecedentes causais."
+      },
+      {
+        "letra": "E",
+        "texto": "Conforme a teoria da imputação objetiva, afasta-se a tipicidade objetiva da conduta nos casos em que a vítima coloca si mesma em risco."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1870545",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Michel, após embriagar-se, dirigiu seu veículo na via pública de uma zona rural, por cerca de 300 metros, no percurso entre o bar e sua casa. No meio do caminho, a Polícia Militar o parou e constatou que ele dirigia o veículo sob o efeito de álcool. Michel apresentou a CNH aos policiais e foi preso em flagrante delito de embriaguez ao volante. O trecho percorrido era esmo e, por isso, não houve perigo a nenhum bem jurídico. Considerando essa situação hipotética e as teorias do nexo causal, independentemente da teoria adotada pelo ordenamento jurídico brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É correto afirmar que, segundo a teoria da imputação objetiva do resultado, na acepção funcional-sistêmica, Michael deve ser penalmente responsabilizado, pois sua conduta violou as expectativas sociais para a causação do resultado jurídico, sendo desnecessário o resultado naturalístico."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da causalidade adequada, de Johannes Von Kries, ao adotar o conceito de causalidade natural, distinta da causalidade jurídica, dispensa as causas imprevisíveis ou anômalas, de modo a fazer com que a conduta de Michael se amolde ao tipo penal incriminador, por ter sido previsível e evitável, independentemente da existência do resultado material."
+      },
+      {
+        "letra": "C",
+        "texto": "É correto afirmar que, segundo a teoria da condição INUS, de John L. Mackie, Michael realizou, nas circunstâncias, uma conduta tipicamente punível, pois a subsunção do fato é realizada com base na causa mais suficiente e necessária, dentre as demais, sendo prescindível a procura de outras causas e do resultado para a ligação da tipicidade e autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "É correto afirmar que, segundo a teoria da imputação objetiva, na perspectiva funcional-teleológica, que abandona a conditio sine qua non, a conduta de Michael deveria ser um indiferente penal, pois, diante da prognose póstuma objetiva, não houve efetivo incremento do risco proibido, pois tolerado pela sociedade."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da conditio sine qua non, reformulada por Maximiliam Von Buri, por exigir a investigação da cadeia causal antecedente ao resultado, mas apta para a sua ocorrência, incluindo-se a análise da causa juridicamente relevante, não incide para explicar a conduta de Michael, diante da inexistência de resultado naturalístico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1869773",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Mesmo diante de diversos avisos e letreiros de proibição e dos alertas verbais de agente de segurança pública presente no local, Jack ingressou no Lago do Amor, em Campo Grande/MS, nadando rapidamente até o meio do lago. Quando retornava à margem, foi atacado por um jacaré, vindo a perder um braço. Após a alta médica, Jack dirigiu-se a uma unidade da Polícia Judiciária, realizando registro de ocorrência em desfavor do agente público, afirmando que ele tinha o dever de impedir seu ingresso no lago e que era o responsável pela lesão que sofrera. Diante desse cenário, é correto afirmar que o agente público:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é responsável pelo resultado, por ser agente garantidor por força de lei;"
+      },
+      {
+        "letra": "B",
+        "texto": "não é responsável pelo resultado, em razão da autocolocação em perigo dolosa;"
+      },
+      {
+        "letra": "C",
+        "texto": "é responsável pelo resultado, em razão de omissão penalmente relevante;"
+      },
+      {
+        "letra": "D",
+        "texto": "não é responsável pelo resultado, em razão da autocolocação em perigo culposa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1860049",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Acerca da estrutura analítica do crime, julgue o item a seguir. A teoria da imputação objetiva é estruturada na criação de um perigo não permitido, que se realiza no resultado típico, dentro do alcance final de proteção da norma.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1767738",
+    "metadata": "Ano: 2021 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Para a TEORIA DA IMPUTAÇÃO OBJETIVA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se um cliente bancário consegue vultoso empréstimo, dentro das normas da Casa de crédito, confidenciando ao gerente que empregará o recurso para comprar cocaína e revender, este será partícipe do tráfico."
+      },
+      {
+        "letra": "B",
+        "texto": "Se dois indivíduos moradores da mesma república que a vítima são contratados para matá-la, por envenenamento, sem saberem um do outro, e ministrarem a substância na bebida, sequencialmente, em quantidade insignificante para a finalidade, em virtude da chegada repentina de terceiros, vindo a produzir-lhe o resultado letal, dada a soma das doses, ambos responderão por homicídio consumado."
+      },
+      {
+        "letra": "C",
+        "texto": "Os ofendículos podem excluir a tipicidade ou a ilicitude, ocorrendo, na primeira hipótese, apenas quando o dissenso for elementar do tipo."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o autor, após desferir golpes de faca contra a vítima, desejando matá-la, vê que ela desfaleceu e, imaginando-a já sem vida, põe fogo no local para ocultar o fato, verificando-se, pelo laudo, que o óbito se deu pelas queimaduras e não pelos ferimentos, ele não responde pela consumação do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "O nexo de causalidade material deixou de ter relevância jurídico-penal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2117216",
+    "metadata": "Ano: 2020 | Banca: INSTITUTO AOCP | Órgão: SEJUC-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Culpabilidade",
+      "Imputação objetiva",
+      "Consumação e tentativa",
+      "Erro do tipo essencial",
+      "Erro de tipo acidental",
+      "Sanções penais",
+      "Imputabilidade penal"
+    ],
+    "enunciado_principal": "Em relação ao Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime."
+      },
+      {
+        "letra": "C",
+        "texto": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida pela metade."
+      },
+      {
+        "letra": "E",
+        "texto": "É isento de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima. Não há isenção de pena quando o erro deriva de culpa e o fato é punível como crime culposo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1109698",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "A respeito da teoria da imputação objetiva, na concepção de Claus Roxin, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria da imputação objetiva, em sua forma mais simplificada, aduz que um resultado causado pelo agente só deve ser imputado como sua obra e preenche o tipo objetivo unicamente quando o comportamento do autor cria um risco não permitido para o objeto da ação , quando o risco se realiza no resultado concreto e este resultado se encontra dentro do alcance do tipo."
+      },
+      {
+        "letra": "B",
+        "texto": "Considere o seguinte exemplo : \" A \" deseja provocar a morte de \" B \" e , para isso , \" A \" o aconselha a fazer uma viagem á Flórida , pois leu que lá , ultimamente , vários turistas têm sido assassinados . \" A \" planeja que também \" B \" tenha esse destino . \" B \" , que nada ouviu sobre os casos de assassinato na Flórida , faz a viagem de férias e de fato é vítima de um delito e homicídio . \" A \" deve responder pelo homicídio , pois sua conduta acabou incentivando \" B \" a fazer a viagem , criando , assim , um risco não permitido ( no caso , criou um perigo de morte juridicamente relevante ) ."
+      },
+      {
+        "letra": "C",
+        "texto": "Ações que diminuam risco não são imputáveis ao tipo objetivo, apesar de serem causa do resultado em sua forma concreta e de estarem abrangidas pela consciência do sujeito. Assim, quem convence o ladrão a furtar não mil reais, mas somente cem reais, não é punível por participação no furto, pois sua conduta não elevou, mas diminuiu o risco da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Imagine a seguinte a hipótese: dois ciclistas passeiam um atrás do outro, no escuro, sem estarem com as bicicletas iluminadas, por mera falta de atenção e descuido. Em virtude da inexistência de iluminação, o ciclista que vai à frente colide com outro ciclista, que vinha na direção oposta, sofrendo este lesões corporais. O resultado teria sido evitado, se o ciclista que vinha atrás tivesse ligado a iluminação de sua bicicleta. Diante dessa situação, pode-se afirmar que o ciclista que vinha à frente deve responder por lesões corporais culposas, pois criou um risco não o permitido ao dirigir sem iluminação, que acabou resultando na colisão. O ciclista que vinha atrás, todavia, não responder· pelas lesões corporais culposas, já que este resultado não está· abrangido pelo fim de proteção de norma de cuidado, afinal, a finalidade do dever de iluminação é evitar colisões próprias, não de terceiros (colisões alheias)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1041609",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TCE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "De acordo com a teoria da imputação objetiva,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a culpabilidade penal tradicional é reformulada por uma categoria mais ampla, denominada responsabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "a função da pena e do direito penal é a proteção da ordem estatal justa."
+      },
+      {
+        "letra": "C",
+        "texto": "um fato poderá ser considerado penalmente típico mesmo que não crie um risco juridicamente relevante."
+      },
+      {
+        "letra": "D",
+        "texto": "na verificação da criação de um risco juridicamente proibido, adota-se o princípio da confiança apenas para os crimes de trânsito não intencionais."
+      },
+      {
+        "letra": "E",
+        "texto": "o comportamento de vítima que se coloque em risco real ou potencial não interfere na análise da imputação objetiva."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1008754",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "A chamada “teoria da imputação objetiva” reúne um conjunto de critérios pelos quais se restringe o âmbito da relevância penal dos fatos abrangidos pela relação de causalidade, e que seriam imputáveis ao sujeito caso não fossem empregados esses critérios.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "973953",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "No ano de 1970, o professor alemão Claus Roxin escreveu um artigo em homenagem a Richard Honig. O artigo foi denominado “Reflexões sobre a Problemática da Imputação em Direito Penal”. Com o referido texto, foi estabelecida a base contemporânea da Teoria da Imputação Objetiva. Constituem critérios para análise da imputação objetiva:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incremento do risco, não diminuição do risco proibido, criação do risco proibido e esfera de proteção da norma."
+      },
+      {
+        "letra": "B",
+        "texto": "dolo, culpa e imputação subjetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "imputabilidade, potencial conhecimento do ilícito e exigibilidade de conduta diversa."
+      },
+      {
+        "letra": "D",
+        "texto": "legítima defesa, estado de necessidade, estrito cumprimento de dever legal e exercício regular de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "ilicitude, culpabilidade e punibilidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "960487",
+    "metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Nexo de causalidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Para se determinar quando uma ação é causa de um resultado, foram elaboradas várias teorias. A respeito destas teorias, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a Teoria da equivalência das condições, causa é a condição sem a qual o resultado não teria ocorrido."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a Teoria da causalidade adequada, causa é a condição mais adequada para produzir o resultado, fundando-se em um juízo de possibilidade ou de probabilidade à relação causal."
+      },
+      {
+        "letra": "C",
+        "texto": "Para a Teoria da qualidade do efeito, causa é a condição da qual depende a qualidade do resultado, havendo diferenciação entre condições estáticas e dinâmicas, sendo que somente estas últimas seriam causa decisiva ou eficiente para o efeito."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a Teoria da imputação objetiva, não há diferenças entre níveis de admissibilidade de riscos permitidos, posto que o nível de proteção que cada tipo penal guarda é axiologicamente o mesmo."
+      },
+      {
+        "letra": "E",
+        "texto": "Para a Teoria da relevância causal, causa da produção de um resultado depende, dentre outros critérios, da relevância jurídica da conexão causal do ato de vontade com o resultado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1237357",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "A imputação como ferramenta da teoria do delito,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tem aplicação apenas aos delitos culposos, já que nos tipos dolosos seu papel é satisfatoriamente ocupado pela teoria do dolo."
+      },
+      {
+        "letra": "B",
+        "texto": "a referência a ela corresponde a uma terminologia recente, atravessando importantes altos e baixos em seu uso, ou no espaço ocupado como centro das diferentes doutrinas."
+      },
+      {
+        "letra": "C",
+        "texto": "tem por pressuposto a menor relevância do nexo de causalidade natural em relação a quem se deve atribuir a ação ou o resultado como típicos."
+      },
+      {
+        "letra": "D",
+        "texto": "ainda é vista majoritariamente como nebulosa, e constitui uma categoria na qual se procuram reunir todos aqueles problemas que carecem de uma posição sistemática clara."
+      },
+      {
+        "letra": "E",
+        "texto": "possui aplicação nos delitos denominados pela doutrina brasileira como de mera conduta, nos moldes desenvolvidos por Claus Roxin, por configurar uma teoria funcional sem vinculação ao aspecto subjetivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "843715",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Ao menos no Brasil, embora existentes outras concepções de imputação objetiva, a generalidade da literatura penal se acostumou em apresentar o modelo funcionalista moderado do penalista Claus Roxin. Nesse sentido, considerando os pressupostos de sua construção teórica, analise o caso proposto a seguir e assinale a alternativa correta. Um Delegado de Polícia, sem embargo alertado pelo escrivão e pelo investigador sobre a precariedade dos freios da viatura, exigiu ser transportado até a circunscrição vizinha. Antes de chegar à rodovia, o escrivão novamente o advertiu sobre os problemas de freio do veículo oficial, mas a autoridade impôs que a sua vontade fosse devidamente cumprida. Durante o trajeto viário, o escrivão perdeu o controle do veículo em curva acentuada por falha no sistema de freios e, desgovernado, atravessou a pista contrária e caiu em um barranco de quinze metros. O Delegado de Polícia morreu no acidente e a perícia técnica comprovou que nenhum fator adicional corroborou para o sinistro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A imputação do crime de trânsito ao escrivão deverá ser afastada, pois se trata de caso de heterocolocação em perigo consentido."
+      },
+      {
+        "letra": "B",
+        "texto": "A imputação do crime de trânsito deverá ser afastada pela' ausência de dolo por parte do escrivão."
+      },
+      {
+        "letra": "C",
+        "texto": "A imputação do crime de trânsito ao escrivão deverá ser admitida, pois se trata de caso de contribuição em uma autocolocação em perigo dolosa."
+      },
+      {
+        "letra": "D",
+        "texto": "A imputação do crime de trânsito ao escrivão deverá ser admitida, pois o resultado ocorrido no caso proposto está abrangido pelo respectivo tipo penal."
+      },
+      {
+        "letra": "E",
+        "texto": "A imputação do crime de trânsito ao escrivão deverá ser admitida, pois é suficiente a comprovação da relação de causalidade entre a conduta praticada e o evento ocorrido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "812496",
+    "metadata": "Ano: 2017 | Banca: IBADE | Órgão: PC-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Sobre causalidade e imputação objetiva, assinale a resposta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a teoria da imputação objetiva em Roxin. não há riscos juridicamente irrelevantes em ações dolosas."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da equivalência dos antecedentes, adotada no Código Penal, é abolida pela imputação objetiva, que renega a existência de uma causalidade natural."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria da conditio sine qua non tem como consequência o regresso ad infinitum na análise dos antecedentes causais, o que pode ser evitado, entre outras análises, pela imputação objetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A imputação objetiva dispensa a realização do risco juridicamente desaprovado no resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "O Código Penal brasileiro - no que concerne ao nexo causal - adota expressamente a teoria da causalidade adequada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "795666",
+    "metadata": "Ano: 2017 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Princípios limitadores do poder punitivo estatal",
+      "Conduta: ação / omissão",
+      "Imputação objetiva",
+      "Autoria e coautoria",
+      "Causas absolutamente independentes"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a teoria da conditio sine qua non, se a vítima morre quando poderia ter sido salva, caso levada, logo após o fato, a atendimento médico, responde o agente da ação com animus necandi por homicídio consumado. Mas, se levada a socorro em hospital, morresse por efeito de substância tóxica ministrada por engano pela enfermeira, o agente responderia por tentativa de homicídio e não por homicídio consumado."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a teoria da imputação objetiva, o ato de imputar significa atribuir a alguém a realização de uma conduta criadora de um risco relevante e juridicamente proibido e a produção de um resultado jurídico. Pressupõe um perigo criado pelo agente e não coberto por um risco permitido dentro do alcance do tipo. O risco permitido conduz à atipicidade, e o risco proibido, quando relevante, à tipicidade. A imputação objetiva constitui elemento normativo implícito do tipo penal."
+      },
+      {
+        "letra": "C",
+        "texto": "Os princípios da adequação social e da insignificância, sugeridos pela doutrina, servem de instrumentos de interpretação restritiva do tipo penal, que afetam a tipicidade formal do fato."
+      },
+      {
+        "letra": "D",
+        "texto": "Para a teoria do domínio do fato, autor é quem executa a ação típica, por conduta própria ou pela utilização de outro como instrumento de realização; também quem, mesmo não executando o fato típico em sentido estrito, participa da resolução criminosa, realizando parte necessária da execução do plano global. A teoria, partindo do conceito restritivo de autor, segue um critério objetivo-subjetivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Para a teoria finalista, ação é a conduta do homem, comissiva ou omissiva, dirigida a uma finalidade e desenvolvida sob o domínio da vontade do agente, razão pela qual não reputa criminosa a ação ocorrida em estado de inconsciência, como no caso de quem, durante o sono, sonhando estar em legítima defesa, esbofeteia e causa lesão corporal na pessoa que dorme ao seu lado. Para esta mesma teoria, a culpabilidade não é psicológica, nem psicológico-normativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "792455",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "De acordo com os principais teóricos do direito penal, a teoria da imputação objetiva se refere especificamente à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "culpabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "antijuridicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "tipicidade material."
+      },
+      {
+        "letra": "D",
+        "texto": "relação de causalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "punibilidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "698193",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Afim de fazer uso de certa droga injetável, Eliel pede a Sinval uma seringa emprestada, pois não tem dinheiro para adquirir a sua em uma farmácia. Com a cessão da seringa por Sinval, Eliel ministra a droga no próprio corpo, vindo a falecerem virtude de overdose. Saliente-se que Sinval desejava a morte de Eliel e intimamente torcia para o desfecho trágico. Considerando apenas as informações constantes do enunciado, de acordo com a teoria da imputação objetiva:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é possível a punição de Sinval pelo resultado morte, desde que agasalhada a tese da heterocolocação em risco."
+      },
+      {
+        "letra": "B",
+        "texto": "a imputação do resultado morte a Sinval pode ser afastada em virtude da autocolocação da vítima em perigo"
+      },
+      {
+        "letra": "C",
+        "texto": "Dado o incremento do risco proibido. Sinval sera responsabilizado pela morte de Eliel."
+      },
+      {
+        "letra": "D",
+        "texto": "A existência de um nexo de causalidade, reconhecido a partir da teoria da conditio sine qua non, é suficiente para a imputação do resultado morte a Sinval."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinval não pode ser responsabilizado pelo resultado morte, em virtude da ausência de dolo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "644274",
+    "metadata": "Ano: 2016 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "No que concerne à Teoria da Imputação Objetiva, é incorreto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na cena de um crime, Gregor Samsa convence o ladrão a furtar da vítima Frieda a quantia de cem reais, em vez dos mil reais que o autor inicialmente tencionava surrupiar. Nesse caso, de acordo com a concepção de Roxin acerca da diminuição do risco em relação ao bem protegido, o resultado delituoso não poderá ser – nem mesmo a título de participação – objetivamente imputado a Gregor Samsa."
+      },
+      {
+        "letra": "B",
+        "texto": "Conforme Jakobs, o padeiro que vende uma peça de pão ao autor, ciente de que este utilizará o alimento para envenenar terceira pessoa, incrementa o risco da situação de fato por agir em desconformidade com o seu papel social, podendo, dessa forma, o resultado lhe ser imputado objetivamente como partícipe. De igual modo, ainda para o citado autor, o taxista pode responder criminalmente pelo homicídio que cometa seu cliente uma vez chegado ao ponto de destino, se, durante o trajeto, o plano delitivo tiver sido devidamente explicitado ao taxista."
+      },
+      {
+        "letra": "C",
+        "texto": "Sustenta-se em sede doutrinária a íntima relação, no campo da causalidade, da teoria da imputação objetiva com as regras da física quântica, falando-se, por essa razão, em direito penal quântico."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo Roxin, a imputação objetiva se chama objetiva não porque circunstâncias subjetivas lhe sejam irrelevantes, mas porque a ação típica constituída pela imputação é algo objetivo, ao qual só posteriormente, se for o caso, se acrescenta o dolo, no tipo subjetivo. Em outros termos, para o citado autor, a imputação objetiva também é influenciada por critérios subjetivos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "628797",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva",
+      "Tipicidade formal",
+      "Tipicidade conglobante"
+    ],
+    "enunciado_principal": "Sobre tipicidade, considere as afirmações abaixo. I - Tipicidade conglobante (antinormatividade) é a comprovação de que a conduta legalmente típica está também proibida pela norma, o que se obtém desentranhando o alcance dessa norma proibitiva conglobada com as demais disposições do ordenamento jurídico. II - Tipicidade legal é a individualização que a lei faz da conduta, mediante o conjunto dos elementos descritivos e valorativos (normativos) de que se vale o tipo legal. III - Tipicidade, para a teoria indiciária, é uma presunção iuris et iuris da normatividade da licitude. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "463522",
+    "metadata": "Ano: 2014 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Tipo Penal Doloso",
+      "Resultado",
+      "Imputação objetiva",
+      "Consumação e tentativa"
+    ],
+    "enunciado_principal": "Considerando que o fato típico constitui o elemento estrutural inicial do delito, indique a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas ações em curto-circuito e nos atos reflexos inexiste conduta por ausência de voluntariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "João Cruel, com a finalidade de matar seu inimigo José Mala, ministra veneno em coquetel mesmo sabendo que a referida bebida seria servida a todos os convidados de uma festa, o que de fato ocorreu, vindo, diante disso, a matar o seu inimigo e aos demais convidados que ingeriram tal bebida; entretanto, uma das convidadas estava grávida, de maneira que da sua morte decorreu necessariamente o aborto. Conforme ensinamento do Promotor de Justiça Marcelo André de Azevedo, neste caso, tendo João Cruel consciência do estado de gravidez, estaria configurado também o dolo direto de terceiro grau"
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo Claus Roxin é perfeitamente possível a conciliação entre a teoria da imputação objetiva e a teoria conditio sine qua non, exercendo aquela uma moderação na relação de causalidade material."
+      },
+      {
+        "letra": "D",
+        "texto": "A tentativa inqualificada ocorre na hipótese de desistência voluntária justamente pelo fato do agente deixar de prosseguir nos atos executórios, evitando, assim, a consumação do crime por vontade própria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "406898",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Analise a opção INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para o funcionalismo sistêmico, preconizado por Günther Jakobs, pode-se dizer que o direito penal é um instrumento associado à proteção de bens jurídicos fundamentais ao desenvolvimento social do indivíduo, diretamente ligado aos princípios da fragmentariedade, insignificância. Afasta-se da ideia de que o direito penal tem como missão principal a busca do reconhecimento da necessidade de estabilização da norma, atrelando-se à premissa da necessidade de associação da fundamentação das categorias do delito a um fundamento material de ofensa ao bem jurídico."
+      },
+      {
+        "letra": "B",
+        "texto": "No que se refere à imputação objetiva, para fugir dos dogmas causais, pode-se dizer que Claus Roxin, fundamentando-se no chamado princípio do risco, cria uma teoria geral da imputação, para os crimes de resultado, com quatro vertentes que impedirão sua imputação objetiva, quais sejam, a diminuição do risco; a criação de um risco juridicamente relevante; aumento do risco permitido; esfera de imputação da norma como critério de imputação."
+      },
+      {
+        "letra": "C",
+        "texto": "No que se refere à imputação objetiva, pode-se dizer que Günther Jakobs, com fundamento no argumento segundo o qual o comportamento social do homem é vinculado a papéis, traça quatro instituições jurídico-penais sobre as quais desenvolve a referida teoria, quais sejam, risco permitido; princípio da confiança; proibição de regresso; competência ou capacidade da vítima."
+      },
+      {
+        "letra": "D",
+        "texto": "Para o funcionalismo teleológico, preconizado por Claus Roxin, parte-se da premissa de uma ideia a respeito do direito penal, identificada como a proteção subsidiária de bens jurídicos mais relevantes e a respeito da pena, que vem a ter um caráter preventivo geral e especial, para chegar à composição de um novo modelo de sistema de imputação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402271",
+    "metadata": "Ano: 2014 | Banca: NUCEPE | Órgão: PC-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Considere o seguinte caso: Uma pessoa A, totalmente inexperiente no manejo de arma de fogo, dispara com intenção de matar B, mas a uma distância a partir da qual nenhum observador acreditaria ser possível acertar o alvo, mesmo para o mais experiente atirador. Não obstante, o disparo de A alcança e mata B. Tomando em conta a teoria da imputação objetiva, como formulada por Claus Roxin e Günter Jakobs, pode-se afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "existe nexo de causalidade, vez que o disparo de A foi uma condição sem a qual o resultado (morte de B) não teria ocorrido."
+      },
+      {
+        "letra": "B",
+        "texto": "existe nexo de causalidade, vez que o resultado era previsível e evitável e havia dolo por parte de A."
+      },
+      {
+        "letra": "C",
+        "texto": "inexiste nexo de causalidade, pois temos concausa superveniente absolutamente independente que, sozinha, causou o resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "inexiste nexo de causalidade, pois, em uma análise ex ante, não havia previsibilidade do resultado, vez que a conduta de A, analisada por um observador isento, não seria idônea para criar um risco proibido ao bem jurídico."
+      },
+      {
+        "letra": "E",
+        "texto": "existe nexo de causalidade, pois a conduta, além de dolosa, foi idônea a expor um bem jurídico a risco proibido, bem como o resultado lesivo, além de possível, chegou a ocorrer."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "615422",
+    "metadata": "Ano: 2012 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "No estudo da Teoria do Crime, a imputação objetiva relaciona uma série de princípios que objetivam delimitar e corrigir a teoria da equivalência dos antecedentes adotada pelo artigo 13 do Código Penal, procurando complementar a questão do nexo causal. Nessa linha, assinale a afirmativa INCORRETA em relação ao estudo da imputação objetiva.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há imputação objetiva quando o risco criado é insignificante."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há imputação objetiva quando o bem jurídico protegido é disponível e a vítima, seja ela qual for, dá seu consentimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há imputação objetiva do resultado quando a ocorrência deste não está sob o domínio do agente."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há imputação objetiva da conduta quando o risco criado é permitido."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há imputação objetiva quando o risco criado é tolerado ou aceito pela comunidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "283096",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Culpabilidade",
+      "Imputação objetiva",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Autoria e coautoria",
+      "Erro do tipo essencial",
+      "Crimes contra a vida",
+      "Homicídio",
+      "Crimes contra o sentimento religioso",
+      "Crimes contra o respeito aos mortos"
+    ],
+    "enunciado_principal": "Maria é amiga e “cunhada” de Paula, pois namora Carlos, o irmão desta.Maria descobre que está sendo traída por Carlos e conta a Paula. Esta sugere que Maria simule o suicídio para dar uma lição em Carlos. Realizada a encenação, Carlos encontra Maria caída em sua cama, aparentando estar com os pulsos cortados e morta, tendo uma faca ao seu lado. Certo da morte de sua amada, pois a cena fora perfeitamente simulada, com aptidão para enganar qualquer pessoa, Carlos, desesperado, pega a faca supostamente utilizada por Maria e começa a golpear o corpo da namorada, gritando que ela não poderia ter feito aquilo com ele, haja vista amá-la demais e que, portanto, sua vida teria perdido o sentido. Maria, mesmo esfaqueada, não esboça qualquer reação, pois, para dar uma aura de veracidade à farsa, havia ingerido medicamentos que a fizeram dormir profundamente. Em razão dos golpes desferidos por Carlos, Maria acaba efetivamente morrendo. Assim, pode-se afirmar que Carlos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve responder pelo crime de homicídio doloso duplamente qualificado, em face de a morte ter ocorrido por motivo torpe e pela impossibilidade de reação da vítima, sendo Paula coautora do mesmo crime, pois o direito penal brasileiro adota a teoria monista mitigada."
+      },
+      {
+        "letra": "B",
+        "texto": "deve responder por descumprir um dever de cuidado objetivo, que causou um resultado lesivo, já que há previsão expressa do crime na modalidade culposa, considerando Carlos que estava sob erro de tipo vencível; Paula é partícipe do mesmo crime, pois o direito penal brasileiro adota a teoria monista mitigada."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode responder por crime algum, pois não há responsabilidade penal objetiva no direito penal brasileiro."
+      },
+      {
+        "letra": "D",
+        "texto": "deve responder pelo crime de vilipêndio a cadáver, haja vista estar emerro sobre o fato, que, pela teoria extremada da culpabi l idade, amolda-se ao instituto do erro de proibição."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser indiciado pelo crime de destruição, subtração ou ocultação de cadáver, uma vez que, estando sob erro de tipo vencível, fez o cadáver perder a sua forma original."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "253690",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Lei penal no espaço",
+      "Imputação objetiva",
+      "Antijuridicidade",
+      "Estado de necessidade",
+      "Crimes omissivos"
+    ],
+    "enunciado_principal": "De acordo com as disposições do CP e da doutrina pertinente, assinale a opção correta a respeito da aplicação da lei penal e de aspectos diversos relacionados ao crime.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sucintamente, pode-se definir imputação objetiva como um conjunto de pressupostos jurídicos que condicionam a relação de imputação de um resultado jurídico a um determinado comportamento penalmente relevante."
+      },
+      {
+        "letra": "B",
+        "texto": "Crimes omissivos impróprios, comissivos por omissão ou omissivos qualificados são os que objetivamente são descritos como uma conduta negativa, de não fazer o que a lei determina, consistindo a omissão na transgressão da norma jurídica sem que haja necessidade de qualquer resultado naturalístico. Para a existência do crime, basta que o autor se omita quando deva agir."
+      },
+      {
+        "letra": "C",
+        "texto": "Diz-se agressivo o estado de necessidade quando a conduta do agente dirige-se diretamente ao produtor da situação de perigo, a fim de eliminá-la."
+      },
+      {
+        "letra": "D",
+        "texto": "Leis temporárias são aquelas que, por expressa previsão, vigem durante situações de emergência."
+      },
+      {
+        "letra": "E",
+        "texto": "Conforme o princípio da territorialidade, a lei penal deve ser aplicada a todos os homens, onde quer que se encontrem, aplicando-se a lei nacional a todos os fatos puníveis, sem se levar em conta o lugar do delito, a nacionalidade de seu autor ou do bem jurídico lesado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "239432",
+    "metadata": "Ano: 2012 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Imputação objetiva"
+    ],
+    "enunciado_principal": "Em relação à imputação objetiva é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imputação objetiva ou responsabilidade penal objetiva significa atribuir a alguém a realização de uma conduta criadora de um relevante risco juridicamente proibido e a produção de um resultado jurídico;"
+      },
+      {
+        "letra": "B",
+        "texto": "o comportamento e o resultado normativo só podem ser atribuídos ao sujeito quando a conduta criou ao bem (jurídico) um risco juridicamente desaprovado e relevante;"
+      },
+      {
+        "letra": "C",
+        "texto": "para fins de responsabilização do agente, a análise do estado anímico (dolo) precede à análise da imputação objetiva do resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "a teoria da imputação objetiva surgiu com a finalidade de limitar o alcance da teoria da equivalência dos antecedentes causais. Por meio dela deixa-se de lado a observação de uma relação de causalidade puramente normativa (jurídica) para se valorar outra de natureza puramente material"
+      }
+    ],
+    "gabarito": "B"
+  }
+]

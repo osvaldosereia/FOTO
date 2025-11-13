@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "2459915",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Reincidência"
+    ],
+    "enunciado_principal": "Em 2024, Guilherme, Américo, Lucas, Rogério e Vladimir praticaram um crime. De acordo com as informações de antecedentes criminais fornecidas a seguir, assinale a opção que indica qual deles é tecnicamente primário (não reincidente).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Guilherme, enquanto policial militar, foi definitivamente condenado por corrupção passiva prevista no Código Penal Militar e terminou de cumprir a pena no ano de 2023."
+      },
+      {
+        "letra": "B",
+        "texto": "Américo, na condição de ocupante de cargo político, praticou crime de peculato, tendo sido definitivamente condenado em 2023, sendo que ainda não terminou de cumprir as penas restritivas de direito que lhe foram impostas."
+      },
+      {
+        "letra": "C",
+        "texto": "Lucas foi definitivamente condenado em 2015, tendo sua pena sido extinta em 2020, pela concessão de indulto pleno. Em 2022, Lucas obteve sua reabilitação."
+      },
+      {
+        "letra": "D",
+        "texto": "Rogério foi definitivamente condenado em 2023, mas, após o trânsito em julgado de sua condenação, o Juiz reconheceu a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Vladimir foi definitivamente condenado na Espanha, por tráfico de drogas, a uma pena de 6 anos de reclusão, fato ocorrido em 2017 e transitado em julgado em 2018; porém, ainda não cumpriu a pena porque logrou se evadir para o Brasil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2072723",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TCE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "A partir das disposições da Lei n.º 13.869/2019, acerca do abuso de autoridade, e da Parte Geral do Código Penal, julgue o item que se segue. Depois de transitada em julgado a sentença condenatória, a prescrição regula-se pela pena aplicada, e os prazos legais aumentam de um terço em caso de reincidência.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2048203",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Mário tinha 20 anos de idade quando praticou o crime de roubo (pena de 4 a 10 anos) circunstanciado tentado contra duas vítimas diferentes. Devido a esse crime, ele foi condenado a uma pena de 3 anos e 6 meses pela primeira vítima, pena esta que, em razão do concurso formal, passou a ser de 4 anos e 1 mês. Nessa situação hipotética, o menor prazo para a ocorrência da prescrição punitiva será o de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "6 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "8 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "12 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "16 anos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2035778",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: SEFAZ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "Sobre o regramento da prescrição penal, considerando a posição da Jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal a propósito do tema, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prescrição da pretensão executória fluirá considerando o saldo que restar da pena, computando-se a detração do período de prisão preventiva cumprido pelo condenado."
+      },
+      {
+        "letra": "B",
+        "texto": "A prescrição da pretensão punitiva é interrompida pelo acórdão que confirma a os termos da sentença condenatória."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição penal pode ser suspensa durante o tempo em que o condenado esteja cumprindo pena no estrangeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma vez interrompida a prescrição da pretensão punitiva, o prazo volta a fluir no dia da interrupção, pela metade."
+      },
+      {
+        "letra": "E",
+        "texto": "O reconhecimento da prescrição da pretensão punitiva possui efeitos ex nunc, ou seja, impede a execução da pena, mas não atinge os efeitos secundários da condenação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1985631",
+    "metadata": "Ano: 2022 | Banca: COPEVE-UFAL | Órgão: TCE-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Quanto às jurisprudências do Supremo Tribunal Federal e do Superior Tribunal de Justiça em matéria de prescrição penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O acórdão confirmatório da sentença condenatória não é marco interruptivo do prazo prescricional."
+      },
+      {
+        "letra": "B",
+        "texto": "Na falsidade ideológica, o termo inicial da contagem do prazo da prescrição da pretensão punitiva é o momento da reiteração de seus efeitos."
+      },
+      {
+        "letra": "C",
+        "texto": "O Supremo Tribunal Federal admite a denominada prescrição em perspectiva, haja vista a existência de previsão legal do instituto."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorrida a prescrição da pretensão punitiva de crime de responsabilidade de prefeito municipal, ainda assim podem ser aplicadas as sanções de perda de cargo e de inabilitação para o exercício de cargo ou função pública."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de crimes conexos que sejam objeto do mesmo processo, havendo sentença condenatória para um dos crimes e acórdão condenatório para o outro delito, tem-se que a prescrição da pretensão punitiva de ambos é interrompida a cada provimento jurisdicional."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1952904",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "A prescrição depois de transitar em julgado a sentença condenatória",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode ter como termo inicial prazo anterior à denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "regula-se pela pena máxima do delito."
+      },
+      {
+        "letra": "C",
+        "texto": "regula-se pela pena da sentença, desconsiderando-se a reincidência."
+      },
+      {
+        "letra": "D",
+        "texto": "considera o total da pena aplicada na sentença, inclusive com a causa de aumento do crime continuado."
+      },
+      {
+        "letra": "E",
+        "texto": "sofre aumento de um terço se o réu for reincidente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1886823",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Em 16/11/2011, um indivíduo, réu primário com 21 anos de idade à época, cometeu furto simples (art. 155, caput, Código Penal – pena de reclusão, de um a quatro anos, e multa). A denúncia foi oferecida em 10/11/2015 e recebida em 16/11/2015. Após a tramitação regular do processo, esse indivíduo foi condenado à pena de dois anos de reclusão, sentença publicada em 16/11/2018. Apenas a defesa recorreu, e o acórdão publicado em 16/11/2021 reduziu a pena para um ano de reclusão. A partir dessa situação hipotética, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o juiz deveria ter reconhecido, com base na pena aplicada na sentença, a prescrição virtual ocorrida entre a data do fato e a do recebimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "não ocorreu prescrição nem em razão da pena em abstrato nem em razão da pena em concreto."
+      },
+      {
+        "letra": "C",
+        "texto": "houve, devido à pena em concreto final, prescrição retroativa entre a data do fato e a do recebimento da denúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "houve, por pena em concreto final, prescrição retroativa entre o recebimento da denúncia e a sentença, pois há causa de redução do prazo prescricional."
+      },
+      {
+        "letra": "E",
+        "texto": "ocorreu, em razão da pena efetivamente aplicada, a prescrição superveniente entre a data de publicação da sentença e a do julgamento do acórdão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1825552",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: J.J. respondeu processo pelo crime de peculato (art. 312 do Código Penal) cometido no dia 30/09/2010, quando tinha 66 anos de idade.Adenúncia foi oferecida pelo Ministério Público em 16/10/2014 e recebida pelo(a) Magistrado(a) competente no dia 18/10/2014. O processo tramitou regularmente e J.J. foi condenado a cumprir pena de 2 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 dias-multa no valor de 1/30 do salário mínimo vigente à época do fato. A sentença foi proferida em 16/11/2016 e publicada no dia 18/11/2016. Não houve interposição de recurso pelas partes e foi certificado o trânsito em julgado, ocorrido em 05/12/2016. Em 20/10/2018 se iniciou o cumprimento da pena. A partir das normas aplicáveis à extinção da punibilidade, é correto afirmar que nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "houve prescrição da pretensão punitiva pela pena em abstrato."
+      },
+      {
+        "letra": "B",
+        "texto": "houve prescrição da pretensão punitiva intercorrente (subsequente) pela pena em concreto."
+      },
+      {
+        "letra": "C",
+        "texto": "houve prescrição da pretensão punitiva retroativa pela pena em concreto."
+      },
+      {
+        "letra": "D",
+        "texto": "houve somente prescrição da pretensão executória."
+      },
+      {
+        "letra": "E",
+        "texto": "não houve prescrição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1120535",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "Em 30/9/2016, com menos de vinte e um anos de idade, Daniel praticou o crime de resistência, cuja pena máxima em abstrato é de dois anos. Daniel recusou a transação penal e o Ministério Público, então, ofereceu denúncia em 9/4/2018, a qual foi recebida pelo juízo em 30/4/2018. A sentença que condenou Daniel à pena de seis meses de detenção foi publicada em 31/10/2019. Até a data da condenação, Daniel era primário e não possuía qualquer outro incidente criminal. Nenhuma das partes recorreu e o trânsito em julgado ocorreu em 18/11/2019.A respeito dessa situação, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se operou a prescrição da pretensão punitiva relativa ao lapso entre o recebimento da denúncia e a publicação da sentença condenatória."
+      },
+      {
+        "letra": "B",
+        "texto": "se operou a prescrição da pretensão executória relativa ao lapso entre o fato e o oferecimento da denúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "se operou a prescrição da pretensão executória relativa ao lapso entre o oferecimento da denúncia e o trânsito em julgado da sentença condenatória."
+      },
+      {
+        "letra": "D",
+        "texto": "se operou a prescrição da pretensão punitiva entre o fato e o trânsito em julgado da sentença condenatória."
+      },
+      {
+        "letra": "E",
+        "texto": "não se operou nenhuma espécie de prescrição."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1098001",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Analise as assertivas sobre a prescrição e marque a alternativa correta: I. Os prazos fornecidos pelos incisos do artigo 109 do Código Penal servirão não só para o cálculo da prescrição, considerando-se a pena máxima em abstrato, como também para aqueles relativos à pena já concretizada na sentença condenatória. II. A prescrição superveniente ou intercorrente ocorre depois do trânsito em julgado para a acusação, ou quando improvido seu recurso, tomando-se por base a pena fixada na sentença penal condenatória, e permite a confecção do título executivo judicial. III. O parâmetro para o limite da suspensão do curso do prazo prescricional, em caso de suspensão do processo nos termos do artigo 366 do Código de Processo Penal, é aquele determinado pelos incisos do artigo 109 do Código Penal, adotando-se o máximo da pena abstratamente cominada ao delito. IV. Em relação às hipóteses previstas no artigo 117 do Código Penal, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime, exceto nos casos de reincidência e pronúncia. V. As causas de aumento e de diminuição de pena influenciam no cálculo da prescrição, que deverá ser feito considerando o percentual de maior elevação, nas hipóteses de causas de aumento de pena de quantidade variável, e o de menor redução, nas hipóteses de causas de diminuição de pena de quantidade variável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas I, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas II, III, IV e V estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas I, III e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I, II e V estão corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1041608",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TCE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Modalidades das Penas Restritivas de Direito",
+      "Substituição - Concessão.",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Antônio, ex-secretário de Estado da Educação, foi processado criminalmente por dispensa indevida de licitação, o que havia gerado prejuízo financeiro ao erário, e condenado a pena de 3 anos e 6 meses de detenção em regime inicial semiaberto, além do pagamento de 25 dias-multa, no valor unitário de dois salários-mínimos. A pena privativa de liberdade foi substituída por uma pena de prestação de serviço gratuito à comunidade e uma pena de multa de 30 salários-mínimos; a sentença foi publicada em 17/8/2014. Antônio apelou e o recurso foi improvido, sendo o acórdão publicado em 20/9/2018, data em que Antônio tinha 66 anos de idade. Considerando-se essa situação e a legislação penal vigente, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sentença deve ser modificada, pois, no caso em apreço, a pena privativa de liberdade somente poderia ter sido substituída por duas penas restritivas de direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Em razão da pena aplicada e da idade do réu no momento da publicação do acórdão, houve prescrição da punibilidade após a condenação."
+      },
+      {
+        "letra": "C",
+        "texto": "É facultado a Antônio cumprir integralmente as horas de prestação de serviço à comunidade no prazo de 1 ano e 6 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "A pena de multa deve ser paga obrigatoriamente em parcela única, no prazo de 10 dias após transitar em julgado a sentença condenatória."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de descumprimento injustificado da pena de prestação de serviço, o restante da pena converter-se-á em privativa de liberdade, respeitado o saldo mínimo de 30 dias de detenção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "998898",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "A respeito do instituto da prescrição, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A decisão de recebimento da denúncia, a publicação de sentença ou acórdão condenatórios recorríveis e a decisão de pronúncia interrompem o curso do prazo prescricional, não o interrompendo, porém, a decisão do Tribunal que, em grau recursal, apenas confirma a pronúncia proferida em primeira instância."
+      },
+      {
+        "letra": "B",
+        "texto": "Depois de transitada em julgado a sentença condenatória, a prescrição se regula pela pena aplicada em concreto, não podendo ter por termo inicial data anterior à denúncia ou queixa, independentemente da data em que o crime se consumou."
+      },
+      {
+        "letra": "C",
+        "texto": "Os prazos prescricionais são aumentados da metade se o réu já era reincidente ao tempo do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "Os prazos prescricionais são reduzidos pela metade quando o criminoso era menor de 21 anos ou maior de 65 anos ao tempo do crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "994225",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Considere o caso hipotético a seguir. José, com 21 anos de idade, cometeu um delito de furto simples (art. 155, caput) em 26 de maio do ano de 2010. A denúncia foi oferecida em 20 de maio de 2014 e recebida em 26 de maio de 2014. Após a instrução, em sentença condenatória publicada em 26 de maio de 2016, José foi condenado a uma pena de dois anos de reclusão. O Ministério Público não recorreu, enquanto que a Defensoria Pública interpôs recurso de apelação, e, em acórdão publicado em 26 de maio de 2019, José teve a pena reduzida para um ano de reclusão. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com base na pena final concretizada, deve ser reconhecida a prescrição retroativa, ocorrida entre a data do fato e o recebimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "em razão da pena final concretizada, houve prescrição retroativa entre o recebimento da denúncia e a publicação da sentença, pois deve ser aplicada a causa de redução da prescrição (art. 115 do CP)."
+      },
+      {
+        "letra": "C",
+        "texto": "seja em razão da pena em abstrato, seja pela pena em concreto, não houve a ocorrência de prescrição em nenhuma hipótese."
+      },
+      {
+        "letra": "D",
+        "texto": "em razão da pena efetivamente aplicada, houve a ocorrência da prescrição superveniente, pois entre a data de publicação da sentença e o julgamento do acórdão houve o transcurso de três anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "932930",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Em cada item seguinte, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de exclusão da culpabilidade, concurso de agentes, prescrição e crime contra o patrimônio.Júnior, maior e capaz, foi processado e julgado pelo crime de estelionato. Tendo verificado que Júnior tinha sido condenado pelo mesmo crime havia dois anos, o juiz aumentou a pena em um terço. Nessa situação, o aumento da pena não influirá no prazo da prescrição da pretensão punitiva.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "926913",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "Funcionário público de 30 anos é denunciado pela suposta prática do crime de falsidade ideológica de documento particular (Art. 299 do CP. Pena: 1 a 3 anos de reclusão e multa) por fatos que teriam ocorrido em 02 de janeiro de 2011. A denúncia foi recebida em 03 de março de 2015, e, após regular instrução, foi o agente condenado em sentença publicada em 03 de março de 2018, sendo aplicada pena mínima de 01 ano de reclusão e 10 dias-multa. O Ministério Público não apresentou recurso, enquanto a defesa buscou, em recurso, a absolvição. Considerando as informações narradas, no dia 20 de setembro de 2018, data marcada para sessão de julgamento do recurso, em caso de não ser dado provimento, o advogado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá buscar o reconhecimento da prescrição da pretensão punitiva pela pena em concreto entre a data do fato e data do recebimento da denúncia, não afastando, porém, a condenação para efeitos de eventual reincidência futura."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá buscar o reconhecimento da prescrição da pretensão punitiva pela pena em concreto entre o recebimento da denúncia e publicação da sentença, não gerando tal reconhecimento efeitos para fins de eventual reincidência futura."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá buscar o reconhecimento da prescrição da pretensão punitiva pela pena em concreto entre a data do fato e recebimento da denúncia, não gerando tal reconhecimento efeitos para eventual reincidência futura."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá buscar o reconhecimento da prescrição da pretensão punitiva e nem a prescrição da pretensão executória."
+      },
+      {
+        "letra": "E",
+        "texto": "não poderá buscar o reconhecimento da prescrição da pretensão punitiva, mas poderá buscar a extinção da punibilidade pela prescrição da pretensão executória, gerando a condenação efeitos para eventual reincidência futura."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "906403",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "É causa impeditiva da prescrição",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o início ou continuação do cumprimento da pena."
+      },
+      {
+        "letra": "B",
+        "texto": "a reincidência."
+      },
+      {
+        "letra": "C",
+        "texto": "o recebimento da denúncia ou da queixa."
+      },
+      {
+        "letra": "D",
+        "texto": "o cumprimento da pena, pelo agente, no estrangeiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "896377",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Perdão do ofendido",
+      "Reincidência"
+    ],
+    "enunciado_principal": "É certo afirmar: I. A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. II. A representação será irretratável antes de oferecida a denúncia. III. Extingue-se a punibilidade pelo casamento do agente com a vítima, nos crimes contra os costumes, assim definidos pelo Código Penal na sua Parte Especial. IV. A sentença que conceder perdão judicial não será considerada para efeitos de reincidência. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e IV estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "886082",
+    "metadata": "Ano: 2018 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prescrição da pretensão punitiva é interrompida pela reincidência penal."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença penal condenatória interrompe a prescrição da pretensão punitiva, ainda que anulada integralmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição retroativa e a intercorrente têm como pressuposto a pena concreta, ocorrendo esta entre a publicação da sentença condenatória e o trânsito em julgado para a defesa, enquanto aquela é apurada da sentença condenatória para trás."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se se considera como marco para fins de cálculo da prescrição pela pena em concreto o indeferimento na origem do recurso extraordinário, porque inadmissível, sendo considerado como marco a decisão do Supremo Tribunal Federal que confirma a decisão do Tribunal de Justiça."
+      },
+      {
+        "letra": "E",
+        "texto": "A prescrição da pretensão punitiva é calculada sobre o total da pena."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "826730",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "A chamada prescrição retroativa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é regulada pelo máximo da pena privativa de liberdade cominada ao crime."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ter por termo inicial data anterior à publicação da sentença condenatória recorrível."
+      },
+      {
+        "letra": "C",
+        "texto": "acarreta o acréscimo de um terço no lapso prescricional em se tratando de acusado reincidente."
+      },
+      {
+        "letra": "D",
+        "texto": "não marca os antecedentes do acusado, nem gera futura reincidência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "800826",
+    "metadata": "Ano: 2017 | Banca: Fundação La Salle | Órgão: SUSEPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "A pena do crime de peculato é de 2 (dois) a 12 (doze) anos de reclusão, além de multa. De acordo com a previsão de prescrição antes do trânsito em julgado da sentença, constante no art. 109 do Código Penal, o delito em tela prescreve em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 (vinte) anos."
+      },
+      {
+        "letra": "B",
+        "texto": "16 (dezesseis) anos."
+      },
+      {
+        "letra": "C",
+        "texto": "12 (doze) anos."
+      },
+      {
+        "letra": "D",
+        "texto": "08 (oito) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "04 (quatro) anos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "792460",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "O prazo prescricional da pretensão punitiva",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será calculado sobre o total da pena aplicada a todos os crimes praticados após a incidência do acréscimo, se se tratar de concurso formal imperfeito."
+      },
+      {
+        "letra": "B",
+        "texto": "será calculado sobre o total correspondente à soma das penas de todos os crimes praticados, se se tratar de crime continuado."
+      },
+      {
+        "letra": "C",
+        "texto": "será calculado sobre o total correspondente à soma de todas as penas dos crimes praticados, se se tratar de concurso material."
+      },
+      {
+        "letra": "D",
+        "texto": "será calculado isoladamente em cada crime praticado, desconsiderando-se o acréscimo decorrente do concurso, se se tratar de concurso formal perfeito."
+      },
+      {
+        "letra": "E",
+        "texto": "será calculado isoladamente em cada um dos crimes praticados, computando-se o acréscimo decorrente da continuidade, se se tratar de crime continuado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "778236",
+    "metadata": "Ano: 2017 | Banca: FGV | Órgão: ALERJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "O Código Penal, em seu artigo 107, prevê uma relação de causas de extinção de punibilidade, dentre as quais se destaca a prescrição. A doutrina tradicionalmente define prescrição como a perda pelo Estado do direito de aplicar sanção penal adequada ou de executá-la em razão do decurso do tempo. Sobre o tema, de acordo com as previsões do Código Penal e a jurisprudência majoritária do Superior Tribunal de Justiça, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o oferecimento da denúncia é causa interruptiva da prescrição;"
+      },
+      {
+        "letra": "B",
+        "texto": "o maior de 60 anos terá o prazo prescricional computado pela metade;"
+      },
+      {
+        "letra": "C",
+        "texto": "o início do cumprimento da pena interrompe o prazo da prescrição da pretensão punitiva;"
+      },
+      {
+        "letra": "D",
+        "texto": "a pronúncia é causa interruptiva da prescrição, ainda que o Tribunal do Júri venha a desclassificar o crime em sessão plenária;"
+      },
+      {
+        "letra": "E",
+        "texto": "a prescrição pela pena aplicada, depois do trânsito em julgado para a acusação, independentemente da data do crime, não poderá ter por base período anterior ao recebimento da denúncia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "778060",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TRE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Paulo, quando tinha 20 anos de idade, após ser abordado em uma blitz da polícia rodoviária federal na Rodovia Presidente Dutra, no dia 1º de Junho de 2010, oferece R$ 1.000,00, em dinheiro, para o policial responsável pela abordagem para não ser autuado por excesso de velocidade. Paulo é conduzido ao Distrito Policial, preso em flagrante, e acaba beneficiado pela Justiça sendo colocado em liberdade após pagamento de fiança. Encerrado o inquérito Policial, a denúncia em desfavor de Paulo, pelo crime de corrupção ativa, é recebida no dia 15 de Julho de 2014. O processo tramita regularmente e Paulo é condenado a cumprir pena de 2 anos de reclusão, em regime inicial aberto, por sentença publicada em 14 de Agosto de 2016. A sentença transita em julgado. Ricardo, advogado de Paulo, postula ao Magistrado competente para a execução da sentença o reconhecimento da prescrição. Neste caso, de acordo com o Código Penal, a prescrição da pretensão punitiva estatal ocorre em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 anos e a pena cominada ao réu, Paulo, não está prescrita, cabendo a ele cumprir regularmente sua pena."
+      },
+      {
+        "letra": "B",
+        "texto": "4 anos e a pena cominada ao réu, Paulo, não está prescrita, cabendo a ele cumprir regularmente sua pena."
+      },
+      {
+        "letra": "C",
+        "texto": "3 anos e a pena cominada ao réu, Paulo, está prescrita em decorrência do decurso do prazo superior a 3 anos entre a data do crime e do recebimento da denúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "4 anos e a pena cominada ao réu, Paulo, está prescrita em decorrência do decurso do prazo entre a data do crime e do recebimento da denúncia."
+      },
+      {
+        "letra": "E",
+        "texto": "2 anos e a pena cominada ao réu, Paulo, está prescrita em decorrência do decurso do prazo entre a data do recebimento da denúncia e a publicação da sentença condenatória."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "777886",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: TRE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Moisés respondeu processo por crime de corrupção ativa cometido no dia 30 de Setembro de 2010, quando tinha 66 anos de idade. A denúncia oferecida pelo Ministério Público em 16 de Outubro de 2014 é recebida pelo Magistrado competente no dia 18 de Outubro do mesmo ano de 2014. O processo tramita regularmente e Moisés é condenado a cumprir pena de 2 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 dias-multa por sentença proferida em 25 de Abril de 2016 e publicada no dia 27 do mesmo mês e ano. Não houve interposição de recurso pelas partes e é certificado o trânsito em julgado. No caso hipotético apresentado, a prescrição da pretensão punitiva estatal regula-se pela pena aplicada ao réu Moisés e verifica-se em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "02 anos, devendo ser extinta a punibilidade do réu diante do decurso deste prazo entre a data do crime e do recebimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "04 anos, devendo ser extinta a punibilidade do réu diante do decurso deste prazo entre a data do crime e do recebimento da denúncia."
+      },
+      {
+        "letra": "C",
+        "texto": "01 ano e 06 meses, devendo ser extinta a punibilidade do réu diante do decurso deste prazo entre a data do crime e do recebimento da denúncia e entre a data do recebimento da denúncia e da publicação da sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "03 anos, devendo ser extinta a punibilidade do réu diante do decurso deste prazo entre a data do crime e do recebimento da denúncia."
+      },
+      {
+        "letra": "E",
+        "texto": "02 anos e o réu deverá cumprir integralmente a sua pena, não sendo o caso de extinção da sua punibilidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "650540",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória",
+      "Prescrição no processo do Tribunal do Juri"
+    ],
+    "enunciado_principal": "A respeito da prescrição penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o tribunal do júri venha a desclassificar o crime para outro que não seja de sua competência, a pronúncia não deverá ser considerada como causa interruptiva da prescrição."
+      },
+      {
+        "letra": "B",
+        "texto": "A reincidência penal caracteriza causa interruptiva do prazo da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Para crimes praticados em 2016, a prescrição retroativa deverá ser regulada pela pena aplicada, tendo-se por termo inicial data anterior à da denúncia ou da queixa."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo de prescrição da pretensão executória deverá iniciar-se no dia em que transitar em julgado a sentença condenatória para a acusação, ainda que haja recurso exclusivo da defesa em tramitação contra a sentença condenatória."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de revogação do livramento condicional, a prescrição deverá ser regulada pelo total da pena aplicada na sentença condenatória, não se considerando o tempo de cumprimento parcial da reprimenda antes do deferimento do livramento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "628801",
+    "metadata": "Ano: 2016 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Causas de Extinção da Punibilidade - Noções gerais",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Considere as afirmações abaixo, sobre extinção da punibilidade. I - É taxativo o rol das causas de extinção da punibilidade previsto no artigo 107 do Código Penal. II - No caso de crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão, conforme dispõe o Código Penal. III - Agente, reincidente, com 20 anos à data do fato criminoso ocorrido em 14 de março de 2007, foi denunciado como incurso nas penas do artigo 157, caput, do Código Penal. A denúncia foi recebida em 10 de dezembro de 2007 e até 14 de dezembro de 2015 não havia sido prolatada a sentença. Diante disso, pode-se afirmar que ocorreu a prescrição da pretensão punitiva, considerada a pena abstratamente cominada à infração. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "620486",
+    "metadata": "Ano: 2016 | Banca: FGV | Órgão: CODEBA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "No dia 11/01/2010, Jean, nascido em 11/01/1992, praticou um crime de furto simples, razão pela qual foi denunciado como incurso nas sanções do Art. 155, caput, do Código Penal. Em 25/01/2010, foi a inicial acusatória recebida, não sendo cabível a suspensão condicional do processo. Após o regular processamento do feito, diante da confissão de Jean, foi o mesmo condenado à pena mínima de um ano de reclusão, sendo a sentença condenatória publicada em 01/03/2012 e transitando em julgado. Jean dá início ao cumprimento da pena em 02/01/2014. Considerando a situação exposta, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorreu a prescrição da pretensão punitiva do Estado, devendo ser reconhecida a extinção da punibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A condenação foi indevida, pois Jean não era imputável na data dos fatos."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorreu a prescrição da pretensão executória do Estado, devendo ser reconhecida a extinção da punibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Não ocorreu a extinção da punibilidade, pois não foi ultrapassado o prazo de quatro anos entre os marcos interruptivos da prescrição."
+      },
+      {
+        "letra": "E",
+        "texto": "Não ocorreu a extinção da punibilidade, pois não foi ultrapassado o prazo de três anos entre os marcos interruptivos da prescrição."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "588518",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "A denominada prescrição retroativa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não afasta a reincidência se, depois de declarada em processo anterior, o acusado vier a ser condenado por crime posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser reconhecida em segunda instância, caso verificada entre a data de recebimento da denúncia e a de publicação da sentença condenatória, sem necessidade de apreciação de apelação interposta pelo Ministério Público, se postulada por este apenas a alteração do regime prisional imposto."
+      },
+      {
+        "letra": "C",
+        "texto": "é modalidade de prescrição da pretensão punitiva e o respectivo prazo deve ser aumentado de 1/3 (um terço), se o condenado for reincidente."
+      },
+      {
+        "letra": "D",
+        "texto": "deve ser calculada com base no total da pena, se reconhecida a continuidade delitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "não pode ser reconhecida entre a pronúncia e a decisão que a confirmar em grau de recurso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "511215",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Interrupção e suspensão da contagem dos prazos prescricionais",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Segundo entendimento sumulado dos Tribunais Superiores,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o período de suspensão do prazo prescricional, no caso do art. 366 do CPP, é regulado pelo máximo da pena cominada."
+      },
+      {
+        "letra": "B",
+        "texto": "a prescrição pela pena em concreto é somente da pretensão punitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "a prescrição da ação penal regula-se pelo máximo da pena cominada, quando não há recurso da acusação."
+      },
+      {
+        "letra": "D",
+        "texto": "a reincidência influi no prazo da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "456591",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Crime continuado",
+      "Penas privativas de liberdade",
+      "Noções gerais de dosimetria da pena privativa de liberdade",
+      "Fixação do regime inicial da pena privativa de liberdade",
+      "Modalidades das Penas Restritivas de Direito",
+      "Suspensão condicional da pena. Concessão.",
+      "Suspensão condicional da pena. Revogação.",
+      "Medida de segurança",
+      "Conceito de Medida de Segurança",
+      "Espécies de Medida de Segurança",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Perdão judicial"
+    ],
+    "enunciado_principal": "Com base em súmulas do STF, STJ e TJDFT, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mesmo quando a pena base for fixada no mínimo legal, a gravidade abstrata do delito determinará regime prisional mais gravoso que o cabível em decorrência da pena aplicada."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao réu que responda por crime continuado é vedada a aplicação do benefício da suspensão condicional do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ainda que apenas a defesa tenha recorrido de sentença condenatória, poderá ser aplicada, em segunda instância, medida de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao ser proferida sentença concessiva do perdão judicial, será extinta a punibilidade do agente, mas subsistirão os efeitos condenatórios da sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "O prazo de prescrição da pretensão punitiva não é afetado pelo fato de o réu em questão ser reincidente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "361240",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição no processo do Tribunal do Juri"
+    ],
+    "enunciado_principal": "De acordo com entendimento sumulado do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prescrição não é aplicável nas medidas socioeducativas."
+      },
+      {
+        "letra": "B",
+        "texto": "O período de suspensão do prazo prescricional não é regulado pelo máximo da pena cominada."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética."
+      },
+      {
+        "letra": "D",
+        "texto": "A reincidência não influi no prazo da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "E",
+        "texto": "A pronúncia não é causa interruptiva da prescrição, ainda que o Tribunal do Júri venha a desclassificar o crime."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "542791",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Prescrição da pretensão executória"
+    ],
+    "enunciado_principal": "No que se refere às causas de exclusão de ilicitude e à prescrição, julgue o seguinte item.A detração é considerada para efeito da prescrição da pretensão punitiva, não se estendendo aos cálculos relativos à prescrição da pretensão executória.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "470159",
+    "metadata": "Ano: 2013 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Penas privativas de liberdade",
+      "Detração penal",
+      "Pena de multa",
+      "Conceito e Características da Pena de Multa",
+      "Espécies de Pena de Multa",
+      "Dosimetria",
+      "Ação penal",
+      "Ação penal no crime de lesão corporal",
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição da pretensão punitiva pela pena em concreto",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades",
+      "Lesões corporais qualificadas",
+      "Violência doméstica",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Sujeito teve decretada a prisão preventiva na ação penal em que lhe foi imputada a prática de roubo qualificado, possuindo ele ainda outra ação penal por lesão corporal grave contra a sua companheira e uma terceira por porte ilegal de arma de fogo. Os dois primeiros julgamentos foram designados para a mesma data e o magistrado, a pedido da acusação, absolveu inicialmente Sujeito da prática do roubo. Caso ele venha a ser condenado pela agressão à companheira, o tempo em que esteve preso, preventivamente, deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "levado em conta na sentença condenatória da lesão corporal grave e funcionar como causa de redução da pena para incidência da prescrição da pretensão punitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "considerado apenas para eventual pedido de indenização no juízo cível."
+      },
+      {
+        "letra": "C",
+        "texto": "levado em conta para fins de detração na execução da sanção penal a ser cumprida."
+      },
+      {
+        "letra": "D",
+        "texto": "calculado como dias remidos e subtraído do montante da pena imposta."
+      },
+      {
+        "letra": "E",
+        "texto": "observado pelo juízo criminal na sentença condenatória para cálculo da prestação de serviços à comunidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "357030",
+    "metadata": "Ano: 2013 | Banca: MPE-MG | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em concreto"
+    ],
+    "enunciado_principal": "Considere a seguinte situação: Um jovem nascido em 1985, reincidente na prática delitiva, foi denunciado por furto, em sua figura básica, no dia 8 de outubro de 2007, por fato cometido em 15 de agosto de 2005. A denúncia foi recebida em 22 de outubro de 2007 e, em 18 de agosto de 2009, foi publicada decisão condenatória, que aplicou ao acusado a pena de 1 (um) ano de reclusão e 10 (dez) dias-multa, na fração diária mínima, sem que recurso houvesse por qualquer das partes. Levando-se em conta que, logo após a intimação da decisão condenatória, ocorrida em 20 de agosto de 2009, o sentenciado empreendeu fuga, assinale a ALTERNATIVA CORRETA. Para tanto, o candidato deverá levar em conta que o trânsito em julgado para a acusação ocorreu em 9 de setembro de 2009 e na data de 23 de abril de 2013 o acusado foi capturado em razão da existência de mandado de prisão em aberto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deverá ser reconhecida a prescrição retroativa, considerando-se o lapso temporal transcorrido entre a data do fato e a do recebimento da denúncia."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vez não ocorrida a prescrição da pretensão punitiva do Estado, deverá ser reconhecida a prescrição da pretensão executória estatal."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma vez não ocorrida qualquer prescrição, deverá o sentenciado cumprir a pena que lhe foi imposta."
+      },
+      {
+        "letra": "D",
+        "texto": "Deverá ser reconhecida a prescrição intercorrente."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1810857",
+    "metadata": "Ano: 2021 | Banca: IDECAN | Órgão: PC-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Culpabilidade",
+      "Medida de segurança",
+      "Inimputabilidade decorrente de dependência química",
+      "Legislação Penal Especial",
+      "Lei de Tóxicos – Lei nº 11.343 de 2006",
+      "Imputabilidade penal"
+    ],
+    "enunciado_principal": "O dependente químico severo, comprovado por laudo pericial, que, para poder comprar substância entorpecente a fim de satisfazer seu vício, pratica conduta descrita em tipo penal de furto, poderá arguir em sua defesa excludente de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ilicitude pela inexigibilidade de conduta diversa."
+      },
+      {
+        "letra": "B",
+        "texto": "tipicidade pela ausência de dolo."
+      },
+      {
+        "letra": "C",
+        "texto": "culpabilidade pela coação moral irresistível."
+      },
+      {
+        "letra": "D",
+        "texto": "culpabilidade pela inimputabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "ilicitude pelo estado de necessidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "592484",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Medida de segurança",
+      "Distinções entre a pena e a medida de segurança",
+      "Prazo de duração",
+      "Superveniência de doença mental",
+      "Inimputabilidade decorrente de dependência química"
+    ],
+    "enunciado_principal": "Com relação à aplicação da pena, à medida de segurança e ao instituto da prescrição, julgue o item que se segue. Segundo o entendimento pacificado do STJ, a execução de medida de segurança perdurará enquanto não cessar a periculosidade do inimputável, sujeitando-se, independentemente do delito, ao tempo máximo de duração de trinta anos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

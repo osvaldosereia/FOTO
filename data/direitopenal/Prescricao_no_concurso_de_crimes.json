@@ -1,0 +1,217 @@
+[
+  {
+    "id": "1866694",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PGE-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "A respeito da prescrição em matéria penal, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tal prescrição constitui causa extintiva de punibilidade e a sentença que a declara extingue os efeitos penais e extrapenais da condenação."
+      },
+      {
+        "letra": "B",
+        "texto": "Antes de transitar em julgado a sentença condenatória, o prazo prescricional do crime de falsificação ou alteração de assentamento de registro civil começa a correr da data em que o fato se tornou conhecido."
+      },
+      {
+        "letra": "C",
+        "texto": "O cálculo da prescrição em abstrato leva em consideração a sanção máxima cominada ao delito, no que se incluem as causas de aumento e diminuição da pena, bem como todas as agravantes e as atenuantes."
+      },
+      {
+        "letra": "D",
+        "texto": "O aumento da pena decorrente do reconhecimento da continuidade delitiva interfere no cálculo do prazo prescricional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1839601",
+    "metadata": "Ano: 2019 | Banca: EJUD-PI | Órgão: TJ-PI",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Sanções penais",
+      "Causas de extinção da punibilidade",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "Assinale a assertiva verdadeira:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transitada em julgado a sentença condenatória, compete ao Juízo das Execuções, e não ao juízo da condenação, a aplicação de novatio legis in mellius."
+      },
+      {
+        "letra": "B",
+        "texto": "Cominadas, cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é possível a substituição da prisão por multa."
+      },
+      {
+        "letra": "C",
+        "texto": "Não é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais."
+      },
+      {
+        "letra": "D",
+        "texto": "A prescrição da ação penal se regula pela pena concretizada na sentença, inobstante haver recurso da acusação."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando se tratar de crime continuado, a prescrição se regula pela pena imposta na sentença, computando-se o acréscimo decorrente da continuação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1006903",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "Acerca da ação penal, das causas extintivas da punibilidade e da prescrição, julgue o seguinte item.Nos casos de concurso formal ou de continuidade delitiva, a extinção da punibilidade pela prescrição regula-se pela pena imposta a cada um dos crimes isoladamente, afastando o acréscimo decorrente dos respectivos aumentos de pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "987308",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Anistia, graça e indulto",
+      "Prazos prescricionais e forma de contagem dos prazos",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "Acerca de punibilidade e de suas causas de extinção, assinale a opção correta de acordo com a jurisprudência dos tribunais superiores.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As escusas absolutórias são formuladas de modo positivo, e a sua presença afasta a punibilidade do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos delitos de punibilidade condicionada, o termo inicial da prescrição não começa a correr a partir do dia em que o crime tenha se consumado."
+      },
+      {
+        "letra": "C",
+        "texto": "Às medidas de segurança não se aplica a incidência do indulto por não serem elas espécie de pena em sentido estrito."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao magistrado que conduza a ação penal lançar a decisão judicial que reconheça a anistia e declare a extinção da punibilidade, mesmo quando a ação penal estiver no tribunal."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes conexos, a prescrição e a consequente extinção de punibilidade de um dos crimes alcançam a majorante da pena resultante da conexão e incidente no(s) outro(s) crime(s)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "840606",
+    "metadata": "Ano: 2017 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado",
+      "Causas de extinção da punibilidade",
+      "Prescrição. Conceito e modalidades",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "No concurso de crimes, cuidando-se de infrações de espécies diversas cometidos por condutas distintas, ambas com violência física real, dos institutos legais abaixo em princípio pode-se postular em favor do imputado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concurso formal heterogêneo."
+      },
+      {
+        "letra": "B",
+        "texto": "concurso formal impróprio."
+      },
+      {
+        "letra": "C",
+        "texto": "crime continuado genérico."
+      },
+      {
+        "letra": "D",
+        "texto": "crime continuado específico."
+      },
+      {
+        "letra": "E",
+        "texto": "prescrição isoladamente considerada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "818952",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição da pretensão punitiva pela pena em abstrato",
+      "Prescrição no concurso de crimes",
+      "Perdão do ofendido",
+      "Retratação do agente"
+    ],
+    "enunciado_principal": "Sobre extinção da punibilidade, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, com 19 anos, pratica o crime de peculato (CP, art. 312, caput – pena: de 2 a 12 anos de reclusão, e multa), na forma tentada (CP, art. 14, inciso II, parágrafo único – diminuição de pena: de um a dois terços): a prescrição da pretensão punitiva pela pena em abstrato ocorre em 8 (oito) anos."
+      },
+      {
+        "letra": "B",
+        "texto": "A reincidência pode influir no prazo da prescrição da pretensão punitiva, mas não pode influir no prazo da prescrição da pretensão executória."
+      },
+      {
+        "letra": "C",
+        "texto": "B, mediante auxílio do adolescente A, pratica o crime de lesões corporais leves (CP, art. 129, caput), em concurso formal com o crime de corrupção de menores (Lei nº 8.069/90, art. 244-B): a prescrição da pretensão punitiva pela pena em abstrato do crime de lesões corporais leves afasta a possibilidade de imputação, a B, do crime de corrupção de menores."
+      },
+      {
+        "letra": "D",
+        "texto": "A e B, em concurso de agentes, praticam o crime de difamação (CP, art. 139) contra C e D: o perdão do ofendido, concedido pelos querelantes C e D em favor de A, aproveita a B, e o perdão do ofendido, concedido somente pelo querelante C em favor de A e B, não obsta o direito do querelante D de prosseguir na ação penal privada contra A e B."
+      },
+      {
+        "letra": "E",
+        "texto": "No Código Penal, a retratação do agente é admissível a crimes de ação penal privada, como a calúnia (CP, art. 138) e a difamação (CP, art. 139), mas não é admissível a crimes de ação penal pública incondicionada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "467362",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Causas de extinção da punibilidade",
+      "Prescrição no concurso de crimes"
+    ],
+    "enunciado_principal": "Com relação ao concurso de crimes, julgue o seguinte item.O cálculo da prescrição da pretensão punitiva no concurso de crimes é feito isoladamente para cada um dos crimes praticados, desconsiderando-se o acréscimo decorrente do concurso formal ou material ou da continuidade delitiva.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

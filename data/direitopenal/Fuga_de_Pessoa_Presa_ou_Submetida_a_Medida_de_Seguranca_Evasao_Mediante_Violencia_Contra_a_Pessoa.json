@@ -1,0 +1,591 @@
+[
+  {
+    "id": "3028725",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Luiz encontra-se preso, preventivamente, em um presídio federal de segurança máxima. Em razão de uma falha nos procedimentos de segurança do estabelecimento, João logrou êxito em fugir, sem auxílio de terceiros e sem empregar violência ou grave ameaça contra pessoa. Contudo, quando estava a dez metros do muro externo da penitenciária, dois policiais penais de plantão conseguiram capturá-lo, sem qualquer tipo de resistência. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Luiz:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não responderá por qualquer crime, pois a legislação tipifica, apenas, a fuga consumada do preso, não verificada no caso apresentado;"
+      },
+      {
+        "letra": "B",
+        "texto": "não responderá por qualquer crime, em razão da atipicidade formal da conduta;"
+      },
+      {
+        "letra": "C",
+        "texto": "responderá pelo crime de fuga de pessoa presa, na modalidade consumada;"
+      },
+      {
+        "letra": "D",
+        "texto": "responderá pelo crime de fuga de pessoa presa, na modalidade tentada;"
+      },
+      {
+        "letra": "E",
+        "texto": "responderá pelo crime de arrebatamento de preso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2388750",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Carlos, policial militar, em policiamento ostensivo, deu ordem legal de parada ao veículo dirigido por Marcos, que tinha acabado de praticar um roubo. Mesmo recebendo a ordem de parada do policial, Marcos saiu em fuga, tendo sido capturado posteriormente. Na situação hipotética apresentada, conforme o entendimento do STJ, Marcos praticou",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "roubo, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "roubo em concurso com o crime de desacato."
+      },
+      {
+        "letra": "C",
+        "texto": "roubo em concurso com o crime de resistência."
+      },
+      {
+        "letra": "D",
+        "texto": "roubo em concurso com o crime de desobediência."
+      },
+      {
+        "letra": "E",
+        "texto": "roubo em concurso com o crime de evasão mediante violência contra a pessoa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2281725",
+    "metadata": "Ano: 2023 | Banca: IBFC | Órgão: IAPEN-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Falso Testemunho ou Falsa Perícia. Corrupção Ativa de Testemunha ou Perito",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Com base no Código Penal e em suas alterações, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) As penas do falso testemunho ou falsa perícia são aumentadas de um sexto a um terço se o crime for praticado mediante suborno ou se cometido com o fim de obter prova destinada a produzir efeito em processo penal, ou em processo civil em que for parte entidade da administração pública direta ou indireta. ( ) O falso testemunho ou falsa perícia deixa de ser punível se, a qualquer momento, o agente se retrata ou declara a verdade. ( ) O crime de evasão mediante violência contra a pessoa, previsto no artigo 352, do Código Penal, pune da mesma forma as figuras consumada e tentada. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F - V - F"
+      },
+      {
+        "letra": "B",
+        "texto": "V - F - V"
+      },
+      {
+        "letra": "C",
+        "texto": "V - V - F"
+      },
+      {
+        "letra": "D",
+        "texto": "F - F - V"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2215819",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Câmara de Santa Bárbara D'Oeste - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Com relação às descrições típicas que compõem todas as ações humanas previstas no art. 351 do CP (fuga de pessoa presa ou submetida à medida de segurança), é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todos elas preveem a utilização de arma de fogo."
+      },
+      {
+        "letra": "B",
+        "texto": "só se configura o delito em questão se ocorrer violência ou grave ameaça."
+      },
+      {
+        "letra": "C",
+        "texto": "a pena é aumentada caso o preso sofra lesão grave ou morra durante a fuga."
+      },
+      {
+        "letra": "D",
+        "texto": "o funcionário público incumbido da custódia do preso não é punido em caso de conduta culposa."
+      },
+      {
+        "letra": "E",
+        "texto": "há possibilidade de aplicação de pena de detenção ou reclusão, a depender da gravidade da conduta."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1995140",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Os crimes são em regra dolosos. Assinale a alternativa que admite a forma culposa em relação aos crimes contra a administração da justiça.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peculato"
+      },
+      {
+        "letra": "B",
+        "texto": "Comunicação falsa de crime ou de contravenção"
+      },
+      {
+        "letra": "C",
+        "texto": "Auto-acusação falsa"
+      },
+      {
+        "letra": "D",
+        "texto": "Fuga de pessoa presa ou submetida a medida de segurança"
+      },
+      {
+        "letra": "E",
+        "texto": "Favorecimento real"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1777478",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: DEPEN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Com relação a crimes contra a administração pública, julgue o item que se segue. O Código Penal dispõe a mesma pena em abstrato tanto para um preso que efetivamente consiga evadir-se de estabelecimento carcerário quanto para um que apenas tente, mas não consiga, evadir-se.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "896385",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Lesões corporais",
+      "Lesão corporal leve e culposa",
+      "Crimes contra a administração pública",
+      "Comunicação falsa de crime ou de contravenção. Autoacusação falsa",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Patrocínio infiel. Patrocínio simultâneo ou tergiversação"
+    ],
+    "enunciado_principal": "É certo afirmar: I. Em que pese compreender doutrina e jurisprudência que a liberdade é um direito inerente ao ser humano, constitui-se crime a evasão do sistema prisional, devidamente tipificado na Lei de Execuções Penais, independendo se tratar de preso definitivo ou provisório. II. A “Auto-acusação falsa” pode ser classificada como crime formal (que não exige resultado naturalístico para sua consumação); comum (que não exige qualidade ou condição especial do sujeito); de forma livre (que pode ser praticado por qualquer meio ou forma pelo agente); instantâneo (não há demora entre a ação e o resultado); unissubjetivo (que pode ser praticado por um agente apenas); plurissubsistente (que, em regra, pode ser praticado com mais de um ato, admitindo-se, em consequência, fracionamento em sua execução). III. Além das hipóteses do Código Penal e da legislação especial, dependerá de representação a ação penal relativa aos crimes de lesões corporais leves e lesões culposas. IV. Considera-se “tergiversação”, trair, na qualidade de advogado ou procurador, o dever profissional, prejudicando interesse, cujo patrocínio, em juízo, lhe é confiado. Analisando as proposições, pode-se afirmar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e III estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "894660",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Favorecimento pessoal",
+      "Favorecimento real",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Jorge, de origem humilde, atua como Oficial de Justiça em determinado Tribunal de Justiça. Quando cumpria ordem de busca e apreensão na comunidade em que nasceu, viu, de longe, que seu irmão dispensou uma sacola plástica com grande quantidade de drogas, empurrou um policial militar e tentava empreender fuga e evitar o flagrante de crime de tráfico, crime este punido com pena mínima de cinco anos de reclusão. Diante disso, quando seu irmão corre em sua direção, o auxilia, escondendo-o dentro de seu veículo particular, enquanto continua a cumprir o mandado pendente. Descobertos os fatos, considerando apenas a situação narrada, o ato de Jorge configura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crime de evasão mediante violência contra a pessoa;"
+      },
+      {
+        "letra": "B",
+        "texto": "conduta típica, mas não punível;"
+      },
+      {
+        "letra": "C",
+        "texto": "crime de favorecimento pessoal;"
+      },
+      {
+        "letra": "D",
+        "texto": "crime de favorecimento real;"
+      },
+      {
+        "letra": "E",
+        "texto": "conduta atípica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "854568",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Julgue o item subsequente, relativo a crimes contra a administração pública. Situação hipotética: Enquanto aguardava a audiência de custódia, um indivíduo preso em flagrante pelo delito de tráfico internacional de drogas pediu para ir ao banheiro. Por descuido dos agentes, quebrou uma janela e, mediante grave ameaça, conseguiu fugir. Assertiva: Nessa situação, a evasão do preso é considerada atípica, pois ocorreu violência apenas contra a coisa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "693241",
+    "metadata": "Ano: 2016 | Banca: FEPESE | Órgão: SJC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta acerca do crime de fuga de pessoa presa ou submetida a medida de segurança.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por ser crime próprio, somente poderá ser praticado por agente público no exercício da função."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando houver emprego de violência contra pessoa, aplica-se também a pena do crime de abuso de autoridade."
+      },
+      {
+        "letra": "C",
+        "texto": "Se praticado por agente público no exercício da função, poderá o juiz aplicar o perdão judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime será apenado com detenção ou multa, em caso de culpa do funcionário incumbido da custódia ou guarda."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime estará caracterizado quando o preso ou o indivíduo submetido a medida de segurança detentiva tentar evadir-se do local de custódia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "577644",
+    "metadata": "Ano: 2015 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "“Héracles\", cumprindo pena, na Penitenciária do Distrito Federal, pela prática de crime cometido há três anos, já com sentença transitada em julgado, tentou se evadir, agredindo, na ocasião, um agente penitenciário com um soco, causando-lhe lesões corporais graves, mas sendo contido e levado de volta à cela quando estava em cima do muro, prestes a pular para o lado de fora. É CORRETO afirmar que “Héracles\":",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Responde por crime de evasão mediante violência contra a pessoa e também por crime de lesões corporais graves, nesse último caso, se houver representação da vítima."
+      },
+      {
+        "letra": "B",
+        "texto": "Responde somente por crime de evasão mediante violência contra a pessoa, na forma tentada, mas com aplicação de circunstância agravante, na dosagem da pena, por causa da violência empregada."
+      },
+      {
+        "letra": "C",
+        "texto": "Tem direito à aplicação de uma causa de diminuição de pena, referente à tentativa, quanto ao crime de evasão mediante violência contra a pessoa."
+      },
+      {
+        "letra": "D",
+        "texto": "Tem direito à transação penal, quanto a(os) delito(s) praticado(s) durante a tentativa de fuga."
+      },
+      {
+        "letra": "E",
+        "texto": "Responde por falta disciplinar de natureza grave, ainda que a fuga não tenha sido consumada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "525919",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Desacato",
+      "Exercício arbitrário ou abuso de poder",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Arrebatamento de Presos. Motim de Presos",
+      "Patrocínio infiel. Patrocínio simultâneo ou tergiversação"
+    ],
+    "enunciado_principal": "Entre os crimes tipificados contra a Administração da justiça, NÃO se inclui o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "patrocínio simultâneo ou tergiversação."
+      },
+      {
+        "letra": "B",
+        "texto": "exercício arbitrário ou abuso de poder."
+      },
+      {
+        "letra": "C",
+        "texto": "fuga de pessoa presa ou submetida a medida de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "motim de presos."
+      },
+      {
+        "letra": "E",
+        "texto": "desacato."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "434438",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRE-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Favorecimento real",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Arrebatamento de Presos. Motim de Presos"
+    ],
+    "enunciado_principal": "João e José invadiram um presídio e, mediante grave ameaça com armas de fogo, dominaram o carcereiro e os seguranças e possibilitaram a fuga de seu comparsa Jocival, que estava legalmente preso cumprindo pena privativa de liberdade, para que o mesmo voltasse a auxiliá-los na prática de novos delitos. João e José responderão por crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "arrebatamento de preso."
+      },
+      {
+        "letra": "B",
+        "texto": "evasão mediante violência contra pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "fuga de pessoa presa."
+      },
+      {
+        "letra": "D",
+        "texto": "motim de presos."
+      },
+      {
+        "letra": "E",
+        "texto": "favorecimento real."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "305407",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Concussão e Excesso de Exação",
+      "Corrupção passiva",
+      "Corrupção ativa",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "O agente penitenciárioMauro agenciou a fuga de três pessoas que cumpriam medida de segurança imposta pelo Juiz criminal nomanicômio judiciário em que era lotado. Para tanto, Mauro recebeu um carro, uma casa e vinte mil reais em dinheiro. Portanto, Mauro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deve responder por crime algum, pois se trata de cumprimento demedida de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "deve responder pelo crime de facilitação de fuga, preceituado no artigo 351 do CP."
+      },
+      {
+        "letra": "C",
+        "texto": "deve responder pelo crime de corrupção ativa, preceituado no artigo 333 do CP."
+      },
+      {
+        "letra": "D",
+        "texto": "deve responder pelo crime de corrupção passiva, preceituado no artigo 317 do CP."
+      },
+      {
+        "letra": "E",
+        "texto": "deve responder pelo crime de concussão, preceituado no artigo 316 do CP."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "261684",
+    "metadata": "Ano: 2012 | Banca: FEC | Órgão: PC-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Favorecimento pessoal",
+      "Favorecimento real",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa"
+    ],
+    "enunciado_principal": "Rogério, conhecido traficante do Morro do Bem-te-vi, foge da cadeia e busca auxílio para sair do Estado com seu irmão, Rafael. Este tenta ajudá-lo a fugir, levando-o no porta-malas do carro, mas ambos são presos na divisa com Minas Gerais. Rafael praticou o crime de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "favorecimento pessoal, mas é isento de pena por ser irmão de Rogério."
+      },
+      {
+        "letra": "B",
+        "texto": "favorecimento pessoal."
+      },
+      {
+        "letra": "C",
+        "texto": "favorecimento real, mas é isento de pena por ser irmão de Rogério."
+      },
+      {
+        "letra": "D",
+        "texto": "favorecimento real."
+      },
+      {
+        "letra": "E",
+        "texto": "fuga de pessoa presa ou submetida a medida de segurança."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "231897",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Arrebatamento de Presos. Motim de Presos"
+    ],
+    "enunciado_principal": "A respeito dos Crimes contra a Administração Pública, considere: I. O preso que foge do presídio, aproveitando-se de um descuido dos policiais, não responde por nenhum delito relacionado à sua fuga. II. A ação de várias pessoas, retirando, mediante violência, pessoa presa da guarda da escolta que o tinha sob custódia, para fins de linchamento, caracteriza o delito de arrebatamento de preso. III. A conduta do preso que permite ao seu companheiro de cela assumir sua identidade e assim se apresentar ao carcereiro encarregado de dar cumprimento a alvará de soltura, logrando êxito em fugir, não comete nenhum delito, pela ausência de grave ameaça ou violência à pessoa. Está correto o que consta SOMENTE em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I."
+      },
+      {
+        "letra": "E",
+        "texto": "I e II."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "231486",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Favorecimento pessoal",
+      "Favorecimento real",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Arrebatamento de Presos. Motim de Presos"
+    ],
+    "enunciado_principal": "José percebeu que seu conhecido João havia cometido crime de desobediência e estava fugindo a pé, sendo perseguido por policiais. Em vista disso, despistou os milicianos e colocou João no interior de seu veículo, deixando o local e impedindo, dessa forma, a prisão em flagrante deste. Nesse caso, José responderá pelo crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "favorecimento pessoal privilegiado."
+      },
+      {
+        "letra": "B",
+        "texto": "favorecimento real."
+      },
+      {
+        "letra": "C",
+        "texto": "favorecimento pessoal em seu tipo fundamental."
+      },
+      {
+        "letra": "D",
+        "texto": "arrebatamento de preso."
+      },
+      {
+        "letra": "E",
+        "texto": "facilitar a fuga de pessoa presa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "214906",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Fuga de Pessoa Presa ou Submetida a Medida de Segurança. Evasão Mediante Violência Contra a Pessoa",
+      "Arrebatamento de Presos. Motim de Presos"
+    ],
+    "enunciado_principal": "Paulus foi preso em flagrante e recolhido à cadeia pública de uma cidade do interior. No momento da alimentação, mediante violência física, dominou o carcereiro e tentou fugir, mas, na porta da delegacia, foi dominado por policiais que estavam chegando ao local. Paulus responderá por crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "arrebatamento de preso, na forma consumada."
+      },
+      {
+        "letra": "B",
+        "texto": "evasão mediante violência contra pessoa, na forma consumada."
+      },
+      {
+        "letra": "C",
+        "texto": "motim de presos, na forma consumada."
+      },
+      {
+        "letra": "D",
+        "texto": "evasão mediante violência contra pessoa, na forma tentada."
+      },
+      {
+        "letra": "E",
+        "texto": "fuga de pessoa presa, na forma tentada."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

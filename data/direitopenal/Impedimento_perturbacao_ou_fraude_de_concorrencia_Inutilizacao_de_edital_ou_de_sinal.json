@@ -1,0 +1,405 @@
+[
+  {
+    "id": "3291049",
+    "metadata": "Ano: 2025 | Banca: FAFIPA | Órgão: Prefeitura de Araucária - PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Crimes em Licitações e Contratos Administrativos"
+    ],
+    "enunciado_principal": "Considere a seguinte situação: durante um processo licitatório para a construção de uma escola pública, um dos participantes tenta impedir a realização de uma das etapas do processo, perturbando a ordem e tentando fraudar o resultado. Com base no Art. 337-I do Código Penal, de 2021, assinale a alternativa que descreve CORRETAMENTE as consequências legais para esse participante.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não haverá qualquer sanção para o participante."
+      },
+      {
+        "letra": "B",
+        "texto": "O participante poderá ser condenado a uma pena de detenção de 6 meses a 3 anos, além de multa."
+      },
+      {
+        "letra": "C",
+        "texto": "O participante poderá ser condenado a uma pena de detenção de 4 a 6 anos, além de multa, devido à gravidade da fraude."
+      },
+      {
+        "letra": "D",
+        "texto": "O participante poderá ser apenas multado, sem possibilidade de detenção, pois a perturbação de processo licitatório não é considerada um crime grave."
+      },
+      {
+        "letra": "E",
+        "texto": "O participante poderá ser advertido e excluído do processo licitatório, mas não sofrerá penalidades criminais."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2176723",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Tendo em conta o crime de inutilização de edital ou de sinal, previsto no artigo 336, do Código Penal, e o crime de subtração ou inutilização de livro ou documento, previsto no artigo 337, do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São crimes próprios de funcionários públicos, só podendo ser por eles praticados."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de inutilização de edital ou sinal será qualificado quando há violação de sinal empregado para cerrar objeto de interesse da justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "São crimes que inadmitem tentativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O crime de subtração ou inutilização de livro ou documento restará caracterizado ainda que o documento inutilizado estiver confiado a particular, desde que em serviço público."
+      },
+      {
+        "letra": "E",
+        "texto": "O crime de subtração ou inutilização de livro ou documento, se parcial a inutilização do documento, será punido de forma diminuída."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2162297",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de São Cristóvão - SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Peculato",
+      "Corrupção passiva",
+      "Desobediência",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "Admite-se a modalidade culposa no crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inutilização de edital ou de sinal."
+      },
+      {
+        "letra": "B",
+        "texto": "peculato."
+      },
+      {
+        "letra": "C",
+        "texto": "desobediência."
+      },
+      {
+        "letra": "D",
+        "texto": "corrupção passiva."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2005385",
+    "metadata": "Ano: 2022 | Banca: ADVISE | Órgão: Prefeitura de Paranatama - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta o tipo penal do crime de “Impedimento, perturbação ou fraude de concorrência” de acordo com o Código Penal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Impedir, perturbar ou fraudar concorrência pública ou venda em hasta pública, promovida pela administração federal, estadual ou municipal, ou por entidade paraestatal; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por ordem de funcionário público; violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para identificar ou cerrar qualquer objeto."
+      },
+      {
+        "letra": "C",
+        "texto": "Subtrair, ou inutilizar, total ou parcialmente, livro oficial, processo ou documento confiado à custódia de funcionário, em razão de ofício, ou de particular em serviço público."
+      },
+      {
+        "letra": "D",
+        "texto": "Suprimir ou reduzir contribuição social previdenciária e qualquer acessório, mediante as seguintes condutas."
+      },
+      {
+        "letra": "E",
+        "texto": "Importar ou exportar, mercadoria proibida."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1697985",
+    "metadata": "Ano: 2020 | Banca: IPEFAE | Órgão: Prefeitura de Águas da Prata - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "Assinale a alternativa que contém equívoco.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Configura o crime de Modificação ou alteração não autorizada de sistema de informações, a conduta de modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime de Excesso de exação se configura se o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza."
+      },
+      {
+        "letra": "C",
+        "texto": "No crime de Corrupção Passiva, a pena é aumentada de um terço, se, em consequência da vantagem ou promessa, o funcionário retarda ou deixa de praticar qualquer ato de ofício ou o pratica infringindo dever funcional."
+      },
+      {
+        "letra": "D",
+        "texto": "A conduta de Impedir, perturbar ou fraudar concorrência pública ou venda em hasta pública, promovida pela administração federal, estadual ou municipal, ou por entidade paraestatal; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem configura crime apenado com reclusão, de dois a oito anos, ou multa, além da pena correspondente à violência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "878648",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Usurpação de função pública",
+      "Corrupção ativa",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Tráfico de influência"
+    ],
+    "enunciado_principal": "A respeito dos crimes praticados por particulares contra a administração, em geral (arts. 328; 329; 330; 331; 332; 333; 335; 336 e 337 do CP), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crime de desacato não se configura se o funcionário público não estiver no exercício da função, ainda que o desacato seja em razão dela."
+      },
+      {
+        "letra": "B",
+        "texto": "Para se configurar, o crime de usurpação de função pública exige que o agente, enquanto na função, obtenha vantagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Para se configurar, o crime de corrupção ativa exige o retardo ou a omissão do ato de ofício, pelo funcionário público, em razão do recebimento ou promessa de vantagem indevida."
+      },
+      {
+        "letra": "D",
+        "texto": "Aquele que se abstém de licitar em hasta pública, em razão de vantagem indevida, não é punido pelo crime de impedimento, perturbação ou fraude de concorrência, já que se trata de conduta atípica."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há previsão de modalidade culposa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "826518",
+    "metadata": "Ano: 2017 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "O crime de “impedimento, perturbação ou fraude de concorrência”, do art. 335 do CP, está assim definido: “impedir, perturbar ou fraudar concorrência pública ou venda em hasta pública, promovida pela administração federal, estadual ou municipal, ou por entidade paraestatal; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem.” Incorre na mesma pena estabelecida para o crime citado, nos termos do parágrafo único do mesmo artigo, quem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sabendo da ocorrência do fato não o denuncia às autoridades públicas."
+      },
+      {
+        "letra": "B",
+        "texto": "sendo agente público homologa certame sabendo-o fraudado."
+      },
+      {
+        "letra": "C",
+        "texto": "se abstém de concorrer ou licitar, em razão da vantagem oferecida."
+      },
+      {
+        "letra": "D",
+        "texto": "sendo agente público deixa de inabilitar concorrente sabendo-o fraudador."
+      },
+      {
+        "letra": "E",
+        "texto": "faz proposta em certame licitatório que, posteriormente, deixa de cumprir."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "510213",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: Prefeitura de Goianésia - GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Receptação",
+      "Crimes contra a administração pública",
+      "Contrabando",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "Segundo o Código Penal, quem adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria de procedência estrangeira, desacompanhada de documentação legal, ou acompanhada de documentos que sabe serem falsos, incorre na mesma pena do crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "receptação qualificada."
+      },
+      {
+        "letra": "B",
+        "texto": "contrabando ou descaminho."
+      },
+      {
+        "letra": "C",
+        "texto": "impedimento, perturbação ou fraude de concorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "sonegação de contribuição previdenciária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1325703",
+    "metadata": "Ano: 2013 | Banca: Prefeitura do Rio de Janeiro - RJ | Órgão: Prefeitura de Rio de Janeiro - RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "Rasgar, inutilizar ou conspurcar edital afixado por ordem de funcionário público e violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para identificar ou cerrar qualquer objeto, são condutas que sujeitam o infrator à seguinte pena:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reclusão de um a seis anos"
+      },
+      {
+        "letra": "B",
+        "texto": "detenção de um a quatro anos"
+      },
+      {
+        "letra": "C",
+        "texto": "reclusão de oito meses a dois anos ou multa"
+      },
+      {
+        "letra": "D",
+        "texto": "reclusão de cinco a dez anos e multa"
+      },
+      {
+        "letra": "E",
+        "texto": "detenção de um mês a um ano ou multa"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "827992",
+    "metadata": "Ano: 2013 | Banca: CETRO | Órgão: ANVISA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública",
+      "Inserção de dados falsos em sistema de informações",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Descaminho"
+    ],
+    "enunciado_principal": "Quanto aos crimes contra a Administração Pública, analise as assertivas abaixo. I. Caracteriza o crime de inserção de dados falsos em sistema de informações inserir ou facilitar, qualquer funcionário público, a inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou para causar dano. II. Equipara-se a funcionário público, para efeitos penais, quem exerce cargo, emprego ou função em entidade paraestatal, e quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica da Administração Pública. III. Impedir concorrência pública, promovida por entidade paraestatal constitui crime contra a Administração Pública. IV. Iludir em parte o pagamento de imposto devido pela saída de mercadoria é considerado crime de descaminho. É correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "305569",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra o patrimônio",
+      "Estelionato",
+      "Crimes contra a fé pública",
+      "Outras falsidades",
+      "Crimes contra a administração pública",
+      "Violação de sigilo de proposta de concorrência",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal"
+    ],
+    "enunciado_principal": "Carlindo, médico, conseguiu e utilizou o conteúdo da prova do concurso público para provimento do cargo de médico do governo estadual, sendo o primeiro colocado no concurso público. Logo, Carlindo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "praticou o crime de estelionato (artigo 171 do CP)."
+      },
+      {
+        "letra": "B",
+        "texto": "praticou o crime de impedimento, perturbação ou fraude de concorrência (artigo 335 do CP)."
+      },
+      {
+        "letra": "C",
+        "texto": "praticou o crime de violação do sigilo de proposta de concorrência (artigo 326 do CP)."
+      },
+      {
+        "letra": "D",
+        "texto": "praticou o crime de fraude em certames de interesse público (artigo 311-A do CP)."
+      },
+      {
+        "letra": "E",
+        "texto": "não praticou crime."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "295615",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Crimes contra a administração pública",
+      "Corrupção ativa",
+      "Impedimento, perturbação ou fraude de concorrência. Inutilização de edital ou de sinal",
+      "Subtração ou inutilização de livro ou documento. Sonegação de contribuição previdenciária"
+    ],
+    "enunciado_principal": "É certo afirmar:I. Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por ordem de funcionário público; violar ou inutilizar selo ou sinal empregado, por determinação legal ou por ordem de funcionário público, para identificar ou cerrar qualquer objeto, constitui-se em crime de perturbação ou fraude de concorrência. II. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício se constitui em corrupção ativa. III. O crime de sonegação de contribuição previdenciária tem extinta a sua punibilidade se o agente, espontaneamente, declara e confessa as contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal. IV. Omitir informação às autoridades fazendárias, visando suprimir ou reduzir tributo, ou contribuição social e qualquer acessório, está tipificada como contravenção penal. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

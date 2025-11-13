@@ -1,0 +1,2809 @@
+[
+  {
+    "id": "3083525",
+    "metadata": "Ano: 2024 | Banca: Instituto Fênix | Órgão: Prefeitura de Rancho Queimado - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Nos termos do Código Penal, acerca do concurso de pessoas, analise as assertivas a seguir: I. Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade II. Se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço. III. Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave. Das assertivas, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva I está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I, II e III estão incorretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a assertiva III está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2483808",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Arroio do Sal - RS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Antijuridicidade",
+      "Legítima defesa",
+      "Crime preterdoloso",
+      "Participação",
+      "Efeitos da condenação",
+      "Efeito principal e efeitos secundários",
+      "Crimes contra a administração pública",
+      "Noções Gerais de Crimes Contra a Administração Pública"
+    ],
+    "enunciado_principal": "Considerando as disposições da Parte Geral do Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, os crimes contra a administração pública, por quem está a seu serviço."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se comunicam as circunstâncias e as condições de caráter pessoal, ainda que elementares do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente só responde pelo resultado que agrava especialmente a pena se o houver causado ao menos culposamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Um dos efeitos da condenação criminal é tornar certa a obrigação de indenizar o dano causado pelo crime."
+      },
+      {
+        "letra": "E",
+        "texto": "O agente que pratica fato descrito no tipo penal em legítima defesa responderá pelo excesso culposo ou doloso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2462150",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Cachoeiro de Itapemirim - ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Com base na doutrina majoritária brasileira e nas disposições do Código Penal (CP), julgue o item que se segue, em relação ao concurso de pessoas. O direito penal brasileiro faz distinção entre autor e partícipe.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2365383",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação",
+      "Cooperação dolosamente distinta",
+      "Crimes contra o patrimônio",
+      "Extorsão mediante sequestro"
+    ],
+    "enunciado_principal": "João foi convidado por Murilo para fornecer comida para um grupo de sequestradores durante o período em que a vítima, Marcela, ficaria em cativeiro. Segundo o convite de participação feito por Murilo, o grupo de criminosos pretendia manter a vítima sequestrada até a obtenção de um preço de resgate ou no máximo por uma semana, ocasião em que a libertariam mesmo sem obtenção da vantagem almejada. De qualquer forma, seria necessário alimentar todos os sequestradores e a vítima durante este período. Para isso, Murilo pagaria R$ 200,00 (duzentos reais) por dia a João, independentemente de o preço de resgate ser efetivamente recebido. João aceitou o convite e forneceu a comida conforme combinado. No entanto, durante o sequestro, os criminosos acabaram matando a vítima Marcela porque sua família não pagou o preço de resgate. Diante da situação narrada, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João não responderá por crime algum porque fornecer comida não é um ato criminoso."
+      },
+      {
+        "letra": "B",
+        "texto": "João responderá pelo sequestro e pela morte de Marcela com a mesma pena que todos os sequestradores."
+      },
+      {
+        "letra": "C",
+        "texto": "João responderá pelo sequestro e pela morte de Marcela, mas com a pena reduzida no que se refere ao resultado morte."
+      },
+      {
+        "letra": "D",
+        "texto": "João responderá pelo sequestro, mas não responderá pela morte."
+      },
+      {
+        "letra": "E",
+        "texto": "João responderá pelo sequestro e pela morte na forma culposa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2360683",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: PC-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Lesões corporais",
+      "Lesão corporal e suas diversas modalidades"
+    ],
+    "enunciado_principal": "Caio, 18 anos, Tício, 20 anos e Mévio, 22 anos, integram uma torcida organizada de uma agremiação futebolística. No dia de uma partida de seu clube, encontram um torcedor do time rival sozinho, saindo do trem a uma curta distância. Mévio então olhou para Caio e Tício e fez gestos com as mãos denotando que os três perseguissem e agredissem o torcedor rival. Ao efetivamente alcançarem a vítima, o lesionaram com socos e pontapés. Pelo exposto, é correto afirmar que Caio, Tício e Mévio devem responder por crime de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão corporal, cada qual isoladamente, eis que não houve concurso de pessoas e sim autoria colateral."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão corporal em concurso de pessoas."
+      },
+      {
+        "letra": "C",
+        "texto": "associação criminosa e crime de lesão corporal."
+      },
+      {
+        "letra": "D",
+        "texto": "constrangimento ilegal e crime de lesão corporal."
+      },
+      {
+        "letra": "E",
+        "texto": "organização criminosa e crime de lesão corporal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2116626",
+    "metadata": "Ano: 2023 | Banca: CONSULPAM | Órgão: TCM-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Dentre as alternativas a seguir abaixo, assinale a única CORRETA quanto ao disposto em nosso vigente Código Penal (Dec. Lei nº. 2.848/1940) sobre o concurso de pessoas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a participação for de menor importância, a pena pode ser diminuída de um sexto a dois terços."
+      },
+      {
+        "letra": "B",
+        "texto": "A instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se comunicam as circunstâncias e as condições de caráter pessoal, mesmo quando elementares do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até dois terços, na hipótese de ter sido previsível o resultado mais grave."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1998625",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-RO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Crimes contra o patrimônio",
+      "Roubo"
+    ],
+    "enunciado_principal": "Jéssica, imputável e com 30 anos de idade, com consciência e vontade, instigou e induziu Mário, inimputável de 16 anos de idade, a praticar ato infracional análogo ao delito de roubo, fato que se consumou. Na situação hipotética apresentada, Jéssica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não poderá ser responsabilizada pelo roubo."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá responder como partícipe no roubo."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá ser considerada autora de roubo qualificado pelo concurso de pessoas."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá responder como coautora do roubo."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá ser considera autora mediata do roubo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1977584",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "À luz da legislação vigente e do entendimento dos tribunais superiores, julgue o próximo item, relativos a crimes contra a administração pública. De acordo com entendimento jurisprudencial pertinente, a elementar do crime de peculato não se comunica aos coautores e partícipes estranhos ao serviço público.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1945463",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Crime continuado",
+      "Participação"
+    ],
+    "enunciado_principal": "Considerando as disposições relativas ao concurso de pessoas e de crimes, constantes do Código Penal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Praticado o crime em coautoria, todos que concorreram à prática delitiva serão punidos de forma idêntica. Apenas ao que, comprovadamente, quis participar de crime menos grave, ser-lhe-á aplicada a pena deste."
+      },
+      {
+        "letra": "B",
+        "texto": "O crime continuado só é reconhecido quando em causa crimes da mesma espécie, assim considerados os de idêntico tipo penal."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de concurso formal, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, as penas serão aplicadas cumulativamente."
+      },
+      {
+        "letra": "D",
+        "texto": "A participação, na modalidade de instigação, é punida, ainda que o crime não chegue a ser, ao menos, tentado."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de participação de menor importância, a critério do Juiz, a pena pode deixar de ser aplicada."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1914772",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Júlio, recém-habilitado para a condução de veículos automotores, pegou emprestado o carro de seu pai, Pedro, para ir a um evento. Pouco tempo depois, ao tentar fazer uma ultrapassagem, Júlio invadiu a calçada, atropelou e matou uma criança que se encontrava parada em um ponto de ônibus. Acerca dessa situação hipotética e de aspectos legais a ela pertinentes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedro não poderá ser responsabilizado pela conduta de Júlio, porque o ordenamento jurídico pátrio não admite o concurso de pessoas nos delitos culposos."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedro deverá ser responsabilizado pela sua conduta negligente, na condição de partícipe."
+      },
+      {
+        "letra": "C",
+        "texto": "Os crimes culposos admitem a coautoria e a participação, porém, na hipótese em apreço, Pedro não deverá ser responsabilizado, pois sua conduta não deu causa ao resultado."
+      },
+      {
+        "letra": "D",
+        "texto": "O ordenamento jurídico brasileiro não admite a participação em crime culposo, e Pedro não poderá ser responsabilizado, porquanto não violou nenhum dever jurídico apto a gerar consequências penais."
+      },
+      {
+        "letra": "E",
+        "texto": "Pedro e Júlio são igualmente coautores do homicídio culposo, porquanto deram causa ao resultado em razão da falta do dever de cuidado objetivo, presente na conduta de ambos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1846035",
+    "metadata": "Ano: 2021 | Banca: IADES | Órgão: CAU - MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "A figura do agente que não pratica a conduta descrita pelo preceito primário da norma penal incriminadora, mas realiza uma atividade secundária que contribui, estimula ou favorece a conduta proibida, não realizando atividade propriamente executiva, configura a participação em sentido estrito. A esse respeito, considere que J. J., J. A. e P. E. ingressem na casa de M. S. para subtrair bens. J. J. apontou sua arma para M. S., enquanto J. A. a amarrou, colocou uma venda em seus olhos e trancou-a no banheiro social. P. E., o mutuqueiro, ficou no carro aguardando a realização da conduta típica para avisar possível presença de terceiros ou, até mesmo, da polícia na rua, bem como para empreenderem fuga de forma mais efetiva. Nesse caso hipotético, é correto afirmar que P. E. foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "executor."
+      },
+      {
+        "letra": "B",
+        "texto": "autor mediato."
+      },
+      {
+        "letra": "C",
+        "texto": "partícipe."
+      },
+      {
+        "letra": "D",
+        "texto": "autor intelectual."
+      },
+      {
+        "letra": "E",
+        "texto": "autor imoral."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1837108",
+    "metadata": "Ano: 2021 | Banca: Quadrix | Órgão: CRP 4ª Região (MG)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos crimes funcionais próprios, a ausência da condição de funcionário público desclassifica a conduta para outro tipo penal."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos crimes funcionais impróprios, a condição de funcionário público, por ser uma elementar normativa, se comunica enquanto condição de caráter pessoal, tornando possível o concurso de pessoas com o particular que possua conhecimento daquela condição."
+      },
+      {
+        "letra": "C",
+        "texto": "O particular que auxiliar o funcionário público na prática de crime funcional próprio, sem ter conhecimento daquela condição, pratica crime comum."
+      },
+      {
+        "letra": "D",
+        "texto": "O particular que auxiliar o funcionário público na prática de crime funcional impróprio, sem ter conhecimento daquela condição, não pratica fato típico."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos crimes funcionais impróprios, a ausência da condição de funcionário público gera uma atipicidade absoluta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1825550",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: Diante da promessa de ser recompensado por D.D. com um cargo político, A.A. aceitou matar a vítima E.E. Para cometer o crime, A.A. contou com o auxílio de B.B. e C.C., que não tirariam proveito do cargo prometido, mas aceitaram cometer o crime por ter antiga rivalidade política contra E.E. Para a execução do crime, A.A., B.B. e C.C. foram até a casa de E.E. Enquanto C.C. ficou vigiando os arredores, A.A. e B.B. ingressaram na residência da vítima e a esfaquearam até a morte. Posteriormente, a participação de A.A., B.B., C.C. e D.D. foi apurada nos exatos termos descritos acima. A respeito do caso narrado, considere as seguintes afirmativas: 1. Além do crime de homicídio qualificado, A.A., B.B., C.C. e D.D. devem responder pelo crime de associação criminosa, previsto no art. 288 do Código Penal, independentemente de outros propósitos criminosos em comum. 2. A partir da teoria formal-objetiva sobre a autoria, A.A. e B.B. seriam considerados autores do crime de homicídio qualificado, enquanto C.C. e D.D. seriam considerados partícipes do mesmo crime. 3. O Código Penal brasileiro se orientou pela teoria unitária acerca da autoria, sendo imputável a A.A., B.B., C.C. e D.D. o crime de homicídio, devendo cada agente responder na medida de sua culpabilidade. 4. Embora a promessa de recompensa seja uma circunstância de caráter pessoal em relação ao sujeito A.A., ela se comunica a B.B., C.C. e D.D., pois é elementar do tipo penal. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 2, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1824971",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "O Código Penal apresenta as regras do concurso de pessoas em seu Título IV e nelas prevê que cada agente que concorre para um crime deve responder na medida da sua culpabilidade (Art. 29). Assim, quanto maior a contribuição, maior a responsabilização. Sendo participação de menor relevância, a pena poderá ser diminuída de um a dois terços (Art. 29, § 1º). Em alguns contextos, porém, o legislador entendeu que a participação do agente ganha maior destaque. Dentre as hipóteses de agravantes em contextos com pluralidade subjetiva, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na autoria intelectual, um agente é coautor fundado no domínio funcional do fato, devendo ainda ter envolvimento pessoal na execução do delito;"
+      },
+      {
+        "letra": "B",
+        "texto": "na coação e induzimento, o agente que constrange outrem à execução material delitiva, física ou moralmente, recebe pena agravada quando possui domínio sobre o fato;"
+      },
+      {
+        "letra": "C",
+        "texto": "na instigação ou determinação, o convencimento ou a mera sugestão são suficientes para agravar o crime, desde que casualmente eficazes;"
+      },
+      {
+        "letra": "D",
+        "texto": "na paga ou promessa de recompensa, a agravante deve ser considerada também nas hipóteses em que a vantagem for inerente à proibição;"
+      },
+      {
+        "letra": "E",
+        "texto": "as circunstâncias agravantes do concurso de agentes incidem nos casos de crimes unissubjetivos e nos de crimes plurissubjetivos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1761795",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO AOCP | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Crimes contra a vida",
+      "Homicídio"
+    ],
+    "enunciado_principal": "Em determinado restaurante, almoçam João, Pedro e José. Pedro se retira para ir ao banheiro. Nesse momento, João aproveita a oportunidade e solicita que José passe o sal, a fim de salgar excessivamente a comida de Pedro. José, agindo culposamente, entrega veneno no lugar. João, notável químico, percebe o engano de José e, mesmo assim, coloca o veneno na comida de Pedro, que o ingere e vem a falecer em seguida. Considerando o caso hipotético narrado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de hipótese de erro determinado por terceiro, na qual o agente provocador atua culposamente e, por isso, responde pelo crime de homicídio culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de hipótese de concurso de pessoas, na qual ambos respondem pelo homicídio qualificado, João como autor e José na condição de coautor."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se trata de hipótese de erro determinado por terceiro e também não há concurso de pessoas. João responde por homicídio qualificado doloso e José por homicídio culposo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se trata de hipótese de erro determinado por terceiro e também não há concurso de pessoas. João responde por homicídio qualificado doloso e José permanecerá impune."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de hipótese de concurso de pessoas, na qual ambos respondem pelo homicídio qualificado, João como autor e José na condição de partícipe."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1714764",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Quanto a concurso de pessoas no direito penal brasileiro, julgue o próximo item. Quanto à punição do partícipe, a teoria majoritariamente adotada pela doutrina é a da acessoriedade mínima, exigindo-se, para tal punição, que o autor tenha praticado um fato típico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1714763",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Quanto a concurso de pessoas no direito penal brasileiro, julgue o próximo item.No crimen silenti, ou concurso absolutamente negativo, o agente não tem o dever legal de evitar o resultado, tampouco adere à vontade criminosa do autor, razão pela qual não é punido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1120533",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Em regra, consideram-se autores de um delito aqueles que praticam diretamente os atos de execução, e partícipes aqueles que atuam induzindo, instigando ou auxiliando a ação dos autores principais. No entanto, é possível que um agente, ainda que não participe diretamente da execução da ação criminosa, possa ter o controle de toda a situação, determinando a conduta de seus subordinados. Nessa hipótese, ainda que não seja executor do crime, o agente mandante poderá ser responsabilizado criminalmente. Essa possibilidade de responsabilizar o mandante pelo crime decorre da teoria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da acessoriedade limitada."
+      },
+      {
+        "letra": "B",
+        "texto": "do favorecimento."
+      },
+      {
+        "letra": "C",
+        "texto": "do domínio do fato."
+      },
+      {
+        "letra": "D",
+        "texto": "pluralística da ação."
+      },
+      {
+        "letra": "E",
+        "texto": "da causação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1839456",
+    "metadata": "Ano: 2019 | Banca: GSA CONCURSOS | Órgão: Prefeitura de Jardinópolis - SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Respeitado as normas penais vigentes, marque a alternativa correta. O código penal brasileiro estabelece que, quem, de qualquer modo, concorra para o crime incide nas penas a este cominadas, na medida de sua culpabilidade, contudo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a participação for de menor importância, a pena pode ser diminuída de um quinto."
+      },
+      {
+        "letra": "B",
+        "texto": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a participação for de menor importância, a pena será diminuída de um quinto."
+      },
+      {
+        "letra": "D",
+        "texto": "Se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1109703",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "A respeito da disciplina do concurso de agentes no Código Penal, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em face da adoção da teoria unitária ou monista, segundo a qual todos aqueles que concorrem para o crime incidem nas penas a ele cominadas, a testemunha que faz afirmação falsa e o agente que dá, oferece ou promete dinheiro ou outra vantagem para que ela faça a falsa afirmação respondem pelo crime de falso testemunho."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto à punição do partícipe, o Código Penal adotou a teoria da acessoriedade extrema, que exige, para a punição do partícipe, tenha o autor praticado um fato típico, antijurídico e culpável."
+      },
+      {
+        "letra": "C",
+        "texto": "No chamado concurso absolutamente negativo, o agente não tem o dever legal de evitar o resultado, tampouco adere à vontade criminosa do autor, motivo pelo qual não é punida a conivência."
+      },
+      {
+        "letra": "D",
+        "texto": "A autoria colateral ocorre quando dois agentes, conhecendo a conduta um do outro, agem convergindo para o mesmo resultado, que se realiza por conta de um só dos comportamentos ou em virtude dos dois comportamentos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1048819",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Quanto aos autores e partícipes das infrações penais, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A participação está ligada à tipicidade e à conduta e não ao nexo de causalidade. Trata-se de hipótese de adequação típica de subordinação direta. Logo, o artigo 13, caput, do Código Penal, que trata do nexo de causalidade, só é aplicável ao autor do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria extensiva da autoria fundamenta-se na causação do resultado, sendo autor quem dá causa ao evento. Em princípio, autor é aquele que causa a modificação do mundo externo."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria do domínio do fato parte da tese restritiva e emprega um critério objetivo-subjetivo. Para a referida teoria, autor é aquele que tem o domínio final do fato, controla finalisticamente o decurso do crime e decide sobre sua prática, interrupção e circunstâncias. É uma teoria que se assenta em princípios relacionados à conduta e não ao resultado. A teoria do domínio do fato só é aplicável aos crimes dolosos, sejam materiais, formais ou de mera conduta."
+      },
+      {
+        "letra": "D",
+        "texto": "É possível autoria por omissão em delito comissivo, desde que o autor tenha o dever jurídico de impedir o resultado. Todavia, não existe participação omissiva em crime comissivo mediante omissão, ocorrendo autorias. Para que o omitente responda pelo delito a título de autor, é necessário que o comportamento negativo configure infração do dever jurídico de agir (posição de “garante”)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1017685",
+    "metadata": "Ano: 2019 | Banca: IDIB | Órgão: Prefeitura de Petrolina - PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Sobre o Concurso de Pessoas, analise os itens abaixo: I. Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade. II. Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave; III. Se a participação for de menor importância, a pena pode ser diminuída de um a dois terços. Analisados os itens, pode-se afirmar corretamente que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está correto."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas os itens II e III estão corretos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1010449",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Noções Fundamentais",
+      "Lei penal no tempo",
+      "Arrependimento posterior",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Crimes contra a honra",
+      "Injúria"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Otelo e Rinaldo foram denunciados e pronunciados pela prática de homicídio. Otelo como autor da conduta e Rinaldo como partícipe. Se o Conselho de sentença decidir que Otelo, agente denunciado e pronunciado como autor do crime de homicídio, não praticou a conduta descrita no tipo, “matar alguém”, ainda assim poderá decidir pela condenação de Rinaldo, partícipe que permaneceu “vigia”, dando cobertura ao autor Otelo, pois, em relação ao concurso de pessoas, aplica-se a teoria da acessoriedade limitada."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz, na sentença condenatória, ao verificar evidenciada a hipossuficiência econômica do condenado e a inviabilidade de suportar o pagamento da pena de multa prevista no preceito secundário do tipo, ainda que aplicada em seu mínimo legal, pode excluir a sua aplicação e isentar o condenado do seu pagamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Na sucessão de leis penais no tempo, deve ser aplicada a lei mais favorável ao réu, seja a lei contemporânea à prática da infração penal, seja a vigente na data da sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "O arrependimento posterior, como causa de diminuição de pena entre determinados limites, tem como pressuposto para seu reconhecimento que o crime seja patrimonial, para atender ao requisito da reparação do dano ou da restituição da coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "No crime de injúria cometido contra funcionário público, em razão de suas funções, é admitida a exceção da verdade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "999113",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Boa Vista - RR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item que se segue.Juan deverá responder por participação no crime de furto do veículo que adquiriu, apesar de o autor do crime ter sido outra pessoa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "992592",
+    "metadata": "Ano: 2019 | Banca: Crescer Concursos | Órgão: Prefeitura de Jijoca de Jericoacoara - CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "A teoria do domínio de fato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não reconhece a figura da autoria meditada."
+      },
+      {
+        "letra": "B",
+        "texto": "Impede a aceitação da figura do partícipe."
+      },
+      {
+        "letra": "C",
+        "texto": "Foi adotada expressamente no Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "É adotada apenas nos crimes dolosos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "978433",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Penal em relação ao concurso de pessoas, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço."
+      },
+      {
+        "letra": "C",
+        "texto": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se comunicam as circunstâncias e as condições de caráter pessoal, ainda que elementares do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "975997",
+    "metadata": "Ano: 2019 | Banca: INSTITUTO AOCP | Órgão: PC-ES",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Em relação ao concurso de agentes estabelecido no Código Penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todos respondem igualmente para o delito, independente da conduta realizada."
+      },
+      {
+        "letra": "B",
+        "texto": "as circunstâncias de caráter pessoal, como a menor idade, serão comunicadas a todos os integrantes da atividade delitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço."
+      },
+      {
+        "letra": "D",
+        "texto": "não há distinção entre partícipe e coautoria."
+      },
+      {
+        "letra": "E",
+        "texto": "o coautor que primeiro confessar o delito está isento de pena, independente do delito praticado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "972050",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Classificação dos crimes",
+      "Autoria e coautoria",
+      "Crimes comuns, próprios e de mão própria",
+      "Participação"
+    ],
+    "enunciado_principal": "A respeito de autoria e participação no âmbito penal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a autoria colateral é aquela em que há pluralidade de agentes e liame subjetivo entre eles para a realização da conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "o crime de falso testemunho é classificado como crime próprio e nele são admitidas tanto a coautoria quanto a autoria mediata."
+      },
+      {
+        "letra": "C",
+        "texto": "a participação, que pode ser moral ou material, é admitida até a consumação do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "a teoria da acessoriedade limitada entende que basta o fato principal ser típico para que o partícipe seja punido."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1154439",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "É requisito para a configuração do concurso de pessoas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma única conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "a irrelevância causal das condutas."
+      },
+      {
+        "letra": "C",
+        "texto": "a identidade de crime para todos os envolvidos."
+      },
+      {
+        "letra": "D",
+        "texto": "a autoria incerta."
+      },
+      {
+        "letra": "E",
+        "texto": "o prévio ajuste entre os agentes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "940916",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente.Como as ações paralelas de João, Pedro e Ana — agentes diversos — lesionaram o mesmo bem jurídico, constata-se a ocorrência da autoria colateral, haja vista que o resultado foi previamente planejado em conjunto.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "940915",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente.Na situação descrita, está presente a hipótese de participação necessária imprópria.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "940914",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente.Aquele que planeja toda a ação criminosa é considerado autor intelectual do delito, ainda que não detenha o controle sobre a consumação do crime.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "940912",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente.João e Pedro tiveram participação de menor importância no crime de furto; assim, eventual indiciamento dos dois será na condição de partícipes, razão por que eles poderão ser beneficiados pela diminuição de um a dois terços da pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "932929",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: Polícia Federal",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Em cada item seguinte, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de exclusão da culpabilidade, concurso de agentes, prescrição e crime contra o patrimônio.Clara, tendo descoberto uma traição amorosa de seu namorado, comentou com sua amiga Aline que tinha a intenção de matá-lo. Aline, então, começou a instigar Clara a consumar o pretendido. Nessa situação, se Clara cometer o crime, Aline poderá responder como partícipe do crime.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "906945",
+    "metadata": "Ano: 2018 | Banca: INSTITUTO AOCP | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Desistência voluntária e arrependimento eficaz",
+      "Participação"
+    ],
+    "enunciado_principal": "Três indivíduos que são amigos reúnemse para fazer uso de narcóticos. Porém, em dado momento, os entorpecentes acabam e eles não têm mais dinheiro para reabastecer o vício. Um deles, chamado Ronaldo, propõe que se dirijam a um ponto de ônibus para roubar algum transeunte que lá esteja aguardando a chegada do veículo de lotação. Contudo, ao se aproximarem do referido ponto de ônibus, uma viatura policial passa por eles, inibindo-lhes a vontade de praticar o delito. Se o crime de roubo planejado pelo trio não chegou pelo menos a ser tentado, qual é a consequência penal para Ronaldo, aquele que havia sugerido a prática desse delito contra o patrimônio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma, pois tais atos são relativamente nulos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ele responderá por participação de menor importância."
+      },
+      {
+        "letra": "C",
+        "texto": "Ele responderá por tentativa de roubo, nos termos do art. 14 do Código Penal."
+      },
+      {
+        "letra": "D",
+        "texto": "Nenhuma, pois tais atos são impuníveis."
+      },
+      {
+        "letra": "E",
+        "texto": "Ele responderá por roubo com aplicação de causa de diminuição de pena por arrependimento eficaz, nos termos do art. 15 do Código Penal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "904765",
+    "metadata": "Ano: 2018 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Durante o julgamento da Ação Penal nº 470 (“Mensalão”), a teoria do domínio do fato foi mencionada diversas vezes. Relativamente a essa teoria, leia as afirmações abaixo e, ao final, indique a alternativa CORRETA: I. Foi retomada e desenvolvida pelo jurista alemão Claus Roxin, na década de 1960, e tem por função dogmática distinguir entre autor e partícipe. II. A ideia reitora dessa teoria é de que autor é quem atua com o domínio do fato; é a figura central do acontecer típico. III. Foi adotada pelo Código Penal brasileiro ao dispor que quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade. IV. Segundo essa teoria, domínio do fato é o poder de evitar o fato. Assim, o chefe de uma organização criminosa responde pela mera posição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmações I e III estão certas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmações I e II estão certas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmações II e IV estão certas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmações III e IV estão certas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "893190",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EBSERH",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Com referência à lei penal no tempo, ao erro jurídico-penal, ao concurso de agentes e aos sujeitos da infração penal, julgue o item que se segue. Para a punição de um partícipe que colabore com a conduta delituosa, é preciso que o fato principal seja típico, ilícito, culpável e punível.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "888344",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: ALESE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "É certo que um crime pode ser praticado por uma ou mais pessoas. Quando isso acontece, está-se diante da hipótese de concurso de pessoas, também conhecido como concurso de agentes. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ainda que algum dos concorrentes tenha querido participar de crime menos grave, ser-lhe-á, obrigatoriamente, aplicada a pena idêntica do crime praticado pelo seu comparsa, ante a adoção pelo Código Penal da teoria monista."
+      },
+      {
+        "letra": "B",
+        "texto": "em hipótese alguma se comunicam as circunstâncias e as condições de caráter pessoal na coautoria."
+      },
+      {
+        "letra": "C",
+        "texto": "o ajuste, a determinação ou instigação e o auxílio são sempre puníveis, ainda que o crime não venha a ser tentado."
+      },
+      {
+        "letra": "D",
+        "texto": "os crimes plurissubjetivos não admitem a coautoria e a participação."
+      },
+      {
+        "letra": "E",
+        "texto": "se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "886224",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Medida de segurança",
+      "Conceito de Medida de Segurança",
+      "Legislação Penal Especial",
+      "Lei de Contravenções Penais - Decreto-Lei nº 3.688 de 1941"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas contravenções penais se requer tão somente, no tocante ao elemento psíquico, a voluntariedade da ação, prescindindo do dolo ou culpa."
+      },
+      {
+        "letra": "B",
+        "texto": "Na esfera da participação criminal no delito de lavagem de capitais, denomina-se acessoriedade limitada o grau de dependência segundo o qual só se pode castigar a conduta do partícipe quando o fato principal for típico e antijurídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Na configuração dos crimes de resultado basta o desvalor do ato para a ofensa ao bem jurídico."
+      },
+      {
+        "letra": "D",
+        "texto": "A medida de segurança, a exemplo da pena, tem o caráter retributivo e sua finalidade principal é promover a recuperação do doente ou perturbado mental."
+      },
+      {
+        "letra": "E",
+        "texto": "As alternativas “a” e “b” estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "883567",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Julgue o item subsequente, relativo ao delito praticado em concurso de pessoas.Partícipe é o agente que concorre para cometer o ato criminoso sem, contudo, praticar o núcleo do tipo penal, ou seja, a sua participação é de menor importância e, por essa razão, sua pena pode ser diminuída.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "878339",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-AL",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "No Direito Penal, a doutrina costuma reconhecer o concurso de pessoas quando a infração penal é cometida por mais de uma pessoa, podendo a cooperação ocorrer através de coautoria ou participação. Sobre o tema, de acordo com o Código Penal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o auxílio material é punível se o crime chegar, ao menos, a ser cogitado;"
+      },
+      {
+        "letra": "B",
+        "texto": "as circunstâncias de caráter pessoal, diante de sua natureza, não se comunicam, ainda que elementares do crime;"
+      },
+      {
+        "letra": "C",
+        "texto": "em sendo de menor importância a participação ou coautoria, a pena poderá ser reduzida de um sexto a um terço;"
+      },
+      {
+        "letra": "D",
+        "texto": "a teoria sobre concurso de agentes adotada pela legislação penal brasileira, em regra, é a dualista;"
+      },
+      {
+        "letra": "E",
+        "texto": "se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "866724",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PC-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Concurso de crimes",
+      "Concurso material",
+      "Participação"
+    ],
+    "enunciado_principal": "Artur, Romualdo e José decidiram roubar um banco onde sabiam haver vigilantes armados e treinados para garantir a segurança. Com um revólver, Artur rendeu um deles e lhe tomou a pistola, enquanto seus parceiros, também com revólveres, ameaçaram os demais circunstantes e ordenaram aos caixas que juntassem o dinheiro e colocassem-no dentro de sacolas. Consumada a ação, eles correram para onde haviam deixado o carro de fuga, mas não conseguiram chegar até ele em virtude da chegada da polícia. Fingindo-se um cidadão comum, Artur conseguiu obter carona em um caminhão de entregas, livrando-se da iminente prisão em flagrante. Enquanto isso, Romualdo e José abordaram um motorista que estacionava seu carro e lhe tomaram as chaves do veículo. A vítima tentou reagir e foi abatida por dois disparos feitos por José, tendo morrido no local. Os ladrões fugiram com o automóvel, mas foram perseguidos e presos ao fim da perseguição. Horas depois, Artur também foi preso, e em seu poder foi apreendida a pistola tomada do vigilante do banco. Acerca dessa situação hipotética, julgue os itens a seguir de acordo com a legislação e a jurisprudência dos tribunais superiores. I Configurou-se o concurso material de roubo circunstanciado e de homicídio qualificado. II Artur não tem nenhuma responsabilidade pela morte do motorista, visto que nem mesmo estava no local onde ocorreu o fato. III Há crime único, de latrocínio, porque o resultado morte aconteceu como desdobramento causal da ação principal e era previsível para todos os partícipes. IV Artur, assim como Romualdo e José, responderá por latrocínio, e sua pena não poderá ser reduzida sob o argumento de participação menos importante. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "854426",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Culpabilidade",
+      "Inimputabilidade pela embriaguez",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "A respeito dessa situação hipotética e considerando o concurso de pessoas e a imputabilidade penal, julgue o item que se segue.José não poderá ser punido pelo crime que cometeu porque se encontrava em estado em embriaguez decorrente de caso fortuito, hipótese de isenção de pena.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "853172",
+    "metadata": "Ano: 2017 | Banca: CONSULPLAN | Órgão: TRE-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "A teoria segundo a qual se pune a participação se o autor tiver levado a efeito uma conduta típica e ilícita é chamada de teoria da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperacessoriedade."
+      },
+      {
+        "letra": "B",
+        "texto": "acessoriedade mínima."
+      },
+      {
+        "letra": "C",
+        "texto": "acessoriedade máxima."
+      },
+      {
+        "letra": "D",
+        "texto": "acessoriedade limitada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "849246",
+    "metadata": "Ano: 2017 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "A codelinquência será configurada quando houver",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reconhecimento da prática da mesma infração por todos os agentes."
+      },
+      {
+        "letra": "B",
+        "texto": "ajuste prévio, na fase preparatória do crime, entre todos os agentes em concurso."
+      },
+      {
+        "letra": "C",
+        "texto": "concurso necessário, nas infrações penais, de agentes capazes."
+      },
+      {
+        "letra": "D",
+        "texto": "exteriorização da vontade de fazer parte da conduta e consciência da ação de outrem."
+      },
+      {
+        "letra": "E",
+        "texto": "prática dos mesmos atos executivos por todos os agentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "843716",
+    "metadata": "Ano: 2017 | Banca: FAPEMS | Órgão: PC-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Crimes contra a vida",
+      "Induzimento, instigação ou auxílio ao suicídio"
+    ],
+    "enunciado_principal": "A partir da narrativa dos casos a seguir, assinale a alternativa correta. CASO 1 Ana combina com Paulo de lhe fornecer um veneno que lhe provocaria uma morte lenta, mas lhe entrega outro que causa a morte imediata. CASO 2 Ana empresta uma arma para Rui cometer suicídio. Uma hora depois, Rui solicita a Aldo que lhe mate. Com apenas um disparo no coração, Aldo contempla a vontade de Rui.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em ambos os casos, Ana deverá responder por homicídio simples."
+      },
+      {
+        "letra": "B",
+        "texto": "Ana deverá responder por homicídio simples apenas no primeiro caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Em ambos os casos, Ana deverá responder pela participação material em suicídio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ana deverá responder pela participação material em suicídio apenas no primeiro caso."
+      },
+      {
+        "letra": "E",
+        "texto": "Ana deverá responder por homicídio qualificado (venefício) no primeiro caso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "818948",
+    "metadata": "Ano: 2017 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Sobre autoria e participação, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O autor mediato pode utilizar, como instrumento para a prática do crime, por exemplo, imputável em erro de tipo, imputável em erro de proibição, imputável em inexigibilidade de comportamento diverso ou inimputável."
+      },
+      {
+        "letra": "B",
+        "texto": "A moderna teoria do domínio do fato, também denominada teoria objetivo-subjetiva, integra critérios objetivos e subjetivos para definir as categorias de autor e partícipe do tipo de injusto."
+      },
+      {
+        "letra": "C",
+        "texto": "O excesso praticado por pessoa utilizada como instrumento para a prática do crime, não é atribuível ao autor mediato, por ausência de controle deste sobre o excesso do instrumento."
+      },
+      {
+        "letra": "D",
+        "texto": "A e B combinam a prática do crime de furto, mas durante a execução A se excede em relação ao dolo comum e emprega violência contra a vítima, praticando o crime de roubo: se tal resultado era previsível, B responde pelo crime de furto qualificado pelo concurso de agentes (CP, art. 155, § 4º, inciso IV), com causa de aumento de pena."
+      },
+      {
+        "letra": "E",
+        "texto": "A e B, em decisão comum, praticam o crime de roubo contra C, pai de B: a relação de parentesco entre B e C, conhecida previamente por A, determina a responsabilidade de ambos – A e B – por prática do crime de roubo majorado pelo concurso de agentes (CP, art. 157, § 2º, inciso II), com a agravante de ter sido cometido contra ascendente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "798588",
+    "metadata": "Ano: 2017 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Sobre o concurso de pessoas, é CORRETO afirmar que o Código Penal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acolheu em relação aos concorrentes, mesmo por omissão, a teoria monista, sujeitando-os às sanções penais, inclusive no caso do concurso absolutamente negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Adotou em relação aos concorrentes a teoria dualista, traduzida pela introdução da cláusula restritiva “na medida de sua culpabilidade”."
+      },
+      {
+        "letra": "C",
+        "texto": "Incorporou solução reclamada pela doutrina para o desvio subjetivo, que se aplica tanto a coautores, como a partícipes."
+      },
+      {
+        "letra": "D",
+        "texto": "Admitiu, no que se refere à participação, a teoria da hiperacessoriedade, como regra, e da acessoriedade limitada, como exceção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "734402",
+    "metadata": "Ano: 2016 | Banca: IBEG | Órgão: Prefeitura de Teixeira de Freitas - BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Desistência voluntária e arrependimento eficaz",
+      "Arrependimento posterior",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Quando o partícipe instiga outrem a praticar um crime de homicídio, mas durante a execução do ataque tenta impedir que o resultado se produza, mas não consegue, pode-se dizer que, consequentemente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É reconhecível a co-autoria."
+      },
+      {
+        "letra": "B",
+        "texto": "É reconhecível a desistência voluntária."
+      },
+      {
+        "letra": "C",
+        "texto": "É reconhecível o arrependimento posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "É reconhecível o arrependimento eficaz."
+      },
+      {
+        "letra": "E",
+        "texto": "É reconhecível a participação de menor importância."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "693044",
+    "metadata": "Ano: 2016 | Banca: FUNCAB | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Sobre a participação em sentido estrito, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "adota-se, no Brasil, a teoria da acessoriedade máxima."
+      },
+      {
+        "letra": "B",
+        "texto": "o auxílio material é ato de participação em sentido estrito, ao passo em que a instigação é conduta de autor."
+      },
+      {
+        "letra": "C",
+        "texto": "não há participação culposa em crime doloso."
+      },
+      {
+        "letra": "D",
+        "texto": "na teoria do domínio do fato, partícipe é a figura central do acontecer típico."
+      },
+      {
+        "letra": "E",
+        "texto": "assume a condição de participe aquele que executa o crime, salvo quando adotada a teoria subjetiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "649448",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: TJM-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "A respeito do concurso de agentes, afirma-se corretamente que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "além das modalidades instigação e induzimento, a participação também se dá pelo auxílio. Nesta modalidade, a fim de se diferenciar o coautor do partícipe, deve-se recorrer à regra da essencialidade da cooperação."
+      },
+      {
+        "letra": "B",
+        "texto": "o concurso de pessoas, pelo Código Penal, assume duas formas, coautoria e participação. Partícipe é aquele que instiga ou induz o autor na perpetração do crime, sendo os atos de instigação e induzimento puníveis, independentemente de o crime vir a ser tentado ou consumado."
+      },
+      {
+        "letra": "C",
+        "texto": "o Código Penal taxativamente estabelece que as penas dos autores e partícipes devem ser diferenciadas, punindo sempre de forma diminuída quem apenas instiga, induz ou auxilia na prática delitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "segundo o Código Penal, o coautor ou partícipe, independentemente do crime para o qual quis concorrer, será punido segundo a pena do crime efetivamente praticado, pois assumiu o risco do resultado."
+      },
+      {
+        "letra": "E",
+        "texto": "segundo o Código Penal, as condições de caráter pessoal do autor estendem-se a todos os concorrentes da prática delitiva."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "647306",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "A respeito do concurso de pessoas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em relação à participação no concurso de pessoas, a legislação penal brasileira adota a teoria da acessoriedade mínima."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação hipotética: José, gerente de loja, mesmo ciente de que um dos vendedores subtraía dinheiro do caixa, nada fez para impedir o crime, agindo sem liame subjetivo e intenção de obter vantagem econômica. Assertiva: Nessa situação, o gerente responderá em coautoria pelo crime de furto, com ação omissiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Em se tratando de crimes plurissubjetivos, como, por exemplo, o crime de rixa, não há que se falar em participação, já que a pluralidade de agentes integra o tipo penal: todos são autores."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação hipotética: O motorista João e sua mulher, Maria, trafegavam por uma rodovia, quando ambos, deliberadamente, deixaram de prestar socorro a uma pessoa gravemente ferida, sem que houvesse risco pessoal para qualquer um deles. João foi instigado por Maria, que estava no banco do carona, a não parar o veículo, e, por fim, em acordo de vontades com Maria, assim efetivamente procedeu. Assertiva: Nessa situação, João responderá como autor pelo crime de omissão de socorro e Maria será tida como inimputável."
+      },
+      {
+        "letra": "E",
+        "texto": "Haverá participação culposa em crime doloso na situação em que um médico, agindo com negligência, fornece ao enfermeiro substância letal para ser ministrada a um paciente, e o enfermeiro, embora percebendo o equívoco, decide ministrá-la com a intenção de matar o paciente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "647129",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: PC-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Na situação hipotética descrita no texto CE1A04AAA,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedro e Lucas serão responsabilizados pelo mesmo tipo penal e terão necessariamente a mesma pena."
+      },
+      {
+        "letra": "B",
+        "texto": "o direito penal brasileiro não distingue autor e partícipe."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedro, partícipe, terá pena mais grave que a de Lucas, autor do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "Roberto será considerado partícipe e, por isso, poderá ser punido em concurso de pessoas pelo crime praticado."
+      },
+      {
+        "letra": "E",
+        "texto": "se a atuação de Pedro for tipificada como participação de menor importância, a pena dele poderá ser diminuída."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "611551",
+    "metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: Câmara de Atibaia - SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta. Para que se configure o concurso de pessoas na esfera penal faz-se mister:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presença de dois ou mais agentes e haver nexo de causalidade material entre as condutas realizadas."
+      },
+      {
+        "letra": "B",
+        "texto": "a vontade de obtenção do resultado (vínculo de natureza psicológica)."
+      },
+      {
+        "letra": "C",
+        "texto": "o reconhecimento da prática do mesmo delito para todos os agentes sendo que se antijuridicidade atingir um dos co-autores, se estenderá para os demais."
+      },
+      {
+        "letra": "D",
+        "texto": "o ajuste prévio entre os agentes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "593291",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "A respeito do direito penal, julgue o item a seguir. Idealizada por Welzel e Roxin e considerada objetivo-subjetiva, a teoria do domínio do fato diferencia autoria de participação em função da prática dos atos executórios do delito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "591217",
+    "metadata": "Ano: 2015 | Banca: FMP Concursos | Órgão: MPE-AM",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Quais das assertivas acima estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "591082",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Em relação à improbidade administrativa, ao concurso de pessoas e às hipóteses de extinção da punibilidade, julgue o item subsecutivo. Pode haver participação dolosa em crime culposo, não sendo necessário, para a caracterização do concurso de pessoas, que autor e partícipes tenham atuado com o mesmo elemento subjetivo-normativo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "588019",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Acerca do concurso de agentes, assinale a opção correta conforme a legislação de regência e a jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ciência da prática do fato delituoso caracteriza conivência e, consequentemente, participação, mesmo que inexistente o dever jurídico de impedir o resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "Em um crime de roubo praticado com o emprego de arma de fogo, mesmo que todos os agentes tenham conhecimento da utilização do artefato bélico, somente o autor do disparo deve responder pelo resultado morte, visto que não se encontrava dentro do desdobramento causal normal da ação delitiva. Nesse caso, não há que se falar em coautoria no crime mais gravoso (latrocínio)."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se admite o concurso de agentes no crime de porte ilegal de arma de fogo, haja vista que somente o agente que efetivamente porta a arma de fogo incorre nas penas do delito."
+      },
+      {
+        "letra": "D",
+        "texto": "É admissível, segundo o entendimento doutrinário e jurisprudencial, a possibilidade de concurso de agentes em crime culposo, que ocorre quando há um vínculo psicológico na cooperação consciente de alguém na conduta culposa de outrem. O que não se admite nos tipos culposos é a participação."
+      },
+      {
+        "letra": "E",
+        "texto": "O falso testemunho, por ser crime de mão própria, não admite a coautoria ou a participação do advogado que induz o depoente a proclamar falsa afirmação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "586771",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCE-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Acerca do concurso de pessoas e dos princípios de direito penal, julgue o item seguinte.No concurso de pessoas, o auxílio prestado ao agente, quando não iniciada a execução do crime, é passível de punição.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "563817",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Tipo Penal Culposo",
+      "Participação"
+    ],
+    "enunciado_principal": "Em relação aos elementos do crime, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na sistemática brasileira penal, o erro de proibição inevitável afasta a ilicitude da conduta"
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a teoria adotada pelo CP, em regra, a consciência da ilicitude é requisito essencial do dolo."
+      },
+      {
+        "letra": "C",
+        "texto": "O crime culposo, considerando-se o seu elemento subjetivo, não admite a participação, seja dolosa, seja culposa."
+      },
+      {
+        "letra": "D",
+        "texto": "A embriaguez culposa é causa excludente de culpabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A aferição de um resultado classificado a título subjetivo de preterdolo exige a constatação efetiva da previsibilidade subjetiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "498192",
+    "metadata": "Ano: 2015 | Banca: DPE-PE | Órgão: DPE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Partícipe de um crime é o sujeito que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pratica a conduta descrita no tipo penal, juntamente com seu comparsa."
+      },
+      {
+        "letra": "B",
+        "texto": "executa o comportamento que a lei define como crime."
+      },
+      {
+        "letra": "C",
+        "texto": "auxilia autor de crime a subtrair-se à ação de autoridade pública."
+      },
+      {
+        "letra": "D",
+        "texto": "induz, instiga ou auxilia na prática do crime, embora não pratique conduta típica."
+      },
+      {
+        "letra": "E",
+        "texto": "pratica a conduta descrita no tipo penal em legítima defesa"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "485923",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRE-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Julgue o item seguinte, a respeito de concurso de pessoas, tipicidade, ilicitude, culpabilidade e fixação da pena. Caso um indivíduo obtenha de um amigo, por empréstimo, uma arma de fogo, dando-lhe ciência de sua intenção de utilizá-la para matar outrem, o amigo que emprestar a arma será considerado partícipe do homicídio se o referido indivíduo cometer o crime pretendido, ainda que este não utilize tal arma para fazê-lo e que o amigo não o estimule a praticá-lo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "456587",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Após praticar latrocínio, tendo matado mãe e filho menor dentro de um supermercado, Júlio foi detido por populares no momento em que tentava evadir-se do local do crime e, em seguida, linchado em praça pública. Considerando essa situação hipotética e os institutos da autoria e da participação delitiva, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A participação de cada um dos envolvidos no linchamento de Júlio será objeto de instrução criminal, sendo desnecessária a descrição minuciosa da participação de cada um dos intervenientes, sob pena de inviabilização da aplicação da lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Denomina-se autoria por convicção a conduta das pessoas que, ao terem saído do supermercado e assistido ao início do linchamento de Júlio, tenham decidido participar das agressões."
+      },
+      {
+        "letra": "C",
+        "texto": "Os intervenientes no linchamento devem ser considerados partícipes, dada a inviabilidade da individualização das condutas."
+      },
+      {
+        "letra": "D",
+        "texto": "As penas de todos os que forem acusados e devidamente condenados pelo linchamento de Júlio serão agravadas pelo fato de o crime ter sido praticado sob a influência de multidão em tumulto."
+      },
+      {
+        "letra": "E",
+        "texto": "Para o julgamento da prática coletiva do crime de linchamento, é insignificante a existência de vínculos psicológicos entre os integrantes da multidão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "452694",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: PC-SE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Crimes contra a administração pública",
+      "Favorecimento pessoal"
+    ],
+    "enunciado_principal": "No crime de favorecimento pessoal, previsto no título “Dos Crimes contra a Administração Pública” do Código Penal, algumas pessoas, pela sua qualidade pessoal, ficam isentas de pena em decorrência do auxílio prestado ao criminoso. NÃO se inclui entre elas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O irmão do autor do crime."
+      },
+      {
+        "letra": "B",
+        "texto": "O colateral até o segundo grau do autor do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "O cônjuge do autor do crime."
+      },
+      {
+        "letra": "D",
+        "texto": "O ascendente do autor do crime."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "421797",
+    "metadata": "Ano: 2014 | Banca: UNEB | Órgão: DPE-BA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Sobre o concurso de pessoas no Código Penal Brasileiro, se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste; essa pena será aumentada até metade, na hipótese de ter sido previsível o resultado mais grave. A hipótese em comento trata",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "das circunstâncias incomunicáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "dos casos de impunibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "do desvio subjetivo de conduta."
+      },
+      {
+        "letra": "D",
+        "texto": "da participação de menor importância."
+      },
+      {
+        "letra": "E",
+        "texto": "da participação de menor relevância."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "415096",
+    "metadata": "Ano: 2014 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade. Entretanto, se algum dos concorrentes quis participar de crime menos grave, ser-lhe-a aplicada a pena deste, não cabendo qualquer espécie de aumento.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "410892",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: METRÔ-SP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Joaus, Joseh e Pedrus acertaram, mediante prévio ajuste, a prática de um crime de furto qualificado em residência. Pedrus escolheu a residência e emprestou seu veículo para o transporte dos objetos furtados. Joaus arrombou a porta da residência indicada por Pedrus e entrou. Joseh entrou em seguida. Joaus e Joseh recolheram todos os objetos de valor, colocaram no veículo e fugiram do local. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Joaus, Joseh e Pedrus foram coautores."
+      },
+      {
+        "letra": "B",
+        "texto": "Joaus foi autor, Joseh partícipe e Pedrus autor mediato."
+      },
+      {
+        "letra": "C",
+        "texto": "Joaus e Joseh foram partícipes e Pedrus foi autor imediato."
+      },
+      {
+        "letra": "D",
+        "texto": "Joaus, Joseh e Pedrus foram autores."
+      },
+      {
+        "letra": "E",
+        "texto": "Joaus e Joseh foram coautores e Pedrus partícipe."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "393348",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Tipicidade",
+      "Consumação e tentativa",
+      "Noções gerais de Concursos de Pessoas",
+      "Concurso de crimes",
+      "Concurso formal",
+      "Participação",
+      "Punibilidade no concurso de pessoas",
+      "Crimes contra a liberdade pessoal",
+      "Sequestro ou cárcere privado",
+      "Crimes contra o patrimônio",
+      "Roubo",
+      "Crimes contra a dignidade sexual",
+      "Corrupção de menores"
+    ],
+    "enunciado_principal": "Carlos, Maurício, Alexandre, todos maiores de idade, e o adolescente José planejaram, de comum acordo e agindo em unidade de desígnios, subtrair aparelhos eletrônicos da casa de Gabriel. O quarteto dividiu-se, então, da seguinte forma: Carlos e Maurício permaneceram de vigia, dentro de um automóvel, nas cercanias da referida residência, enquanto Alexandre e José se incumbiram da tarefa de consumar a subtração dos equipamentos. Ao chegarem à porta da garagem da casa, esses dois últimos avistaram e renderam Marcelo, amigo de Gabriel que ali estacionava seu veículo. A rendição ocorreu com o uso de arma de fogo de propriedade de Alexandre, a qual fora por ele ocultada de todos os demais comparsas. Em seguida, os dois criminosos entraram na residência, renderam, também, seu proprietário e iniciaram a movimentação dos aparelhos eletrônicos em direção ao carro do grupo. Quando todo o material desejado havia sido subtraído, o grupo viu-se impossibilitado, por razões técnicas, de dar partida no veículo e fugiu do local sem levar nenhum objeto. Avisada por vizinhos, a polícia chegou rapidamente ao local, prendendo os bandidos após breve perseguição a pé.Com base nessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos e Maurício concorreram para dois crimes de tentativa de roubo praticados por Alexandre; contudo, como quiseram participar de crime menos grave, a pena de ambos poderá ser diminuída até metade, já que foi previsível o resultado mais grave."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a jurisprudência do Superior Tribunal de Justiça (STJ), a punição de Carlos, Maurício e Alexandre pelo crime de corrupção de menores dependerá da prova da efetiva corrupção de José."
+      },
+      {
+        "letra": "C",
+        "texto": "Carlos e Maurício praticaram dois crimes de roubo consumado, qualificado pelo concurso de agentes, e um de corrupção de menores, devendo a pena imposta ser acrescida de um quinto em razão do concurso formal."
+      },
+      {
+        "letra": "D",
+        "texto": "Alexandre praticou dois crimes de tentativa de roubo circunstanciado pelo emprego de arma, concurso de agentes e restrição de liberdade das vítimas, um delito de corrupção de menores e um crime de porte ilegal de arma de fogo, devendo sua pena ser acrescida de um quarto em razão do concurso formal."
+      },
+      {
+        "letra": "E",
+        "texto": "Carlos, Maurício e Alexandre praticaram dois crimes de tentativa de roubo circunstanciado pelo emprego de arma, concurso de agentes e restrição de liberdade das vítimas, em concurso formal com o crime de corrupção de menores, devendo suas penas serem acrescidas de metade em razão do concurso formal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "362517",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O conceito restritivo de autor pode ser complementado pelas teorias objetivo-formal e objetivo-material. A primeira, em linhas gerais, define autor como sendo aquele que realiza a ação típica ou alguns de seus elementos. Já a segunda, diferencia o partícipe do autor, por considerar que este contribui de forma mais relevante para a consecução do fato delituoso do que o partícipe;"
+      },
+      {
+        "letra": "B",
+        "texto": "Agdo, Joab e Avalon são amigos de longa data. Entretanto, ultimamente Agdo e Joab passaram a cobiçar a esposa de Avalon, a bela Aleutas. Sem nada confessarem entre si sobre o desejo que passaram a nutrir pela moça, cada um passa a engendrar a morte de Avalon. No mesmo dia, Agdo e Joab se posicionam armados, em locais diferentes, a espera que Avalon deixe sua residência. E assim, quando Avalon sai à rua, Agdo e Joab atiram repetidamente e ambos atingem Avalon, sem um atirador perceber os tiros e a presença do outro. Pode-se afirmar neste caso que, em se tratando de autoria colateral, não há concurso de agentes;"
+      },
+      {
+        "letra": "C",
+        "texto": "Agdo, Joab e Avalon, amigos de longa data, são atores da companhia de teatro “Saltimbancos”, e apresentam a mesma peça há dois anos. Entretanto, Agdo acabou se apaixonando pela esposa de Avalon, Aleutas. A fim de retirar Avalon literalmente de cena, Agdo passou a tramar contra a vida dele. Decide que trocará as balas de festim por munição real, do revólver usado na cena em que Joab dispara contra Avalon. E assim o faz. Durante o espetáculo, Agdo entrega a Joab o revólver carregado desta feita com munição real, e este ao disparar a arma contra Avalon, horrorizado, percebe que o sangue que passa a jorrar não é o cenográfico, vindo Avalon a morrer. Pode-se afirmar neste caso que, se adotado o conceito de autor preconizado pela teoria objetivo-formal, Agdo poderá ser considerado autor mediato do homicídio de Avalon;"
+      },
+      {
+        "letra": "D",
+        "texto": "Agdo, Joab e Avalon são amigos de longa data, sempre saem juntos para beber e jogar sinuca. Entretanto, ultimamente Agdo apaixonou-se pela formosa esposa de Avalon, Aleutas. Assim, visando por fim a vida de Avalon, Agdo passa a engendrar seu plano criminoso. Aproveitando-se de mais uma saída ao bar com seus amigos, Agdo espera que Joab vá até o banheiro, para então se aproximar de Avalon e instigá-lo contra Joab, afirmando que Joab confessou-lhe estar apaixonado por Aleutas e a queria para si. Assim, Agdo sabendo que Joab é policial e anda sempre armado, passa a instigar Avalon a dar uma surra em Joab quando este voltar do banheiro. Quando Joab volta, Avalon, tomado pelo ciúme, apodera-se de um taco de sinuca e avança contra Joab, que acaba por disparar e matar Avalon. Pode-se afirmar que neste caso, a fim de superar o que dispõe a teoria da acessoriedade limitada, há que se adotar necessariamente o conceito de autoria mediata para que Agdo responda pela morte de Avalon;"
+      },
+      {
+        "letra": "E",
+        "texto": "No concurso de pessoas não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime. Assim, se Agdo, reincidente, pratica um crime de roubo com Joab, que é primário, apenas para Agdo incidirá a agravante da reincidência."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "359420",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Crimes contra a administração pública",
+      "Falso Testemunho ou Falsa Perícia. Corrupção Ativa de Testemunha ou Perito"
+    ],
+    "enunciado_principal": "Segundo a jurisprudência dominante no âmbito do Tribunal Regional Federal da 3ª Região, bem como do Superior Tribunal de Justiça, aliás em sintonia com segmento importante da doutrina brasileira mais contemporânea, no crime de falso testemunho ou falsa perícia,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é possível participação e autoria mediata."
+      },
+      {
+        "letra": "B",
+        "texto": "é possível participação, mas não autoria mediata."
+      },
+      {
+        "letra": "C",
+        "texto": "não é possível participação, mas sim autoria mediata."
+      },
+      {
+        "letra": "D",
+        "texto": "é impossível participação ou autoria mediata."
+      },
+      {
+        "letra": "E",
+        "texto": "é possível autoria indireta, mas não autoria mediata."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1202482",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "Acerca dos institutos do direito penal brasileiro, julgue o próximo item. Tratando-se de concurso de agentes, quando comprovada a vontade de um dos autores do fato em participar de crime menos grave, a pena será diminuída até a metade, na hipótese de o resultado mais grave ter sido previsível, não podendo, contudo, ser inferior ao mínimo da pena cominada ao crime efetivamente praticado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "525778",
+    "metadata": "Ano: 2013 | Banca: UEPA | Órgão: SEAD-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Quanto ao concurso de pessoas, afirma-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "há na doutrina as teorias unitária ou monista, que afirma que todas as pessoas que concorrem ao crime incidem nas penas a ela cominadas e a pluralista, para a qual, havendo pluralidade de agentes e apenas um resultado, cada qual responde separadamente pelo delito."
+      },
+      {
+        "letra": "B",
+        "texto": "o concurso de pessoas é a cooperação desenvolvida por várias pessoas para o cometimento de uma infração penal, sendo chamado também de coautoria, concurso de agentes ou cumplicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "a teoria dualista afirma que na pluralidade de agentes com diversidade de condutas, sendo um só o resultado, não se separam os coautores."
+      },
+      {
+        "letra": "D",
+        "texto": "a intenção do partícipe em concorrer para crime menos grave não afeta sua pena, segundo a teoria admitida pelo Código Penal Brasileiro."
+      },
+      {
+        "letra": "E",
+        "texto": "é requisito do concurso de pessoas o ajuste prévio de condutas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "509527",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Consoante proclama a doutrina, a participação é conduta acessória à do autor, considerada principal, elencando algumas espécies de acessoriedade. Aquela que afirma que o partícipe somente é responsabilizado quando diante de um fato típico, ilícito e culpável, é a denominada acessoriedade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "limitada"
+      },
+      {
+        "letra": "B",
+        "texto": "extremada"
+      },
+      {
+        "letra": "C",
+        "texto": "hiperacessoriedade"
+      },
+      {
+        "letra": "D",
+        "texto": "mínima"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "423155",
+    "metadata": "Ano: 2013 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Considere a seguinte situação hipotética: Tício, Mélvio e Caio resolvem praticar um crime de roubo mediante uso de arma de fogo. Caio arranja um revólver para a prática do crime, enquanto Mélvio fica responsável pelo transporte dos comparsas e dar-lhes fuga. Tício fica responsável por atrair a vítima até o local onde o crime foi praticado. Caio, que escondido aguardava, é quem rende e ameaça a vítima com a arma de fogo. Cometido o roubo, Tício e Caio empreendem fuga levados por Mélvio. Segundo o entendimento do Superior Tribunal de Justiça, Mélvio foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Partícipe, pois não executou o núcleo do tipo."
+      },
+      {
+        "letra": "B",
+        "texto": "Coautor funcional ou parcial do crime."
+      },
+      {
+        "letra": "C",
+        "texto": "Coautor do crime, mas sua atuação foi de menor importância, fazendo jus à redução legal."
+      },
+      {
+        "letra": "D",
+        "texto": "Responsável apenas pelo crime de favorecimento pessoal."
+      },
+      {
+        "letra": "E",
+        "texto": "Partícipe, em consonância com Teoria do Domínio do Fato, adotada pelo Código Penal, uma vez que não tinha o controle da conduta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "421704",
+    "metadata": "Ano: 2013 | Banca: TRT 22 PI | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Pereirão era um sujeito odiado no povoado em que morava. Acabava festas, brigava, dava surras em pessoas, estuprava mulheres. Era um terror. Em razão disso, angariou muitos inimigos, entre eles, Nepomuceno e Nicodemos, que, apesar da semelhança dos nomes, não eram sequer parentes. Ambos queriam matar Pereirão, mas nunca fizeram prévio contato para ajustarem suas condutas. Em determinado dia, sabendo que Pereirão passava por um beco escuro para se recolher à noite, Nepomuceno e Nicodemos se armaram de armas de fogo e foram emboscar a vítima, repita-se, sem saberem da conduta um do outro. No momento em que Pereirão passava, eles atiraram e a vítima faleceu em razão dos ferimentos causados. No caso, analisando sob o aspecto do concurso de pessoas, em qual das hipóteses eles se enquadram:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "co-autoria;"
+      },
+      {
+        "letra": "B",
+        "texto": "autoria mediata,"
+      },
+      {
+        "letra": "C",
+        "texto": "participação;"
+      },
+      {
+        "letra": "D",
+        "texto": "autoria colateral;"
+      },
+      {
+        "letra": "E",
+        "texto": "autoria ignorada"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "356776",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Glauco andava de bicicleta numa estrada rural. Caiu do veículo e teve fratura exposta do osso de uma das pernas. João e José passaram pelo local, viram Glauco caído e pedindo auxílio, mas deixaram de socorrê-lo, apesar de poderem fazê-lo sem risco pessoal. Responderão pelo crime de omissão de socorro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João como autor e José como co-autor, não se caracterizando a participação."
+      },
+      {
+        "letra": "B",
+        "texto": "João e José como partícipes, não se caracterizando a co-autoria."
+      },
+      {
+        "letra": "C",
+        "texto": "João como autor e José como partícipe, não se caracterizando a co-autoria."
+      },
+      {
+        "letra": "D",
+        "texto": "José como autor e João como partícipe, não se caracterizando a co-autoria."
+      },
+      {
+        "letra": "E",
+        "texto": "João e José como autores isolados, não se caracterizando o concurso de agentes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "302401",
+    "metadata": "Ano: 2013 | Banca: UEG | Órgão: PC-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Sobre o concurso de pessoas, tem-se o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pela teoria do favorecimento da participação, a punibilidade do partícipe depende da culpabilidade do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "pelo conceito extensivo, autor é quem executa a ação típica, não havendo diferença entre autoria e participação."
+      },
+      {
+        "letra": "C",
+        "texto": "pela cooperação dolosamente distinta, ocorre uma divergência entre o elemento subjetivo do partícipe e a conduta realizada pelo autor."
+      },
+      {
+        "letra": "D",
+        "texto": "pela teoria objetivo-formal, autor é causa do delito, enquanto partícipe é condição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1208637",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Necessariamente, autores e partícipes recebem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "penas idênticas."
+      },
+      {
+        "letra": "B",
+        "texto": "penas, respectivamente, mais e menos graves"
+      },
+      {
+        "letra": "C",
+        "texto": "penas, respectivamente, menos e mais graves"
+      },
+      {
+        "letra": "D",
+        "texto": "penas igualmente graves, mas de espécies distintas."
+      },
+      {
+        "letra": "E",
+        "texto": "penas igualmente graves, salvo se diversa for sua culpabilidade."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "610741",
+    "metadata": "Ano: 2012 | Banca: MS CONCURSOS | Órgão: PC-PA",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "A participação é a atividade acessória daquele que colabora para a conduta do autor com a prática de uma ação que, em si mesma, não é penalmente relevante, ou seja, o partícipe não é aquele que realiza a conduta típica, e sim contribui de alguma forma para o crime acontecer. Sobre isso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É chamada de participação impunível quando o fato principal não chega a ingressar em sua fase executória. Como antes disso o fato não pode ser punido, a participação também restará impune. Sendo assim, o auxílio, a instigação e o induzimento são atípicos na fase preparatória."
+      },
+      {
+        "letra": "B",
+        "texto": "A participação por omissão é chamada de negativa e não existe o dever jurídico de agir no caso em tela."
+      },
+      {
+        "letra": "C",
+        "texto": "O caso em que o partícipe induz o autor a praticar um crime e depois o auxilia é chamado de participação de participação."
+      },
+      {
+        "letra": "D",
+        "texto": "São consideradas formas de participação: moral, material e imoral."
+      },
+      {
+        "letra": "E",
+        "texto": "O executor é considerado mandante porque ele realizou o verbo do tipo, e o autor principal atua como partícipe, pela instigação, induzimento ou auxílio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "295618",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: TJ-RN",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções Fundamentais",
+      "A norma penal",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "É certo afirmar: I. A classificação dos crimes pode ser considerada como a organização dos delitos em diversas categorias, com a finalidade de proporcionar melhor estudo e aplicação de cada um dos tipos penais incriminadores, ora levando em consideração o momento consumativo, ora o sujeito ativo capaz de cometer a infração penal, dentre outros fatores. II. Partícipe é a pessoa que, juntamente com outra ou outras, ingressa no tipo penal, em qualquer dos seus aspectos. III. Chama-se de “autoria colateral” quando duas ou mais pessoas contribuem para a materialização do delito, sem que uma saiba da colaboração da outra. IV. Direito penal máximo é um método de aplicação do Direito Penal, cuja finalidade é punir a infração máxima a fim de não se tornar algo mais grave, sem que haja maiores freios ou limites para a aplicação de penas. Analisando as proposições, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições II e IV estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "270737",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: TJ-MG",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Para que o partícipe venha a ser punido por uma infração penal, é preciso que, além da presença dos requisitos do concurso de pessoas, o autor tenha iniciado a execução do delito, nos termos do artigo 31 do Código Penal. Em que momento poderá ter ocorrido a contribuição do partícipe para que este seja punido pela mesma infração do autor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após a consumação delitiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Desde a ideação até a consumação."
+      },
+      {
+        "letra": "C",
+        "texto": "Em qualquer momento, até o exaurimento do delito."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos crimes permanentes, em qualquer momento da execução, ainda que irrelevante tenha sido a conduta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "270622",
+    "metadata": "Ano: 2012 | Banca: CETRO | Órgão: TJ-RJ",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Sobre concurso de pessoas, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é inadmissível coautoria em crime culposo."
+      },
+      {
+        "letra": "B",
+        "texto": "na autoria colateral, duas ou mais pessoas intervêm na execução de um crime, buscando o mesmo resultado, sem ignorar a conduta alheia."
+      },
+      {
+        "letra": "C",
+        "texto": "autoria incerta é igual a autoria desconhecida."
+      },
+      {
+        "letra": "D",
+        "texto": "na participação, o partícipe também pratica o núcleo do tipo penal."
+      },
+      {
+        "letra": "E",
+        "texto": "o autor mediato é aquele que realiza indiretamente o núcleo do tipo, valendo-se de pessoa sem culpabilidade ou que age sem dolo ou culpa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "253697",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "À luz do entendimento dos tribunais superiores acerca do concurso de pessoas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite-se a participação nos tipos culposos ante a existência de vínculo psicológico na cooperação consciente de alguém na conduta culposa de outrem."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a teoria monista, havendo pluralidade de agentes e convergência de vontades para a prática da mesma infração penal, é possível o reconhecimento de que um agente teria praticado o delito na forma tentada e o outro, na forma consumada."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente que, previamente, na divisão de trabalho de intento criminoso, tenha o domínio funcional do fato e fuja do local do crime é considerado partícipe."
+      },
+      {
+        "letra": "D",
+        "texto": "A participação de somenos corresponde à mera participação menos importante, uma vez que, embora dentro da relação de causalidade, é praticamente dispensável."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há obrigatoriedade de redução de pena para o partícipe, em relação à pena do autor, considerada a participação em si mesma, como forma de concorrência diferente da autoria."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "249971",
+    "metadata": "Ano: 2012 | Banca: PUC-PR | Órgão: TJ-MS",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Culpabilidade",
+      "Participação",
+      "Noções Gerais da Culpabilidade"
+    ],
+    "enunciado_principal": "Analise os itens (casos hipotéticos) abaixo. Em seguida, marque a alternativa CORRETA: I. “A sociedade, por melhor organizada que seja, nunca terá possibilidade de brindar a todos os homens com as mesmas oportunidades. Em consequência disso, há sujeitos que têm um menor âmbito de autodeterminação, condicionado, desta maneira, por causas sociais. Não seria possível atribuir essas causas sociais ao sujeito e sobrecarregá-lo por ocasião da aplicação da pena”. II. “Um motorista de táxi conduz um passageiro até o seu destino. Durante o trajeto o passageiro fala ao telefone celular com uma terceira pessoa e diz estar indo de táxi até o local determinado para matar a esposa. O taxista ouve a conversa e, mesmo assim, leva o passageiro até o local. Posteriormente, o taxista tomou conhecimento pelos jornais de que o tal passageiro de fato matara a esposa.” III. “Um oficial de justiça cumpre mandado judicial de apreensão de bem móvel de terceiro inadimplente.” IV. “Um médico realiza cirurgia terapêutica em paciente com o consentimento desse paciente.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O item “I” refere-se ao conceito de co- culpabilidade e o item II é exemplo do princípio da proibição do regresso, que, segundo os seus fundamentos, afastará a responsabilidade do taxista por seu ato."
+      },
+      {
+        "letra": "B",
+        "texto": "O item “I” refere-se ao conceito de antijuridicidade material, enquanto que o item “II” constitui um exemplo de condutas neutras em direito penal."
+      },
+      {
+        "letra": "C",
+        "texto": "O item “III”, para a doutrina clássica em direito penal, constitui um exemplo de estrito cumprimento de um dever legal, já o item IV, para a doutrina moderna em direito penal, é exemplo de exercício regular de um direito que exclui a ilicitude através da ausência de antinormatividade conglobante na conduta do médico."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto o item “III” como o item “IV”, segundo a doutrina moderna em direito penal, são exemplos de condutas atípicas pela ausência de antinormatividade, já que são situações em que há uma ordem ou um fomento do Estado. O item “I” refere-se ao conceito de antijuridicidade formal."
+      },
+      {
+        "letra": "E",
+        "texto": "Tanto o item “III” como o item “IV”, segundo entendimento da doutrina moderna em direito penal, são exemplos de ausência de tipicidade conglobante. O item II, por sua vez, é exemplo do princípio da competência ou da capacidade, que, segundo Gunther Jakobs, afasta a imputação objetiva do resultado típico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "242935",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "Em matéria de concurso de pessoas, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nos crimes plurissubjetivos o concurso é eventual."
+      },
+      {
+        "letra": "B",
+        "texto": "a autoria mediata configura coautoria."
+      },
+      {
+        "letra": "C",
+        "texto": "nos crimes funcionais a condição de servidor público do autor não se comunica ao partícipe não funcionário, se este desconhecia a condição daquele."
+      },
+      {
+        "letra": "D",
+        "texto": "a participação de menor importância constitui circunstância atenuante, a ser considerada na segunda etapa do cálculo da pena."
+      },
+      {
+        "letra": "E",
+        "texto": "as mesmas penas deverão ser aplicadas a todos os coautores e partícipes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "215767",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TCE-AP",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Participação"
+    ],
+    "enunciado_principal": "A respeito do concurso de pessoas, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para fins de aplicação da pena no concurso de pessoas é irrelevante que a participação tenha sido de menor importância."
+      },
+      {
+        "letra": "B",
+        "texto": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena do crime mais grave."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível a participação em crime comissivo puro."
+      },
+      {
+        "letra": "D",
+        "texto": "As condições e circunstâncias pessoais comunicam- se entre os coautores e partícipes quando não forem elementares do crime."
+      },
+      {
+        "letra": "E",
+        "texto": "Pode ocorrer participação culposa em crime doloso ou participação dolosa em crime culposo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "707064",
+    "metadata": "Ano: 2011 | Banca: MPE-PB | Órgão: MPE-PB",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Culpabilidade",
+      "Potencial conhecimento da ilicitude – Erro de proibição",
+      "Autoria e coautoria",
+      "Inimputabilidade pela embriaguez",
+      "Participação",
+      "Cooperação dolosamente distinta"
+    ],
+    "enunciado_principal": "Julgue as seguintes assertivas: I - Em qualquer caso, a embriaguez acidental afasta a imputabilidade penal. II - A coação moral irresistível (vis compulsiva) exclui a ação, por inexistência de vontade. III - A ausência da potencial consciência da ilicitude dá lugar ao erro de proibição (art. 21, CP), que, quando inescusável, é causa excludente de culpabilidade. IV - A cooperação dolosamente distinta é circunstância atenuante que somente se aplica à modalidade de participação, não abrangendo os casos de coautoria.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e IV estão erradas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "(Abstenção de resposta - Seção VIII, item 11, do Edital do Concurso)."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "216436",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Autoria e coautoria",
+      "Participação"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito do concurso de pessoas e de crimes, da relação de causalidade e do crime continuado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Com relação ao concurso de pessoas, no CP, tal como no sistema monístico ou unitário, distinguem-se punibilidade de autoria e de participação. Caso ocorra arrependimento do partícipe que tenha instigado ou induzido o autor à prática da infração e este tenha decidido pelo cometimento do delito, somente não será responsabilizado o partícipe se conseguir impedir que o autor realize a conduta criminosa."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com a teoria do domínio do fato no âmbito dos delitos culposos, a autoria imediata equipara-se à coautoria, visto que autor e coautor nas consequências do delito são aqueles que executam parte necessária do plano global, o domínio funcional do fato, que, embora não seja ato típico, integra a resolução previamente acordada da prática do crime"
+      },
+      {
+        "letra": "C",
+        "texto": "No que se refere ao concurso material de crimes, adota-se, no sistema penal brasileiro, a teoria da absorção, de acordo com a qual a pena do delito maior absorve a sanção penal do menos grave; no tocante ao crime continuado e ao concurso formal perfeito, adota-se o sistema da exasperação."
+      },
+      {
+        "letra": "D",
+        "texto": "No sistema penal brasileiro, adota-se, no que diz respeito à relação de causalidade, a teoria da equivalência causal, caracterizada pelo fato de o agente utilizar-se conscientemente das condições para justificar sua conduta criminosa, considerada a energia humana necessária para ocorrer o resultado pretendido, do qual deriva a responsabilidade penal. Essa teoria deixa nítida a distinção entre causa efficiens e condições."
+      },
+      {
+        "letra": "E",
+        "texto": "A doutrina contemporânea registra como necessária a presença de alguns elementos para a caracterização do crime continuado, entre os quais se incluem o fator psicológico ou dolo unitário e a habitualidade da infração, no aspecto subjetivo, e, no objetivo, a identidade do bem jurídico tutelado e do tipo penal, além de mesma titularidade da vítima."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "210354",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRE-PE",
+    "categoria": "Direito Penal",
+    "subcategorias": [
+      "Concurso de Pessoas",
+      "Noções gerais de Concursos de Pessoas",
+      "Autoria e coautoria",
+      "Participação",
+      "Punibilidade no concurso de pessoas"
+    ],
+    "enunciado_principal": "De acordo com o Código Penal brasileiro,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há distinção entre autores, co-autores e partícipes, que incidem de forma idêntica nas penas cominadas ao delito."
+      },
+      {
+        "letra": "B",
+        "texto": "os autores, co-autores e partícipes incidem nas penas cominadas ao delito na medida de sua culpabilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "ao autor principal será obrigatoriamente imposta pena mais alta que a dos co-autores e partícipes."
+      },
+      {
+        "letra": "D",
+        "texto": "ao autor principal e aos co-autores será obrigatoriamente imposta pena mais alta que a dos partícipes."
+      },
+      {
+        "letra": "E",
+        "texto": "ao autor principal será imposta a pena prevista para o delito, sendo que os co-autores e os partícipes terão obrigatoriamente a pena reduzida de um sexto a um terço."
+      }
+    ],
+    "gabarito": "B"
+  }
+]
