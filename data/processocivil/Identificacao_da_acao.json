@@ -1,0 +1,302 @@
+[
+  {
+    "id": "562738",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO AOCP | Órgão: EBSERH",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Da ação",
+      "Critérios de competência",
+      "Identificação da ação",
+      "Pressupostos Processuais",
+      "Imparcialidade do Juiz e Competência do Juízo"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabendo ao juiz decidir simultaneamente a ação principal e a oposição, conhecerá em primeiro lugar a ação principal."
+      },
+      {
+        "letra": "B",
+        "texto": "A ação intentada perante tribunal estrangeiro induz litispendência e permite que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo conexão ou continência, o juiz, de ofício ou a requerimento de qualquer das partes, pode ordenar a reunião de ações propostas em separado, a fim de que sejam decididas simultaneamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos e termos processuais dependem de forma determinada senão quando a lei expressamente a exigir reputando-se válido os que, realizado de outro modo, lhe preencham a finalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz nunca responderá por perdas e danos pelos atos praticados no exercício de sua função, ainda que proceda com dolo ou fraude."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "512398",
+    "metadata": "Ano: 2015 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "Sobre a conexão entre ações, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorrendo a conexão entre ações cujos juízes tem a mesma competência territorial, considera-se prevento aquele que teve o processo distribuído em primeiro lugar."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorrendo a conexão entre ações cujos juízes tem competência territorial diversa, considera-se prevento aquele que tiver primeiro realizado a citação válida."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo conexão entre as ações o Juiz não pode ex officio ordenar a reunião das ações propostas em separado."
+      },
+      {
+        "letra": "D",
+        "texto": "Dá-se a conexão entre duas ou mais ações sempre que há identidade quanto às partes e à causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "670345",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "Conforme a classificação quinária de Pontes de Miranda, as ações classificam-se em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conhecimento, execução, cautelares, ordinária e sumária."
+      },
+      {
+        "letra": "B",
+        "texto": "condenatória, declaratória e constitutiva."
+      },
+      {
+        "letra": "C",
+        "texto": "declaratória, condenatória, constitutiva, mandamental e executiva lato sensu."
+      },
+      {
+        "letra": "D",
+        "texto": "condenatória, inibitória, declaratória, constitutiva e mandamental."
+      },
+      {
+        "letra": "E",
+        "texto": "inibitória, mandamental, ressarcitória, executiva e constitutiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "448910",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "Uma questão preliminar cujo acolhimento não pode levar à prolação de sentença terminativa é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conexão;"
+      },
+      {
+        "letra": "B",
+        "texto": "carência de ação;"
+      },
+      {
+        "letra": "C",
+        "texto": "litispendência;"
+      },
+      {
+        "letra": "D",
+        "texto": "coisa julgada;"
+      },
+      {
+        "letra": "E",
+        "texto": "inépcia da petição inicial."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "448909",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "A alternativa que alude apenas aos elementos da ação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "órgão jurisdicional, partes e pedido;"
+      },
+      {
+        "letra": "B",
+        "texto": "órgão jurisdicional, causa de pedir e demanda;"
+      },
+      {
+        "letra": "C",
+        "texto": "partes, causa de pedir e pedido;"
+      },
+      {
+        "letra": "D",
+        "texto": "partes, interesse processual e pedido;"
+      },
+      {
+        "letra": "E",
+        "texto": "causa de pedir, interesse processual e demanda."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "432611",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: MPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "A teoria consagrada no direito processual civil brasileiro que norteia a identificação da causa de pedir é a da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "asserção;"
+      },
+      {
+        "letra": "B",
+        "texto": "substanciação;"
+      },
+      {
+        "letra": "C",
+        "texto": "individuação;"
+      },
+      {
+        "letra": "D",
+        "texto": "tríplice identidade;"
+      },
+      {
+        "letra": "E",
+        "texto": "concreta da ação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "362501",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Da ação",
+      "Coisa Julgada no CPC 1973",
+      "Identificação da ação",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Respeito ao Formalismo Processual - citação válida, petição inicial apta, etc.",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Compete ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito, com que impugna o pedido do autor, especificando, outrossim, as provas que pretende produzir. Porém, antes de discutir o mérito, o réu pode alegar preliminarmente na peça contestatória, nos termos do Código de Processo Civil, o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Litispendência, coisa julgada, conexão, reconvenção, incapacidade da parte, convenção de arbitragem;"
+      },
+      {
+        "letra": "B",
+        "texto": "Inexistência da citação, incompetência absoluta, inépcia da petição inicial, reconvenção, perempção;"
+      },
+      {
+        "letra": "C",
+        "texto": "Nulidade da citação, incompetência relativa, perempção, continência, conexão, falta de autorização;"
+      },
+      {
+        "letra": "D",
+        "texto": "Continência, carência de ação, defeito de representação, incompetência absoluta, exceção de suspeição;"
+      },
+      {
+        "letra": "E",
+        "texto": "Inépcia da petição inicial, litispendência, coisa julgada, conexão, incapacidade da parte, carência de ação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "616291",
+    "metadata": "Ano: 2013 | Banca: CESGRANRIO | Órgão: LIQUIGÁS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação"
+    ],
+    "enunciado_principal": "Cristina, tendo tomado ciência de que determinada empresa estaria poluindo o rio que corta o seu município e que fornece água para a municipalidade, apresenta ação popular para obstar a atividade poluidora. A petição inicial vem a ser distribuída ao Juízo da 1ª Vara Cível da Comarca que abrange o referido município. No dia seguinte, o Ministério Público que atua na Comarca propõe Ação Civil Pública com o mesmo objeto, que vem a ser distribuída ao Juízo da 2ª Vara Cível da Comarca. Regularmente citada, a empresa ré apresenta defesa em que aduz a impossibilidade de duas ações com o mesmo objeto. Nesse caso, deverá ocorrer a(o)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extinção da ação mais antiga, que seria a ação popular."
+      },
+      {
+        "letra": "B",
+        "texto": "reunião de ações pela existência de conexão de causas."
+      },
+      {
+        "letra": "C",
+        "texto": "apresentação de exceção de coisa julgada para evitar julgamentos contraditórios."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelecimento de conflito de competência negativo entre os dois Juízos envolvidos."
+      },
+      {
+        "letra": "E",
+        "texto": "julgamento autônomo das duas ações por ausência de incompatibilidade lógica entre ambas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "425986",
+    "metadata": "Ano: 2012 | Banca: TJ-GO | Órgão: TJ-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da ação",
+      "Identificação da ação",
+      "Pressupostos Processuais"
+    ],
+    "enunciado_principal": "Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A competência absoluta tutela o interesse público, por isso pode ser reconhecida de ofício pelo juiz, podendo ser alegada pelas partes em qualquer tempo e grau de jurisdição, independentemente de exceção. De outro lado, a incompetência relativa tutela interesses privados, devendo ser alegada pelas partes por meio de exceção no prazo legal, sob pena de prorrogação da competência. Assim como na incompetência absoluta, uma vez declarada a incompetência relativa, somente os atos decisórios serão nulos, remetendo-se os autos ao juiz competente."
+      },
+      {
+        "letra": "B",
+        "texto": "A existência de vara privativa, instituída por lei estadual, altera a competência territorial resultante das leis de processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se trata de conexão e sim continência, quando duas ou mais ações possuem identidade de partes e de causa de pedir, mas o objeto de uma, por ser mais amplo, abrange o das outras."
+      },
+      {
+        "letra": "D",
+        "texto": "A conexão não determina a reunião dos processos, se um deles já foi julgado."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

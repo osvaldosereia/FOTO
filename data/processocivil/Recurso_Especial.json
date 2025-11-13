@@ -1,0 +1,2987 @@
+[
+  {
+    "id": "685502",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Câmara Municipal de Poá - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Embargos infringentes",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Contra acórdão que reduz o valor do dano moral fixado em sentença por maioria, sendo que o terceiro juiz pretendia aumentá-la, assinale a alternativa correta que responde se é possível e qual o recurso que seria cabível para prevalecer o valor menor indicado pelo voto vencido.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sim, embargos de declaração."
+      },
+      {
+        "letra": "B",
+        "texto": "Sim, agravo regimental."
+      },
+      {
+        "letra": "C",
+        "texto": "Sim, embargos infringentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Sim, recurso especial."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há recurso cabível para a pretensão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "646045",
+    "metadata": "Ano: 2016 | Banca: IOBV | Órgão: Câmara de Barra Velha - SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Prazos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Determinado procurador de um Município foi intimado pelo diário da justiça para contrarrazoar um recurso especial, no dia 04 de fevereiro, uma quinta-feira, de um ano bissexto. Considerando que dia 08, segunda-feira, no caso hipotético, tenha sido feriado de carnaval, qual prazo final para interposição da defesa indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20/02."
+      },
+      {
+        "letra": "B",
+        "texto": "23/02."
+      },
+      {
+        "letra": "C",
+        "texto": "09/03."
+      },
+      {
+        "letra": "D",
+        "texto": "06/03."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "628743",
+    "metadata": "Ano: 2016 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Quanto aos recursos perante os Tribunais Superiores assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É inadmissível recurso especial ou extraordinário contra decisão interlocutória, vez que esta se sujeita a agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "É inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há previsão legal de manifestação de amicí curíae, na hipótese de recursos especiais repetitivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os procedimentos quanto à questão da multiplicidade de recursos especiais e extraordinários com fundamento em idêntica questão de direito não se aplicam ao recurso de revista junto ao Tribunal Superior do Trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "Não cabe recurso especial contra Acórdão proferido no julgamento de agravo de instrumento, pois não há decisão de mérito da causa no agravo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "620590",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "À luz da legislação processual civil e da jurisprudência dominante nos tribunais superiores acerca de recurso extraordinário e recurso especial, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de recursos especiais repetitivos, aqueles representativos da controvérsia serão selecionados e remetidos ao STJ para que seu julgamento sirva como paradigma, tendo a decisão neles proferida efeito vinculante para os que tenham ficado sobrestados no tribunal a quo."
+      },
+      {
+        "letra": "B",
+        "texto": "Interposto recurso extraordinário, o tribunal a quo poderá negar-lhe seguimento se constatar a ausência do requisito específico da repercussão geral."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas ações sujeitas ao procedimento dos juizados especiais cíveis, admite-se o recurso especial contra o acórdão proferido em julgamento do recurso inominado, afastando-se a possibilidade de interposição de recurso extraordinário, em razão de o último órgão julgador, na hipótese, caracterizar-se por turma recursal, e não tribunal."
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme o entendimento consolidado do STJ, é incabível, para fins de admissibilidade do recurso especial, o denominado prequestionamento ficto."
+      },
+      {
+        "letra": "E",
+        "texto": "O CPC estabelece que o recurso extraordinário e o recurso especial devem ser interpostos no prazo comum de quinze dias, de forma simultânea, sob pena de preclusão consumativa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "620389",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal e Territórios, quando denegatória serão julgados em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso de Apelação."
+      },
+      {
+        "letra": "B",
+        "texto": "Embargos Infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso Ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Especial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "614575",
+    "metadata": "Ano: 2016 | Banca: UECE-CEV | Órgão: DER-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "São espécies de recurso segundo o CPC:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apelação e recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "agravo retido e recurso em sentido estrito."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo de instrumento e recurso de revista."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso extraordinário e agravo de petição."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "814397",
+    "metadata": "Ano: 2015 | Banca: INSTITUTO AOCP | Órgão: EBSERH",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Cumprimento de sentença",
+      "Apelação no CPC 1973",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Impugnação ao cumprimento de sentença",
+      "Processo de execução",
+      "Dos embargos do devedor"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recurso extraordinário e o recurso especial impedem a execução da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Mesmo que a sentença esteja de acordo com súmula do Superior Tribunal de Justiça e do Supremo Tribunal Federal, o juiz deverá receber o recurso de apelação."
+      },
+      {
+        "letra": "C",
+        "texto": "Recebida a apelação em ambos os efeitos, o juiz poderá inovar no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os embargos à execução serão oferecidos no prazo de quinze dias, contados da juntada aos autos do mandado de citação e, quando houver mais de um executado, o prazo para cada um deles embargar conta-se a partir da juntada do respectivo mandado citatório, salvo tratando-se de cônjuge."
+      },
+      {
+        "letra": "E",
+        "texto": "A impugnação ao cumprimento de sentença deverá ser feita no prazo de 15 dias, a partir da intimação do cumprimento de sentença."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "604460",
+    "metadata": "Ano: 2015 | Banca: FUNCAB | Órgão: Faceli",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Sobre o Recurso Especial, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é o recurso cabível contra decisão proferida por órgão de segundo grau dos Juizados Especiais."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ser interposto em petição distinta do recurso extraordinário, no prazo de dez dias."
+      },
+      {
+        "letra": "C",
+        "texto": "se admitido conjuntamente com Recurso Extraordinário, pela regra geral os autos seguirão primeiro ao STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "quando admitido, é recebido no duplo efeito, isto é, nos efeitos devolutivo e suspensivo."
+      },
+      {
+        "letra": "E",
+        "texto": "é o recurso cabível para atacar decisão que contrarie ou negue vigência à lei federal, estadual ou municipal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "597311",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "No Código de Processo Civil, o art. 496 traz o rol dos recursos cabíveis em nosso sistema jurídico processual. Sobre tais recursos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a apelação é recurso cabível contra sentença, sendo que nos casos de extinção do processo sem julgamento do mérito, o tribunal não pode julgar desde logo a lide, se a causa versar sobre questão exclusivamente de direito e estiver em condições de imediato julgamento."
+      },
+      {
+        "letra": "B",
+        "texto": "após interpor agravo de instrumento, o agravante, no tríduo legal, deverá juntar aos autos do processo cópia da petição do referido recurso, o comprovante de sua interposição, bem como a relação dos documentos que o instruíram, sob pena de ser inadmitido."
+      },
+      {
+        "letra": "C",
+        "texto": "se tratando de Recurso Extraordinário, a súmula da decisão sobre a repercussão geral constará de ata do Julgamento que será publicada no Diário Oficial, mas não valerá como acórdão."
+      },
+      {
+        "letra": "D",
+        "texto": "não admitido o recurso extraordinário ou o recurso especial, caberá agravo em autos apartados no prazo de 10 (dez) dias."
+      },
+      {
+        "letra": "E",
+        "texto": "cabem embargos infringentes quando o acórdão não unânime houver reformado, em grau de apelação, a sentença que resolveu ou não de mérito, ou houver julgado procedente ação rescisória. Se o desacordo for parcial, os embargos serão restritos à matéria objeto da divergência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "588491",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Em relação aos recursos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Supremo Tribunal Federal, em decisão recorrível mediante agravo interno, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não oferecer repercussão geral, conforme definida em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime, e forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial, relativamente ao julgamento unânime, ficará sobrestado até a intimação da decisão nos embargos."
+      },
+      {
+        "letra": "C",
+        "texto": "O juiz não receberá o recurso de apelação, na Primeira Instância, quando a sentença estiver em desconformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabem embargos infringentes quando o acórdão não unânime houver reformado ou mantido, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória."
+      },
+      {
+        "letra": "E",
+        "texto": "Os embargos de declaração em nenhuma hipótese poderão ter caráter infringente do julgado embargado, são opostos somente para esclarecimentos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "574472",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRE-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "No tocante aos recursos, considere: I. Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime, e forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial, relativamente ao julgamento unânime, ficará sobrestado até a intimação da decisão nos embargos. II. Ao recurso adesivo se aplicam as mesmas regras do recurso independente, quanto às condições de admissibilidade, preparo e julgamento no tribunal superior. III. O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso. IV. O recurso interposto por um dos litisconsortes a todos aproveita, inclusive se distintos ou opostos os seus interesses. De acordo com o Código de Processo Civil brasileiro, está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "571874",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "Gilberto ajuizou demanda pelo procedimento ordinário contra o município de Salvador – BA. Após o devido contraditório, o magistrado prolatou sentença terminativa por considerar ausente condição da ação. Ao examinar a apelação interposta pelo autor, o tribunal, em acórdão não unânime, deu provimento ao recurso e, ato contínuo, aplicando a teoria da causa madura, examinou o mérito da causa de forma favorável ao particular, julgando o direito material em sentido contrário ao predominante na jurisprudência no que se refere a determinada questão de interpretação de lei federal. A respeito dessa situação hipotética, assinale a opção que apresenta o correto tipo de recurso que deverá ser interposto pelo município, conforme jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso especial"
+      },
+      {
+        "letra": "B",
+        "texto": "embargos infringentes"
+      },
+      {
+        "letra": "C",
+        "texto": "reclamação constitucional"
+      },
+      {
+        "letra": "D",
+        "texto": "recurso extraordinário"
+      },
+      {
+        "letra": "E",
+        "texto": "embargos de divergência"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "565648",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juizado Especial no CPC 1973",
+      "Recurso Especial",
+      "Juizado Especial - Federal"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, referente a jurisdição e competência no processo civil.Compete ao STJ julgar reclamação que tenha como finalidade dirimir divergência entre a jurisprudência contida em suas súmulas ou orientações decorrentes do julgamento de recurso especial repetitivo e acórdão em sentido oposto prolatado por turma recursal de juizado especial federal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "532500",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "No caso de remessa necessária, em que não houve recurso voluntário do ente público, reformando-se o julgado por maioria de votos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não caberá qualquer recurso."
+      },
+      {
+        "letra": "B",
+        "texto": "é cabível recurso especial, se o caso."
+      },
+      {
+        "letra": "C",
+        "texto": "é cabível embargos infringentes por ambas as partes."
+      },
+      {
+        "letra": "D",
+        "texto": "é cabível embargos infringentes pela parte vencida."
+      },
+      {
+        "letra": "E",
+        "texto": "é cabível embargos infringentes restrito à matéria da divergência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "525145",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCE-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "De acórdão do Tribunal de Justiça que, em apelação, der à lei federal interpretação divergente da que lhe haja atribuído outro tribunal e, ao mesmo tempo, julgar válida lei local contestada em face de lei federal caberá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respectivamente, recurso extraordinário e recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "apenas recurso extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "respectivamente, recurso especial e recurso extraordinário."
+      },
+      {
+        "letra": "E",
+        "texto": "recurso especial e agravo nos próprios autos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "515197",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Nos autos de uma ação indenizatória, o juiz da causa proferiu sentença em que julgava procedente o pleito autoral. Inconformado, o réu interpôs o recurso cabível, ao qual o órgão ad quem, por maioria de votos, deu provimento, para reconhecer o vício da carência de ação, diante da ilegitimidade ativa ad causam. Para fins de impugnação deste acórdão, será cabível, em tese:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o agravo interno;"
+      },
+      {
+        "letra": "B",
+        "texto": "o mandado de segurança;"
+      },
+      {
+        "letra": "C",
+        "texto": "o recurso especial;"
+      },
+      {
+        "letra": "D",
+        "texto": "o recurso ordinário-constitucional;"
+      },
+      {
+        "letra": "E",
+        "texto": "o recurso de embargos infringentes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "514894",
+    "metadata": "Ano: 2015 | Banca: FMP Concursos | Órgão: DPE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há precedente do Superior Tribunal de Justiça reconhecendo a possibilidade de atribuição de efeito translativo ao recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "É cabível recurso extraordinário de decisão proferida por Turma Recursal de Juizado Especial Cível, mas não o é o recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "A decisão recorrida que julgar válida lei local contestada em face de lei federal é passível, preenchidos os demais pressupostos, de recurso especial."
+      },
+      {
+        "letra": "D",
+        "texto": "O recurso especial é incabível para valoração de prova, mas é cabível para controle da adequada aplicação das normas de direito probatório."
+      },
+      {
+        "letra": "E",
+        "texto": "A decisão que resolve a respeito da repercussão geral é irrecorrível."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "512807",
+    "metadata": "Ano: 2015 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A respeito dos recursos extraordinário e especial, considere as seguintes afirmações, tomando-se por base a jurisprudência sumulada do STF e do STJ: 1) O recurso especial interposto antes do julgamento dos embargos de declaração oferecidos no Tribunal de origem não precisa ser ratificado diante da garantia constitucional do amplo acesso à justiça. 2) Não compete ao STF conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem. 3) Admite-se recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. 4) Cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, ainda quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida, diante da prevalência da matéria constitucional que atrai a competência do STF. De acordo com as assertivas propostas, marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas as assertivas 1, 3 e 4 estão incorretas;"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas as assertivas 2, 3 e 4 estão incorretas;"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas as assertivas 1, 2 e 3 estão incorretas;"
+      },
+      {
+        "letra": "D",
+        "texto": "todas as assertivas estão incorretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "498728",
+    "metadata": "Ano: 2015 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "EM SEDE DE RECURSO ESPECIAL, INTERPOSTO COM BASE NA ALINEA \"C\" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL, É CORRETO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ausência de cotejo analítico entre as decisões confrontadas faz incidir, por extensão, a Súmula 284 do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "Não ha falar em violação ao art. 535 do CPC quando o acordao impugnado tratou, de forma fundamentada, de toda a temática necessária ao deslinde da controvérsia."
+      },
+      {
+        "letra": "C",
+        "texto": "A pretensão de analise do contexto fático- probatório faz incidir o enunciado da Súmula 7 do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é passível de apreciação a suposta violação de dispositivo constitucional porque se trata de matéia reservada ao Supremo Tribunal Federal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "495295",
+    "metadata": "Ano: 2015 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "À luz da legislação vigente, aponte a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O incidente de uniformização de jurisprudência pode ser suscitado por qualquer das partes, nas razões do recurso ou em petição avulsa, solicitado pelo relator do recurso ou requerido pelo Ministério Público, quando for parte na ação."
+      },
+      {
+        "letra": "B",
+        "texto": "O relator negará seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior."
+      },
+      {
+        "letra": "C",
+        "texto": "O julgamento do incidente de uniformização de jurisprudência, quando tomado pelo voto da maioria absoluta dos membros que integram o tribunal ou órgão especial, poderá ser objeto de súmula regional ou estadual, servindo como súmula impeditiva de recurso especial ou extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorrendo relevante questão de direito, que faça conveniente prevenir ou compor divergência entre câmaras ou turmas do tribunal, poderá o relator propor seja o recurso julgado pelo órgão colegiado que o regimento indicar; reconhecendo o interesse público na assunção de competência, esse órção colegiado julgará o recurso."
+      },
+      {
+        "letra": "E",
+        "texto": "Negada a divergência suscitada no incidente de uniformização, o processo será devolvido ao órgão suscitante, a fim de que prossiga normalmente no julgamento do feito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "484441",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: PGE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Agravo de admissão",
+      "Classificação dos Recursos"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime e forem interpostos simultaneamente embargos infringentes e recurso extraordinário ou recurso especial, ficarão estes sobrestados até o julgamento daqueles."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra a decisão de juiz de direito de primeiro grau de jurisdição que não recebe o recurso de apelação quando a sentença estiver em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal cabe agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra a decisão do relator que converte o recurso de agravo de instrumento em agravo retido cabe agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "No julgamento de apelação, a utilização de novos fundamentos legais pelo tribunal para manter a sentença recorrida viola as regras da devolutividade dessa espécie recursal."
+      },
+      {
+        "letra": "E",
+        "texto": "Contra a decisão do órgão especial de Tribunal de Justiça que decide o incidente de declaração de inconstitucionalidade cabe recurso extraordinário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "484435",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: PGE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Acerca dos recursos especial e extraordinário no processo civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contra a decisão do presidente do Tribunal de Justiça que não admite recurso extraordinário ou recurso especial cabe agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "O pedido de intervenção, na qualidade de amicus curiae, em recurso especial submetido à sistemática dos recursos repetitivos pode ser realizado após o início do julgamento pelo órgão colegiado."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se conhece do recurso especial quando a orientação do Superior Tribunal de Justiça se firmou no mesmo sentido da decisão recorrida."
+      },
+      {
+        "letra": "D",
+        "texto": "A existência de repercussão geral no recurso extraordinário será decidida exclusivamente pelo plenário do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "A pendência de julgamento no Supremo Tribunal Federal de ação em que se discute a constitucionalidade de lei enseja o sobrestamento dos recursos que tramitam no Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "467341",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "A respeito dos recursos no âmbito do sistema processual civil e do processo de execução, julgue o seguinte item.Segundo entendimento do STJ, não é cabível a interposição de recurso especial para reexame de decisão que defira tutela antecipada. No entendimento do referido tribunal, essa é uma decisão precária que pode ser revogada ou modificada a qualquer tempo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "700428",
+    "metadata": "Ano: 2014 | Banca: PGE-MS | Órgão: PGE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A parte B, ao contestar determinada demanda, alegou dois fundamentos para a improcedência: inexistência do direito material afirmado na inicial e prescrição da ação. Na sentença de primeira instância o primeiro argumento da parte B (inexistência de direito material) foi acolhido e o pedido julgado improcedente. Houve recurso da parte A, autora da ação. O recurso não foi provido. A parte A, vencida também na segunda instância, manejou recurso extraordinário ao STF. A tese da prescrição não foi apreciada nem mencionada nas contrarrazões ao recurso extraordinário. O recurso extraordinário fora provido monocraticamente afastando o fundamento acolhido no acórdão recorrido (inexistência de direito material). Em sequência, a parte B manejou agravo regimental para que a matéria sobre a prescrição fosse apreciada. O agravo regimental foi rejeitado à unanimidade pela Turma, sob o argumento de que não teria havido prequestionamento da tese acerca da prescrição. Analise as seguintes possibilidades: I - A parte B deve propor embargos de declaração, com efeitos infringentes, para que o STF aprecie, se entender pertinente, a questão da prescrição, mesmo não tendo sido discutida no Tribunal de origem, posto que cumpre ao STF, ao prover o recurso extraordinário, aplicar o direito à espécie, nos termos de sua súmula 456. II - Admite-se a propositura de embargos de declaração, com efeitos infringentes, para que o STF determine o retorno dos autos ao Tribunal de origem para examinar a matéria prescricional. III - Os embargos de declaração podem ser propostos, mas não serão admitidos, porque houve ausência de prequestionamento, fato impeditivo para apreciação da matéria no STF. Agora escolha a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva I está correta"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva II está correta"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III está correta"
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I e II estão corretas cabendo ao STF examinar a ocorrência da prescrição ou remeter a apreciação da matéria ao juízo recorrido."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das assertivas está correta porque na hipótese não se admite a propositura de embargos de declaração no STF contra acórdão que nega provimento a agravo regimental por ausência de prequestionamento. Assim, os embargos de declaração não podem ser conhecidos por ausência de omissão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "680189",
+    "metadata": "Ano: 2014 | Banca: UNESPAR | Órgão: UNESPAR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Em uma ação de indenização por Dano Moral proposta em face de um dos Campus da UNESPAR, o juiz rejeitou preliminar de ilegitimidade passiva de parte alegada por você na condição de Advogado da UNESPAR. Desta decisão você interpôs agravo de instrumento, que veio a ser provido pelo Tribunal de Justiça do Estado do Paraná por unanimidade de votos, com fundamento em lei federal e na Constituição da República. Neste caso poderá o agravado interpor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso especial retido, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso extraordinário retido, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso especial e recurso extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Embargos infringentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Recurso extraordinário retido e recurso especial retido."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "598464",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Nossa Senhora do Socorro - SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Em relação a estas afirmativas estão CORRETAS",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e V apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, IV e V apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, IV e V apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e V apenas"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "574685",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: Câmara Municipal do Recife - PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Caio propôs ação em face de Ticio, pleiteando a sua condenação a lhe pagar verbas indenizatórias em razão de ato ilícito que lhe atribuiu. Tendo o juiz acolhido o pedido autoral, interpôs o réu recurso de apelação, suscitando, em linha de preliminar, a incompetência absoluta do juízo a quo e, no mérito, a ausência dos pressupostos da responsabilidade civil que lhe fora imputada pela parte autora. O órgão fracionário do Tribunal de Justiça ao qual foi distribuído o recurso de apelação, por maioria de votos, deu-lhe provimento para reconhecer a incompetência absoluta do juízo de primeiro grau, anulando a sentença prolatada e determinando a remessa dos autos ao órgão judicial competente, a fim de que o feito ali tivesse prosseguimento. Para impugnar esse acórdão, poderá Caio se valer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do mandado de segurança;"
+      },
+      {
+        "letra": "B",
+        "texto": "do recurso especial;"
+      },
+      {
+        "letra": "C",
+        "texto": "do agravo interno ou legal;"
+      },
+      {
+        "letra": "D",
+        "texto": "do recurso ordinário-constitucional;"
+      },
+      {
+        "letra": "E",
+        "texto": "dos embargos infringentes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "516448",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: Prefeitura de Poá - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "No tocante ao recurso especial, nos termos da jurisprudência do Superior Tribunal de Justiça:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as questões de ordem pública podem ser decididas de ofício, independentemente de prequestionamento ou de conhecimento do recurso."
+      },
+      {
+        "letra": "B",
+        "texto": "não se admite recuso especial destinado ao reexame ou à revaloração da prova."
+      },
+      {
+        "letra": "C",
+        "texto": "admite­se recuso especial que importe em interpretação legal ou contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "admite­se a desistência do recurso representativo da controvérsia, mesmo após iniciado o procedimento de julgamento pelo procedimento dos recursos especiais repetitivos."
+      },
+      {
+        "letra": "E",
+        "texto": "não se admite recurso especial quanto a questão que, mesmo tendo sido objeto de embargos de declaração, não tenha sido apreciada pelo Tribunal de origem."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "513793",
+    "metadata": "Ano: 2014 | Banca: INSTITUTO AOCP | Órgão: UFMS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "No tocante aos recursos no Processo Civil, é INCORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recurso extraordinário e o recurso especial impedem a execução da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público."
+      },
+      {
+        "letra": "C",
+        "texto": "cumpre ao terceiro demonstrar o nexo de interdependência entre o seu interesse de intervir e a relação jurídica submetida à apreciação judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "o Ministério Público tem legitimidade para recorrer assim no processo em que é parte, como naqueles em que oficiou como fiscal da lei."
+      },
+      {
+        "letra": "E",
+        "texto": "o recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "470605",
+    "metadata": "Ano: 2014 | Banca: CEC | Órgão: Prefeitura de Piraquara - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A respeito de recurso especial e extraordinário, considere as seguintes afirmativas: I. É requisito especial de admissibilidade do recurso especial e do recurso extraordinário a repercussão geral, que deverá ser demonstrada em preliminar do recurso. II. Só é cabível recurso especial e extraordinário se a matéria estiver prequestionada, ainda que o prequestionamento tenha ocorrido em sede de embargos de declaração. III. A pretensão de simples reexame de prova não enseja recurso especial ou recurso extraordinário. IV. O relator do recurso extraordinário não pode admitir a manifestação de terceiros na análise da repercussão geral na qualidade de amicus curiae. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas II e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas I, II e IV são verdadeiras"
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmativas I, II, III e IV são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente a afirmativa IV é verdadeira."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "462676",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TCE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A respeito dos recursos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o preparo do agravo retido pode ser feito após a sentença, na hipótese do agravante pleitear o conhecimento deste como preliminar do julgamento do recurso de apelação."
+      },
+      {
+        "letra": "B",
+        "texto": "o exame dos pressupostos de admissibilidade da apelação só pode ser feito pelo juiz no momento do recebimento do recurso, vedado o reexame de tais pressupostos após a apresentação da resposta."
+      },
+      {
+        "letra": "C",
+        "texto": "no procedimento ordinário, os embargos de declaração interrompem o prazo para a interposição de outros recursos por qualquer das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "no recurso extraordinário, a existência de repercussão geral só poderá ser reconhecida pelo Plenário do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "no recurso especial admite-se o reexame da prova quando o recorrente for beneficiário da assistência judiciária."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "462260",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Prazos",
+      "Embargos infringentes",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Manuel propõe ação de indenização pleiteando danos materiais cumulados com danos morais em face de Joaquim, por ter este agredido aquele em uma festa. Alega o autor que o réu quebrou seus óculos e ofendeu sua honra ao insultá-lo na frente de todos os convidados. O juízo de primeira instância julgou improcedentes ambos os pedidos. Manuel apela e consegue provimento por unanimidade em relação ao dano material e provimento por maioria em relação ao dano moral. Joaquim, por sua vez, interpõe recurso especial, pedindo a reforma do acórdão que deu provimento ao recurso em ambos os pedidos (dano material e moral), sustentando a ofensa e violação a determinado dispositivo do Código de Processo Civil aplicável ao caso. Sobre a situação fática apresentada, assinale a afirmativa correta. .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O prazo para a interposição do recurso especial em relação ao pedido de dano material, em não havendo interposição de recurso de embargos infringentes, será contado a partir do momento em que ocorrer a preclusão temporal do recurso de embargos infringentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é cabível, no caso, a interposição de embargos Infringentes, senão apenas o recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissível diretamente o recurso especial atacando o acórdão que julgou o pedido de dano moral, uma vez que está presente o prequestionamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O recurso especial, atacando o pedido de dano material, e o Recurso de embargos infringentes, atacando o pedido de dano moral, devem ser interpostos no prazo de 15 dias após a intimação do acórdão que julgou o recurso de apelação na segunda instância."
+      },
+      {
+        "letra": "E",
+        "texto": "Não cabe nenhum recurso do acórdão, por já ter ocorrido preclusão lógica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "462249",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Funcionário público impetrou mandado de segurança pleiteando a invalidação do ato administrativo que o demitira do serviço público. Tendo o juiz da causa concedido a ordem, a pessoa jurídica de direito público, inconformada, interpôs o recurso cabível, ao qual o órgão ad quem, por maioria de votos, deu provimento, para julgar improcedente o pedido. Para fins de impugnação desse acórdão, será cabível, em tese, o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "mandado de segurança."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso ordinário-constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "recurso de embargos infringentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "460479",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PGM - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Apelação no CPC 1973",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Para impugnar o acórdão não unânime de Tribunal de Justiça, que tenha julgado improcedente ação rescisória, é cabível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso ordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso de embargos infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial e/ou recurso extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso de apelação."
+      },
+      {
+        "letra": "E",
+        "texto": "agravo regimental."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "457369",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo retido",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "Desembargador relator em sede de apelação, violando a norma constitucional, determina a busca e apreensão de uma criança. Dessa decisão monocrática, o recurso cabível é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "agravo interno;"
+      },
+      {
+        "letra": "B",
+        "texto": "agravo nos autos;"
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial;"
+      },
+      {
+        "letra": "D",
+        "texto": "recurso extraordinário;"
+      },
+      {
+        "letra": "E",
+        "texto": "embargos de divergência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "455121",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "A decisão colegiada do Órgão Especial do Tribunal de Justiça do Rio de Janeiro que, por maioria, acolhendo um incidente de uniformização da jurisprudência, aplica a lei federal de maneira diferente de como ela vem sendo aplicada por outros tribunais, desafia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "embargos de declaração, para suprir eventuais omissões no julgado;"
+      },
+      {
+        "letra": "B",
+        "texto": "embargos de divergência no STJ, para uniformização da jurisprudência a ser seguida pelos tribunais;"
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial por dissídio jurisprudencial, por violação da orientação acolhida em outros tribunais;"
+      },
+      {
+        "letra": "D",
+        "texto": "embargos infringentes, por se tratar de acórdão não unânime;"
+      },
+      {
+        "letra": "E",
+        "texto": "recurso especial, por violação da lei federal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "432689",
+    "metadata": "Ano: 2014 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Sobre o recurso especial e o recurso extraordinário, analise as assertivas abaixo e responda: I. Por via de regra, não há efeito translativo no recurso especial. O entendimento jurisprudencial do STJ orienta-se no sentido de que mesmo as matérias de ordem pública necessitam estar devidamente prequestionadas; II. Não se conhece de recurso especial fundado em dissídio jurisprudencial quando a parte não realiza o devido cotejo analítico a fim de demonstrar a similitude fática e jurídica entre os julgados; III. A falta de fundamentação da preliminar de repercussão geral inviabiliza o processamento do recurso extraordinário.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a assertiva II é correta;"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas II e III são corretas;"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I e III são corretas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e II são corretas;"
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas são corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "427905",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Contra decisão monocrática do relator, que defere a concessão de efeito suspensivo a recurso de agravo de instrumento, é cabível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mandado de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "agravo ao órgão julgador colegiado"
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial ou recurso extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "agravo de instrumento ao Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "425310",
+    "metadata": "Ano: 2014 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "Em relação aos prazos previstos para recursos no Processo Civil, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apelação 15 dias; Agravo de Instrumento 15 dias; Agravo Retido 10 dias; Embargos Infringentes 15 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso ordinário ao STF 15 dias; Recurso ordinário ao STJ 15 dias; Recurso especial ao STJ 15 dias; Embargos de divergência no STF 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Embargos de declaração 5 dias; Agravo de Instrumento 10 dias; Agravo Retido 10 dias; Apelação 8 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Extraordinário 15 dias; Recurso Especial 15 dias; Embargos de declaração 2 dias; Embargos Infringentes 15 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Agravo, nos próprios autos contra inadmissão de recurso especial 10 dias; Agravo nos próprios autos, contra inadmissão de recurso extraordinário 10 dias; Agravo Retido 10 dias; Agravo de Instrumento 15 dias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "418659",
+    "metadata": "Ano: 2014 | Banca: IDECAN | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "\"Joaquina impetra mandado de segurança no Tribunal de Justiça do local em que reside por ter direito líquido e certo que foi violado por abuso de autoridade da autoridade coatora envolvida na situação. Considere que, nessa hipótese, a autoridade coatora era o Governador do Estado, que possuía foro por prerrogativa de função e que, por essa razão, a competência para julgamento do writ era mesmo do Tribunal de Justiça local. Considere, ainda, que a impetração ocorreu tempestivamente, e que todos os requisitos de admissibilidade foram observados. Entretanto, mesmo com a observância de todos os requisitos formais, meritoriamente, foi denegatória a decisão do mandado de segurança impetrado por Joaquina.\"Tendo em vista todos os aspectos apresentados no caso anterior, assinale a opção que indica, acertadamente, o recurso a ser interposto por Joaquina",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso especial para o STJ."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso ordinário para o STJ"
+      },
+      {
+        "letra": "C",
+        "texto": "Embargos infringentes para o STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "Agravo de instrumento para o STJ."
+      },
+      {
+        "letra": "E",
+        "texto": "Recurso extraordinário para o STF."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "418377",
+    "metadata": "Ano: 2014 | Banca: MPE-MG | Órgão: MPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Acerca do processamento do recurso especial, quando houver multiplicidade de recursos com fundamento em identica questão de direito, pode-se afirmar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caberá ao presidente do tribunal de origem admitir um ou mais recursos representativos da controvérsia, os quais serão encaminhados ao Superior Tribunal de Justiça, ficando suspensos os demais recursos especiais até o pronunciamento definitivo do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "O relator no Superior Tribunal de Justiça, ao identificar que sobre a controvérsia já existe jurisprudência dominante ou que a matéria já está afeta ao colegiado, poderá determinar a suspensão, nos tribunais de segunda instância, dos recursos nos quais a controvérsia esteja estabelecida."
+      },
+      {
+        "letra": "C",
+        "texto": "Publicado o acórdão do Superior Tribunal de Justiça, os recursos especiais sobrestados na origem terão seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça ou serão novamente examinados pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "A decisão do recurso especial pelo rito aplicável, quando houver multiplicidade de recursos com fundamento em idêntica questão de direito, possui efeito erga omnes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "414604",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Recurso Especial",
+      "Requisitos de admissibilidade",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Em relação aos recursos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recurso adesivo, uma vez recebido, passa a ter existência autônoma em relação ao recurso principal, sendo julgado ainda que deste se desista."
+      },
+      {
+        "letra": "B",
+        "texto": "em regra, o recurso especial é dotado de efeito de- volutivo e suspensivo, excepcionalmente podendo ser recebido somente no efeito devolutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "a apelação é dotada de efeito translativo, permitindo ao tribunal conhecer de ofício das matérias de ordem pública, ainda que não suscitadas por quem apela."
+      },
+      {
+        "letra": "D",
+        "texto": "os embargos de declaração suspendem o prazo para interposição de outros recursos, por qualquer das partes."
+      },
+      {
+        "letra": "E",
+        "texto": "o Ministério Público tem legitimidade, para recorrer, restrita aos casos em que funciona como parte."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "408732",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Contra o acórdão que julga válida lei local contestada em face de lei federal, é cabível:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso extraordinário para o Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso ordinário constitucional para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "reclamação constitucional para o Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "mandado de segurança impetrado perante o tribunal prolator da decisão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402228",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Caio intentou determinada ação em que pleiteou, na petição inicial, a antecipação dos efeitos da tutela, inaudita altera pars, alegando, para tanto, risco iminente de lesão irreversível ao seu direito subjetivo. Diante do indeferimento, pelo juiz da causa, de seu pleito de tutela de urgência, Caio interpôs agravo de instrumento, distribuído a um determinado órgão fracionário do Tribunal de Justiça. Apreciando o recurso, o Desembargador a quem coube a relatoria do agravo determinou a conversão da forma instrumental para a retida. Para impugnar essa decisão relatorial, poderá Caio se valer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do mandado de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "do recurso ordinário-constitucional."
+      },
+      {
+        "letra": "C",
+        "texto": "do agravo interno ou legal."
+      },
+      {
+        "letra": "D",
+        "texto": "do recurso especial."
+      },
+      {
+        "letra": "E",
+        "texto": "da ação rescisória."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "392585",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DESENVOLVE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o dispositivo constitucional embasador do recurso extraordinário estiver prequestionado, o recurso não pode ser inadmitido."
+      },
+      {
+        "letra": "B",
+        "texto": "Da decisão que denega a ordem em ação de mandado de segurança impetrado em face do governador do Estado cabem recurso especial e recurso extraordinário."
+      },
+      {
+        "letra": "C",
+        "texto": "No recurso extraordinário, o recorrente deve demonstrar a repercussão geral das questões constitucionais discutidas no recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão da Presidência do Tribunal a quo que nega seguimento ao recurso extraordinário não cabe recurso."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível interposição de recurso extraordinário em face de acórdão que tenha violado dispositivo de Lei Estadual."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "384798",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: SEPLAG-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, a indicação do nome e do endereço completo dos advogados, constantes do processo, é requisito da petição de interposição do recurso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De apelação."
+      },
+      {
+        "letra": "B",
+        "texto": "De agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Especial"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "380242",
+    "metadata": "Ano: 2014 | Banca: FUNRIO | Órgão: INSS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Julgado o mandado de segurança de Pedro Ernesto, ele não vem a ser acolhido, sendo que a Autoridade Coatora recorre ao Tribunal Regional Federal, que, por maioria de votos, reforma a decisão para acolher a intempestividade de sua impetração. Em face do ocorrido, pergunta-se qual o recurso, em tese, cabível, valendo ressaltar que não existe omissão, ponto que o acórdão deveria ter se pronunciado, ou contradição para ser esclarecida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embargos de declaração;"
+      },
+      {
+        "letra": "B",
+        "texto": "Embargos infringentes;"
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso de revista;"
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso especial e recurso extraordinário;"
+      },
+      {
+        "letra": "E",
+        "texto": "Agravo de instrumento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "378891",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Dos recursos a seguir enumerados, aponte aquele que é recebido, como regra, no duplo efeito, devolutivo e suspensivo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso extraordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "apelação."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo de instrumento."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso especial."
+      },
+      {
+        "letra": "E",
+        "texto": "agravo retido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "367173",
+    "metadata": "Ano: 2014 | Banca: BIO-RIO | Órgão: EMGEPRON",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Havendo reforma de decisão judicial, mediante o provimento de apelação, por maioria de votos, é cabível o recurso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embargos Infringentes"
+      },
+      {
+        "letra": "B",
+        "texto": "Ordinário Consttucional"
+      },
+      {
+        "letra": "C",
+        "texto": "Extraordinário"
+      },
+      {
+        "letra": "D",
+        "texto": "Especial"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "366524",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: TRE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Em relação ao recurso especial, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A interposição do recurso especial impede a execução da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Não cabe recurso adesivo sobre o recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo do recurso especial são quinze dias."
+      },
+      {
+        "letra": "D",
+        "texto": "O recurso especial é recebido no efeito suspensivo."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso especial e o recurso extraordinário podem ser apresentados na mesma petição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "361730",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Considere que, por ocasião do reexame necessário de sentença proferida em processo de conhecimento, o tribunal decida por maioria. Nessa hipótese,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cabe a interposição de recurso especial ou extraordinário da parte unânime da decisão e de embargos infringentes da não unânime."
+      },
+      {
+        "letra": "B",
+        "texto": "caso não sejam opostos embargos infringentes da parte não unânime da decisão, esta transitará em julgado, não cabendo recurso especial ou extraordinário."
+      },
+      {
+        "letra": "C",
+        "texto": "a parte interessada deve opor embargos infringentes da parte não unânime da decisão e, após, interpor recurso especial ou extraordinário, conforme o caso."
+      },
+      {
+        "letra": "D",
+        "texto": "cabe tão somente a interposição de recurso especial ou extraordinário, conforme o caso, após esgotado o prazo dos embargos infringentes."
+      },
+      {
+        "letra": "E",
+        "texto": "cabe a interposição, desde logo, pela parte interessada na reforma da decisão, de recurso especial ou extraordinário,conforme o caso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "360460",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Acerca dos recursos no âmbito do processo civil brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da decisão proferida pelo juiz que julga procedente o pedido de instituição de arbitragem cabe apelação no duplo efeito: suspensivo e devolutivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Em sede de apelação, o juiz poderá retratar-se da sentença que indeferiu a petição inicial, assim compreendida tanto aquela em que ele constatou de plano o vício na petição inicial, quanto aquela por ele exarada após a citação, mediante o acolhimento de alguma preliminar suscitada pelo réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo entendimento firmado no STF, é cabível a impetração de mandado de segurança contra decisão interlocutória proferida no âmbito do juizado especial diante da ausência de previsão legal a respeito do cabimento do agravo de instrumento."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso os embargos infringentes sejam interpostos sem o preenchimento de um dos requisitos legais, o relator poderá negar seguimento ao recurso, mediante decisão contra a qual não será cabível a interposição de agravo."
+      },
+      {
+        "letra": "E",
+        "texto": "Se determinada entidade, pretendendo opor embargos de declaração em face de acórdão proferido em recurso especial representativo de controvérsia, requerer sua admissão como terceiro, tal pedido deverá ser rejeitado pelo STJ, já que a admissão de terceiros ou amicus curiae para manifestação em recurso especial admitido como representativo de controvérsia somente poderá ocorrer antes do seu julgamento pelo órgão competente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1236598",
+    "metadata": "Ano: 2013 | Banca: IBEG | Órgão: SANEAGO - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Sobre os recursos extraordinários e especial, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interpostos recursos extraordinário e especial, o primeiro somente será objeto de julgamento quando o especial não for provido, contudo pode ocorrer do ministro relator do Superior Tribunal de Justiça entender ser o recurso extraordinário prejudicial ao recurso especial, caso em que determinará o sobrestamento do seu andamento e a remessa do extraordinário ao Supremo Tribunal Federal, decisão da qual é passível a interposição de recurso pela parte recorrente."
+      },
+      {
+        "letra": "B",
+        "texto": "Em qualquer recurso aos tribunais superiores poderá o relator negar seguimento àquele por ser manifestamente inadmissível, improcedente e prejudicado, cabendo recurso de agravo no prazo de cinco dias contra tal decisão, sendo certo que quando o aludido agravo for manifestamente inadmissível ou infundado, o tribunal respectivo condenará o agravante ao pagamento de multa de um a quinze por cento do valor corrigido da causa, ficando condicionada ao depósito do valor da sanção a interposição de qualquer outro recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo para a interposição dos recursos extraordinário e especial é de quinze dias, sendo recebidos no efeito devolutivo e podendo ser atribuído efeito suspensivo aos mesmos, ainda que trate o processo originário de processo de execução."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com o artigo 543-B do Código de Processo Civil, é possível que um Tribunal de Justiça Federal ou Estadual, diante da multiplicidade de recursos com fundamento em idêntica controvérsia, possa selecionar um ou mais e encaminhá-los ao tribunal superior para análise, sobrestando todos os demais até a decisão definitiva da Corte."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as afirmativas acima estão CORRETAS."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "479024",
+    "metadata": "Ano: 2013 | Banca: MPM | Órgão: MPM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "SOBRE OS RECURSO EXCEPCIONAIS E OUTROS RECURSO DE COMPETÊNCIA DOS TRIBUNAIS SUPERIORES, É CORRETO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O reconhecimento da deserção no recurso extraordinário independe de intimação da parte interessada."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é permitida a comprovação posterior da tempestividade recursal, em virtude de feriados locais ou suspensão de expediente forense, pois opera-se a preclusão consumativa no ato da interposição."
+      },
+      {
+        "letra": "C",
+        "texto": "Os embargos de declaração suspendem o prazo para interposição de outros recursos, por qualquer das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "Por se um requisito constitucional, o prequestionamento é sempre interpretado da mesma forma pelos tribunais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "462405",
+    "metadata": "Ano: 2013 | Banca: IMA | Órgão: CORE-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Embargos de Declaração no CPC 1973",
+      "Agravo retido",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "A respeito do recurso no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O prazo recursal para o revel que não tenha advogado constituído começa a correr a partir de sua intimação, isto é, da publicação da sentença no órgão oficial, sendo assegurado àquele, intimado por edital, o prazo em dobro para recorrer."
+      },
+      {
+        "letra": "B",
+        "texto": "Com a interposição dos embargos de declaração, todos os demais prazos recursais são suspensos, e essa suspensão valerá para o embargante, para a parte contrária e para terceiros prejudicados."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe agravo contra decisão que defira pedido de relevação de pena de deserção e fixe novo prazo para o recorrente efetuar o preparo, acolhendo-se a justificativa de justo impedimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A retenção de recurso especial interposto contra acórdão proferido no agravo de instrumento, deduzido em face de decisão interlocutória de primeiro grau, impõe ao recorrente reiterá-lo no prazo para a interposição do recusto contra decisão final, ou para as contra-razões."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "451902",
+    "metadata": "Ano: 2013 | Banca: CONSULPLAN | Órgão: TRE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Os recursos podem ser definidos como ferramentas jurídicas cabíveis quando a parte vencida, o Ministério Público ou terceiro prejudicado buscam novo pronunciamento judicial acerca daquilo que foi desfavorável ao recorrente em determinado julgado. Considerando os recursos previstos no Código de Processo Civil, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "das decisões interlocutórias proferidas em audiência de instrução e julgamento, caberá agravo na forma retida por meio de petição, no prazo de 5 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "a apelação interposta de sentença que confirmar a antecipação dos efeitos da tutela ou decidir o processo cautelar será recebida nos efeitos suspensivo e devolutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "os recursos especial e extraordinário serão interpostos perante o presidente ou o vice-presidente do Superior Tribunal de Justiça e Supremo Tribunal Federal, respectivamente."
+      },
+      {
+        "letra": "D",
+        "texto": "o recurso especial e o recurso extraordinário não obstam a execução da sentença, assim como a interposição do agravo de instrumento, em regra, não impede o andamento do feito."
+      },
+      {
+        "letra": "E",
+        "texto": "o recorrente poderá desistir do recurso interposto desde que, devidamente intimados, o recorrido e eventuais litisconsortes manifestem anuência nos autos ou aquiesçam com seu silêncio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "414145",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Processo Cautelar",
+      "Apelação no CPC 1973",
+      "Recurso Especial",
+      "Teoria geral do processo cautelar",
+      "Cautelares típicas ou nominadas"
+    ],
+    "enunciado_principal": "Para assegurar a efetividade do direito de Joaquim que move ação em face de Tomás, o advogado do autor poderá se valer de medidas cautelares, aptas a salvaguardar direitos quando presentes o fumus boni iuris e o periculum in mora.A respeito dessa tutela de urgência, prevista no Livro III do Código de Processo Civil, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida cautelar conservará sua eficácia ainda que haja suspensão do processo principal, salvo se houver decisão judicial em contrário."
+      },
+      {
+        "letra": "B",
+        "texto": "A exibição de documentos, medida cautelar típica, poderá ser ajuizada no curso do processo principal ou em caráter preparatório, sempre pela via de processo autônomo apensado ao principal."
+      },
+      {
+        "letra": "C",
+        "texto": "O arresto pode cessar pela transação ou nela novação e se resolve em penhora quando julgada procedente a ação principal."
+      },
+      {
+        "letra": "D",
+        "texto": "A apelação interposta contra sentença que decidir processo cautelar será recebida somente no efeito devolutivo."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso especial interposto contra decisão interlocutória em processo cautelar ficará retido nos autos e somente será processado se requerido pela parte interessada na oportunidade de recorrer da decisão final ou contra-arrazoar."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "410543",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Assinale a opção correta em relação a recursos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os autos devem ser reencaminhados ao juízo a quo para novo julgamento da lide se o tribunal constatar a ocorrência de nulidade sanável que demande a realização ou a renovação de ato processual."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo o STJ, não impede o conhecimento do recurso especial a ausência de assinatura do advogado da causa no recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de apelação contra sentença que tenha dado fim a processo sem julgamento de mérito, o tribunal pode decidir o mérito da ação mesmo sem o requerimento do recorrente quando a ação versar sobre questão exclusivamente de direito e estiver em condições de imediato julgamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Não são cabíveis embargos infringentes contra acórdão não unânime que julgue procedente uma ação rescisória."
+      },
+      {
+        "letra": "E",
+        "texto": "Um juiz não pode deixar de receber apelação interposta mesmo que a matéria fundamentadora da sentença já tenha sido, na ocasião da interposição do recurso, sumulada nos tribunais superiores."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "401391",
+    "metadata": "Ano: 2013 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Os recursos extraordinários lato sensu, em contraposição aos recursos ordinários, têm como finalidade precípua a aplicação do direito positivo, mormente para fins de uniformização de sua interpretação. Sobre o recurso extraordinário e o recurso especial, está CORRETA a seguinte proposição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo princípio da singularidade recursal, não se admite a interposição simultânea do recurso extraordinário e do recurso especial, devendo este ser interposto primeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se exige o exaurimento das vias recursais ordinárias para o cabimento dos recursos extraordinários."
+      },
+      {
+        "letra": "C",
+        "texto": "É necessário quórum de 2/3 do Supremo Tribunal Federal para o reconhecimento da repercussão geral do recurso extraordinário interposto."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite-se recurso especial quanto à questão que, apesar da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cabe recurso extraordinário quando a decisão recorrida julgar válida lei local contestada diante de lei federal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "371570",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Coisa Julgada no CPC 1973",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "A respeito da sentença e da coisa julgada, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o entendimento do STF, enseja revisão da coisa julgada a modificação superveniente do entendimento jurisprudencial."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com o STJ, havendo diferença no que diz respeito à possibilidade de produção de provas, não será possível a ocorrência de coisa julgada entre mandado de segurança e ação ordinária."
+      },
+      {
+        "letra": "C",
+        "texto": "A alteração dos parâmetros para a apuração do montante devido definidos no título judicial executivo transitado em julgado não configura ofensa ao instituto da coisa julgada."
+      },
+      {
+        "letra": "D",
+        "texto": "A antecipação de tutela para o levantamento da parte incontroversa não é suscetível de imunidade pela coisa julgada."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso acórdão proferido por tribunal ofenda a coisa julgada, caberá recurso especial, conforme previsão na Lei de Introdução às Normas do Direito Brasileiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "371262",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Ricardo ajuizou ação de cobrança contra uma instituição financeira, julgada procedente em primeiro grau, cuja sentença acabou sendo reformada pelo E. Tribunal de Justiça do Estado de Pernambuco que julgou improcedente a ação. Ricardo interpôs, então, recurso especial para o Superior Tribunal de Justiça. Durante o processamento do recurso especial, ainda no E. Tribunal de Justiça do Estado de Pernambuco, o Ministro Relator do Superior Tribunal de Justiça, diante da multiplicidade de recursos questionando a mesma questão de direito, que é exatamente a matéria debatida por Ricardo em seu recurso interposto, quando do julgamento de um dos múltiplos recursos, determina a suspensão nos tribunais de segunda instância, dos recursos nos quais a controvérsia esteja estabelecida. Consequentemente, o recurso especial interposto por Ricardo é suspenso por ordem do Superior Tribunal de Justiça. Neste caso, julgado o recurso que ensejou a instauração do procedimento previsto para o caso dos recursos repetitivos pelo STJ e publicado o acórdão, o recurso especial sobrestado interposto por Ricardo será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encaminhado, após o juízo de admissibilidade no tribunal de origem, ao Superior Tribunal de Justiça onde terá o seguimento denegado por decisão monocrática na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "novamente examinado pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça e, mantida a decisão divergente pelo tribunal de origem, far-se-á o exame de admissibilidade do recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "encaminhado obrigatoriamente e imediatamente, independentemente do juízo de admissibilidade, para o Superior Tribunal de Justiça para julgamento na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "encaminhado obrigatoriamente e imediatamente, independentemente do juízo de admissibilidade, para o Superior Tribunal de Justiça para julgamento na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "E",
+        "texto": "novamente examinado pelo tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, que deverá obrigatoriamente reformar o acórdão divergente, compatibilizando-o com o Acórdão do Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "359626",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Efeitos dos recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Em relação aos recursos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recurso extraordinário e o recurso especial não impedem a execução de sentença; a apelação é recebida em regra nos efeitos devolutivo e suspensivo, salvo as hipóteses em que a lei processual prevê seu recebimento somente no efeito devolutivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Desde que com a anuência do recorrido ou dos litisconsortes, o recorrente poderá desistir do recurso a qualquer tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Embora subordinado ao recurso principal, o recurso adesivo prossegue e será julgado em caso de desistência do recurso principal ou de sua deserção."
+      },
+      {
+        "letra": "D",
+        "texto": "Como regra, a interposição do agravo de instrumento suspende o andamento do processo."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso só pode ser interposto pela parte vencida ou pelo Ministério Público, nos processos em que couber intervir, como parte ou fiscal da lei."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "346767",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Recurso Especial",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "No que se refere aos recursos, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A desistência de recurso já interposto somente dependerá da anuência da outra parte se já houverem sido apresentadas as contrarrazões."
+      },
+      {
+        "letra": "B",
+        "texto": "O recorrente deverá comprovar o preparo até o último dia de prazo para recorrer, sob pena de não ser conhecido o recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o assistido vedar, o assistente simples não poderá recorrer, já que sua atividade é subordinada à daquele."
+      },
+      {
+        "letra": "D",
+        "texto": "O efeito conferido pela lei ao recurso especial impede a execução da sentença provisória."
+      },
+      {
+        "letra": "E",
+        "texto": "O acolhimento de um dos pedidos alternativos não impede que o autor recorra pleiteando a concessão do outro pedido."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "332041",
+    "metadata": "Ano: 2013 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "DENTRE AS PROPOSIÇÕES ABAIXO, ALGUMAS SÃO FALSAS, OUTRAS VERDADEIRAS: I - Os princípios contidos na Lei de Introdução ao Código Civil, direito adquirido, ato jurídico perfeito e coisa julgada, apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, pois são institutos de natureza eminentemente constitucional. II - A valoração da prova, no âmbito do recurso especial, pressupõe contrariedade a um princípio ou a uma regra jurídica no campo probatório, ou mesmo à negativa de norma legal nessa área, não se confundindo com o livre convencimento do Juiz. III - O pedido de uniformização de jurisprudência é um incidente processual de caráter preventivo, podendo ser suscitado nas razões recursais, ou mesmo até o julgamento do agravo regimental. IV - Se as instâncias ordinárias concluíram pela ocorrência de litigância de má-fé, este entendimento pode ser superado pelas instâncias extraordinárias, pois não depende do reexame do quadro fático- probatório. Das proposições acima:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II estão corretas;"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III estão corretas;"
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV estão corretas;"
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "331775",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: MPE-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Sobre o recurso especial representativo de controvérsia, pode­se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caberá ao Presidente do Superior Tribunal de Justiça, e não ao Relator do Tribunal de origem, ao identificar que sobre a controvérsia já existe jurisprudência dominante ou que a matéria já está afeta ao colegiado, determinar a suspensão dos recursos nos quais a controvérsia esteja estabelecida."
+      },
+      {
+        "letra": "B",
+        "texto": "publicado o acórdão do Superior Tribunal de Justiça e verificando­se que o acórdão recorrido diverge da orien­ tação por ele emanada, os recursos especiais sobresta­ dos na origem serão automaticamente encaminhados ao STJ, sem qualquer análise dos demais requisitos de admissibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "o Presidente do Tribunal de origem, conforme dispu­ ser o regimento interno, e considerando a relevância da m atéria, poderá admitir manifestação de pessoas, ó rgãos ou entidades com interesse na controvérsia."
+      },
+      {
+        "letra": "D",
+        "texto": "os recursos especiais sobrestados na origem terão s egui­ mento denegado na hipótese de o acórdão recorrido coin­ cidir com a orientação do Superior Tribunal de Justiça ou serão novamente examinados pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação dada, sendo que, mantida a decisão divergente, far­se­á o competente exame de admissibilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "caberá ao Relator, no tribunal de origem, escolher um ou mais recursos representativos da controvérsia, os quais serão encaminhados ao Superior Tribunal de Jus­ tiça, ficando suspensos os demais recursos especiais até o pronunciamento definitivo do Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322963",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: IPEM-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Verificando-se que uma nova ação judicial reproduz as mesmas partes, a mesma causa de pedir e o mesmo pedido de outra ação anterior, na qual pende apenas o julgamento de Recurso Especial, ter-se-á:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "continência."
+      },
+      {
+        "letra": "B",
+        "texto": "coisa julgada."
+      },
+      {
+        "letra": "C",
+        "texto": "conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "perempção."
+      },
+      {
+        "letra": "E",
+        "texto": "litispendência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "322959",
+    "metadata": "Ano: 2013 | Banca: FUNCAB | Órgão: IPEM-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Contra a sentença emprimeiro grau de jurisdição que julga procedente o pedido do autor e antecipa os efeitos da tutela, é possível a interposição do(s) seguinte(s) recurso(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apelação, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "apelação e agravo de instrumento, concomitantemente."
+      },
+      {
+        "letra": "C",
+        "texto": "apelação e agravo retido, concomitantemente."
+      },
+      {
+        "letra": "D",
+        "texto": "agravo de instrumento, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "recurso especial, somente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "319939",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Cabe recurso especial contra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "decisão proferida por órgão de segundo grau dos Juizados Especiais."
+      },
+      {
+        "letra": "B",
+        "texto": "acórdão proferido no tribunal de origem quando cabíveis embargos infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "decisão do relator, que no tribunal de origem, julgou o recurso monocraticamente."
+      },
+      {
+        "letra": "D",
+        "texto": "decisão da qual couber recurso ordinário."
+      },
+      {
+        "letra": "E",
+        "texto": "acórdão proferido no julgamento de agravo de instrumento."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1224028",
+    "metadata": "Ano: 2012 | Banca: NC-UFPR | Órgão: FPMA - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Sobre as sentenças e recursos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As chamadas sentenças mandamentais impõem ao demandado o cumprimento das obrigações de fazer, não fazer e de pagar quantia certa."
+      },
+      {
+        "letra": "B",
+        "texto": "A apelação cível interposta contra sentença que está em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal não deve ser recebida pelo juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "A decisão liminar do relator que converte o agravo de instrumento em retido é recorrível por agravo dirigido ao respectivo órgão colegiado."
+      },
+      {
+        "letra": "D",
+        "texto": "A apelação contra a sentença que julga procedentes os embargos à execução será recebida no efeito devolutivo e suspensivo."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso especial tem efeito suspensivo, o que impede a execução provisória da sentença."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "829740",
+    "metadata": "Ano: 2012 | Banca: COPEVE-UFAL | Órgão: MPE-AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Sobre os recursos especial e extraordinário, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o mesmo acórdão contiver julgamentos unânimes e não unânimes, é cabível a interposição de recurso especial quanto à parte unânime, mesmo antes de decididos os embargos infringentes quanto ao julgamento por maioria."
+      },
+      {
+        "letra": "B",
+        "texto": "decidido o mérito do recurso extraordinário representativo de controvérsia, os recursos então sobrestados pelo tribunal de origem serão reapreciados pelo próprio tribunal, que poderá promover o juízo de conformação entre o acórdão recorrido e o julgado proferido pelo Supremo Tribunal de Federal."
+      },
+      {
+        "letra": "C",
+        "texto": "da decisão do presidente do tribunal de origem que não admitir o recurso especial caberá agravo de instrumento para o Superior Tribunal de Justiça, sendo obrigatória a juntada de cópias da decisão impugnada, certidão da respectiva intimação, procurações outorgadas aos advogados, acórdão recorrido e certidão da respectiva intimação e contrarrazões, caso apresentadas."
+      },
+      {
+        "letra": "D",
+        "texto": "o recurso especial não será admitido quando não prequestionada a matéria impugnada, sendo permitido o prequestionamento ficto."
+      },
+      {
+        "letra": "E",
+        "texto": "cabe ao presidente do tribunal de origem realizar o primeiro juízo de admissibilidade no recurso especial, devendo ser negado seguimento a recursos que não evidenciem a existência de repercussão geral da questão debatida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "487548",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Quanto aos recursos extraordinário e especial, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recurso extraordinário, ou o recurso especial, quando interpostos contra decisão interlocutória em processo de conhecimento, cautelar, ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para a interposição do recurso contra a decisão final, ou para as contrarrazões."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a turma decidir pela existência da repercussão geral por, no mínimo, 4 (quatro) votos, ficará dispensada a remessa do recurso ao Plenário."
+      },
+      {
+        "letra": "C",
+        "texto": "Não cabem embargos da decisão da turma que, em recurso extraordinário, divergir do julgamento da outra turma ou do plenário."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados."
+      },
+      {
+        "letra": "E",
+        "texto": "Os recursos extraordinário e especial são recebidos no efeito devolutivo"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "423377",
+    "metadata": "Ano: 2012 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Considere as seguintes afirmações.I - De sentença proferida por juiz federai, em demanda cujas partes sejam Estado estrangeiro, de um lado, e, de outro, pessoa domiciliada no País, é cabível, em tese, recurso ordinário diretamente para o Superior Tribunal de Justiça, II - Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime, e forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial, relativamente ao julgamento unânime, ficará sobrestado até a intimação da decisão nos embargos. III - É inadmissível recurso adesivo em embargos infringentes.Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "366174",
+    "metadata": "Ano: 2012 | Banca: FUNDATEC | Órgão: Prefeitura de Cachoeirinha - RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmações sobre recursos no processo civil: I. É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação. II. Cabem embargos infringentes contra acórdão, proferido por maioria, em agravo retido, quando se tratar de matéria de mérito. III. A pretensão de simples reexame de prova não enseja recurso especial. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "329152",
+    "metadata": "Ano: 2012 | Banca: UEPA | Órgão: SEAD-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Julgue as afirmativas abaixo: I. A atual Jurisprudência do Superior Tribunal de Justiça de regra admite em recurso especial a violação ao art. 535, II, do CPC, quando, opostos embargos de declaração, mantêm-se omissão quanto a matéria sobre a qual deveria o Tribunal se manifestar. II. A atual Jurisprudência do Superior Tribunal de Justiça de regra admite em recurso especial o prequestionamento implícito, configurado quando, mesmo sem menção expressa ao dispositivo de lei federal, o acórdão recorrido aborda suficientemente a matéria de direito federal. III. A atual Jurisprudência do Supremo Tribunal Federal de regra admite em recurso extraordinário alegação de matéria de ordem pública não prequestionada no acórdão recorrido, comprovada oposição de embargos de declaração e mantida a omissão. IV. A atual Jurisprudência do Supremo Tribunal Federal de regra admite o prequestionamento implícito em recurso extraordinário, desde que mantida a omissão do acórdão mesmo após a oposição dos embargos de declaração. Das afirmativas acima estão corretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV"
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV"
+      },
+      {
+        "letra": "E",
+        "texto": "I e III"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "329148",
+    "metadata": "Ano: 2012 | Banca: UEPA | Órgão: SEAD-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Segundo a disciplina jurídica do recurso especial, afirma-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recurso de agravo para viabilizar eventual trancamento do recurso especial na origem se processa nos próprios autos e não dispensa o pagamento das custas de preparo."
+      },
+      {
+        "letra": "B",
+        "texto": "julgado pelo STJ o recurso especial repetitivo, coincidindo com ele o acórdão do Tribunal de Justiça, cabe agravo de instrumento para destrancar os recursos especiais trancados em razão daquele julgamento."
+      },
+      {
+        "letra": "C",
+        "texto": "sobrestado na origem porque a matéria nele discutida foi afetada ao sistema de recursos repetitivos, seu juízo de admissibilidade só será realizado quando se definir o recurso repetitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "tendo o STJ decidido a matéria representativa de controvérsia repetitiva, suas conclusões serão obrigatoriamente aplicadas aos recursos especiais suspensos no Tribunal de origem."
+      },
+      {
+        "letra": "E",
+        "texto": "uma vez sendo afetado ao sistema de recursos repetitivos, é facultativa a manifestação de pessoas, órgãos, entidades e do Ministério Público."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "324642",
+    "metadata": "Ano: 2012 | Banca: FEPESE | Órgão: DPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "No caso do recurso especial perante o Superior Tribunal de Justiça, é correto afrmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em caso de multiplicidade de recursos com fundamento em idêntica questão de direito, havendo pronunciamento pelo Superior Tribunal de Justiça, os recursos sobrestados no tribunal de origem serão reexaminados, e obrigatoriamente reformadas as decisões em sentido contrário àquela exarada pelo Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "A constatação de que há multiplicidade de recursos especiais com fundamento em uma mesma questão de direito é atribuição única do Presidente do tribunal de origem, que deverá determinar a suspensão de todos os recursos especiais em que a matéria é discutida."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorrendo multiplicidade de recursos com fundamento em idêntica questão de direito, o relator no Superior Tribunal de Justiça, ao identifcar que sobre a controvérsia já existe jurisprudência dominante ou já está afeta ao colegiado, poderá determinar a suspensão da tramitação dos demais recursos perante os tribunais de segunda instância."
+      },
+      {
+        "letra": "D",
+        "texto": "A competência para reconhecer a existência de multiplicidade de recursos especiais com fundamento em uma mesma questão de direito é tanto do Presidente do tribunal de origem, como do relator no Superior Tribunal de Justiça, sendo que, reconhecida esta situação, dá - se o sobrestamento de todos os processos em que a matéria se discute, inclusive das apelações cíveis que ainda não foram submetidas a julgamento."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de multiplicidade de recursos com fundamento em idêntica questão de direito, havendo pronunciamento pelo Superior Tribunal de Justiça, os recursos sobrestados no tribunal de origem e com decisão em contrário, fcam reformados automaticamente, bastando juntar cópia autenticada da decisão do Superior Tribunal de Justiça, a qual valerá como certidão de julgamento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "270615",
+    "metadata": "Ano: 2012 | Banca: CETRO | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Classificação dos Recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Sobre os recursos no processo civil, é incorreto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando não forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial relativo à parte unânime da decisão terá como dia de início aquele em que transitar em julgado a decisão por maioria de votos."
+      },
+      {
+        "letra": "B",
+        "texto": "o recurso adesivo será admissível na apelação, nos embargos infringentes, no recurso extraordinário e no recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "o recurso adesivo não será conhecido se houver desistência do recurso principal, ou se for ele declarado inadmissível ou deserto."
+      },
+      {
+        "letra": "D",
+        "texto": "a apelação será recebida em seu efeito devolutivo e suspensivo quando interposta de sentença que decidir o processo cautelar."
+      },
+      {
+        "letra": "E",
+        "texto": "a apelação será recebida apenas em seu efeito devolutivo quando interposta de sentença que confirmar a antecipação dos efeitos da tutela."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "237169",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Caixa",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "O TRF da 2a Região denegou a ordem de segurança pleiteada em processo de sua competência originária. Nesse caso, qual seria o recurso cabível contra tal decisão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso Extraordinário ao STF, se a decisão contrariar dispositivo constitucional."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso Especial ao STJ, se a decisão contrariar lei federal."
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso Ordinário ao STJ, se a decisão contrariar lei federal."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Ordinário ao STF, independentemente do conteúdo da decisão."
+      },
+      {
+        "letra": "E",
+        "texto": "Recurso Ordinário ao STJ, independentemente do conteúdo da decisão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "432561",
+    "metadata": "Ano: 2011 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Impetrado mandado de segurança perante o Tribunal de Justiça do Estado do Rio Grande do Sul, contra ato de Secretário de Estado, a segurança é parcialmente concedida para anular sanção imposta ao Impetrante, mantendo, porém, processo administrativo cuja extinção se postulava no mandamus. A matéria possui repercussão geral. Neste caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É cabível recurso ordinário tanto do Estado quanto do Impetrante, cada qual na parte que sucumbiu."
+      },
+      {
+        "letra": "B",
+        "texto": "Caberá recurso especial e extraordinário tanto do Estado quanto do Impetrante, cada qual na parte que sucumbiu."
+      },
+      {
+        "letra": "C",
+        "texto": "Caberá, para o Impetrante, recurso ordinário para o STJ e recurso extraordinário para o STF."
+      },
+      {
+        "letra": "D",
+        "texto": "Caberá recurso ordinário do Estado e recursos especial e extraordinário do Impetrante."
+      },
+      {
+        "letra": "E",
+        "texto": "Caberá recurso ordinário do Impetrante e recursos especial e extraordinário do Estado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "432556",
+    "metadata": "Ano: 2011 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo de instrumento",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Recurso especial interposto pelo autor é inadmitido pelo tribunal de origem, em decisão publicada em 15 de abril de 2011. Ao agravar da decisão, o autor acosta à sua petição diversas cópias do processo de origem, dentre as quais não se inclui cópia da própria decisão que denegou o recurso especial (decisão agravada). Recebido o agravo nos autos do processo, a parte ré é intimada para apresentar suas contrarrazões. Ao fazê-lo, sustenta que não deve ser admitido o agravo de instrumento por falta de peça obrigatória. Neste caso:I. Era desnecessária a juntada da cópia da decisão agravada. II. Como o autor valeu-se de agravo de instrumento, era indispensável a juntada da cópia da decisão agravada, razão pela qual não deverá ser conhecido o agravo de instrumento. III. O Tribunal deverá abrir vista ao autor para juntada de cópia da decisão agravada. IV. Apenas o Superior Tribunal de Justiça poderá decidir sobre a questão levantada pelo réu/agravado. Em relação às assertivas acima, afirma-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas IV está correta."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I e IV estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "301719",
+    "metadata": "Ano: 2011 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "No que se refere a processos e recursos perante o Supremo Tribunal Federal e Superior Tribunal de Justiça, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Recurso Extraordinário tem efeito devolutivo e suspensivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Em habeas corpus originário, havendo empate prevalece o voto do relator."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas ações penais públicas originárias, o Ministério Público tem prazo de 10 (dez) dias para oferecer a denúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "É embargável a decisão da Turma que, Recurso Especial, divergir de outra Turma."
+      },
+      {
+        "letra": "E",
+        "texto": "Da decisão do relator que negar seguimento ao Agravo de Instrumento não cabe recurso, apenas Reclamação ao respectivo órgão julgador, na forma e casos previstos no respectivo Regimento Interno do Tribunal. Segundo o Estatuto da Advocacia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "434348",
+    "metadata": "Ano: 2010 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admissível recurso especial do ente público contra acórdão proferido em sede de reexame necessário, mesmo que ausente recurso voluntário do ente público contra a sentença de primeiro grau, uma vez que as hipóteses de cabimento do recurso especial são constitucionais e não podem ser limitadas pela legislação infraconstitucional."
+      },
+      {
+        "letra": "B",
+        "texto": "É inadmissível recurso especial do ente público contra acórdão proferido em sede de reexame necessário, quando ausente recurso voluntário do ente público contra a sentença de primeiro grau, dada a ocorrência da preclusão lógica. Todavia, neste caso, se recorrer a parte contrária do acórdão em reexame, é facultado ao ente público recorrer adesivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Admite-se que o tribunal, ao julgar o reexame necessário, agrave a condenação imposta à Fazenda Pública."
+      },
+      {
+        "letra": "D",
+        "texto": "E inadmissível recurso especial do ente público contra acórdão proferido em sede de reexame necessário, quando ausente recurso voluntário do ente público contra a sentença de primeiro grau, dada a ocorrência da preclusão lógica."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas anteriores está correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "407166",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Agravo retido",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A Lei n. 12.016, de 7 de agosto de 2009, reguladora do mandado de segurança individual e coletivo, dispõe que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cabe mandado de segurança contra atos de gestão comercial praticados pelos administradores de empresas públicas, de sociedade de economia mista e de concessionárias de serviço público."
+      },
+      {
+        "letra": "B",
+        "texto": "da decisão do juiz de primeiro grau que conceder ou denegar a liminar caberá agravo retido, observado o disposto no Código de Processo Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "a legitimidade para recorrer é exclusiva da pessoa jurídica a qual se acha vinculada a autoridade coatora."
+      },
+      {
+        "letra": "D",
+        "texto": "das decisões proferidas em única instância pelos tribunais cabem os recursos especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for concedida."
+      },
+      {
+        "letra": "E",
+        "texto": "da decisão do presidente do tribunal que suspender a execução da liminar e da sentença caberá agravo, sem efeito suspensivo, no prazo de cinco dias, que será levado a julgamento na sessão seguinte á sua interposição."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "407158",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Acerca do entendimento jurisprudencial envolvendo os recursos especiais, está INCORRETA a seguinte proposição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A divergência entre julgados do mesmo tribunal nao enseja recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "Não cabe recurso especial contra acórdão proferido no julgamento de agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Na instância especial, é inexistente o recurso interposto por advogado sem procuração nos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se admite recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se admite recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "93436",
+    "metadata": "Ano: 2010 | Banca: COPEVE-UFAL | Órgão: Prefeitura de Penedo - AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito dos recursos no processo civil brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interposta a apelação e feito o juízo de admissibilidade é lícito ao recorrente desistir do recurso, desde que a parte adversa manifeste sua concordância."
+      },
+      {
+        "letra": "B",
+        "texto": "A repercussão geral é um dos requisitos de admissibilidade do recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "As sentenças proferidas contra o Município, ainda que não haja recurso interposto, estão sempre sujeitas à remessa necessária."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabem embargos infringentes contra acórdão não unânime que, julgando apelação, mantém a sentença de mérito."
+      },
+      {
+        "letra": "E",
+        "texto": "O agravo interposto contra decisões interlocutórias proferidas em audiência de instrução deverá ser interposto imediatamente, na forma oral, e sem necessidade de preparo, sob pena de preclusão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "92811",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: DETRAN-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2935285",
+    "metadata": "Ano: 2009 | Banca: FCC | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "O recurso especial, quando interposto contra decisão interlocutória em processo de conhecimento, cautelar ou embargos à execução,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dependerá do oferecimento pelo recorrente de caução, hipoteca legal ou outra garantia real."
+      },
+      {
+        "letra": "B",
+        "texto": "ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para interposição do recurso contra a decisão final, ou para as contrarazões."
+      },
+      {
+        "letra": "C",
+        "texto": "terá preferência de tramitação no Superior Tribunal de Justiça, passando na frente dos recursos especiais interpostos contra decisões finais."
+      },
+      {
+        "letra": "D",
+        "texto": "terá processamento imediato, dispensando, nesse caso, o juízo de admissibilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "terá preferência de tramitação e será recebido no efeito devolutivo e suspensivo."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

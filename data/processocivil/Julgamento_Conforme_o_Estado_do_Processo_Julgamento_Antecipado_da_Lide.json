@@ -1,0 +1,260 @@
+[
+  {
+    "id": "514715",
+    "metadata": "Ano: 2015 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Modificação de competência",
+      "Respostas do réu - Contestação",
+      "Respostas do réu - Reconvenção",
+      "Respostas do réu  - Exceção",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após a contestação, somente se admite novas alegações quando relativas a direito superveniente, competir ao juiz conhecer delas de ofício ou se por expressa autorização legal, puderem ser formuladas em qualquer tempo e juízo."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a matéria controvertida for unicamente de direito e no juízo já houver sido proferida sentença de total improcedência em outros casos idênticos, pode ser dispensada a citação e proferida diretamente sentença, reproduzindo-se o teor da anteriormente prolatada, mas havendo apelação da parte, o juízo pode exercer a retratação em 05 (cinco) dias, caso contrário, mandará citar o réu diretamente para responder o recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "O réu poderá oferecer, no prazo de 15 (quinze) dias, em petição escrita, dirigida ao juiz da causa, contestação, exceção e reconvenção, em peças autônomas. A desistência da ação, ou a existência de qualquer causa que a extinga, obsta o prosseguimento da exceção e da reconvenção, eis que estas são conexas e dependentes daquela."
+      },
+      {
+        "letra": "D",
+        "texto": "A incompetência material deve ser declarada de ofício e pode ser alegada, em qualquer tempo e grau de jurisdição, independentemente de exceção e, sendo declarada, são nulos apenas os atos decisórios, remetendo-se o processo ao juízo competente."
+      },
+      {
+        "letra": "E",
+        "texto": "O autor que tem domicílio no Rio de Janeiro, onde também é a sede do réu, pode, contra este, ajuizar ação e vê-la tramitar nesta cidade de Belém, no silêncio da parte contrária, sem que isso configure violação ao juízo natural."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "467339",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "Julgue o item que se segue, acerca de sentença e coisa julgada.Devido a recente modificação, a legislação processual civil passou a permitir que o juiz profira sentença de improcedência tão logo seja distribuída a demanda, desde que presentes determinados requisitos. O objetivo do legislador foi o de conferir mais racionalidade e celeridade ao julgamento dos chamados processos repetitivos, ou seja, aqueles que versem teses jurídicas e cujo suporte fático permaneça inalterado de um caso para outro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "526284",
+    "metadata": "Ano: 2014 | Banca: CEPERJ | Órgão: FSC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "Nos termos do Código de Processo Civil, o juiz não se exime de sentenciar ou despachar alegando lacuna ou obscuridade da lei. No julgamento da lide, caber-lhe-á aplicar as normas legais; não as havendo, recorrerá à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "álea"
+      },
+      {
+        "letra": "B",
+        "texto": "lei estrangeira"
+      },
+      {
+        "letra": "C",
+        "texto": "audiência pública"
+      },
+      {
+        "letra": "D",
+        "texto": "analogia"
+      },
+      {
+        "letra": "E",
+        "texto": "licitação"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "616275",
+    "metadata": "Ano: 2013 | Banca: CESGRANRIO | Órgão: LIQUIGÁS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "Arquimedes teve seu táxi abalroado por um carro conduzido por Fernando. O veículo, de onde o taxista tirava o sustento de sua família, teve de ser retirado de circulação. Pelos prejuízos causados, Arquimedes propôs ação pelo procedimento sumário, buscando danos morais e materiais, além de lucros cessantes. Citado regularmente, o réu não apresentou qualquer tipo de defesa. Inexistindo outras provas a produzir, além daquelas carreadas aos autos, consoante o sistema do Código de Processo Civil, deve ocorrer a(o)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extinção do processo sem exame de mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "declaração de revelia e a suspensão do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "designação de audiência de conciliação e instrução."
+      },
+      {
+        "letra": "D",
+        "texto": "determinação de que haja audiência de instrução e julgamento."
+      },
+      {
+        "letra": "E",
+        "texto": "julgamento conforme o estado do processo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "487540",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Tutela Antecipada",
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "Marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poderá ser deferida medida cautelar em caráter incidental, se o autor a requerer a título de antecipação de tutela, desde que presentes os respectivos pressupostos."
+      },
+      {
+        "letra": "B",
+        "texto": "A tutela antecipada e o julgamento antecipado da lide são de natureza satisfativa, porém, enquanto a primeira antecipa o próprio provimento final, o segundo, adianta os efeitos do provimento final."
+      },
+      {
+        "letra": "C",
+        "texto": "A parte poderá obter a tutela de seu direito no momento em que se tornar incontroverso, ainda que o processo deva continuar."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte poderá obter a tutela de seu direito quando o fato constitutivo restar evidenciado e uma defesa de mérito indireta infundada obrigar o processo a prosseguir."
+      },
+      {
+        "letra": "E",
+        "texto": "A tutela antecipatória contra o fundado receio de dano irreparável ou de difícil reparação, exige que o juiz se convença da verossimilhança da alegação, que depende do seu conteúdo de direito material, o qual deve ser identificado com base na tutela pretendida e nos fundamentos invocados para a sua obtenção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "336240",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "Considerando-se que, em determinada demanda em curso, com partes maiores e capazes, haja a regular citação do réu, haverá o julgamento antecipado do mérito se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a contestação apresentada pelo réu limitar-se a negar as consequências jurídicas afirmadas na inicial."
+      },
+      {
+        "letra": "B",
+        "texto": "o réu apresentar apenas defesa de mérito indireta, mas, por incompatibilidade lógica, aceitar tacitamente os fatos alegados pelo autor."
+      },
+      {
+        "letra": "C",
+        "texto": "o réu deixar de apresentar defesa, ainda que tenha sido regularmente citado para fazê-lo, e a citação contiver o mandado e todos os requisitos legais."
+      },
+      {
+        "letra": "D",
+        "texto": "um fato alegado pelo autor for apenas implicitamente negado pela resposta apresentada pelo réu em contestação, ainda que considerada como um todo."
+      },
+      {
+        "letra": "E",
+        "texto": "a controvérsia sobre o fato alegado pelo réu quando da apresentação da contestação for pertinente, mas não relevante."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "456886",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: AL-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "O julgamento antecipado da lide",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ocorrer se a prova documental for suficiente para formar o convencimento do julgador."
+      },
+      {
+        "letra": "B",
+        "texto": "depende de prévia designação de audiência de tentativa de conciliação."
+      },
+      {
+        "letra": "C",
+        "texto": "só pode ter lugar após o saneamento do processo"
+      },
+      {
+        "letra": "D",
+        "texto": "prescinde de prévio requerimento das partes nesse sentido."
+      },
+      {
+        "letra": "E",
+        "texto": "só pode ocorrer após a apresentação de memoriais pelas partes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "497478",
+    "metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Julgamento Antecipado da Lide"
+    ],
+    "enunciado_principal": "As hipóteses de julgamento antecipado da lide são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "taxativas."
+      },
+      {
+        "letra": "B",
+        "texto": "meramente exemplificativas."
+      },
+      {
+        "letra": "C",
+        "texto": "inadmissíveis em ação rescisória."
+      },
+      {
+        "letra": "D",
+        "texto": "admissíveis exclusivamente no primeiro grau de jurisdição."
+      },
+      {
+        "letra": "E",
+        "texto": "inadmissíveis na ação declaratória incidental."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

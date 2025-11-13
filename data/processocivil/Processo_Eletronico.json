@@ -1,0 +1,461 @@
+[
+  {
+    "id": "599832",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "O Sistema Processo Judicial Eletrônico – PJe foi instituído pela Resolução n° 185, de 18/12/2013, do Conselho Nacional de Justiça (CNJ). Nesse sistema,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as citações, intimações e notificações, exceto da Fazenda Pública, serão realizadas por meio eletrônico, nos termos da Lei n. 11.419, de 19 de dezembro de 2006."
+      },
+      {
+        "letra": "B",
+        "texto": "os prazos que vencerem no dia em que o Sistema PJe estiver indisponível serão prorrogados para o dia útil seguinte, desde que a indisponibilidade seja superior a 60 minutos ou, ainda que em menor tempo, ocorra entre as 23h00 e 24h00."
+      },
+      {
+        "letra": "C",
+        "texto": "a consulta ao teor dos documentos juntados ao PJe somente está disponível pela rede mundial de computadores para as respectivas partes processuais e seus advogados, Ministério Público e para os magistrados, sem prejuízo da possibilidade de visualização nas Secretarias dos Órgãos Julgadores, com exceção dos processos sigilosos e sob segredo de justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "a suspensão dos prazos processuais impede o encaminhamento de petições e a movimentação de processos eletrônicos, que voltarão a ser realizados após o término do prazo de suspensão, ressalvados os casos de urgência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "599831",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "A Lei n° 11.419/2006 inaugurou oficialmente no Brasil o processo eletrônico, buscando disciplinar a informatização do processo judicial. Nos termos da legislação aplicável ao processo eletrônico,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o peticionamento e a prática geral de atos processuais sujeitam-se à utilização de assinatura digital baseada em certificado emitido pelo Poder Judiciário e o prévio credenciamento do usuário, através de procedimento que assegure sua identificação pessoal."
+      },
+      {
+        "letra": "B",
+        "texto": "a distribuição da peça inicial de qualquer tipo de ação prescinde da informação do CPF ou CNPJ, ressalvada a hipótese de comprometimento ao acesso jurisdicional."
+      },
+      {
+        "letra": "C",
+        "texto": "os originais dos documentos digitalizados, juntados aos autos de processo eletrônico pelos órgãos da Justiça e seus auxiliares, pelo Ministério Público e seus auxiliares, procuradorias, repartições públicas em geral e por advogados públicos ou privados, devem ser preservados pelo seu detentor até o trânsito em julgado da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "os prazos processuais têm início no primeiro dia útil que seguir ao considerado como data da publicação, sendo tempestiva a petição eletrônica que for transmitida até as 24 horas do último dia do respectivo prazo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "517532",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: CNMP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "De acordo com a Lei n° 11.419, de 19 de dezembro de 2006, são considerados tempestivos os atos processuais",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desprovidos de assinatura eletrônica."
+      },
+      {
+        "letra": "B",
+        "texto": "adulterados durante a fase de digitalização."
+      },
+      {
+        "letra": "C",
+        "texto": "remetidos a outro juízo ou instância superior."
+      },
+      {
+        "letra": "D",
+        "texto": "praticados dentro do prazo estabelecido."
+      },
+      {
+        "letra": "E",
+        "texto": "publicados no Diário da Justiça eletrônico."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "488434",
+    "metadata": "Ano: 2015 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "A Lei nº 11.419/06 dispõe sobre a informatização do processo judicial e o uso de meio eletrônico na tramitação de processos judiciais, comunicação de atos e transmissão de peças processuais. Sobre esse assunto, analise as seguintes assertivas: I. No processo eletrônico, todas as citações, intimações e notificações, inclusive da Fazenda Pública, serão feitas por meio eletrônico. II. A arguição de falsidade do documento original será processada eletronicamente na forma da lei processual em vigor. III. Considera-se realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização. IV. Os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário, na forma estabelecida na Lei nº 11.419/06, são considerados originais para todos os efeitos legais. Após a análise, pode-se dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas estão incorretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "425313",
+    "metadata": "Ano: 2014 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Forma",
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "A Lei nº 11.419, de 19 de dezembro de 2006, sobre a informatização do processo judicial, alterou a Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil. Desta forma, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando a petição eletrônica for enviada para atender prazo processual, serão consideradas tempestivas as transmitidas até as 24 (vinte e quatro) horas do seu último dia."
+      },
+      {
+        "letra": "B",
+        "texto": "O magistrado poderá determinar que sejam realizados por meio eletrônico a exibição e o envio de dados e de documentos necessários à instrução do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Os documentos digitalizados juntados em processo eletrônico estarão disponíveis para acesso por meio da rede externa para todos os usuários, respeitado o disposto em lei para as situações de sigilo e de segredo de justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "Os tribunais poderão criar Diário da Justiça eletrônico, disponibilizado em sítio da rede mundial de computadores, para publicação de atos judiciais e administrativos próprios e dos órgãos a eles subordinados, bem como comunicações em geral e os prazos processuais terão início no primeiro dia útil que seguir ao considerado como data da publicação."
+      },
+      {
+        "letra": "E",
+        "texto": "As cartas precatórias, rogatórias, de ordem e, de um modo geral, todas as comunicações oficiais que transitem entre órgãos do Poder Judiciário, bem como entre os deste e os dos demais Poderes, serão feitas preferentemente por meio eletrônico."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "418379",
+    "metadata": "Ano: 2014 | Banca: MPE-MG | Órgão: MPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Forma",
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "Sobre o processo eletrônico, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A distribuição da petição inicial e a juntada da contestação, dos recursos e das petições em geral, todos em formato digital, nos autos de processo eletrônico, podem ser feitas diretamente pelos advogados públicos e privados, sem necessidade da intervenção do cartório ou secretaria judicial, situação em que a autuação deverá se dar de forma automática, fornecendo-se recibo eletrônico de protocolo."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando se tratar de processo total ou parcialmente eletrônico, os atos processuais praticados na presença do juiz poderão ser produzidos e armazenados de modo integralmente digital em arquivo eletrônico inviolável, na forma da lei, independente de registro."
+      },
+      {
+        "letra": "C",
+        "texto": "Os votos, acórdãos e demais atos processuais podem ser registrados em arquivo eletrônico inviolável e assinados eletronicamente, na forma da lei, devendo ser impressos para juntada aos autos do processo quando este não for eletrônico."
+      },
+      {
+        "letra": "D",
+        "texto": "A carta de ordem, carta precatória ou carta rogatória pode ser expedida por meio eletrônico, situação em que a assinatura do juiz deverá ser eletrônica, na forma da lei."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "451905",
+    "metadata": "Ano: 2013 | Banca: CONSULPLAN | Órgão: TRE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Forma",
+      "Prazos",
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "“Desde fevereiro de 2013, as ações distribuídas nas varas cíveis do Fórum João Mendes Júnior, no Tribunal de Justiça do Estado de São Paulo, devem observar o procedimento digital. Poucos meses antes, naquele mesmo fórum, havia sido adotado o sistema híbrido de processos físicos (papel) e digitais, mas, a partir de fevereiro, somente os feitos de papel já propostos terão seguimento no formato convencional, devendo os novos ser recebidos exclusivamente no sistema eletrônico. O Tribunal de Justiça de São Paulo já estabeleceu cronograma de processo eletrônico, inclusive para Segunda Instância.” (Disponível em: http://www.tjsp.jus.br/Institucional/ CanaisComunicacao/Noticias/Noticia.aspx? Id=17117) Considerando a narrativa a respeito da realidade dos processos virtuais nos Tribunais brasileiros, assinale a afirmativa correta à luz da Lei nº 11.419, de 19 de dezembro de 2006 (informatização do processo judicial).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São considerados tempestivos os atos praticados por petição eletrônica até as 24 horas do último dia do prazo determinado para tal"
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos processuais dos processos eletrônicos poderão ser assinados digitalmente ou por meio da assinatura do signatário aposta no final do documento."
+      },
+      {
+        "letra": "C",
+        "texto": "As publicações eletrônicas na forma do Diário de Justiça eletrônico não substituem outros meios de publicação oficial que devem ser realizadas para que surtam os efeitos legais."
+      },
+      {
+        "letra": "D",
+        "texto": "Os processos eletrônicos serão admitidos em qualquer grau de jurisdição nos processos civil e trabalhista, bem como nos juizados especiais, não se admitindo quando se tratar de processo penal."
+      },
+      {
+        "letra": "E",
+        "texto": "Os prazos processuais terão início no dia seguinte ao da disponibilização da informação no Diário da Justiça Eletrônico, mesmo que se dê em dia não útil, em razão da celeridade dos processos digitais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "363158",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: CONDER",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "A respeito do processo eletrônico, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No processo eletrônico, todas as citações serão feitas por meio eletrônico e, quando por motivo técnico, for inviável o uso do meio eletrônico para a realização de citação, o processo será suspenso."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando o ato processual tiver que ser praticado em determinado prazo, por meio de petição eletrônica, serão considerados tempestivos os efetivados até as 24 (vinte e quatro) horas do último dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Os originais dos documentos digitalizados deverão ser preservados pelo seu detentor até o trânsito em julgado da sentença ou, quando admitida, até o final do prazo para interposição de ação rescisória."
+      },
+      {
+        "letra": "D",
+        "texto": "Os documentos cuja digitalização seja tecnicamente inviável deverão ser apresentados ao cartório ou secretaria no prazo de dez dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "A procuração pode ser assinada digitalmente com base em certificado emitido por Autoridade Certificadora credenciada, na forma da lei específica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "355305",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "Considere as seguintes assertivas a respeito do Processo Eletrônico, nos termos da Lei no 11.419/06: I. No processo eletrônico, todas as citações, intimações e notificações, inclusive da Fazenda Pública, serão feitas por meio eletrônico, na forma da respectiva lei. II. Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados ao cartório ou secretaria no prazo de 10 dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado. III. Os autos dos processos eletrônicos deverão ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação e integridade dos dados, sendo obrigatória a formação de autos suplementares. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "II."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "351036",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "De acordo com a Lei nº 11.419/06, as intimações serão feitas por meio eletrônico em portal próprio, dispensando- se a publicação no órgão oficial, inclusive eletrônico. Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização. A referida consulta deverá ser feita em até",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 dias corridos contados da data do envio da intimação, sendo que para efeito da contagem deste prazo, o dia inicial é o primeiro dia útil posterior ao da disponibilização do ato de comunicação no sistema que tenha expediente no órgão comunicante."
+      },
+      {
+        "letra": "B",
+        "texto": "5 dias corridos contados da data do envio da intimação, sendo que para efeito da contagem deste prazo, o dia inicial é o dia seguinte ao da disponibilização do ato de comunicação no sistema, independentemente de esse dia ser, ou não, de expediente no órgão comunicante."
+      },
+      {
+        "letra": "C",
+        "texto": "10 dias corridos contados da data do envio da intimação, sendo que para efeito da contagem deste prazo, o dia inicial é o dia seguinte ao da disponibilização do ato de comunicação no sistema, indepen- dentemente de esse dia ser, ou não, de expediente no órgão comunicante."
+      },
+      {
+        "letra": "D",
+        "texto": "5 dias corridos contados da data do envio da intimação, sendo que para efeito da contagem deste prazo, o dia inicial é o primeiro dia útil posterior ao da disponibilização do ato de comunicação no sis- tema que tenha expediente no órgão comunicante."
+      },
+      {
+        "letra": "E",
+        "texto": "15 dias corridos contados da data do envio da intimação, sendo que para efeito da contagem deste prazo, o dia inicial é o primeiro dia útil posterior ao da disponibilização do ato de comunicação no sistema que tenha expediente no órgão comunicante."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "338427",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "Assinale a afirmativa correta, sobre o processo eletrônico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os originais dos documentos digitalizados deverão ser preservados pelo seu detentor até cinco anos após o trânsito em julgado da sentença ou, quando admitida, até o final do processamento da ação rescisória."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandado de segurança poderá ser impetrado pela via eletrônica, sendo que o texto original da petição deverá ser apresentado nos 15 (quinze) dias úteis seguintes."
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça Eletrônico sendo que considerar-se-á realizada a intimação no dia em que o intimando efetivar a con- sulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização, sendo que nos casos em que a con- sulta se dê em dia não útil, a intimação será considerada como realizada no primeiro dia útil seguinte."
+      },
+      {
+        "letra": "D",
+        "texto": "Os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário, serão considerados cópias autenticadas para todos os efeitos legais, sendo que em se tratando de cópia digital de título executivo extrajudicial ou outro documento relevante à instrução do processo, o juiz poderá determinar o seu depósito em cartório ou secretaria."
+      },
+      {
+        "letra": "E",
+        "texto": "Os extratos digitais e os documentos digitalizados e juntados aos autos pelos órgãos da Justiça e seus auxi- liares, pelo Ministério Público e seus auxiliares, pelas procuradorias, pelas autoridades policiais, pelas repartições públicas em geral e por advogados públicos e privados não terão a mesma força probante dos originais, mas, sim, serão considerados cópias autênticas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "241511",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "A informatização do processo judicial permite que as citações, intimações e notificações sejam realizadas por meio eletrônico, salvo as relativas à fazenda pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "90647",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "No processo eletrônico, na hipótese de o sistema do Poder Judiciário tornar-se indisponível por motivo técnico, os prazos processuais correm normalmente, devendo as partes apresentar as petições por escrito perante a serventia do juízo em que o processo tramita.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "83707",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "As petições e os documentos enviados ao STM por meio do sistema e-STM devem ser impressos pelo Setor de Registro, Controle e Informações da Diretoria Judiciária, ficando, entretanto, nesses casos, dispensado o protocolo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "83706",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "No processo eletrônico, quando o ato processual tiver de ser praticado em determinado prazo, por meio de petição eletrônica, ele será considerado tempestivo se for efetivado até as 24 horas do último dia do prazo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "78866",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Processo Eletrônico"
+    ],
+    "enunciado_principal": "De acordo com a Lei nº 11.419/06, os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário, na forma estabelecida por esta Lei, serão considerados originais para todos os efeitos legais. Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados ao cartório ou secretaria no prazo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dez dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte no prazo máximo de cento e vinte dias corridos."
+      },
+      {
+        "letra": "B",
+        "texto": "cinco dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado."
+      },
+      {
+        "letra": "C",
+        "texto": "dez dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "cinco dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte no prazo máximo de cento e vinte dias corridos."
+      },
+      {
+        "letra": "E",
+        "texto": "48 horas contadas do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte no prazo máximo de cento e vinte dias corridos."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

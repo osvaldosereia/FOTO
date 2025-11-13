@@ -1,0 +1,37 @@
+[
+  {
+    "id": "555751",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Da extinção do processo",
+      "Pressupostos Processuais",
+      "Pressupostos processuais de validade subjetivos"
+    ],
+    "enunciado_principal": "Ana Helena propõe ação de cobrança contra Adriana, mas seu advogado deixa de recolher as custas processuais, o que conduz à extinção do processo sem resolução do mérito. A causa da extinção concerne a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ausência de diligência processual."
+      },
+      {
+        "letra": "B",
+        "texto": "ausência da condição objetiva do interesse processual."
+      },
+      {
+        "letra": "C",
+        "texto": "ocorrência de perempção."
+      },
+      {
+        "letra": "D",
+        "texto": "contumácia."
+      },
+      {
+        "letra": "E",
+        "texto": "ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

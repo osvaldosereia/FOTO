@@ -1,0 +1,696 @@
+[
+  {
+    "id": "550295",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TCM-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Quanto à temática dos recursos, e considerando a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "proferida sentença em determinado processo, a parte sucumbente interpôs apelação, levada a julgamento por órgão colegiado do Tribunal de Justiça e desprovida. O causídico do apelante, presente à sessão do julgamento, opõe, no dia consecutivo, embargos de declaração em face do acórdão, antes mesmo da publicação deste, sustentando a existência de obscuridade. Nessa situação, os embargos de declaração constituem recurso prematuro e extemporâneo, porquanto opostos em momento anterior ao termo a quo legalmente previsto, de modo que não preenchem o requisito da tempestividade;"
+      },
+      {
+        "letra": "B",
+        "texto": "o Município de São Paulo e certo Estado estrangeiro são partes de um processo que corre perante a Justiça Federal, no âmbito do qual foi proferida decisão interlocutória prejudicial aos interesses da municipalidade, suscetível de causar à parte lesão grave e de difícil reparação. Nesse caso, o procurador municipal que oficia no feito, para buscar a reforma da decisão, deverá interpor agravo de instrumento, cuja competência para julgamento será do Superior Tribunal de Justiça;"
+      },
+      {
+        "letra": "C",
+        "texto": "o Município de São Paulo foi condenado por sentença ao pagamento de valor superior a 60 (sessenta) salários mínimos, mas deixou de interpor recurso de apelação no prazo legal. Em sede de reexame necessário, o Tribunal de Justiça proferiu acórdão confirmando a sentença. Nessa hipótese, não poderá o referido Município interpor Recurso Especial em face do acórdão, ante a ocorrência de preclusão lógica, derivada de conduta omissiva anterior incompatível com a vontade de recorrer;"
+      },
+      {
+        "letra": "D",
+        "texto": "o Município de São Paulo, restando parcialmente sucumbente em determinado processo, interpôs apelação em face da sentença, pleiteando a reforma da parcela que lhe foi desfavorável, enquanto o outro litigante apresentou apelação adesiva. Nessa situação, tanto o recurso principal quanto o adesivo serão dispensados de preparo, pois o recurso adesivo é subordinado ao principal e observa as mesmas regras deste quanto ao preparo;"
+      },
+      {
+        "letra": "E",
+        "texto": "contra determinada sentença foram interpostas uma apelação principal e uma apelação adesiva, sendo que o relator veio a proferir decisão monocrática antecipando os efeitos da tutela recursal pleiteada no recurso adesivo. Nessa hipótese, é possível a desistência da apelação principal antes do seu julgamento pelo órgão colegiado do Tribunal, caso em que a apelação adesiva não será conhecida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "542528",
+    "metadata": "Ano: 2015 | Banca: FUNDEP (Gestão de Concursos) | Órgão: CORECON - MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Da comunicação dos atos processuais - Citação",
+      "Processo de execução",
+      "Classificação dos Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Da Execução em Geral - Requisitos: Título Executivo Judicial e Extrajudicial"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas. I. Tendo a citação, em processo de execução de título executivo judicial, efetivado-se na vigência da lei antiga, e a intimação da penhora, na vigência da lei nova, admite-se que o devedor possa contrapor-se à execução por meio de impugnação ao cumprimento da sentença ou embargos do devedor. II. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não caber agravo previsto no art. 544 do Código de Processo Civil para atacar decisão a quo que aplica a sistemática da repercussão geral. III. A decisão do Superior Tribunal de Justiça que aplica o regime do art. 543-B do Código de Processo Civil não é passível de revisão pelo STF, por ser cabível apenas a interposição de agravo interno no âmbito do próprio tribunal superior. IV. A convocação de juízes do primeiro grau de jurisdição para atuarem nos Tribunais não ofende o princípio do juiz natural. A partir da análise, estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "456573",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Em relação aos recursos processuais e ao reexame necessário, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nem todos os recursos processuais têm efeito devolutivo, devendo o julgador, segundo o seu juízo de admissibilidade, analisar, em cada caso, a viabilidade dessa incidência."
+      },
+      {
+        "letra": "B",
+        "texto": "A tempestividade, segundo a doutrina, representa pressuposto recursal extrínseco."
+      },
+      {
+        "letra": "C",
+        "texto": "O juízo positivo de admissibilidade do recurso é irrevogável, não podendo, após a apresentação de contrarrazões, haver o indeferimento do recurso anteriormente recebido."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo entendimento sumulado no TJDFT, é desnecessário que o preparo do recurso seja juntado no momento de sua apresentação, podendo ele também ser comprovado no prazo remanescente para o seu exercício, quando houver."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo o STJ, caso a sentença contra a fazenda pública seja ilíquida, é possível a adoção do valor atualizado da causa como parâmetro para se aferir a dispensa do reexame necessário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "448922",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Caio propôs ação de indenização em face do Estado do Rio de Janeiro, pleiteando a condenação deste a lhe pagar verba reparatória de danos morais no valor de duzentos mil reais. Acolhido integralmente o pleito autoral, foi o ente político intimado da sentença no dia 15 de setembro de 2014, vindo a interpor recurso de apelação no dia 10 de outubro, sem recolher quaisquer valores a título de preparo. Relativamente ao apelo manejado, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve receber juízo negativo de admissibilidade, em razão de sua intempestividade e da ausência de preparo;"
+      },
+      {
+        "letra": "B",
+        "texto": "deve receber juízo positivo de admissibilidade, já que cumpridos os respectivos requisitos;"
+      },
+      {
+        "letra": "C",
+        "texto": "deve receber juízo negativo de admissibilidade, em razão da ausência de interesse recursal, considerando que incide na espécie o duplo grau de jurisdição obrigatório;"
+      },
+      {
+        "letra": "D",
+        "texto": "deve receber juízo negativo de admissibilidade, apenas em razão de sua intempestividade;"
+      },
+      {
+        "letra": "E",
+        "texto": "deve receber juízo positivo de admissibilidade, já que a Fazenda Pública é isenta de preparo e não está sujeita a prazos recursais."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "429167",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Classificação dos Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Em relação aos recursos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O conhecimento de um recurso pelo órgão ao qual caiba seu julgamento implica a consequência jurídica de seu exame de mérito, para necessariamente provê-lo."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos os recursos são interpostos perante o mesmo órgão julgador da decisão recorrida, isto é, ao órgão jurisdicional a quo."
+      },
+      {
+        "letra": "C",
+        "texto": "O prévio juízo de admissibilidade recursal é feito diretamente pelo órgão jurisdicional ao qual se tenha recorrido, ou seja, o órgão jurisdicional ad quem."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão que recebe ou não o recurso interposto cabe apelação, por seu caráter de definitividade."
+      },
+      {
+        "letra": "E",
+        "texto": "Como regra geral, não se podem invocar no recurso matérias que não tenham sido arguidas e discutidas anteriormente, até a prolação da sentença."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "400574",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SAAE de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "A respeito do processamento do habeas data, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cabe ao juízo de primeiro grau a realização do juízo pré­vio de admissibilidade do recurso interposto contra a sentença, o qual terá a competência exclusiva para conceder efeito suspensivo ao referido recurso."
+      },
+      {
+        "letra": "B",
+        "texto": "o recurso interposto contra sentença que conceder o habeas data terá efeito meramente devolutivo. No entanto, o Presidente do Tribunal ao qual competir o conhecimento do recurso, poderá ordenar ao juiz a suspensão da execução da sentença. Assim, o juiz de 1.º grau está impossibilitado de conceder efeito suspen­sivo ao recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "o recurso interposto contra a sentença concessiva do habeas data terá efeito devolutivo e suspensivo. No entanto, o Presidente do Tribunal ao qual competir o conhecimento do recurso poderá ordenar ao juiz a exe­cução provisória da sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "cabe unicamente ao Tribunal a realização do juízo de admissibilidade do recurso interposto contra a sen­tença, o qual terá a competência exclusiva para conce­der efeito devolutivo ao referido recurso."
+      },
+      {
+        "letra": "E",
+        "texto": "nos casos de indeferimento da inicial, o recurso inter­posto deverá ser submetido ao crivo do Tribunal de ori­gem, sendo que, nessa hipótese, não haverá a concessão de efeito suspensivo pelo primeiro grau."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1126206",
+    "metadata": "Ano: 2013 | Banca: VUNESP | Órgão: Câmara de Bragança Paulista - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Sobre a Súmula impeditiva de recursos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma súmula do STF que determina que não se admitirá recurso que não ofereça repercussão geral, por tratar de questão contrária à súmula do próprio STF."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma súmula do STJ que determina que não se admitirá recurso que não seja representativo de controvérsia, nos casos em que houver transcendência contrária à súmula do próprio STJ."
+      },
+      {
+        "letra": "C",
+        "texto": "É aquela que interfere com o juízo de admissibilidade do recurso de apelação, caso em que o juiz não receberá referido recurso quando a sentença estiver em conformidade com súmula do STF ou do STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "É aquela que interfere com o juízo de admissibilidade dos recursos, pelo que o Presidente do Tribunal negará seguimento a recurso que esteja em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do STJ ou de tribunal superior."
+      },
+      {
+        "letra": "E",
+        "texto": "É aquela incidente nos casos de reexame obrigatório, caso o órgão de primeiro grau não encaminhar os autos ao tribunal, o Presidente deste deverá avocá-los, ainda que a sentença esteja fundada em jurisprudência do plenário do STF ou em súmula do STF ou do STJ."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "410543",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Assinale a opção correta em relação a recursos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os autos devem ser reencaminhados ao juízo a quo para novo julgamento da lide se o tribunal constatar a ocorrência de nulidade sanável que demande a realização ou a renovação de ato processual."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo o STJ, não impede o conhecimento do recurso especial a ausência de assinatura do advogado da causa no recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de apelação contra sentença que tenha dado fim a processo sem julgamento de mérito, o tribunal pode decidir o mérito da ação mesmo sem o requerimento do recorrente quando a ação versar sobre questão exclusivamente de direito e estiver em condições de imediato julgamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Não são cabíveis embargos infringentes contra acórdão não unânime que julgue procedente uma ação rescisória."
+      },
+      {
+        "letra": "E",
+        "texto": "Um juiz não pode deixar de receber apelação interposta mesmo que a matéria fundamentadora da sentença já tenha sido, na ocasião da interposição do recurso, sumulada nos tribunais superiores."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "388851",
+    "metadata": "Ano: 2013 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "como o acórdão que dá provimento a recurso substitui a sentença impugnada, só eie está sujeito a ser impugnado por ação rescisória e não a sentença. E, como o acórdão que nega provimento a recurso não substitui a sentença impugnada, a sentença é que poderá ser impugnada pela ação rescisória."
+      },
+      {
+        "letra": "B",
+        "texto": "o recorrente não poderá, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso. Já a renúncia ao direito de recorrer independe da aceitação da outra parte."
+      },
+      {
+        "letra": "C",
+        "texto": "sendo positivo, o juízo de admissibilidade é revogável, pois o juiz pode, depois do prazo para as contrarrazões do recorrido, reexaminar os requisitos de admissibilidade do recurso, indeferindo o recurso que antes recebera. Sendo negativo, a decisão do juiz a quo é impugnável mediante agravo de instrumento."
+      },
+      {
+        "letra": "D",
+        "texto": "a apelação devolverá ao tribunal o conhecimento da matéria impugnada. Dessa forma, não serão objeto de apreciação e julgamento pelo tribunal as questões suscitadas e discutidas no processo, ainda que a sentença não as tenha julgado por inteiro."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "371262",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Ricardo ajuizou ação de cobrança contra uma instituição financeira, julgada procedente em primeiro grau, cuja sentença acabou sendo reformada pelo E. Tribunal de Justiça do Estado de Pernambuco que julgou improcedente a ação. Ricardo interpôs, então, recurso especial para o Superior Tribunal de Justiça. Durante o processamento do recurso especial, ainda no E. Tribunal de Justiça do Estado de Pernambuco, o Ministro Relator do Superior Tribunal de Justiça, diante da multiplicidade de recursos questionando a mesma questão de direito, que é exatamente a matéria debatida por Ricardo em seu recurso interposto, quando do julgamento de um dos múltiplos recursos, determina a suspensão nos tribunais de segunda instância, dos recursos nos quais a controvérsia esteja estabelecida. Consequentemente, o recurso especial interposto por Ricardo é suspenso por ordem do Superior Tribunal de Justiça. Neste caso, julgado o recurso que ensejou a instauração do procedimento previsto para o caso dos recursos repetitivos pelo STJ e publicado o acórdão, o recurso especial sobrestado interposto por Ricardo será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encaminhado, após o juízo de admissibilidade no tribunal de origem, ao Superior Tribunal de Justiça onde terá o seguimento denegado por decisão monocrática na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "novamente examinado pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça e, mantida a decisão divergente pelo tribunal de origem, far-se-á o exame de admissibilidade do recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "encaminhado obrigatoriamente e imediatamente, independentemente do juízo de admissibilidade, para o Superior Tribunal de Justiça para julgamento na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "encaminhado obrigatoriamente e imediatamente, independentemente do juízo de admissibilidade, para o Superior Tribunal de Justiça para julgamento na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "E",
+        "texto": "novamente examinado pelo tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, que deverá obrigatoriamente reformar o acórdão divergente, compatibilizando-o com o Acórdão do Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "426601",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "A respeito das regras do Código de Processo Civil que disciplinam os recursos, marque a única alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À luz do princípio da congruência, as questões de fato, não propostas no juízo inferior, não poderão ser suscitadas no recurso de apelação, ainda que provado que a inércia da parte recorrente decorreu de motivo de força maior."
+      },
+      {
+        "letra": "B",
+        "texto": "O simples fato de a sentença que extinguiu o processo com resolução de mérito encontrar-se em consonância com súmula do Supremo Tribunal Federal não autoriza o juiz, no exercício do juízo de admissibilidade a quo, a denegar seguimento ao recurso de apelação."
+      },
+      {
+        "letra": "C",
+        "texto": "Se, durante o prazo para a interposição do recurso, sobrevier o falecimento do advogado da parte que pretende recorrer, o prazo será suspenso, recomeçando a correr pelo que faltava depois da nova intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas hipóteses de nulidades sanáveis, o Tribunal poderá prosseguir no julgamento do recurso de apelação, caso seja possível intimar as partes para determinar a realização ou renovação do ato processual sobre o qual até então recaia o defeito."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando houver multiplicidade de recursos com fundamento em idêntica controvérsia, caberá ao Supremo Tribunal Federal selecionar um ou mais recursos, determinando ao Tribunal de origem que encaminhem os autos de todos os recursos à Suprema Corte, local em que os processos ficaram sobrestados até o pronunciamento definitivo sobre a repercussão geral e, caso ultrapassada esta, sobre o mérito da controvérsia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "372044",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juízo de admissibilidade dos recursos é, em um primeiro momento, realizado em caráter provisório, pois até o julgamento definitivo, o juízo de admissibilidade pode ser objeto de reavaliação."
+      },
+      {
+        "letra": "B",
+        "texto": "A desistência do recurso é fato impeditivo do conhecimento do recurso e, para operar, diferentemente da desistência da ação, não depende de manifestação ou concordância da contraparte."
+      },
+      {
+        "letra": "C",
+        "texto": "O preparo realizado dentro do prazo recursal, ainda que em dia subsequente à interposição do recurso, não induz deserção."
+      },
+      {
+        "letra": "D",
+        "texto": "O cabimento do recurso é requisito de admissibilidade recursal que engloba recorribilidade da decisão e adequação da espécie recursal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "249545",
+    "metadata": "Ano: 2012 | Banca: ESAF | Órgão: PGFN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "A importância dos precedentes judiciais está cada vez maior no sistema jurídico brasileiro. Especialmente diante da vagueza semântica, decorrente inclusive da crescente utilização de conceitos abertos, como cláusulas gerais e conceitos jurídicos indeterminados, o papel do Judiciário se torna central na definição do direito vigente, na medida em que estreita a moldura legislativa e informa à sociedade quais as normas podem ser extraídas do ordenamento jurídico em vigor. Atentos à atividade nomofilácica desempenhada pelas Cortes Superiores, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "submetida determinada controvérsia à sistemática do julgamento de recursos repetitivos, todos os processos que versam sobre o tema serão automaticamente sobrestados, sendo vedado, em regra, ser proferida sentença ou acórdão antes da conclusão do julgamento do recurso representativo pela Corte Superior."
+      },
+      {
+        "letra": "B",
+        "texto": "julgado certo tema sob a sistemática do julgamento de recursos repetitivos pelo Superior Tribunal de Justiça, devem os demais órgãos do Poder Judiciário, à exceção do Supremo Tribunal Federal, acatar a conclusão da Corte Superior e conferir idêntica solução aos demais casos que versem sobre a mesma controvérsia."
+      },
+      {
+        "letra": "C",
+        "texto": "a fim de evitar que recursos que versem sobre tema já definido em repercussão geral e sob a sistemática do julgamento de demandas repetitivas perante o Supremo Tribunal Federal continuem sendo encaminhados para apreciação da Corte Suprema, vige perante o STF o entendimento de que contra a decisão que inadmite recurso extraordinário, por já ter sido o tema apreciado em repercussão geral, não é cabível a interposição de agravo para o STF, mas sim agravo interno a ser apreciado pelo próprio tribunal de origem."
+      },
+      {
+        "letra": "D",
+        "texto": "a Corte Especial do Superior Tribunal de Justiça, diante da importância da apreciação de controvérsias sob a sistemática do julgamento por amostragem de recursos repetitivos, permite a ampla participação de amicus curiae, inclusive com direito à sustentação oral."
+      },
+      {
+        "letra": "E",
+        "texto": "submetida certa controvérsia à sistemática do julgamento por amostragem de recursos especiais repetitivos, pode a parte desistir do seu recurso, situação em que o Superior Tribunal de Justiça terá de escolher novo recurso para tal fim."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "246609",
+    "metadata": "Ano: 2012 | Banca: CEPERJ | Órgão: PROCON-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Extraordinário",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Esculápio propõe ação de Mandado de Segurança indicando como autoridade coatora o Presidente do Banco Central, sendo a mesma distribuída ao Juízo Federal competente. Após os trâmites processuais, houve a prolatação de sentença, julgando improcedente o pedido. Contra tal ato o autor apresentou agravo de instrumento. Assim, revela-se correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recurso não deve ser conhecido pois cabível a apelação"
+      },
+      {
+        "letra": "B",
+        "texto": "o recurso cabível no caso é o agravo retido nos autos"
+      },
+      {
+        "letra": "C",
+        "texto": "diante do ato judicial praticado caberia recurso ordinário cons- titucional"
+      },
+      {
+        "letra": "D",
+        "texto": "o recurso cabível seria o Recurso Extraordinário"
+      },
+      {
+        "letra": "E",
+        "texto": "caberia a apresentação de Recurso Inominado"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "237182",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Caixa",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "Em litígio ocorrido entre a empresa K e a empresa Y, houve decisão favorável à primeira, emitida pelo Tribunal de Justiça vinculado ao estado Z. Caso a empresa perdedora pretenda recorrer ao Superior Tribunal de Justiça valendo-se de precedentes anteriores produzidos a favor de pretensão semelhante à sua, deve, à luz da legislação aplicável, apresentar recurso que seguirá o seguinte procedimento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o presidente do tribunal de origem admitirá um ou mais recursos representativos da controvérsia, os quais serão encaminhados ao Superior Tribunal de Justiça, ficando suspensos os demais recursos especiais até o pronunciamento definitivo do Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "B",
+        "texto": "o relator no Superior Tribunal de Justiça, ao identificar que, sobre a controvérsia, já existe jurisprudência dominante ou que a matéria já está afeta ao colegiado, levará a questão ao pleno da Corte Especial."
+      },
+      {
+        "letra": "C",
+        "texto": "o relator solicitará informações, a serem prestadas no prazo de quinze dias, aos tribunais federais ou estaduais a respeito da controvérsia."
+      },
+      {
+        "letra": "D",
+        "texto": "o relator ouvirá o Ministério Público se o processo for de competência da Corte Especial, devendo ser julgado com preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus."
+      },
+      {
+        "letra": "E",
+        "texto": "o acórdão do Superior Tribunal de Justiça, sendo publicado, os recursos especiais sobrestados na origem terão seguimento denegado na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "707104",
+    "metadata": "Ano: 2011 | Banca: MPE-PB | Órgão: MPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ações Coletivas no CPC 1973",
+      "Ação Popular",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Julgue as seguintes assertivas: I - Não há interesse recursal do réu em relação a sentença que, em demanda coletiva, tenha decidido pela improcedência por falta de prova, para impugnar tal fundamento e modificá-lo para o de inexistência de direito. II - Na ação popular, a apelação tem efeito suspensivo quando interposta contra sentença que julgar procedente a demanda. III - O juízo a quo e o juízo ad quem poderão deferir pedido de efeito suspensivo de recursos oriundos de ação civil pública, não sendo possível, todavia, tal concessão em relação a apenas um dos capítulos da decisão. IV - A União poderá repassar até dez por cento de sua complementação para programas direcionados à melhoria da qualidade da educação, tanto aos Estados, quanto aos Municípios, não importando que tenha sido atingido o valor nacional estipulado por aluno.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "(Abstenção de resposta - Seção VIII, item 11, do Edital do Concurso)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "207710",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: AL-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O primeiro juízo de admissibilidade do recurso de apelação, realizado pelo juiz a quo, deve restringir-se às questões formais típicas, tais como a tempestividade e o preparo, sem jamais adentrar o seu mérito, que é de competência exclusiva do tribunal ad quem."
+      },
+      {
+        "letra": "B",
+        "texto": "Será incabível a interposição de embargos infringentes de acórdão da 1.ª Câmara Cível do tribunal que, por maioria, confirmou a sentença de mérito na parte em que esta reconheceu obrigação de indenizar."
+      },
+      {
+        "letra": "C",
+        "texto": "A reiteração, na apelação, dos mesmos argumentos apresentados na contestação — e já afastados pela sentença — impede o conhecimento do recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo recente posicionamento do STF, é inconstitucional, por afronta ao princípio da motivação das decisões judiciais, decisão de turma recursal de juizados especiais que adote os mesmos fundamentos da sentença questionada."
+      },
+      {
+        "letra": "E",
+        "texto": "Em agravo de instrumento, mesmo que tenham sido apresentadas todas as peças obrigatórias exigidas conforme o Código de Processo Civil, o relator poderá não conhecer o recurso sob o argumento de que a ordem de juntada dos documentos torna difícil a exata compreensão da controvérsia."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "93436",
+    "metadata": "Ano: 2010 | Banca: COPEVE-UFAL | Órgão: Prefeitura de Penedo - AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso Especial",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito dos recursos no processo civil brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interposta a apelação e feito o juízo de admissibilidade é lícito ao recorrente desistir do recurso, desde que a parte adversa manifeste sua concordância."
+      },
+      {
+        "letra": "B",
+        "texto": "A repercussão geral é um dos requisitos de admissibilidade do recurso especial."
+      },
+      {
+        "letra": "C",
+        "texto": "As sentenças proferidas contra o Município, ainda que não haja recurso interposto, estão sempre sujeitas à remessa necessária."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabem embargos infringentes contra acórdão não unânime que, julgando apelação, mantém a sentença de mérito."
+      },
+      {
+        "letra": "E",
+        "texto": "O agravo interposto contra decisões interlocutórias proferidas em audiência de instrução deverá ser interposto imediatamente, na forma oral, e sem necessidade de preparo, sob pena de preclusão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "44602",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: TRE-MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Do Litisconsórcio",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Com relação a recursos no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O recorrente poderá, a qualquer tempo, sem anuência da outra parte ou dos litisconsortes, desistir do recurso que interpôs."
+      },
+      {
+        "letra": "B",
+        "texto": "Cabem embargos infringentes quando o acórdão unânime houver reformado, em grau de apelação, a sentença de mérito ou houver julgado procedente ação rescisória."
+      },
+      {
+        "letra": "C",
+        "texto": "Admitidos ambos os recursos - especial e extraordinário - os autos serão remetidos imediatamente ao STF."
+      },
+      {
+        "letra": "D",
+        "texto": "Interposto o agravo e ouvido o agravado no prazo de dez dias, o juiz não poderá reformar sua decisão."
+      },
+      {
+        "letra": "E",
+        "texto": "O recurso adesivo será conhecido, mesmo se houver desistência do recurso principal ou se este for declarado deserto."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "497473",
+    "metadata": "Ano: 2009 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "É urn pressuposto subjetivo de admissibilidade recursal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a regularidade formal."
+      },
+      {
+        "letra": "B",
+        "texto": "o interesse."
+      },
+      {
+        "letra": "C",
+        "texto": "o preparo."
+      },
+      {
+        "letra": "D",
+        "texto": "o cabimento."
+      },
+      {
+        "letra": "E",
+        "texto": "a tempestividade."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "id": "621718",
+    "metadata": "Ano: 2016 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Processo de execução",
+      "Da execução em geral"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca da liquidação de sentença e da execução no processo civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ajuizamento de ação rescisória pelo executado suspende automaticamente o cumprimento da sentença ou do acórdão que seja objeto do pedido da referida ação autônoma de impugnação."
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos executórios tratados pelo CPC não possuem natureza jurisdicional, motivo pelo qual não há necessidade de observância ao princípio do contraditório no processo de execução."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o autor ou outro qualquer cidadão não promover os atos executórios no prazo legal na execução de sentença de procedência em ação popular, o juiz determinará a extinção anômala do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte pode dar início à liquidação antes do trânsito em julgado da sentença condenatória genérica, haja vista que a denominada liquidação provisória de sentença é permitida pela legislação processual."
+      },
+      {
+        "letra": "E",
+        "texto": "O compromisso de ajustamento de conduta firmado entre o Ministério Público e o responsável por violação a direito coletivo não possui eficácia executória, mas é documento hábil à propositura de ação monitória."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "588496",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "Em relação à liquidação de sentença, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É defesa sentença ilíquida em ações, pelo procedimento comum sumário, de ressarcimento por danos causados em acidente de veículo de via terrestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Far-se-á liquidação por arbitramento quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo."
+      },
+      {
+        "letra": "C",
+        "texto": "Do requerimento de liquidação da sentença será a parte intimada, pessoalmente, para oferecer eventual impugnação."
+      },
+      {
+        "letra": "D",
+        "texto": "A liquidação não pode ser requerida na pendência de recurso, por ser juridicamente inviável cindir-se a execução futura."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível, na liquidação, discutir novamente a lide, bem como modificar eventualmente a sentença que a julgou, por ser introduzido contraditório próprio nos autos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "583375",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Sobre o procedimento de liquidação de sentença previsto no Código de Processo Civil, analise as afirmações a seguir e assinale a alternativa CORRETA. I. Na liquidação por meros cálculos aritméticos, poderá o juiz valer-se do contador do juízo quando a memória apresentada pelo credor aparentemente exceder os limites da decisão exequenda e, ainda, nos casos de assistência judiciária. II. Por tratar-se de nova fase processual, do requerimento de liquidação de sentença será a parte adversa intimada pessoalmente para manifestar-se no prazo de dez dias. III. Definida a forma de liquidação na sentença de mérito, a liquidação realizada de maneira diversa ofende a coisa julgada. IV. É cabível a liquidação por arbitramento quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo, não debatido na fase de conhecimento e necessariamente concernente ao dimensionamento pecuniário do direito vinculado à tutela jurisdicional concedida. V. Tendo em vista a natureza complexa do objeto da liquidação, quando esta se der por arbitramento, não cabe ao juiz, como regra, fixar prazo para a entrega do laudo, porém, uma vez apresentado o trabalho pericial, as partes terão o prazo de dez dias para manifestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e V são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas II, III e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas IV e V são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva I é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as assertivas I, IV e V são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "497246",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: AL-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica"
+    ],
+    "enunciado_principal": "A sentença, ainda que ilíquida, constitui título executivo judicial, sendo a liquidação um pressuposto para o seu cumprimento. Nesse contexto, o procedimento de liquidação de sentença",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode ser total ou parcial, mas o cumprimento da parte líquida da sentença não pode ser iniciado enquanto não for encerrada a liquidação da parcela ilíquida."
+      },
+      {
+        "letra": "B",
+        "texto": "deve esperar o trânsito em julgado da sentença, pois só após a sua efetivação é que o título torna-se exequível."
+      },
+      {
+        "letra": "C",
+        "texto": "encerra-se com a decisão que indica o valor exato da condenação, recorrível mediante interposição de apelação."
+      },
+      {
+        "letra": "D",
+        "texto": "é incabível nas ações de ressarcimento por danos causados em acidente de veículo terrestre, uma vez que nestes casos o juiz não está autorizado a proferir sentenças ilíquidas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "460047",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: PGE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Processo de execução",
+      "Da Execução em Geral - Requisitos: Obrigação Líquida, Certa e Exigível"
+    ],
+    "enunciado_principal": "O Estado ajuizou ação de indenização contra particular e obteve sentença de mérito favorável, a qual continha uma parte líquida e outra ilíquida. Transitada em julgado a sentença, poderá o Estado requerer",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em autos apartados a liquidação da parte ilíquida, e, simultaneamente, a execução da parte líquida, pugnando pela intimação do devedor para pagamento da quantia no prazo de 10 dias, sob pena de multa de 15%, que, mesmo em caso de pagamento parcial, incidirá sobre a totalidade do débito."
+      },
+      {
+        "letra": "B",
+        "texto": "em autos apartados a liquidação da parte ilíquida, e, simultaneamente, a execução da parte líquida, pugnando pela intimação do devedor para pagamento da quantia no prazo de 15 dias, sob pena de multa de 10%, que, mesmo em caso de pagamento parcial, incidirá sobre a totalidade do débito."
+      },
+      {
+        "letra": "C",
+        "texto": "primeiro a liquidação da parte ilíquida e apenas depois a execução do todo do débito, pugnando pela intimação do devedor para pagamento da quantia no prazo de 15 dias, sob pena de multa de 10%, que, mesmo em caso de pagamento parcial, incidirá so- bre a totalidade do débito."
+      },
+      {
+        "letra": "D",
+        "texto": "primeiro a liquidação da parte ilíquida e apenas depois a execução do todo do débito, pugnando pela intimação do devedor para pagamento da quantia no prazo de 15 dias, sob pena de multa de 10%, que, em caso de pagamento parcial, incidirá apenas sobre o restante do débito."
+      },
+      {
+        "letra": "E",
+        "texto": "em autos apartados a liquidação da parte ilíquida, e, simultaneamente, a execução da parte líquida, pugnando pela intimação do devedor para pagamento da quantia no prazo de 15 dias, sob pena de multa de 10%, que, em caso de pagamento parcial, incidirá apenas sobre o restante do débito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "448914",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica"
+    ],
+    "enunciado_principal": "Provimento que decide a liquidação de sentença é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impugnável por meio de apelação;"
+      },
+      {
+        "letra": "B",
+        "texto": "impugnável por meio de agravo de instrumento;"
+      },
+      {
+        "letra": "C",
+        "texto": "irrecorrível;"
+      },
+      {
+        "letra": "D",
+        "texto": "impugnável por meio de agravo retido;"
+      },
+      {
+        "letra": "E",
+        "texto": "impugnável por meio de objeção de pré-executividade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "447559",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SP-URBANISMO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Agravo retido",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "Sobre a liquidação de sentença, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da decisão de liquidação caberá agravo retido."
+      },
+      {
+        "letra": "B",
+        "texto": "é defeso na liquidação discutir de novo a lide ou modificar a sentença que a julgou."
+      },
+      {
+        "letra": "C",
+        "texto": "far-se-á liquidação por arbitramento quando, para determinar o valor da condenação, houver a necessidade de alegar e provar fato novo."
+      },
+      {
+        "letra": "D",
+        "texto": "na liquidação por artigos, observar-se-á, no que couber, as regras gerais dos procedimentos especiais."
+      },
+      {
+        "letra": "E",
+        "texto": "requerida a liquidação por arbitramento, o juiz nomeará um perito e fixará prazo preclusivo de 30 dias para entrega do laudo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "427903",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito da liquidação de sentença.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liquidação de sentença não pode ser realizada por forma diversa da estabelecida na sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Não podem ser incluídos na liquidação os juros moratórios quando não arbitrados pela sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "A liquidação por artigos é julgada por sentença, da qual cabe apelação."
+      },
+      {
+        "letra": "D",
+        "texto": "Incumbe ao devedor a antecipação dos honorários periciais em fase de liquidação por arbitramento ou por artigos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "408723",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Embargos de Declaração no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Para a execução, é indispensável a existência de título líquido, que indique a quantidade de bens ou valores que constituem a obrigação. Em caso de título judicial ilíquido, em que haja a necessidade de alegar e provar fato novo para se chegar ao quantum debeatur, será necessária a;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liquidação por cálculo, remetendo-se o processo ao contador judicial para que seja elaborada memória atualizada do débito."
+      },
+      {
+        "letra": "B",
+        "texto": "liquidação por arbitramento, ante a necessidade de realização de prova pericial para a comprovação de tais fatos."
+      },
+      {
+        "letra": "C",
+        "texto": "liquidação por artigos, sendo impossível o rejulgamento da causa ou a modificação da sentença que a julgou"
+      },
+      {
+        "letra": "D",
+        "texto": "oposição de embargos declaratórios com o fim de integrar a omissão do julgador, que está desautorizado a proferir sentenças ilíquidas"
+      },
+      {
+        "letra": "E",
+        "texto": "apresentação de ação autônoma de liquidação, cuja sentença será recorrível por apelação à autoridade competente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "387602",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CAU-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Sentença",
+      "Procedimento ordinário",
+      "Liquidação de sentença",
+      "Agravo de instrumento",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Acerca da liquidação da sentença, prevista no Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Da decisão de liquidação não caberá agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a sentença não determinar o valor devido, procede-se à sua liquidação."
+      },
+      {
+        "letra": "C",
+        "texto": "A liquidação poderá ser requerida na pendência de recurso, processando-se nos mesmos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o credor requererá o cumprimento da sentença, não necessitando apresentar memória discriminada do cálculo."
+      },
+      {
+        "letra": "E",
+        "texto": "Far-se-á a liquidação por arbitramento quando, para determinar o valor da condenação, houver necessidade de alegar e provar fato novo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "385951",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: SEAP-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "A respeito da liquidação da sentença, em conformidade com o Código Processual Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando a sentença não determinar o valor devido, procede-se á sua liquidação."
+      },
+      {
+        "letra": "B",
+        "texto": "Do requerimento de liquidação de sentença será a parte intimada pessoalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A liquidação não poderá ser requerida na pendência de recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Em qualquer rito, e´ proibida a sentença ilíquida."
+      },
+      {
+        "letra": "E",
+        "texto": "No processo civil brasileiro, e´ proibida a liquidação por arbitramento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "379301",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Processo de execução",
+      "Da execução em geral"
+    ],
+    "enunciado_principal": "Sobre os princípios da liquidação e execução civis, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo princípio do menor sacrifício do executado, o juiz poderá conceder usufruto de bem móvel ao exequente, mesmo que o executado se oponha."
+      },
+      {
+        "letra": "B",
+        "texto": "em razão do princípio da concentração do poder executivo do juiz, as medidas executivas devem encontrar tipificação legal para que sejam deferidas, garantindo o jurisdicionado contra a possibilidade de arbítrio judicial na escolha da forma de execução."
+      },
+      {
+        "letra": "C",
+        "texto": "em razão do princípio da fidelidade ao título, não se pode incluir na liquidação da sentença os juros moratórios, quando omissos os pedido inicial ou a condenação."
+      },
+      {
+        "letra": "D",
+        "texto": "em razão do princípio da disponibilidade, o exequente poderá desistir da execução independentemente do consentimento do executado, exceto quando oferecidos embargos."
+      },
+      {
+        "letra": "E",
+        "texto": "em razão do princípio da cooperação, o executado tem o dever de indicar quais são e onde estão os bens pe- nhoráveis que possui, quando intimado a fazê-lo, sob pena de ficar caracterizado ato atentatório à dignidade da Justiça e não poder requerer a substituição do bem penhorado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "371258",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Liquidação de sentença",
+      "Coisa Julgada no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "Paulo ajuizou ação de indenização contra Pedro, julgada procedente em primeiro grau, cuja sentença condenatória determinou que parte do valor da indenização devida seria fixada por meio de liquidação de sentença por arbitramento. A sentença foi confirmada pelo E. Tribunal de Justiça de Pernambuco e transitou em julgado. Com o retorno dos autos à origem, Paulo inicia a fase de liquidação de sentença na forma fixada em sentença e o Magistrado, antes de determinar a intimação da parte contrária na pessoa de seu advogado, determina que a liquidação da sentença seja feita por artigos, argumentando que o vencedor deverá provar fato novo. Neste caso, a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada."
+      },
+      {
+        "letra": "B",
+        "texto": "decisão do Magistrado é nula, pois ofendeu a coisa julgada."
+      },
+      {
+        "letra": "C",
+        "texto": "decisão do Magistrado é anulável, pois ofendeu a coisa julgada."
+      },
+      {
+        "letra": "D",
+        "texto": "decisão do Magistrado é nula, pois foi prolatada de ofício, não havendo requerimento de pelo menos uma das partes."
+      },
+      {
+        "letra": "E",
+        "texto": "decisão do Magistrado é anulável, pois foi prolatada de ofício, não havendo requerimento de pelo menos uma das partes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "370292",
+    "metadata": "Ano: 2013 | Banca: FEPESE | Órgão: IPREV",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Cumprimento de sentença",
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Impugnação ao cumprimento de sentença",
+      "Respostas do réu  - Exceção"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, o processo será autuado em apenso aos autos principais, exceto quando se tratar de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "liquidação de sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "impugnação ao valor da causa."
+      },
+      {
+        "letra": "C",
+        "texto": "impugnação ao pedido de assistência."
+      },
+      {
+        "letra": "D",
+        "texto": "resposta do réu, sob a forma de exceção."
+      },
+      {
+        "letra": "E",
+        "texto": "incidente de falsidade, após encerrada a instrução."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "426602",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Sobre a liquidação de sentença, à luz do Código de Processo Civil, assinale a única opção certa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Far-se-á liquidação por arbitramento quando se requeira o concurso de um especialista para apurar o quantum relativo à obrigação pecuniária condenatória. Nessas circunstâncias, a liquidação por arbitramento será realizada quando o exigir a natureza do objeto da liquidação ou quando determinado pela sentença ou convencionado pelas partes, sendo nomeado perito pelo juiz que fixará o prazo para a entrega do laudo, sobre o qual as partes terão prazo de 10 dias para se manifestar."
+      },
+      {
+        "letra": "B",
+        "texto": "É defeso, na liquidação, apresentar e provar fato novo, uma vez que não é possível modificar a sentença que julgou a lide."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos processos sob procedimento comum sumário, é proibida sentença ilíquida, cumprindo ao juiz fixar de plano o valor devido da condenação."
+      },
+      {
+        "letra": "D",
+        "texto": "A liquidação não poderá ser requerida na pendência de recurso no processo de conhecimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese em que a determinação do valor da condenação depender apenas de cálculo aritmético, mas a elaboração da memória de cálculo reclamar dados existentes em poder do devedor ou de terceiro, o juiz, a requerimento do credor, poderá-requisitá-los, fixando prazo de até 15 dias para o cumprimento da diligência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "336237",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "A respeito da liquidação de sentença, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o juiz infira que os cálculos do processo de liquidação excedem os da execução, deverá determinar ao credor a elaboração de novos cálculos."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, no processo de liquidação por arbitramento, houver impugnação do laudo pericial, o juiz deverá designar audiência de instrução e julgamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo omissa a sentença quanto a juros e correção monetária, devem incidir, na liquidação, somente os juros legais e a correção monetária, ficando afastados os juros de mora."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os dados necessários ao cálculo do valor da condenação estiverem em poder do devedor, a parte deverá requerer ao juiz, de forma incidente, que intime o devedor a apresentá-los."
+      },
+      {
+        "letra": "E",
+        "texto": "A liquidação de sentença deve ser realizada por meio de incidente processual, mediante requerimento, devendo a parte contrária ser intimada pessoalmente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "289163",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Liquidação de sentença",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento"
+    ],
+    "enunciado_principal": "No que concerne à liquidação de sentença, de acordo com o Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da decisão de liquidação caberá recurso de apelação sem efeito suspensivo."
+      },
+      {
+        "letra": "B",
+        "texto": "do requerimento de liquidação de sentença será a parte, em regra, citada e intimada pessoalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "a liquidação poderá ser requerida na pendência de recurso, processando-se em autos apartados, no juízo de origem, cumprindo ao liquidante instruir o pedido com cópias das peças processuais pertinentes."
+      },
+      {
+        "letra": "D",
+        "texto": "na liquidação por artigos é possível nova discussão da lide ou modificação da sentença que a julgou."
+      },
+      {
+        "letra": "E",
+        "texto": "na liquidação por arbitramento, observar-se-á, no que couber, o procedimento comum."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "407156",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Apelação no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "No que diz respeito à liquidação de sentença, está CORRETA a seguinte afirmação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabe à parte credora instruir o pedido de cumprimento de sentença com a memória discriminada e atualizada do cálculo, podendo o juiz valer-se de contador do juízo somente se o credor for beneficiário de assistência judiciária."
+      },
+      {
+        "letra": "B",
+        "texto": "Será admitida a rediscussão da sentença na fase de liquidação de sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "Requerida a liquidação por artigos, o juiz nomeará o perito e fixará o prazo para entrega do laudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão de liquidação caberá apelação."
+      },
+      {
+        "letra": "E",
+        "texto": "Do requerimento de liquidação de sentença será a parte intimada na pessoa de seu advogado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "341724",
+    "metadata": "Ano: 2009 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Liquidação de sentença",
+      "Apelação no CPC 1973",
+      "Finalidade e natureza jurídica",
+      "Liquidação por artigos",
+      "Liquidação por arbitramento",
+      "A determinação do valor por simples cálculo"
+    ],
+    "enunciado_principal": "Acerca da liquidação de sentença, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte será intimada, na pessoa de seu advogado, do requerimento de liquidação de sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Na liquidação por artigos, o procedimento comum deve ser observado no que couber."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o credor requererá o cumprimento da sentença, na forma da lei processual civil, instruindo o pedido com a memória discriminada e atualizada do cálculo."
+      },
+      {
+        "letra": "D",
+        "texto": "Far- se-á a liquidação por arbitramento quando o objeto da liquidação, por sua natureza, exigir o conhecimento técnico de um árbitro."
+      },
+      {
+        "letra": "E",
+        "texto": "Da sentença de liquidação, caberá apelação."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

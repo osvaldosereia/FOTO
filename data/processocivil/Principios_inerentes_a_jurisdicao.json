@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "610106",
+    "metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: CRAISA de Santo André - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "São procedimentos especiais de jurisdição contenciosa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as ações de depósito, de prestação de contas; e de alienação judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "as ações de consignação em pagamento, monitória e de restauração de autos."
+      },
+      {
+        "letra": "C",
+        "texto": "as ações de alienação judicial, de curatela dos interditos e de usucapião de terras particulares."
+      },
+      {
+        "letra": "D",
+        "texto": "as ações de depósito, de curatela dos interditos, e de alienação judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "600791",
+    "metadata": "Ano: 2016 | Banca: FAU | Órgão: Prefeitura de Chopinzinho - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Conceito e características da jurisdição",
+      "Princípios inerentes à jurisdição",
+      "Jurisdição Voluntária no CPC 1973"
+    ],
+    "enunciado_principal": "Jurisdição é o poder que o Estado detém para aplicar o direito a um determinado caso, com o objetivo de solucionar conflitos de interesses e com isso resguardar a ordem jurídica e a autoridade da lei. Sobre essa temática, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo princípio do acesso á justiça, o Estado só exercerá a atividade jurisdicional se for devidamente provocado."
+      },
+      {
+        "letra": "B",
+        "texto": "Por se tratar de um ato de poder, o juiz exerce a jurisdição dentro de um limite espacial sujeito à soberania do Estado, limite este consagrado pelo princípio da investidura."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há previsão legal para jurisdição voluntária em nosso sistema."
+      },
+      {
+        "letra": "D",
+        "texto": "A jurisdição pode ser classificada como contenciosa, ou seja, quando existe lide e o Estado atua na solução de um conflito; e voluntária, quando não existe lide e o Estado atua na administração do interesse das partes."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "616146",
+    "metadata": "Ano: 2015 | Banca: CEPERJ | Órgão: Prefeitura de Saquarema - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "O processo é informado por diversos princípios cuja aplicação se revela essencial para a sua realização. Ao ser estipulada a necessidade de defesa, está-se realizando o princípio do(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "publicidade"
+      },
+      {
+        "letra": "B",
+        "texto": "economia"
+      },
+      {
+        "letra": "C",
+        "texto": "devido processo"
+      },
+      {
+        "letra": "D",
+        "texto": "juiz natural"
+      },
+      {
+        "letra": "E",
+        "texto": "idoneidade"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "565646",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, referente a jurisdição e competência no processo civil.O procedimento em que o requerente manifesta sua pretensão de opção de nacionalidade brasileira na condição de brasileiro nato, conforme os requisitos previstos na CF, possui natureza de jurisdição voluntária e, nesse caso, a sentença prolatada não faz coisa julgada material.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "563777",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição",
+      "Pressupostos Processuais"
+    ],
+    "enunciado_principal": "Acerca de princípios gerais do processo, ação, jurisdição e pressupostos processuais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viola o princípio do juiz natural a criação, em tribunais de justiça, de câmaras para julgamento de ações no período de recesso forense."
+      },
+      {
+        "letra": "B",
+        "texto": "A teoria da asserção só pode ser aplicada antes da apresentação da defesa pelo réu."
+      },
+      {
+        "letra": "C",
+        "texto": "O substituto processual é aquele que está em juízo em nome alheio, defendendo interesse alheio."
+      },
+      {
+        "letra": "D",
+        "texto": "É possível a propositura de ação de cunho declaratório para interpretar decisão judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "No âmbito do processo civil, a imputação de penalidades decorrentes da violação ao princípio da boa-fé limita-se ao autor e ao réu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "545700",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "No que concerne aos princípios processuais e à jurisdição, julgue o item que se segue. Na jurisdição contenciosa, o Estado, em substituição às partes, resolve a lide submetida a sua apreciação, sendo inadmitida, após a instauração do processo contencioso, a composição entre as partes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "545698",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TCU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "No que concerne aos princípios processuais e à jurisdição, julgue o item que se segue.O processo de execução, cujo objetivo consiste em dar efetividade a um provimento judicial de mérito, é uma espécie do gênero processo de conhecimento.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "544936",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: MPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "A respeito da ação e da jurisdição, considere: I. O direito de ação depende do direito material ou da eventual relação jurídica entre as partes. II. O direito de ação é o direito subjetivo público de pleitear ao Poder Judiciário uma decisão sobre uma pretensão. III. A jurisdição é o poder, função e atividade de aplicar o direito a um fato concreto pelos órgãos públicos destinados a tal, obtendo-se a justa composição da lide. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "II."
+      },
+      {
+        "letra": "D",
+        "texto": "I."
+      },
+      {
+        "letra": "E",
+        "texto": "III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "544537",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Em relação à jurisdição, considere os seguintes princípios e características: I. As únicas soluções possíveis para a lide são por meio da jurisdição e pelos mecanismos alternativos da autocomposição e da arbitragem. II. Pelo princípio da indeclinabilidade, a prestação jurisdicional não é discricionária e sim obrigatória para o Estado. III. Pelo princípio da inevitabilidade, tem-se que a jurisdição é atividade pública que cria um estado de sujeição às partes do processo. IV. Nenhum juiz prestará a tutela jurisdicional senão quando a parte ou o interessado a requerer, nos casos e forma legais, é enunciado relativo ao princípio da indelegabilidade das atribuições típicas e refere-se à jurisdição contenciosa e voluntária. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "521375",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito da jurisdição e dos equivalentes jurisdicionais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na jurisdição voluntária, a lei confere maior flexibilidade ao julgador para conduzir o processo, mas o obriga à observância de critérios de legalidade estrita quando da prolação da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "A imparcialidade é a característica da jurisdição contenciosa que impede o julgador de determinar, de ofício, a produção de prova em juízo."
+      },
+      {
+        "letra": "C",
+        "texto": "A autodefesa, excepcionalmente permitida no direito brasileiro para a composição da lide, pode ocorrer antes ou durante o processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Na arbitragem, as partes podem escolher a norma de direito material a ser aplicada para a solução do conflito."
+      },
+      {
+        "letra": "E",
+        "texto": "Configura exceção à regra da indelegabilidade da jurisdição a expedição de carta precatória que delegue a oitiva de testemunha a outro juízo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "503375",
+    "metadata": "Ano: 2015 | Banca: CIEE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Em se tratando da Lei Processual Civil, a jurisdição é exercida em todo o território nacional conforme os dispositivos legais. Com relação à jurisdição voluntária e à contenciosa civil, assinale a alternativa que apresenta quem a exerce em todo o território nacional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A jurisdição voluntária é exercida pelo Ministério Público Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "A jurisdição contenciosa é exercida pelo Juiz de Paz."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambas são exercidas pelo Ministério Público Estadual."
+      },
+      {
+        "letra": "D",
+        "texto": "A jurisdição contenciosa e voluntária é exercida pelos juízes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "488430",
+    "metadata": "Ano: 2015 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "A respeito do princípio do contraditório no processo civil, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contraditório consiste em uma garantia de efetiva participação das partes no desenvolvimento de todo o litígio, mediante a possibilidade de influírem, em igualdade de condições, no convencimento do magistrado, contribuindo na descrição dos fatos, na produção de provas e no debate das questões de direito."
+      },
+      {
+        "letra": "B",
+        "texto": "O contraditório não é necessário apenas para a prolação da sentença de mérito, devendo ser observado ao longo de todo o procedimento, relativamente a todas as questões, sejam de rito ou de mérito."
+      },
+      {
+        "letra": "C",
+        "texto": "O contraditório guarda estreita relação com o princípio da isonomia, exatamente porque as partes devem dispor da possibilidade de expor suas versões, apresentar suas defesas e participar, enfim, do processo em idênticas oportunidades."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz também é sujeito do contraditório, devendo submeter a debate entre as partes as questões jurídicas, aí incluídas as matérias que ele há de apreciar de ofício."
+      },
+      {
+        "letra": "E",
+        "texto": "Em razão das máximas iura novit curia e da mihi factum dabo tibi ius, constitui tarefa privativa do juiz a aplicação do direito, independentemente da sua arguição pelas partes, cabendo a estas últimas apenas a alegação dos fatos. Quer isso dizer que o contraditório somente alcança as questões de fato, não sendo necessário para as questões de direito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "485286",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "No que concerne à característica da inércia da jurisdição, assinale a opção que configura uma exceção a ela.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inventário."
+      },
+      {
+        "letra": "B",
+        "texto": "Reintegração de posse de imóvel público."
+      },
+      {
+        "letra": "C",
+        "texto": "Ação popular."
+      },
+      {
+        "letra": "D",
+        "texto": "Ação civil pública."
+      },
+      {
+        "letra": "E",
+        "texto": "Ação declaratória de nulidade de ato administrativo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "464411",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: PC-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Sobre o princípio do juiz natural, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "faz referência à necessidade dos magistrados serem brasileiros, natos ou naturalizados."
+      },
+      {
+        "letra": "B",
+        "texto": "tem relação com a prerrogativa de foro para determinadas pessoas, em razão do cargo ou função que ocupam."
+      },
+      {
+        "letra": "C",
+        "texto": "garante que o juiz que primeiro conhecer a causa deve necessariamente julgá-la."
+      },
+      {
+        "letra": "D",
+        "texto": "dispõe sobre a forma de promoção dos juízes, por antiguidade ou por merecimento."
+      },
+      {
+        "letra": "E",
+        "texto": "está ligado à competência jurisdicional, imparcialidade do órgão julgador e vedação aos tribunais de exceção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "456568",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Conceito e características da jurisdição",
+      "Princípios inerentes à jurisdição",
+      "Jurisdição Voluntária no CPC 1973"
+    ],
+    "enunciado_principal": "No que concerne à jurisdição e a seus equivalentes, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas hipóteses de jurisdição voluntária, embora não haja litígio entre os envolvidos, o julgador deve observar a legalidade estrita na apreciação do pedido."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da inércia da jurisdição deve ser afastado nas hipóteses de direitos indisponíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos casos que envolvam jurisdição voluntária, o julgador apenas administra interesses privados e, por isso, não está sujeito às regras de suspeição ou impedimento."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito de retenção é exemplo de aplicação autorizada do equivalente jurisdicional denominado autocomposição."
+      },
+      {
+        "letra": "E",
+        "texto": "Há possibilidade de os envolvidos na arbitragem escolherem a norma de direito material a ser aplicada na resolução do conflito, podendo ainda ser convencionado que o julgamento se faça com base nos costumes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "417885",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Da ação",
+      "Conceito e características da jurisdição",
+      "Princípios inerentes à jurisdição",
+      "Condições da ação",
+      "Conceito e características da ação"
+    ],
+    "enunciado_principal": "A respeito da jurisdição e da ação, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo a teoria da asserção, as condições da ação devem ser verificadas conforme as afirmações do autor, antes de produzidas as provas."
+      },
+      {
+        "letra": "B",
+        "texto": "Dado o princípio da indeclinabilidade, o juiz não pode delegar a jurisdição a outra pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "Conforme a doutrina majoritária, a mediação está inserida na atividade jurisdicional."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com a teoria clássica da ação, desenvolvida por Friedrich Savigny, a ação é o direito a uma sentença favorável."
+      },
+      {
+        "letra": "E",
+        "texto": "Na teoria concretista, defendida por Adolf Wach, não se reconhece a autonomia do direito de ação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "387734",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Com referência a jurisdição, ação e competência, julgue os itens que se seguem.Embora o princípio da inércia da jurisdição proclame que nenhum órgão jurisdicional prestará a tutela jurisdicional senão quando provocado na forma da lei, é permitido ao juiz, de ofício, mandar arrecadar os bens do ausente e nomear-lhe curador.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "378708",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 18ª Região (GO)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Sentença",
+      "Procedimento ordinário",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "É defeso ao Juiz proferir sentença, a favor do autor, de natureza diversa da pedida, bem como condenar o réu em quantidade superior ou em objeto diverso do que lhe foi demandado. Esse enunciado normativo refere-se ao princípio processual da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "obrigatoriedade da jurisdição."
+      },
+      {
+        "letra": "B",
+        "texto": "eventualidade."
+      },
+      {
+        "letra": "C",
+        "texto": "inércia jurisdicional."
+      },
+      {
+        "letra": "D",
+        "texto": "adstrição ou congruência."
+      },
+      {
+        "letra": "E",
+        "texto": "reciprocidade decisória."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "433120",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Da Jurisdição",
+      "Das Partes e Procuradores",
+      "Da ação",
+      "Princípios inerentes à jurisdição",
+      "Condições da ação",
+      "Sujeitos da relação processual"
+    ],
+    "enunciado_principal": "Leia o fragmento a seguir.O Código de Processo Civil estabelece que a jurisdição deve ser exercida pelos juízes em todo território nacional e que a tutela jurisdicional será prestada quando a parte ou interessado a requerer, o que se convencionou chamar de princípio _______ . As condições da ação são elementos indispensáveis para que o Estado preste jurisdição e são elas a legitimidade, possibilidade jurídica do pedido e _______ que pode se limitar à declaração de inexistência de relação jurídica. Por fim, ninguém poderá pleitear em nome próprio direito alheio, salvo quando autorizado por lei, tal como ocorre na _______ . Assinale a alternativa que completa corretamente as lacunas do fragmento acima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do impulso oficial - interesse - legitimidade ordinária"
+      },
+      {
+        "letra": "B",
+        "texto": "do processo legal - citação válida - representação processual"
+      },
+      {
+        "letra": "C",
+        "texto": "da inércia da jurisdição - competência - representação processual."
+      },
+      {
+        "letra": "D",
+        "texto": "do processo legal - capacidade postulatória - legitimidade extraordinária"
+      },
+      {
+        "letra": "E",
+        "texto": "da inércia da jurisdição - interesse - legitimidade extraordinária"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "421720",
+    "metadata": "Ano: 2013 | Banca: TRT 22 PI | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "O oficial de Justiça da Comarca de Teresina realizou penhora e depósito de bens na Comarca de Campo Maior –PI, não contígua. A penhora é nula, pois oficial de justiça não pode realizar penhora e depósito em comarca diferente daquela em que é lotado. Isso diz respeito ao princípio da jurisdição denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "investidura;"
+      },
+      {
+        "letra": "B",
+        "texto": "juiz natural;"
+      },
+      {
+        "letra": "C",
+        "texto": "indelegabilidade;"
+      },
+      {
+        "letra": "D",
+        "texto": "territorialidade;"
+      },
+      {
+        "letra": "E",
+        "texto": "inevitabilidade;"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "339515",
+    "metadata": "Ano: 2013 | Banca: TJ-RS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Procedimento ordinário",
+      "Conceito e características da jurisdição",
+      "Princípios inerentes à jurisdição",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para propor ou contestar ação é necessário ter interesse e legitimidade, não podendo o interesse do autor limitar-se à declaração de existência de relação jurídica."
+      },
+      {
+        "letra": "B",
+        "texto": "A jurisdição civil, contenciosa e voluntária, é exercida pelos juízes, em todo o território nacional, sendo que nenhum juiz prestará a tutela jurisdicional senão quando a parte ou o interessado a requerer, nos casos e forma legais."
+      },
+      {
+        "letra": "C",
+        "texto": "A jurisdição civil, contenciosa e voluntária, é exercida pelos juízes e promotores de justiça, em todo o território nacional, sendo que nenhum deles prestará a tutela jurisdicional, senão quando a parte ou o interessado a requerer, nos casos e forma legais."
+      },
+      {
+        "letra": "D",
+        "texto": "Para propor ou contestar ação é necessário ter interesse e legitimidade, não podendo o interesse do autor limitar-se à declaração de inexistência de relação jurídica."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "329209",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Considere que, ao apreciar apelação, o tribunal mantenha a sentença, reduzindo o valor dos honorários fixados pelo juiz de 20% para 10% sobre o valor da condenação, ainda que não haja pedido do vencido nesse sentido. Nesse caso, a decisão do tribunal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ratifica o princípio da máxima efetividade do processo."
+      },
+      {
+        "letra": "B",
+        "texto": "viola o princípio do juiz natural."
+      },
+      {
+        "letra": "C",
+        "texto": "conforma-se com o princípio da instrumentalidade das formas."
+      },
+      {
+        "letra": "D",
+        "texto": "viola o princípio da inércia."
+      },
+      {
+        "letra": "E",
+        "texto": "conforma-se com o princípio da economicidade jurisdicional."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "327656",
+    "metadata": "Ano: 2013 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "É INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com a Teoria Geral do Processo, pode-se se afirmar que são técnicas de recrutamento da magistratura: a cooptação, a escolha pelo chefe do Poder Executivo com e sem autorização do Parlamento, o sistema de eleição e o concurso público."
+      },
+      {
+        "letra": "B",
+        "texto": "Pelo princípio da inevitabilidade da jurisdição, garante-se a todos o acesso ao Poder Judiciário, o qual não pode deixar de atender a quem venha a juízo deduzir uma pretensão."
+      },
+      {
+        "letra": "C",
+        "texto": "O caráter substitutivo da jurisdição tem correlação direta com o conceito processual de ação, que consiste na contrapartida natural da proibição, na maioria das hipóteses, da ação material, que consiste, principalmente, no exercício do poder privado pertencente ao particular titular do direito violado de perseguir, capturar e até matar quem não satisfizer sua pretensão material."
+      },
+      {
+        "letra": "D",
+        "texto": "A definitividade e a inércia são características da jurisdição, mas ambas admitem exceção no exercício da tutela jurisdicional."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "289356",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "De acordo com os princípios constitucionais do processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quaisquer atos judiciais realizados pelo magistrado devem ser motivados, sob pena de afronta ao princípio constitucional da motivação."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio constitucional da ampla defesa representa o direito do réu de participar do processo para se defender de acusações, inaplicável ao autor, já que não tem necessidade de se defender."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito fundamental à publicidade estabelece que os atos processuais são públicos e divulgados oficialmente, ressalvada a proteção à intimidade ou o interesse social."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio da razoável duração do processo aplica-se exclusivamente aos processos que tramitam no Poder Judiciário."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio do duplo grau de jurisdição está expresso na Constituição e refere-se ao direito à obtenção de um novo julgamento por órgão de mesma hierarquia ou superior."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "372041",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: TJ-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A jurisdição é a atividade pública indeclinável, a qual deve ser exercida com imparcialidade pelos membros do Poder Judiciário. Para assegurar a imparcialidade, a lei confere aos magistrados determinadas garantias, como, por exemplo, a vitaliciedade e a inamovibilidade, as quais, por isso, são consideradas garantias da própria atividade jurisdicional e não meras garantias dos magistrados."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio do juiz natural impõe juiz imparcial e investido de competência absoluta, abstrata e previamente estabelecida, motivo pelo qual há previsão de ação rescisória em caso de a decisão ser proferida por magistrado absolutamente incompetente."
+      },
+      {
+        "letra": "C",
+        "texto": "A incompetência do órgão jurisdicional pode ser superveniente, se houver alteração da competência em razão da matéria ou da hierarquia, caso em que o juiz deverá declinar, de ofício, sua competência, devendo- se repetir atos decisórios praticados pelo juiz declinante, sob pena de nulidade do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "O princípio segundo o qual a competência é determinada no momento em que a ação é proposta é o da perpetuatio iurisdicionis."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "341125",
+    "metadata": "Ano: 2012 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Julgue as três proposições que se seguem e assinale a única alternativa correta. I - O princípio geral da motivação das decisões judiciais que impõe ao juiz togado o inarredável dever de fundamentar, de expor, de explicar, de justificar as razões de seu convencimento em todas as decisões que profere, não se aplica às sentenças decorrentes do pacto ou cláusula compromissória. II - Admitindo-se como regra geral que a jurisdição é inerte, isto é, que o Estado-juiz só pode agir no momento e nos limites desejados pelo interessado, não pode a sentença, sem pedido do locador (autor), condenar o inquilino (réu) no pagamento dos aluguéis que se venceram no curso da ação de cobrança, além daqueles expressamente reclamados na inicial. III - Doutrina e jurisprudência majoritárias consideram que recursos manifestamente incabíveis ou intempestivos não impedem ou interrompem a contagem do prazo para a ação rescisória.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a proposição III está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a proposição I está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "316322",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Acerca dos princípios da jurisdição, julgue o item abaixo.O princípio da inafastabilidade diz respeito à vinculação obrigatória das partes ao processo, que passam a integrar a relação processual em um estado de sujeição aos efeitos da decisão jurisdicional.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "311758",
+    "metadata": "Ano: 2012 | Banca: VUNESP | Órgão: DPE-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "O princípio da inércia da jurisdição",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é absoluto, sem possibilidade de sofrer qualquer forma de mitigação."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser mitigado na jurisdição voluntária, mas não na contenciosa."
+      },
+      {
+        "letra": "C",
+        "texto": "está presente mesmo na instauração de inventário de ofício."
+      },
+      {
+        "letra": "D",
+        "texto": "é consequência do princípio constitucional de devido processo legal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "254781",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "A jurisdição, que tem por finalidade compor os conflitos de interesses, resguardando a ordem jurídica e a autoridade da lei, constitui uma das funções de soberania do Estado. A respeito dessa função estatal, julgue os itens subsequentes.Segundo a doutrina, o juízo de conciliação configura uma das categorias dos atos de jurisdição voluntária.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "249337",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Sobre jurisdição, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No Brasil existe uma justiça especializada para julgar as causas de interesse do Estado."
+      },
+      {
+        "letra": "B",
+        "texto": "O fracionamento em órgãos jurisdicionais implica dualidade de jurisdição."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos procedimentos não contenciosos, há função jurisdicional apenas sob um ponto de vista estritamente formal."
+      },
+      {
+        "letra": "D",
+        "texto": "A expropriação é medida adequada à consecução dos objetivos da atividade jurisdicional voluntária."
+      },
+      {
+        "letra": "E",
+        "texto": "A função jurisdicional contenciosa é delegável."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "221757",
+    "metadata": "Ano: 2012 | Banca: FUNCAB | Órgão: MPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "“Ajurisdição é uma das funções do Estado, que visa a resolver um litígio posto à sua apreciação, a partir da aplicação da vontade objetiva do direito”. No que tange aos princípios inerentes à jurisdição, aquele segundo o qual ninguém será processado nem sentenciado, senão pela autoridade competente, sendo proibida a criação de juízo ou tribunal de exceção, chama-se Princípio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da indelegabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "da investidura."
+      },
+      {
+        "letra": "C",
+        "texto": "do juiz natural."
+      },
+      {
+        "letra": "D",
+        "texto": "da inevitabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "da territorialidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "235375",
+    "metadata": "Ano: 2011 | Banca: FUJB | Órgão: MPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Conceito e características da jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "São características/princípios da jurisdição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "investidura, inevitabilidade e delegabilidade;"
+      },
+      {
+        "letra": "B",
+        "texto": "interesse de agir, inafastabilidade e autotutela;"
+      },
+      {
+        "letra": "C",
+        "texto": "substitutividade, hermetismo e defnitividade;"
+      },
+      {
+        "letra": "D",
+        "texto": "inércia, inevitabilidade e taxatividade;"
+      },
+      {
+        "letra": "E",
+        "texto": "inafastabilidade, investidura e inevitabilidade"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "203315",
+    "metadata": "Ano: 2011 | Banca: PONTUA | Órgão: TRE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Em relação à jurisdição, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As causas cíveis serão processadas e julgadas pelos órgãos jurisdicionais, nos limites da sua competência, ressalvada às partes a liberdade de instituírem juízo arbitral."
+      },
+      {
+        "letra": "B",
+        "texto": "A perpetuatio jurisdicionis consiste na regra que compõe o sistema de estabilidade do processo, segundo a qual a competência fixada na propositura da ação e com o despacho inicial não mais se modifica."
+      },
+      {
+        "letra": "C",
+        "texto": "A exceção da perpetuatio jurisdicionis pode ocorrer quando houver modificação do estado de fato, como a mudança de domicílio do réu, ou em razão da ampliação do teto da competência do órgão em razão do valor da causa."
+      },
+      {
+        "letra": "D",
+        "texto": "A exceção da perpetuatio jurisdicionis pode ocorrer em razão de supressão do órgão judiciário, pela alteração superveniente da competência em razão da matéria ou da hierarquia."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "172438",
+    "metadata": "Ano: 2011 | Banca: FMP Concursos | Órgão: TCE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Assinale a assertiva CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“Parte” e “sujeito do processo” são expressões sinônimas e correspondem ao autor e ao réu, que formam entre si uma relação jurídica que tem como objeto a tutela ou prestação jurisdicional."
+      },
+      {
+        "letra": "B",
+        "texto": "A imperatividade e a inafastabilidade são características da jurisdição, enquanto a substitutividade não."
+      },
+      {
+        "letra": "C",
+        "texto": "Despacho é o ato pelo qual o juiz, no curso do processo, resolve questão incidente."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos do juiz consistirão em sentenças, decisões interlocutórias e despachos. As sentenças conterão relatório, fundamento e dispositivo; as demais decisões dispensam tais requisitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratando-se de processo de conhecimento, o Código de Processo Civil classifica os procedimentos em comum e especial, subdivindindo o primeiro em ordinário e sumário, e o segundo em procedimentos especiais de jurisdição contenciosa e/ou de jurisdição voluntária."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "152122",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Paulo e Hélio, maiores de idade e capazes, não tendo entrado em acordo quanto ao pagamento de dívida que o segundo contraíra com o primeiro, concluíram que seria necessária a intervenção de terceiro, capaz de propor solução para o problema. Levaram, então, o caso ao conhecimento de Lúcio, professor emérito da faculdade onde Paulo e Hélio estudavam, que propôs que apenas dois terços da dívida fossem pagos no prazo de trinta dias, o que foi aceito pelos interessados. Com base nessa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao aceitarem a solução intermediária, os interessados realizaram autocomposição."
+      },
+      {
+        "letra": "B",
+        "texto": "Configura-se, no caso, a autotutela, dada a inexistência de intervenção do Estado-juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "A figura do terceiro que conduz os interessados a solução independentemente de intervenção judiciária indica a ocorrência de mediação."
+      },
+      {
+        "letra": "D",
+        "texto": "Como a solução proposta se fundamenta na regra jurídica aplicável e tem executividade própria, trata-se de verdadeira jurisdição."
+      },
+      {
+        "letra": "E",
+        "texto": "Dada a ocorrência de solução por intervenção de terceiro, fica caracterizada a arbitragem."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "104800",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "A função jurisdicional é, em regra, de índole substitutiva, ou seja, substitui-se a vontade privada por uma atividade pública.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "189807",
+    "metadata": "Ano: 2010 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "Tendo como base a mitigação do princípio da territorialidade da jurisdição, analise as situações a seguir. I - Homologação de sentença estrangeira. II - Divórcio realizado no Rio de Janeiro produzindo efeitos em todo o território nacional. III - Prática de atos de simples comunicação processual em comarcas contíguas, independente de carta precatória. IV - Eficácia territorial das decisões proferidas em ações coletivas, nos casos em que o dano for nacional. V - Extensão da competência do juízo que conhecer a causa, no caso de imóvel situado em mais de uma comarca.Constituem exemplos de mitigação do princípio da territorialidade da jurisdição, com previsão expressa no Código de Processo Civil brasileiro, APENAS as situações",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "94123",
+    "metadata": "Ano: 2010 | Banca: AOCP | Órgão: Prefeitura de Camaçari - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "No que se refere aos princípios inerentes à Jurisdição, analise as assertivas e assinale a alternativa que aponta as corretas. I. Segundo o Princípio da Investidura, só poderá exercer a função jurisdicional aquele que for investido de tal função por meio de concurso público. II. A garantia fundamental do juiz natural resulta da conjugação de dois dispositivos constitucionais: o que proíbe a criação de juízos ou tribunais de exceção e o que determina que ninguém será processado nem sentenciado senão pela autoridade competente. III. Em razão do princípio do juiz natural, não se admite no ordenamento jurídico brasileiro a avocação de processos. IV. A delegação de atos jurisdicionais não- decisórios e administrativos não ofendem o Princípio da Indelegabilidade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I,II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "59697",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Princípios inerentes à jurisdição"
+    ],
+    "enunciado_principal": "É princípio informativo do processo civil o princípio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dispositivo, significando que o juiz não pode conhecer de matéria a cujo respeito a lei exige a iniciativa da parte."
+      },
+      {
+        "letra": "B",
+        "texto": "da inércia, significando que o processo se origina por impulso oficial, mas se desenvolve por iniciativa da parte."
+      },
+      {
+        "letra": "C",
+        "texto": "da congruência, significando que o juiz deve ser coerente na exposição de suas razões de decidir."
+      },
+      {
+        "letra": "D",
+        "texto": "da eventualidade, significando que as partes devem comparecer em todos os atos do processo, manifestando- se eventualmente."
+      },
+      {
+        "letra": "E",
+        "texto": "da instrumentalidade das formas, significando que o ato deve ser considerado em si mesmo, sem preocupações teleológicas."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

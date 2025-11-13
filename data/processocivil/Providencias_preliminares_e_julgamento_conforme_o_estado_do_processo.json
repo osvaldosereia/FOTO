@@ -1,0 +1,273 @@
+[
+  {
+    "id": "618940",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: BAHIAGÁS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "No tocante ao julgamento conforme o estado do processo modificado pelo art. art. 330 do CPC, assinale a proposição correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a questão for exclusivamente de direito, o julgamento antecipado da lide não é obrigatório, dependendo do grau de convencimento do juiz."
+      },
+      {
+        "letra": "B",
+        "texto": "O Art. 330 do NCPC possibilita o julgamento antecipado parcial do mérito, quando um ou mais pedidos cumulados ou parcela deles se mostrar incontroverso ou estiver em condições de imediato julgamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O artigo 356 do novo diploma processual repete a disciplina do denominado julgamento antecipado parcial do mérito, já constante no CPC anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "O NCPC prevê a possibilidade de o autor liquidar ou executar desde logo a condenação reconhecida na decisão que julgar parcialmente o mérito, desde que prestada caução, ainda que haja recurso contra essa interposto” (parágrafo 2° do artigo 356)."
+      },
+      {
+        "letra": "E",
+        "texto": "Sempre ocorrerá nulidade se, proferido julgamento antecipado, a sentença de procedência do pedido estiver, paradoxalmente, fundamentada na ausência de prova do fato constitutivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "522014",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: TCE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Dagoberto ingressou com ação judicial, visando à compensação de verba tributária. O magistrado julgou improcedente o pedido, antes mesmo de determinar a citação do réu, por se tratar de matéria unicamente de direito e ter o juízo já fixado entendimento de ser incabível a compensação pleiteada. Partindo dessa situação, é correto afirmar que a improcedência:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prima facie é admissível no sistema pátrio, cabendo ao interessado ingressar com recurso de agravo de instrumento, caso insatisfeito com o julgado, justificado pela urgência em reverter a decisão;"
+      },
+      {
+        "letra": "B",
+        "texto": "liminar é legal, mas a norma estabelece expressamente ser cabível somente quando o entendimento do juízo estiver em consonância com o do tribunal local e entendimento sumulado do STJ;"
+      },
+      {
+        "letra": "C",
+        "texto": "do pedido antes da citação do réu implica cerceamento de defesa e desrespeita as garantias processuais do autor de ter a causa examinada em caráter exauriente, não tendo cabimento no sistema processual pátrio;"
+      },
+      {
+        "letra": "D",
+        "texto": "liminar é admissível, sem que isso implique cerceamento de defesa, cabendo ao autor, se insatisfeito, ingressar com recurso de apelação, citando-se o réu para apresentar contrarrazões;"
+      },
+      {
+        "letra": "E",
+        "texto": "liminar pode ser objeto de recurso de apelação e, dada a natureza recursal cabível, impõe-se a preclusão pro judicato, não sendo possível ao juiz modificar a própria decisão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "726772",
+    "metadata": "Ano: 2014 | Banca: FMP Concursos | Órgão: TJ-MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Para efeitos de concessão de liminar no processo civil, a expressão fumus boni iuris significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "verossimilhança da alegação, entendida essa como aquilo que normalmente acontece."
+      },
+      {
+        "letra": "B",
+        "texto": "probabilidade da alegação, entendida essa como a frequência de determinado acontecimento."
+      },
+      {
+        "letra": "C",
+        "texto": "probabilidade da alegação, entendida essa como um determinado grau de aproximação à verdade logicamente comprovável à luz da prova dos autos."
+      },
+      {
+        "letra": "D",
+        "texto": "verossimilhança da alegação, entendida como aquilo que normalmente acontece e como probabilidade estatística."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas está correta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "447572",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SP-URBANISMO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Petição Inicial",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Sobre a previsão legal constante no Título VIII, capítulo I, seção I do Código de Processo Civil, que versa sobre a petição inicial e julgamento liminar do mérito, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá a petição inicial ser instruída com os documentos dispensáveis à propositura da ação."
+      },
+      {
+        "letra": "B",
+        "texto": "verificando o juiz que a petição inicial não preenche os requisitos legais, deverá imediatamente indeferi-la."
+      },
+      {
+        "letra": "C",
+        "texto": "quando a matéria controvertida for de fato e de direito, tendo o juiz julgado causa idêntica prolatando sentença de improcedência, poderá dispensar a citação reproduzindo a decisão anteriormente proferida."
+      },
+      {
+        "letra": "D",
+        "texto": "o prazo para emenda e aditamento da petição inicial é de 10 dias, sendo que, se o réu não cumprir a diligência, o juiz indeferirá a petição inicial."
+      },
+      {
+        "letra": "E",
+        "texto": "nos litígios que versem sobre obrigações decorrentes de empréstimos, financiamento ou arrendamento mercantil, o autor deverá discriminar na petição inicial, dentre as obrigações contratuais, aquelas que pretende controverter, quantificando o valor incontroverso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "387603",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CAU-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Considerando o Código de Processo Civil, acerca do julgamento conforme o estado do processo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não cabe extinção do feito, mesmo quando ficar parado durante mais de um ano por negligência das partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de revelia, não poderá o juiz antecipar o julgamento da lide."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o processo não for extinto ou julgado antecipadamente, e versar a causa sobre direitos que admitam transação, o juiz designará audiência preliminar, a realizar-se no prazo de 60 dias, para a qual serão as partes intimadas a comparecer, podendo fazer-se representar por procurador ou preposto, com poderes para transigir."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode haver julgamento antecipado da lide nos casos em que a questão de mérito versa sobre fatos, mesmo não havendo necessidade de produção de prova em audiência."
+      },
+      {
+        "letra": "E",
+        "texto": "Haverá julgamento antecipado da lide, quando a questão de mérito for unicamente de direito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "385370",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: UFBA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Petição Inicial",
+      "Respostas do réu - Contestação",
+      "Providências preliminares e julgamento conforme o estado do processo",
+      "Apelação no CPC 1973"
+    ],
+    "enunciado_principal": "A respeito da petição inicial e da resposta do réu, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Verificando o juiz que a petição inicial não preenche os requisitos exigidos nos arts. 282 e 283, ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, ele a indeferirá de plano."
+      },
+      {
+        "letra": "B",
+        "texto": "Independentemente da natureza da lide e das partes envolvidas, se o réu deixar de contestar a ação, o juiz deverá julgar a lide antecipadamente, proferindo sentença de total procedência, em decorrência da presunção de veracidade dos fatos constitutivos do direito do autor."
+      },
+      {
+        "letra": "C",
+        "texto": "Indeferida a petição inicial, a decisão somente poderá ser reformada, em recurso de apelação, pelo tribunal competente."
+      },
+      {
+        "letra": "D",
+        "texto": "A regra da impugnação específica dos fatos se aplica ao advogado dativo, ao curador especial e ao órgão do Ministério Público."
+      },
+      {
+        "letra": "E",
+        "texto": "Transcorrido o prazo para a resposta, é vedado ao autor desistir da ação sem o consentimento do réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "362944",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TCE-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Sentença",
+      "Procedimento ordinário",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Em determinado processo de conhecimento que tramita pelo rito comum ordinário, após a especificação de provas feitas nos autos pelas partes, o juiz se manifesta dizendo que indefere a prova pericial requerida pelo autor por considerá-la desnecessária. Assinale a alternativa que indica corretamente o tipo de provimento caracterizado pela manifestação do Juiz acima descrita.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sentença terminativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Sentença definitiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Despacho."
+      },
+      {
+        "letra": "D",
+        "texto": "Decisão interlocutória."
+      },
+      {
+        "letra": "E",
+        "texto": "Sentença condenatória."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "189809",
+    "metadata": "Ano: 2010 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "A decisão que, liminarmente, indefere, em parte, a petição inicial de uma ação cível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "enseja a extinção integral do processo, sem julgamento do mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser reformada ex officio no prazo de 48 horas da sua publicação."
+      },
+      {
+        "letra": "C",
+        "texto": "é cabível, se verificada a prescrição de parte autônoma do pedido."
+      },
+      {
+        "letra": "D",
+        "texto": "é irrecorrível, facultado ao autor ingressar com nova ação quanto à parte indeferida."
+      },
+      {
+        "letra": "E",
+        "texto": "é irrecorrível, se proferida por órgão colegiado, nos casos de competência originária dos Tribunais."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "599852",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Sujeitos da relação processual",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Conceito e Classificação da Intervenção de Terceiros",
+      "Obrigações de fazer e não fazer/tutela inibitória: conversão em perdas e danos",
+      "Obrigações de fazer e não fazer/tutela inibitória: tutela específica e resultado prático equivalente"
+    ],
+    "enunciado_principal": "A última década revela um notável aumento na judicialização das políticas públicas de saúde no Brasil, notadamente em razão de demandas judiciais relativas ao fornecimento de medicamentos e tratamentos de saúde. A par de tais fatos, sob o viés processual civil da questão, conclui-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o município não possui legitimidade passiva para figurar em demandas cujo objeto seja o fornecimento de medicamento de alto custo, já que sua responsabilidade é subsidiária ante as atribuições da União e dos Estados."
+      },
+      {
+        "letra": "B",
+        "texto": "a decisão que determina o fornecimento de medicamentos não poderá fixar astreintes em face da Fazenda Pública Municipal. Poderá, entretanto, se necessário, determinar o sequestro de valores da municipalidade (bloqueio) a fim de que seja efetivada."
+      },
+      {
+        "letra": "C",
+        "texto": "a ação proposta em face do Município visando à obtenção de medicamento, no caso de chamamento da União ao processo, deverá ser remetida à Justiça Federal, por força do artigo 109, I, da Constituição e Súmula 150 do STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "a demanda que tenha por objetivo a entrega de medicamento pelo Poder Público pode ser ajuizada em face de qualquer um dos entes estatais ou em face de todos, conjuntamente, nesse último caso sendo competente para processar e julgar a causa a Justiça Federal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "583360",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Obrigações de entrega de coisa",
+      "Obrigações de pagamento de quantia certa"
+    ],
+    "enunciado_principal": "Sobre o procedimento de cumprimento de sentença instaurado pela Lei n.º 11.232/2005, segundo as disposições legais pertinentes e o entendimento consolidado no Superior Tribunal de Justiça, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na fase de cumprimento de sentença, são cabíveis honorários advocatícios na hipótese de rejeição da impugnação quando esta versar sobre excesso de execução."
+      },
+      {
+        "letra": "B",
+        "texto": "A interpretação conferida ao artigo 475-J-CPC pelo Superior Tribunal de Justiça indica que o prazo para pagamento voluntário de condenação líquida e certa se inicia a partir do trânsito em julgado do título judicial exequendo."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciada a fase de cumprimento de sentença definitivo, deve o juiz arbitrar honorários advocatícios de plano, independentemente de haver ou não escoado o prazo de quinze dias para pagamento voluntário da condenação."
+      },
+      {
+        "letra": "D",
+        "texto": "A decisão que resolver a impugnação é recorrível mediante apelação, salvo quando importar extinção da execução, caso em que caberá agravo de instrumento, desde que se demonstre que a decisão é suscetível de causar à parte lesão grave ou de difícil reparação."
+      },
+      {
+        "letra": "E",
+        "texto": "Ainda que atribuído efeito suspensivo à impugnação ao cumprimento de sentença, é lícito ao exequente requerer o prosseguimento da execução, desde que ofereça e preste caução suficiente e idônea, arbitrada pelo juiz e prestada nos próprios autos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "565649",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Tutela Antecipada",
+      "Procedimento ordinário",
+      "Cumprimento de sentença",
+      "Teoria Geral dos Recursos - Conceito",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Processo de execução",
+      "Da execução em geral"
+    ],
+    "enunciado_principal": "Acerca da execução no processo civil, julgue o seguinte item conforme a jurisprudência do STJ.O valor pecuniário fixado em tutela antecipada a título de astreintes somente será exigível, e passível de execução provisória, quando a decisão liminar que o fixar for confirmada em sentença ou acórdão de natureza definitiva, e desde que o respectivo recurso deduzido contra a decisão não seja recebido no efeito suspensivo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "553604",
+    "metadata": "Ano: 2015 | Banca: UEPA | Órgão: PGE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte"
+    ],
+    "enunciado_principal": "Considerando as astreintes e a jurisprudência dos Tribunais Superiores, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é possível a rediscussão do cabimento das astreintes, caso a decisão que as cominou não tenha sido objeto de recurso, em decorrência do princípio da coisa julgada."
+      },
+      {
+        "letra": "B",
+        "texto": "É cabível imediata execução provisória de multa cominatória fixada em decisão interlocutória como forma de assegurar o cumprimento da obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "Não cabe multa cominatória na exibição, incidental ou autônoma de documento relativo à direito disponível."
+      },
+      {
+        "letra": "D",
+        "texto": "Considerando a indisponibilidade do interesse público e a sistemática constitucional de satisfação de créditos contra a fazenda pública, não é cabível a determinação de bloqueio de verbas públicas."
+      },
+      {
+        "letra": "E",
+        "texto": "É incabível a cumulação de astreintes com juros de mora e a sua estipulação de ofício pelo Magistrado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "417888",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Cumprimento de sentença",
+      "Petição Inicial",
+      "Apelação no CPC 1973",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte"
+    ],
+    "enunciado_principal": "Acerca da petição inicial, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de cumulação de pedidos própria, o juiz não pode acolher mais de um pedido simultaneamente, o que é possível no caso de pedido alternativo e de pedido sucessivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O autor poderá alterar tanto a causa de pedir quanto o pedido depois do saneamento do processo, desde que haja concordância do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Não possuirá efeito regressivo a apelação interposta contra decisão que indeferir a petição inicial."
+      },
+      {
+        "letra": "D",
+        "texto": "A emenda da inicial é um direito subjetivo do autor."
+      },
+      {
+        "letra": "E",
+        "texto": "Segundo a jurisprudência do STJ, a aplicação de multa pelo descumprimento de obrigação de fazer ou não fazer dispensa prévia intimação pessoal do devedor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "411235",
+    "metadata": "Ano: 2014 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimentos Especiais",
+      "Cumprimento de sentença",
+      "Embargos de Declaração no CPC 1973",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Processo de execução",
+      "Execução fiscal",
+      "Ação Monitória no CPC 1973"
+    ],
+    "enunciado_principal": "Dadas as assertivas abaixo, assinale a alternativa correta. Considerando a jurisprudência do Superior Tribunal de Justiça: I. Em ação monitória fundada em cheque prescrito, ajuizada em face do emitente, é indispensável menção ao negócio jurídico subjacente à emissão da cártula. II. A decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada. III. O benefício da isenção do preparo, conferido aos entes públicos previstos no art. 4º, caput, da Lei nº 9.289/96, é inaplicável aos conselhos de fiscalização profissional. IV. Caracterizam-se como protelatórios os embargos de declaração que visam rediscutir matéria já apreciada e decidida pela corte de origem em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal ou, ainda, precedente julgado pelo rito dos artigos 543-C e 543-B do Código de Processo Civil. V. No caso de redirecionamento da execução fiscal, a pessoa jurídica não tem legitimidade para interpor recurso no interesse do sócio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas apenas as assertivas I e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas apenas as assertivas I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas apenas as assertivas II, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas apenas as assertivas II, III, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "Estão corretas todas as assertivas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "409235",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte"
+    ],
+    "enunciado_principal": "A multa fixada em ação tendo como objeto o cumprimento de obrigação de fazer",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fica prejudicada caso convertida a obrigação em indenização por perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser alterada na fase de cumprimento de sentença, caso se revele insuficiente ou excessiva."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser modificada somente até o trânsito em julgado da sentença que a impôs."
+      },
+      {
+        "letra": "D",
+        "texto": "não pode ser alterada de ofício pelo Juiz."
+      },
+      {
+        "letra": "E",
+        "texto": "não pode ser alterada se a decisão liminar que a fixar não for objeto de recurso, pois sujeita-se à preclusão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "363944",
+    "metadata": "Ano: 2014 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte"
+    ],
+    "enunciado_principal": "Em relação à decisão da ação que tenha por objeto a obrigação de fazer e não fazer, aponte a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fixação de multa diária independe de pedido expresso do autor"
+      },
+      {
+        "letra": "B",
+        "texto": "Para a efetivação de tutela específica ou obtenção do resultado útil equivalente o juiz determinará a remoção da coisa, desde que requerido expressamente pelo autor na inicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Não obstante a relevância do fundamento, o juiz somente concederá a liminar após a audiência de justificação prévia."
+      },
+      {
+        "letra": "D",
+        "texto": "A medida cominatória que implica na solução da questão em perdas e danos será, em qualquer hipótese, a solução buscada pelo juiz, ainda que seja possível a aplicação de medidas que garantam o resultado prático equivalente ao direito material buscado"
+      },
+      {
+        "letra": "E",
+        "texto": "Tutela específica e tutela antecipada são institutos idênticos, confundindo-se com a medida liminar e necessitando, para sua concretização, da instauração do processo de execução com citação do executado para cumprimento da medida em 15 dias, sob pena de pagamento de multa fixada em 10% (dez por cento) calculada sobre o valor do crédito (art. 475-J, CPC)."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "506024",
+    "metadata": "Ano: 2011 | Banca: TRT 16R | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte"
+    ],
+    "enunciado_principal": "Na sentença, foi concedida uma tutela de obrigação de fazer ao réu, impondo multa diária no vaior de R$ 100,00 {cem reais) para o caso de descumprimento. Após o trânsito em jutgado da sentença, não tendo sido interposto recurso por nenhuma das partes, o réu peticiona informando que, em razão de mudança significativa na economia, superveniente à sentença, tornou-se mais vantajoso pagar a muita imposta, a cumprir a tutela obrigacional. Considerando essa hipótese, assinale a resposta CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Será admitida a conversão da obrigação de fazer em perdas e danos, mas no caso não será possível ao autor requerer a execução da multa pelo descumprimento."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz não poderá elevar a multa, ainda que a requerimento da parte, porque a decisão está acobertada pelo trânsito em julgado."
+      },
+      {
+        "letra": "C",
+        "texto": "O valor da multa poderá ser modificado a qualquer tempo, inclusive ex officio, e mesmo após o trânsito em julgado da sentença que a fixou."
+      },
+      {
+        "letra": "D",
+        "texto": "A multa só poderia ser modificada antes do trânsito em julgado da sentença, e se houvesse pedido expresso do autor."
+      },
+      {
+        "letra": "E",
+        "texto": "A execução da multa imposta para o caso de descumprimento implicará em renúncia tácita à execução de indenização por perdas e danos."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

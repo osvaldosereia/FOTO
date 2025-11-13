@@ -1,0 +1,873 @@
+[
+  {
+    "id": "628743",
+    "metadata": "Ano: 2016 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Quanto aos recursos perante os Tribunais Superiores assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É inadmissível recurso especial ou extraordinário contra decisão interlocutória, vez que esta se sujeita a agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "É inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há previsão legal de manifestação de amicí curíae, na hipótese de recursos especiais repetitivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os procedimentos quanto à questão da multiplicidade de recursos especiais e extraordinários com fundamento em idêntica questão de direito não se aplicam ao recurso de revista junto ao Tribunal Superior do Trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "Não cabe recurso especial contra Acórdão proferido no julgamento de agravo de instrumento, pois não há decisão de mérito da causa no agravo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "620389",
+    "metadata": "Ano: 2016 | Banca: IESES | Órgão: TJ-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal e Territórios, quando denegatória serão julgados em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso de Apelação."
+      },
+      {
+        "letra": "B",
+        "texto": "Embargos Infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso Ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Especial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "571874",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Salvador - BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "Gilberto ajuizou demanda pelo procedimento ordinário contra o município de Salvador – BA. Após o devido contraditório, o magistrado prolatou sentença terminativa por considerar ausente condição da ação. Ao examinar a apelação interposta pelo autor, o tribunal, em acórdão não unânime, deu provimento ao recurso e, ato contínuo, aplicando a teoria da causa madura, examinou o mérito da causa de forma favorável ao particular, julgando o direito material em sentido contrário ao predominante na jurisprudência no que se refere a determinada questão de interpretação de lei federal. A respeito dessa situação hipotética, assinale a opção que apresenta o correto tipo de recurso que deverá ser interposto pelo município, conforme jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso especial"
+      },
+      {
+        "letra": "B",
+        "texto": "embargos infringentes"
+      },
+      {
+        "letra": "C",
+        "texto": "reclamação constitucional"
+      },
+      {
+        "letra": "D",
+        "texto": "recurso extraordinário"
+      },
+      {
+        "letra": "E",
+        "texto": "embargos de divergência"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "498732",
+    "metadata": "Ano: 2015 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional"
+    ],
+    "enunciado_principal": "EM SE TRATANDO DE RECURSO ORDINÁRIO CONSTITUCIONAL, É CORRETO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua competência recursal e sempre extraordinária."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite o reexame de prova mas não dispensa o prequestionamento."
+      },
+      {
+        "letra": "C",
+        "texto": "É admissivel apenas quando a decisão julgue improcedente o pedido."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão que o inadmite na origem cabe agravo para a Corte Superior."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "630420",
+    "metadata": "Ano: 2014 | Banca: IOBV | Órgão: Prefeitura de Ituporanga - SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Recurso ordinário constitucional"
+    ],
+    "enunciado_principal": "No processo civil, em face da decisão judicial que resolver a impugnação à execução, dando prosseguimento ao feito, cabe recurso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De agravo de instrumento."
+      },
+      {
+        "letra": "B",
+        "texto": "De agravo retido."
+      },
+      {
+        "letra": "C",
+        "texto": "Ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "De apelação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "598461",
+    "metadata": "Ano: 2014 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Nossa Senhora do Socorro - SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional"
+    ],
+    "enunciado_principal": "Sobre os recursos em espécie, é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cabe recurso ordinário das sentenças proferidas por juiz federal nas causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País."
+      },
+      {
+        "letra": "B",
+        "texto": "a apelação interposta contra julgamento de liquidação de sentença será recebida só no efeito devolutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "para efeito da repercussão geral no Recurso Extraordinário, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses objetivos da causa."
+      },
+      {
+        "letra": "D",
+        "texto": "admitem-se embargos de divergência nos tribunais, quando a decisão colegiada divergir do julgamento de outra câmara, turma, ou do órgão especial."
+      },
+      {
+        "letra": "E",
+        "texto": "no procedimento dos Recursos Especiais repetitivos, o relator, considerando a relevância da matéria, poderá admitir manifestação de pessoas, órgãos ou entidades com interesse na controvérsia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "495034",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: CELG/D-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional"
+    ],
+    "enunciado_principal": "Contra a sentença que julga ação entre Estado estrangeiro ou Organismo internacional de um lado e Município brasileiro ou pessoa residente ou domiciliada no Brasil, caberá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apelação para o Tribunal Regional Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso ordinário para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "apelação para o Tribunal de Justiça do Estado onde a causa tramitou na primeira instância."
+      },
+      {
+        "letra": "E",
+        "texto": "recurso ordinário para o Supremo Tribunal Federal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "462250",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Órgão fracionário do Tribunal de Justiça do Estado do Rio de Janeiro, ao qual foi distribuído recurso de apelação, vislumbrou a presença de vícios de inconstitucionalidade na lei municipal invocada pelas partes em suas respectivas manifestações processuais. Classificando tal questão como prejudicial para dirimir a lide submetida à sua apreciação em grau recursal, a Câmara Cível deu cumprimento ao disposto no Art. 97 da Constituição da República. Por seu turno, o Órgão Especial da Corte fluminense, ao apreciar o incidente de arguição de inconstitucionalidade então instaurado, decidiu, por maioria de votos, pelo seu acolhimento. O recurso em tese cabível em face do acórdão proferido pelo Órgão Especial do TJ/RJ é o de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso extraordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "embargos infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "embargos de declaração"
+      },
+      {
+        "letra": "D",
+        "texto": "recurso ordinário-constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "agravo interno."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "462249",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Funcionário público impetrou mandado de segurança pleiteando a invalidação do ato administrativo que o demitira do serviço público. Tendo o juiz da causa concedido a ordem, a pessoa jurídica de direito público, inconformada, interpôs o recurso cabível, ao qual o órgão ad quem, por maioria de votos, deu provimento, para julgar improcedente o pedido. Para fins de impugnação desse acórdão, será cabível, em tese, o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso especial."
+      },
+      {
+        "letra": "B",
+        "texto": "mandado de segurança."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo interno."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso ordinário-constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "recurso de embargos infringentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "460479",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: PGM - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Apelação no CPC 1973",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Para impugnar o acórdão não unânime de Tribunal de Justiça, que tenha julgado improcedente ação rescisória, é cabível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso ordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso de embargos infringentes."
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial e/ou recurso extraordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "recurso de apelação."
+      },
+      {
+        "letra": "E",
+        "texto": "agravo regimental."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "425310",
+    "metadata": "Ano: 2014 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Embargos de divergência"
+    ],
+    "enunciado_principal": "Em relação aos prazos previstos para recursos no Processo Civil, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apelação 15 dias; Agravo de Instrumento 15 dias; Agravo Retido 10 dias; Embargos Infringentes 15 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso ordinário ao STF 15 dias; Recurso ordinário ao STJ 15 dias; Recurso especial ao STJ 15 dias; Embargos de divergência no STF 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Embargos de declaração 5 dias; Agravo de Instrumento 10 dias; Agravo Retido 10 dias; Apelação 8 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Extraordinário 15 dias; Recurso Especial 15 dias; Embargos de declaração 2 dias; Embargos Infringentes 15 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Agravo, nos próprios autos contra inadmissão de recurso especial 10 dias; Agravo nos próprios autos, contra inadmissão de recurso extraordinário 10 dias; Agravo Retido 10 dias; Agravo de Instrumento 15 dias."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "418659",
+    "metadata": "Ano: 2014 | Banca: IDECAN | Órgão: AGU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo de instrumento",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "\"Joaquina impetra mandado de segurança no Tribunal de Justiça do local em que reside por ter direito líquido e certo que foi violado por abuso de autoridade da autoridade coatora envolvida na situação. Considere que, nessa hipótese, a autoridade coatora era o Governador do Estado, que possuía foro por prerrogativa de função e que, por essa razão, a competência para julgamento do writ era mesmo do Tribunal de Justiça local. Considere, ainda, que a impetração ocorreu tempestivamente, e que todos os requisitos de admissibilidade foram observados. Entretanto, mesmo com a observância de todos os requisitos formais, meritoriamente, foi denegatória a decisão do mandado de segurança impetrado por Joaquina.\"Tendo em vista todos os aspectos apresentados no caso anterior, assinale a opção que indica, acertadamente, o recurso a ser interposto por Joaquina",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso especial para o STJ."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso ordinário para o STJ"
+      },
+      {
+        "letra": "C",
+        "texto": "Embargos infringentes para o STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "Agravo de instrumento para o STJ."
+      },
+      {
+        "letra": "E",
+        "texto": "Recurso extraordinário para o STF."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "408732",
+    "metadata": "Ano: 2014 | Banca: IV - UFG | Órgão: DPE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Contra o acórdão que julga válida lei local contestada em face de lei federal, é cabível:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recurso extraordinário para o Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso ordinário constitucional para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "C",
+        "texto": "recurso especial para o Superior Tribunal de Justiça."
+      },
+      {
+        "letra": "D",
+        "texto": "reclamação constitucional para o Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "mandado de segurança impetrado perante o tribunal prolator da decisão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402228",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "Caio intentou determinada ação em que pleiteou, na petição inicial, a antecipação dos efeitos da tutela, inaudita altera pars, alegando, para tanto, risco iminente de lesão irreversível ao seu direito subjetivo. Diante do indeferimento, pelo juiz da causa, de seu pleito de tutela de urgência, Caio interpôs agravo de instrumento, distribuído a um determinado órgão fracionário do Tribunal de Justiça. Apreciando o recurso, o Desembargador a quem coube a relatoria do agravo determinou a conversão da forma instrumental para a retida. Para impugnar essa decisão relatorial, poderá Caio se valer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do mandado de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "do recurso ordinário-constitucional."
+      },
+      {
+        "letra": "C",
+        "texto": "do agravo interno ou legal."
+      },
+      {
+        "letra": "D",
+        "texto": "do recurso especial."
+      },
+      {
+        "letra": "E",
+        "texto": "da ação rescisória."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "400576",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: SAAE de São Carlos - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Do Litisconsórcio",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Com relação ao mandado de segurança, individual ou cole­tivo, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando o direito ameaçado ou violado couber a várias pessoas, todas deverão vir a juízo, em litisconsórcio necessário, a fim de requerer o mandado de segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "a sentença que conceder o mandado fica sujeita ao duplo grau de jurisdição, não podendo, entretanto, ser executada provisoriamente."
+      },
+      {
+        "letra": "C",
+        "texto": "quando o direito ameaçado ou violado couber a várias pessoas, qualquer delas poderá requerer o mandado de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "contra o acórdão que conceder ou negar a segurança, nos mandados de competência originária do tribunal, cabe recurso ordinário constitucional."
+      },
+      {
+        "letra": "E",
+        "texto": "contra a sentença que denegar a segurança, nos manda­dos de competência originária do primeiro grau, cabe recurso ordinário constitucional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "384798",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: SEPLAG-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Recurso ordinário constitucional",
+      "Recurso Especial"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, a indicação do nome e do endereço completo dos advogados, constantes do processo, é requisito da petição de interposição do recurso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De apelação."
+      },
+      {
+        "letra": "B",
+        "texto": "De agravo de instrumento."
+      },
+      {
+        "letra": "C",
+        "texto": "Ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Especial"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "372667",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TCE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Ação Rescisória",
+      "Do Litisconsórcio",
+      "Recurso ordinário constitucional",
+      "Embargos de divergência",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Acerca dos recursos e da ação rescisória, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Serão julgados pelo STF, em recurso ordinário, os mandados de segurança decididos em única instância pelos tribunais regionais federais se a decisão for denegatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo entendimento predominante do STJ, o direito à rescisão do julgado é extinto se, esgotado o prazo de dois anos, verificar-se a falta de formação de litisconsórcio passivo necessário"
+      },
+      {
+        "letra": "C",
+        "texto": "Conforme entendimento atual do STF, não cabe ação rescisória por ofensa a literal disposição de lei no caso de a decisão rescindenda estar baseada em texto legal de interpretação controvertida nos tribunais, ainda que trate de matéria constitucional"
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo prescricional de dois anos da ação rescisória somente tem início quando não for cabível nenhum recurso do último pronunciamento judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "São cabíveis embargos de divergência contra decisão proferida em embargos de divergência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "367173",
+    "metadata": "Ano: 2014 | Banca: BIO-RIO | Órgão: EMGEPRON",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Havendo reforma de decisão judicial, mediante o provimento de apelação, por maioria de votos, é cabível o recurso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embargos Infringentes"
+      },
+      {
+        "letra": "B",
+        "texto": "Ordinário Consttucional"
+      },
+      {
+        "letra": "C",
+        "texto": "Extraordinário"
+      },
+      {
+        "letra": "D",
+        "texto": "Especial"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "479024",
+    "metadata": "Ano: 2013 | Banca: MPM | Órgão: MPM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "SOBRE OS RECURSO EXCEPCIONAIS E OUTROS RECURSO DE COMPETÊNCIA DOS TRIBUNAIS SUPERIORES, É CORRETO AFIRMAR QUE:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O reconhecimento da deserção no recurso extraordinário independe de intimação da parte interessada."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é permitida a comprovação posterior da tempestividade recursal, em virtude de feriados locais ou suspensão de expediente forense, pois opera-se a preclusão consumativa no ato da interposição."
+      },
+      {
+        "letra": "C",
+        "texto": "Os embargos de declaração suspendem o prazo para interposição de outros recursos, por qualquer das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "Por se um requisito constitucional, o prequestionamento é sempre interpretado da mesma forma pelos tribunais."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1739600",
+    "metadata": "Ano: 2012 | Banca: FUMARC | Órgão: AGE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional"
+    ],
+    "enunciado_principal": "Assinale a alternativa que se alinha perfeitamente ao contexto apresentado: \"Do acórdão que, por maioria de votos, denega mandado de segurança impetrado originariamente junto ao Tribunal de Justiça do Estado contra ato do Governador de Estado, para proteger direito líquido e certo constante da Constituição da República, poderá (ão) ser(em) interposto(s), além dos embargos de declaração__________.\"",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente embargos infringentes."
+      },
+      {
+        "letra": "B",
+        "texto": "recurso especial e extraordinário;"
+      },
+      {
+        "letra": "C",
+        "texto": "somente recurso ordinário."
+      },
+      {
+        "letra": "D",
+        "texto": "somente recurso extraordinário"
+      },
+      {
+        "letra": "E",
+        "texto": "somente apelação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "697423",
+    "metadata": "Ano: 2012 | Banca: IESES | Órgão: Potigás - RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Embargos de Declaração no CPC 1973",
+      "Recurso ordinário constitucional",
+      "Prova documental"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segundo o Código de Processo Civil, são cabíveis Embargos de Declaração no prazo de cinco dias, em caso de omissão, dúvida, obscuridade ou contradição da decisão recorrida, restando interrompido o prazo para a interposição de outros recursos, para quaisquer das partes, se os Embargos forem interpostos."
+      },
+      {
+        "letra": "B",
+        "texto": "No julgamento do Recurso Ordinário pelo STJ, seu relator, em decisão monocrática, negará seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, ou ainda, poderá dar provimento ao recurso, se a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior. Da decisão proferida caberá agravo, no prazo de dez dias, ao órgão competente para o julgamento do recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto à prova documental, é correto afirmar: 1) é ônus da parte que alega falsidade material de determinado documento, provar a alegação, antecipando, se necessário, o valor das despesas com o exame pericial relativo ao Incidente de Falsidade; 2) é ônus da parte que juntou aos autos determinado documento assinado pela parte contrária, provar que é verdadeira a assinatura respectiva, se tal assinatura for impugnada pela parte adversa sob alegação de falsidade; e 3) um documento que se verifique no processo tenha sido assinado em branco, nos termos do Código de Processo Civil, continua a produzir efeitos até que se prove que foi abusivamente preenchido."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo o Código de Processo Civil, são causas de extinção do processo, dentre outras, a morte ou a perda da capacidade processual de qualquer das partes, de seu representante legal ou de seu procurador, a incompetência absoluta do órgão julgador e a falta de qualquer uma das condições da ação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "423377",
+    "metadata": "Ano: 2012 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Embargos infringentes",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Considere as seguintes afirmações.I - De sentença proferida por juiz federai, em demanda cujas partes sejam Estado estrangeiro, de um lado, e, de outro, pessoa domiciliada no País, é cabível, em tese, recurso ordinário diretamente para o Superior Tribunal de Justiça, II - Quando o dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime, e forem interpostos embargos infringentes, o prazo para recurso extraordinário ou recurso especial, relativamente ao julgamento unânime, ficará sobrestado até a intimação da decisão nos embargos. III - É inadmissível recurso adesivo em embargos infringentes.Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "237169",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Caixa",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "O TRF da 2a Região denegou a ordem de segurança pleiteada em processo de sua competência originária. Nesse caso, qual seria o recurso cabível contra tal decisão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso Extraordinário ao STF, se a decisão contrariar dispositivo constitucional."
+      },
+      {
+        "letra": "B",
+        "texto": "Recurso Especial ao STJ, se a decisão contrariar lei federal."
+      },
+      {
+        "letra": "C",
+        "texto": "Recurso Ordinário ao STJ, se a decisão contrariar lei federal."
+      },
+      {
+        "letra": "D",
+        "texto": "Recurso Ordinário ao STF, independentemente do conteúdo da decisão."
+      },
+      {
+        "letra": "E",
+        "texto": "Recurso Ordinário ao STJ, independentemente do conteúdo da decisão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "432561",
+    "metadata": "Ano: 2011 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "Impetrado mandado de segurança perante o Tribunal de Justiça do Estado do Rio Grande do Sul, contra ato de Secretário de Estado, a segurança é parcialmente concedida para anular sanção imposta ao Impetrante, mantendo, porém, processo administrativo cuja extinção se postulava no mandamus. A matéria possui repercussão geral. Neste caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É cabível recurso ordinário tanto do Estado quanto do Impetrante, cada qual na parte que sucumbiu."
+      },
+      {
+        "letra": "B",
+        "texto": "Caberá recurso especial e extraordinário tanto do Estado quanto do Impetrante, cada qual na parte que sucumbiu."
+      },
+      {
+        "letra": "C",
+        "texto": "Caberá, para o Impetrante, recurso ordinário para o STJ e recurso extraordinário para o STF."
+      },
+      {
+        "letra": "D",
+        "texto": "Caberá recurso ordinário do Estado e recursos especial e extraordinário do Impetrante."
+      },
+      {
+        "letra": "E",
+        "texto": "Caberá recurso ordinário do Impetrante e recursos especial e extraordinário do Estado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "407166",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Mandado de Segurança Individual e Coletivo",
+      "Ações Coletivas no CPC 1973",
+      "Agravo retido",
+      "Recurso ordinário constitucional",
+      "Recurso Especial",
+      "Recurso Extraordinário"
+    ],
+    "enunciado_principal": "A Lei n. 12.016, de 7 de agosto de 2009, reguladora do mandado de segurança individual e coletivo, dispõe que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cabe mandado de segurança contra atos de gestão comercial praticados pelos administradores de empresas públicas, de sociedade de economia mista e de concessionárias de serviço público."
+      },
+      {
+        "letra": "B",
+        "texto": "da decisão do juiz de primeiro grau que conceder ou denegar a liminar caberá agravo retido, observado o disposto no Código de Processo Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "a legitimidade para recorrer é exclusiva da pessoa jurídica a qual se acha vinculada a autoridade coatora."
+      },
+      {
+        "letra": "D",
+        "texto": "das decisões proferidas em única instância pelos tribunais cabem os recursos especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for concedida."
+      },
+      {
+        "letra": "E",
+        "texto": "da decisão do presidente do tribunal que suspender a execução da liminar e da sentença caberá agravo, sem efeito suspensivo, no prazo de cinco dias, que será levado a julgamento na sessão seguinte á sua interposição."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

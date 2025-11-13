@@ -1,0 +1,2862 @@
+[
+  {
+    "id": "631673",
+    "metadata": "Ano: 2016 | Banca: VUNESP | Órgão: Prefeitura de Rosana - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimentos Especiais",
+      "Procedimento ordinário",
+      "Revelia",
+      "Ações possessórias",
+      "Ação Monitória no CPC 1973"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre os procedimentos regulados pelo Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na ação monitória, o processamento dos embargos se dá pelo procedimento sumário."
+      },
+      {
+        "letra": "B",
+        "texto": "O procedimento especial para a ação de nunciação de obra nova aplica-se exclusivamente quando o município figurar como autor da ação."
+      },
+      {
+        "letra": "C",
+        "texto": "No procedimento ordinário, a ausência do réu ou de seu advogado na audiência preliminar implica na aplicação dos efeitos da revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "Dá-se o arrolamento de bens, nas hipóteses legais, por meio de procedimento cautelar específico."
+      },
+      {
+        "letra": "E",
+        "texto": "No procedimento sumário, quando for réu o município, a contestação deverá ser apresentada no prazo de 15 (quinze) dias, a contar da audiência de conciliação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "628740",
+    "metadata": "Ano: 2016 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação",
+      "Respostas do réu - Reconvenção",
+      "Respostas do réu  - Exceção"
+    ],
+    "enunciado_principal": "Em relação a resposta do réu e as provas, analise as proposições abaixo à luz das disposições do Código de Processo Civil: I- A contestação, a reconvenção e as exceções serão apresentadas na mesma peça e simultaneamente, competindo ao réu alegar, como pedido contraposto na contestação, antes de discutir o mérito, perempção e convenção de arbitragem. II- Há litispendência, quando se repete ação, que está em curso; há coisa julgada, quando se repete ação que já foi decidida por sentença, de que não caiba recurso. III- O réu pode reconvir ao autor no mesmo processo, toda vez que a reconvenção seja conexa com a ação principal ou com o fundamento da defesa. IV- Em falta de normas jurídicas particulares, o juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e ainda as regras da experiência técnica, ressalvado, quanto a esta, o exame pericial. V- O Juiz não poderá dispensar prova pericial mesmo quando as partes, na inicial e na contestação, apresentarem sobre as questões de fato pareceres técnicos ou documentos elucidativos que considerar suficientes. Responda:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as proposições l,ll e V estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as proposições III,IV e V estão incorretas"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições l,lll e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Som ente as proposições IV e V estão incorretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as proposições II,III e IV estão corretas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "613256",
+    "metadata": "Ano: 2016 | Banca: FCC | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Se o Réu for revel,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o autor não poderá alterar o pedido, em nenhuma hipótese."
+      },
+      {
+        "letra": "B",
+        "texto": "o autor não poderá alterar o pedido, salvo promovendo nova citação do Réu, que poderá responder no prazo de 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "os prazos correrão independentemente de intimação, não podendo o revel intervir no processo."
+      },
+      {
+        "letra": "D",
+        "texto": "serão aplicados os efeitos da revelia inclusive a presunção de veracidade dos fatos alegados pelo autor, ainda que o litígio verse sobre direitos indisponíveis."
+      },
+      {
+        "letra": "E",
+        "texto": "o autor poderá alterar o pedido independentemente de nova citação Réu."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "610110",
+    "metadata": "Ano: 2016 | Banca: CAIP-IMES | Órgão: CRAISA de Santo André - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta relativa à revelia e seus efeitos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o réu não contestar a ação, reputar-se-ão verdadeiros os fatos afirmados pelo autor."
+      },
+      {
+        "letra": "B",
+        "texto": "O revel não poderá comparecer e intervir no processo ou em qualquer fase dele por uma questão de segurança jurídica decorrente do instituto da preclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra o revel que não tenha patrono nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o réu não contestar a ação, o juiz, verificando que não ocorreu o efeito da revelia, mandará que o autor especifique as provas que pretenda produzir na audiência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "596369",
+    "metadata": "Ano: 2015 | Banca: CAIP-IMES | Órgão: IPREM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Assinale a alternativa que se encontra em contrariedade com o disposto no Código de Processo Civil quanto ao instituto da revelia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ainda que ocorra revelia, o autor não poderá alterar o pedido, salvo promovendo nova citação do réu, a quem será assegurado o direito de responder no prazo de 15 (quinze) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "É permitido ao revel intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o réu não contestar a ação, reputar-se-ão verdadeiros os fatos afirmados pelo autor."
+      },
+      {
+        "letra": "D",
+        "texto": "Contra o revel que tenha patrono nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "593274",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Com relação à intervenção de terceiros e à resposta do réu, julgue o item subsequente. A ausência de contestação induz ao fenômeno denominado revelia, que acarreta, salvo em hipóteses previstas em lei, a presunção de que os fatos afirmados pelo autor na petição inicial são verdadeiros. Ocorrendo a revelia, o cartório não procederá à intimação do réu para que os prazos fluam contra ele, ainda que haja patrono constituído dos autos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "590442",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: PGE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "João, citado em uma ação de investigação de paternidade proposta por Maria, menor absolutamente incapaz, devidamente representada por sua genitora, que contratou um advogado para fazer sua defesa no processo. Ocorre que o causídico juntou aos autos a procuração assinada por seu cliente, mas, por esquecimento, deixou de contestar a demanda. Nesse cenário, deve o juiz:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "decretar a revelia e, por isso, julgar procedente o pedido desde logo, afirmando a paternidade pretendida;"
+      },
+      {
+        "letra": "B",
+        "texto": "decretar a revelia, porém determinar o prosseguimento do feito, rumo à fase da instrução probatória;"
+      },
+      {
+        "letra": "C",
+        "texto": "não decretar a revelia e determinar o prosseguimento do feito, porque há advogado constituído nos autos pela parte ré, que deverá ser regularmente intimado dos atos processuais;"
+      },
+      {
+        "letra": "D",
+        "texto": "decretar a revelia, deixando de determinar a intimação do réu dos atos do processo, correndo-lhe os prazos a partir da publicação de cada ato decisório;"
+      },
+      {
+        "letra": "E",
+        "texto": "não decretar a revelia, deixando de determinar a intimação do réu dos atos do processo, correndo-lhe os prazos a partir da publicação de cada ato decisório."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "587980",
+    "metadata": "Ano: 2015 | Banca: CESPE / CEBRASPE | Órgão: DPE-RN",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Revelia",
+      "Critérios de competência",
+      "Petição Inicial",
+      "Respostas do réu - Reconvenção"
+    ],
+    "enunciado_principal": "No tocante a competência, atos processuais, petição inicial, revelia e resposta do réu, assinale a opção correta conforme o entendimento do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contagem dos prazos para a interposição de recursos pela DP começa a fluir da data da ciência do defensor no processo."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo destinado para o autor emendar ou completar a petição inicial é peremptório, não podendo ser reduzido ou ampliado por convenção das partes ou por determinação do juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "O prazo remanescente para contestar, suspenso com o recebimento da exceção de incompetência, volta a fluir a partir da decisão que acolhe a exceção."
+      },
+      {
+        "letra": "D",
+        "texto": "No rito sumário, a não apresentação de contestação na audiência de conciliação, quando presidida por conciliador auxiliar, implica revelia do réu."
+      },
+      {
+        "letra": "E",
+        "texto": "O foro competente para processar e julgar ação declaratória de nulidade de escritura pública de cessão e transferência de direitos possessórios é o do domicílio do réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "584605",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TRT - 9ª REGIÃO (PR)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Se o réu, citado pessoalmente, não contestar a ação, consequentemente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o juiz deverá julgar antecipadamente a lide, sempre, uma vez que a presunção de veracidade decorrente da revelia impede dilações probatórias."
+      },
+      {
+        "letra": "B",
+        "texto": "os fatos afirmados pelo autor são reputados verdadeiros, efeito jurídico que não admite exceções, embora essa veracidade fática represente presunção relativa e não absoluta."
+      },
+      {
+        "letra": "C",
+        "texto": "os fatos afirmados pelo autor são reputados verdadeiros de modo absoluto, não admitindo prova contrária em nenhuma hipótese, mas os efeitos jurídicos da revelia comportam exceções."
+      },
+      {
+        "letra": "D",
+        "texto": "os fatos afirmados pelo autor são reputados verdadeiros, mas esse efeito jurídico admite exceções; além disso, essa veracidade fática representa presunção relativa e não absoluta."
+      },
+      {
+        "letra": "E",
+        "texto": "os fatos afirmados pelo autor são tidos por presumivelmente verdadeiros, efeito jurídico que admite a única exceção de o litígio versar sobre direitos indisponíveis."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "583372",
+    "metadata": "Ano: 2015 | Banca: PUC-PR | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca da revelia no Processo Civil brasileiro, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o réu seja citado por edital ou por hora certa, e não apresente contestação no prazo legal, ser-lhe-á nomeado curador especial, que poderá oferecer contestação, reconvenção ou exceção, no prazo legal."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando de litisconsórcio unitário, a contestação apresentada por um litisconsorte elide as consequências da revelia do outro litisconsorte."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra o revel que não tenha patrono nos autos, correrão os prazos a partir da sua intimação pelo correio, com aviso de recebimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Não contestando a ação rescisória, o réu será revel, presumindo-se a veracidade dos fatos alegados pelo autor na petição inicial."
+      },
+      {
+        "letra": "E",
+        "texto": "Aplica-se à Fazenda Pública o efeito material da revelia, mais é inadmissível, quanto aos fatos que lhe dizem respeito, a confissão, pois os bens e direitos são considerados indisponíveis."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "581537",
+    "metadata": "Ano: 2015 | Banca: FEPESE | Órgão: Prefeitura de Balneário Camboriú - SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação",
+      "Respostas do réu  - Exceção",
+      "Pressupostos Processuais",
+      "Ausência de de Litispendência e de Coisa Julgada"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código de Processo Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre a litispendência, a conexão ou a coisa julgada, quando o autor reproduz ação idêntica, julgada ou não, contra o mesmo réu."
+      },
+      {
+        "letra": "B",
+        "texto": "Serão opostos por meio de exceção a incompetência, o impedimento, a suspeição e a reconvenção."
+      },
+      {
+        "letra": "C",
+        "texto": "O revel poderá intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar, ressalvado-lhe a reabertura do direito de apresentar defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A contestação e a reconvenção serão oferecidas simultaneamente, em peças autônomas."
+      },
+      {
+        "letra": "E",
+        "texto": "Indeferida a petição inicial, o autor poderá apelar, no prazo de quinze dias, sendo facultado ao juiz reformar sua decisão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "558063",
+    "metadata": "Ano: 2015 | Banca: IESES | Órgão: TRE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As exceções não suspendem o curso do processo, salvo as de impedimento."
+      },
+      {
+        "letra": "B",
+        "texto": "A desistência da ação principal obsta ao prosseguimento da reconvenção."
+      },
+      {
+        "letra": "C",
+        "texto": "A incompetência absoluta ou relativa deve ser arguida por exceção, no prazo da resposta."
+      },
+      {
+        "letra": "D",
+        "texto": "A revelia de um dos réus não prejudica os demais que apresentaram resposta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "544939",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: MPE-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "O revel NÃO tem o direito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "recorrer da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "intervir no processo."
+      },
+      {
+        "letra": "C",
+        "texto": "requerer a produção de provas."
+      },
+      {
+        "letra": "D",
+        "texto": "constituir advogado."
+      },
+      {
+        "letra": "E",
+        "texto": "apresentar contestação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "516609",
+    "metadata": "Ano: 2015 | Banca: FGV | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Manuel propôs ação judicial em face de Maria, pleiteando a sua condenação ao pagamento de verba indenizatória, afirmando que esta lhe teria ofendido a honra em uma reunião de condomínio, quando afirmou, na frente de todos os presentes, que ele não sabia estacionar seu veículo na garagem. Citada pessoalmente, Maria não contestou a ação. Nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será reputado verdadeiro o fato afirmado por Manuel, ocasionando a procedência do pedido formulado;"
+      },
+      {
+        "letra": "B",
+        "texto": "não será reputado verdadeiro o fato, devendo o autor provar a afirmação feita por Maria, uma vez que a revelia ocorrida não induz a presunção de veracidade do fato no caso;"
+      },
+      {
+        "letra": "C",
+        "texto": "será reputado verdadeiro o fato, todavia o juiz não está obrigado a julgar procedente o pedido, podendo julgá-lo improcedente, mesmo sem contestação da Ré;"
+      },
+      {
+        "letra": "D",
+        "texto": "ocorrerá revelia, reputando-se configurado o direito à reparação pecuniária requerida, pois o litígio versa sobre direito disponível;"
+      },
+      {
+        "letra": "E",
+        "texto": "não ocorrerá a revelia, devendo o autor provar que sabe estacionar seu veículo na garagem."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "511189",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Ocorrendo revelia,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presunção de veracidade dos fatos afirmados pelo autor não admite prova contrária."
+      },
+      {
+        "letra": "B",
+        "texto": "seus efeitos, em nenhuma hipótese, podem ser excluídos, dada sua gravidade."
+      },
+      {
+        "letra": "C",
+        "texto": "verificando o juiz um direito indisponível, ainda que o réu não conteste, o autor tem de fazer a prova dos fatos constitutivos de seu direito, defeso ao juiz o julgamento antecipado da lide."
+      },
+      {
+        "letra": "D",
+        "texto": "embora haja a presunção de veracidade dos fatos alegados pelo autor, o réu revel tem o direito de ser intimado dos atos processuais subsequentes, tenha ou não advogado constituído nos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "seus efeitos só ocorrem em relação aos réus citados por edital ou por hora certa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "485207",
+    "metadata": "Ano: 2015 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Sr. X é citado para responder à ação de investigação de paternidade proposta pela Sra. Z e não apresenta contestação. Diante disso, o Juiz da Vara de Família julga procedente o pedido. O Ministério Público que atua no processo apresenta o recurso cabível que vem a ser provido mediante decisão exarada pela Sexta Câmara Cível do Tribunal de Justiça do Estado H, retornando o processo para o Juízo de origem. O venerando aresto assentou que, no caso, a revelia não surtiria os seus efeitos, nos termos do Código de Processo Civil, diante de o litígio versar sobre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "questão inconciliável"
+      },
+      {
+        "letra": "B",
+        "texto": "situação jurídica especial"
+      },
+      {
+        "letra": "C",
+        "texto": "direito indisponível"
+      },
+      {
+        "letra": "D",
+        "texto": "ponto sob mediação"
+      },
+      {
+        "letra": "E",
+        "texto": "ordem pública"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "670362",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Devem ser afastados os efeitos da revelia quando o demandado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deixa de apresentar contestação, mas é favorecido pelos elementos apresentados em contestação de seu litisconsorte."
+      },
+      {
+        "letra": "B",
+        "texto": "ausente à audiência de instrução se faz representar por advogado e apresenta defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "ausente à sessão de conciliação comparece à audiência de instrução e apresenta resposta."
+      },
+      {
+        "letra": "D",
+        "texto": "não apresenta resposta, mas comparece à audiência de instrução."
+      },
+      {
+        "letra": "E",
+        "texto": "deixa de apresentar contestação, mas apresenta reconvenção."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "670351",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "É correto afirmar que, para o réu revel,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se tiver sido citado por hora edital ou hora certa, a revelia somente será decretada após nova tentativa de citação por oficial de justiça, sob pena de nulidade."
+      },
+      {
+        "letra": "B",
+        "texto": "o efeito da revelia, no sentido de considerar verdadeiros todos os fatos alegados pelo autor ocorrem para o réu revel ainda que se trate de litisconsórcio unitário, em que um deles ofertou contestação, no prazo."
+      },
+      {
+        "letra": "C",
+        "texto": "o processo será recebido no estado em que se encontra, o que significa dizer que o réu revel poderá produzir provas, inclusive, após a sentença ser prolatada."
+      },
+      {
+        "letra": "D",
+        "texto": "os prazos correm independentemente de intimação, salvo se tiver advogado constituído nos autos, caso em que deverá ele ser intimado de todos os atos do processo."
+      },
+      {
+        "letra": "E",
+        "texto": "os prazos somente correrão após a juntada do mandado de intimação pessoal, a ser expedido para cada ato, cuja ciência o juiz determinar."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "626184",
+    "metadata": "Ano: 2014 | Banca: IESES | Órgão: SCGás",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Considera-se revel o réu que não contestar a ação, reputando-se como verdadeiros os fatos afirmados pelo autor. Contudo a revelia NÃO induz o efeito acima mencionado quando: I. O litígio versar sobre direitos indisponíveis. II. Se tratar de citação ficta na modalidade por hora certa. III. Se, havendo pluralidade de réus, algum deles contestar a ação. IV. Se a petição inicial não estiver acompanhada do instrumento público, que a lei considere indispensável à prova do ato. A sequência correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I, III, e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As apenas as assertivas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva III está correta."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "456793",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Em ação de investigação de paternidade proposta por Danilo, Eduardo, regularmente citado, não apresentou contestação. Instado a se manifestar, Danilo ampliou o pedido inicial, requerendo, além da declaração de paternidade, fosse Eduardo condenado a pagar indenização em razão de abandono afetivo. Em razão da revelia, o Juiz julgou antecipadamente a lide, reputando verdadeiros os fatos afirmados na inicial e na petição de emenda. De acordo com o Código de Processo Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os pedidos não poderiam ter sido acolhidos, antecipadamente, tendo em vista que a revelia não induz presunção de veracidade quanto a direitos indisponíveis e não autoriza a alteração do pedido, salvo se promovida nova citação do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "os pedidos não poderiam ter sido acolhidos, antecipadamente, tendo em vista que a revelia não induz presunção de veracidade quanto a direitos indisponíveis e não autoriza a alteração do pedido, em nenhuma hipótese."
+      },
+      {
+        "letra": "C",
+        "texto": "apenas o segundo pedido poderia ter sido acolhido, antecipadamente, pois a revelia induz presunção de veracidade apenas quanto a direitos disponíveis e dispensa intimação do réu para os atos subsequentes à sua decretação."
+      },
+      {
+        "letra": "D",
+        "texto": "os pedidos deveriam ser acolhidos, antecipadamente, pois a revelia induz presunção de veracidade quanto a todos os fatos afirmados na petição inicial e dispensa intimação do réu para os atos subsequentes à sua decretação."
+      },
+      {
+        "letra": "E",
+        "texto": "apenas o primeiro pedido poderia ter sido acolhido, antecipadamente, em razão dos efeitos da revelia, que induz presunção de veracidade inclusive quanto a direitos indisponíveis. Com relação ao segundo, ocorrida a revelia, não se autoriza a alteração do pedido, em nenhuma hipótese."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "454360",
+    "metadata": "Ano: 2014 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Tendo sido reconhecida a revelia do réu, que deixou de contestar a ação no prazo legal, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contra o revel que não tenha patrono nos autos, correrão os prazos a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorrendo a revelia, o autor poderá modificar o pedido ou a causa de pedir, até antes da prolação da sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "O revel não poderá intervir no feito nas demais fases do processo, como um dos efeitos da revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a contestação não estiver acompanhada de instrumento público que a lei considere indispensável à prova do fato, sofrerá o réu os efeitos da revelia."
+      },
+      {
+        "letra": "E",
+        "texto": "Na pluralidade de réus, havendo contestação de um deles, os demais, se não responderem o feito, sofrerão os efeitos da revelia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "438075",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: SUSAM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "No procedimento ordinário, a falta de apresentação de contestação pelo réu acarreta o fenômeno processual da revelia. Como se sabe, em regra, a revelia produz efeitos de ordem material e de ordem processual. Assinale a opção que indica uma situação em que a revelia não produzirá seu efeito material.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Havendo pluralidade de réus, se nenhum deles contestar, a revelia não produz seu efeito material."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o litígio versar sobre direitos disponíveis, a revelia não produz seu efeito material."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a petição inicial não estiver acompanhada do instrumento público que a lei considera indispensável à prova do ato, a revelia não produz seu efeito material."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o réu não contestar, mas no prazo legal, apresentar qualquer outro tipo de resposta cabível no rito comum ordinário, indistintamente, a revelia não produz seu efeito material."
+      },
+      {
+        "letra": "E",
+        "texto": "Se a ação versar acerca do pedido de indenização por dano moral, sendo a honra irrenunciável, ainda que o réu não conteste, a revelia não produzirá seu efeito material."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "432836",
+    "metadata": "Ano: 2014 | Banca: NC-UFPR | Órgão: DPE-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Procedimento sumário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre a disciplina da revelia e do procedimento sumário.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De acordo com o STJ, os efeitos meramente materiais da revelia são afastados quando, regularmente citado, deixa o ente público de contestar o pedido do autor, mesmo que esteja em litígio uma obrigação de direito privado firmada pela Administração Pública."
+      },
+      {
+        "letra": "B",
+        "texto": "Caio propôs contra Tício e Mévio ação pelo rito sumário, com o objetivo de obter ressarcimento por danos causados em prédio urbano. O autor, Caio, desistiu da demanda em face de Mévio, e este não foi citado para a audiência de conciliação. Tício não compareceu à audiência de conciliação, e por isso foi considerado revel. Após a prolação de sentença condenatória pelo juiz, Tício apelou, alegando que nas causas sujeitas ao procedimento sumário, o outro réu deve ter ciência da decisão que homologa a desistência, para só então encerrar o prazo para contestação, não surtindo efeitos a sentença que aplica a pena de revelia. Nesse caso hipotético, merece acolhida o recurso de Tício, pois as disposições legais que regulam o procedimento ordinário aplicam-se subsidiariamente ao procedimento sumário."
+      },
+      {
+        "letra": "C",
+        "texto": "De acordo com o STJ, nas causas submetidas ao procedimento sumário, o não comparecimento injustificado do réu regularmente citado à audiência de conciliação, caso não tenha oferecido a sua resposta em momento anterior, pode ensejar o reconhecimento da revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "No procedimento sumário, pode ser reconhecida a revelia pelo não comparecimento à audiência de conciliação na hipótese em que tenha sido indeferido pedido de vista da Defensoria Pública formulado, dias antes da data prevista para a referida audiência, no intuito de garantir a defesa do réu que somente tenha passado a ser assistido após a citação."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso ocorra a revelia, o autor não poderá alterar o pedido, ou a causa de pedir, mas poderá demandar declaração incidente, independente de nova citação do réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "430342",
+    "metadata": "Ano: 2014 | Banca: FEPESE | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Revelia",
+      "Prazos",
+      "Da comunicação dos atos processuais - Citação",
+      "Respostas do réu - Contestação",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Não está de acordo com o disposto no Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte poderá renunciar ao prazo estabelecido exclusivamente em seu favor."
+      },
+      {
+        "letra": "B",
+        "texto": "Contra o revel que não tenha patrono nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "C",
+        "texto": "Findo o prazo para a resposta do réu, o escrivão fará a conclusão dos autos. O juiz, no prazo de 10 dias, determinará, conforme o caso, as providências preliminares."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "A citação torna prevento o juízo, induz litispendência, interrompe a prescrição e, exceto quando ordenada por juiz incompetente, constitui em mora o devedor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "420532",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca dos fundamentos e princípios do direito processual civil, julgue o item subsequente. Com o fim de garantir o contraditório, o Código de Processo Civil determina a nomeação de curador especial na hipótese de revelia de réu citado por hora certa ou por edital, impondo-lhe a obrigação de impugnar especificadamente todos os pontos deduzidos pelo autor na petição inicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "417886",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca da pluralidade de partes no processo civil, assinale a opção correta à luz da jurisprudência do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a admissão de assistência simples no processo, exige-se a existência de lide pendente e alheia, bem como a de interesse jurídico ou econômico no resultado da demanda."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratando-se de assistência, a revelia do assistido confere ao assistente a função de gestor de negócios."
+      },
+      {
+        "letra": "C",
+        "texto": "Com o trânsito em julgado da sentença referente à causa em que interveio o assistente, este não poderá, em nenhuma hipótese, em processo posterior, discutir novamente a justiça da decisão."
+      },
+      {
+        "letra": "D",
+        "texto": "Em se tratando de litisconsórcio necessário, exige-se uma decisão igual para todos os litisconsortes."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de litisconsórcio multitudinário, se o excessivo número de litisconsortes facultativos comprometer a rápida solução do litígio ou dificultar a defesa, o juiz poderá limitar o número de litisconsorte, desde que assim requeira o réu."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "415208",
+    "metadata": "Ano: 2014 | Banca: MPE-SC | Órgão: MPE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Revelia",
+      "Da comunicação dos atos processuais - Citação"
+    ],
+    "enunciado_principal": "A querela nullitatis é meio de impugnação de decisão maculada por vícios transrescisórios, que subsistem, tal como na hipótese de decisão proferida em desfavor do réu em processo que correu à sua revelia por falta de citação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "406877",
+    "metadata": "Ano: 2014 | Banca: PUC-PR | Órgão: TJ-PR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento ordinário",
+      "Revelia",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Efeitos dos recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser negado seguimento ao recurso adesivo, ainda que o recorrente litigue sob os auspícios da Lei 1.060/1950, caso a apelação seja considerada deserta em razão da ausência de preparo."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo o entendimento firmado pelo Superior Tribunal de Justiça para os fins do artigo 543-C, a não apresentação, pelo agravante, de cópia de peça dos autos principais que, embora não considerada obrigatória pelo artigo 525, I do mesmo Código, seja essencial à compreensão da controvérsia travada no agravo previsto no artigo 522, é causa para que se negue seguimento ao recurso, não tendo o relator o poder/dever de oportunizar ao recorrente a complementação da documentação."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a revelia do réu que contestara é decretada no curso do processo, após o desatendimento, por ele, de intimação pessoal para regularizar defeito de representação decorrente da renúncia de seu advogado, o prazo para recorrer da sentença só começa a fluir após a publicação desta no órgão oficial destinado à veiculação das intimações judiciais."
+      },
+      {
+        "letra": "D",
+        "texto": "Os embargos de declaração interrompem o prazo para a apresentação de outros recursos pela parte que os interpõe, não produzindo o mesmo efeito em relação ao adversário; quanto a este, o efeito é de mera suspensão do curso do prazo recursal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "402837",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-SE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "No que se refere à execução de ações coletivas, à sentença, à coisa julgada, à revelia e à ação civil pública, julgue os seguintes itens. Constitui efeito da revelia a presunção de veracidade das alegações de fato e de direito trazidas na petição inicial, decorrente da omissão do réu que não houver apresentado resposta aos pedidos do autor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "392931",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A respeito da revelia, considere: I. Os prazos correrão contra o revel, independentemente de intimação, a partir de cada ato decisório, ainda que tenha constituído patrono nos autos. II. Não se reputarão verdadeiros os fatos afirmados pelo autor se a petição inicial não estiver acompanhada do instrumento público, que a lei considere indispensável à prova do ato. III. O juiz poderá conhecer diretamente do pedido e proferir sentença, quando ocorrer a revelia. Está correto o que se afirma APENAS em :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I"
+      },
+      {
+        "letra": "E",
+        "texto": "III"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "389064",
+    "metadata": "Ano: 2014 | Banca: UFMT | Órgão: MPE-MT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Levando em consideração as normas processuais vigentes, sobre mitigações à eficácia da revelia, marque V para as afirmativas verdadeiras e F para as falsas. ( ) A confissão ficta é efeito necessário da revelia. ( ) Revelia não implica necessariamente vitória do autor. ( ) Mesmo as objeções não podem ser apreciadas de ofício em qualquer momento processual ou grau de julgamento. ( ) Mesmo diante da revelia, o autor não poderá alterar o pedido ou a causa de pedir, nem demandar declaração incidente, salvo promovendo nova citação do réu. ( ) Somente ao réu revel que não tenha patrono nos autos se aplica o efeito da revelia de dispensa da intimação dos demais atos do processo.Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V, F, F, V"
+      },
+      {
+        "letra": "B",
+        "texto": "F, F, V, V, F"
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F, V, V"
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, V, F, F"
+      },
+      {
+        "letra": "E",
+        "texto": "V, F, F, V, V"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "387603",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CAU-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Providências preliminares e julgamento conforme o estado do processo"
+    ],
+    "enunciado_principal": "Considerando o Código de Processo Civil, acerca do julgamento conforme o estado do processo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não cabe extinção do feito, mesmo quando ficar parado durante mais de um ano por negligência das partes."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de revelia, não poderá o juiz antecipar o julgamento da lide."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o processo não for extinto ou julgado antecipadamente, e versar a causa sobre direitos que admitam transação, o juiz designará audiência preliminar, a realizar-se no prazo de 60 dias, para a qual serão as partes intimadas a comparecer, podendo fazer-se representar por procurador ou preposto, com poderes para transigir."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode haver julgamento antecipado da lide nos casos em que a questão de mérito versa sobre fatos, mesmo não havendo necessidade de produção de prova em audiência."
+      },
+      {
+        "letra": "E",
+        "texto": "Haverá julgamento antecipado da lide, quando a questão de mérito for unicamente de direito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "386632",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Revelia",
+      "Depoimento pessoal",
+      "Prova documental",
+      "Prova testemunhal"
+    ],
+    "enunciado_principal": "Acerca de audiência e provas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cópias simples de documentos particulares não são admitidas como prova em juízo; é necessária sua autenticação."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a parte requerer a inquirição de testemunhas, o juiz não pode indeferir o pedido, sob pena de violação da ampla defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "A título de depoimento, a parte pode ler em voz alta, na audiência, texto que tenha preparado anteriormente para esta finalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Se ocorrerem os efeitos da revelia, não deverá ser designada audiência para o caso."
+      },
+      {
+        "letra": "E",
+        "texto": "Cada parte tem direito de assistir ao interrogatório da outra em audiência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "381215",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Competência no CPC 1973",
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "No que tange às respostas do réu, à revelia e às regras de competência, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso ocorra a revelia, o autor poderá alterar o pedido formulado na petição inicial, sem necessidade de promover nova citação."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo entendimento do STJ, quando há duas ações conexas em juízos de competência territorial distinta, considera-se prevento aquele que despachou em primeiro lugar, entendido como despacho o pronunciamento judicial positivo que determina a citação."
+      },
+      {
+        "letra": "C",
+        "texto": "A competência, em razão da matéria, do valor e do território, poderá modificar-se pela conexão ou continência."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz poderá reconhecer de ofício qualquer das matérias denominadas de questões preliminares, elencadas no art. 301 do CPC."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese de existirem ação e reconvenção, caso o autor desista da ação, essa desistência não obsta o prosseguimento da reconvenção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "361585",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PGE-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Conforme o entendimento do STJ, a ausência de contestação, pela fazenda pública, poderá implicar presunção de veracidade dos fatos narrados pelo autor, já que a não aplicação dos efeitos da revelia não pode servir como escusa para que os entes públicos deixem de impugnar os argumentos da parte contrária e não produzam as provas necessárias na fase de instrução do feito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "357880",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: Prefeitura de Recife - PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação",
+      "Respostas do réu - Reconvenção"
+    ],
+    "enunciado_principal": "Eduardo ajuíza ação de indenização contra Pedro, que apresenta contestação e reconvenção. Depois da resposta, porém, Eduardo formula pedido de desistência, sem contestar a reconvenção. Pedro aceita o pedido de desistência, mas requer o prosseguimento da reconvenção. O juiz deverá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "homologar a desistência e dar prosseguimento à reconvenção, mas sem declarar a revelia de Eduardo."
+      },
+      {
+        "letra": "B",
+        "texto": "homologar a desistência e julgar o processo extinto sem julgamento de mérito, deixando de apreciar o pedido reconvencional."
+      },
+      {
+        "letra": "C",
+        "texto": "indeferir o pedido de desistência e dar prossegui- mento à reconvenção, declarando a revelia de Eduardo."
+      },
+      {
+        "letra": "D",
+        "texto": "homologar a desistência, dar prosseguimento à reconvenção e declarar a revelia de Eduardo."
+      },
+      {
+        "letra": "E",
+        "texto": "indeferir o pedido de desistência e dar prosseguimento à reconvenção, mas sem declarar a revelia de Eduardo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "433119",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Revelia",
+      "Nulidades no CPC 1973",
+      "Sujeitos da relação processual",
+      "Petição Inicial"
+    ],
+    "enunciado_principal": "Analise a decisão que trata da situação verídica na qual a parte, sem representante processual, assinou a contestação.\"O Magistrado sentenciante decretou a revelia do Apelante em razão de não ter constituído procurador nos autos e condenou-o ao pagamento, a título de danos morais, no valor de 30 (trinta) salários mínimos (...) recorrente não trouxe nenhuma justificativa da fa lta de representação por advogado, fazendo-o tão somente em sede de Apelação quando junta declarações de pessoas moradoras daquele município, significando preclusão no seu direito, porque não o fe z oportunamente\"Partindo da temática em foco, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À parte é lícito postular em causa própria quando tiver habilitação legal ou, não a tendo, caso falte advogado no lugar."
+      },
+      {
+        "letra": "B",
+        "texto": "A nulidade de ato é sempre matéria de ordem pública mesmo nos casos em que o juiz não deva agir de ofício e, portanto, não se sujeita aos efeitos da preclusão."
+      },
+      {
+        "letra": "C",
+        "texto": "O advogado poderá procurar em juízo sem mandato se a parte representada assinar a petição inicial conjuntamente, constituindo tacitamente o patrono."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de revelia, ao autor é lícito demandar declaração incidente no mesmo processo, que absorverá os efeitos da revelia, dispensando-se nova citação do réu."
+      },
+      {
+        "letra": "E",
+        "texto": "É lícita a alteração do pedido mesmo depois de saneado o processo, desde que o revel seja novamente citado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "410542",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Dos Atos Processuais",
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Procedimento sumário",
+      "Revelia",
+      "Forma",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Em relação a procedimento, resposta do réu e provas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O documento lavrado sem observância das formalidades legais pelo oficial de registros públicos ou pelo tabelião competente não é apto a substituir instrumento público que a lei exija como prova da substância do ato."
+      },
+      {
+        "letra": "B",
+        "texto": "A aplicação dos efeitos da revelia em ação reivindicatória não contestada pelo réu é possível ainda que essa ação tenha sido ajuizada sem documentação comprobatória da propriedade do imóvel."
+      },
+      {
+        "letra": "C",
+        "texto": "O rito sumário deve ser adotado em ação de investigação de paternidade com valor da causa fixado em quarenta salários mínimos."
+      },
+      {
+        "letra": "D",
+        "texto": "Viola o princípio do contraditório e da ampla defesa a negativa de produção de prova oral solicitada pelo réu no âmbito de ação ordinária cuja questão de mérito seja unicamente de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Se um juiz determinar, de ofício, o comparecimento de réu a audiência de instrução e julgamento, faltar a essa audiência, ser-lhe-ão impostos os efeitos da revelia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "371569",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca da citação, da resposta do réu, da revelia e das nulidades processuais, assinale a opção correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fato de um dos litisconsortes ter apresentado contestação é suficiente para afastar os efeitos da revelia ao litisconsorte revel."
+      },
+      {
+        "letra": "B",
+        "texto": "Embora seja aplicável à fazenda pública o efeito material da revelia, isto é, a presunção de veracidade dos fatos narrados pelo autor, serão aplicáveis os efeitos processuais"
+      },
+      {
+        "letra": "C",
+        "texto": "Não se produzem os efeitos da revelia em embargos à execução fundados em título executivo extrajudicial quando o embargado deixa de impugnar a petição inicial dos embargos."
+      },
+      {
+        "letra": "D",
+        "texto": "A omissão, no mandado de citação, acerca dos efeitos da revelia gera nulidade processual e impede a presunção ficta consequente da revelia."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao procedimento sumário aplicam-se as regras do procedimento ordinário referentes à decretação da revelia e seus efeitos"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "359232",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Revelia",
+      "Sujeitos da relação processual",
+      "Conceito e Classificação do Litisconsórcio"
+    ],
+    "enunciado_principal": "Em relação às partes e aos procuradores, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prática de atos postulatórios no processo pressupõe inscrição válida perante a Ordem dos Advogados do Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "O cônjuge casado sob regime de separação absoluta de bens necessita do consentimento do outro para a propositura de ações em que haja composse"
+      },
+      {
+        "letra": "C",
+        "texto": "Em causas que versem sobre direito real imobiliário de pessoas casadas, há litisconsórcio necessário em ambos os polos do processo."
+      },
+      {
+        "letra": "D",
+        "texto": "Em casos de revelia, a nomeação de curador especial pode se dar de ofício, recaindo o encargo preferencialmente no Ministério Público"
+      },
+      {
+        "letra": "E",
+        "texto": "Todo aquele que possui personalidade jurídica tem capacidade de ser parte, mas nem toda capacidade de ser parte decorre da personalidade jurídica"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "352078",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: STF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Ainda acerca de resposta do réu, com base na doutrina, na legislação e na jurisprudência dos tribunais superiores, julgue os itens subsequentes. Oferecida contestação intempestiva em processo sobre direitos disponíveis, aplicam-se os efeitos da revelia, transcorrendo os demais prazos contra o réu revel, independentemente de intimação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "351147",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 17ª Região (ES)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Considerando que A ajuíze contra B ação postulando os pedidos X, Y e Z, com base na situação fática F, julgue os itens subsecutivos.Considerando-se entendimento do STJ, na hipótese de a demanda envolver discussão de direito administrativo e B ser um município, os efeitos da revelia serão afastados no caso de B não oferecer contestação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "346765",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Reconvenção",
+      "Respostas do réu  - Exceção"
+    ],
+    "enunciado_principal": "Considerando que, após citação em processo sob o rito ordinário, o réu tenha apresentado apenas reconvenção e que, por isso, o juiz tenha determinado que os prazos contra ele corressem independentemente de intimação, tendo, ao final, o declarado revel, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em razão da reconvenção, a presunção decorrente da revelia será apenas relativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Independentemente da reconvenção, operam-se os efeitos da revelia."
+      },
+      {
+        "letra": "C",
+        "texto": "Independentemente de o revel ter patrono nos autos, não é necessária sua intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz errou ao considerar o réu revel, pois foi apresentada, no prazo legal, uma forma de resposta."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz não poderia ter considerado o réu revel se, em vez de simples reconvenção, ele tivesse apresentado exceção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "343550",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca do processo civil, julgue os itens que se seguem.Se o réu não contestar a ação, reputar-se-ão verdadeiros os fatos afirmados pelo autor, excepcionado o caso da petição inicial que não estiver acompanhada do instrumento público que a lei considere indispensável à prova do ato, situação a que, a despeito da revelia, não se aplica a presunção de veracidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "339520",
+    "metadata": "Ano: 2013 | Banca: TJ-RS | Órgão: TJ-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O juiz inquirirá as testemunhas, separada e sucessivamente; primeiro as do réu e depois as do autor, providenciando de modo que umas não ouçam o depoimento das outras."
+      },
+      {
+        "letra": "B",
+        "texto": "O ônus da prova incumbe ao autor, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o autor tiver formulado pedido certo, é facultado ao juiz proferir sentença ilíquida."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o réu não contestar a ação, o juiz, verificando que não ocorreu o efeito da revelia, mandará que o autor especifique as provas que pretenda produzir na audiência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "322419",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: AL-PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "José propôs ação ordinária contra João, cobrando a quantia de R$ 6.000,00 que lhe havia sido emprestada e que não foi paga no prazo combinado. João foi pessoalmente citado e não apresentou contestação, nem constituiu procurador nos autos, tendo sido decretada a sua revelia. José, em face da revelia, alterou o pedido inicial para cobrar outra dívida de R$ 10.000,00, alegando que também não foi honrada pelo réu no prazo convencionado. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João não terá direito de resposta em razão da sua condição de revel, sem procurador nos autos."
+      },
+      {
+        "letra": "B",
+        "texto": "José deverá promover nova citação e João terá assegurado o direito de responder no prazo de quinze dias somente sobre o que foi aditado."
+      },
+      {
+        "letra": "C",
+        "texto": "João terá assegurado o direito de se manifestar no prazo de cinco dias, independentemente de nova citação."
+      },
+      {
+        "letra": "D",
+        "texto": "José deverá promover nova citação e João terá assegurado o direito de responder no prazo de quinze dias sobre o pedido inicial e também sobre o aditamento."
+      },
+      {
+        "letra": "E",
+        "texto": "fica a critério do juiz determinar ou não que José promova nova citação de João."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "314288",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Para o réu evitar os efeitos da revelia, não lhe será bastante defender-se; deverá ele impugnar os fatos narrados na petição inicial, sob pena de estes serem presumidos verdadeiros.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "308733",
+    "metadata": "Ano: 2013 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Quanto à prova e à presunção, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ônus da prova cabe, em regra, à parte economicamente mais forte."
+      },
+      {
+        "letra": "B",
+        "texto": "a prova refere-se sempre a fatos, jamais ao direito ou à sua vigência."
+      },
+      {
+        "letra": "C",
+        "texto": "a confissão judicial prejudica o litisconsorte."
+      },
+      {
+        "letra": "D",
+        "texto": "a revelia não induz presunção de veracidade nos litígios sobre direitos indisponíveis."
+      },
+      {
+        "letra": "E",
+        "texto": "a revelia induz presunção absoluta de veracidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "304779",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "Considerando o entendimento do STJ acerca de temas diversos do direito processual civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A intimação dos procuradores dos estados deverá ser realizada pessoalmente, mesmo inexistindo previsão legal para tal."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de processo eletrônico, é inválida a petição eletrônica se não houver identidade entre o titular do certificado digital utilizado para assinar o documento e os advogados indicados como autores da petição."
+      },
+      {
+        "letra": "C",
+        "texto": "No procedimento de homologação de sentença estrangeira, admite-se impor as regras previstas na legislação brasileira para a citação praticada fora do país."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é possível, pela via do mandado de segurança, declarar incidentalmente a inconstitucionalidade de lei ou ato normativo do poder público."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese em que estiver em litígio uma obrigação de direito privado firmada pela administração pública, e não um contrato genuinamente administrativo, incidirão os efeitos materiais da revelia contra o poder público, se, devidamente citado, o ente público deixar de contestar o pedido do autor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "301579",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: DPE-TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Vítor, menor de idade, representado por sua genitora, ingressou com ação de investigação de paternidade cumulada com alimentos contra Roberto. Após a realização de inúmeras diligências citatórias frustradas, o juiz deferiu a citação editalícia, que foi realizada conforme as formalidades legais. O requerido, entretanto, não apresentou resposta no prazo legal. Nessa situação hipotética, o juiz deve, imediatamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "determinar a intimação do autor, para que especifique as provas que pretenda produzir em audiência."
+      },
+      {
+        "letra": "B",
+        "texto": "determinar a realização de novas diligências citatórias, sob pena de nulidade do processo, já que a lei exige a citação pessoal do réu nesse tipo de ação."
+      },
+      {
+        "letra": "C",
+        "texto": "decretar a revelia do réu e considerar verdadeiros os fatos articulados pelo autor, proferindo desde logo sentença que confira total procedência ao pedido."
+      },
+      {
+        "letra": "D",
+        "texto": "nomear curador especial ao réu, encargo que poderá recair sobre a DP."
+      },
+      {
+        "letra": "E",
+        "texto": "determinar a intimação pessoal do representante do MP e, em seguida, com ou sem pronunciamento, decidir quanto à aplicação dos efeitos da revelia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2213154",
+    "metadata": "Ano: 2012 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Sentença",
+      "Do Litisconsórcio",
+      "Procedimento ordinário",
+      "Procedimento sumário",
+      "Revelia",
+      "Ministério Público no CPC 1973",
+      "Sujeitos da relação processual"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas e assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há previsão legal possibilitando a recusa de formação de litisconsórcio passivo, facultativo e originário."
+      },
+      {
+        "letra": "B",
+        "texto": "O autor, verificada a revelia, pode alterar o pedido sem promover nova citação."
+      },
+      {
+        "letra": "C",
+        "texto": "É nulo o processo decorrente da falta de intimação do Ministério Público nas hipóteses em que o Parquet deveria intervir como custos legis."
+      },
+      {
+        "letra": "D",
+        "texto": "No procedimento sumário, é nula a sentença ilíquida."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "984277",
+    "metadata": "Ano: 2012 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca da revelia, assinale a resposta INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos Juizados Especiais Cíveis, a ausência injustificada do réu à audiência de instrução e julgamento ou à sessão de conciliação produz a revelia, reputando-se verdadeiros os fatos alegados no pedido inicial, salvo se o contrário resultar da convicção do juiz."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é exigível o comparecimento pessoal do réu à audiência de conciliação, no procedimento sumário, podendo ele ser representado por preposto, mesmo sem poderes para transigir."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo nula ou inexistente a citação, não ocorrem os efeitos da revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "Falecendo o procurador do demandado e não constituindo o réu outro mandatário no prazo de vinte dias, o processo prosseguirá à sua revelia."
+      },
+      {
+        "letra": "E",
+        "texto": "Será reputado revel o réu que não sanar a incapacidade processual ou a irregularidade da representação no prazo assinado pelo juiz."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "465884",
+    "metadata": "Ano: 2012 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "O Sr. X propõe ação, com pedido condenatório no pagamento da quantia de R$ 100.000,00, em face do Sr. Y, tendo o processo fluído normalmente com a regular citação do réu. Apesar disso, o Sr. Y não apresentou a devida contestação. Após dois meses da ausência de defesa, o autor requereu a ampliação do pedido para incluir a condenação em danos morais decorrentes do não pagamento da dívida pelo réu. Nesse caso, diante das normas processuais,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a revelia permite a ampliação dos limites objetivos do pedido sem nova citação."
+      },
+      {
+        "letra": "B",
+        "texto": "a ampliação dos limites do pedido no caso de revelia é restrita às partes."
+      },
+      {
+        "letra": "C",
+        "texto": "a ampliação dos limites objetivos ou subjetivos da causa em caso de revelia não é possível."
+      },
+      {
+        "letra": "D",
+        "texto": "a ampliação sem nova citação é admitida, sendo o pleito condenatório."
+      },
+      {
+        "letra": "E",
+        "texto": "os limites objetivos do pedido em caso de revelia impõem nova citação."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "341131",
+    "metadata": "Ano: 2012 | Banca: TJ-DFT | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Julgue as três proposições que se seguem e assinale a única alternativa correta. I - O réu revel não pode produzir prova nos autos, ainda que limitada aos fatos afirmados na petição inicial. II - Configurada a revelia, deve o juiz julgar antecipadamente a lide e acolher a pretensão deduzida pelo autor. III - A revelia do demandado em ação rescisória não opera seus efeitos materiais, razão pela qual não dispensa o autor da obrigação de provar o fato em que se baseia sua pretensão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as proposições estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a proposição III está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as proposições II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as proposições I e II estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "288714",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: PGE-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Processo de execução"
+    ],
+    "enunciado_principal": "É INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A revelia do réu na ação de desapropriação gera a presunção de que o preço oferecido é justo, dispensando-se a realização de perícia."
+      },
+      {
+        "letra": "B",
+        "texto": "É possível a exceção de pré-executividade para arguir prescrição da ação na execução fiscal."
+      },
+      {
+        "letra": "C",
+        "texto": "O sequestro de verbas públicas, a pedido do credor, é possível em duas hipóteses: preterição do direito de precedência na ordem cronológica de precatórios e falta de alocação no orçamento do valor necessário à satisfação do crédito."
+      },
+      {
+        "letra": "D",
+        "texto": "A ação judicial envolvendo duas pessoas jurídicas de direito público de esferas diversas de poder e que implique conflito federativo será processada e julgada pelo Supremo Tribunal Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "Não viola a cláusula de reserva de plenário deixar de submeter ao pleno ou órgão especial do tribunal a arguição de inconstitucionalidade de lei a respeito da qual já houve prévia manifestação do referido órgão."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "270384",
+    "metadata": "Ano: 2012 | Banca: CESPE / CEBRASPE | Órgão: DPE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Assinale a opção correta acerca da ação de conhecimento proposta pelo rito do procedimento comum ordinário, à luz do CPC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caracteriza a revelia substancial o fato de o réu contestar, mas não proceder à impugnação específica dos fatos afirmados pelo autor; verifica-se a revelia material quando o réu não comparece, não contesta ou, quando contesta, o faz intempestivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Verificada a hipótese de nomeação à autoria, o réu poderá optar por fazê-la ou apresentar a contestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo a teoria da individualização o arcabouço da sistemática adotada no CPC, a petição inicial formulada pelo autor deve individualizar cada um dos pedidos conforme a causa de pedir."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o réu não tenha certeza de quem deva nomear, ele deverá valer-se da nomeação sucessiva, sendo-lhe vedada a nomeação alternativa."
+      },
+      {
+        "letra": "E",
+        "texto": "A revelia ulterior ocorre quando, a princípio, o réu não é revel, mas passa a ser considerado como tal no curso do processo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "246608",
+    "metadata": "Ano: 2012 | Banca: CEPERJ | Órgão: PROCON-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Mévio propôs ação com pedido condenatório em face do Município W. Após decorrido o prazo de resposta, a mesma não foi carreada aos autos. Diante disso, o autor requereu a declaração de revelia do réu. Nesse caso, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são presumidos verdadeiros os fatos articulados pelo autor na peça exordial"
+      },
+      {
+        "letra": "B",
+        "texto": "efeito da revelia atinge os fatos e o direito fundador da ação"
+      },
+      {
+        "letra": "C",
+        "texto": "é caso de situação que caracteriza a incidência de direitos indisponíveis"
+      },
+      {
+        "letra": "D",
+        "texto": "a Fazenda Pública pode apresentar a contestação a qualquer tempo"
+      },
+      {
+        "letra": "E",
+        "texto": "a presunção que surge da revelia é absoluta, não admitindo impugnação"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "236617",
+    "metadata": "Ano: 2012 | Banca: FMP Concursos | Órgão: PGE-AC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Juiz no CPC 1973",
+      "Procedimento ordinário",
+      "Revelia",
+      "Sujeitos da relação processual"
+    ],
+    "enunciado_principal": "Assinale a resposta correta considerando as assertivas: I - A dispensa de intimação do demandado para os atos ulteriores do processo é efeito material da revelia. II – O impedimento do juiz, conforme jurisprudência dominante, pode ser alegado na contestação ou em momento posterior, mediante exceção, não se submetendo à preclusão. III - A sentença que acolhe alegação de prescrição extingue o processo sem resolução do mérito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a III está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a I e a III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a I e a II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a II está correta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "215017",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "No processo “ZW” o réu foi regularmente citado, mas deixou de oferecer qualquer resposta, tendo sido decretada a sua revelia. Após a decretação da revelia, o autor pretende alterar o pedido. Neste caso, o Código de Processo Civil brasileiro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "veda que o autor altere o pedido, sendo permitida a alteração apenas da causa de pedir."
+      },
+      {
+        "letra": "B",
+        "texto": "permite que o autor altere o pedido desde que promova nova citação do réu, a quem será assegurado o direito de responder no prazo de 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "veda que o autor altere o pedido em qualquer hipótese uma vez que a revelia já foi decretada."
+      },
+      {
+        "letra": "D",
+        "texto": "permite que o autor altere o pedido desde que promova nova citação do réu, a quem será assegurado o direito de responder no prazo de 10 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "permite que o autor altere o pedido independente de nova citação do réu uma vez que a revelia já foi decretada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "214904",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A revelia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "induz todos os efeitos mencionados no Código de Processo Civil brasileiro se o litígio versar sobre direitos indisponíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "induz todos os efeitos mencionados no Código de Processo Civil brasileiro se, havendo pluralidade de réus, algum deles contestar a ação."
+      },
+      {
+        "letra": "C",
+        "texto": "autoriza o juiz a conhecer diretamente do pedido, proferindo sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "desautoriza o réu revel a intervir no processo, tendo em vista a preclusão consumativa ocorrida com a não apresentação da contestação."
+      },
+      {
+        "letra": "E",
+        "texto": "autoriza o autor a alterar a causa de pedir, independentemente de nova citação do réu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "213380",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 11ª Região (AM e RR)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A revelia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acarreta a presunção de veracidade das alegações de direito do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "impede o juiz de determinar a produção de provas, quando julgar necessário."
+      },
+      {
+        "letra": "C",
+        "texto": "não acarreta para o revel a presunção de veracidade dos fatos afirmados pelo autor se algum litisconsorte necessário contestar a ação."
+      },
+      {
+        "letra": "D",
+        "texto": "não impede o réu de intervir no processo, mas não lhe dá o direito de recorrer da sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "implica necessariamente na procedência do pedido do autor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "301798",
+    "metadata": "Ano: 2011 | Banca: TJ-SC | Órgão: TJ-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Analise as afirmações abaixo e assinale a alternativa correta, conforme dispõe o Código de Processo Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os efeitos da revelia não se verificarão quando, havendo pluralidade de réus, algum deles contestar a ação."
+      },
+      {
+        "letra": "B",
+        "texto": "O revel poderá intervir no processo até a fase probatória, recebendo-o no estado em que se encontrar."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo por ato de ofício, o juiz pode, em qualquer estado do processo, determinar o comparecimento pessoal das partes, a fim de interrogá-las sobre os fatos da causa."
+      },
+      {
+        "letra": "D",
+        "texto": "Durante o depoimento da parte é expressamente vedado servir-se de escritos adredemente preparados, mesmo que objetivem completar esclarecimentos."
+      },
+      {
+        "letra": "E",
+        "texto": "Sendo decretada a revelia, o autor poderá alterar o pedido, ou a causa de pedir, sem que para tanto haja nova citação do réu."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "299015",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A revelia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não ocorre em face de direitos disponíveis e patrimoniais."
+      },
+      {
+        "letra": "B",
+        "texto": "permite ao autor alterar o pedido ou a causa de pedir, livremente, haja vista a falta de resistência pelo réu."
+      },
+      {
+        "letra": "C",
+        "texto": "é relativa, gerando presunção de veracidade dos fatos afirmados pelo autor, mas não do direito alegado."
+      },
+      {
+        "letra": "D",
+        "texto": "impede, uma vez reconhecida, a intervenção posterior do réu no processo."
+      },
+      {
+        "letra": "E",
+        "texto": "é absoluta e refere-se a fatos em processos de qualquer natureza."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "297652",
+    "metadata": "Ano: 2011 | Banca: FEPESE | Órgão: CELESC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "De acordo com o Código de Processo Civil Brasileiro, assinale a alternativa corret.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A revelia não induz a presunção de veracidade dos fatos afirmados pelo autor quando o litígio versar sobre direitos indisponíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "O recebimento de exceção não suspende o curso do processo."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando forem citados vários réus para a ação, o prazo para responder ser-lhes-á comum, ainda que os litisconsortes tenham diferentes procuradores."
+      },
+      {
+        "letra": "D",
+        "texto": "Da decisão que indeferir a petição inicial caberá recurso de agravo de instrumento."
+      },
+      {
+        "letra": "E",
+        "texto": "A desistência da ação, ou a existência de qualquer causa que a extinga, implica a extinção da reconvenção."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "244399",
+    "metadata": "Ano: 2011 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "Dentre as alternativas abaixo, assinale a incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reconvenção é ação judicial do réu contra o autor, sendo uma das modalidades de resposta do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "Revelia é ausência de contestação, sendo considerada substancial quando o réu, apesar de ter apresentado defesa, o faz genericamente."
+      },
+      {
+        "letra": "C",
+        "texto": "O juiz poderá a requerimento da parte, antecipar, total ou parcialmente, os efeitos da tutela pretendida no pedido inicial, desde que, existindo prova inequívoca, se convença da verossimilhança da alegação, além de outros requisitos previstos em lei"
+      },
+      {
+        "letra": "D",
+        "texto": "A prova testemunhal é sempre admissível e se o juiz dispensá-la, cabe agravo retido."
+      },
+      {
+        "letra": "E",
+        "texto": "O erro de forma do processo acarreta unicamente a nulidade dos atos que não possam ser aproveitados, não podendo ser aproveitados os demais atos, ainda que em prejuízo da defesa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "204277",
+    "metadata": "Ano: 2011 | Banca: TRT 23R (MT) | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A respeito dos efeitos da revelia, assinale a alternativa INCORRETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contra o revel que não tenha patrono nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório;"
+      },
+      {
+        "letra": "B",
+        "texto": "ocorrida a revelia, o autor não poderá alterar o pedido, ou a causa de pedir, salvo se promover nova citação do réu;"
+      },
+      {
+        "letra": "C",
+        "texto": "o revel poderá intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar;"
+      },
+      {
+        "letra": "D",
+        "texto": "reputar-se-ão verdadeiros os fatos afirmados pelo autor se o réu não contestar a ação, salvo se a ação for movida contra órgão da administração pública;"
+      },
+      {
+        "letra": "E",
+        "texto": "se o réu não contestar a ação, o juiz, verificando que não ocorreu o efeito da revelia, mandará que o autor especifique as provas que pretenda produzir na audiência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "164699",
+    "metadata": "Ano: 2011 | Banca: FUMARC | Órgão: BDMG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "Assinale a alternativa FALSA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É lícito a qualquer das partes argüir, por meio de exceção, a incompetência, o impedimento ou a suspeição. Este direito pode ser exercido em qualquer tempo, ou grau de jurisdição, cabendo à parte oferecer exceção, no prazo de 5 (cinco) dias, contado do fato que ocasionou a incompetência, o impedimento ou a suspeição."
+      },
+      {
+        "letra": "B",
+        "texto": "O réu pode reconvir ao autor no mesmo processo, toda vez que a reconvenção seja conexa com a ação principal ou com o fundamento da defesa."
+      },
+      {
+        "letra": "C",
+        "texto": "Ainda que ocorra revelia, o autor não poderá alterar o pedido, ou a causa de pedir, nem demandar declaração incidente, salvo promovendo nova citação do réu, a quem será assegurado o direito de responder no prazo de 15 (quinze) dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Compete ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito, com que impugna o pedido do autor e especificando as provas que pretende produzir."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "104811",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Na hipótese de revelia da fazenda pública, a indisponibilidade do interesse público impede que o juiz repute como verdadeiros os fatos alegados pelo autor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "103557",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Julgue os itens de 75 a 80, relativos a direito processual civil.A revelia é a ausência de contestação do réu e tem como principal efeito o fato de se reputarem verdadeiros os acontecimentos afirmados pelo autor. Assim, salvo no caso de direitos indisponíveis, ocorrida a revelia, o juiz proferirá sentença julgando antecipadamente a lide e decidindo, sempre, o mérito da causa pela procedência do pedido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "97400",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Paulo foi pessoalmente citado como réu de uma ação ordinária e não ofereceu contestação, tendo sido decretada a sua revelia. Posteriormente, contratou advogado e este interveio no processo. Nesse caso, os prazos correrão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a partir da intimação, por carta, ao revel, dos atos decisórios."
+      },
+      {
+        "letra": "B",
+        "texto": "independentemente de intimação, a partir da data da publicação de cada ato decisório."
+      },
+      {
+        "letra": "C",
+        "texto": "independentemente de intimação, a partir da data dos atos decisórios."
+      },
+      {
+        "letra": "D",
+        "texto": "a partir da intimação pela imprensa do advogado constituído pelo revel."
+      },
+      {
+        "letra": "E",
+        "texto": "em cartório, a partir da intimação por carta do advogado constituído pelo revel."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "90158",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: TRE-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Considerando ter o processo corrido à revelia do réu, que não foi validamente citado, caso transite em julgado sentença que lhe foi desfavorável, tal decisão poderá ser invalidada mesmo após o prazo para ação rescisória.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "87803",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TJ-PE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Ocorrendo a revelia,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá o autor alterar o pedido, ou a causa de pedir, bem como demandar declaração incidente, independentemente de nova citação do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá o réu intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar."
+      },
+      {
+        "letra": "C",
+        "texto": "reputar-se-ão verdadeiros, de modo absoluto, os fatos afirmados pelo autor."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá o réu participar da audiência de instrução e julgamento que venha a ser designada."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá o juiz, necessariamente, julgar o processo antecipadamente, dada a veracidade presumida dos fatos alegados pelo autor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "85459",
+    "metadata": "Ano: 2011 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "João ingressou com ação tratando de direitos indisponíveis em face de Maria e Antonio. Maria contestou o feito e Antonio deixou passar em branco o prazo para responder à ação. Diante disso, indique a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antonio se tornou revel, situação processual que afeta a resposta apresentada por Maria."
+      },
+      {
+        "letra": "B",
+        "texto": "Antonio se tornou revel, reputando-se verdadeiros os fatos afirmados por João."
+      },
+      {
+        "letra": "C",
+        "texto": "Antonio, como revel, não poderá mais intervir no processo, correndo os prazos independentemente de intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso a ação fosse proposta somente em face de Antonio, sua revelia não permitiria a alteração do pedido inicial, ainda que se proceda nova citação."
+      },
+      {
+        "letra": "E",
+        "texto": "A revelia de Antonio não reputa verdadeiros os fatos afirmados por João, por se tratar de discussão de direitos indisponíveis."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "83559",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: PC-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Sendo decretada a revelia, o autor não poderá alterar o pedido, salvo se promover nova citação do réu. No entanto, a revelia não obstará a alteração na causa de pedir.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "481372",
+    "metadata": "Ano: 2010 | Banca: CONSULTEC | Órgão: TJ-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Se o réu é revel, reputam-se verdadeiros os fatos afirmados pelo autor,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não admitindo o Supremo Tribunal Federal, que o revel produza provas."
+      },
+      {
+        "letra": "B",
+        "texto": "independentemente da natureza e disponibilidade do direito material discutido."
+      },
+      {
+        "letra": "C",
+        "texto": "salvo se litisconsorte passivo unitário contestar tempestivamente, quando ficam afastados os efeitos da revelia."
+      },
+      {
+        "letra": "D",
+        "texto": "mesmo que ele altere o objeto da causa, situação em que não é dado a réu novo prazo de defesa."
+      },
+      {
+        "letra": "E",
+        "texto": "correndo os prazos processuais independentemente de sua intimação, ainda que tenha patrono nos autos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "456885",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: AL-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Assistência no  CPC 1973",
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Sendo revel o assistido, o assistente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será considerado seu gestor de negócios."
+      },
+      {
+        "letra": "B",
+        "texto": "não poderá intervir no feito."
+      },
+      {
+        "letra": "C",
+        "texto": "não poderá recorrer da sentença sem expressa anuência do assistido."
+      },
+      {
+        "letra": "D",
+        "texto": "assumirá a condição de parte principal."
+      },
+      {
+        "letra": "E",
+        "texto": "terá novo prazo para apresentar contestação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "456884",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: AL-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "O revel pode intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os prazos processuais correrão independentemente de intimação."
+      },
+      {
+        "letra": "B",
+        "texto": "torna-se exigível a sua intimação formal para os atos subsequentes."
+      },
+      {
+        "letra": "C",
+        "texto": "só será exigível a sua intimação formal da sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "só será exigível a sua intimação formal da audiência de instrução e julgamento"
+      },
+      {
+        "letra": "E",
+        "texto": "não poderá apresentar contestação, mas poderá oferecer reconvenção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "407169",
+    "metadata": "Ano: 2010 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Formação, Suspensão e Extinção do Processo",
+      "Recursos",
+      "Da Intervenção de terceiros",
+      "Procedimento ordinário",
+      "Revelia",
+      "Chamamento ao processo",
+      "Da extinção do processo",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Aplica-se o procedimento ordinário que é o procedimento padrão e básico para a tutela dos direitos, quando não está previsto um procedimento especial e quando não é de observar-se o procedimento sumário, sendo CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o chamamento ao processo é permitido àquele que detiver a coisa em nome alheio, sendo demandado em nome próprio."
+      },
+      {
+        "letra": "B",
+        "texto": "o autor poderá alterar o pedido ou a causa de pedir, independentemente de nova citação do réu, quando ocorrer a revelia."
+      },
+      {
+        "letra": "C",
+        "texto": "formulado pedido certo e determinado, autor e réu têm interesse recursal em arguir o vício da sentença ilíquida."
+      },
+      {
+        "letra": "D",
+        "texto": "a conexão determina a reunião dos processos, ainda no caso de um deles já ter sido julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "358997",
+    "metadata": "Ano: 2010 | Banca: TRT 3R | Órgão: TRT - 3ª Região (MG)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "No que concerne às normas do processo civil, marque a opção INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contra o revel que não tenha advogado constituído nos autos correrão os prazos processuais independente de intimação, a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "B",
+        "texto": "Não pode o réu, em seu próprio nome, reconvir ao autor, quando este demandar em nome de outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "A desistência da ação, ou a existência de qualquer causa que a extinga, não obsta ao prosseguimento da reconvenção"
+      },
+      {
+        "letra": "D",
+        "texto": "Os originais dos documentos digitalizados deverão ser preservados pelo seu detentor até o trânsito em julgado da decisão do processo"
+      },
+      {
+        "letra": "E",
+        "texto": "Fazem a mesma prova que os originais as cópias reprográficas de peças do próprio processo judicial declaradas autênticas pelo próprio advogado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "92807",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: DETRAN-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Não se aplicam os efeitos da revelia contra a fazenda pública, uma vez que indisponíveis os interesses em jogo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "78853",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Das Partes e Procuradores",
+      "Revelia",
+      "Sujeitos da relação processual"
+    ],
+    "enunciado_principal": "Em uma ação ordinária de cobrança, o juiz verificou que a ré, pessoa jurídica de direito privado, apresentou contestação desacompanhada dos respectivos estatutos, impossibilitando a verificação de quem tinha legitimidade para representá-la. Em vista disso, o juiz marcou o prazo de dez dias para ser sanado o defeito. Caso o despacho não seja cumprido dentro do prazo estabelecido, o juiz",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extinguirá o processo sem julgamento do mérito."
+      },
+      {
+        "letra": "B",
+        "texto": "nomeará curador à lide."
+      },
+      {
+        "letra": "C",
+        "texto": "decretará a revelia da ré."
+      },
+      {
+        "letra": "D",
+        "texto": "destituirá o advogado da ré."
+      },
+      {
+        "letra": "E",
+        "texto": "reconhecerá a nulidade do processo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "77344",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TCE-RO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "O patrono do réu juntou aos autos procuração com poder para receber a citação inicial e fez carga dos autos para apresentar defesa. O réu foi reputado revel porque não foi apresentada a contestação. Desse momento em diante, o réu",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deverá ser intimado dos atos processuais ulteriores."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá apresentar objeção de incompetência absoluta e pedir a nulidade dos atos decisórios."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá oferecer exceção de incompetência relativa a pedir a remessa do processo para outra Comarca."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá alegar prescrição com prejuízo para o seu credor legítimo."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá oferecer denunciação da lide, reconvenção e ação declaratória incidental."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "75683",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: METRÔ-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A respeito da revelia, considere: I. Se houver pluralidade de réus e algum deles contestar a ação, não serão reputados verdadeiros os fatos afirmados pelo autor. II. Ocorrendo a revelia, o autor poderá alterar o pedido, ou a causa de pedir, independentemente de promover nova citação do réu. III. Contra o revel que não tenha patrono nos autos correrão os prazos, independentemente de intimação, a partir da publicação de cada ato decisório. IV. Decretada a revelia, não poderá o revel intervir no processo, devendo aguardar a prolação da sentença. De acordo com o Código de Processo Civil, está correto o que consta APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "74597",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: MPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "A ausência de contestação por parte do réu em relação a ação proposta em face configura revelia.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "68345",
+    "metadata": "Ano: 2010 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas a respeito da revelia e seus efeitos.I. Ocorrendo a revelia, o juiz conhecerá diretamente do pedido, proferindo sentença.II. Serão aplicados os efeitos da revelia mesmo se, havendo pluralidade de réus, algum deles contestar a ação.III. Ocorrendo revelia, poderá o autor alterar seu pedido ou a causa de pedir, independentemente de nova citação do réu.IV. O revel apenas poderá intervir no processo antes da sentença.A análise permite concluir que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas as afirmativas III e IV são corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas as afirmativas I e III são corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "apenas a afirmativa I é correta."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas as afirmativas II e IV são corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "67737",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: PGM - RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "Independentemente da natureza da lide e das partes envolvidas, se o réu deixar de contestar a ação, o juiz deverá julgar a lide antecipadamente, proferindo sentença de total procedência, em decorrência da presunção de veracidade dos fatos constitutivos do direito do autor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "67736",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: PGM - RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia",
+      "Respostas do réu - Contestação"
+    ],
+    "enunciado_principal": "Se o réu deixar de contestar a ação, configurar-se-ão revelia e presunção de veracidade dos fatos articulados pelo autor na petição inicial. Nesse caso, o efeito processual será sempre o julgamento antecipado da lide.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "67735",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: PGM - RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Configurada a revelia, o réu poderá intervir no processo em qualquer fase, caso em que o receberá no estado em que se encontre, podendo, inclusive, produzir provas se ingressar no decurso da instrução. Além disso, ainda que o réu se habilite no processo após a publicação da sentença, será admissível a interposição de recurso de apelação, desde que não tenha transcorrido o prazo recursal.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "64865",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: DPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Identificada a revelia pela apresentação tardia da contestação, os demais prazos contra o réu correrão independentemente de intimação, salvo se este realizar pedido contrário a tal medida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "64864",
+    "metadata": "Ano: 2010 | Banca: CESPE / CEBRASPE | Órgão: DPU",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Artur ajuizou contra Ricardo ação na qual objetiva a posse de imóvel que alega ser de sua propriedade e instruiu a inicial com contrato de compra e venda lavrado por instrumento particular e assinado por duas testemunhas. Após a citação, Ricardo apresentou, por meio de advogado devidamente constituído, contestação no décimo sexto dia após a juntada aos autos do mandado devidamente cumprido.Considerando essa situação hipotética, julgue os itens a seguir.Apesar da revelia, será inviável o julgamento antecipado da lide, considerando-se o exame da documentação que acompanha a inicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "62327",
+    "metadata": "Ano: 2010 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TJ-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Sobre a revelia, assinale a afirmativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É a pena aplicada à parte que deduz pretensão ou defesa contra texto expresso de lei ou fato incontroverso."
+      },
+      {
+        "letra": "B",
+        "texto": "É o efeito da citação inválida."
+      },
+      {
+        "letra": "C",
+        "texto": "Decorre da ausência de apresentação de defesa pelo réu citado."
+      },
+      {
+        "letra": "D",
+        "texto": "Implica procedência dos pedidos iniciais."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "58601",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TRT - 9ª REGIÃO (PR)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "A respeito da revelia, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se, havendo pluralidade de réus, algum deles contestar a ação, reputar-se-ão verdadeiros os fatos afirmados pelo autor para aqueles que não apresentarem contestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Se ocorrer a revelia, o autor não poderá alterar o pedido, mas poderá alterar a causa de pedir, independentemente de nova citação."
+      },
+      {
+        "letra": "C",
+        "texto": "Contra o revel que não tenha patrono nos autos, os prazos correrão, independentemente de intimação, a partir da publicação de cada ato decisório."
+      },
+      {
+        "letra": "D",
+        "texto": "O revel poderá intervir no processo em qualquer fase, sendo-lhe lícito apresentar contestação, ainda que fora do prazo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "Se ocorrer a revelia, o autor poderá demandar declaração incidente, independentemente de nova citação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "200956",
+    "metadata": "Ano: 2009 | Banca: MS CONCURSOS | Órgão: TRE-SC",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Revelia"
+    ],
+    "enunciado_principal": "Acerca dos efeitos da revelia, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Verificando­se a ocorrência da revelia, em regra, estará o autor desobrigado de provar os fatos constitutivos de seu direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Os efeitos da revelia não ocorrerão se os fatos alegados pelo autor versar sobre direitos indisponíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso o réu injustificadamente não compareça à audiência, deverá o juiz proferir desde logo a sentença, reputando como verdadeiros os fatos alegados na petição inicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Não ocorrerão os efeitos da revelia se, havendo pluralidade de réus, algum deles contestar a ação."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

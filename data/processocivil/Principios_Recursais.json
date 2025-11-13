@@ -1,0 +1,814 @@
+[
+  {
+    "id": "604216",
+    "metadata": "Ano: 2015 | Banca: IBFC | Órgão: Docas - PB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta conforme as disposições da Lei federal n° 5.869, de 11/01/1973, que instituiu o código de processo civil brasileiro sobre os princípios processuais aplicáveis aos recursos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da unicidade estabelece que apenas a lei federal pode dispor sobre as espécies recursais."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da taxatividade estabelece que as custas processuais devem ser recolhidas pela parte que interpuser o recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio do duplo grau de jurisdição tem previsão expressa na Constituição Federal brasileira, constituindo garantia inderrogável."
+      },
+      {
+        "letra": "D",
+        "texto": "A proibição de reformatio in pejus não se aplica às matérias de ordem pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "580875",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: SAEG - SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Pelo princípio da unirrecorribilidade recursal para cada ato judicial caberá um recurso específico. Sobre este tema, é correto afirmar que caberá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "agravo de instrumento da decisão que extingue a execução ao julgar procedente a impugnação ao cumprimento de sentença apresentada pelo executado."
+      },
+      {
+        "letra": "B",
+        "texto": "apelação que será recebida no seu duplo efeito contra sentença que confirmar a antecipação de tutela."
+      },
+      {
+        "letra": "C",
+        "texto": "agravo de instrumento da decisão proferida em sede de audiência de instrução e julgamento que indefere a contradita apresentada por uma das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "apelação que deverá ser recebida apenas no efeito devolutivo contra sentença que julga procedente o pedido de instituição de arbitragem."
+      },
+      {
+        "letra": "E",
+        "texto": "embargos infringentes da decisão não unanime do Tribunal que houver julgado improcedente ação rescisória."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "558062",
+    "metadata": "Ano: 2015 | Banca: IESES | Órgão: TRE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Em relação aos recursos, responda: I. Da decisão que indeferir a petição inicial cabe apelação, sendo facultado ao juiz prolator reforma-la antes da remessa ao Tribunal. II. Com base no princípio da unicidade recursal, o recurso interposto por um dos litisconsortes não aproveita aos demais. III. Depois de apresentadas as contra-razões pela parte adversa, e distribuído o recurso ao relator, não pode mais a parte desistir do recurso. Assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva I é verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas são verdadeiras"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e III são verdadeiras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "467948",
+    "metadata": "Ano: 2015 | Banca: FCC | Órgão: TCM-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Nos recursos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "como regra geral, a sentença substitui o julgamento proferido pelo tribunal no que tiver sido objeto de recurso, não incidindo o efeito substitutivo em segundo grau de jurisdição."
+      },
+      {
+        "letra": "B",
+        "texto": "a questão da tempestividade da interposição está afeta sempre ao tribunal, não cabendo ao juiz prolator da decisão ou sentença sua análise prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "o sistema processual civil não permite em nenhuma hipótese o efeito translativo recursal, pelo qual fica o tribunal autorizado a julgar fora do que consta das razões ou contrarrazões recursais."
+      },
+      {
+        "letra": "D",
+        "texto": "por ausência de previsão legal, não é mais possível aplicar-se o princípio da fungibilidade recursal em nenhum caso, ou seja, a possibilidade de o tribunal conhecer do recurso interposto erroneamente, recebendo-se o recurso correto à hipótese dos autos."
+      },
+      {
+        "letra": "E",
+        "texto": "ocorre o princípio da singularidade, pelo qual para cada decisão judicial recorrível é cabível um único tipo de recurso, vedado à parte ou interessado interpor mais de um tipo de recurso contra a mesma decisão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "462902",
+    "metadata": "Ano: 2014 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta uma afirmação correta sobre o sistema recursal vigente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando na decisão recorrida coexistirem questão federal e questão constitucional, de modo autônomo, à parte vencida cabe optar por um por ou outro, vez que, em virtude do princípio da singularidade, para cada ato judicial recorrível há um único recurso previsto no ordenamento, sendo vedada a interposição simultânea ou cumulativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Em se tratando de agravo retido, este deverá ser interposto diretamente no Tribunal, enquanto o agravo de instrumento é interposto perante o juízo a quo, cabendo a ele processar o recurso."
+      },
+      {
+        "letra": "C",
+        "texto": "O Princípio da Fungibilidade, em nenhuma hipótese, é aplicável ao Recurso Extraordinário, tampouco ao Recurso Especial."
+      },
+      {
+        "letra": "D",
+        "texto": "Impõe-se julgamento de improcedência, nos casos em que aquele que se saiu vencedor na ação, diante de sentença que não lhe causa qualquer prejuízo, ainda assim, interpõe apelação."
+      },
+      {
+        "letra": "E",
+        "texto": "Conhecido o recurso e a ele sendo negado provimento, confirmando-se, então, a decisão de primeiro grau, não se dá o efeito substitutivo, razão pela qual é a sentença e não o acórdão que poderá vir a ser impugnada por ação rescisória."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "457802",
+    "metadata": "Ano: 2014 | Banca: FCC | Órgão: TRT - 24ª REGIÃO (MS)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Apelação no CPC 1973",
+      "Princípios Recursais",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Em relação aos princípios gerais e efeitos dos recursos, é correto que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o princípio da singularidade ou da unirrecorribilidade é o que estabelece caber, para cada ato judicial, um único recurso adequado."
+      },
+      {
+        "letra": "B",
+        "texto": "em regra, a apelação é recebida somente no efeito devolutivo, sem suspensividade, que é excepcional."
+      },
+      {
+        "letra": "C",
+        "texto": "a decisão que atribui efeitos ao recurso é irrecorrível, salvo se possibilitar a execução provisória do julgado."
+      },
+      {
+        "letra": "D",
+        "texto": "o princípio da fungibilidade recursal, previsto expressamente no ordenamento processual, tem como principal requisito a dúvida objetiva quanto ao recurso cabível, desde que não haja má-fé ou erro grosseiro."
+      },
+      {
+        "letra": "E",
+        "texto": "os efeitos em que recebidos os recursos constituem matéria dispositiva, sujeita a preclusão para o órgão judicante."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "416872",
+    "metadata": "Ano: 2014 | Banca: IADES | Órgão: CONAB",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Dos Atos Processuais",
+      "Recursos",
+      "Procedimento ordinário",
+      "Prazos",
+      "Coisa Julgada no CPC 1973",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Quanto à coisa julgada, conforme o Código Processual Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fazem coisa julgada os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "Faz coisa julgada a apreciação da questão prejudicial, decidida incidentemente no processo."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível à parte discutir, no curso do processo, as questões já decididas, a cujo respeito se operou a preclusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal, a sentença proferida contra a União, o estado, o Distrito Federal, o município e as respectivas autarquias e fundações de direito público."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se sujeita ao duplo grau de jurisdição a sentença que julgar procedentes, no todo ou em parte, os embargos à execução de dívida ativa da Fazenda Pública."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "381217",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Acerca de recursos, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A renúncia ao direito de recorrer depende da aceitação da outra parte."
+      },
+      {
+        "letra": "B",
+        "texto": "Segundo a jurisprudência do STJ, quando a interposição do recurso ocorrer em horário posterior ao do encerramento do expediente bancário, admite-se a juntada da guia de recolhimento do preparo no primeiro dia útil seguinte"
+      },
+      {
+        "letra": "C",
+        "texto": "O recurso na modalidade adesiva será interposto no prazo de que a parte dispõe para responder e, segundo entendimento do STJ, estará condicionado à apresentação das contrarrazões ao recurso principal."
+      },
+      {
+        "letra": "D",
+        "texto": "De acordo com a jurisprudência do STJ, aplica-se o princípio da fungibilidade recursal, para que se supere a tempestividade com vistas a receber o recurso principal como recurso adesivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hipótese de interposição de recurso de agravo de instrumento, o relator poderá, entre outras providências, converter o recurso em agravo retido. Nessa situação, o agravante poderá, caso deseje reformar de imediato essa decisão, interpor recurso de agravo, no prazo de cinco dias, ao órgão competente para o julgamento do recurso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "362502",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Agravo retido",
+      "Agravo de instrumento",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Sobre o recurso de agravo, é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A petição de agravo de instrumento será instruída, obrigatoriamente, com cópias da decisão agravada, da certidão da respectiva intimação e das procurações outorgadas aos advogados do agravante e do agravado, de forma que, na ausência destes requisitos, o tribunal não poderá apreciar o mérito do recurso;"
+      },
+      {
+        "letra": "B",
+        "texto": "Caberá agravo nos casos de inadmissão da apelação e nos relativos aos efeitos em que a apelação é recebida, quando será admitida a sua interposição por instrumento;"
+      },
+      {
+        "letra": "C",
+        "texto": "Aplica-se o princípio da fungibilidade dos recursos no caso de interposição do agravo de instrumento ao invés de agravo retido, na hipótese de decisão interlocutória proferida em audiência de instrução de julgamento;"
+      },
+      {
+        "letra": "D",
+        "texto": "A lei confere expressamente ao relator o poder de atribuir efeito suspensivo ao recurso, de sorte a tornar desnecessária a impetração de mandado de segurança para tal fim, bastando à parte requerer dito efeito na própria petição que dirige ao tribunal;"
+      },
+      {
+        "letra": "E",
+        "texto": "Das decisões interlocutórias caberá agravo, na forma retida, salvo quando se tratar de decisão suscetível de causar à parte lesão grave e de difícil reparação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "362500",
+    "metadata": "Ano: 2014 | Banca: MPE-MA | Órgão: MPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais",
+      "Requisitos de admissibilidade",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Acerca da sistemática recursal é correto afirmar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A legitimidade recursal do Ministério Público é ampla nas hipóteses em que atua como parte, mas quando figura como fiscal da lei não possui interesse recursal para a interposição de recurso adesivo;"
+      },
+      {
+        "letra": "B",
+        "texto": "O efeito devolutivo da apelação é manifestação direta do princípio dispositivo, de modo que o tribunal não fica adstrito à matéria efetivamente impugnada;"
+      },
+      {
+        "letra": "C",
+        "texto": "O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso, porém a lei exige a homologação judicial para a eficácia da desistência;"
+      },
+      {
+        "letra": "D",
+        "texto": "A teoria geral dos recursos é informada pelos princípios do duplo grau de jurisdição, da taxatividade, da singularidade, da fungibilidade e da proibição da reformatio in peius;"
+      },
+      {
+        "letra": "E",
+        "texto": "O reexame necessário possui natureza jurídica recursal porque se reveste das características próprias dos recursos, dentre elas tipicidade, tempestividade, e interesse em recorrer."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "361588",
+    "metadata": "Ano: 2014 | Banca: CESPE / CEBRASPE | Órgão: PGE-BA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Não havendo prejuízo à ampla defesa, o juiz, aplicando o princípio da complementariedade, poderá aceitar as razões apresentadas após a interposição do recurso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "740606",
+    "metadata": "Ano: 2013 | Banca: COPS-UEL | Órgão: AFPR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "A possibilidade de que uma das partes no processo judicial não seja prejudicada pela interposição de um recurso por outro deriva da observância do princípio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dilatecidade."
+      },
+      {
+        "letra": "B",
+        "texto": "fungibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "voluntariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "correlação."
+      },
+      {
+        "letra": "E",
+        "texto": "unirrecorribilidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "433753",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: FUNDAÇÃO PRÓ-SANGUE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Efeitos dos recursos",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Os recursos constituem um importante mecanismo processual no sistema pátrio. Comportam diversas classificações e apresentam características que os individualizam. Contudo, na análise da sistemática recursal, podemos identificar elementos comuns, que são inerentes a todo e qualquer recurso integrante do nosso sistema.Assinale a alternativa que se refere a um instituto que não guarda relação com a sistemática de interposição de recursos no sistema brasileiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recurso adesivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Duplo grau de jurisdição"
+      },
+      {
+        "letra": "C",
+        "texto": "Reexame necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Recursos ordinários."
+      },
+      {
+        "letra": "E",
+        "texto": "Efeito devolutivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "401391",
+    "metadata": "Ano: 2013 | Banca: PGE-GO | Órgão: PGE-GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Recurso Especial",
+      "Recurso Extraordinário",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Os recursos extraordinários lato sensu, em contraposição aos recursos ordinários, têm como finalidade precípua a aplicação do direito positivo, mormente para fins de uniformização de sua interpretação. Sobre o recurso extraordinário e o recurso especial, está CORRETA a seguinte proposição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo princípio da singularidade recursal, não se admite a interposição simultânea do recurso extraordinário e do recurso especial, devendo este ser interposto primeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se exige o exaurimento das vias recursais ordinárias para o cabimento dos recursos extraordinários."
+      },
+      {
+        "letra": "C",
+        "texto": "É necessário quórum de 2/3 do Supremo Tribunal Federal para o reconhecimento da repercussão geral do recurso extraordinário interposto."
+      },
+      {
+        "letra": "D",
+        "texto": "Admite-se recurso especial quanto à questão que, apesar da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cabe recurso extraordinário quando a decisão recorrida julgar válida lei local contestada diante de lei federal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "371026",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-PI",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Procedimento sumário",
+      "Princípios Recursais",
+      "Requisitos de admissibilidade",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Acerca de recursos cíveis, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo efeito translativo, devolve-se a matéria impugnada ao órgão judiciário prolator da decisão recorrida."
+      },
+      {
+        "letra": "B",
+        "texto": "No procedimento sumário, são cabíveis todas as espécies de recursos previstas no direito processual brasileiro."
+      },
+      {
+        "letra": "C",
+        "texto": "A falta de preparo implicará a deserção do recurso caso a interposição deste ocorra após o encerramento do expediente bancário."
+      },
+      {
+        "letra": "D",
+        "texto": "Formulado pedido certo e determinado, o réu terá interesse recursal para arguir o vício da iliquidez da sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da singularidade refere-se à possibilidade da interposição do recurso de agravo de instrumento caso seja cabível o recurso de apelação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "359241",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: TJ-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo retido",
+      "Princípios Recursais",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Quanto à teoria geral dos recursos e as espécies recursais, assinale a afirmativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O efeito expansivo subjetivo (ou dimensão subjetiva do efeito evolutivo) ocorre quando a decisão de um recurso atingir uma parte que não figurou na relação recursal."
+      },
+      {
+        "letra": "B",
+        "texto": "O princípio da complementariedade excepciona a preclusão consumativa, em caso de provimento de embargos de declaração que gerem nova sucumbência, autorizando-se o aditamento às razões"
+      },
+      {
+        "letra": "C",
+        "texto": "O Tribunal pode, em recurso impugnando sentença terminativa, julgar diretamente o mérito, de ofício, se as razões fundarem-se em error in procedendo e matéria fática, vedada a reformatio in pejus."
+      },
+      {
+        "letra": "D",
+        "texto": "O agravo retido independe de preparo e deverá ser expressamente reiterada sua apreciação pelo Tribunal, nas razões ou contrarrazões de apelação"
+      },
+      {
+        "letra": "E",
+        "texto": "O Juiz não receberá o recurso de apelação quando a sentença estiver em conformidade com súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "329211",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: TJ-RR",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Princípios Gerais do Processo",
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "Considere que, tendo sido proferida sentença de mérito, uma das partes tenha interposto pedido de reconsideração e o juiz tenha recebido o pedido como embargos de declaração. Nesse caso, o magistrado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "afrontou o princípio da taxatividade."
+      },
+      {
+        "letra": "B",
+        "texto": "obedeceu ao princípio da fungibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "violou o princípio da consumação."
+      },
+      {
+        "letra": "D",
+        "texto": "atendeu ao princípio da complementaridade."
+      },
+      {
+        "letra": "E",
+        "texto": "desrespeitou o princípio da singularidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "322638",
+    "metadata": "Ano: 2013 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais",
+      "Recurso adesivo"
+    ],
+    "enunciado_principal": "Acerca do Recurso é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aplicação do princípio da fungibilidade tem cabimento quando haja dúvida objetiva, capaz de autorizar a interpretação inadequada do sistema processual e o seu uso equivocado, ou seja, quando haja dúvida objetiva a respeito do recurso cabível e quando não haja erro grosseiro na interposição do recurso."
+      },
+      {
+        "letra": "B",
+        "texto": "Um dos princípios que orienta a interpretação do sistema recursal é o da taxatividade, que determina que recursos são apenas os criados por lei federal, e indica que, para cada espécie de ato judicial a ser recorrido, deve ser cabível um único recurso, cuja função e cabimento também deve estar estipulada em lei processual."
+      },
+      {
+        "letra": "C",
+        "texto": "O recurso adesivo só tem cabimento em caso de sucumbência recíproca, podendo ser interposto na hipótese de uma das partes interpor: apelação, embargos de declaração, embargos infringentes, recurso especial e recurso extraordinário, além de recurso ordinário constitucional, este por interpretação jurisprudencial."
+      },
+      {
+        "letra": "D",
+        "texto": "A regra é a de que os recursos são dotados de efeito suspensivo, porém, excepcionalmente, a lei permite que a decisão se torne eficaz antes de transitada em julgado, mas apenas em relação a alguns de seus efeitos."
+      },
+      {
+        "letra": "E",
+        "texto": "À semelhança do efeito devolutivo, o efeito translativo do recurso autoriza o Judiciário conhecer em qualquer tempo ou grau de jurisdição, ainda que sem expressa manifestação das partes, acerca da inexistência ou nulidade da citação; perempção; litispendência; coisa julgada; conexão; carência de ação; e falta de caução ou de outra prestação."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "506981",
+    "metadata": "Ano: 2012 | Banca: FEMPERJ | Órgão: TCE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Embargos de Declaração no CPC 1973",
+      "Apelação no CPC 1973",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Quantos aos recursos no processo civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em função do efeito translativo dos recursos, a apelação devolve obrigatoriamente ao tribunal o conhecimento de todos os fundamentos do pedido, ainda que eles não tenham sido deduzidos nas razões;"
+      },
+      {
+        "letra": "B",
+        "texto": "após a proclamação do resultado do julgamento e encerrada a prestação jurisdicional no tocante à apelação, é possível a correção de erro material no acórdão, ainda que isso importe em alteração do decidido, em atenção aos princípios da economia processual, instrumentalidade das formas e da segurança jurídica;"
+      },
+      {
+        "letra": "C",
+        "texto": "não há nulidade do julgamento em órgão colegiado do qual participou Ministro impedido, se o seu voto não foi decisivo para o resultado;"
+      },
+      {
+        "letra": "D",
+        "texto": "a determinação do juízo de primeiro grau para que se recolha a taxa judiciária sob pena de cancelamento da distribuição é impugnável por apelação, visto tratar-se de decisão com força definitiva;"
+      },
+      {
+        "letra": "E",
+        "texto": "compete ao órgão colegiado o julgamento dos embargos de declaração opostos contra decisão monocrática do relator."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "426601",
+    "metadata": "Ano: 2012 | Banca: TRT 14R | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais",
+      "Juízo de admissibilidade e juízo de mérito"
+    ],
+    "enunciado_principal": "A respeito das regras do Código de Processo Civil que disciplinam os recursos, marque a única alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À luz do princípio da congruência, as questões de fato, não propostas no juízo inferior, não poderão ser suscitadas no recurso de apelação, ainda que provado que a inércia da parte recorrente decorreu de motivo de força maior."
+      },
+      {
+        "letra": "B",
+        "texto": "O simples fato de a sentença que extinguiu o processo com resolução de mérito encontrar-se em consonância com súmula do Supremo Tribunal Federal não autoriza o juiz, no exercício do juízo de admissibilidade a quo, a denegar seguimento ao recurso de apelação."
+      },
+      {
+        "letra": "C",
+        "texto": "Se, durante o prazo para a interposição do recurso, sobrevier o falecimento do advogado da parte que pretende recorrer, o prazo será suspenso, recomeçando a correr pelo que faltava depois da nova intimação."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas hipóteses de nulidades sanáveis, o Tribunal poderá prosseguir no julgamento do recurso de apelação, caso seja possível intimar as partes para determinar a realização ou renovação do ato processual sobre o qual até então recaia o defeito."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando houver multiplicidade de recursos com fundamento em idêntica controvérsia, caberá ao Supremo Tribunal Federal selecionar um ou mais recursos, determinando ao Tribunal de origem que encaminhem os autos de todos os recursos à Suprema Corte, local em que os processos ficaram sobrestados até o pronunciamento definitivo sobre a repercussão geral e, caso ultrapassada esta, sobre o mérito da controvérsia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "365659",
+    "metadata": "Ano: 2012 | Banca: FDC | Órgão: Prefeitura de Petrópolis - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "São requisitos da aplicação do princípio da fungibilidade recursal, de acordo com a doutrina majoritária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inexistência de má-fé e existência do recurso interposto;"
+      },
+      {
+        "letra": "B",
+        "texto": "existência de dúvida objetiva e tempestividade do recurso;"
+      },
+      {
+        "letra": "C",
+        "texto": "prova inequívoca da verossimilhança do pedido e periculum in mora;"
+      },
+      {
+        "letra": "D",
+        "texto": "fumaça do bom direito e tempestividade do recurso;"
+      },
+      {
+        "letra": "E",
+        "texto": "erro quanto ao pronunciamento do juiz e interesse recursal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "249340",
+    "metadata": "Ano: 2012 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Princípios Recursais",
+      "Efeitos dos recursos"
+    ],
+    "enunciado_principal": "Considere: I. Conhecido o recurso extraordinário interposto em razão do julgamento de validade de lei local contestada em face da lei federal, pode o Supremo Tribunal Federal examinar a existência de violação de dispositivo da Constituição da República, ainda que não invocado pelo recorrente. II. O recurso é o remédio voluntário idôneo a ensejar necessariamente dentro dos mesmos autos, a reforma, a invalidação, o esclarecimento ou a integração da decisão judicial que se impugna. III. A matéria veiculada no recurso adesivo deve guardar necessariamente relação com a matéria objeto do recurso principal. IV. A pessoa com interesse na controvérsia inserta em recurso especial repetitivo pode opor embargos de declaração contra o julgamento deste. V. A parte que aceita tacitamente a sentença ou a decisão não tem o direito subjetivo de recorrer. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "I e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "207710",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: AL-ES",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Teoria Geral dos Recursos - Conceito",
+      "Apelação no CPC 1973",
+      "Agravo de instrumento",
+      "Classificação dos Recursos",
+      "Princípios Recursais",
+      "Juízo de admissibilidade e juízo de mérito",
+      "Requisitos de admissibilidade"
+    ],
+    "enunciado_principal": "Acerca dos recursos no processo civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O primeiro juízo de admissibilidade do recurso de apelação, realizado pelo juiz a quo, deve restringir-se às questões formais típicas, tais como a tempestividade e o preparo, sem jamais adentrar o seu mérito, que é de competência exclusiva do tribunal ad quem."
+      },
+      {
+        "letra": "B",
+        "texto": "Será incabível a interposição de embargos infringentes de acórdão da 1.ª Câmara Cível do tribunal que, por maioria, confirmou a sentença de mérito na parte em que esta reconheceu obrigação de indenizar."
+      },
+      {
+        "letra": "C",
+        "texto": "A reiteração, na apelação, dos mesmos argumentos apresentados na contestação — e já afastados pela sentença — impede o conhecimento do recurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo recente posicionamento do STF, é inconstitucional, por afronta ao princípio da motivação das decisões judiciais, decisão de turma recursal de juizados especiais que adote os mesmos fundamentos da sentença questionada."
+      },
+      {
+        "letra": "E",
+        "texto": "Em agravo de instrumento, mesmo que tenham sido apresentadas todas as peças obrigatórias exigidas conforme o Código de Processo Civil, o relator poderá não conhecer o recurso sob o argumento de que a ordem de juntada dos documentos torna difícil a exata compreensão da controvérsia."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "495187",
+    "metadata": "Ano: 2010 | Banca: IV - UFG | Órgão: Prefeitura de Aparecida de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Recursos",
+      "Princípios Recursais"
+    ],
+    "enunciado_principal": "De acordo com um dos princípios fundamentais dos recursos cíveis, “para cada ato judicial recorrível há um único recurso previsto pelo ordenamento, sendo vedada a interposição cumulativa de mais outro visando a impugnação do mesmo ato judicial”. Esse enunciado refere-se aoprincípio da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "singularidade"
+      },
+      {
+        "letra": "B",
+        "texto": "taxatividade"
+      },
+      {
+        "letra": "C",
+        "texto": "dialeticidade."
+      },
+      {
+        "letra": "D",
+        "texto": "consumação."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

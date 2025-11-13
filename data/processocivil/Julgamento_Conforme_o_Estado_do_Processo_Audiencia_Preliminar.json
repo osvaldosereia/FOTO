@@ -1,0 +1,35 @@
+[
+  {
+    "id": "616153",
+    "metadata": "Ano: 2015 | Banca: CEPERJ | Órgão: Prefeitura de Saquarema - RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Julgamento Conforme o Estado do Processo: Audiência Preliminar"
+    ],
+    "enunciado_principal": "No procedimento ordinário, existem requisitos que devem compor a peça exordial. Nos litígios que tenham por objeto obrigações decorrentes de empréstimo, financiamento ou arrendamento mercantil, o autor deverá discriminar na petição inicial o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acordo possível"
+      },
+      {
+        "letra": "B",
+        "texto": "mediador indicado"
+      },
+      {
+        "letra": "C",
+        "texto": "árbitro escolhido"
+      },
+      {
+        "letra": "D",
+        "texto": "prazo de pagamento"
+      },
+      {
+        "letra": "E",
+        "texto": "valor incontroverso"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

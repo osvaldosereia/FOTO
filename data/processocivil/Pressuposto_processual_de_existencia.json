@@ -1,0 +1,114 @@
+[
+  {
+    "id": "482532",
+    "metadata": "Ano: 2015 | Banca: FUNDEP (Gestão de Concursos) | Órgão: TCE-MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Da ação",
+      "Condições da ação",
+      "Sujeitos da relação processual",
+      "Obrigações de entrega de coisa",
+      "Pressupostos Processuais",
+      "Capacidade de Ser Parte",
+      "Capacidade ou Representação Processual",
+      "Capacidade Postulatória",
+      "Pressuposto processual de existência"
+    ],
+    "enunciado_principal": "Sobre o Direito Processual Civil, julgue os itens a seguir. I. Os pressupostos processuais, diferentemente do que ocorre com as condições da ação, não podem ser aferidos de ofício pelo magistrado, haja vista que o sistema processual brasileiro assenta-se no princípio dispositivo que confere apenas às partes litigantes o poder de provocar o juiz para o exame de tais pressupostos. II. Para propor ação é necessário ter interesse e legitimidade. Para contestar, basta ter legitimidade. III. Admite-se que o cumprimento da sentença seja requerido no juízo do local onde se encontram bens sujeitos à expropriação ou no atual domicílio do executado, não caracterizando ofensa ao princípio do juiz natural. IV. A procuração para o foro em geral, assinada pelo réu, habilita seu advogado os poderes para a maioria dos atos processuais, excetuando-se, entre outros, a receber citação inicial, a ser intimado dos atos processuais e a reconhecer a procedência do pedido, que necessitam de outorga específica constante do instrumento do mandato. Está(ão) CORRETO(S) o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "IV apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "492062",
+    "metadata": "Ano: 2014 | Banca: COPESE - UFT | Órgão: Prefeitura de Araguaína - TO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Das Partes e Procuradores",
+      "Sujeitos da relação processual",
+      "Pressupostos Processuais",
+      "Capacidade ou Representação Processual",
+      "Capacidade Postulatória",
+      "Pressuposto processual de existência"
+    ],
+    "enunciado_principal": "O Código de Processo Civil estabelece que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a União será representada em juízo, ativa e passivamente, pelo presidente ou por seu procurador."
+      },
+      {
+        "letra": "B",
+        "texto": "o Estado será representado em juízo, ativa e passivamente, por seu governador ou procurador."
+      },
+      {
+        "letra": "C",
+        "texto": "o Território será representado em juízo, ativa e passivamente, por seu governador ou procurador."
+      },
+      {
+        "letra": "D",
+        "texto": "o Município será representado em juízo, ativa e passivamente, por seu prefeito ou procurador."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "487539",
+    "metadata": "Ano: 2012 | Banca: TRT 8R | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Sentença",
+      "Procedimento ordinário",
+      "Coisa Julgada no CPC 1973",
+      "Julgamento Conforme o Estado do Processo: Extinção do Processo com ou sem Resolução de Mérito",
+      "Pressupostos Processuais",
+      "Pressuposto processual de existência"
+    ],
+    "enunciado_principal": "Considerando o ato decisório do juiz, marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma das novidades trazida pela Lei n. 11.232/2005, que alterou o Código de Processo Civil, está na exigência de sentenças de mérito que não extingam o processo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas nas sentenças condenatória e constitutiva de direito cabe o acolhimento do pedido sem extinção do processo"
+      },
+      {
+        "letra": "C",
+        "texto": "Nos casos em que o processo ficar parado durante mais de 1 (um) ano por negligência das partes, ou quando o autor, por não promover os atos e diligências que lhe competir abandonar a causa por mais de 30 (trinta) dias, o juiz ordenará o arquivamento dos autos, declarando a extinção do processo, se a parte, intimada através de seu representante legal, deixar de suprir a falta em 48 (quarenta e oito) horas."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz conhecerá de ofício, em qualquer tempo e grau de jurisdição, enquanto não proferida a sentença de mérito, as matérias relativas à ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, a alegação de perempção, litispendência ou de coisa julgada e as condições da ação, desde que o réu as alegue na primeira oportunidade em que lhe caiba falar nos autos, sob pena de pagamento das custas processuais de retardamento."
+      },
+      {
+        "letra": "E",
+        "texto": "A parte dispositiva da sentença reveste-se da autoridade da coisa julgada material, com exceção dos motivos nela expostos, ainda que importantes para determinar o alcance de sua parte dispositiva."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

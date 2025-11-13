@@ -1,0 +1,70 @@
+[
+  {
+    "id": "599852",
+    "metadata": "Ano: 2015 | Banca: IV - UFG | Órgão: Prefeitura de Goiânia - GO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Intervenção de terceiros",
+      "Das Partes e Procuradores",
+      "Cumprimento de sentença",
+      "Sujeitos da relação processual",
+      "Obrigações de fazer e não fazer/tutela inibitória: astreinte",
+      "Conceito e Classificação da Intervenção de Terceiros",
+      "Obrigações de fazer e não fazer/tutela inibitória: conversão em perdas e danos",
+      "Obrigações de fazer e não fazer/tutela inibitória: tutela específica e resultado prático equivalente"
+    ],
+    "enunciado_principal": "A última década revela um notável aumento na judicialização das políticas públicas de saúde no Brasil, notadamente em razão de demandas judiciais relativas ao fornecimento de medicamentos e tratamentos de saúde. A par de tais fatos, sob o viés processual civil da questão, conclui-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o município não possui legitimidade passiva para figurar em demandas cujo objeto seja o fornecimento de medicamento de alto custo, já que sua responsabilidade é subsidiária ante as atribuições da União e dos Estados."
+      },
+      {
+        "letra": "B",
+        "texto": "a decisão que determina o fornecimento de medicamentos não poderá fixar astreintes em face da Fazenda Pública Municipal. Poderá, entretanto, se necessário, determinar o sequestro de valores da municipalidade (bloqueio) a fim de que seja efetivada."
+      },
+      {
+        "letra": "C",
+        "texto": "a ação proposta em face do Município visando à obtenção de medicamento, no caso de chamamento da União ao processo, deverá ser remetida à Justiça Federal, por força do artigo 109, I, da Constituição e Súmula 150 do STJ."
+      },
+      {
+        "letra": "D",
+        "texto": "a demanda que tenha por objetivo a entrega de medicamento pelo Poder Público pode ser ajuizada em face de qualquer um dos entes estatais ou em face de todos, conjuntamente, nesse último caso sendo competente para processar e julgar a causa a Justiça Federal."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "505980",
+    "metadata": "Ano: 2011 | Banca: TRT 16R | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Cumprimento de sentença",
+      "Obrigações de fazer e não fazer/tutela inibitória: conversão em perdas e danos"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na ação que tenha por objeto o cumprimento de obrigação de fazer, ao conceder a tutela específica, poderá o juiz determinar providências que assegurem o resultado prático equivalente ao do adimplemento."
+      },
+      {
+        "letra": "B",
+        "texto": "Antes da oitiva do réu, somente será concedida a tutela específica quando o direito afirmado pelo demandante puder ser lesado durante o espaço de tempo que é deferido para a apresentação da resposta ou se já se encontrar lesado no momento da postulação inicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Em qualquer hipótese poderá o juiz, ex officio, converter a tutela específica de obrigação de fazer em perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "Na concessão de tutela inibitória, o juiz poderá, ex officio, impor multa diária ao réu pelo descumprimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Na ação que tenha por objeto o cumprimento de obrigação de fazer, a indenização por perdas e danos dar-se-á sem prejuízo da multa por descumprimento da tutela específica."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

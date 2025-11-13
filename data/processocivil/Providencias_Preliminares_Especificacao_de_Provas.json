@@ -1,0 +1,107 @@
+[
+  {
+    "id": "597315",
+    "metadata": "Ano: 2015 | Banca: VUNESP | Órgão: CRO-SP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Respostas do réu - Reconvenção",
+      "Providências Preliminares: Especificação de Provas"
+    ],
+    "enunciado_principal": "Numa ação que verse sobre cobrança em decorrência de acidente de automóvel, dentro do que está previsto no Código de Processo Civil, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o réu dessa ação, caso entenda que possui direito a constituir contra o autor, poderá manejar reconvenção que será julgada na mesma sentença que analisar ou não o mérito da ação."
+      },
+      {
+        "letra": "B",
+        "texto": "para que não haja nulidade no procedimento, o réu deverá ser citado com no mínimo 15 dias de antecedência da realização da audiência na qual deverá comparecer."
+      },
+      {
+        "letra": "C",
+        "texto": "o autor da presente ação deverá comparecer pessoalmente em todas as audiências designadas para esse procedimento, não podendo fazer-se representar por outrem, sob pena de arquivamento da ação."
+      },
+      {
+        "letra": "D",
+        "texto": "tanto o autor como o réu da ação deverão apresentar rol de testemunhas e quesitos a serem respondidos pelo perito, na primeira oportunidade que falarem nos autos, ou seja, o autor na petição inicial e o réu na contestação."
+      },
+      {
+        "letra": "E",
+        "texto": "o juiz designará a audiência de conciliação a ser realizada no prazo de sessenta dias, citando-se o réu para que a essa sessão compareça, sendo que a ausência do réu, em nenhuma hipótese, importará em revelia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "535314",
+    "metadata": "Ano: 2011 | Banca: PGE-PA | Órgão: PGE-PA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Da Jurisdição",
+      "Procedimento ordinário",
+      "Conceito e características da jurisdição",
+      "Prova testemunhal",
+      "Providências Preliminares: Especificação de Provas",
+      "Audiência de Instrução de Julgamento - AIJ"
+    ],
+    "enunciado_principal": "Assinale a alternativa CORRETA: I - A jurisdição civil, contenciosa e voluntária, é exercida pelos juízes em todo território nacional, e somente será prestada quando a parte ou o interessado a requerer, nos casos e formas legais. II - A audiência de instrução e julgamento poderá ser adiada por convenção das partes, caso em que só será admissível por duas vezes. III - Quando for arrolado como testemunha o Juiz do feito, e este nada souber, mandará excluir seu nome do rol de testemunhas. IV - As modificações da situação de fato posteriores à propositura da ação são consideradas normalmente no deslinde do processo, salvo se suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia. V - O juiz poderá, de ofício, ou a requerimento das partes, determinar as medidas necessárias para a efetivação da tutela específica, dentre outros, a busca e apreensão, remoção de pessoas e coisas, desde que não seja necessária a requisição de força policial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as proposições I, III e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as proposições II, III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as proposições III, IV e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as proposições II, IV e V estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as proposições II e V estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "219482",
+    "metadata": "Ano: 2011 | Banca: CESPE / CEBRASPE | Órgão: DPE-MA",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências Preliminares: Especificação de Provas"
+    ],
+    "enunciado_principal": "João desconfia que os danos existentes no barco que seu vizinho Manoel vendeu a terceiro foram causados por colisão com o seu próprio barco, que amanhecera avariado.Nessa situação hipotética, João, com o fim de assegurar prova futura, deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ajuizar ação cautelar de produção antecipada de prova contra Manoel."
+      },
+      {
+        "letra": "B",
+        "texto": "ajuizar medida cautelar de exibição de natureza satisfativa."
+      },
+      {
+        "letra": "C",
+        "texto": "requerer incidente de exibição em ação ajuizada contra o atual possuidor do bem."
+      },
+      {
+        "letra": "D",
+        "texto": "ajuizar ação cautelar de exibição de coisa contra o terceiro."
+      },
+      {
+        "letra": "E",
+        "texto": "ajuizar ação cautelar de busca e apreensão."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

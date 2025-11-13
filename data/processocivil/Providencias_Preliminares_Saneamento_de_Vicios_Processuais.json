@@ -1,0 +1,130 @@
+[
+  {
+    "id": "612807",
+    "metadata": "Ano: 2015 | Banca: COTEC | Órgão: Prefeitura de Unaí - MG",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências Preliminares: Saneamento de Vícios Processuais"
+    ],
+    "enunciado_principal": "Quanto à estabilização da demanda, marque a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após a citação pode haver alteração de elemento objetivo da demanda desde que com anuência do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode haver alteração de elemento objetivo da demanda até o saneamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há estabilização da prova, podendo o juiz determinar prova de ofício por entendê-la imprescindível."
+      },
+      {
+        "letra": "D",
+        "texto": "A estabilização da demanda torna imodificável as partes – salvo as substituições permitidas por lei –, o pedido e a causa de pedir e se dá com a prolação da sentença."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "433757",
+    "metadata": "Ano: 2013 | Banca: FGV | Órgão: FUNDAÇÃO PRÓ-SANGUE",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências Preliminares: Saneamento de Vícios Processuais"
+    ],
+    "enunciado_principal": "Assinale a alternativa que indica corretamente como se operam as alterações objetivas em uma demanda.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre a propositura da demanda e a citação do réu, a realização de alterações objetivas dependem de expressa concordância do réu."
+      },
+      {
+        "letra": "B",
+        "texto": "As alterações objetivas nunca podem ser realizadas após a propositura das demandas."
+      },
+      {
+        "letra": "C",
+        "texto": "Após o saneamento do processo, a realização de alteração objetiva nas demandas depende de expressa concordância do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "Após o saneamento do processo, não se pode realizar nenhuma alteração objetiva nas demandas."
+      },
+      {
+        "letra": "E",
+        "texto": "Entre a citação do réu e o saneamento do processo, não se pode realizar nenhuma alteração objetiva nas demandas"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "105105",
+    "metadata": "Ano: 2011 | Banca: FCC | Órgão: TJ-AP",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências Preliminares: Saneamento de Vícios Processuais"
+    ],
+    "enunciado_principal": "O pedido ou a causa de pedir NÃO poderá mais ser alterado após",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recebimento da inicial."
+      },
+      {
+        "letra": "B",
+        "texto": "a citação do réu."
+      },
+      {
+        "letra": "C",
+        "texto": "o oferecimento de contestação por parte do réu."
+      },
+      {
+        "letra": "D",
+        "texto": "o despacho saneador."
+      },
+      {
+        "letra": "E",
+        "texto": "a réplica."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "59695",
+    "metadata": "Ano: 2010 | Banca: FCC | Órgão: TJ-MS",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Providências Preliminares: Saneamento de Vícios Processuais"
+    ],
+    "enunciado_principal": "Na decisão de saneamento do processo,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se o direito em litígio não admitir transação, ou se esta mostrar-se improvável, o juiz não deverá sanear e sim sentenciar desde logo o processo."
+      },
+      {
+        "letra": "B",
+        "texto": "como se deve presumir que as condições da ação já foram apreciadas anteriormente, o juiz não as examinará novamente, por se tratar de matéria preclusa."
+      },
+      {
+        "letra": "C",
+        "texto": "saneado o processo, deverá o juiz tentar então a conciliação das partes, determinando após as provas a serem produzidas."
+      },
+      {
+        "letra": "D",
+        "texto": "não obtida a conciliação, o juiz fixará os pontos controvertidos, decidirá questões processuais pendentes e determinará as provas a serem produzidas, se necessário designando audiência de instrução e julgamento."
+      },
+      {
+        "letra": "E",
+        "texto": "como se trata de decisão interlocutória, o recurso cabível, acolhidas ou não as preliminares levantadas pelo réu, será sempre o de apelação."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "412233",
+    "metadata": "Ano: 2014 | Banca: IBFC | Órgão: TRE-AM",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Confissão no CPC 1973",
+      "Prova testemunhal",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "Sobre as provas previstas no Código de Processo Civil, indique a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em se tratando de ação de filiação, a parte é obrigada a prestar depoimento pessoal sobre fato a cujo respeito, por estado ou filiação, deva guardar sigilo."
+      },
+      {
+        "letra": "B",
+        "texto": "A confissão, quando emanar de erro, dolo ou coação, somente pode ser revogada através de ação anulatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a testemunha for deputado estadual, o juiz solicitará que a autoridade indique o dia e a hora em que poderá comparecer ao fórum a fim de ser inquirida, remetendo- lhe cópia da petição inicial ou da defesa oferecida pela parte, que arrolou como testemunha."
+      },
+      {
+        "letra": "D",
+        "texto": "Na inspeção judicial, as partes têm sempre direito a assistir a diligência, sendo vedadas manifestações e observações, sob pena de interferir no livre convencimento do juiz."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "367972",
+    "metadata": "Ano: 2014 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Prova documental",
+      "Prova testemunhal",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "O princípio da imediação (ou imediatidade) consiste na contemporânea e contínua interação comunicacional entre juiz, partes e provas, a fim de que o julgador possa conhecer pessoal e diretamente as alegações das partes e o acervo probatório do processo, desde sua iniciação, prolatando, no mais breve lapso temporal, sua decisão. A alternativa na qual NÃO ocorre a incidência do referido princípio é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prova testemunhal."
+      },
+      {
+        "letra": "B",
+        "texto": "prova documental."
+      },
+      {
+        "letra": "C",
+        "texto": "interrogatório."
+      },
+      {
+        "letra": "D",
+        "texto": "depoimento pessoal do autor ou do réu."
+      },
+      {
+        "letra": "E",
+        "texto": "inspeção judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "363943",
+    "metadata": "Ano: 2014 | Banca: TRT 2R (SP) | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Teoria geral das provas",
+      "Procedimento ordinário",
+      "Confissão no CPC 1973",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "Em relação à prova, observe as proposições abaixo e responda a alternativa que contenha proposituras corretas:I. A chamada fase instrutória concentra de modo contundente os atos de instrução, os quais são destinados a recolher todos os elementos para que o juiz possa firmar seu convencimento e, assim, julgar a lide, de forma que divide-se em: (a) atos de prova e (b) alegações.II. A audiência de justificação prévia caracteriza-se por ser uma sessão em que se instrui pedido de providência urgente e poderá ocorrer para a análise da necessidade de concessão de medida cautelar ou tutela antecipada em qualquer tipo de procedimento e não somente no processo cautelar. III. O juiz considerará a parte confessa nas seguintes situações: (a) se admitir a verdade de um fato, contrário ao seu interesse e favorável ao adversário; (b) se comparecer e se recusar a depor; (c) se, intimada para prestar depoimento pessoal, deixar, injustificadamente, de comparecer; (d) se, sem motivo justificado, deixar de responder ao que lhe for perguntado, ou empregar evasivas, caso em que o juiz entenderá como recusa a depor.IV. A inspeção judicial é meio de prova em que o juiz pode inspecionar diretamente pessoas ou coisas desde que requerido expressamente pela parte interessada no momento oportuno. V. Incumbe às partes, no prazo de 5 (cinco) dias depositar em cartório o rol de testemunhas, precisando-lhes o nome, a profissão, residência e o local de trabalho.Está correta a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, IV e V"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "I,II,V."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "322674",
+    "metadata": "Ano: 2013 | Banca: CESPE / CEBRASPE | Órgão: SERPRO",
+    "categoria": "Direito Processual Civil - CPC 1973",
+    "subcategorias": [
+      "Procedimento ordinário",
+      "Depoimento pessoal",
+      "Prova documental",
+      "Inspeção Judicial no CPC 1973"
+    ],
+    "enunciado_principal": "Julgue os itens a seguir, acerca dos meios de prova aceitos pelo Código de Processo Civil (CPC).Os meios de prova aceitos pelo CPC incluem o depoimento pessoal, a exibição de documento ou coisa e a inspeção judicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]
