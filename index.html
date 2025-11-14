@@ -300,7 +300,6 @@
             selectTemaBtn.addEventListener('click', () => {
                 selectTemaList.classList.toggle('hidden');
                 selectDisciplinaList.classList.add('hidden');
-                if (!selectTemaList.classList.contains('hidden')) selectTemaSearch.focus();
             });
             selectTemaSearch.addEventListener('input', (e) => {
                 const termo = e.target.value.toLowerCase();
